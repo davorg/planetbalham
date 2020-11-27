@@ -1,0 +1,35 @@
+title: Planet Balham
+description: Life in SW12
+url: http://planetbalham.org.uk/
+author:
+  name: Dave Cross
+  email: dave@dave.org.uk
+entries: 30
+page:
+  file: index.html
+  template: index.tt
+feed:
+  file: atom.xml
+  format: Atom
+cache_dir: /tmp/balham
+feeds:
+  - url: https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2656580
+    title: weather
+  - url: https://api.flickr.com/services/feeds/photos_public.gne?tags=balham&format=atom
+    title: flickr
+  - url: http://balhambugle.blogspot.com/atom.xml
+    title: balham bugle
+  - url: https://news.google.com/news?q=balham&output=atom
+    title: google news
+  - url: http://theurbanpastor.wordpress.com/feed/
+    title: urban pastor
+  - url: https://blog.dave.org.uk/feed
+    title: davblog
+  - url: http://balhambou.blogspot.com/feeds/posts/default
+    title: balham bou
+  - url: http://aliceworld.blogspot.com/feeds/posts/default
+    title: alice's dark place
+  - url: http://theoreticalheuristics.blogspot.com/feeds/posts/default
+    title: wandsworth witterings
+  - url: http://vendazero.blogspot.com/feeds/posts/default
+    title: vendazero

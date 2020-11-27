@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Description" content="What's happening in SW12">
+<meta name="Keywords" content="balham,london,sw12" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Distribution" content="Global" />
+<meta name="Author" content="Dave Cross - dave@planetbalham.org.uk" />
+<meta name="Robots" content="index,follow" />
+
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://planetbalham.org.uk/atom.xml" />
+<link rel="stylesheet" href="images/HigherGround.css" type="text/css" />
+
+<title>[% cfg.title %]</title></head>
+[% titlebits = cfg.title.split(' ') -%]
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<div id="top-bg"></div>
+				
+	<!--header -->
+	<div id="header">			
+				
+		<h1 id="logo-text"><a href="index.html" title="">[% titlebits.0  | lower %]<span>[% titlebits.1 | lower %]</span></a></h1>		
+		<p id="slogan">[% cfg.description %]</p>		
+			
+		<div id="header-links">
+		<!-- <p>
+			<a href="index.html">Home</a> | 
+			<a href="index.html">Contact</a> | 
+			<a href="index.html">Site Map</a>			
+		</p> -->		
+		</div>		
+	<!--header ends-->					
+	</div>
+		
+	<div id="header-photo"></div>		
+		
+	<!-- navigation starts-->	
+	<div  id="nav">
+		<ul>
+			<li>&nbsp;</li>
+		<!--	<li id="current"><a href="index.html">Home</a></li>
+			<li><a href="index.html">Archives</a></li>
+			<li><a href="index.html">Downloads</a></li>
+			<li><a href="index.html">Services</a></li>
+			<li><a href="index.html">Support</a></li>
+			<li><a href="index.html">About</a></li> -->
+		</ul>
+	<!-- navigation ends-->	
+	</div>					
+			
+	<!-- content-wrap starts -->
+	<div id="content-wrap">
+	
+		<div id="main">
+[% FOREACH entry IN feed.entries -%]				
+[%   feedname = entry.feed.title; -%]
+			<h2><a href="[% entry.link | url | html %]">[% entry.title %]</a></h2>
+[% IF feedname -%]
+			<p class="post-info">From: [% feedname %]</p>
+[% END -%]
+[% IF feedname != 'twitter'; entry.content.body; END %]
+[% metadata = [];
+   IF entry.author;
+  metadata.push('By ' _ entry.author _ '.');
+   END -%]
+[% IF entry.issued;
+  metadata.push('Published on ' _ '<span class="date">' _ entry.issued.strftime('%a %d %b %H:%M %Z') _ '</span>');
+   END -%]
+[% IF entry.modified AND ! entry.issued;
+  metadata.push('Updated on ' _ '<span class="date">' _ entry.modified.strftime('%a %d %b %H:%M %Z') _ '</span>');
+   END -%]
+[% IF entry.modified AND entry.issued AND entry.modified.strftime('%Y%m%d%H%M') > entry.issued.strftime('%Y%m%d%H%M');
+  metadata.push('Updated on ' _ '<span class="date">' _ entry.modified.strftime('%a %d %b %H:%M %Z') _ '</span>');
+   END -%]
+[% IF metadata.size -%]
+    <p class="post-footer">[% metadata.join(' | ') %]</p>
+[% END -%]
+[% END -%]
+
+		<!-- main ends -->	
+		</div>
+				
+		<div id="sidebar">
+                  <h3>Subscribe<h3>
+      <p><a href="/atom.xml"><img alt="Feed" src="/feed.gif" /> Atom feed</a></p>
+
+      <h3>About</h3>
+
+      <p>Planet Balham automatically aggregates what people are writing about Balham from all over the web. None of what you see here is written by the owners of this site.</p>
+
+      <p>If you have any questions about the site, please contact <a href="http://twitter.com/davorg">@davorg</a> on Twitter.</p>
+
+      <h3>From The Makers Of</p>
+      <ul class="sidemenu">
+        <li><a href="http://theplanetarium.org/">The Planetarium</a></li>
+        <li><a href="http://balhamtwits.co.uk/">Balham Twits</a></li>
+        <li><a href="http://www.sw12.org">SW12.org</a></li>
+      </ul>
+
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3663319204757145";
+/* planet */
+google_ad_slot = "8413744374";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+		<!-- sidebar ends -->		
+		</div>		
+		
+		
+	<!-- content-wrap ends-->	
+	</div>
+		
+	<!-- footer starts -->		
+	<div id="footer-wrap">
+		<div id="footer-columns">
+	
+			<div class="col3">
+			</div>
+
+			<div class="col3-center">
+			</div>
+
+			<div class="col3">
+			</div>
+		<!-- footer-columns ends -->
+		</div>	
+	
+		<div id="footer-bottom">		
+    <p>By <a href="mailto:[% cfg.author.email %]">[% cfg.author.name | html %]</a> | Built at [% feed.modified.strftime('%A %d %B %H:%M:%S %Z') %] | Powered by <a href="http://perlanet.mag-sol.com/">Perlanet</a><br />
+    Design by: <a href="http://www.styleshout.com/">styleshout</a> | Original <a href="http://www.flickr.com/photos/rjw1/673880462/">Photo</a> by rjw1</p>
+			
+		</div>	
+
+<!-- footer ends-->
+</div>
+<!-- wrap ends here -->
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-56332-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
