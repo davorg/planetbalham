@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-11-29T12:53:35Z</updated>
+  <updated>2020-11-29T13:22:01Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-11-29T09:55:00.000+0000</id>
-    <published>2020-11-29T12:47:42Z</published>
-    <updated>2020-11-29T12:47:42Z</updated>
+    <published>2020-11-29T13:00:46Z</published>
+    <updated>2020-11-29T13:00:46Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 5°C (42°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 07:43 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-11-29T09:55:00.000+0000</id>
-    <published>2020-11-29T12:47:42Z</published>
-    <updated>2020-11-29T12:47:42Z</updated>
+    <published>2020-11-29T13:00:46Z</published>
+    <updated>2020-11-29T13:00:46Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-11-29T09:55:00.000+0000</id>
-    <published>2020-11-29T12:47:42Z</published>
-    <updated>2020-11-29T12:47:42Z</updated>
+    <published>2020-11-29T13:00:46Z</published>
+    <updated>2020-11-29T13:00:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGUtcmFpbHdheS10b3AtcXVhbGl0eS1ib296ZXItc2VydmluZy1mYW1pbGllcy1hbmQtdGhlLWNvbW11bml0eS_SAQA?oc=5</id>
@@ -201,37 +201,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/28083135@N06/50495804107/"/>
-    <id>tag:flickr.com,2005:/photo/50495804107</id>
-    <published>2020-10-16T21:52:41Z</published>
-    <updated>2020-10-16T21:52:41Z</updated>
-    <flickr:date_taken>1976-12-20T12:26:07-08:00</flickr:date_taken>
-    <dc:date.Taken>1976-12-20T12:26:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/28083135@N06/"&gt;Lost-Albion&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/28083135@N06/50495804107/" title="Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/50495804107_dc030f0ab1_m.jpg" width="240" height="105" alt="Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;4-SUB 4706 at Balham, working between Victoria and Epsom Downs on 20 December 1976.&lt;br /&gt;
-&lt;br /&gt;
-Pentax SP1000/55mm&lt;br /&gt;
-Ilford FP4&lt;/p&gt;</content>
-    <author>
-      <name>Lost-Albion</name>
-      <uri>https://www.flickr.com/people/28083135@N06/</uri>
-      <flickr:nsid>28083135@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1845/buddyicons/28083135@N06.jpg?1537728162#28083135@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50495804107_dc030f0ab1_b.jpg"/>
-    <category term="4sub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class405" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pentax" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1976" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>In Remembrance - Balham Underground Station</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50482702472/"/>
     <id>tag:flickr.com,2005:/photo/50482702472</id>
@@ -271,6 +240,54 @@ Balham, London&lt;br /&gt;
     <category term="remembrance" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Studio Lady</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/50392916311/"/>
+    <id>tag:flickr.com,2005:/photo/50392916311</id>
+    <published>2020-09-28T07:11:54Z</published>
+    <updated>2020-09-28T07:11:54Z</updated>
+    <flickr:date_taken>2020-09-27T09:54:44-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-09-27T09:54:44-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/50392916311/" title="Studio Lady"&gt;&lt;img src="https://live.staticflickr.com/65535/50392916311_3ed085db7c_m.jpg" width="155" height="240" alt="Studio Lady" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+A postally unused postcard produced by Davies &amp;amp; Thornton of 49,  Bedford Hill, Balham, and 29a, Electric Avenue, Brixton.&lt;br /&gt;
+&lt;br /&gt;
+The subject of the photograph has written across the divided back of the card:&lt;br /&gt;
+&lt;br /&gt;
+&amp;quot;To Lena with&lt;br /&gt;
+Best Love&amp;quot;.&lt;/p&gt;</content>
+    <author>
+      <name>pepandtim</name>
+      <uri>https://www.flickr.com/people/november_song/</uri>
+      <flickr:nsid>38123425@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50392916311_3ed085db7c_b.jpg"/>
+    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="studio" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lady" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="davies" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thornton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedford" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electric" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="avenue" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brixton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lena" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="36stu46" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
