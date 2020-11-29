@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-11-29T17:50:48Z</updated>
+  <updated>2020-11-29T18:23:42Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-11-29T09:55:00.000+0000</id>
-    <published>2020-11-29T17:01:29Z</published>
-    <updated>2020-11-29T17:01:29Z</updated>
+    <published>2020-11-29T18:00:57Z</published>
+    <updated>2020-11-29T18:00:57Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 5°C (42°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 07:43 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-11-29T09:55:00.000+0000</id>
-    <published>2020-11-29T17:01:29Z</published>
-    <updated>2020-11-29T17:01:29Z</updated>
+    <published>2020-11-29T18:00:57Z</published>
+    <updated>2020-11-29T18:00:57Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-11-29T09:55:00.000+0000</id>
-    <published>2020-11-29T17:01:29Z</published>
-    <updated>2020-11-29T17:01:29Z</updated>
+    <published>2020-11-29T18:00:57Z</published>
+    <updated>2020-11-29T18:00:57Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGUtcmFpbHdheS10b3AtcXVhbGl0eS1ib296ZXItc2VydmluZy1mYW1pbGllcy1hbmQtdGhlLWNvbW11bml0eS_SAQA?oc=5</id>
@@ -46,13 +46,6 @@
     <updated>2020-11-27T12:30:00.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/the-railway-top-quality-boozer-serving-families-and-the-community/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/the-railway-top-quality-boozer-serving-families-and-the-community/" target="_blank"&gt;The Railway – Top quality boozer serving families and the community&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LnNxdWF3a2EuY29tL2VuL2RpZWdvLW1hcmFkb25hLXRoZS1ncmVhdGVzdC10aGUtYmVzdC10aGUtYXJ0aXN0L9IBAA?oc=5</id>
-    <title type="html">Diego Maradona: "The greatest, the best, the artist" - Squawka</title>
-    <updated>2020-11-25T23:47:41.000000000Z</updated>
-    <link href="https://www.squawka.com/en/diego-maradona-the-greatest-the-best-the-artist/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.squawka.com/en/diego-maradona-the-greatest-the-best-the-artist/" target="_blank"&gt;Diego Maradona: "The greatest, the best, the artist"&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Squawka&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmZvb2RhbmR3aW5lLmNvbS9uZXdzL3RoaXMtZ2VybWFuLXJlc3RhdXJhbnQtaXMtcHJvdGVzdGluZy1zaHV0ZG93bnMtaW4tYS13YXktdGhhdHMtbm90LWNyZWVweS1hdC1hbGzSAXlodHRwczovL3d3dy5mb29kYW5kd2luZS5jb20vbmV3cy90aGlzLWdlcm1hbi1yZXN0YXVyYW50LWlzLXByb3Rlc3Rpbmctc2h1dGRvd25zLWluLWEtd2F5LXRoYXRzLW5vdC1jcmVlcHktYXQtYWxsP2FtcD10cnVl?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2020-11-25T12:32:00.000000000Z</updated>
     <link href="https://www.getsurrey.co.uk/news/surrey-news/balham-station-sexual-assault-tube-19343022" type="text/html"/>
     <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/balham-station-sexual-assault-tube-19343022" target="_blank"&gt;Manhunt after sex attack on the Tube on Northern Line London Underground train&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmJpZ2lzc3VlLmNvbS9sYXRlc3QvbmVlZC1zb21lLXBheS1nYXAtZmlsbGVyLWdlbmRlci1lcXVhbGl0eS1jaGFyaXR5LW9wZW5zLXNwb29mLW9ubGluZS1zdG9yZS_SAQA?oc=5</id>
+    <title type="html">Need some Pay Gap Filler? Gender equality charity opens (spoof) online store - Big Issue</title>
+    <updated>2020-11-25T00:16:26.000000000Z</updated>
+    <link href="https://www.bigissue.com/latest/need-some-pay-gap-filler-gender-equality-charity-opens-spoof-online-store/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bigissue.com/latest/need-some-pay-gap-filler-gender-equality-charity-opens-spoof-online-store/" target="_blank"&gt;Need some Pay Gap Filler? Gender equality charity opens (spoof) online store&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Big Issue&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl In The Garden #2</title>
