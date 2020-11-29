@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-11-29T19:20:05Z</updated>
+  <updated>2020-11-29T19:50:16Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2020-11-29T19:02:17Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGUtcmFpbHdheS10b3AtcXVhbGl0eS1ib296ZXItc2VydmluZy1mYW1pbGllcy1hbmQtdGhlLWNvbW11bml0eS_SAQA?oc=5</id>
-    <title type="html">The Railway – Top quality boozer serving families and the community - London News Online</title>
-    <updated>2020-11-27T12:30:00.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/the-railway-top-quality-boozer-serving-families-and-the-community/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/the-railway-top-quality-boozer-serving-families-and-the-community/" target="_blank"&gt;The Railway – Top quality boozer serving families and the community&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmZvb2RhbmR3aW5lLmNvbS9uZXdzL3RoaXMtZ2VybWFuLXJlc3RhdXJhbnQtaXMtcHJvdGVzdGluZy1zaHV0ZG93bnMtaW4tYS13YXktdGhhdHMtbm90LWNyZWVweS1hdC1hbGzSAXlodHRwczovL3d3dy5mb29kYW5kd2luZS5jb20vbmV3cy90aGlzLWdlcm1hbi1yZXN0YXVyYW50LWlzLXByb3Rlc3Rpbmctc2h1dGRvd25zLWluLWEtd2F5LXRoYXRzLW5vdC1jcmVlcHktYXQtYWxsP2FtcD10cnVl?oc=5</id>
     <title type="html">This German Restaurant Is Protesting Shutdowns in a Way That's Not Creepy At All - Food &amp; Wine</title>
     <updated>2020-11-25T21:01:08.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2020-11-25T00:16:26.000000000Z</updated>
     <link href="https://www.bigissue.com/latest/need-some-pay-gap-filler-gender-equality-charity-opens-spoof-online-store/" type="text/html"/>
     <content type="html">&lt;a href="https://www.bigissue.com/latest/need-some-pay-gap-filler-gender-equality-charity-opens-spoof-online-store/" target="_blank"&gt;Need some Pay Gap Filler? Gender equality charity opens (spoof) online store&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Big Issue&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9tYW4tb2ZmZXJlZC13b21hbi1kcnVncy1sb25kb24tMTkzNDA0MjbSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbWFuLW9mZmVyZWQtd29tYW4tZHJ1Z3MtbG9uZG9uLTE5MzQwNDI2LmFtcA?oc=5</id>
+    <title type="html">Man offered woman drugs on London Underground after he sexually assaulted her on Northern line - MyLondon</title>
+    <updated>2020-11-24T21:29:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/man-offered-woman-drugs-london-19340426" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/man-offered-woman-drugs-london-19340426" target="_blank"&gt;Man offered woman drugs on London Underground after he sexually assaulted her on Northern line&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl In The Garden #2</title>
