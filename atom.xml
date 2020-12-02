@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-02T05:23:50Z</updated>
+  <updated>2020-12-02T05:50:04Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://london-post.co.uk/twisted-london-launches-new-counter-service-and-delivery-site-at-asda-clapham/" target="_blank"&gt;Twisted London launches new counter service and delivery site at ASDA Clapham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London Post&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiECOClOs-CuZrYsDcsCaKAr0qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">Tooting author on how small changes can help the environment - South West Londoner</title>
+    <updated>2020-11-30T15:04:11.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/life/30112020-tooting-author-small-changes-help-the-environment/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/life/30112020-tooting-author-small-changes-help-the-environment/" target="_blank"&gt;Tooting author on how small changes can help the environment&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi01NTEyOTA1MNIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvdWstZW5nbGFuZC1sb25kb24tNTUxMjkwNTA?oc=5</id>
     <title type="html">Nóra Quoirin: Vanished girl's body 'showed no signs of assault' - BBC News</title>
     <updated>2020-11-30T10:26:00.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2020-11-25T21:01:08.000000000Z</updated>
     <link href="https://www.foodandwine.com/news/this-german-restaurant-is-protesting-shutdowns-in-a-way-thats-not-creepy-at-all" type="text/html"/>
     <content type="html">&lt;a href="https://www.foodandwine.com/news/this-german-restaurant-is-protesting-shutdowns-in-a-way-thats-not-creepy-at-all" target="_blank"&gt;This German Restaurant Is Protesting Shutdowns in a Way That's Not Creepy At All&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Food &amp; Wine&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJ1ZxPrrNb4_U42HTZctR4EqGQgEKhAIACoHCAowzc-JCzDQ5psDMLyzrQY?oc=5</id>
-    <title type="html">Manhunt launched after commuter sexually attacked on Tube - Metro.co.uk</title>
-    <updated>2020-11-25T18:26:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2020/11/25/manhunt-launched-after-commuter-sexually-attacked-on-tube-13653995/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2020/11/25/manhunt-launched-after-commuter-sexually-attacked-on-tube-13653995/" target="_blank"&gt;Manhunt launched after commuter sexually attacked on Tube&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl In The Garden #2</title>
