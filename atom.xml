@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-02T23:50:23Z</updated>
+  <updated>2020-12-03T01:00:41Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1004mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-02T21:49:00.000+0000</id>
-    <published>2020-12-02T23:07:02Z</published>
-    <updated>2020-12-02T23:07:02Z</updated>
+    <published>2020-12-03T00:07:39Z</published>
+    <updated>2020-12-03T00:07:39Z</updated>
   </entry>
   <entry>
     <title>Thursday: Heavy Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (44°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (39°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 990mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-02T21:49:00.000+0000</id>
-    <published>2020-12-02T23:07:02Z</published>
-    <updated>2020-12-02T23:07:02Z</updated>
+    <published>2020-12-03T00:07:39Z</published>
+    <updated>2020-12-03T00:07:39Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (40°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 974mb, Humidity: 98%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-02T21:49:00.000+0000</id>
-    <published>2020-12-02T23:07:02Z</published>
-    <updated>2020-12-02T23:07:02Z</updated>
+    <published>2020-12-03T00:07:39Z</published>
+    <updated>2020-12-03T00:07:39Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihwFodHRwczovL3d3dy5sZXR0aW5nYWdlbnR0b2RheS5jby51ay9icmVha2luZy1uZXdzLzIwMjAvMTIvbG9uZG9uLWFnZW5jeS1hY3F1aXJlcy10aGlyZC1pbmRlcGVuZGVudC1pbi11bmRlci0xMi1tb250aHM_c291cmNlPW5ld3N0aWNrZXLSAQA?oc=5</id>
+    <title type="html">London agency acquires third independent in under 12 ... - Letting Agent Today</title>
+    <updated>2020-12-03T00:06:18.000000000Z</updated>
+    <link href="https://www.lettingagenttoday.co.uk/breaking-news/2020/12/london-agency-acquires-third-independent-in-under-12-months?source=newsticker" type="text/html"/>
+    <content type="html">&lt;a href="https://www.lettingagenttoday.co.uk/breaking-news/2020/12/london-agency-acquires-third-independent-in-under-12-months?source=newsticker" target="_blank"&gt;London agency acquires third independent in under 12 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Letting Agent Today&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3Nob3BwaW5nL3Nob3Bsb25kb24vc2hvcC1sb25kb24tc21hbGwtYnVzaW5lc3Nlcy1mb29kLWFuZC1kcmluay1iMTM5OTEzLmh0bWzSAWtodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9zaG9wcGluZy9zaG9wbG9uZG9uL3Nob3AtbG9uZG9uLXNtYWxsLWJ1c2luZXNzZXMtZm9vZC1hbmQtZHJpbmstYjEzOTkxMy5odG1sP2FtcA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2020-11-30T21:51:00.000000000Z</updated>
     <link href="https://london-post.co.uk/twisted-london-launches-new-counter-service-and-delivery-site-at-asda-clapham/" type="text/html"/>
     <content type="html">&lt;a href="https://london-post.co.uk/twisted-london-launches-new-counter-service-and-delivery-site-at-asda-clapham/" target="_blank"&gt;Twisted London launches new counter service and delivery site at ASDA Clapham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London Post&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECOClOs-CuZrYsDcsCaKAr0qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Tooting author on how small changes can help the environment - South West Londoner</title>
-    <updated>2020-11-30T15:04:11.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/life/30112020-tooting-author-small-changes-help-the-environment/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/life/30112020-tooting-author-small-changes-help-the-environment/" target="_blank"&gt;Tooting author on how small changes can help the environment&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl In The Garden #2</title>
