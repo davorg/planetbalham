@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-05T17:35:41Z</updated>
+  <updated>2020-12-05T17:59:53Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 999mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 999mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-05T09:03:00.000+0000</id>
-    <published>2020-12-05T17:01:39Z</published>
-    <updated>2020-12-05T17:01:39Z</updated>
+    <published>2020-12-05T17:58:16Z</published>
+    <updated>2020-12-05T17:58:16Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thick Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 6°C (43°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-05T09:03:00.000+0000</id>
-    <published>2020-12-05T17:01:39Z</published>
-    <updated>2020-12-05T17:01:39Z</updated>
+    <published>2020-12-05T17:58:16Z</published>
+    <updated>2020-12-05T17:58:16Z</updated>
   </entry>
   <entry>
     <title>Monday: Thick Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (40°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-05T09:03:00.000+0000</id>
-    <published>2020-12-05T17:01:39Z</published>
-    <updated>2020-12-05T17:01:39Z</updated>
+    <published>2020-12-05T17:58:16Z</published>
+    <updated>2020-12-05T17:58:16Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE4OTIyMTU1LnNob3ctc3VwcG9ydC1zbWFsbC1idXNpbmVzcy1zYXR1cmRheS_SAQA?oc=5</id>
