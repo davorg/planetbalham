@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-05T23:59:36Z</updated>
+  <updated>2020-12-06T01:17:12Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 3°C (38°F)</title>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-05T21:48:00.000+0000</id>
-    <published>2020-12-05T23:56:45Z</published>
-    <updated>2020-12-05T23:56:45Z</updated>
+    <published>2020-12-06T01:03:00Z</published>
+    <updated>2020-12-06T01:03:00Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thick Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 6°C (43°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1002mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-05T21:48:00.000+0000</id>
-    <published>2020-12-05T23:56:45Z</published>
-    <updated>2020-12-05T23:56:45Z</updated>
+    <published>2020-12-06T01:03:00Z</published>
+    <updated>2020-12-06T01:03:00Z</updated>
   </entry>
   <entry>
     <title>Monday: Thick Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 3°C (38°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 999mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-05T21:48:00.000+0000</id>
-    <published>2020-12-05T23:56:45Z</published>
-    <updated>2020-12-05T23:56:45Z</updated>
+    <published>2020-12-06T01:03:00Z</published>
+    <updated>2020-12-06T01:03:00Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE4OTIyMTU1LnNob3ctc3VwcG9ydC1zbWFsbC1idXNpbmVzcy1zYXR1cmRheS_SAQA?oc=5</id>
