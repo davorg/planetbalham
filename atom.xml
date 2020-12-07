@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-07T20:35:29Z</updated>
+  <updated>2020-12-07T20:59:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Heavy Rain Showers, Minimum Temperature: 1°C (35°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 1°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (35°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (35°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-07T09:55:00.000+0000</id>
-    <published>2020-12-07T20:03:38Z</published>
-    <updated>2020-12-07T20:03:38Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-07T19:53:00.000+0000</id>
+    <published>2020-12-07T20:43:48Z</published>
+    <updated>2020-12-07T20:43:48Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (41°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-07T09:55:00.000+0000</id>
-    <published>2020-12-07T20:03:38Z</published>
-    <updated>2020-12-07T20:03:38Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-07T19:53:00.000+0000</id>
+    <published>2020-12-07T20:43:48Z</published>
+    <updated>2020-12-07T20:43:48Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (44°F)</title>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1006mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-07T09:55:00.000+0000</id>
-    <published>2020-12-07T20:03:38Z</published>
-    <updated>2020-12-07T20:03:38Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-07T19:53:00.000+0000</id>
+    <published>2020-12-07T20:43:48Z</published>
+    <updated>2020-12-07T20:43:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMC8xMi8wNy90cmFtcy1tYXJrLWFycml2YWwtYXQtY3J5c3RhbC1wYWxhY2Utd2l0aC1tZW1vcmFibGUtY29tZWJhY2sv0gFmaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIwLzEyLzA3L3RyYW1zLW1hcmstYXJyaXZhbC1hdC1jcnlzdGFsLXBhbGFjZS13aXRoLW1lbW9yYWJsZS1jb21lYmFjay9hbXAv?oc=5</id>
