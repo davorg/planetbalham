@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-07T09:37:52Z</updated>
+  <updated>2020-12-07T10:02:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -231,45 +231,33 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>In Remembrance - Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50482702472/"/>
-    <id>tag:flickr.com,2005:/photo/50482702472</id>
-    <published>2020-10-14T19:04:23Z</published>
-    <updated>2020-10-14T19:04:23Z</updated>
-    <flickr:date_taken>2020-10-14T07:23:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-10-14T07:23:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/28083135@N06/50495804107/"/>
+    <id>tag:flickr.com,2005:/photo/50495804107</id>
+    <published>2020-10-16T21:52:41Z</published>
+    <updated>2020-10-16T21:52:41Z</updated>
+    <flickr:date_taken>1976-12-20T12:26:07-08:00</flickr:date_taken>
+    <dc:date.Taken>1976-12-20T12:26:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/28083135@N06/"&gt;Lost-Albion&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50482702472/" title="In Remembrance - Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50482702472_0d055e57dd_m.jpg" width="240" height="240" alt="In Remembrance - Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/28083135@N06/50495804107/" title="Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/50495804107_dc030f0ab1_m.jpg" width="240" height="105" alt="Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Today is the 80th anniversary of a bomb landing in Balham High Road at 8:02pm on 14th October 1940 which resulted in over 65 civilians and London Transport staff being killed.  &lt;br /&gt;
-&lt;a href="https://www.ianvisits.co.uk/blog/2015/10/14/75th-anniversary-of-the-balham-tube-disaster/" rel="noreferrer nofollow"&gt;www.ianvisits.co.uk/blog/2015/10/14/75th-anniversary-of-t...&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;4-SUB 4706 at Balham, working between Victoria and Epsom Downs on 20 December 1976.&lt;br /&gt;
 &lt;br /&gt;
-Balham, London&lt;br /&gt;
-14 October 2020&lt;/p&gt;</content>
+Pentax SP1000/55mm&lt;br /&gt;
+Ilford FP4&lt;/p&gt;</content>
     <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
+      <name>Lost-Albion</name>
+      <uri>https://www.flickr.com/people/28083135@N06/</uri>
+      <flickr:nsid>28083135@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1845/buddyicons/28083135@N06.jpg?1537728162#28083135@N06</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50482702472_0d055e57dd_b.jpg"/>
-    <category term="14october1940" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="20201014" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50495804107_dc030f0ab1_b.jpg"/>
+    <category term="4sub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class405" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wwii" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blitz" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="memorial" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="plaque" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="remembrance" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pentax" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1976" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
