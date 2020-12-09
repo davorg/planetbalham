@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-09T04:42:46Z</updated>
+  <updated>2020-12-09T05:04:39Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 5°C (41°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1006mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (40°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1007mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-08T21:49:00.000+0000</id>
-    <published>2020-12-09T04:18:26Z</published>
-    <updated>2020-12-09T04:18:26Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Rain Showers, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (45°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (40°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1007mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 15:52 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-08T21:49:00.000+0000</id>
-    <published>2020-12-09T04:18:26Z</published>
-    <updated>2020-12-09T04:18:26Z</updated>
+    <published>2020-12-09T05:03:13Z</published>
+    <updated>2020-12-09T05:03:13Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thick Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 8°C (46°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1002mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 15:52 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-08T21:49:00.000+0000</id>
+    <published>2020-12-09T05:03:13Z</published>
+    <updated>2020-12-09T05:03:13Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1002mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 986mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-08T21:49:00.000+0000</id>
-    <published>2020-12-09T04:18:26Z</published>
-    <updated>2020-12-09T04:18:26Z</updated>
+    <published>2020-12-09T05:03:13Z</published>
+    <updated>2020-12-09T05:03:13Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEERYBjKSv-oujlpF5dZHWMcqFwgEKg8IACoHCAow-4fWBzD4z0gwott6?oc=5</id>
+    <title type="html">My First Million: Clare Harris, founder Talking Tables - Financial Times</title>
+    <updated>2020-12-09T05:00:00.000000000Z</updated>
+    <link href="https://www.ft.com/content/5a681e8d-6744-40fe-83d6-c160d13d8bc2" type="text/html"/>
+    <content type="html">&lt;a href="https://www.ft.com/content/5a681e8d-6744-40fe-83d6-c160d13d8bc2" target="_blank"&gt;My First Million: Clare Harris, founder Talking Tables&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Financial Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEC_Yb0eWF9ryvB0l4hhBKugqGAgEKg8IACoHCAowmdygCTDvz3Awy8WLAw?oc=5</id>
@@ -97,13 +104,6 @@
     <updated>2020-12-03T13:01:34.000000000Z</updated>
     <link href="https://www.thegrocer.co.uk/store-design/asda-launches-new-cafe-concept-with-twisted-london/650933.article" type="text/html"/>
     <content type="html">&lt;a href="https://www.thegrocer.co.uk/store-design/asda-launches-new-cafe-concept-with-twisted-london/650933.article" target="_blank"&gt;Asda launches new café concept with Twisted London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Grocer&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxldHRpbmdhZ2VudHRvZGF5LmNvLnVrL2JyZWFraW5nLW5ld3MvMjAyMC8xMi9sb25kb24tYWdlbmN5LWFjcXVpcmVzLXRoaXJkLWluZGVwZW5kZW50LWluLXVuZGVyLTEyLW1vbnRoc9IBAA?oc=5</id>
-    <title type="html">London agency acquires third independent in under 12 ... - Letting Agent Today</title>
-    <updated>2020-12-03T00:10:13.000000000Z</updated>
-    <link href="https://www.lettingagenttoday.co.uk/breaking-news/2020/12/london-agency-acquires-third-independent-in-under-12-months" type="text/html"/>
-    <content type="html">&lt;a href="https://www.lettingagenttoday.co.uk/breaking-news/2020/12/london-agency-acquires-third-independent-in-under-12-months" target="_blank"&gt;London agency acquires third independent in under 12 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Letting Agent Today&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl In The Garden #2</title>
