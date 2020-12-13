@@ -7,45 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-13T08:43:10Z</updated>
+  <updated>2020-12-13T09:04:02Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 10°C (51°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Heavy Rain, Minimum Temperature: 10°C (51°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1002mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1002mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-12T21:51:00.000+0000</id>
-    <published>2020-12-13T08:01:01Z</published>
-    <updated>2020-12-13T08:01:01Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-13T07:00:00.000+0000</id>
+    <published>2020-12-13T09:02:53Z</published>
+    <updated>2020-12-13T09:02:53Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1000mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 07:59 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1000mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 07:59 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-12T21:51:00.000+0000</id>
-    <published>2020-12-13T08:01:01Z</published>
-    <updated>2020-12-13T08:01:01Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-13T07:00:00.000+0000</id>
+    <published>2020-12-13T09:02:53Z</published>
+    <updated>2020-12-13T09:02:53Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1005mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-12T21:51:00.000+0000</id>
-    <published>2020-12-13T08:01:01Z</published>
-    <updated>2020-12-13T08:01:01Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvaW50ZXJuYXRpb25hbC1iYXJyb2NhLWJvb3N0LWZvci1kYW5pZWxzLWFuZC1tYXJpLTU4ODg2Ni_SAQA?oc=5</id>
-    <title type="html">INTERNATIONAL: Barroca boost for Daniels and Mari - The Irish Field</title>
-    <updated>2020-12-11T16:53:49.000000000Z</updated>
-    <link href="https://www.theirishfield.ie/international-barroca-boost-for-daniels-and-mari-588866/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theirishfield.ie/international-barroca-boost-for-daniels-and-mari-588866/" target="_blank"&gt;INTERNATIONAL: Barroca boost for Daniels and Mari&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish Field&lt;/font&gt;</content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-13T07:00:00.000+0000</id>
+    <published>2020-12-13T09:02:53Z</published>
+    <updated>2020-12-13T09:02:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJtNGAxFhU7E1mXuRCf9538qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2020-12-09T11:05:00.000000000Z</updated>
     <link href="https://www.bbc.com/news/uk-england-london-55181496" type="text/html"/>
     <content type="html">&lt;a href="https://www.bbc.com/news/uk-england-london-55181496" target="_blank"&gt;Nóra Quoirin: Male DNA found on cigarette butts near body&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEC_Yb0eWF9ryvB0l4hhBKugqGAgEKg8IACoHCAowmdygCTDvz3Awy8WLAw?oc=5</id>
+    <title type="html">GMB's Susanna Reid's home is so feminine – see inside - HELLO!</title>
+    <updated>2020-12-08T14:52:12.000000000Z</updated>
+    <link href="https://www.hellomagazine.com/homes/20201208102338/gmb-susanna-reid-home-inside-photos/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hellomagazine.com/homes/20201208102338/gmb-susanna-reid-home-inside-photos/" target="_blank"&gt;GMB's Susanna Reid's home is so feminine – see inside&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DSC_0072_POST2</title>
