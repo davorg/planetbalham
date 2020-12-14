@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-14T18:37:31Z</updated>
+  <updated>2020-12-14T19:07:30Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 7°C (45°F)</title>
+    <title>Tonight: Heavy Rain, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1002mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1002mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-14T09:53:00.000+0000</id>
-    <published>2020-12-14T18:05:07Z</published>
-    <updated>2020-12-14T18:05:07Z</updated>
+    <published>2020-12-14T19:06:04Z</published>
+    <updated>2020-12-14T19:06:04Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-14T09:53:00.000+0000</id>
-    <published>2020-12-14T18:05:07Z</published>
-    <updated>2020-12-14T18:05:07Z</updated>
+    <published>2020-12-14T19:06:04Z</published>
+    <updated>2020-12-14T19:06:04Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1008mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-14T09:53:00.000+0000</id>
-    <published>2020-12-14T18:05:07Z</published>
-    <updated>2020-12-14T18:05:07Z</updated>
+    <published>2020-12-14T19:06:04Z</published>
+    <updated>2020-12-14T19:06:04Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoZW5ld2V1cm9wZWFuLmNvLnVrL2JyZXhpdC1uZXdzL2NvdmlkLXRpZXJzLWFuZC1oaXN0b3JpYy1jb3VudHktYm91bmRhcmllcy02NjAxMTUy0gEA?oc=5</id>
@@ -61,20 +61,147 @@
     <link href="https://www.hellomagazine.com/homes/20201208102338/gmb-susanna-reid-home-inside-photos/" type="text/html"/>
     <content type="html">&lt;a href="https://www.hellomagazine.com/homes/20201208102338/gmb-susanna-reid-home-inside-photos/" target="_blank"&gt;GMB's Susanna Reid's home is so feminine – see inside&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>DSC_0072_POST2</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sfeest/50685637358/"/>
+    <id>tag:flickr.com,2005:/photo/50685637358</id>
+    <published>2020-12-06T12:45:03Z</published>
+    <updated>2020-12-06T12:45:03Z</updated>
+    <flickr:date_taken>2009-12-12T21:33:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2009-12-12T21:33:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/sfeest/"&gt;stephen.feest&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/sfeest/50685637358/" title="DSC_0072_POST2"&gt;&lt;img src="https://live.staticflickr.com/65535/50685637358_206f42f16d_m.jpg" width="160" height="240" alt="DSC_0072_POST2" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham Underground Station, London SW12&lt;/p&gt;</content>
+    <author>
+      <name>stephen.feest</name>
+      <uri>https://www.flickr.com/people/sfeest/</uri>
+      <flickr:nsid>33187409@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1741/buddyicons/33187409@N00.jpg?1528670497#33187409@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50685637358_206f42f16d_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="undergoundstation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMikQFodHRwczovL3d3dy5iZWRmb3JkdG9kYXkuY28udWsvbGlmZXN0eWxlL2NocmlzdG1hcy9iZWRmb3JkLXNpc3RlcnMtd2hvLWNyZWF0ZWQtYnVzaW5lc3MtZHVyaW5nLWZpcnN0LWxvY2tkb3duLWxhdW5jaC1mZXN0aXZlLWNhbmRsZS1yYW5nZS0zMDU0MDA20gGVAWh0dHBzOi8vd3d3LmJlZGZvcmR0b2RheS5jby51ay9saWZlc3R5bGUvY2hyaXN0bWFzL2JlZGZvcmQtc2lzdGVycy13aG8tY3JlYXRlZC1idXNpbmVzcy1kdXJpbmctZmlyc3QtbG9ja2Rvd24tbGF1bmNoLWZlc3RpdmUtY2FuZGxlLXJhbmdlLTMwNTQwMDY_YW1w?oc=5</id>
-    <title type="html">Bedford sisters who created business during first lockdown launch festive candle range - Bedford Today</title>
-    <updated>2020-12-01T08:00:00.000000000Z</updated>
-    <link href="https://www.bedfordtoday.co.uk/lifestyle/christmas/bedford-sisters-who-created-business-during-first-lockdown-launch-festive-candle-range-3054006" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bedfordtoday.co.uk/lifestyle/christmas/bedford-sisters-who-created-business-during-first-lockdown-launch-festive-candle-range-3054006" target="_blank"&gt;Bedford sisters who created business during first lockdown launch festive candle range&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bedford Today&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoZWdyb2Nlci5jby51ay9zdG9yZS1kZXNpZ24vYXNkYS1sYXVuY2hlcy1uZXctY2FmZS1jb25jZXB0LXdpdGgtdHdpc3RlZC1sb25kb24vNjUwOTMzLmFydGljbGXSAQA?oc=5</id>
+    <title type="html">Asda launches new café concept with Twisted London - The Grocer</title>
+    <updated>2020-12-03T08:00:00.000000000Z</updated>
+    <link href="https://www.thegrocer.co.uk/store-design/asda-launches-new-cafe-concept-with-twisted-london/650933.article" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thegrocer.co.uk/store-design/asda-launches-new-cafe-concept-with-twisted-london/650933.article" target="_blank"&gt;Asda launches new café concept with Twisted London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Grocer&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEJ1ZxPrrNb4_U42HTZctR4EqGQgEKhAIACoHCAowzc-JCzDQ5psDMLyzrQY?oc=5</id>
-    <title type="html">Manhunt launched after commuter sexually attacked on Tube - Metro.co.uk</title>
-    <updated>2020-11-25T08:00:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2020/11/25/manhunt-launched-after-commuter-sexually-attacked-on-tube-13653995/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2020/11/25/manhunt-launched-after-commuter-sexually-attacked-on-tube-13653995/" target="_blank"&gt;Manhunt launched after commuter sexually attacked on Tube&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vcHJvcGVydHlpbmR1c3RyeWV5ZS5jb20vc2FtdWVsLWVzdGF0ZXMtYWNxdWlyZXMta2V5aG9sZC1wcm9wZXJ0eS1tYW5hZ2VtZW50L9IBAA?oc=5</id>
+    <title type="html">Samuel Estates buys Keyhold Property Management – Property Industry Eye - Property Industry Eye</title>
+    <updated>2020-12-03T08:00:00.000000000Z</updated>
+    <link href="https://propertyindustryeye.com/samuel-estates-acquires-keyhold-property-management/" type="text/html"/>
+    <content type="html">&lt;a href="https://propertyindustryeye.com/samuel-estates-acquires-keyhold-property-management/" target="_blank"&gt;Samuel Estates buys Keyhold Property Management – Property Industry Eye&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Property Industry Eye&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl In The Garden #2</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50622451452/"/>
+    <id>tag:flickr.com,2005:/photo/50622451452</id>
+    <published>2020-11-19T22:55:25Z</published>
+    <updated>2020-11-19T22:55:25Z</updated>
+    <flickr:date_taken>2020-07-31T00:38:12-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-07-31T00:38:12-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50622451452/" title="Girl In The Garden #2"&gt;&lt;img src="https://live.staticflickr.com/65535/50622451452_0d67390320_m.jpg" width="240" height="159" alt="Girl In The Garden #2" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>The_Kevster</name>
+      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
+      <flickr:nsid>64151671@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50622451452_0d67390320_b.jpg"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trees" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="seated" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="smile" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="happy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="relaxation" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl in the Garden</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50611812501/"/>
+    <id>tag:flickr.com,2005:/photo/50611812501</id>
+    <published>2020-11-17T01:13:31Z</published>
+    <updated>2020-11-17T01:13:31Z</updated>
+    <flickr:date_taken>2020-07-31T00:43:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-07-31T00:43:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50611812501/" title="Girl in the Garden"&gt;&lt;img src="https://live.staticflickr.com/65535/50611812501_b09806da52_m.jpg" width="171" height="240" alt="Girl in the Garden" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>The_Kevster</name>
+      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
+      <flickr:nsid>64151671@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50611812501_b09806da52_b.jpg"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gaze" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jewellery" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="headscarf" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nigerian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="closeup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="quadrafon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="quadrafonmusicindustries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mercury" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mercuryinretrograde" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunlight" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Providing Best Curry In Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/190686906@N05/50543320106/"/>
@@ -131,169 +258,6 @@ Ilford FP4&lt;/p&gt;</content>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="pentax" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1976" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>In Remembrance - Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50482702472/"/>
-    <id>tag:flickr.com,2005:/photo/50482702472</id>
-    <published>2020-10-14T19:04:23Z</published>
-    <updated>2020-10-14T19:04:23Z</updated>
-    <flickr:date_taken>2020-10-14T07:23:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-10-14T07:23:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50482702472/" title="In Remembrance - Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50482702472_0d055e57dd_m.jpg" width="240" height="240" alt="In Remembrance - Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Today is the 80th anniversary of a bomb landing in Balham High Road at 8:02pm on 14th October 1940 which resulted in over 65 civilians and London Transport staff being killed.  &lt;br /&gt;
-&lt;a href="https://www.ianvisits.co.uk/blog/2015/10/14/75th-anniversary-of-the-balham-tube-disaster/" rel="noreferrer nofollow"&gt;www.ianvisits.co.uk/blog/2015/10/14/75th-anniversary-of-t...&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-Balham, London&lt;br /&gt;
-14 October 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50482702472_0d055e57dd_b.jpg"/>
-    <category term="14october1940" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="20201014" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wwii" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blitz" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="memorial" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="plaque" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="remembrance" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Studio Lady</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/50392916311/"/>
-    <id>tag:flickr.com,2005:/photo/50392916311</id>
-    <published>2020-09-28T07:11:54Z</published>
-    <updated>2020-09-28T07:11:54Z</updated>
-    <flickr:date_taken>2020-09-27T09:54:44-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-09-27T09:54:44-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/50392916311/" title="Studio Lady"&gt;&lt;img src="https://live.staticflickr.com/65535/50392916311_3ed085db7c_m.jpg" width="155" height="240" alt="Studio Lady" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-A postally unused postcard produced by Davies &amp;amp; Thornton of 49,  Bedford Hill, Balham, and 29a, Electric Avenue, Brixton.&lt;br /&gt;
-&lt;br /&gt;
-The subject of the photograph has written across the divided back of the card:&lt;br /&gt;
-&lt;br /&gt;
-&amp;quot;To Lena with&lt;br /&gt;
-Best Love&amp;quot;.&lt;/p&gt;</content>
-    <author>
-      <name>pepandtim</name>
-      <uri>https://www.flickr.com/people/november_song/</uri>
-      <flickr:nsid>38123425@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50392916311_3ed085db7c_b.jpg"/>
-    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="studio" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lady" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="davies" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thornton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedford" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="electric" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="avenue" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brixton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lena" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="36stu46" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham - Nightingale Lane</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/50388937357/"/>
-    <id>tag:flickr.com,2005:/photo/50388937357</id>
-    <published>2020-09-27T08:29:35Z</published>
-    <updated>2020-09-27T08:29:35Z</updated>
-    <flickr:date_taken>2020-09-26T20:50:00-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-09-26T20:50:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/50388937357/" title="Balham - Nightingale Lane"&gt;&lt;img src="https://live.staticflickr.com/65535/50388937357_ce9fb552b5_m.jpg" width="240" height="150" alt="Balham - Nightingale Lane" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-A Wrench Series card that was printed in Saxony. The card was posted in Tooting, London on the 23rd. July, although the year of posting is not legible. &lt;br /&gt;
-&lt;br /&gt;
-We know however that it was before June 1918, because a ½d. stamp had been used to post the card. The postal rate was doubled to 1d. on the 3rd. June 1918 in order to help pay for the Great War.&lt;br /&gt;
-&lt;br /&gt;
-The card was posted to:&lt;br /&gt;
-&lt;br /&gt;
-Miss Jane Figgest,&lt;br /&gt;
-51, Streathbourne Road,&lt;br /&gt;
-Balham.&lt;br /&gt;
-Local.&lt;br /&gt;
-&lt;br /&gt;
-The message on the divided back of the card was as follows:&lt;br /&gt;
-&lt;br /&gt;
-&amp;quot;Dear Jane,&lt;br /&gt;
-Will you let me know by&lt;br /&gt;
-return of post what&lt;br /&gt;
-evening you are having&lt;br /&gt;
-so that I can ask if I can&lt;br /&gt;
-come out the same&lt;br /&gt;
-evening.&lt;br /&gt;
-Don't Forget.&lt;br /&gt;
-With love,&lt;br /&gt;
-Annie Lynwood,&lt;br /&gt;
-65 High Road,&lt;br /&gt;
-Tooting.&lt;br /&gt;
-&lt;br /&gt;
-It sounds as if Jane and Annie were both in service.&lt;/p&gt;</content>
-    <author>
-      <name>pepandtim</name>
-      <uri>https://www.flickr.com/people/november_song/</uri>
-      <flickr:nsid>38123425@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50388937357_ce9fb552b5_b.jpg"/>
-    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nightingale" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrench" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="series" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="printed" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="saxony" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="great" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="war" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="figgest" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streathbourne" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="high" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="38bnl92" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
