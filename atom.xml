@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-14T14:40:32Z</updated>
+  <updated>2020-12-14T15:01:39Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1001mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 07:59 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-14T09:53:00.000+0000</id>
-    <published>2020-12-14T14:02:14Z</published>
-    <updated>2020-12-14T14:02:14Z</updated>
+    <published>2020-12-14T14:59:20Z</published>
+    <updated>2020-12-14T14:59:20Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-14T09:53:00.000+0000</id>
-    <published>2020-12-14T14:02:14Z</published>
-    <updated>2020-12-14T14:02:14Z</updated>
+    <published>2020-12-14T14:59:20Z</published>
+    <updated>2020-12-14T14:59:20Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1008mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-14T09:53:00.000+0000</id>
-    <published>2020-12-14T14:02:14Z</published>
-    <updated>2020-12-14T14:02:14Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJtNGAxFhU7E1mXuRCf9538qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Balham academy one of 600 schools to receive black British history book - South West Londoner</title>
-    <updated>2020-12-11T16:29:00.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/12112020-balham-academy-receives-black-british-history-book/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/12112020-balham-academy-receives-black-british-history-book/" target="_blank"&gt;Balham academy one of 600 schools to receive black British history book&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+    <published>2020-12-14T14:59:20Z</published>
+    <updated>2020-12-14T14:59:20Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoZW5ld2V1cm9wZWFuLmNvLnVrL2JyZXhpdC1uZXdzL2NvdmlkLXRpZXJzLWFuZC1oaXN0b3JpYy1jb3VudHktYm91bmRhcmllcy02NjAxMTUy0gEA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2020-12-08T14:52:12.000000000Z</updated>
     <link href="https://www.hellomagazine.com/homes/20201208102338/gmb-susanna-reid-home-inside-photos/" type="text/html"/>
     <content type="html">&lt;a href="https://www.hellomagazine.com/homes/20201208102338/gmb-susanna-reid-home-inside-photos/" target="_blank"&gt;GMB's Susanna Reid's home is so feminine – see inside&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMC8xMi8wNy90cmFtcy1tYXJrLWFycml2YWwtYXQtY3J5c3RhbC1wYWxhY2Utd2l0aC1tZW1vcmFibGUtY29tZWJhY2sv0gFmaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIwLzEyLzA3L3RyYW1zLW1hcmstYXJyaXZhbC1hdC1jcnlzdGFsLXBhbGFjZS13aXRoLW1lbW9yYWJsZS1jb21lYmFjay9hbXAv?oc=5</id>
+    <title type="html">Trams mark arrival at Crystal Palace with memorable comeback - Inside Croydon</title>
+    <updated>2020-12-07T11:37:22.000000000Z</updated>
+    <link href="https://insidecroydon.com/2020/12/07/trams-mark-arrival-at-crystal-palace-with-memorable-comeback/" type="text/html"/>
+    <content type="html">&lt;a href="https://insidecroydon.com/2020/12/07/trams-mark-arrival-at-crystal-palace-with-memorable-comeback/" target="_blank"&gt;Trams mark arrival at Crystal Palace with memorable comeback&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DSC_0072_POST2</title>
