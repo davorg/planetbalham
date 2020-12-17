@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-17T01:12:51Z</updated>
+  <updated>2020-12-17T02:14:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 7°C (45°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1011mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1011mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-16T21:50:00.000+0000</id>
-    <published>2020-12-17T01:00:48Z</published>
-    <updated>2020-12-17T01:00:48Z</updated>
+    <published>2020-12-17T02:01:13Z</published>
+    <updated>2020-12-17T02:01:13Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1015mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-16T21:50:00.000+0000</id>
-    <published>2020-12-17T01:00:48Z</published>
-    <updated>2020-12-17T01:00:48Z</updated>
+    <published>2020-12-17T02:01:13Z</published>
+    <updated>2020-12-17T02:01:13Z</updated>
   </entry>
   <entry>
     <title>Friday: Thick Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1011mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-16T21:50:00.000+0000</id>
-    <published>2020-12-17T01:00:48Z</published>
-    <updated>2020-12-17T01:00:48Z</updated>
+    <published>2020-12-17T02:01:13Z</published>
+    <updated>2020-12-17T02:01:13Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
@@ -146,13 +146,6 @@
     <link href="https://www.proactiveinvestors.co.uk/companies/news/936681/the-restaurant-group-says-wagamama-revenue-drops-21-in-summer-quarter-936681.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.proactiveinvestors.co.uk/companies/news/936681/the-restaurant-group-says-wagamama-revenue-drops-21-in-summer-quarter-936681.html" target="_blank"&gt;The Restaurant Group says Wagamama revenue drops 21% in summer quarter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Proactive Investors UK&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmV5cmV0cmlidW5lLmNvbS5hdS9zdG9yeS83MDQxMzA4L3JlYXNvbnMtd2h5LXdlLWFsbC1hZG9yZS1hZGVsYWlkZS8_Y3M9MTA3NTDSAQA?oc=5</id>
-    <title type="html">Discover Australia's most liveable city . . . . Adelaide - Eyre Peninsula Tribune</title>
-    <updated>2020-12-16T02:30:00.000000000Z</updated>
-    <link href="https://www.eyretribune.com.au/story/7041308/reasons-why-we-all-adore-adelaide/?cs=10750" type="text/html"/>
-    <content type="html">&lt;a href="https://www.eyretribune.com.au/story/7041308/reasons-why-we-all-adore-adelaide/?cs=10750" target="_blank"&gt;Discover Australia's most liveable city . . . . Adelaide&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eyre Peninsula Tribune&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
@@ -179,6 +172,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoZW5ld2V1cm9wZWFuLmNvLnVrL2JyZXhpdC1uZXdzL2NvdmlkLXRpZXJzLWFuZC1oaXN0b3JpYy1jb3VudHktYm91bmRhcmllcy02NjAxMTUy0gEA?oc=5</id>
+    <title type="html">How Covid-19 tiers are sparking an identity crisis in Britain - The New European</title>
+    <updated>2020-12-11T07:00:00.000000000Z</updated>
+    <link href="https://www.theneweuropean.co.uk/brexit-news/covid-tiers-and-historic-county-boundaries-6601152" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theneweuropean.co.uk/brexit-news/covid-tiers-and-historic-county-boundaries-6601152" target="_blank"&gt;How Covid-19 tiers are sparking an identity crisis in Britain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The New European&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DSC_0072_POST2</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sfeest/50685637358/"/>
