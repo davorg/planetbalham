@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-18T11:53:45Z</updated>
+  <updated>2020-12-18T12:40:37Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 10°C (51°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1010mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-18T09:53:00.000+0000</id>
-    <published>2020-12-18T11:21:21Z</published>
-    <updated>2020-12-18T11:21:21Z</updated>
+    <published>2020-12-18T12:22:17Z</published>
+    <updated>2020-12-18T12:22:17Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-18T09:53:00.000+0000</id>
-    <published>2020-12-18T11:21:21Z</published>
-    <updated>2020-12-18T11:21:21Z</updated>
+    <published>2020-12-18T12:22:17Z</published>
+    <updated>2020-12-18T12:22:17Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1014mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-18T09:53:00.000+0000</id>
-    <published>2020-12-18T11:21:21Z</published>
-    <updated>2020-12-18T11:21:21Z</updated>
+    <published>2020-12-18T12:22:17Z</published>
+    <updated>2020-12-18T12:22:17Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93YXMtaGUtYmxpbmQtb3Itd2FzLWl0LW11cmRlci_SAQA?oc=5</id>
+    <title type="html">Was he blind or was it murder? - London News Online</title>
+    <updated>2020-12-18T12:00:00.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/was-he-blind-or-was-it-murder/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/was-he-blind-or-was-it-murder/" target="_blank"&gt;Was he blind or was it murder?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnRoZWNhdGVyZXIuY29tL2J1c2luZXNzL2FkdmljZS90aGluay1vdXRzaWRlLXRoZS1ib3gtb3V0c2lkZS1zZXJ2aWNl0gEA?oc=5</id>
@@ -145,13 +152,6 @@
     <updated>2020-12-16T12:21:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/18948253.appeal-army-volunteers-cancer-research-shops/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/18948253.appeal-army-volunteers-cancer-research-shops/" target="_blank"&gt;Cancer Research UK calls for army of volunteers in South West London shops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS9hZ2FpbnN0LWFsbC1vZGRzLXRoZS1iZXN0LXJlc3RhdXJhbnQtb3BlbmluZ3Mtb2YtMjAyMC_SAQA?oc=5</id>
-    <title type="html">Against All Odds... The Best Restaurant Openings Of 2020 - The Handbook</title>
-    <updated>2020-12-16T10:32:12.000000000Z</updated>
-    <link href="https://www.thehandbook.com/against-all-odds-the-best-restaurant-openings-of-2020/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thehandbook.com/against-all-odds-the-best-restaurant-openings-of-2020/" target="_blank"&gt;Against All Odds... The Best Restaurant Openings Of 2020&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Handbook&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
