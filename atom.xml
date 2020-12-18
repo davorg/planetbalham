@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-18T14:55:10Z</updated>
+  <updated>2020-12-18T15:35:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEP4ksboZPt1G4V2P02tvz14qGQgEKhAIACoHCAow0Ij8CjCRwIgDMMCBzAU?oc=5</id>
-    <title type="html">New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London - The Sun</title>
-    <updated>2020-12-18T14:40:00.000000000Z</updated>
-    <link href="https://www.thesun.co.uk/tvandshowbiz/13513804/sarah-beeny-property-empire-worth-6-5m/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thesun.co.uk/tvandshowbiz/13513804/sarah-beeny-property-empire-worth-6-5m/" target="_blank"&gt;New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 10°C (51°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1009mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1009mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-18T09:53:00.000+0000</id>
-    <published>2020-12-18T14:23:28Z</published>
-    <updated>2020-12-18T14:23:28Z</updated>
+    <published>2020-12-18T15:24:16Z</published>
+    <updated>2020-12-18T15:24:16Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-18T09:53:00.000+0000</id>
-    <published>2020-12-18T14:23:28Z</published>
-    <updated>2020-12-18T14:23:28Z</updated>
+    <published>2020-12-18T15:24:16Z</published>
+    <updated>2020-12-18T15:24:16Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (52°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1014mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-18T09:53:00.000+0000</id>
-    <published>2020-12-18T14:23:28Z</published>
-    <updated>2020-12-18T14:23:28Z</updated>
+    <published>2020-12-18T15:24:16Z</published>
+    <updated>2020-12-18T15:24:16Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEP4ksboZPt1G4V2P02tvz14qGQgEKhAIACoHCAow0Ij8CjCRwIgDMPGBzAU?oc=5</id>
+    <title type="html">New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London - The Sun</title>
+    <updated>2020-12-18T14:40:00.000000000Z</updated>
+    <link href="https://www.thesun.co.uk/tvandshowbiz/13513804/sarah-beeny-property-empire-worth-6-5m/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/tvandshowbiz/13513804/sarah-beeny-property-empire-worth-6-5m/" target="_blank"&gt;New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93YXMtaGUtYmxpbmQtb3Itd2FzLWl0LW11cmRlci_SAQA?oc=5</id>
