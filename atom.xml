@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-19T08:36:09Z</updated>
+  <updated>2020-12-19T08:58:53Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -16,9 +16,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1005mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:53 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-18T21:51:00.000+0000</id>
-    <published>2020-12-19T08:02:55Z</published>
-    <updated>2020-12-19T08:02:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-19T07:59:00.000+0000</id>
+    <published>2020-12-19T08:38:50Z</published>
+    <updated>2020-12-19T08:38:50Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (51°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1013mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-18T21:51:00.000+0000</id>
-    <published>2020-12-19T08:02:55Z</published>
-    <updated>2020-12-19T08:02:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-19T07:59:00.000+0000</id>
+    <published>2020-12-19T08:38:50Z</published>
+    <updated>2020-12-19T08:38:50Z</updated>
   </entry>
   <entry>
     <title>Monday: Heavy Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-18T21:51:00.000+0000</id>
-    <published>2020-12-19T08:02:55Z</published>
-    <updated>2020-12-19T08:02:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-19T07:59:00.000+0000</id>
+    <published>2020-12-19T08:38:50Z</published>
+    <updated>2020-12-19T08:38:50Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJILRDR78nv4nTtJ1CbmtS0qFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
