@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-19T05:31:14Z</updated>
+  <updated>2020-12-19T05:52:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Heavy Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1003mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1005mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-18T21:51:00.000+0000</id>
-    <published>2020-12-19T05:00:03Z</published>
-    <updated>2020-12-19T05:00:03Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 12°C (54°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1005mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-18T21:51:00.000+0000</id>
-    <published>2020-12-19T05:00:03Z</published>
-    <updated>2020-12-19T05:00:03Z</updated>
+    <published>2020-12-19T05:35:45Z</published>
+    <updated>2020-12-19T05:35:45Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1012mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-18T21:51:00.000+0000</id>
+    <published>2020-12-19T05:35:45Z</published>
+    <updated>2020-12-19T05:35:45Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Heavy Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1012mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-18T21:51:00.000+0000</id>
-    <published>2020-12-19T05:00:03Z</published>
-    <updated>2020-12-19T05:00:03Z</updated>
+    <published>2020-12-19T05:35:45Z</published>
+    <updated>2020-12-19T05:35:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3R2LXNob3diaXovNjQyMzcwMi9zYXJhaC1iZWVueS1wcm9wZXJ0eS1lbXBpcmUtd29ydGgtNi01bS_SAV9odHRwczovL3d3dy50aGVzY290dGlzaHN1bi5jby51ay90di1zaG93Yml6LzY0MjM3MDIvc2FyYWgtYmVlbnktcHJvcGVydHktZW1waXJlLXdvcnRoLTYtNW0vYW1wLw?oc=5</id>
