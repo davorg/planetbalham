@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-19T21:26:05Z</updated>
+  <updated>2020-12-19T21:55:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-19T19:52:00.000+0000</id>
-    <published>2020-12-19T21:01:13Z</published>
-    <updated>2020-12-19T21:01:13Z</updated>
+    <published>2020-12-19T21:46:58Z</published>
+    <updated>2020-12-19T21:46:58Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1013mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-19T19:52:00.000+0000</id>
-    <published>2020-12-19T21:01:13Z</published>
-    <updated>2020-12-19T21:01:13Z</updated>
+    <published>2020-12-19T21:46:58Z</published>
+    <updated>2020-12-19T21:46:58Z</updated>
   </entry>
   <entry>
     <title>Monday: Heavy Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-19T19:52:00.000+0000</id>
-    <published>2020-12-19T21:01:13Z</published>
-    <updated>2020-12-19T21:01:13Z</updated>
+    <published>2020-12-19T21:46:58Z</published>
+    <updated>2020-12-19T21:46:58Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnNvdXRod2Fya25ld3MuY28udWsvbmV3cy9iYXJrLXRoZS1oZXJhbGQtYW5nZWxzLXNpbmcv0gEA?oc=5</id>
+    <title type="html">Bark the herald angels sing - Southwark News</title>
+    <updated>2020-12-19T21:40:40.000000000Z</updated>
+    <link href="https://www.southwarknews.co.uk/news/bark-the-herald-angels-sing/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.southwarknews.co.uk/news/bark-the-herald-angels-sing/" target="_blank"&gt;Bark the herald angels sing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJILRDR78nv4nTtJ1CbmtS0qFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2020-12-18T08:44:00.000000000Z</updated>
     <link href="https://www.birminghammail.co.uk/whats-on/shopping/ps5-stock-update-game-argos-19481147" type="text/html"/>
     <content type="html">&lt;a href="https://www.birminghammail.co.uk/whats-on/shopping/ps5-stock-update-game-argos-19481147" target="_blank"&gt;PS5 stock update for Currys, Tesco, Amazon, Asda, GAME, Argos, Very and John Lewis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnRoZWNhdGVyZXIuY29tL2J1c2luZXNzL2FkdmljZS90aGluay1vdXRzaWRlLXRoZS1ib3gtb3V0c2lkZS1zZXJ2aWNl0gEA?oc=5</id>
-    <title type="html">Think outside the box keeping guests warm... - The Caterer.com</title>
-    <updated>2020-12-17T06:04:24.000000000Z</updated>
-    <link href="https://www.thecaterer.com/business/advice/think-outside-the-box-outside-service" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thecaterer.com/business/advice/think-outside-the-box-outside-service" target="_blank"&gt;Think outside the box keeping guests warm...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Caterer.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
