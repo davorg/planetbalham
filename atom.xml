@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-19T22:33:10Z</updated>
+  <updated>2020-12-19T22:59:03Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-19T19:52:00.000+0000</id>
-    <published>2020-12-19T22:00:26Z</published>
-    <updated>2020-12-19T22:00:26Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-19T21:53:00.000+0000</id>
+    <published>2020-12-19T22:58:51Z</published>
+    <updated>2020-12-19T22:58:51Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1013mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (42°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1013mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-19T19:52:00.000+0000</id>
-    <published>2020-12-19T22:00:26Z</published>
-    <updated>2020-12-19T22:00:26Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-19T21:53:00.000+0000</id>
+    <published>2020-12-19T22:58:51Z</published>
+    <updated>2020-12-19T22:58:51Z</updated>
   </entry>
   <entry>
-    <title>Monday: Heavy Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Monday: Heavy Rain, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-19T19:52:00.000+0000</id>
-    <published>2020-12-19T22:00:26Z</published>
-    <updated>2020-12-19T22:00:26Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-19T21:53:00.000+0000</id>
+    <published>2020-12-19T22:58:51Z</published>
+    <updated>2020-12-19T22:58:51Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnNvdXRod2Fya25ld3MuY28udWsvbmV3cy9iYXJrLXRoZS1oZXJhbGQtYW5nZWxzLXNpbmcv0gEA?oc=5</id>
