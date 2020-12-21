@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-21T16:02:21Z</updated>
+  <updated>2020-12-21T16:54:02Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Drizzle, Minimum Temperature: 11°C (52°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1004mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-21T09:55:00.000+0000</id>
-    <published>2020-12-21T16:00:05Z</published>
-    <updated>2020-12-21T16:00:05Z</updated>
+    <published>2020-12-21T16:20:43Z</published>
+    <updated>2020-12-21T16:20:43Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1012mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-21T09:55:00.000+0000</id>
-    <published>2020-12-21T16:00:05Z</published>
-    <updated>2020-12-21T16:00:05Z</updated>
+    <published>2020-12-21T16:20:43Z</published>
+    <updated>2020-12-21T16:20:43Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 5°C (42°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 5°C (42°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-21T09:55:00.000+0000</id>
-    <published>2020-12-21T16:00:05Z</published>
-    <updated>2020-12-21T16:00:05Z</updated>
+    <published>2020-12-21T16:20:43Z</published>
+    <updated>2020-12-21T16:20:43Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnRob3JudG9uaGVhdGhjaHJvbmljbGUuY28udWsvcmFtcy1mYWNlLWNocmlzdG1hcy1jbGFzaC13aXRoLWdyb3VuZC1zaGFyZXJzLWJhbGhhbS1mYy_SAQA?oc=5</id>
+    <title type="html">Rams Face Christmas Clash with Ground- Sharers Balham FC - Thornton Heath Chronicle</title>
+    <updated>2020-12-21T16:19:54.000000000Z</updated>
+    <link href="https://www.thorntonheathchronicle.co.uk/rams-face-christmas-clash-with-ground-sharers-balham-fc/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thorntonheathchronicle.co.uk/rams-face-christmas-clash-with-ground-sharers-balham-fc/" target="_blank"&gt;Rams Face Christmas Clash with Ground- Sharers Balham FC&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Thornton Heath Chronicle&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMia2h0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjAvMTIvemlwY2FyLWZvci1idXNpbmVzcy1rZWVwaW5nLWxvY2FsLW5vbi1wcm9maXRzLW9uLXRoZS1tb3Zl0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2020-12-19T08:00:00.000000000Z</updated>
     <link href="https://www.theguardian.com/books/2020/dec/19/can-you-crack-it-the-bumper-books-quiz-of-2020" type="text/html"/>
     <content type="html">&lt;a href="https://www.theguardian.com/books/2020/dec/19/can-you-crack-it-the-bumper-books-quiz-of-2020" target="_blank"&gt;Can you crack it? The bumper books quiz of 2020&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3R2LXNob3diaXovNjQyMzcwMi9zYXJhaC1iZWVueS1wcm9wZXJ0eS1lbXBpcmUtd29ydGgtNi01bS_SAV9odHRwczovL3d3dy50aGVzY290dGlzaHN1bi5jby51ay90di1zaG93Yml6LzY0MjM3MDIvc2FyYWgtYmVlbnktcHJvcGVydHktZW1waXJlLXdvcnRoLTYtNW0vYW1wLw?oc=5</id>
-    <title type="html">New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London - The Scottish Sun</title>
-    <updated>2020-12-18T14:47:00.000000000Z</updated>
-    <link href="https://www.thescottishsun.co.uk/tv-showbiz/6423702/sarah-beeny-property-empire-worth-6-5m/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thescottishsun.co.uk/tv-showbiz/6423702/sarah-beeny-property-empire-worth-6-5m/" target="_blank"&gt;New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Scottish Sun&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
@@ -154,32 +154,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
-    <id>tag:flickr.com,2005:/photo/50724393412</id>
-    <published>2020-12-15T21:56:57Z</published>
-    <updated>2020-12-15T21:56:57Z</updated>
-    <flickr:date_taken>1990-11-03T22:01:48-08:00</flickr:date_taken>
-    <dc:date.Taken>1990-11-03T22:01:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/15038/"&gt;15038&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/15038/50724393412/" title="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly"&gt;&lt;img src="https://live.staticflickr.com/65535/50724393412_ac95586756_m.jpg" width="240" height="160" alt="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>15038</name>
-      <uri>https://www.flickr.com/people/15038/</uri>
-      <flickr:nsid>62613295@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7357/buddyicons/62613295@N05.jpg?1467018067#62613295@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50724393412_ac95586756_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="47851" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1m50" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DSC_0072_POST2</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sfeest/50685637358/"/>
     <id>tag:flickr.com,2005:/photo/50685637358</id>
@@ -252,6 +226,57 @@
     <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="relaxation" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl in the Garden</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50611812501/"/>
+    <id>tag:flickr.com,2005:/photo/50611812501</id>
+    <published>2020-11-17T01:13:31Z</published>
+    <updated>2020-11-17T01:13:31Z</updated>
+    <flickr:date_taken>2020-07-31T00:43:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-07-31T00:43:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50611812501/" title="Girl in the Garden"&gt;&lt;img src="https://live.staticflickr.com/65535/50611812501_b09806da52_m.jpg" width="171" height="240" alt="Girl in the Garden" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>The_Kevster</name>
+      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
+      <flickr:nsid>64151671@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50611812501_b09806da52_b.jpg"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gaze" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jewellery" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="headscarf" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nigerian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="closeup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="quadrafon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="quadrafonmusicindustries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mercury" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mercuryinretrograde" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunlight" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
