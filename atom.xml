@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-21T23:35:29Z</updated>
+  <updated>2020-12-22T00:03:24Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1007mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-21T21:49:00.000+0000</id>
-    <published>2020-12-21T23:28:19Z</published>
-    <updated>2020-12-21T23:28:19Z</updated>
+    <published>2020-12-22T00:01:17Z</published>
+    <updated>2020-12-22T00:01:17Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1013mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-21T21:49:00.000+0000</id>
-    <published>2020-12-21T23:28:19Z</published>
-    <updated>2020-12-21T23:28:19Z</updated>
+    <published>2020-12-22T00:01:17Z</published>
+    <updated>2020-12-22T00:01:17Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thundery Showers, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-21T21:49:00.000+0000</id>
-    <published>2020-12-21T23:28:19Z</published>
-    <updated>2020-12-21T23:28:19Z</updated>
+    <published>2020-12-22T00:01:17Z</published>
+    <updated>2020-12-22T00:01:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnRob3JudG9uaGVhdGhjaHJvbmljbGUuY28udWsvcmFtcy1mYWNlLWNocmlzdG1hcy1jbGFzaC13aXRoLWdyb3VuZC1zaGFyZXJzLWJhbGhhbS1mYy_SAQA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/hidden-housing-scandal-governments-ews1-offer-doesnt-really-solve-anything-76mxc56js" target="_blank"&gt;Hidden Housing Scandal: government's EWS1 offer “doesn't really solve anything”&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnNvdXRod2Fya25ld3MuY28udWsvbmV3cy9iYXJrLXRoZS1oZXJhbGQtYW5nZWxzLXNpbmcv0gEA?oc=5</id>
-    <title type="html">Bark the herald angels sing - Southwark News</title>
-    <updated>2020-12-19T21:40:40.000000000Z</updated>
-    <link href="https://www.southwarknews.co.uk/news/bark-the-herald-angels-sing/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.southwarknews.co.uk/news/bark-the-herald-angels-sing/" target="_blank"&gt;Bark the herald angels sing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEJILRDR78nv4nTtJ1CbmtS0qFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
     <title type="html">Can you crack it? The bumper books quiz of 2020 - The Guardian</title>
     <updated>2020-12-19T08:00:00.000000000Z</updated>
     <link href="https://www.theguardian.com/books/2020/dec/19/can-you-crack-it-the-bumper-books-quiz-of-2020" type="text/html"/>
     <content type="html">&lt;a href="https://www.theguardian.com/books/2020/dec/19/can-you-crack-it-the-bumper-books-quiz-of-2020" target="_blank"&gt;Can you crack it? The bumper books quiz of 2020&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRoZXNjb3R0aXNoc3VuLmNvLnVrL3R2LXNob3diaXovNjQyMzcwMi9zYXJhaC1iZWVueS1wcm9wZXJ0eS1lbXBpcmUtd29ydGgtNi01bS_SAV9odHRwczovL3d3dy50aGVzY290dGlzaHN1bi5jby51ay90di1zaG93Yml6LzY0MjM3MDIvc2FyYWgtYmVlbnktcHJvcGVydHktZW1waXJlLXdvcnRoLTYtNW0vYW1wLw?oc=5</id>
+    <title type="html">New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London - The Scottish Sun</title>
+    <updated>2020-12-18T14:47:00.000000000Z</updated>
+    <link href="https://www.thescottishsun.co.uk/tv-showbiz/6423702/sarah-beeny-property-empire-worth-6-5m/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thescottishsun.co.uk/tv-showbiz/6423702/sarah-beeny-property-empire-worth-6-5m/" target="_blank"&gt;New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Scottish Sun&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
