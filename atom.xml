@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-22T11:01:01Z</updated>
+  <updated>2020-12-22T11:34:44Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1012mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1013mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-22T09:54:00.000+0000</id>
-    <published>2020-12-22T10:59:58Z</published>
-    <updated>2020-12-22T10:59:58Z</updated>
+    <published>2020-12-22T11:03:53Z</published>
+    <updated>2020-12-22T11:03:53Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thundery Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-22T09:54:00.000+0000</id>
-    <published>2020-12-22T10:59:58Z</published>
-    <updated>2020-12-22T10:59:58Z</updated>
+    <published>2020-12-22T11:03:53Z</published>
+    <updated>2020-12-22T11:03:53Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 6°C (44°F)</title>
@@ -37,11 +37,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (44°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1024mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-22T09:54:00.000+0000</id>
-    <published>2020-12-22T10:59:58Z</published>
-    <updated>2020-12-22T10:59:58Z</updated>
+    <published>2020-12-22T11:03:53Z</published>
+    <updated>2020-12-22T11:03:53Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtOTA3ODI4Ny9SZXRhaWwtaW5kdXN0cnktYm9zcy13YXJucy1qYW1zLW5vdC1jbGVhcmVkLVRPREFZLXNob3J0YWdlcy1DaHJpc3RtYXMuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtOTA3ODI4Ny9hbXAvUmV0YWlsLWluZHVzdHJ5LWJvc3Mtd2FybnMtamFtcy1ub3QtY2xlYXJlZC1UT0RBWS1zaG9ydGFnZXMtQ2hyaXN0bWFzLmh0bWw?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEBG1R_ITXlIFy8zeCNx4gQUqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
     <title type="html">Retail industry boss warns if jams are not cleared TODAY there will be shortages after Christmas - Daily Mail</title>
     <updated>2020-12-22T07:45:00.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/news/article-9078287/Retail-industry-boss-warns-jams-not-cleared-TODAY-shortages-Christmas.html" type="text/html"/>
