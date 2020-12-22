@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-22T05:57:19Z</updated>
+  <updated>2020-12-22T06:39:08Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Thick Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1013mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-21T21:49:00.000+0000</id>
-    <published>2020-12-22T05:33:28Z</published>
-    <updated>2020-12-22T05:33:28Z</updated>
+    <published>2020-12-22T06:34:49Z</published>
+    <updated>2020-12-22T06:34:49Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thundery Showers, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-21T21:49:00.000+0000</id>
-    <published>2020-12-22T05:33:28Z</published>
-    <updated>2020-12-22T05:33:28Z</updated>
+    <published>2020-12-22T06:34:49Z</published>
+    <updated>2020-12-22T06:34:49Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 6°C (43°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1022mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-21T21:49:00.000+0000</id>
-    <published>2020-12-22T05:33:28Z</published>
-    <updated>2020-12-22T05:33:28Z</updated>
+    <published>2020-12-22T06:34:49Z</published>
+    <updated>2020-12-22T06:34:49Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnRob3JudG9uaGVhdGhjaHJvbmljbGUuY28udWsvcmFtcy1mYWNlLWNocmlzdG1hcy1jbGFzaC13aXRoLWdyb3VuZC1zaGFyZXJzLWJhbGhhbS1mYy_SAQA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2020/12/zipcar-for-business-keeping-local-non-profits-on-the-move" target="_blank"&gt;zipcar-for-business-keeping-local-non-profits-on-the-move&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaGlkZGVuLWhvdXNpbmctc2NhbmRhbC1nb3Zlcm5tZW50cy1ld3MxLW9mZmVyLWRvZXNudC1yZWFsbHktc29sdmUtYW55dGhpbmctNzZteGM1Nmpz0gEA?oc=5</id>
-    <title type="html">Hidden Housing Scandal: government's EWS1 offer “doesn't really solve anything” - The Times</title>
-    <updated>2020-12-20T00:01:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/hidden-housing-scandal-governments-ews1-offer-doesnt-really-solve-anything-76mxc56js" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/hidden-housing-scandal-governments-ews1-offer-doesnt-really-solve-anything-76mxc56js" target="_blank"&gt;Hidden Housing Scandal: government's EWS1 offer “doesn't really solve anything”&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEJILRDR78nv4nTtJ1CbmtS0qFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
     <title type="html">Can you crack it? The bumper books quiz of 2020 - The Guardian</title>
     <updated>2020-12-19T08:00:00.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2020-12-18T14:47:00.000000000Z</updated>
     <link href="https://www.thescottishsun.co.uk/tv-showbiz/6423702/sarah-beeny-property-empire-worth-6-5m/" type="text/html"/>
     <content type="html">&lt;a href="https://www.thescottishsun.co.uk/tv-showbiz/6423702/sarah-beeny-property-empire-worth-6-5m/" target="_blank"&gt;New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Scottish Sun&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEPNJFD1keY-1RiW-Qxtc5QIqGQgEKhAIACoHCAow2c77CjC-yfQCML7g0wU?oc=5</id>
+    <title type="html">PS5 stock update for Amazon, Currys, Tesco, Asda, GAME, Argos, Very and John Lewis - Birmingham Live</title>
+    <updated>2020-12-18T08:44:00.000000000Z</updated>
+    <link href="https://www.birminghammail.co.uk/whats-on/shopping/ps5-stock-update-game-argos-19481147" type="text/html"/>
+    <content type="html">&lt;a href="https://www.birminghammail.co.uk/whats-on/shopping/ps5-stock-update-game-argos-19481147" target="_blank"&gt;PS5 stock update for Amazon, Currys, Tesco, Asda, GAME, Argos, Very and John Lewis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
