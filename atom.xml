@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-23T04:43:15Z</updated>
+  <updated>2020-12-23T05:05:37Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 12°C (53°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (53°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1004mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-22T21:52:00.000+0000</id>
-    <published>2020-12-23T04:00:29Z</published>
-    <updated>2020-12-23T04:00:29Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Thundery Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-22T21:52:00.000+0000</id>
-    <published>2020-12-23T04:00:29Z</published>
-    <updated>2020-12-23T04:00:29Z</updated>
+    <published>2020-12-23T05:01:38Z</published>
+    <updated>2020-12-23T05:01:38Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 6°C (42°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1022mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-22T21:52:00.000+0000</id>
+    <published>2020-12-23T05:01:38Z</published>
+    <updated>2020-12-23T05:01:38Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1022mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-22T21:52:00.000+0000</id>
-    <published>2020-12-23T04:00:29Z</published>
-    <updated>2020-12-23T04:00:29Z</updated>
+    <published>2020-12-23T05:01:38Z</published>
+    <updated>2020-12-23T05:01:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjAvMTIvMjIvbWlsZS1sb25nLXF1ZXVlcy1zaG9wcGVycy1ydXNoLWJ1eS1jaHJpc3RtYXMtZXNzZW50aWFscy1mb2xsb3dpbmcv0gFyaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL25ld3MvMjAyMC8xMi8yMi9taWxlLWxvbmctcXVldWVzLXNob3BwZXJzLXJ1c2gtYnV5LWNocmlzdG1hcy1lc3NlbnRpYWxzLWZvbGxvd2luZy9hbXAv?oc=5</id>
