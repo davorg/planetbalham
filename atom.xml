@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-23T13:58:27Z</updated>
+  <updated>2020-12-23T14:37:00Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 4°C (39°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1002mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 4°C (39°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1002mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-23T09:51:00.000+0000</id>
-    <published>2020-12-23T13:56:35Z</published>
-    <updated>2020-12-23T13:56:35Z</updated>
+    <published>2020-12-23T14:01:28Z</published>
+    <updated>2020-12-23T14:01:28Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1023mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-23T09:51:00.000+0000</id>
-    <published>2020-12-23T13:56:35Z</published>
-    <updated>2020-12-23T13:56:35Z</updated>
+    <published>2020-12-23T14:01:28Z</published>
+    <updated>2020-12-23T14:01:28Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (40°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-23T09:51:00.000+0000</id>
-    <published>2020-12-23T13:56:35Z</published>
-    <updated>2020-12-23T13:56:35Z</updated>
+    <published>2020-12-23T14:01:28Z</published>
+    <updated>2020-12-23T14:01:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIRvTsdsCF8S3s6fLKTAE6wqGAgEKg8IACoHCAowmdygCTDvz3Awy8WLAw?oc=5</id>
