@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-28T13:13:11Z</updated>
+  <updated>2020-12-28T13:58:02Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 975mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Good, Pressure: 975mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-28T09:52:00.000+0000</id>
-    <published>2020-12-28T13:02:30Z</published>
-    <updated>2020-12-28T13:02:30Z</updated>
+    <published>2020-12-28T13:39:52Z</published>
+    <updated>2020-12-28T13:39:52Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Thick Cloud, Minimum Temperature: 1°C (35°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 990mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-28T09:52:00.000+0000</id>
-    <published>2020-12-28T13:02:30Z</published>
-    <updated>2020-12-28T13:02:30Z</updated>
+    <published>2020-12-28T13:39:52Z</published>
+    <updated>2020-12-28T13:39:52Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 1°C (34°F) Maximum Temperature: 5°C (41°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1003mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-28T09:52:00.000+0000</id>
-    <published>2020-12-28T13:02:30Z</published>
-    <updated>2020-12-28T13:02:30Z</updated>
+    <published>2020-12-28T13:39:52Z</published>
+    <updated>2020-12-28T13:39:52Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>YD19HHO</title>
