@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-29T10:43:30Z</updated>
+  <updated>2020-12-29T11:04:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Thick Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 4°C (39°F)</title>
+    <title>Today: Thick Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 990mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 992mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-29T07:55:00.000+0000</id>
-    <published>2020-12-29T10:02:10Z</published>
-    <updated>2020-12-29T10:02:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-29T09:54:00.000+0000</id>
+    <published>2020-12-29T11:02:04Z</published>
+    <updated>2020-12-29T11:02:04Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 5°C (41°F)</title>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1003mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1003mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-29T07:55:00.000+0000</id>
-    <published>2020-12-29T10:02:10Z</published>
-    <updated>2020-12-29T10:02:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-29T09:54:00.000+0000</id>
+    <published>2020-12-29T11:02:04Z</published>
+    <updated>2020-12-29T11:02:04Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Thick Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 3°C (37°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 0°C (33°F) Maximum Temperature: 2°C (36°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (36°F), Minimum Temperature: 0°C (33°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-29T07:55:00.000+0000</id>
-    <published>2020-12-29T10:02:10Z</published>
-    <updated>2020-12-29T10:02:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-29T09:54:00.000+0000</id>
+    <published>2020-12-29T11:02:04Z</published>
+    <updated>2020-12-29T11:02:04Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>YD19HHO</title>
