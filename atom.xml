@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-30T15:37:33Z</updated>
+  <updated>2020-12-30T16:08:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: -1°C (30°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1003mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-30T09:53:00.000+0000</id>
-    <published>2020-12-30T15:14:28Z</published>
-    <updated>2020-12-30T15:14:28Z</updated>
+    <published>2020-12-30T16:01:27Z</published>
+    <updated>2020-12-30T16:01:27Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (38°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-30T09:53:00.000+0000</id>
-    <published>2020-12-30T15:14:28Z</published>
-    <updated>2020-12-30T15:14:28Z</updated>
+    <published>2020-12-30T16:01:27Z</published>
+    <updated>2020-12-30T16:01:27Z</updated>
   </entry>
   <entry>
     <title>Friday: Sleet Showers, Minimum Temperature: 3°C (38°F) Maximum Temperature: 5°C (41°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-30T09:53:00.000+0000</id>
-    <published>2020-12-30T15:14:28Z</published>
-    <updated>2020-12-30T15:14:28Z</updated>
+    <published>2020-12-30T16:01:27Z</published>
+    <updated>2020-12-30T16:01:27Z</updated>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
@@ -116,13 +116,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEIRvTsdsCF8S3s6fLKTAE6wqGAgEKg8IACoHCAowmdygCTDvz3Awy8WLAw?oc=5</id>
-    <title type="html">Beauty Receipts: What HELLO!’s Editor-In-Chief’s monthly beauty routine looks like - HELLO!</title>
-    <updated>2020-12-23T12:03:49.000000000Z</updated>
-    <link href="https://www.hellomagazine.com/healthandbeauty/makeup/20201223103276/beauty-receipts-rosie-nixon-routine/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hellomagazine.com/healthandbeauty/makeup/20201223103276/beauty-receipts-rosie-nixon-routine/" target="_blank"&gt;Beauty Receipts: What HELLO!’s Editor-In-Chief’s monthly beauty routine looks like&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjAvMTIvMjIvbWlsZS1sb25nLXF1ZXVlcy1zaG9wcGVycy1ydXNoLWJ1eS1jaHJpc3RtYXMtZXNzZW50aWFscy1mb2xsb3dpbmcv0gFyaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL25ld3MvMjAyMC8xMi8yMi9taWxlLWxvbmctcXVldWVzLXNob3BwZXJzLXJ1c2gtYnV5LWNocmlzdG1hcy1lc3NlbnRpYWxzLWZvbGxvd2luZy9hbXAv?oc=5</id>
     <title type="html">'I didn't think I would see this queue': Supermarkets swamped in race for last-minute supplies - Telegraph.co.uk</title>
     <updated>2020-12-22T19:59:00.000000000Z</updated>
@@ -149,6 +142,13 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <updated>2020-12-21T11:56:10.000000000Z</updated>
     <link href="http://balham.localnewsie.co.uk/tabs/blog/2020/12/zipcar-for-business-keeping-local-non-profits-on-the-move" type="text/html"/>
     <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2020/12/zipcar-for-business-keeping-local-non-profits-on-the-move" target="_blank"&gt;zipcar-for-business-keeping-local-non-profits-on-the-move&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEPNJFD1keY-1RiW-Qxtc5QIqGQgEKhAIACoHCAow2c77CjC-yfQCML7g0wU?oc=5</id>
+    <title type="html">PS5 stock update for Amazon, Currys, Tesco, Asda, GAME, Argos, Very and John Lewis - Birmingham Live</title>
+    <updated>2020-12-18T08:00:00.000000000Z</updated>
+    <link href="https://www.birminghammail.co.uk/whats-on/shopping/ps5-stock-update-game-argos-19481147" type="text/html"/>
+    <content type="html">&lt;a href="https://www.birminghammail.co.uk/whats-on/shopping/ps5-stock-update-game-argos-19481147" target="_blank"&gt;PS5 stock update for Amazon, Currys, Tesco, Asda, GAME, Argos, Very and John Lewis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
