@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-31T22:40:10Z</updated>
+  <updated>2020-12-31T23:11:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: -1°C (30°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:02 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-31T09:55:00.000+0000</id>
-    <published>2020-12-31T22:01:17Z</published>
-    <updated>2020-12-31T22:01:17Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-31T21:23:00.000+0000</id>
+    <published>2020-12-31T23:00:00Z</published>
+    <updated>2020-12-31T23:00:00Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 5°C (41°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-31T09:55:00.000+0000</id>
-    <published>2020-12-31T22:01:17Z</published>
-    <updated>2020-12-31T22:01:17Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-31T21:23:00.000+0000</id>
+    <published>2020-12-31T23:00:00Z</published>
+    <updated>2020-12-31T23:00:00Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 1°C (35°F) Maximum Temperature: 4°C (40°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 1°C (35°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:03 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-31T09:55:00.000+0000</id>
-    <published>2020-12-31T22:01:17Z</published>
-    <updated>2020-12-31T22:01:17Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-31T21:23:00.000+0000</id>
+    <published>2020-12-31T23:00:00Z</published>
+    <updated>2020-12-31T23:00:00Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELY2E-1LPgSbOT-RVn_QDwAqGQgEKhAIACoHCAownvOTCzCHjqkDMKHLwAY?oc=5</id>
