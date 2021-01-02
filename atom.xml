@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-02T19:41:58Z</updated>
+  <updated>2021-01-02T20:03:53Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-02T09:52:00.000+0000</id>
-    <published>2021-01-02T19:29:31Z</published>
-    <updated>2021-01-02T19:29:31Z</updated>
+    <published>2021-01-02T20:01:27Z</published>
+    <updated>2021-01-02T20:01:27Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (42°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:05 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-02T09:52:00.000+0000</id>
-    <published>2021-01-02T19:29:31Z</published>
-    <updated>2021-01-02T19:29:31Z</updated>
+    <published>2021-01-02T20:01:27Z</published>
+    <updated>2021-01-02T20:01:27Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 6°C (42°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-02T09:52:00.000+0000</id>
-    <published>2021-01-02T19:29:31Z</published>
-    <updated>2021-01-02T19:29:31Z</updated>
+    <published>2021-01-02T20:01:27Z</published>
+    <updated>2021-01-02T20:01:27Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigAFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvdGVjaC9yZXZpZXdlZGNvbS8yMDIwLzEyLzMwL25vcnRoLWZhY2UtZ2V0LXRvcC1zYWxlLXN0eWxlcy1ub3Jkc3Ryb20taGFsZi15ZWFybHktc2FsZS80MDg5NjIxMDAxL9IBJ2h0dHBzOi8vYW1wLnVzYXRvZGF5LmNvbS9hbXAvNDA4OTYyMTAwMQ?oc=5</id>
@@ -137,6 +137,13 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2020/12/zipcar-for-business-keeping-local-non-profits-on-the-move" target="_blank"&gt;zipcar-for-business-keeping-local-non-profits-on-the-move&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93YXMtaGUtYmxpbmQtb3Itd2FzLWl0LW11cmRlci_SAQA?oc=5</id>
+    <title type="html">Was he blind or was it murder? - London News Online</title>
+    <updated>2020-12-18T12:00:00.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/was-he-blind-or-was-it-murder/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/was-he-blind-or-was-it-murder/" target="_blank"&gt;Was he blind or was it murder?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEP4ksboZPt1G4V2P02tvz14qGQgEKhAIACoHCAow0Ij8CjCRwIgDMPGBzAU?oc=5</id>
     <title type="html">New Life In the Country star Sarah Beeny’s property empire now worth £6.5m with 11 homes across London - The Sun</title>
     <updated>2020-12-18T08:00:00.000000000Z</updated>
@@ -221,13 +228,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMia2h0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjAvMTIvdGVuLWRlbnRhbC1iYWxoYW0tcHJvbW90aW5nLWdyZWF0LW9yYWwtaGVhbHRoLWluLWNoaWxkcmVu0gEA?oc=5</id>
-    <title type="html">ten-dental-balham-promoting-great-oral-health-in-children - Hitchin Daily PRSS</title>
-    <updated>2020-12-16T19:09:40.000000000Z</updated>
-    <link href="http://balham.localnewsie.co.uk/tabs/blog/2020/12/ten-dental-balham-promoting-great-oral-health-in-children" type="text/html"/>
-    <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2020/12/ten-dental-balham-promoting-great-oral-health-in-children" target="_blank"&gt;ten-dental-balham-promoting-great-oral-health-in-children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
