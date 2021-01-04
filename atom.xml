@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-04T12:46:00Z</updated>
+  <updated>2021-01-04T13:19:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 1°C (34°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1019mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-04T09:54:00.000+0000</id>
-    <published>2021-01-04T12:04:41Z</published>
-    <updated>2021-01-04T12:04:41Z</updated>
+    <published>2021-01-04T13:04:57Z</published>
+    <updated>2021-01-04T13:04:57Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 5°C (40°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-04T09:54:00.000+0000</id>
-    <published>2021-01-04T12:04:41Z</published>
-    <updated>2021-01-04T12:04:41Z</updated>
+    <published>2021-01-04T13:04:57Z</published>
+    <updated>2021-01-04T13:04:57Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 4°C (39°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-04T09:54:00.000+0000</id>
-    <published>2021-01-04T12:04:41Z</published>
-    <updated>2021-01-04T12:04:41Z</updated>
+    <published>2021-01-04T13:04:57Z</published>
+    <updated>2021-01-04T13:04:57Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5lZGluYnVyZ2huZXdzLnNjb3RzbWFuLmNvbS9yZWFkLXRoaXMvdWstdGVlbmFnZXItbm9yYS1xdW9pcmluLWRpZWQtbWFsYXlzaWEtZHVlLW1pc2FkdmVudHVyZS1oZXJlcy13aGF0LWhhcHBlbmVkLTMwODQ1MjbSAYgBaHR0cHM6Ly93d3cuZWRpbmJ1cmdobmV3cy5zY290c21hbi5jb20vcmVhZC10aGlzL3VrLXRlZW5hZ2VyLW5vcmEtcXVvaXJpbi1kaWVkLW1hbGF5c2lhLWR1ZS1taXNhZHZlbnR1cmUtaGVyZXMtd2hhdC1oYXBwZW5lZC0zMDg0NTI2P2FtcA?oc=5</id>
+    <title type="html">UK teenager Nóra Quoirin died in Malaysia due to 'misadventure' - here’s what happened - Edinburgh News</title>
+    <updated>2021-01-04T12:47:00.000000000Z</updated>
+    <link href="https://www.edinburghnews.scotsman.com/read-this/uk-teenager-nora-quoirin-died-malaysia-due-misadventure-heres-what-happened-3084526" type="text/html"/>
+    <content type="html">&lt;a href="https://www.edinburghnews.scotsman.com/read-this/uk-teenager-nora-quoirin-died-malaysia-due-misadventure-heres-what-happened-3084526" target="_blank"&gt;UK teenager Nóra Quoirin died in Malaysia due to 'misadventure' - here’s what happened&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Edinburgh News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay01NTUyNjcxM9IBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvdWstNTU1MjY3MTM?oc=5</id>
@@ -143,13 +150,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBG1R_ITXlIFy8zeCNx4gQUqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
-    <title type="html">Retail industry boss warns if jams are not cleared TODAY there will be shortages after Christmas - Daily Mail</title>
-    <updated>2020-12-22T08:00:00.000000000Z</updated>
-    <link href="https://www.dailymail.co.uk/news/article-9078287/Retail-industry-boss-warns-jams-not-cleared-TODAY-shortages-Christmas.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9078287/Retail-industry-boss-warns-jams-not-cleared-TODAY-shortages-Christmas.html" target="_blank"&gt;Retail industry boss warns if jams are not cleared TODAY there will be shortages after Christmas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
