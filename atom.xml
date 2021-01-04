@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-04T18:24:34Z</updated>
+  <updated>2021-01-04T19:20:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 1°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (35°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1021mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 16:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (35°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-04T09:54:00.000+0000</id>
-    <published>2021-01-04T18:07:12Z</published>
-    <updated>2021-01-04T18:07:12Z</updated>
+    <published>2021-01-04T19:07:12Z</published>
+    <updated>2021-01-04T19:07:12Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 5°C (40°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-04T09:54:00.000+0000</id>
-    <published>2021-01-04T18:07:12Z</published>
-    <updated>2021-01-04T18:07:12Z</updated>
+    <published>2021-01-04T19:07:12Z</published>
+    <updated>2021-01-04T19:07:12Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 4°C (39°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-04T09:54:00.000+0000</id>
-    <published>2021-01-04T18:07:12Z</published>
-    <updated>2021-01-04T18:07:12Z</updated>
+    <published>2021-01-04T19:07:12Z</published>
+    <updated>2021-01-04T19:07:12Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vc2hlcGhlcmRzYnVzaHcxMi5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbnR1YmUyMTAxMDkuaHRt0gEA?oc=5</id>
