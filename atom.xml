@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-05T15:01:54Z</updated>
+  <updated>2021-01-05T15:38:33Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1020mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:07 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1020mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-05T09:53:00.000+0000</id>
-    <published>2021-01-05T14:59:45Z</published>
-    <updated>2021-01-05T14:59:45Z</updated>
+    <published>2021-01-05T15:27:29Z</published>
+    <updated>2021-01-05T15:27:29Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-05T09:53:00.000+0000</id>
-    <published>2021-01-05T14:59:45Z</published>
-    <updated>2021-01-05T14:59:45Z</updated>
+    <published>2021-01-05T15:27:29Z</published>
+    <updated>2021-01-05T15:27:29Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 0°C (31°F) Maximum Temperature: 3°C (37°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: 0°C (31°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:09 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-05T09:53:00.000+0000</id>
-    <published>2021-01-05T14:59:45Z</published>
-    <updated>2021-01-05T14:59:45Z</updated>
+    <published>2021-01-05T15:27:29Z</published>
+    <updated>2021-01-05T15:27:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMimAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvcGFyZW50cy1vZi1ub3JhLXF1b2lyaW4tMTUteWVhci1vbGQtd2hvLWRpZWQtaW4tbWFsYXlzaWFuLWp1bmdsZS11dHRlcmx5LWRpc2FwcG9pbnRlZC13aXRoLWNvcm9uZXJzLW1pc2FkdmVudHVyZS12ZXJkaWN0L9IBAA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://www.hellomagazine.com/film/20210105103774/susanna-reid-feeling-down-covid-news-dr-hilary-good-morning-britain/" target="_blank"&gt;Susanna Reid admits to feeling down in candid Good Morning Britain moment&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEFzL_MifgvVWS-YgfM59iuYqMwgEKioIACIQyyFzN-dWQBtyq7grSyaG0CoUCAoiEMshczfnVkAbcqu4K0smhtAw-MDJBg?oc=5</id>
-    <title type="html">The 20 young Premier League players to watch in 2021 - The Athletic</title>
-    <updated>2021-01-05T05:13:56.000000000Z</updated>
-    <link href="https://theathletic.com/2300583/2021/01/05/premier-league-prospects-2021/" type="text/html"/>
-    <content type="html">&lt;a href="https://theathletic.com/2300583/2021/01/05/premier-league-prospects-2021/" target="_blank"&gt;The 20 young Premier League players to watch in 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Athletic&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEHKwdRs4pJlK9TfLC2HonH8qFwgEKg4IACoGCAowqvB9MMTRCTCFn-8G?oc=5</id>
     <title type="html">The best diet books for 2021 - Evening Standard</title>
     <updated>2021-01-04T15:04:00.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2021-01-04T10:40:00.000000000Z</updated>
     <link href="https://www.bbc.com/news/uk-55526713" type="text/html"/>
     <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-55526713" target="_blank"&gt;Nóra Quoirin: 'Misadventure' verdict for girl found in Malaysian jungle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.wandsworthguardian.co.uk/news/18984618.death-balham-schoolgirl-misadventure-finds-coroner/" target="_blank"&gt;Death of Balham schoolgirl 'misadventure' finds coroner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.foxnews.com/world/missing-british-teens-death-in-malaysia-did-not-involve-other-people-coroner" target="_blank"&gt;Missing British teen's death in Malaysia did not involve other people: coroner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fox News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lbc.co.uk/news/nora-quoirin-death-not-killed-by-others-malaysia-coroner-rules/" target="_blank"&gt;Death of British girl Nora Quoirin in Malaysian jungle most likely misadventure, coroner rules&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LBC&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWllbGFETmtZQU1FZkVRRE9yeUtfczJLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEL9RWmPUGby3WTs0J64hwxEqFggEKg4IACoGCAowl6p7MN-zCTDlkko?oc=5</id>
+    <title type="html">Monday briefing: England councils scramble to keep schools closed - The Guardian</title>
+    <updated>2021-01-04T06:31:00.000000000Z</updated>
+    <link href="https://www.theguardian.com/world/2021/jan/04/monday-briefing-england-councils-scramble-to-keep-schools-closed" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theguardian.com/world/2021/jan/04/monday-briefing-england-councils-scramble-to-keep-schools-closed" target="_blank"&gt;Monday briefing: England councils scramble to keep schools closed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
@@ -119,74 +119,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="review"/>
     <category term="year in gigs"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>YD19HHO</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/trevor-plackett/49569620457/"/>
-    <id>tag:flickr.com,2005:/photo/49569620457</id>
-    <published>2020-12-26T09:55:25Z</published>
-    <updated>2020-12-26T09:55:25Z</updated>
-    <flickr:date_taken>2020-02-22T14:32:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-02-22T14:32:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/trevor-plackett/"&gt;47604&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/trevor-plackett/49569620457/" title="YD19HHO"&gt;&lt;img src="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_m.jpg" width="240" height="172" alt="YD19HHO" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;George regal of balham    m1&lt;/p&gt;</content>
-    <author>
-      <name>47604</name>
-      <uri>https://www.flickr.com/people/trevor-plackett/</uri>
-      <flickr:nsid>60459234@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2865/buddyicons/60459234@N04.jpg?1369294418#60459234@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_b.jpg"/>
-    <category term="yutong" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yd19" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="george" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="regal" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
-    <id>tag:flickr.com,2005:/photo/50726669988</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Gateway To The South</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726670203/"/>
@@ -281,6 +213,103 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="undergoundstation" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl In The Garden #2</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50622451452/"/>
+    <id>tag:flickr.com,2005:/photo/50622451452</id>
+    <published>2020-11-19T22:55:25Z</published>
+    <updated>2020-11-19T22:55:25Z</updated>
+    <flickr:date_taken>2020-07-31T00:38:12-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-07-31T00:38:12-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50622451452/" title="Girl In The Garden #2"&gt;&lt;img src="https://live.staticflickr.com/65535/50622451452_0d67390320_m.jpg" width="240" height="159" alt="Girl In The Garden #2" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>The_Kevster</name>
+      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
+      <flickr:nsid>64151671@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50622451452_0d67390320_b.jpg"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trees" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="seated" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="smile" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="happy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="relaxation" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl in the Garden</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50611812501/"/>
+    <id>tag:flickr.com,2005:/photo/50611812501</id>
+    <published>2020-11-17T01:13:31Z</published>
+    <updated>2020-11-17T01:13:31Z</updated>
+    <flickr:date_taken>2020-07-31T00:43:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-07-31T00:43:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50611812501/" title="Girl in the Garden"&gt;&lt;img src="https://live.staticflickr.com/65535/50611812501_b09806da52_m.jpg" width="171" height="240" alt="Girl in the Garden" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>The_Kevster</name>
+      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
+      <flickr:nsid>64151671@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50611812501_b09806da52_b.jpg"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gaze" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jewellery" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="headscarf" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nigerian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="closeup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="quadrafon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="quadrafonmusicindustries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mercury" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mercuryinretrograde" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunlight" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
