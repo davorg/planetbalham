@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-06T21:33:06Z</updated>
+  <updated>2021-01-06T22:06:55Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: -1°C (30°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: -1°C (31°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:08 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:08 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-06T09:58:00.000+0000</id>
-    <published>2021-01-06T21:00:34Z</published>
-    <updated>2021-01-06T21:00:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-06T19:54:00.000+0000</id>
+    <published>2021-01-06T22:00:24Z</published>
+    <updated>2021-01-06T22:00:24Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 2°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (35°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:09 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (35°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1018mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:09 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-06T09:58:00.000+0000</id>
-    <published>2021-01-06T21:00:34Z</published>
-    <updated>2021-01-06T21:00:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-06T19:54:00.000+0000</id>
+    <published>2021-01-06T22:00:24Z</published>
+    <updated>2021-01-06T22:00:24Z</updated>
   </entry>
   <entry>
     <title>Friday: Thick Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:11 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:11 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-06T09:58:00.000+0000</id>
-    <published>2021-01-06T21:00:34Z</published>
-    <updated>2021-01-06T21:00:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-06T19:54:00.000+0000</id>
+    <published>2021-01-06T22:00:24Z</published>
+    <updated>2021-01-06T22:00:24Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvaGVhcmluZy1ob3NwaXRhbGl0eS1rYW0tYXV0dW1uLWF0LXRpa2l0YWlsLWJhbGhhbdIBAA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://uknip.co.uk/breaking/news-256907/officers-are-concerned-about-72-year-old-john-gamble-whos-gone-missing/" target="_blank"&gt;Officers are concerned about 72 year old John Gamble who's gone missing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiN2h0dHBzOi8vbG9uZG9udGhlaW5zaWRlLmNvbS9sb2NhbC1oZXJvZXMtbG92ZS10cmlhbmdsZS_SATtodHRwczovL2xvbmRvbnRoZWluc2lkZS5jb20vbG9jYWwtaGVyb2VzLWxvdmUtdHJpYW5nbGUvP2FtcA?oc=5</id>
+    <title type="html">Love Triangle Local Heroes | Eat &amp; Drink | London On The Inside - London On The Inside</title>
+    <updated>2021-01-05T15:33:45.000000000Z</updated>
+    <link href="https://londontheinside.com/local-heroes-love-triangle/" type="text/html"/>
+    <content type="html">&lt;a href="https://londontheinside.com/local-heroes-love-triangle/" target="_blank"&gt;Love Triangle Local Heroes | Eat &amp; Drink | London On The Inside&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London On The Inside&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMimAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvcGFyZW50cy1vZi1ub3JhLXF1b2lyaW4tMTUteWVhci1vbGQtd2hvLWRpZWQtaW4tbWFsYXlzaWFuLWp1bmdsZS11dHRlcmx5LWRpc2FwcG9pbnRlZC13aXRoLWNvcm9uZXJzLW1pc2FkdmVudHVyZS12ZXJkaWN0L9IBAA?oc=5</id>
     <title type="html">Parents of Nora Quoirin, 15-year-old who died in Malaysian jungle, “utterly disappointed” with coroner's misadventure verdict - London News Online</title>
     <updated>2021-01-05T12:37:00.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/parents-of-nora-quoirin-15-year-old-who-died-in-malaysian-jungle-utterly-disappointed-with-coroners-misadventure-verdict/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/parents-of-nora-quoirin-15-year-old-who-died-in-malaysian-jungle-utterly-disappointed-with-coroners-misadventure-verdict/" target="_blank"&gt;Parents of Nora Quoirin, 15-year-old who died in Malaysian jungle, “utterly disappointed” with coroner's misadventure verdict&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEPVUr4c6G9qIO8VW8aWWYm8qGAgEKg8IACoHCAowmdygCTDvz3Awy8WLAw?oc=5</id>
-    <title type="html">Susanna Reid admits to feeling down in candid Good Morning Britain moment - HELLO!</title>
-    <updated>2021-01-05T07:02:44.000000000Z</updated>
-    <link href="https://www.hellomagazine.com/film/20210105103774/susanna-reid-feeling-down-covid-news-dr-hilary-good-morning-britain/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hellomagazine.com/film/20210105103774/susanna-reid-feeling-down-covid-news-dr-hilary-good-morning-britain/" target="_blank"&gt;Susanna Reid admits to feeling down in candid Good Morning Britain moment&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
