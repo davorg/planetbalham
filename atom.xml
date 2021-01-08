@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-08T00:11:24Z</updated>
+  <updated>2021-01-08T02:10:58Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: -1°C (31°F)</title>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 0°C (33°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (31°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 95%, UV Risk: 0, Pollution: Low, Sunset: 16:11 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (33°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 16:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-07T21:50:00.000+0000</id>
-    <published>2021-01-08T00:01:29Z</published>
-    <updated>2021-01-08T00:01:29Z</updated>
+    <published>2021-01-08T02:02:05Z</published>
+    <updated>2021-01-08T02:02:05Z</updated>
   </entry>
   <entry>
-    <title>Friday: Thick Cloud, Minimum Temperature: 0°C (32°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Friday: Thick Cloud, Minimum Temperature: 0°C (32°F) Maximum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 0°C (32°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-07T21:50:00.000+0000</id>
-    <published>2021-01-08T00:01:29Z</published>
-    <updated>2021-01-08T00:01:29Z</updated>
+    <published>2021-01-08T02:02:05Z</published>
+    <updated>2021-01-08T02:02:05Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 5°C (41°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -1°C (30°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-07T21:50:00.000+0000</id>
-    <published>2021-01-08T00:01:29Z</published>
-    <updated>2021-01-08T00:01:29Z</updated>
+    <published>2021-01-08T02:02:05Z</published>
+    <updated>2021-01-08T02:02:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFx85i9L0oA6qLf2aRdYfOcqMwgEKioIACIQ1rpBS-XdJm3XXmJlz338nyoUCAoiENa6QUvl3SZt115iZc99_J8w9fbuBg?oc=5</id>
@@ -62,11 +62,11 @@
     <content type="html">&lt;a href="https://www.hellomagazine.com/film/20210105103774/susanna-reid-feeling-down-covid-news-dr-hilary-good-morning-britain/" target="_blank"&gt;Susanna Reid admits to feeling down in candid Good Morning Britain moment&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay01NTUyNjcxM9IBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvdWstNTU1MjY3MTM?oc=5</id>
-    <title type="html">Nóra Quoirin: 'Misadventure' verdict for girl found in Malaysian jungle - BBC News</title>
-    <updated>2021-01-04T10:40:00.000000000Z</updated>
-    <link href="https://www.bbc.com/news/uk-55526713" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bbc.com/news/uk-55526713" target="_blank"&gt;Nóra Quoirin: 'Misadventure' verdict for girl found in Malaysian jungle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
+    <id>https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWllbGFETmtZQU1FU1dhT1NSYzhHZlFLQUFQAQ?oc=5</id>
+    <title type="html">Death of Balham schoolgirl 'misadventure' finds coroner - This is Local London</title>
+    <updated>2021-01-04T12:20:00.000000000Z</updated>
+    <link href="https://www.thisislocallondon.co.uk/news/18984618.death-balham-schoolgirl-misadventure-finds-coroner/" type="text/html"/>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.thisislocallondon.co.uk/news/18984618.death-balham-schoolgirl-misadventure-finds-coroner/" target="_blank"&gt;Death of Balham schoolgirl 'misadventure' finds coroner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-55526713" target="_blank"&gt;Nóra Quoirin: 'Misadventure' verdict for girl found in Malaysian jungle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.foxnews.com/world/missing-british-teens-death-in-malaysia-did-not-involve-other-people-coroner" target="_blank"&gt;Missing British teen's death in Malaysia did not involve other people: coroner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fox News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWllbGFETmtZQU1FU1dhT1NSYzhHZlFLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEL9RWmPUGby3WTs0J64hwxEqFggEKg4IACoGCAowl6p7MN-zCTDlkko?oc=5</id>
