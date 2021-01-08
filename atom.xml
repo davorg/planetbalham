@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-08T18:48:41Z</updated>
+  <updated>2021-01-08T19:19:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 16:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-08T09:52:00.000+0000</id>
-    <published>2021-01-08T18:30:58Z</published>
-    <updated>2021-01-08T18:30:58Z</updated>
+    <published>2021-01-08T19:02:10Z</published>
+    <updated>2021-01-08T19:02:10Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -1°C (30°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-08T09:52:00.000+0000</id>
-    <published>2021-01-08T18:30:58Z</published>
-    <updated>2021-01-08T18:30:58Z</updated>
+    <published>2021-01-08T19:02:10Z</published>
+    <updated>2021-01-08T19:02:10Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 4°C (40°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-08T09:52:00.000+0000</id>
-    <published>2021-01-08T18:30:58Z</published>
-    <updated>2021-01-08T18:30:58Z</updated>
+    <published>2021-01-08T19:02:10Z</published>
+    <updated>2021-01-08T19:02:10Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9yZW1pbmlzY2luZy1hYm91dC1nb29kLXRpbWVzLWF0LXRoZS1yZWdlbnQtaW4tYmFsaGFtL9IBAA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-01-08T15:30:00.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/reminiscing-about-good-times-at-the-regent-in-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/reminiscing-about-good-times-at-the-regent-in-balham/" target="_blank"&gt;Reminiscing about good times at The Regent in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vZm9ydW1zLnRoaW5rYnJvYWRiYW5kLmNvbS9maWJyZS90LzQ2NzA5NzMtaGFuZG92ZXItZXhjaGFuZ2VzLmh0bWzSAQA?oc=5</id>
+    <title type="html">Handover exchanges :: Fibre Broadband - thinkbroadband.com</title>
+    <updated>2021-01-08T13:16:37.000000000Z</updated>
+    <link href="https://forums.thinkbroadband.com/fibre/t/4670973-handover-exchanges.html" type="text/html"/>
+    <content type="html">&lt;a href="https://forums.thinkbroadband.com/fibre/t/4670973-handover-exchanges.html" target="_blank"&gt;Handover exchanges :: Fibre Broadband&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;thinkbroadband.com&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZ2h0dHA6Ly9sb25kb25uZXdzb25saW5lLmNvLnVrL2dlb3JnZS1hLWRyaXZpbmctZm9yY2Utb2YtZmlyc3Qtd29ybGQtd2FyLWRpZWQtbXlzdGVyaW91c2x5LW9uLWJvYXQtaG9tZS_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-01-06T11:51:41.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/06012021-balham-and-tooting-community-association-celebrate-local-heroes/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06012021-balham-and-tooting-community-association-celebrate-local-heroes/" target="_blank"&gt;Balham and Tooting Community Association celebrate local heroes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEFx85i9L0oA6qLf2aRdYfOcqMwgEKioIACIQ1rpBS-XdJm3XXmJlz338nyoUCAoiENa6QUvl3SZt115iZc99_J8w9fbuBg?oc=5</id>
-    <title type="html">Officers are concerned about 72 year old John Gamble who's gone missing - UK News in Pictures</title>
-    <updated>2021-01-06T07:30:41.000000000Z</updated>
-    <link href="https://uknip.co.uk/breaking/news-256907/officers-are-concerned-about-72-year-old-john-gamble-whos-gone-missing/" type="text/html"/>
-    <content type="html">&lt;a href="https://uknip.co.uk/breaking/news-256907/officers-are-concerned-about-72-year-old-john-gamble-whos-gone-missing/" target="_blank"&gt;Officers are concerned about 72 year old John Gamble who's gone missing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
