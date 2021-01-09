@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-09T13:23:08Z</updated>
+  <updated>2021-01-09T14:07:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-09T09:54:00.000+0000</id>
-    <published>2021-01-09T13:01:45Z</published>
-    <updated>2021-01-09T13:01:45Z</updated>
+    <published>2021-01-09T14:02:31Z</published>
+    <updated>2021-01-09T14:02:31Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-09T09:54:00.000+0000</id>
-    <published>2021-01-09T13:01:45Z</published>
-    <updated>2021-01-09T13:01:45Z</updated>
+    <published>2021-01-09T14:02:31Z</published>
+    <updated>2021-01-09T14:02:31Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-09T09:54:00.000+0000</id>
-    <published>2021-01-09T13:01:45Z</published>
-    <updated>2021-01-09T13:01:45Z</updated>
+    <published>2021-01-09T14:02:31Z</published>
+    <updated>2021-01-09T14:02:31Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiENw65SGazCJ_ZXCz0Ysmz8wqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <title type="html">Anti-lockdown protesters gather in Clapham Common - Evening Standard</title>
+    <updated>2021-01-09T14:02:00.000000000Z</updated>
+    <link href="https://www.standard.co.uk/news/london/lockdown-protest-clapham-common-b783104.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/lockdown-protest-clapham-common-b783104.html" target="_blank"&gt;Anti-lockdown protesters gather in Clapham Common&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9yZW1pbmlzY2luZy1hYm91dC1nb29kLXRpbWVzLWF0LXRoZS1yZWdlbnQtaW4tYmFsaGFtL9IBAA?oc=5</id>
@@ -55,11 +62,11 @@
     <content type="html">&lt;a href="https://forums.thinkbroadband.com/fibre/t/4670955-handover-exchanges.html" target="_blank"&gt;Handover exchanges :: Fibre Broadband&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;thinkbroadband.com&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHA6Ly9sb25kb25uZXdzb25saW5lLmNvLnVrL2dlb3JnZS1hLWRyaXZpbmctZm9yY2Utb2YtZmlyc3Qtd29ybGQtd2FyLWRpZWQtbXlzdGVyaW91c2x5LW9uLWJvYXQtaG9tZS_SAQA?oc=5</id>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9nZW9yZ2UtYS1kcml2aW5nLWZvcmNlLW9mLWZpcnN0LXdvcmxkLXdhci1kaWVkLW15c3RlcmlvdXNseS1vbi1ib2F0LWhvbWUv0gEA?oc=5</id>
     <title type="html">George, a driving force of First World War, died mysteriously on boat home - London News Online</title>
     <updated>2021-01-08T13:00:00.000000000Z</updated>
-    <link href="http://londonnewsonline.co.uk/george-a-driving-force-of-first-world-war-died-mysteriously-on-boat-home/" type="text/html"/>
-    <content type="html">&lt;a href="http://londonnewsonline.co.uk/george-a-driving-force-of-first-world-war-died-mysteriously-on-boat-home/" target="_blank"&gt;George, a driving force of First World War, died mysteriously on boat home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <link href="https://londonnewsonline.co.uk/george-a-driving-force-of-first-world-war-died-mysteriously-on-boat-home/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/george-a-driving-force-of-first-world-war-died-mysteriously-on-boat-home/" target="_blank"&gt;George, a driving force of First World War, died mysteriously on boat home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay90cmF2ZWwvYWN0aXZpdHktYW5kLWFkdmVudHVyZS9iZXN0LXdhbGtzLXRoYW1lcy12YWxsZXktYmVhdC1sb2NrZG93bi1ibHVlcy_SAWtodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvdHJhdmVsL2FjdGl2aXR5LWFuZC1hZHZlbnR1cmUvYmVzdC13YWxrcy10aGFtZXMtdmFsbGV5LWJlYXQtbG9ja2Rvd24tYmx1ZXMvYW1wLw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-01-08T11:10:00.000000000Z</updated>
     <link href="https://www.telegraph.co.uk/travel/activity-and-adventure/best-walks-thames-valley-beat-lockdown-blues/" type="text/html"/>
     <content type="html">&lt;a href="https://www.telegraph.co.uk/travel/activity-and-adventure/best-walks-thames-valley-beat-lockdown-blues/" target="_blank"&gt;The best walks in the Thames Valley to beat the lockdown blues&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECDkL4yS3sQMvnERcLblK0IqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Balham and Tooting Community Association celebrate local heroes - South West Londoner</title>
-    <updated>2021-01-06T11:51:41.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/06012021-balham-and-tooting-community-association-celebrate-local-heroes/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06012021-balham-and-tooting-community-association-celebrate-local-heroes/" target="_blank"&gt;Balham and Tooting Community Association celebrate local heroes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
