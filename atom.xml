@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-13T14:24:13Z</updated>
+  <updated>2021-01-13T15:15:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 92%, UV Risk: 0, Pollution: Moderate, Sunrise: 08:01 GMT, Sunset: 16:18 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 94%, UV Risk: 0, Pollution: Moderate, Sunrise: 08:01 GMT, Sunset: 16:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-13T09:55:00.000+0000</id>
-    <published>2021-01-13T14:11:16Z</published>
-    <updated>2021-01-13T14:11:16Z</updated>
+    <published>2021-01-13T15:11:54Z</published>
+    <updated>2021-01-13T15:11:54Z</updated>
   </entry>
   <entry>
     <title>Thursday: Heavy Rain, Minimum Temperature: 1°C (33°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (33°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 95%, UV Risk: 1, Pollution: Moderate, Sunrise: 08:01 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-13T09:55:00.000+0000</id>
-    <published>2021-01-13T14:11:16Z</published>
-    <updated>2021-01-13T14:11:16Z</updated>
+    <published>2021-01-13T15:11:54Z</published>
+    <updated>2021-01-13T15:11:54Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 4°C (39°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1031mb, Humidity: 83%, UV Risk: 0, Pollution: Moderate, Sunrise: 08:00 GMT, Sunset: 16:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-13T09:55:00.000+0000</id>
-    <published>2021-01-13T14:11:16Z</published>
-    <updated>2021-01-13T14:11:16Z</updated>
+    <published>2021-01-13T15:11:54Z</published>
+    <updated>2021-01-13T15:11:54Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEPc97hrsICGu2s3AXMIbAtgqMwgEKioIACIQ698LFQv3K8OwonLmpUS35CoUCAoiEOvfCxUL9yvDsKJy5qVEt-Qw7vvCBg?oc=5</id>
+    <title type="html">Wagamama instructs agent to pinpoint strategic sites to build delivery kitchens - Foodservice Equipment Journal</title>
+    <updated>2021-01-13T10:50:00.000000000Z</updated>
+    <link href="https://www.foodserviceequipmentjournal.com/wagamama-instructs-agent-to-pinpoint-strategic-sites-to-build-delivery-kitchens/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.foodserviceequipmentjournal.com/wagamama-instructs-agent-to-pinpoint-strategic-sites-to-build-delivery-kitchens/" target="_blank"&gt;Wagamama instructs agent to pinpoint strategic sites to build delivery kitchens&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Foodservice Equipment Journal&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMTkwMDQ1OTEuY2VudHJlcy1vZmZlcmluZy1jb3ZpZC0xOS12YWNjaW5lcy1hY3Jvc3Mtc291dGgtbG9uZG9uL9IBAA?oc=5</id>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://bakeryinfo.co.uk/finished-goods/bakery-treats-launched-for-veganuary-2021/651946.article" target="_blank"&gt;Bakery treats launched for Veganuary 2021 | News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Baker&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiENw65SGazCJ_ZXCz0Ysmz8wqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
-    <title type="html">Anti-lockdown protesters gather in Clapham Common - Evening Standard</title>
-    <updated>2021-01-09T16:04:00.000000000Z</updated>
-    <link href="https://www.standard.co.uk/news/london/lockdown-protest-clapham-common-b783104.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/lockdown-protest-clapham-common-b783104.html" target="_blank"&gt;Anti-lockdown protesters gather in Clapham Common&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9yZW1pbmlzY2luZy1hYm91dC1nb29kLXRpbWVzLWF0LXRoZS1yZWdlbnQtaW4tYmFsaGFtL9IBAA?oc=5</id>
-    <title type="html">Reminiscing about good times at The Regent in Balham - London News Online</title>
-    <updated>2021-01-08T15:30:00.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/reminiscing-about-good-times-at-the-regent-in-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/reminiscing-about-good-times-at-the-regent-in-balham/" target="_blank"&gt;Reminiscing about good times at The Regent in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIxMDExMTEwMTcxL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvcmVkLWR1Y2stY2hpbmVzZS1iYWxoYW0tcmVzdGF1cmFudC1sb25kb24tb3BlbmluZ9IBAA?oc=5</id>
+    <title type="html">The Red Duck is a new neighbourhood Chinese restaurant for Balham - Hot Dinners</title>
+    <updated>2021-01-11T08:38:00.000000000Z</updated>
+    <link href="https://www.hot-dinners.com/2021011110171/Gastroblog/Latest-news/red-duck-chinese-balham-restaurant-london-opening" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hot-dinners.com/2021011110171/Gastroblog/Latest-news/red-duck-chinese-balham-restaurant-london-opening" target="_blank"&gt;The Red Duck is a new neighbourhood Chinese restaurant for Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
