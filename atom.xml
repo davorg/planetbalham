@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-16T02:32:07Z</updated>
+  <updated>2021-01-16T03:46:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDvzUoR7WXeSG_PaH7msUnwqGAgEKg8IACoHCAowqa6gCTCuoHAw_YqLAw?oc=5</id>
+    <title type="html">Nora Quoirin's brave mum says there is 'compelling' evidence daughter was abducted - Mirror Online</title>
+    <updated>2021-01-16T03:18:00.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/news/uk-news/nora-quoirins-brave-mum-says-23329042" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/nora-quoirins-brave-mum-says-23329042" target="_blank"&gt;Nora Quoirin's brave mum says there is 'compelling' evidence daughter was abducted&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Tonight: Sleet, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunset: 16:22 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-15T21:51:00.000+0000</id>
-    <published>2021-01-16T02:03:54Z</published>
-    <updated>2021-01-16T02:03:54Z</updated>
+    <published>2021-01-16T03:04:36Z</published>
+    <updated>2021-01-16T03:04:36Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sleet, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 16:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-15T21:51:00.000+0000</id>
-    <published>2021-01-16T02:03:54Z</published>
-    <updated>2021-01-16T02:03:54Z</updated>
+    <published>2021-01-16T03:04:36Z</published>
+    <updated>2021-01-16T03:04:36Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (35°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-15T21:51:00.000+0000</id>
-    <published>2021-01-16T02:03:54Z</published>
-    <updated>2021-01-16T02:03:54Z</updated>
+    <published>2021-01-16T03:04:36Z</published>
+    <updated>2021-01-16T03:04:36Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL2hlYWx0aHktZGVsaXZlcmllcy10by1lbmpveS1hdC1ob21l0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-01-12T11:38:07.000000000Z</updated>
     <link href="https://www.thecaterer.com/news/wagamama-delivery-dark-kitchens-restaurant" type="text/html"/>
     <content type="html">&lt;a href="https://www.thecaterer.com/news/wagamama-delivery-dark-kitchens-restaurant" target="_blank"&gt;Wagamama looking to open more delivery...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Caterer.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vYmFrZXJ5aW5mby5jby51ay9maW5pc2hlZC1nb29kcy9iYWtlcnktdHJlYXRzLWxhdW5jaGVkLWZvci12ZWdhbnVhcnktMjAyMS82NTE5NDYuYXJ0aWNsZdIBAA?oc=5</id>
-    <title type="html">Bakery treats launched for Veganuary 2021 | News - British Baker</title>
-    <updated>2021-01-11T11:45:02.000000000Z</updated>
-    <link href="https://bakeryinfo.co.uk/finished-goods/bakery-treats-launched-for-veganuary-2021/651946.article" type="text/html"/>
-    <content type="html">&lt;a href="https://bakeryinfo.co.uk/finished-goods/bakery-treats-launched-for-veganuary-2021/651946.article" target="_blank"&gt;Bakery treats launched for Veganuary 2021 | News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Baker&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
