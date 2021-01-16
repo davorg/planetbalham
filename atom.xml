@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-16T00:31:54Z</updated>
+  <updated>2021-01-16T02:32:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Snow, Minimum Temperature: 3°C (37°F)</title>
+    <title>Tonight: Sleet, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 16:22 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-15T21:51:00.000+0000</id>
-    <published>2021-01-16T00:00:18Z</published>
-    <updated>2021-01-16T00:00:18Z</updated>
+    <published>2021-01-16T02:03:54Z</published>
+    <updated>2021-01-16T02:03:54Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Heavy Snow, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Saturday: Sleet, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 16:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-15T21:51:00.000+0000</id>
-    <published>2021-01-16T00:00:18Z</published>
-    <updated>2021-01-16T00:00:18Z</updated>
+    <published>2021-01-16T02:03:54Z</published>
+    <updated>2021-01-16T02:03:54Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (35°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-15T21:51:00.000+0000</id>
-    <published>2021-01-16T00:00:18Z</published>
-    <updated>2021-01-16T00:00:18Z</updated>
+    <published>2021-01-16T02:03:54Z</published>
+    <updated>2021-01-16T02:03:54Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL2hlYWx0aHktZGVsaXZlcmllcy10by1lbmpveS1hdC1ob21l0gEA?oc=5</id>
@@ -151,6 +151,43 @@ I don’t usually include classical shows in these lists. To be honest, I don’
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Underground Station</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
+    <id>tag:flickr.com,2005:/photo/50726669988</id>
+    <published>2020-12-16T19:38:37Z</published>
+    <updated>2020-12-16T19:38:37Z</updated>
+    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
+15 December 2020&lt;/p&gt;</content>
+    <author>
+      <name>McTumshie (Andrew Smith)</name>
+      <uri>https://www.flickr.com/people/mctumshie/</uri>
+      <flickr:nsid>51939423@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
+    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Gateway To The South</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726670203/"/>
     <id>tag:flickr.com,2005:/photo/50726670203</id>
@@ -244,52 +281,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="undergoundstation" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Girl In The Garden #2</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50622451452/"/>
-    <id>tag:flickr.com,2005:/photo/50622451452</id>
-    <published>2020-11-19T22:55:25Z</published>
-    <updated>2020-11-19T22:55:25Z</updated>
-    <flickr:date_taken>2020-07-31T00:38:12-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-07-31T00:38:12-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50622451452/" title="Girl In The Garden #2"&gt;&lt;img src="https://live.staticflickr.com/65535/50622451452_0d67390320_m.jpg" width="240" height="159" alt="Girl In The Garden #2" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>The_Kevster</name>
-      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
-      <flickr:nsid>64151671@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50622451452_0d67390320_b.jpg"/>
-    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trees" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="seated" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="smile" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="happy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="relaxation" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
