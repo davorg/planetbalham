@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-18T00:25:56Z</updated>
+  <updated>2021-01-18T02:30:31Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1025mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 16:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-17T21:53:00.000+0000</id>
-    <published>2021-01-18T00:02:00Z</published>
-    <updated>2021-01-18T00:02:00Z</updated>
+    <published>2021-01-18T02:03:08Z</published>
+    <updated>2021-01-18T02:03:08Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 8°C (47°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-17T21:53:00.000+0000</id>
-    <published>2021-01-18T00:02:00Z</published>
-    <updated>2021-01-18T00:02:00Z</updated>
+    <published>2021-01-18T02:03:08Z</published>
+    <updated>2021-01-18T02:03:08Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 13°C (54°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (54°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1005mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-17T21:53:00.000+0000</id>
-    <published>2021-01-18T00:02:00Z</published>
-    <updated>2021-01-18T00:02:00Z</updated>
+    <published>2021-01-18T02:03:08Z</published>
+    <updated>2021-01-18T02:03:08Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihgFodHRwczovL2xvdWRlcnRoYW53YXIuY29tL21hcmsta2Vkcy1hLXZlcnktcGVyc29uYWwtZXVsb2d5LWZyb20tYmFuZC1tZW1iZXItamVyb21lLWFsZXhhbmRlci1hbmQtbWFueS1vdGhlci1tdXNpY2lhbnMtY2VsZWJyYXRpbmctaGltL9IBAA?oc=5</id>
+    <title type="html">Mark Keds - a very personal eulogy from band member Jerome Alexandre and many other musicians celebrating him | Mark Keds - eulogy - Louder Than War</title>
+    <updated>2021-01-17T19:00:00.000000000Z</updated>
+    <link href="https://louderthanwar.com/mark-keds-a-very-personal-eulogy-from-band-member-jerome-alexander-and-many-other-musicians-celebrating-him/" type="text/html"/>
+    <content type="html">&lt;a href="https://louderthanwar.com/mark-keds-a-very-personal-eulogy-from-band-member-jerome-alexander-and-many-other-musicians-celebrating-him/" target="_blank"&gt;Mark Keds - a very personal eulogy from band member Jerome Alexandre and many other musicians celebrating him | Mark Keds - eulogy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Louder Than War&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvcGF0aWVudHMtYXNrLXdoeS10aGV5LXdlcmUtaW5mZWN0ZWQtd2l0aC1oaXYtYW5kLWhlcGF0aXRpcy1jLTQwLXllYXJzLWFnby1hbmQtd2VyZS1ub3QtdG9sZC10aGV5LXdlcmUtcGFydC1vZi1hLXRlc3Qv0gEA?oc=5</id>
@@ -53,13 +60,6 @@
     <updated>2021-01-17T00:01:00.000000000Z</updated>
     <link href="https://www.thetimes.co.uk/article/the-partys-over-neighbours-kept-in-line-by-army-of-curtain-twitcher-0qngm26bm" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/the-partys-over-neighbours-kept-in-line-by-army-of-curtain-twitcher-0qngm26bm" target="_blank"&gt;The party's over: neighbours kept in line by army of curtain-twitcher&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvdm9ndWUtd2FzLW5ldmVyLWdvaW5nLXRvLWNvdmVyLWthbWFsYS1pbi1nbG9yeS1idXQtaXQtc2hvdC1pdHNlbGYtaW4tdGhlLWZvb3QtdG9vLWgwbGdyNmJsbNIBAA?oc=5</id>
-    <title type="html">Vogue was never going to cover Kamala in glory but it shot itself in the foot too - The Times</title>
-    <updated>2021-01-17T00:01:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/vogue-was-never-going-to-cover-kamala-in-glory-but-it-shot-itself-in-the-foot-too-h0lgr6bll" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/vogue-was-never-going-to-cover-kamala-in-glory-but-it-shot-itself-in-the-foot-too-h0lgr6bll" target="_blank"&gt;Vogue was never going to cover Kamala in glory but it shot itself in the foot too&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wMS8xNi9ndHItdHJhaW4tc2VydmljZXMtaW50by1sb25kb24tYnJpZGdlLWN1dC1iYWNrLWZyb20tbW9uZGF5L9IBZGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wMS8xNi9ndHItdHJhaW4tc2VydmljZXMtaW50by1sb25kb24tYnJpZGdlLWN1dC1iYWNrLWZyb20tbW9uZGF5L2FtcC8?oc=5</id>
