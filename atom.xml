@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-18T18:10:48Z</updated>
+  <updated>2021-01-18T19:12:59Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Heavy Rain, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-18T09:55:00.000+0000</id>
-    <published>2021-01-18T18:08:56Z</published>
-    <updated>2021-01-18T18:08:56Z</updated>
+    <published>2021-01-18T19:10:09Z</published>
+    <updated>2021-01-18T19:10:09Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 10°C (49°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1005mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-18T09:55:00.000+0000</id>
-    <published>2021-01-18T18:08:56Z</published>
-    <updated>2021-01-18T18:08:56Z</updated>
+    <published>2021-01-18T19:10:09Z</published>
+    <updated>2021-01-18T19:10:09Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 990mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-18T09:55:00.000+0000</id>
-    <published>2021-01-18T18:08:56Z</published>
-    <updated>2021-01-18T18:08:56Z</updated>
+    <published>2021-01-18T19:10:09Z</published>
+    <updated>2021-01-18T19:10:09Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmNpdHlhbS5jb20vbW9yZS10aGFuLTExNW0tb2YtcHVibGljLW1vbmV5LXNwZW50LW9uLWNyb3NzcmFpbC0yLWNvbnRyYWN0cy_SAVlodHRwczovL3d3dy5jaXR5YW0uY29tL21vcmUtdGhhbi0xMTVtLW9mLXB1YmxpYy1tb25leS1zcGVudC1vbi1jcm9zc3JhaWwtMi1jb250cmFjdHMvYW1wLw?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/18012021-balham-ballers-keeps-kicking-with-free-zoom-classes-for-students/" target="_blank"&gt;Balham Ballers keeps kicking with free zoom classes for students&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtbG9uZG9uLTU1Njk3MTU20gE5aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYW1wL3VrLWVuZ2xhbmQtbG9uZG9uLTU1Njk3MTU2?oc=5</id>
+    <title type="html">Nóra Quoirin death: Girl's body 'placed in the jungle' - BBC News</title>
+    <updated>2021-01-18T09:50:00.000000000Z</updated>
+    <link href="https://www.bbc.co.uk/news/uk-england-london-55697156" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bbc.co.uk/news/uk-england-london-55697156" target="_blank"&gt;Nóra Quoirin death: Girl's body 'placed in the jungle'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMihgFodHRwczovL2xvdWRlcnRoYW53YXIuY29tL21hcmsta2Vkcy1hLXZlcnktcGVyc29uYWwtZXVsb2d5LWZyb20tYmFuZC1tZW1iZXItamVyb21lLWFsZXhhbmRlci1hbmQtbWFueS1vdGhlci1tdXNpY2lhbnMtY2VsZWJyYXRpbmctaGltL9IBAA?oc=5</id>
     <title type="html">Mark Keds - a very personal eulogy from band member Jerome Alexandre and many other musicians celebrating him | Mark Keds - eulogy - Louder Than War</title>
     <updated>2021-01-17T19:00:00.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2021-01-17T16:47:00.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/patients-ask-why-they-were-infected-with-hiv-and-hepatitis-c-40-years-ago-and-were-not-told-they-were-part-of-a-test/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/patients-ask-why-they-were-infected-with-hiv-and-hepatitis-c-40-years-ago-and-were-not-told-they-were-part-of-a-test/" target="_blank"&gt;Patients ask why they were infected with HIV and Hepatitis C 40 years ago – and were not told they were part of a test&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvdGhlLXBhcnR5cy1vdmVyLW5laWdoYm91cnMta2VwdC1pbi1saW5lLWJ5LWFybXktb2YtY3VydGFpbi10d2l0Y2hlci0wcW5nbTI2Ym3SAQA?oc=5</id>
-    <title type="html">The party's over: neighbours kept in line by army of curtain-twitcher - The Times</title>
-    <updated>2021-01-17T00:01:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/the-partys-over-neighbours-kept-in-line-by-army-of-curtain-twitcher-0qngm26bm" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/the-partys-over-neighbours-kept-in-line-by-army-of-curtain-twitcher-0qngm26bm" target="_blank"&gt;The party's over: neighbours kept in line by army of curtain-twitcher&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
