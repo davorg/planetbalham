@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-19T08:03:49Z</updated>
+  <updated>2021-01-19T09:05:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1005mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-18T21:51:00.000+0000</id>
-    <published>2021-01-19T08:02:20Z</published>
-    <updated>2021-01-19T08:02:20Z</updated>
+    <published>2021-01-19T09:01:54Z</published>
+    <updated>2021-01-19T09:01:54Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 19mph, Visibility: Good, Pressure: 989mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-18T21:51:00.000+0000</id>
-    <published>2021-01-19T08:02:20Z</published>
-    <updated>2021-01-19T08:02:20Z</updated>
+    <published>2021-01-19T09:01:54Z</published>
+    <updated>2021-01-19T09:01:54Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (35°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 986mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 16:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-18T21:51:00.000+0000</id>
-    <published>2021-01-19T08:02:20Z</published>
-    <updated>2021-01-19T08:02:20Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vcGgubmV3cy55YWhvby5jb20vMjAyMS10b3lvdGEtaGlnaGxhbmRlci1yZXZpZXctYmV0dGVyLTE5NDUwMDAyOC5odG1s0gFVaHR0cHM6Ly9waC5uZXdzLnlhaG9vLmNvbS9hbXBodG1sLzIwMjEtdG95b3RhLWhpZ2hsYW5kZXItcmV2aWV3LWJldHRlci0xOTQ1MDAwMjguaHRtbA?oc=5</id>
-    <title type="html">2021 Toyota Highlander Review | Better and now sportier - Yahoo Philippines News</title>
-    <updated>2021-01-18T20:06:01.000000000Z</updated>
-    <link href="https://ph.news.yahoo.com/2021-toyota-highlander-review-better-194500028.html" type="text/html"/>
-    <content type="html">&lt;a href="https://ph.news.yahoo.com/2021-toyota-highlander-review-better-194500028.html" target="_blank"&gt;2021 Toyota Highlander Review | Better and now sportier&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Philippines News&lt;/font&gt;</content>
+    <published>2021-01-19T09:01:54Z</published>
+    <updated>2021-01-19T09:01:54Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMDEvMTgvcGFyZW50cy1ub3JhLXF1b2lyaW4tY2FsbC1yZXZpZXctaW5xdWVzdC1ydWxpbmctYW1pZC1mZWFycy1hYmR1Y3RlZC_SAXRodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvbmV3cy8yMDIxLzAxLzE4L3BhcmVudHMtbm9yYS1xdW9pcmluLWNhbGwtcmV2aWV3LWlucXVlc3QtcnVsaW5nLWFtaWQtZmVhcnMtYWJkdWN0ZWQvYW1wLw?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-01-18T09:50:00.000000000Z</updated>
     <link href="https://www.bbc.co.uk/news/uk-england-london-55697156" type="text/html"/>
     <content type="html">&lt;a href="https://www.bbc.co.uk/news/uk-england-london-55697156" target="_blank"&gt;Nóra Quoirin death: Girl's body 'placed in the jungle'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihgFodHRwczovL2xvdWRlcnRoYW53YXIuY29tL21hcmsta2Vkcy1hLXZlcnktcGVyc29uYWwtZXVsb2d5LWZyb20tYmFuZC1tZW1iZXItamVyb21lLWFsZXhhbmRlci1hbmQtbWFueS1vdGhlci1tdXNpY2lhbnMtY2VsZWJyYXRpbmctaGltL9IBAA?oc=5</id>
+    <title type="html">Mark Keds - a very personal eulogy from band member Jerome Alexandre and many other musicians celebrating him | Mark Keds - eulogy - Louder Than War</title>
+    <updated>2021-01-17T19:00:00.000000000Z</updated>
+    <link href="https://louderthanwar.com/mark-keds-a-very-personal-eulogy-from-band-member-jerome-alexander-and-many-other-musicians-celebrating-him/" type="text/html"/>
+    <content type="html">&lt;a href="https://louderthanwar.com/mark-keds-a-very-personal-eulogy-from-band-member-jerome-alexander-and-many-other-musicians-celebrating-him/" target="_blank"&gt;Mark Keds - a very personal eulogy from band member Jerome Alexandre and many other musicians celebrating him | Mark Keds - eulogy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Louder Than War&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
