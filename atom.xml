@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-19T13:03:20Z</updated>
+  <updated>2021-01-19T14:11:14Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1004mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1002mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-19T09:00:00.000+0000</id>
-    <published>2021-01-19T12:59:46Z</published>
-    <updated>2021-01-19T12:59:46Z</updated>
+    <published>2021-01-19T14:01:48Z</published>
+    <updated>2021-01-19T14:01:48Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 19mph, Visibility: Good, Pressure: 989mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-19T09:00:00.000+0000</id>
-    <published>2021-01-19T12:59:46Z</published>
-    <updated>2021-01-19T12:59:46Z</updated>
+    <published>2021-01-19T14:01:48Z</published>
+    <updated>2021-01-19T14:01:48Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +37,43 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 2°C (35°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 987mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 16:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-19T09:00:00.000+0000</id>
-    <published>2021-01-19T12:59:46Z</published>
-    <updated>2021-01-19T12:59:46Z</updated>
+    <published>2021-01-19T14:01:48Z</published>
+    <updated>2021-01-19T14:01:48Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAFCOk56DhFTre-pUyLzfjsqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">Tooting resident launches second-hand bookshop on Instagram - South West Londoner</title>
+    <updated>2021-01-19T12:44:47.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/news/19012021-tooting-resident-launches-second-hand-bookshop-on-instagram/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/19012021-tooting-resident-launches-second-hand-bookshop-on-instagram/" target="_blank"&gt;Tooting resident launches second-hand bookshop on Instagram&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9yZXRpcmVtZW50LWhvbWUtd2l0aG91dC1oZWF0aW5nLWR1cmluZy1jb2xkZXN0LW1vbnRoL9IBAA?oc=5</id>
+    <title type="html">Retirement home without heating during coldest month - London News Online</title>
+    <updated>2021-01-19T12:00:00.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/retirement-home-without-heating-during-coldest-month/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/retirement-home-without-heating-during-coldest-month/" target="_blank"&gt;Retirement home without heating during coldest month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMDEvMTgvcGFyZW50cy1ub3JhLXF1b2lyaW4tY2FsbC1yZXZpZXctaW5xdWVzdC1ydWxpbmctYW1pZC1mZWFycy1hYmR1Y3RlZC_SAXRodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvbmV3cy8yMDIxLzAxLzE4L3BhcmVudHMtbm9yYS1xdW9pcmluLWNhbGwtcmV2aWV3LWlucXVlc3QtcnVsaW5nLWFtaWQtZmVhcnMtYWJkdWN0ZWQvYW1wLw?oc=5</id>
+    <title type="html">Parents of Nora Quoirin call for review of inquest ruling amid fears she was abducted - Telegraph.co.uk</title>
+    <updated>2021-01-18T19:16:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/news/2021/01/18/parents-nora-quoirin-call-review-inquest-ruling-amid-fears-abducted/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/01/18/parents-nora-quoirin-call-review-inquest-ruling-amid-fears-abducted/" target="_blank"&gt;Parents of Nora Quoirin call for review of inquest ruling amid fears she was abducted&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmNpdHlhbS5jb20vbW9yZS10aGFuLTExNW0tb2YtcHVibGljLW1vbmV5LXNwZW50LW9uLWNyb3NzcmFpbC0yLWNvbnRyYWN0cy_SAVlodHRwczovL3d3dy5jaXR5YW0uY29tL21vcmUtdGhhbi0xMTVtLW9mLXB1YmxpYy1tb25leS1zcGVudC1vbi1jcm9zc3JhaWwtMi1jb250cmFjdHMvYW1wLw?oc=5</id>
+    <title type="html">More than £115m of public money spent on Crossrail 2 consultants - City A.M.</title>
+    <updated>2021-01-18T17:47:00.000000000Z</updated>
+    <link href="https://www.cityam.com/more-than-115m-of-public-money-spent-on-crossrail-2-contracts/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cityam.com/more-than-115m-of-public-money-spent-on-crossrail-2-contracts/" target="_blank"&gt;More than £115m of public money spent on Crossrail 2 consultants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEKstGeqDmwkYwW-l3nyhl20qGQgEKhAIACoHCAowy4KeCzDcjLYDMNfl6QY?oc=5</id>
+    <title type="html">Balham Ballers keeps kicking with free zoom classes for students - South West Londoner</title>
+    <updated>2021-01-18T12:38:41.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/sport/18012021-balham-ballers-keeps-kicking-with-free-zoom-classes-for-students/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/18012021-balham-ballers-keeps-kicking-with-free-zoom-classes-for-students/" target="_blank"&gt;Balham Ballers keeps kicking with free zoom classes for students&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
