@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-20T11:58:54Z</updated>
+  <updated>2021-01-20T13:02:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 4°C (40°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 4°C (40°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 4°C (40°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 987mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 4°C (40°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 987mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-20T09:58:00.000+0000</id>
-    <published>2021-01-20T11:43:40Z</published>
-    <updated>2021-01-20T11:43:40Z</updated>
+    <published>2021-01-20T13:01:30Z</published>
+    <updated>2021-01-20T13:01:30Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 1°C (34°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 987mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 16:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-20T09:58:00.000+0000</id>
-    <published>2021-01-20T11:43:40Z</published>
-    <updated>2021-01-20T11:43:40Z</updated>
+    <published>2021-01-20T13:01:30Z</published>
+    <updated>2021-01-20T13:01:30Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,11 +37,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 994mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 16:32 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-20T09:58:00.000+0000</id>
-    <published>2021-01-20T11:43:40Z</published>
-    <updated>2021-01-20T11:43:40Z</updated>
+    <published>2021-01-20T13:01:30Z</published>
+    <updated>2021-01-20T13:01:30Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEMuUM772XwglHbv5I_hBQk0qGQgEKhAIACoHCAowzuOICzCZ4ocDMP3UoAY?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEMuUM772XwglHbv5I_hBQk0qGQgEKhAIACoHCAowzuOICzCZ4ocDMJ6RowY?oc=5</id>
     <title type="html">Michail Antonio reveals he now pays £20,000 in car insurance after crashing his £210,000 Lamborghini - Daily Mail</title>
     <updated>2021-01-20T11:13:00.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/sport/sportsnews/article-9167317/Michail-Antonio-reveals-pays-20-000-car-insurance-crashing-210-000-Lamborghini.html" type="text/html"/>
