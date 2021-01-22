@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-22T15:49:54Z</updated>
+  <updated>2021-01-22T17:28:49Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LXZpcnR1YWwtY2xhc3Nlcy10by10YWtlLXdoaWxlLWF0LWhvbWUtMDEyMjIx0gEA?oc=5</id>
-    <title type="html">The best virtual classes to take while at home - Time Out London</title>
-    <updated>2021-01-22T15:41:00.000000000Z</updated>
-    <link href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" type="text/html"/>
-    <content type="html">&lt;a href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" target="_blank"&gt;The best virtual classes to take while at home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 0°C (31°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 0°C (31°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (31°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 994mb, Humidity: 71%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 16:32 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (31°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 994mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:32 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-22T09:53:00.000+0000</id>
-    <published>2021-01-22T15:28:23Z</published>
-    <updated>2021-01-22T15:28:23Z</updated>
+    <published>2021-01-22T17:02:52Z</published>
+    <updated>2021-01-22T17:02:52Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 5°C (41°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 995mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 16:34 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-22T09:53:00.000+0000</id>
-    <published>2021-01-22T15:28:23Z</published>
-    <updated>2021-01-22T15:28:23Z</updated>
+    <published>2021-01-22T17:02:52Z</published>
+    <updated>2021-01-22T17:02:52Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sleet Showers, Minimum Temperature: -1°C (31°F) Maximum Temperature: 4°C (39°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -1°C (31°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 996mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-22T09:53:00.000+0000</id>
-    <published>2021-01-22T15:28:23Z</published>
-    <updated>2021-01-22T15:28:23Z</updated>
+    <published>2021-01-22T17:02:52Z</published>
+    <updated>2021-01-22T17:02:52Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LXZpcnR1YWwtY2xhc3Nlcy10by10YWtlLXdoaWxlLWF0LWhvbWUtMDEyMjIx0gEA?oc=5</id>
+    <title type="html">The best virtual classes to take while at home - Time Out London</title>
+    <updated>2021-01-22T15:41:00.000000000Z</updated>
+    <link href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" type="text/html"/>
+    <content type="html">&lt;a href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" target="_blank"&gt;The best virtual classes to take while at home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvaGVhcmluZy1ob3NwaXRhbGl0eS1lbWlseS1vd25lci1vZi1lbWlseS1wcmVlY2UtY2_SAQA?oc=5</id>
