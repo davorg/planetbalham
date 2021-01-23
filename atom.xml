@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-23T06:02:01Z</updated>
+  <updated>2021-01-23T06:57:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -3°C (27°F) Maximum Temperature: 5°C (41°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -3°C (27°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 995mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 16:34 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 995mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 16:34 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-22T21:51:00.000+0000</id>
-    <published>2021-01-23T05:59:05Z</published>
-    <updated>2021-01-23T05:59:05Z</updated>
+    <published>2021-01-23T06:41:13Z</published>
+    <updated>2021-01-23T06:41:13Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sleet Showers, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Sunday: Light Snow, Minimum Temperature: -1°C (31°F) Maximum Temperature: 2°C (36°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (31°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 995mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (36°F), Minimum Temperature: -1°C (31°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 996mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-22T21:51:00.000+0000</id>
-    <published>2021-01-23T05:59:05Z</published>
-    <updated>2021-01-23T05:59:05Z</updated>
+    <published>2021-01-23T06:41:13Z</published>
+    <updated>2021-01-23T06:41:13Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 0°C (32°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1004mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 0°C (32°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1005mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-22T21:51:00.000+0000</id>
-    <published>2021-01-23T05:59:05Z</published>
-    <updated>2021-01-23T05:59:05Z</updated>
+    <published>2021-01-23T06:41:13Z</published>
+    <updated>2021-01-23T06:41:13Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LXZpcnR1YWwtY2xhc3Nlcy10by10YWtlLXdoaWxlLWF0LWhvbWUtMDEyMjIx0gEA?oc=5</id>
@@ -46,13 +46,6 @@
     <updated>2021-01-22T15:41:00.000000000Z</updated>
     <link href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" type="text/html"/>
     <content type="html">&lt;a href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" target="_blank"&gt;The best virtual classes to take while at home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvaGVhcmluZy1ob3NwaXRhbGl0eS1lbWlseS1vd25lci1vZi1lbWlseS1wcmVlY2UtY2_SAQA?oc=5</id>
-    <title type="html">hearing-hospitality-emily-owner-of-emily-preece-co - Hitchin Daily PRSS</title>
-    <updated>2021-01-21T18:44:36.000000000Z</updated>
-    <link href="http://balham.localnewsie.co.uk/tabs/blog/2021/01/hearing-hospitality-emily-owner-of-emily-preece-co" type="text/html"/>
-    <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2021/01/hearing-hospitality-emily-owner-of-emily-preece-co" target="_blank"&gt;hearing-hospitality-emily-owner-of-emily-preece-co&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvZG9tZXN0aWMtYWJ1c2Utc3VwcG9ydC1saW5rcy1yZXNvdXJjZXMtZnJvbS1oZXN0aWHSAQA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-01-20T11:13:00.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/sport/sportsnews/article-9167317/Michail-Antonio-reveals-pays-20-000-car-insurance-crashing-210-000-Lamborghini.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailymail.co.uk/sport/sportsnews/article-9167317/Michail-Antonio-reveals-pays-20-000-car-insurance-crashing-210-000-Lamborghini.html" target="_blank"&gt;Michail Antonio reveals he now pays £20,000 in car insurance after crashing his £210,000 Lamborghini&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAFCOk56DhFTre-pUyLzfjsqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">Tooting resident launches second-hand bookshop on Instagram - South West Londoner</title>
+    <updated>2021-01-19T12:44:47.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/news/19012021-tooting-resident-launches-second-hand-bookshop-on-instagram/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/19012021-tooting-resident-launches-second-hand-bookshop-on-instagram/" target="_blank"&gt;Tooting resident launches second-hand bookshop on Instagram&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
