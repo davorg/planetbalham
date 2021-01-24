@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-24T20:52:19Z</updated>
+  <updated>2021-01-24T21:43:34Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: -3°C (27°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (27°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1000mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:36 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (27°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1000mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:36 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-24T09:53:00.000+0000</id>
-    <published>2021-01-24T20:14:42Z</published>
-    <updated>2021-01-24T20:14:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-24T19:54:00.000+0000</id>
+    <published>2021-01-24T21:14:49Z</published>
+    <updated>2021-01-24T21:14:49Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny, Minimum Temperature: 0°C (31°F) Maximum Temperature: 5°C (42°F)</title>
+    <title>Monday: Sunny, Minimum Temperature: -1°C (30°F) Maximum Temperature: 5°C (42°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 0°C (31°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: -1°C (30°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-24T09:53:00.000+0000</id>
-    <published>2021-01-24T20:14:42Z</published>
-    <updated>2021-01-24T20:14:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-24T19:54:00.000+0000</id>
+    <published>2021-01-24T21:14:49Z</published>
+    <updated>2021-01-24T21:14:49Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 4°C (40°F) Maximum Temperature: 6°C (43°F)</title>
+    <title>Tuesday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-24T09:53:00.000+0000</id>
-    <published>2021-01-24T20:14:42Z</published>
-    <updated>2021-01-24T20:14:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-24T19:54:00.000+0000</id>
+    <published>2021-01-24T21:14:49Z</published>
+    <updated>2021-01-24T21:14:49Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMioAFodHRwczovL3d3dy50aGVtZXJjdXJ5LmNvbS5hdS9uZXdzL3BydWUtZnJlZW1hbnMtbGFtbW8tZHJpdmUtdWstcGVwcy11cC1leHBhdHMtb24tYXVzdHJhbGlhLWRheS0yMDIxLWR1cmluZy1sb2NrZG93bi9uZXdzLXN0b3J5L2M4OGZmNDlmZjYzZmZhYmEyZWNjMTI1YmM4MmNmYmJi0gGgAWh0dHBzOi8vYW1wLnRoZW1lcmN1cnkuY29tLmF1L25ld3MvcHJ1ZS1mcmVlbWFucy1sYW1tby1kcml2ZS11ay1wZXBzLXVwLWV4cGF0cy1vbi1hdXN0cmFsaWEtZGF5LTIwMjEtZHVyaW5nLWxvY2tkb3duL25ld3Mtc3RvcnkvYzg4ZmY0OWZmNjNmZmFiYTJlY2MxMjViYzgyY2ZiYmI?oc=5</id>
