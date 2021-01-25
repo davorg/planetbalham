@@ -7,45 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-25T20:26:06Z</updated>
+  <updated>2021-01-25T21:20:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: -3°C (26°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (26°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 16:37 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-25T19:53:00.000+0000</id>
+    <published>2021-01-25T21:02:37Z</published>
+    <updated>2021-01-25T21:02:37Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 5°C (42°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-25T19:53:00.000+0000</id>
+    <published>2021-01-25T21:02:37Z</published>
+    <updated>2021-01-25T21:02:37Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (48°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-25T19:53:00.000+0000</id>
+    <published>2021-01-25T21:02:37Z</published>
+    <updated>2021-01-25T21:02:37Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL3Jlc3RhdXJhbnRzL21pY2hlbGluLXN0YXItMjAyMS1sb25kb24tcmVzdGF1cmFudHMtYjkwMTAzNi5odG1s0gFmaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvcmV2ZWxsZXIvcmVzdGF1cmFudHMvbWljaGVsaW4tc3Rhci0yMDIxLWxvbmRvbi1yZXN0YXVyYW50cy1iOTAxMDM2Lmh0bWw_YW1w?oc=5</id>
     <title type="html">Michelin star restaurants in London 2021: All the capital’s one, two and three star restaurants - Evening Standard</title>
     <updated>2021-01-25T20:12:00.000000000Z</updated>
     <link href="https://www.standard.co.uk/reveller/restaurants/michelin-star-2021-london-restaurants-b901036.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/michelin-star-2021-london-restaurants-b901036.html" target="_blank"&gt;Michelin star restaurants in London 2021: All the capital’s one, two and three star restaurants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: -3°C (26°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (26°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 16:37 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-25T09:52:00.000+0000</id>
-    <published>2021-01-25T20:02:33Z</published>
-    <updated>2021-01-25T20:02:33Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 5°C (42°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-25T09:52:00.000+0000</id>
-    <published>2021-01-25T20:02:33Z</published>
-    <updated>2021-01-25T20:02:33Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Thick Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 8°C (47°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1015mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-25T09:52:00.000+0000</id>
-    <published>2021-01-25T20:02:33Z</published>
-    <updated>2021-01-25T20:02:33Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Winter Walk 1</title>
@@ -107,11 +107,11 @@
     <content type="html">&lt;a href="https://technocodex.com/susanna-reid-net-worth-2021-good-morning-britain-presenters-huge-fortune-unveiled/" target="_blank"&gt;Susanna Reid net worth 2021: Good Morning Britain presenter’s huge fortune unveiled&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechnoCodex&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMioAFodHRwczovL3d3dy50aGVtZXJjdXJ5LmNvbS5hdS9uZXdzL3BydWUtZnJlZW1hbnMtbGFtbW8tZHJpdmUtdWstcGVwcy11cC1leHBhdHMtb24tYXVzdHJhbGlhLWRheS0yMDIxLWR1cmluZy1sb2NrZG93bi9uZXdzLXN0b3J5L2M4OGZmNDlmZjYzZmZhYmEyZWNjMTI1YmM4MmNmYmJi0gGgAWh0dHBzOi8vYW1wLnRoZW1lcmN1cnkuY29tLmF1L25ld3MvcHJ1ZS1mcmVlbWFucy1sYW1tby1kcml2ZS11ay1wZXBzLXVwLWV4cGF0cy1vbi1hdXN0cmFsaWEtZGF5LTIwMjEtZHVyaW5nLWxvY2tkb3duL25ld3Mtc3RvcnkvYzg4ZmY0OWZmNjNmZmFiYTJlY2MxMjViYzgyY2ZiYmI?oc=5</id>
-    <title type="html">Prue Freeman’s Lammo Drive UK peps up expats on Australia Day 2021 during lockdown - The Mercury</title>
-    <updated>2021-01-24T20:13:15.000000000Z</updated>
-    <link href="https://www.themercury.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" type="text/html"/>
-    <content type="html">&lt;a href="https://www.themercury.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" target="_blank"&gt;Prue Freeman’s Lammo Drive UK peps up expats on Australia Day 2021 during lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mercury&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMinwFodHRwczovL3d3dy5oZXJhbGRzdW4uY29tLmF1L25ld3MvcHJ1ZS1mcmVlbWFucy1sYW1tby1kcml2ZS11ay1wZXBzLXVwLWV4cGF0cy1vbi1hdXN0cmFsaWEtZGF5LTIwMjEtZHVyaW5nLWxvY2tkb3duL25ld3Mtc3RvcnkvYzg4ZmY0OWZmNjNmZmFiYTJlY2MxMjViYzgyY2ZiYmLSAaMBaHR0cHM6Ly93d3cuaGVyYWxkc3VuLmNvbS5hdS9uZXdzL3BydWUtZnJlZW1hbnMtbGFtbW8tZHJpdmUtdWstcGVwcy11cC1leHBhdHMtb24tYXVzdHJhbGlhLWRheS0yMDIxLWR1cmluZy1sb2NrZG93bi9uZXdzLXN0b3J5L2M4OGZmNDlmZjYzZmZhYmEyZWNjMTI1YmM4MmNmYmJiP2FtcA?oc=5</id>
+    <title type="html">UK expats mark Australia Day with 50,000 lamingtons - Herald Sun</title>
+    <updated>2021-01-25T07:05:45.000000000Z</updated>
+    <link href="https://www.heraldsun.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" type="text/html"/>
+    <content type="html">&lt;a href="https://www.heraldsun.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" target="_blank"&gt;UK expats mark Australia Day with 50,000 lamingtons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Herald Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LXZpcnR1YWwtY2xhc3Nlcy10by10YWtlLXdoaWxlLWF0LWhvbWUtMDEyMjIx0gEA?oc=5</id>
@@ -164,37 +164,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="review"/>
     <category term="year in gigs"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>YD19HHO</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/trevor-plackett/49569620457/"/>
-    <id>tag:flickr.com,2005:/photo/49569620457</id>
-    <published>2020-12-26T09:55:25Z</published>
-    <updated>2020-12-26T09:55:25Z</updated>
-    <flickr:date_taken>2020-02-22T14:32:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-02-22T14:32:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/trevor-plackett/"&gt;47604&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/trevor-plackett/49569620457/" title="YD19HHO"&gt;&lt;img src="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_m.jpg" width="240" height="172" alt="YD19HHO" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;George regal of balham    m1&lt;/p&gt;</content>
-    <author>
-      <name>47604</name>
-      <uri>https://www.flickr.com/people/trevor-plackett/</uri>
-      <flickr:nsid>60459234@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2865/buddyicons/60459234@N04.jpg?1369294418#60459234@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_b.jpg"/>
-    <category term="yutong" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yd19" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="george" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="regal" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
@@ -296,6 +265,36 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="47851" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1m50" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>DSC_0072_POST2</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sfeest/50685637358/"/>
+    <id>tag:flickr.com,2005:/photo/50685637358</id>
+    <published>2020-12-06T12:45:03Z</published>
+    <updated>2020-12-06T12:45:03Z</updated>
+    <flickr:date_taken>2009-12-12T21:33:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2009-12-12T21:33:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/sfeest/"&gt;stephen.feest&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/sfeest/50685637358/" title="DSC_0072_POST2"&gt;&lt;img src="https://live.staticflickr.com/65535/50685637358_206f42f16d_m.jpg" width="160" height="240" alt="DSC_0072_POST2" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham Underground Station, London SW12&lt;/p&gt;</content>
+    <author>
+      <name>stephen.feest</name>
+      <uri>https://www.flickr.com/people/sfeest/</uri>
+      <flickr:nsid>33187409@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1741/buddyicons/33187409@N00.jpg?1528670497#33187409@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50685637358_206f42f16d_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="undergoundstation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
