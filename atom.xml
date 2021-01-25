@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-25T08:03:24Z</updated>
+  <updated>2021-01-25T09:04:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: -2°C (29°F) Maximum Temperature: 5°C (42°F)</title>
+    <title>Today: Sunny, Minimum Temperature: -2°C (29°F) Maximum Temperature: 6°C (42°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-24T21:49:00.000+0000</id>
-    <published>2021-01-25T07:59:31Z</published>
-    <updated>2021-01-25T07:59:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-25T07:58:00.000+0000</id>
+    <published>2021-01-25T09:04:12Z</published>
+    <updated>2021-01-25T09:04:12Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 5°C (42°F)</title>
@@ -26,22 +26,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-24T21:49:00.000+0000</id>
-    <published>2021-01-25T07:59:31Z</published>
-    <updated>2021-01-25T07:59:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-25T07:58:00.000+0000</id>
+    <published>2021-01-25T09:04:12Z</published>
+    <updated>2021-01-25T09:04:12Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1017mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1015mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-24T21:49:00.000+0000</id>
-    <published>2021-01-25T07:59:31Z</published>
-    <updated>2021-01-25T07:59:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-25T07:58:00.000+0000</id>
+    <published>2021-01-25T09:04:12Z</published>
+    <updated>2021-01-25T09:04:12Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vdGVjaG5vY29kZXguY29tL3N1c2FubmEtcmVpZC1uZXQtd29ydGgtMjAyMS1nb29kLW1vcm5pbmctYnJpdGFpbi1wcmVzZW50ZXJzLWh1Z2UtZm9ydHVuZS11bnZlaWxlZC_SAW5odHRwczovL3RlY2hub2NvZGV4LmNvbS9zdXNhbm5hLXJlaWQtbmV0LXdvcnRoLTIwMjEtZ29vZC1tb3JuaW5nLWJyaXRhaW4tcHJlc2VudGVycy1odWdlLWZvcnR1bmUtdW52ZWlsZWQvYW1wLw?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEOYxOPFPS1K8f6thWgYNewQqGQgEKhAIACoHCAow7riXCzDh4a4DMMS_zAY?oc=5</id>
+    <title type="html">Pound euro exchange rate: GBP ‘on front foot’ – latest travel money advice amid covid | Travel News | Travel - TechnoCodex</title>
+    <updated>2021-01-25T08:03:00.000000000Z</updated>
+    <link href="https://technocodex.com/pound-euro-exchange-rate-gbp-on-front-foot-latest-travel-money-advice-amid-covid-travel-news-travel/" type="text/html"/>
+    <content type="html">&lt;a href="https://technocodex.com/pound-euro-exchange-rate-gbp-on-front-foot-latest-travel-money-advice-amid-covid-travel-news-travel/" target="_blank"&gt;Pound euro exchange rate: GBP ‘on front foot’ – latest travel money advice amid covid | Travel News | Travel&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechnoCodex&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEFFk3007x2hoWGwTO0BVIxUqGQgEKhAIACoHCAow7riXCzDh4a4DMMS_zAY?oc=5</id>
     <title type="html">Susanna Reid net worth 2021: Good Morning Britain presenter’s huge fortune unveiled - TechnoCodex</title>
     <updated>2021-01-25T07:51:00.000000000Z</updated>
     <link href="https://technocodex.com/susanna-reid-net-worth-2021-good-morning-britain-presenters-huge-fortune-unveiled/" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2021-01-21T11:24:10.000000000Z</updated>
     <link href="http://balham.localnewsie.co.uk/tabs/blog/2021/01/domestic-abuse-support-links-resources-from-hestia" type="text/html"/>
     <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2021/01/domestic-abuse-support-links-resources-from-hestia" target="_blank"&gt;domestic-abuse-support-links-resources-from-hestia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvbWljaGFpbC1hbnRvbmlvLXJlY2FsbHMtdG90YWxpbmctYS1yYXJlLWxhbWJvcmdoaW5pLWluLXNvbWVvbmVzLWdhcmRlbi0xNTQ4MzEuaHRtbNIBAA?oc=5</id>
-    <title type="html">Michail Antonio Recalls Totaling a Rare Lamborghini in Someone's Garden - autoevolution</title>
-    <updated>2021-01-21T11:15:00.000000000Z</updated>
-    <link href="https://www.autoevolution.com/news/michail-antonio-recalls-totaling-a-rare-lamborghini-in-someones-garden-154831.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.autoevolution.com/news/michail-antonio-recalls-totaling-a-rare-lamborghini-in-someones-garden-154831.html" target="_blank"&gt;Michail Antonio Recalls Totaling a Rare Lamborghini in Someone's Garden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;autoevolution&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
