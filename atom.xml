@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-26T20:30:59Z</updated>
+  <updated>2021-01-26T20:57:42Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Rain, Minimum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (40°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 16:39 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 16:39 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-26T09:55:00.000+0000</id>
-    <published>2021-01-26T20:00:43Z</published>
-    <updated>2021-01-26T20:00:43Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-26T19:57:00.000+0000</id>
+    <published>2021-01-26T20:51:17Z</published>
+    <updated>2021-01-26T20:51:17Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-26T09:55:00.000+0000</id>
-    <published>2021-01-26T20:00:43Z</published>
-    <updated>2021-01-26T20:00:43Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-26T19:57:00.000+0000</id>
+    <published>2021-01-26T20:51:17Z</published>
+    <updated>2021-01-26T20:51:17Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Thursday: Thick Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1002mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:45 GMT, Sunset: 16:43 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1002mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:45 GMT, Sunset: 16:43 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-26T09:55:00.000+0000</id>
-    <published>2021-01-26T20:00:43Z</published>
-    <updated>2021-01-26T20:00:43Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-26T19:57:00.000+0000</id>
+    <published>2021-01-26T20:51:17Z</published>
+    <updated>2021-01-26T20:51:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MDM5MzYyLmNvdW5jaWwtMjBtcGgtc3BlZWQtbGltaXRzLWJ1c3ktcm9hZHMv0gEA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-01-26T13:13:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19039362.council-20mph-speed-limits-busy-roads/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19039362.council-20mph-speed-limits-busy-roads/" target="_blank"&gt;Council calls for more 20mph speed limits on Wandsworth's busy roads&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBZq5OOba5hYGcqUE9coRacqGQgEKhAIACoHCAow9935CjCe0eYCMNLmzAU?oc=5</id>
+    <title type="html">Susanna Reid net worth: Good Morning Britain presenter earns eye-watering salary - Express</title>
+    <updated>2021-01-26T07:09:00.000000000Z</updated>
+    <link href="https://www.express.co.uk/life-style/life/1388505/susanna-reid-net-worth" type="text/html"/>
+    <content type="html">&lt;a href="https://www.express.co.uk/life-style/life/1388505/susanna-reid-net-worth" target="_blank"&gt;Susanna Reid net worth: Good Morning Britain presenter earns eye-watering salary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEEjQD8DfaMwbeZQDkKlelKkqMwgEKioIACIQJ4jhQtGcXNB_WKuh1xrIRCoUCAoiECeI4ULRnFzQf1irodcayEQww5LnBg?oc=5</id>
@@ -112,13 +119,6 @@
     <updated>2021-01-25T07:51:00.000000000Z</updated>
     <link href="https://technocodex.com/susanna-reid-net-worth-2021-good-morning-britain-presenters-huge-fortune-unveiled/" type="text/html"/>
     <content type="html">&lt;a href="https://technocodex.com/susanna-reid-net-worth-2021-good-morning-britain-presenters-huge-fortune-unveiled/" target="_blank"&gt;Susanna Reid net worth 2021: Good Morning Britain presenter’s huge fortune unveiled&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechnoCodex&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LXZpcnR1YWwtY2xhc3Nlcy10by10YWtlLXdoaWxlLWF0LWhvbWUtMDEyMjIx0gEA?oc=5</id>
-    <title type="html">The best virtual classes to take while at home - Time Out London</title>
-    <updated>2021-01-22T15:41:00.000000000Z</updated>
-    <link href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" type="text/html"/>
-    <content type="html">&lt;a href="https://www.timeout.com/london/news/the-best-virtual-classes-to-take-while-at-home-012221" target="_blank"&gt;The best virtual classes to take while at home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
