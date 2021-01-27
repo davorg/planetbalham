@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-27T13:58:27Z</updated>
+  <updated>2021-01-27T14:32:00Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 8°C (47°F) Maximum Temperature: 9°C (49°F)</title>
+    <id>https://news.google.com/articles/CAIiEDAXy0o8ccavMk0Fsz6DRQoqGQgEKhAIACoHCAowwYWICzCztoYDMJSSzgY?oc=5</id>
+    <title type="html">Best Coffee Shops In London, From Hackney To Brixton - GLAMOUR UK</title>
+    <updated>2021-01-27T14:11:59.000000000Z</updated>
+    <link href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" type="text/html"/>
+    <content type="html">&lt;a href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" target="_blank"&gt;Best Coffee Shops In London, From Hackney To Brixton&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GLAMOUR UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Today: Light Rain, Minimum Temperature: 8°C (47°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 92%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1012mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-27T09:52:00.000+0000</id>
-    <published>2021-01-27T13:09:18Z</published>
-    <updated>2021-01-27T13:09:18Z</updated>
+    <published>2021-01-27T14:09:28Z</published>
+    <updated>2021-01-27T14:09:28Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1002mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:45 GMT, Sunset: 16:43 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-27T09:52:00.000+0000</id>
-    <published>2021-01-27T13:09:18Z</published>
-    <updated>2021-01-27T13:09:18Z</updated>
+    <published>2021-01-27T14:09:28Z</published>
+    <updated>2021-01-27T14:09:28Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,15 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 999mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-27T09:52:00.000+0000</id>
-    <published>2021-01-27T13:09:18Z</published>
-    <updated>2021-01-27T13:09:18Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBZq5OOba5hYGcqUE9coRacqGQgEKhAIACoHCAow9935CjCe0eYCMNLmzAU?oc=5</id>
-    <title type="html">Susanna Reid net worth: Good Morning Britain presenter earns eye-watering salary - Express</title>
-    <updated>2021-01-27T07:09:00.000000000Z</updated>
-    <link href="https://www.express.co.uk/life-style/life/1388505/susanna-reid-net-worth" type="text/html"/>
-    <content type="html">&lt;a href="https://www.express.co.uk/life-style/life/1388505/susanna-reid-net-worth" target="_blank"&gt;Susanna Reid net worth: Good Morning Britain presenter earns eye-watering salary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
+    <published>2021-01-27T14:09:28Z</published>
+    <updated>2021-01-27T14:09:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMif2h0dHBzOi8vaW5ld3MuY28udWsvbmV3cy9jaHJpc3RtYXMtYXBwZWFsL2lzLW1hZ2ljLWJyZWFrZmFzdC1hcHBlYWwtcHJpbWFyeS1zY2hvb2wtYnJlYWtmYXN0cy1jb250aW51ZS1jaGFyaXR5LWV4cGFuc2lvbi04NDU3NzDSAYMBaHR0cHM6Ly9pbmV3cy5jby51ay9uZXdzL2NocmlzdG1hcy1hcHBlYWwvaXMtbWFnaWMtYnJlYWtmYXN0LWFwcGVhbC1wcmltYXJ5LXNjaG9vbC1icmVha2Zhc3RzLWNvbnRpbnVlLWNoYXJpdHktZXhwYW5zaW9uLTg0NTc3MC9hbXA?oc=5</id>
@@ -114,11 +114,11 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMinwFodHRwczovL3d3dy5oZXJhbGRzdW4uY29tLmF1L25ld3MvcHJ1ZS1mcmVlbWFucy1sYW1tby1kcml2ZS11ay1wZXBzLXVwLWV4cGF0cy1vbi1hdXN0cmFsaWEtZGF5LTIwMjEtZHVyaW5nLWxvY2tkb3duL25ld3Mtc3RvcnkvYzg4ZmY0OWZmNjNmZmFiYTJlY2MxMjViYzgyY2ZiYmLSAaMBaHR0cHM6Ly93d3cuaGVyYWxkc3VuLmNvbS5hdS9uZXdzL3BydWUtZnJlZW1hbnMtbGFtbW8tZHJpdmUtdWstcGVwcy11cC1leHBhdHMtb24tYXVzdHJhbGlhLWRheS0yMDIxLWR1cmluZy1sb2NrZG93bi9uZXdzLXN0b3J5L2M4OGZmNDlmZjYzZmZhYmEyZWNjMTI1YmM4MmNmYmJiP2FtcA?oc=5</id>
-    <title type="html">UK expats mark Australia Day with 50,000 lamingtons - Herald Sun</title>
-    <updated>2021-01-25T14:30:00.000000000Z</updated>
-    <link href="https://www.heraldsun.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" type="text/html"/>
-    <content type="html">&lt;a href="https://www.heraldsun.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" target="_blank"&gt;UK expats mark Australia Day with 50,000 lamingtons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Herald Sun&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEHXYNDywhSYi_atxrV-2UNMqGQgEKhAIACoHCAow7riXCzDh4a4DMMS_zAY?oc=5</id>
+    <title type="html">Holidays: Quarantine hotels ‘likely’ to be introduced – fears over ‘damage’ to travel | Travel News | Travel - TechnoCodex</title>
+    <updated>2021-01-25T08:27:00.000000000Z</updated>
+    <link href="https://technocodex.com/holidays-quarantine-hotels-likely-to-be-introduced-fears-over-damage-to-travel-travel-news-travel/" type="text/html"/>
+    <content type="html">&lt;a href="https://technocodex.com/holidays-quarantine-hotels-likely-to-be-introduced-fears-over-damage-to-travel-travel-news-travel/" target="_blank"&gt;Holidays: Quarantine hotels ‘likely’ to be introduced – fears over ‘damage’ to travel | Travel News | Travel&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechnoCodex&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
