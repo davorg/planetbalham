@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-27T07:05:33Z</updated>
+  <updated>2021-01-27T07:32:22Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-26T21:51:00.000+0000</id>
     <published>2021-01-27T07:02:41Z</published>
     <updated>2021-01-27T07:02:41Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vaW5ld3MuY28udWsvbmV3cy9jaHJpc3RtYXMtYXBwZWFsL2lzLW1hZ2ljLWJyZWFrZmFzdC1hcHBlYWwtcHJpbWFyeS1zY2hvb2wtYnJlYWtmYXN0cy1jb250aW51ZS1jaGFyaXR5LWV4cGFuc2lvbi04NDU3NzDSAYMBaHR0cHM6Ly9pbmV3cy5jby51ay9uZXdzL2NocmlzdG1hcy1hcHBlYWwvaXMtbWFnaWMtYnJlYWtmYXN0LWFwcGVhbC1wcmltYXJ5LXNjaG9vbC1icmVha2Zhc3RzLWNvbnRpbnVlLWNoYXJpdHktZXhwYW5zaW9uLTg0NTc3MC9hbXA?oc=5</id>
+    <title type="html">i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion - iNews</title>
+    <updated>2021-01-27T06:30:00.000000000Z</updated>
+    <link href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" type="text/html"/>
+    <content type="html">&lt;a href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" target="_blank"&gt;i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MDM5MzYyLmNvdW5jaWwtMjBtcGgtc3BlZWQtbGltaXRzLWJ1c3ktcm9hZHMv0gEA?oc=5</id>
@@ -112,13 +119,6 @@
     <updated>2021-01-25T14:30:00.000000000Z</updated>
     <link href="https://www.heraldsun.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" type="text/html"/>
     <content type="html">&lt;a href="https://www.heraldsun.com.au/news/prue-freemans-lammo-drive-uk-peps-up-expats-on-australia-day-2021-during-lockdown/news-story/c88ff49ff63ffaba2ecc125bc82cfbbb" target="_blank"&gt;UK expats mark Australia Day with 50,000 lamingtons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Herald Sun&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEHV4MKJISDTHUOzx3oU0j3wqGQgEKhAIACoHCAow7riXCzDh4a4DMMS_zAY?oc=5</id>
-    <title type="html">Flights: Cabin crew attendant on vile plane truths a flight attendant will never tell you | Travel News | Travel - TechnoCodex</title>
-    <updated>2021-01-25T09:03:00.000000000Z</updated>
-    <link href="https://technocodex.com/flights-cabin-crew-attendant-on-vile-plane-truths-a-flight-attendant-will-never-tell-you-travel-news-travel/" type="text/html"/>
-    <content type="html">&lt;a href="https://technocodex.com/flights-cabin-crew-attendant-on-vile-plane-truths-a-flight-attendant-will-never-tell-you-travel-news-travel/" target="_blank"&gt;Flights: Cabin crew attendant on vile plane truths a flight attendant will never tell you | Travel News | Travel&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechnoCodex&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
