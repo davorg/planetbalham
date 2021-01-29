@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-29T17:00:10Z</updated>
+  <updated>2021-01-29T17:56:10Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 5°C (42°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1001mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (42°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1001mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-29T09:56:00.000+0000</id>
-    <published>2021-01-29T16:59:12Z</published>
-    <updated>2021-01-29T16:59:12Z</updated>
+    <published>2021-01-29T17:44:45Z</published>
+    <updated>2021-01-29T17:44:45Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sleet, Minimum Temperature: 1°C (34°F) Maximum Temperature: 6°C (43°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 1°C (34°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 999mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-29T09:56:00.000+0000</id>
-    <published>2021-01-29T16:59:12Z</published>
-    <updated>2021-01-29T16:59:12Z</updated>
+    <published>2021-01-29T17:44:45Z</published>
+    <updated>2021-01-29T17:44:45Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (40°F)</title>
@@ -37,16 +37,37 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-29T09:56:00.000+0000</id>
-    <published>2021-01-29T16:59:12Z</published>
-    <updated>2021-01-29T16:59:12Z</updated>
+    <published>2021-01-29T17:44:45Z</published>
+    <updated>2021-01-29T17:44:45Z</updated>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvZnJlZS1tZW50YWwtaGVhbHRoLXN1cHBvcnQtaW4tYmFsaGFtLWFuZC10aGUtdWvSAQA?oc=5</id>
-    <title type="html">free-mental-health-support-in-balham-and-the-uk - Hitchin Daily PRSS</title>
-    <updated>2021-01-29T14:42:05.000000000Z</updated>
-    <link href="http://balham.localnewsie.co.uk/tabs/blog/2021/01/free-mental-health-support-in-balham-and-the-uk" type="text/html"/>
-    <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2021/01/free-mental-health-support-in-balham-and-the-uk" target="_blank"&gt;free-mental-health-support-in-balham-and-the-uk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7285/buddyicons/14256361@N00.jpg?1427321525#14256361@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL2hvdy10by1jZWxlYnJhdGUtY2hpbmVzZS1uZXcteWVhci12aXJ0dWFsbHktMDEyOTIx0gEA?oc=5</id>
     <title type="html">How to celebrate Chinese New Year virtually 11 hours ago - Time Out London</title>
@@ -74,6 +95,13 @@
     <updated>2021-01-27T14:11:59.000000000Z</updated>
     <link href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" type="text/html"/>
     <content type="html">&lt;a href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" target="_blank"&gt;Best Coffee Shops In London, From Hackney To Brixton&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GLAMOUR UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vaW5ld3MuY28udWsvbmV3cy9jaHJpc3RtYXMtYXBwZWFsL2lzLW1hZ2ljLWJyZWFrZmFzdC1hcHBlYWwtcHJpbWFyeS1zY2hvb2wtYnJlYWtmYXN0cy1jb250aW51ZS1jaGFyaXR5LWV4cGFuc2lvbi04NDU3NzDSAYMBaHR0cHM6Ly9pbmV3cy5jby51ay9uZXdzL2NocmlzdG1hcy1hcHBlYWwvaXMtbWFnaWMtYnJlYWtmYXN0LWFwcGVhbC1wcmltYXJ5LXNjaG9vbC1icmVha2Zhc3RzLWNvbnRpbnVlLWNoYXJpdHktZXhwYW5zaW9uLTg0NTc3MC9hbXA?oc=5</id>
+    <title type="html">i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion - iNews</title>
+    <updated>2021-01-27T06:30:00.000000000Z</updated>
+    <link href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" type="text/html"/>
+    <content type="html">&lt;a href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" target="_blank"&gt;i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Winter Walk 1</title>
@@ -192,43 +220,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
-    <id>tag:flickr.com,2005:/photo/50726669988</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
