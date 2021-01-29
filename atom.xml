@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-29T04:40:39Z</updated>
+  <updated>2021-01-29T05:07:59Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (48°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 996mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 16:44 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 998mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-28T21:52:00.000+0000</id>
-    <published>2021-01-29T04:35:12Z</published>
-    <updated>2021-01-29T04:35:12Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (52°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 998mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-28T21:52:00.000+0000</id>
-    <published>2021-01-29T04:35:12Z</published>
-    <updated>2021-01-29T04:35:12Z</updated>
+    <published>2021-01-29T05:03:11Z</published>
+    <updated>2021-01-29T05:03:11Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sleet, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (42°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 1°C (33°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 999mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-28T21:52:00.000+0000</id>
+    <published>2021-01-29T05:03:11Z</published>
+    <updated>2021-01-29T05:03:11Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Light Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 1°C (33°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 999mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 3°C (37°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 999mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-28T21:52:00.000+0000</id>
-    <published>2021-01-29T04:35:12Z</published>
-    <updated>2021-01-29T04:35:12Z</updated>
+    <published>2021-01-29T05:03:11Z</published>
+    <updated>2021-01-29T05:03:11Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidGh0dHBzOi8vY2FybG93LW5hdGlvbmFsaXN0LmllLzIwMjEvMDEvMjgvcGlwZS1tYWpvci1hbmQtdG9wLWNsYXNzLWdvYWxrZWVwZXItdG9ueS13YXMtYS1xdWlldC1tYW4tb2YtZGVlcC1pbnRlbGxlY3Qv0gEA?oc=5</id>
