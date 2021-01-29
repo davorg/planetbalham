@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-29T13:57:44Z</updated>
+  <updated>2021-01-29T14:32:18Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1001mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-29T09:56:00.000+0000</id>
-    <published>2021-01-29T13:42:58Z</published>
-    <updated>2021-01-29T13:42:58Z</updated>
+    <published>2021-01-29T14:03:23Z</published>
+    <updated>2021-01-29T14:03:23Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sleet, Minimum Temperature: 1°C (34°F) Maximum Temperature: 6°C (43°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 1°C (34°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 999mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-29T09:56:00.000+0000</id>
-    <published>2021-01-29T13:42:58Z</published>
-    <updated>2021-01-29T13:42:58Z</updated>
+    <published>2021-01-29T14:03:23Z</published>
+    <updated>2021-01-29T14:03:23Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (40°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-29T09:56:00.000+0000</id>
-    <published>2021-01-29T13:42:58Z</published>
-    <updated>2021-01-29T13:42:58Z</updated>
+    <published>2021-01-29T14:03:23Z</published>
+    <updated>2021-01-29T14:03:23Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL2hvdy10by1jZWxlYnJhdGUtY2hpbmVzZS1uZXcteWVhci12aXJ0dWFsbHktMDEyOTIx0gEA?oc=5</id>
