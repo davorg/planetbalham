@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-30T23:02:04Z</updated>
+  <updated>2021-01-30T23:35:42Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 0°C (32°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 1°C (33°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (32°F), Wind Direction: North Easterly, Wind Speed: 17mph, Visibility: Good, Pressure: 1002mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 16:46 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1003mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-30T21:52:00.000+0000</id>
-    <published>2021-01-30T23:00:15Z</published>
-    <updated>2021-01-30T23:00:15Z</updated>
+    <published>2021-01-30T23:23:03Z</published>
+    <updated>2021-01-30T23:23:03Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sleet, Minimum Temperature: 2°C (36°F) Maximum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-30T21:52:00.000+0000</id>
-    <published>2021-01-30T23:00:15Z</published>
-    <updated>2021-01-30T23:00:15Z</updated>
+    <published>2021-01-30T23:23:03Z</published>
+    <updated>2021-01-30T23:23:03Z</updated>
   </entry>
   <entry>
     <title>Monday: Thick Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 997mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 997mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-30T21:52:00.000+0000</id>
-    <published>2021-01-30T23:00:15Z</published>
-    <updated>2021-01-30T23:00:15Z</updated>
+    <published>2021-01-30T23:23:03Z</published>
+    <updated>2021-01-30T23:23:03Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzAvaW5zaWRlLXdvcmxkLWV4dHJhb3JkaW5hcnktbWFuLXJ1bGVkLW51bWJlci0xMC_SAQA?oc=5</id>
