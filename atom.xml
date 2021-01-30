@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-30T08:37:42Z</updated>
+  <updated>2021-01-30T09:03:28Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 996mb, Humidity: 96%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-29T21:53:00.000+0000</id>
-    <published>2021-01-30T08:03:05Z</published>
-    <updated>2021-01-30T08:03:05Z</updated>
+    <published>2021-01-30T09:03:14Z</published>
+    <updated>2021-01-30T09:03:14Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sleet, Minimum Temperature: 2°C (36°F) Maximum Temperature: 5°C (40°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-29T21:53:00.000+0000</id>
-    <published>2021-01-30T08:03:05Z</published>
-    <updated>2021-01-30T08:03:05Z</updated>
+    <published>2021-01-30T09:03:14Z</published>
+    <updated>2021-01-30T09:03:14Z</updated>
   </entry>
   <entry>
     <title>Monday: Thick Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 995mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-29T21:53:00.000+0000</id>
-    <published>2021-01-30T08:03:05Z</published>
-    <updated>2021-01-30T08:03:05Z</updated>
+    <published>2021-01-30T09:03:14Z</published>
+    <updated>2021-01-30T09:03:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzAvaW5zaWRlLXdvcmxkLWV4dHJhb3JkaW5hcnktbWFuLXJ1bGVkLW51bWJlci0xMC_SAQA?oc=5</id>
@@ -47,6 +47,34 @@
     <link href="https://www.telegraph.co.uk/news/0/inside-world-extraordinary-man-ruled-number-10/" type="text/html"/>
     <content type="html">&lt;a href="https://www.telegraph.co.uk/news/0/inside-world-extraordinary-man-ruled-number-10/" target="_blank"&gt;Inside the world of the extraordinary man who ruled Number 10&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7285/buddyicons/14256361@N00.jpg?1427321525#14256361@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvZnJlZS1tZW50YWwtaGVhbHRoLXN1cHBvcnQtaW4tYmFsaGFtLWFuZC10aGUtdWvSAQA?oc=5</id>
     <title type="html">free-mental-health-support-in-balham-and-the-uk - Hitchin Daily PRSS</title>
@@ -270,32 +298,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
-    <id>tag:flickr.com,2005:/photo/50724393412</id>
-    <published>2020-12-15T21:56:57Z</published>
-    <updated>2020-12-15T21:56:57Z</updated>
-    <flickr:date_taken>1990-11-03T22:01:48-08:00</flickr:date_taken>
-    <dc:date.Taken>1990-11-03T22:01:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/15038/"&gt;15038&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/15038/50724393412/" title="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly"&gt;&lt;img src="https://live.staticflickr.com/65535/50724393412_ac95586756_m.jpg" width="240" height="160" alt="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>15038</name>
-      <uri>https://www.flickr.com/people/15038/</uri>
-      <flickr:nsid>62613295@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7357/buddyicons/62613295@N05.jpg?1467018067#62613295@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50724393412_ac95586756_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="47851" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1m50" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
