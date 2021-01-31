@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-31T05:58:07Z</updated>
+  <updated>2021-01-31T06:34:34Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sleet, Minimum Temperature: 2°C (36°F) Maximum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-01-30T21:52:00.000+0000</id>
-    <published>2021-01-31T05:28:36Z</published>
-    <updated>2021-01-31T05:28:36Z</updated>
+    <published>2021-01-31T06:30:06Z</published>
+    <updated>2021-01-31T06:30:06Z</updated>
   </entry>
   <entry>
     <title>Monday: Thick Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 997mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-01-30T21:52:00.000+0000</id>
-    <published>2021-01-31T05:28:36Z</published>
-    <updated>2021-01-31T05:28:36Z</updated>
+    <published>2021-01-31T06:30:06Z</published>
+    <updated>2021-01-31T06:30:06Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 996mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-01-30T21:52:00.000+0000</id>
-    <published>2021-01-31T05:28:36Z</published>
-    <updated>2021-01-31T05:28:36Z</updated>
+    <published>2021-01-31T06:30:06Z</published>
+    <updated>2021-01-31T06:30:06Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMDEvMzEveWVzLXByaW1lLW1pbmlzdGVyLWJyZXhpdC1leWVzLXBvd2VyZnVsLWNpdmlsLXNlcnZhbnQtbGFuZC_SAWtodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvbmV3cy8yMDIxLzAxLzMxL3llcy1wcmltZS1taW5pc3Rlci1icmV4aXQtZXllcy1wb3dlcmZ1bC1jaXZpbC1zZXJ2YW50LWxhbmQvYW1wLw?oc=5</id>
+    <title type="html">Yes Prime Minister: Brexit through the eyes of the most powerful civil servant in the land - Telegraph.co.uk</title>
+    <updated>2021-01-31T06:00:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/news/2021/01/31/yes-prime-minister-brexit-eyes-powerful-civil-servant-land/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/01/31/yes-prime-minister-brexit-eyes-powerful-civil-servant-land/" target="_blank"&gt;Yes Prime Minister: Brexit through the eyes of the most powerful civil servant in the land&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzAvaW5zaWRlLXdvcmxkLWV4dHJhb3JkaW5hcnktbWFuLXJ1bGVkLW51bWJlci0xMC_SAQA?oc=5</id>
@@ -95,13 +102,6 @@
     <updated>2021-01-27T14:11:59.000000000Z</updated>
     <link href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" type="text/html"/>
     <content type="html">&lt;a href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" target="_blank"&gt;Best Coffee Shops In London, From Hackney To Brixton&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GLAMOUR UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vaW5ld3MuY28udWsvbmV3cy9jaHJpc3RtYXMtYXBwZWFsL2lzLW1hZ2ljLWJyZWFrZmFzdC1hcHBlYWwtcHJpbWFyeS1zY2hvb2wtYnJlYWtmYXN0cy1jb250aW51ZS1jaGFyaXR5LWV4cGFuc2lvbi04NDU3NzDSAYMBaHR0cHM6Ly9pbmV3cy5jby51ay9uZXdzL2NocmlzdG1hcy1hcHBlYWwvaXMtbWFnaWMtYnJlYWtmYXN0LWFwcGVhbC1wcmltYXJ5LXNjaG9vbC1icmVha2Zhc3RzLWNvbnRpbnVlLWNoYXJpdHktZXhwYW5zaW9uLTg0NTc3MC9hbXA?oc=5</id>
-    <title type="html">i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion - iNews</title>
-    <updated>2021-01-27T06:30:00.000000000Z</updated>
-    <link href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" type="text/html"/>
-    <content type="html">&lt;a href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" target="_blank"&gt;i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Winter Walk 1</title>
@@ -193,37 +193,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="year in gigs"/>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>YD19HHO</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/trevor-plackett/49569620457/"/>
-    <id>tag:flickr.com,2005:/photo/49569620457</id>
-    <published>2020-12-26T09:55:25Z</published>
-    <updated>2020-12-26T09:55:25Z</updated>
-    <flickr:date_taken>2020-02-22T14:32:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-02-22T14:32:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/trevor-plackett/"&gt;47604&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/trevor-plackett/49569620457/" title="YD19HHO"&gt;&lt;img src="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_m.jpg" width="240" height="172" alt="YD19HHO" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;George regal of balham    m1&lt;/p&gt;</content>
-    <author>
-      <name>47604</name>
-      <uri>https://www.flickr.com/people/trevor-plackett/</uri>
-      <flickr:nsid>60459234@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2865/buddyicons/60459234@N04.jpg?1369294418#60459234@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_b.jpg"/>
-    <category term="yutong" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yd19" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="george" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="regal" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
     <id>tag:flickr.com,2005:/photo/50726669988</id>
@@ -298,6 +267,32 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
+    <id>tag:flickr.com,2005:/photo/50724393412</id>
+    <published>2020-12-15T21:56:57Z</published>
+    <updated>2020-12-15T21:56:57Z</updated>
+    <flickr:date_taken>1990-11-03T22:01:48-08:00</flickr:date_taken>
+    <dc:date.Taken>1990-11-03T22:01:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/15038/"&gt;15038&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/15038/50724393412/" title="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly"&gt;&lt;img src="https://live.staticflickr.com/65535/50724393412_ac95586756_m.jpg" width="240" height="160" alt="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>15038</name>
+      <uri>https://www.flickr.com/people/15038/</uri>
+      <flickr:nsid>62613295@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7357/buddyicons/62613295@N05.jpg?1467018067#62613295@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50724393412_ac95586756_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="47851" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1m50" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
