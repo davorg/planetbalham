@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-02T01:10:56Z</updated>
+  <updated>2021-02-02T02:23:56Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Heavy Rain, Minimum Temperature: 4°C (39°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 996mb, Humidity: 95%, UV Risk: 0, Pollution: Low, Sunset: 16:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 994mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunset: 16:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-01T21:50:00.000+0000</id>
-    <published>2021-02-02T01:07:21Z</published>
-    <updated>2021-02-02T01:07:21Z</updated>
+    <published>2021-02-02T02:07:33Z</published>
+    <updated>2021-02-02T02:07:33Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Tuesday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 995mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 16:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 995mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 16:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-01T21:50:00.000+0000</id>
-    <published>2021-02-02T01:07:21Z</published>
-    <updated>2021-02-02T01:07:21Z</updated>
+    <published>2021-02-02T02:07:33Z</published>
+    <updated>2021-02-02T02:07:33Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 10°C (49°F)</title>
@@ -37,22 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 995mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-01T21:50:00.000+0000</id>
-    <published>2021-02-02T01:07:21Z</published>
-    <updated>2021-02-02T01:07:21Z</updated>
+    <published>2021-02-02T02:07:33Z</published>
+    <updated>2021-02-02T02:07:33Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL2JhbGhhbS1maXJlLWxpdmUtdXBkYXRlcy1tb3JlLTE5NzQ5MTMz0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3MvYmFsaGFtLWZpcmUtbGl2ZS11cGRhdGVzLW1vcmUtMTk3NDkxMzMuYW1w?oc=5</id>
     <title type="html">Balham fire: Person rescued as 'more than 40 firefighters' tackle High Road blaze - MyLondon</title>
-    <updated>2021-02-01T23:50:58.000000000Z</updated>
+    <updated>2021-02-01T23:49:13.000000000Z</updated>
     <link href="https://www.mylondon.news/news/west-london-news/balham-fire-live-updates-more-19749133" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/west-london-news/balham-fire-live-updates-more-19749133" target="_blank"&gt;Balham fire: Person rescued as 'more than 40 firefighters' tackle High Road blaze&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiLGh0dHBzOi8vaW5zaWRldGltZS5vcmcvbWVldGluZy1hLWdvb2Qtd29tYW4v0gEA?oc=5</id>
-    <title type="html">Meeting a good woman – insidetime &amp; insideinformation - InsideTime</title>
-    <updated>2021-01-31T19:00:00.000000000Z</updated>
-    <link href="https://insidetime.org/meeting-a-good-woman/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidetime.org/meeting-a-good-woman/" target="_blank"&gt;Meeting a good woman – insidetime &amp; insideinformation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;InsideTime&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
@@ -102,6 +95,13 @@
     <updated>2021-01-27T14:11:59.000000000Z</updated>
     <link href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" type="text/html"/>
     <content type="html">&lt;a href="https://www.glamourmagazine.co.uk/gallery/best-coffee-shops-london" target="_blank"&gt;Best Coffee Shops In London, From Hackney To Brixton&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GLAMOUR UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vaW5ld3MuY28udWsvbmV3cy9jaHJpc3RtYXMtYXBwZWFsL2lzLW1hZ2ljLWJyZWFrZmFzdC1hcHBlYWwtcHJpbWFyeS1zY2hvb2wtYnJlYWtmYXN0cy1jb250aW51ZS1jaGFyaXR5LWV4cGFuc2lvbi04NDU3NzDSAYMBaHR0cHM6Ly9pbmV3cy5jby51ay9uZXdzL2NocmlzdG1hcy1hcHBlYWwvaXMtbWFnaWMtYnJlYWtmYXN0LWFwcGVhbC1wcmltYXJ5LXNjaG9vbC1icmVha2Zhc3RzLWNvbnRpbnVlLWNoYXJpdHktZXhwYW5zaW9uLTg0NTc3MC9hbXA?oc=5</id>
+    <title type="html">i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion - iNews</title>
+    <updated>2021-01-27T06:30:00.000000000Z</updated>
+    <link href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" type="text/html"/>
+    <content type="html">&lt;a href="https://inews.co.uk/news/christmas-appeal/is-magic-breakfast-appeal-primary-school-breakfasts-continue-charity-expansion-845770" target="_blank"&gt;i’s Magic Breakfast appeal: Primary school breakfasts to continue thanks to charity’s expansion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Winter Walk 1</title>
