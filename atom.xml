@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-04T20:51:20Z</updated>
+  <updated>2021-02-04T21:22:54Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Heavy Rain Showers, Minimum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 16:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 16:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-04T09:56:00.000+0000</id>
-    <published>2021-02-04T20:00:23Z</published>
-    <updated>2021-02-04T20:00:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-04T19:08:00.000+0000</id>
+    <published>2021-02-04T21:00:05Z</published>
+    <updated>2021-02-04T21:00:05Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 10°C (51°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-04T09:56:00.000+0000</id>
-    <published>2021-02-04T20:00:23Z</published>
-    <updated>2021-02-04T20:00:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-04T19:08:00.000+0000</id>
+    <published>2021-02-04T21:00:05Z</published>
+    <updated>2021-02-04T21:00:05Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 2°C (35°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1005mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1006mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:59 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-04T09:56:00.000+0000</id>
-    <published>2021-02-04T20:00:23Z</published>
-    <updated>2021-02-04T20:00:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-04T19:08:00.000+0000</id>
+    <published>2021-02-04T21:00:05Z</published>
+    <updated>2021-02-04T21:00:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MDU3MzQzLnJlc2N1ZS1vcGVyYXRpb24tZm9sbG93aW5nLXNob3AtZmlyZS1iYWxoYW0taGlnaC1yb2FkL9IBAA?oc=5</id>
@@ -54,6 +54,34 @@
     <link href="https://www.mylondon.news/news/west-london-news/balham-fire-live-updates-more-19749133" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/west-london-news/balham-fire-live-updates-more-19749133" target="_blank"&gt;Balham fire: Person rescued as 'more than 40 firefighters' tackle High Road blaze&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7285/buddyicons/14256361@N00.jpg?1427321525#14256361@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvZnJlZS1tZW50YWwtaGVhbHRoLXN1cHBvcnQtaW4tYmFsaGFtLWFuZC10aGUtdWvSAQA?oc=5</id>
     <title type="html">free-mental-health-support-in-balham-and-the-uk - Hitchin Daily PRSS</title>
@@ -192,43 +220,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
-    <id>tag:flickr.com,2005:/photo/50726669988</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
