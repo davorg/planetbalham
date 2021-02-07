@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-07T08:31:50Z</updated>
+  <updated>2021-02-07T08:55:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Snow, Minimum Temperature: -1°C (30°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Today: Light Snow, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 16mph, Visibility: Good, Pressure: 1004mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:30 GMT, Sunset: 17:01 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Easterly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:30 GMT, Sunset: 17:01 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-06T21:52:00.000+0000</id>
-    <published>2021-02-07T08:01:40Z</published>
-    <updated>2021-02-07T08:01:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-07T07:01:00.000+0000</id>
+    <published>2021-02-07T08:46:50Z</published>
+    <updated>2021-02-07T08:46:50Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Snow, Minimum Temperature: -1°C (30°F) Maximum Temperature: 0°C (31°F)</title>
+    <title>Monday: Thick Cloud, Minimum Temperature: -1°C (29°F) Maximum Temperature: 0°C (32°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (31°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1004mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (32°F), Minimum Temperature: -1°C (29°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1003mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-06T21:52:00.000+0000</id>
-    <published>2021-02-07T08:01:40Z</published>
-    <updated>2021-02-07T08:01:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-07T07:01:00.000+0000</id>
+    <published>2021-02-07T08:46:50Z</published>
+    <updated>2021-02-07T08:46:50Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Thick Cloud, Minimum Temperature: -2°C (29°F) Maximum Temperature: 0°C (31°F)</title>
+    <title>Tuesday: Light Cloud, Minimum Temperature: -2°C (29°F) Maximum Temperature: 0°C (32°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (31°F), Minimum Temperature: -2°C (29°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (32°F), Minimum Temperature: -2°C (29°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1007mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-06T21:52:00.000+0000</id>
-    <published>2021-02-07T08:01:40Z</published>
-    <updated>2021-02-07T08:01:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-07T07:01:00.000+0000</id>
+    <published>2021-02-07T08:46:50Z</published>
+    <updated>2021-02-07T08:46:50Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi01NTg0ODExM9IBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvdWstZW5nbGFuZC1sb25kb24tNTU4NDgxMTM?oc=5</id>
@@ -261,43 +261,28 @@ I don’t usually include classical shows in these lists. To be honest, I don’
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham - Gateway To The South</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726670203/"/>
-    <id>tag:flickr.com,2005:/photo/50726670203</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T07:32:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T07:32:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
+    <id>tag:flickr.com,2005:/photo/50724393412</id>
+    <published>2020-12-15T21:56:57Z</published>
+    <updated>2020-12-15T21:56:57Z</updated>
+    <flickr:date_taken>1990-11-03T22:01:48-08:00</flickr:date_taken>
+    <dc:date.Taken>1990-11-03T22:01:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/15038/"&gt;15038&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726670203/" title="Balham - Gateway To The South"&gt;&lt;img src="https://live.staticflickr.com/65535/50726670203_67288de219_m.jpg" width="240" height="240" alt="Balham - Gateway To The South" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/15038/50724393412/" title="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly"&gt;&lt;img src="https://live.staticflickr.com/65535/50724393412_ac95586756_m.jpg" width="240" height="160" alt="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A southbound Northern Line service to Morden arrives into Balham Underground Station.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
+</content>
     <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
+      <name>15038</name>
+      <uri>https://www.flickr.com/people/15038/</uri>
+      <flickr:nsid>62613295@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7357/buddyicons/62613295@N05.jpg?1467018067#62613295@N05</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726670203_67288de219_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50724393412_ac95586756_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tubetrain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="platform" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="roundel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="47851" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1m50" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
