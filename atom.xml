@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-08T11:50:21Z</updated>
+  <updated>2021-02-08T12:34:40Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Snow, Minimum Temperature: -2°C (29°F) Maximum Temperature: -1°C (31°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: -1°C (31°F), Minimum Temperature: -2°C (29°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1004mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: -1°C (31°F), Minimum Temperature: -2°C (29°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1004mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-08T09:54:00.000+0000</id>
-    <published>2021-02-08T11:06:50Z</published>
-    <updated>2021-02-08T11:06:50Z</updated>
+    <published>2021-02-08T12:07:38Z</published>
+    <updated>2021-02-08T12:07:38Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Snow Showers, Minimum Temperature: -1°C (31°F) Maximum Temperature: 1°C (34°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (34°F), Minimum Temperature: -1°C (31°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-08T09:54:00.000+0000</id>
-    <published>2021-02-08T11:06:50Z</published>
-    <updated>2021-02-08T11:06:50Z</updated>
+    <published>2021-02-08T12:07:38Z</published>
+    <updated>2021-02-08T12:07:38Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: -4°C (25°F) Maximum Temperature: 2°C (36°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (36°F), Minimum Temperature: -4°C (25°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1014mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-08T09:54:00.000+0000</id>
-    <published>2021-02-08T11:06:50Z</published>
-    <updated>2021-02-08T11:06:50Z</updated>
+    <published>2021-02-08T12:07:38Z</published>
+    <updated>2021-02-08T12:07:38Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEGJfPmudSUvX-RW7zKr0ui8qMwgEKioIACIQJ4jhQtGcXNB_WKuh1xrIRCoUCAoiECeI4ULRnFzQf1irodcayEQww5LnBg?oc=5</id>
+    <title type="html">Multiple weekend closures of the Victoria-East Croydon line announced - IanVisits</title>
+    <updated>2021-02-08T12:00:00.000000000Z</updated>
+    <link href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" target="_blank"&gt;Multiple weekend closures of the Victoria-East Croydon line announced&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS9zdG9ybS1kYXJjeS1zbm93LXByb2JsZW0tZm9yLWNocmlzLWdyaXR0eS_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-02-05T17:27:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19069755.alderbrook-school-recognised-kellogg-awards/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19069755.alderbrook-school-recognised-kellogg-awards/" target="_blank"&gt;Alderbrook School recognised in Kellogg awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEGNnYKuMEEMxa3RtESbLvV4qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">'We're only getting one order a day' - Balham baby shop fears it won't survive the pandemic - My London</title>
-    <updated>2021-02-05T16:31:00.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/were-only-getting-one-order-19779751" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/were-only-getting-one-order-19779751" target="_blank"&gt;'We're only getting one order a day' - Balham baby shop fears it won't survive the pandemic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
