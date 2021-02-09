@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-08T23:53:43Z</updated>
+  <updated>2021-02-09T01:00:17Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Heavy Snow Showers, Minimum Temperature: -1°C (30°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1006mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunset: 17:04 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1006mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-08T21:51:00.000+0000</id>
-    <published>2021-02-08T23:18:26Z</published>
-    <updated>2021-02-08T23:18:26Z</updated>
+    <published>2021-02-09T00:58:46Z</published>
+    <updated>2021-02-09T00:58:46Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Snow Showers, Minimum Temperature: -2°C (29°F) Maximum Temperature: 1°C (34°F)</title>
+    <title>Tuesday: Light Snow Showers, Minimum Temperature: -3°C (27°F) Maximum Temperature: 1°C (34°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (34°F), Minimum Temperature: -2°C (29°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (34°F), Minimum Temperature: -3°C (27°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-08T21:51:00.000+0000</id>
-    <published>2021-02-08T23:18:26Z</published>
-    <updated>2021-02-08T23:18:26Z</updated>
+    <published>2021-02-09T00:58:46Z</published>
+    <updated>2021-02-09T00:58:46Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: -6°C (21°F) Maximum Temperature: 1°C (34°F)</title>
@@ -37,8 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (34°F), Minimum Temperature: -6°C (21°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-08T21:51:00.000+0000</id>
-    <published>2021-02-08T23:18:26Z</published>
-    <updated>2021-02-08T23:18:26Z</updated>
+    <published>2021-02-09T00:58:46Z</published>
+    <updated>2021-02-09T00:58:46Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmJyaWdodG9uYW5kaG92ZW5ld3Mub3JnLzIwMjEvMDIvMDkvcmFpbC1jaGllZnMtdG8tc3RhcnQtZm91ci15ZWFyLXRyYWNrLWFuZC1zaWduYWxzLXVwZ3JhZGUtZm9yLWxvbmRvbi12aWN0b3JpYS_SAQA?oc=5</id>
+    <title type="html">Rail chiefs to start four-year track and signals upgrade for London Victoria - Brighton and Hove News</title>
+    <updated>2021-02-09T00:10:00.000000000Z</updated>
+    <link href="https://www.brightonandhovenews.org/2021/02/09/rail-chiefs-to-start-four-year-track-and-signals-upgrade-for-london-victoria/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.brightonandhovenews.org/2021/02/09/rail-chiefs-to-start-four-year-track-and-signals-upgrade-for-london-victoria/" target="_blank"&gt;Rail chiefs to start four-year track and signals upgrade for London Victoria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Brighton and Hove News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnNvdXRod2Fya25ld3MuY28udWsvbmV3cy9tYWpvci1lbmdpbmVlcmluZy13b3Jrcy11bnRpbC0yMDI1LWFubm91bmNlZC1mb3ItbGluZXMtaW50by12aWN0b3JpYS1zdGF0aW9uL9IBAA?oc=5</id>
+    <title type="html">Major engineering works until 2025 announced for lines into Victoria station - Southwark News</title>
+    <updated>2021-02-08T19:15:48.000000000Z</updated>
+    <link href="https://www.southwarknews.co.uk/news/major-engineering-works-until-2025-announced-for-lines-into-victoria-station/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.southwarknews.co.uk/news/major-engineering-works-until-2025-announced-for-lines-into-victoria-station/" target="_blank"&gt;Major engineering works until 2025 announced for lines into Victoria station&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEM9yCZm-eo-hAZpiI-a3xboqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
+    <title type="html">Upgrades at London Victoria Station as 40-year-old track and signalling set to be replaced - RailAdvent - Railway News</title>
+    <updated>2021-02-08T15:15:23.000000000Z</updated>
+    <link href="https://www.railadvent.co.uk/2021/02/upgrades-at-london-victoria-station-as-40-year-old-track-and-signalling-set-to-be-replaced.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railadvent.co.uk/2021/02/upgrades-at-london-victoria-station-as-40-year-old-track-and-signalling-set-to-be-replaced.html" target="_blank"&gt;Upgrades at London Victoria Station as 40-year-old track and signalling set to be replaced&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGJfPmudSUvX-RW7zKr0ui8qMwgEKioIACIQJ4jhQtGcXNB_WKuh1xrIRCoUCAoiECeI4ULRnFzQf1irodcayEQww5LnBg?oc=5</id>
@@ -48,32 +69,11 @@
     <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" target="_blank"&gt;Multiple weekend closures of the Victoria-East Croydon line announced&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS9zdG9ybS1kYXJjeS1zbm93LXByb2JsZW0tZm9yLWNocmlzLWdyaXR0eS_SAQA?oc=5</id>
-    <title type="html">Storm Darcy? Snow Problem For Chris Gritty! - The Handbook</title>
-    <updated>2021-02-08T10:35:34.000000000Z</updated>
-    <link href="https://www.thehandbook.com/storm-darcy-snow-problem-for-chris-gritty/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thehandbook.com/storm-darcy-snow-problem-for-chris-gritty/" target="_blank"&gt;Storm Darcy? Snow Problem For Chris Gritty!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Handbook&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi01NTg0ODExM9IBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hbXAvdWstZW5nbGFuZC1sb25kb24tNTU4NDgxMTM?oc=5</id>
-    <title type="html">Topshop Oxford Street: 'I was in absolute awe at the size of the place' - BBC News</title>
-    <updated>2021-02-06T02:14:00.000000000Z</updated>
-    <link href="https://www.bbc.com/news/uk-england-london-55848113" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bbc.com/news/uk-england-london-55848113" target="_blank"&gt;Topshop Oxford Street: 'I was in absolute awe at the size of the place'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LndvbmRlcmxhbmRtYWdhemluZS5jb20vMjAyMS8wMi8wNS9yb25ueS1jb2xiaWUtZmxvcmlzdC12YWxlbnRpbmVzLWJhbGhhbS_SAQA?oc=5</id>
-    <title type="html">Canadian Florist Ronny Colbie Is Creating Beautiful Valentine's Bouquets - Wonderland Magazine</title>
-    <updated>2021-02-05T17:44:56.000000000Z</updated>
-    <link href="https://www.wonderlandmagazine.com/2021/02/05/ronny-colbie-florist-valentines-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wonderlandmagazine.com/2021/02/05/ronny-colbie-florist-valentines-balham/" target="_blank"&gt;Canadian Florist Ronny Colbie Is Creating Beautiful Valentine's Bouquets&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wonderland Magazine&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MDY5NzU1LmFsZGVyYnJvb2stc2Nob29sLXJlY29nbmlzZWQta2VsbG9nZy1hd2FyZHMv0gEA?oc=5</id>
-    <title type="html">Alderbrook School recognised in Kellogg awards - Wandsworth Guardian</title>
-    <updated>2021-02-05T17:27:00.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19069755.alderbrook-school-recognised-kellogg-awards/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19069755.alderbrook-school-recognised-kellogg-awards/" target="_blank"&gt;Alderbrook School recognised in Kellogg awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnJhaWx0ZWNobm9sb2d5bWFnYXppbmUuY29tL2FydGljbGVzL3NvdXRoLWxvbmRvbnMtMTk4MHMtcmFpbHdheS10cmFjay1hbmQtc2lnbmFsbGluZy1iZS1tb2Rlcm5pc2Vk0gEA?oc=5</id>
+    <title type="html">South London's 1980s railway track and signalling to be modernised - Rail Technology Magazine</title>
+    <updated>2021-02-08T11:52:16.000000000Z</updated>
+    <link href="https://www.railtechnologymagazine.com/articles/south-londons-1980s-railway-track-and-signalling-be-modernised" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railtechnologymagazine.com/articles/south-londons-1980s-railway-track-and-signalling-be-modernised" target="_blank"&gt;South London's 1980s railway track and signalling to be modernised&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Rail Technology Magazine&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
