@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-09T13:26:31Z</updated>
+  <updated>2021-02-09T13:50:55Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Snow, Minimum Temperature: -2°C (28°F) Maximum Temperature: 0°C (32°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (32°F), Minimum Temperature: -2°C (28°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1007mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (32°F), Minimum Temperature: -2°C (28°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1007mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-09T09:53:00.000+0000</id>
-    <published>2021-02-09T13:04:43Z</published>
-    <updated>2021-02-09T13:04:43Z</updated>
+    <published>2021-02-09T13:30:59Z</published>
+    <updated>2021-02-09T13:30:59Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: -6°C (21°F) Maximum Temperature: 2°C (35°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (35°F), Minimum Temperature: -6°C (21°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-09T09:53:00.000+0000</id>
-    <published>2021-02-09T13:04:43Z</published>
-    <updated>2021-02-09T13:04:43Z</updated>
+    <published>2021-02-09T13:30:59Z</published>
+    <updated>2021-02-09T13:30:59Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: -3°C (27°F) Maximum Temperature: 0°C (33°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (33°F), Minimum Temperature: -3°C (27°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-09T09:53:00.000+0000</id>
-    <published>2021-02-09T13:04:43Z</published>
-    <updated>2021-02-09T13:04:43Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEI3CzpbkcCK1sQhFPRzHMHsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">The 8 weekends when trains won’t be able to run between Victoria and East Croydon - My London</title>
-    <updated>2021-02-09T12:26:00.000000000Z</updated>
-    <link href="https://www.mylondon.news/lifestyle/travel/8-weekends-trains-wont-able-19799299" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/travel/8-weekends-trains-wont-able-19799299" target="_blank"&gt;The 8 weekends when trains won’t be able to run between Victoria and East Croydon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <published>2021-02-09T13:30:59Z</published>
+    <updated>2021-02-09T13:30:59Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmJyaWdodG9uYW5kaG92ZW5ld3Mub3JnLzIwMjEvMDIvMDkvcmFpbC1jaGllZnMtdG8tc3RhcnQtZm91ci15ZWFyLXRyYWNrLWFuZC1zaWduYWxzLXVwZ3JhZGUtZm9yLWxvbmRvbi12aWN0b3JpYS_SAQA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-02-08T12:00:00.000000000Z</updated>
     <link href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" type="text/html"/>
     <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" target="_blank"&gt;Multiple weekend closures of the Victoria-East Croydon line announced&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnJhaWx0ZWNobm9sb2d5bWFnYXppbmUuY29tL2FydGljbGVzL3NvdXRoLWxvbmRvbnMtMTk4MHMtcmFpbHdheS10cmFjay1hbmQtc2lnbmFsbGluZy1iZS1tb2Rlcm5pc2Vk0gEA?oc=5</id>
+    <title type="html">South London's 1980s railway track and signalling to be modernised - Rail Technology Magazine</title>
+    <updated>2021-02-08T11:52:16.000000000Z</updated>
+    <link href="https://www.railtechnologymagazine.com/articles/south-londons-1980s-railway-track-and-signalling-be-modernised" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railtechnologymagazine.com/articles/south-londons-1980s-railway-track-and-signalling-be-modernised" target="_blank"&gt;South London's 1980s railway track and signalling to be modernised&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Rail Technology Magazine&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
