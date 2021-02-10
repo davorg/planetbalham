@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-10T13:27:00Z</updated>
+  <updated>2021-02-10T13:50:30Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -7°C (20°F) Maximum Temperature: 1°C (35°F)</title>
+    <title>Today: Light Snow, Minimum Temperature: -7°C (20°F) Maximum Temperature: 1°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (35°F), Minimum Temperature: -7°C (20°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1018mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (35°F), Minimum Temperature: -7°C (20°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1018mb, Humidity: 69%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-10T09:52:00.000+0000</id>
-    <published>2021-02-10T13:02:47Z</published>
-    <updated>2021-02-10T13:02:47Z</updated>
+    <published>2021-02-10T13:49:09Z</published>
+    <updated>2021-02-10T13:49:09Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: -3°C (27°F) Maximum Temperature: 1°C (33°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (33°F), Minimum Temperature: -3°C (27°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-10T09:52:00.000+0000</id>
-    <published>2021-02-10T13:02:47Z</published>
-    <updated>2021-02-10T13:02:47Z</updated>
+    <published>2021-02-10T13:49:09Z</published>
+    <updated>2021-02-10T13:49:09Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: -4°C (25°F) Maximum Temperature: 0°C (32°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (32°F), Minimum Temperature: -4°C (25°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1033mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:21 GMT, Sunset: 17:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-10T09:52:00.000+0000</id>
-    <published>2021-02-10T13:02:47Z</published>
-    <updated>2021-02-10T13:02:47Z</updated>
+    <published>2021-02-10T13:49:09Z</published>
+    <updated>2021-02-10T13:49:09Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEAPE9utiB86YyxCjiIzNAPUqFwgEKg4IACoGCAowqvB9MMTRCTCHn-8G?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-02-10T11:44:00.000000000Z</updated>
     <link href="https://www.standard.co.uk/reveller/restaurants/jimi-famurewa-review-the-red-duck-takeaway-british-cantonese-classics-b919254.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/jimi-famurewa-review-the-red-duck-takeaway-british-cantonese-classics-b919254.html" target="_blank"&gt;Jimi Famurewa reviews The Red Duck: An utterly compelling case for sidelined British-Cantonese classics&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEL0dwv6gTdJd8j9c5j6DRC0qMwgEKioIACIQ698LFQv3K8OwonLmpUS35CoUCAoiEOvfCxUL9yvDsKJy5qVEt-Qw7vvCBg?oc=5</id>
+    <title type="html">'The worst thing you can do is design it too small' - Wagamama's Steve Mangleshot on planning the perfect delivery kitchen - Foodservice Equipment Journal</title>
+    <updated>2021-02-10T10:39:00.000000000Z</updated>
+    <link href="https://www.foodserviceequipmentjournal.com/the-worst-thing-you-can-do-is-design-it-too-small-wagamamas-steve-mangleshot-on-planning-the-perfect-delivery-kitchen/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.foodserviceequipmentjournal.com/the-worst-thing-you-can-do-is-design-it-too-small-wagamamas-steve-mangleshot-on-planning-the-perfect-delivery-kitchen/" target="_blank"&gt;'The worst thing you can do is design it too small' - Wagamama's Steve Mangleshot on planning the perfect delivery kitchen&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Foodservice Equipment Journal&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Colour</title>
@@ -97,13 +104,6 @@
     <updated>2021-02-09T00:10:00.000000000Z</updated>
     <link href="https://www.brightonandhovenews.org/2021/02/09/rail-chiefs-to-start-four-year-track-and-signals-upgrade-for-london-victoria/" type="text/html"/>
     <content type="html">&lt;a href="https://www.brightonandhovenews.org/2021/02/09/rail-chiefs-to-start-four-year-track-and-signals-upgrade-for-london-victoria/" target="_blank"&gt;Rail chiefs to start four-year track and signals upgrade for London Victoria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Brighton and Hove News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEGJfPmudSUvX-RW7zKr0ui8qMwgEKioIACIQJ4jhQtGcXNB_WKuh1xrIRCoUCAoiECeI4ULRnFzQf1irodcayEQww5LnBg?oc=5</id>
-    <title type="html">Multiple weekend closures of the Victoria-East Croydon line announced - IanVisits</title>
-    <updated>2021-02-08T12:00:00.000000000Z</updated>
-    <link href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/02/08/multiple-weekend-closures-of-the-victoria-east-croydon-line-announced/" target="_blank"&gt;Multiple weekend closures of the Victoria-East Croydon line announced&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
