@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-11T15:55:09Z</updated>
+  <updated>2021-02-11T16:46:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (33°F), Minimum Temperature: -4°C (24°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1028mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-11T09:52:00.000+0000</id>
-    <published>2021-02-11T15:08:58Z</published>
-    <updated>2021-02-11T15:08:58Z</updated>
+    <published>2021-02-11T16:09:47Z</published>
+    <updated>2021-02-11T16:09:47Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: -5°C (24°F) Maximum Temperature: 1°C (33°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (33°F), Minimum Temperature: -5°C (24°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1031mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:21 GMT, Sunset: 17:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-11T09:52:00.000+0000</id>
-    <published>2021-02-11T15:08:58Z</published>
-    <updated>2021-02-11T15:08:58Z</updated>
+    <published>2021-02-11T16:09:47Z</published>
+    <updated>2021-02-11T16:09:47Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 0°C (33°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (33°F), Minimum Temperature: -1°C (30°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1034mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 17:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-11T09:52:00.000+0000</id>
-    <published>2021-02-11T15:08:58Z</published>
-    <updated>2021-02-11T15:08:58Z</updated>
+    <published>2021-02-11T16:09:47Z</published>
+    <updated>2021-02-11T16:09:47Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEHqUx2nemVH0xsRVm24BKAMqMwgEKioIACIQzLRVYsqwtkjJVUBYEdeYyioUCAoiEMy0VWLKsLZIyVVAWBHXmMowtd_HBg?oc=5</id>
+    <title type="html">Transport for London announces trial upgrade to key south London cycle route - road.cc</title>
+    <updated>2021-02-11T16:05:24.000000000Z</updated>
+    <link href="https://road.cc/content/news/tfl-announces-another-upgrade-key-s-london-cycle-route-280849" type="text/html"/>
+    <content type="html">&lt;a href="https://road.cc/content/news/tfl-announces-another-upgrade-key-s-london-cycle-route-280849" target="_blank"&gt;Transport for London announces trial upgrade to key south London cycle route&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;road.cc&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsva2VudC9uZXdzL3JhaWwtdXBncmFkZS13b3Jrcy10by1sYXN0LXVudGlsLTIwMjUtMjQyMzQzL9IBAA?oc=5</id>
@@ -68,13 +75,6 @@
     <link href="https://www.standard.co.uk/reveller/restaurants/jimi-famurewa-review-the-red-duck-takeaway-british-cantonese-classics-b919254.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/jimi-famurewa-review-the-red-duck-takeaway-british-cantonese-classics-b919254.html" target="_blank"&gt;Jimi Famurewa reviews The Red Duck: An utterly compelling case for sidelined British-Cantonese classics&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEL0dwv6gTdJd8j9c5j6DRC0qMwgEKioIACIQ698LFQv3K8OwonLmpUS35CoUCAoiEOvfCxUL9yvDsKJy5qVEt-Qw7vvCBg?oc=5</id>
-    <title type="html">'The worst thing you can do is design it too small' - Wagamama's Steve Mangleshot on planning the perfect delivery kitchen - Foodservice Equipment Journal</title>
-    <updated>2021-02-10T10:39:00.000000000Z</updated>
-    <link href="https://www.foodserviceequipmentjournal.com/the-worst-thing-you-can-do-is-design-it-too-small-wagamamas-steve-mangleshot-on-planning-the-perfect-delivery-kitchen/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.foodserviceequipmentjournal.com/the-worst-thing-you-can-do-is-design-it-too-small-wagamamas-steve-mangleshot-on-planning-the-perfect-delivery-kitchen/" target="_blank"&gt;'The worst thing you can do is design it too small' - Wagamama's Steve Mangleshot on planning the perfect delivery kitchen&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Foodservice Equipment Journal&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Colour</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/50928787537/"/>
@@ -102,6 +102,9 @@
     <category term="supermarket" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
