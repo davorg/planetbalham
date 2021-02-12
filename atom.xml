@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-11T23:53:57Z</updated>
+  <updated>2021-02-12T01:01:23Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: -3°C (26°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (26°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 17:10 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (26°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1029mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 17:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-11T21:52:00.000+0000</id>
-    <published>2021-02-11T23:11:50Z</published>
-    <updated>2021-02-11T23:11:50Z</updated>
+    <published>2021-02-12T00:59:55Z</published>
+    <updated>2021-02-12T00:59:55Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: -5°C (23°F) Maximum Temperature: 1°C (33°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (33°F), Minimum Temperature: -5°C (23°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1031mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 17:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-11T21:52:00.000+0000</id>
-    <published>2021-02-11T23:11:50Z</published>
-    <updated>2021-02-11T23:11:50Z</updated>
+    <published>2021-02-12T00:59:55Z</published>
+    <updated>2021-02-12T00:59:55Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 0°C (33°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 0°C (33°F), Minimum Temperature: -1°C (30°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1034mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 07:17 GMT, Sunset: 17:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-11T21:52:00.000+0000</id>
-    <published>2021-02-11T23:11:50Z</published>
-    <updated>2021-02-11T23:11:50Z</updated>
+    <published>2021-02-12T00:59:55Z</published>
+    <updated>2021-02-12T00:59:55Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGbgTNXwPn19ADL7N5j9TZsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
