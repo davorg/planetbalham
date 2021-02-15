@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-15T17:16:25Z</updated>
+  <updated>2021-02-15T17:56:11Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMib2h0dHA6Ly9sb25kb25uZXdzb25saW5lLmNvLnVrL2NvbnRyb3ZlcnNpYWwtcm9hZC1ibG9ja3MtY291bGQtYmUtaW50cm9kdWNlZC1kZXNwaXRlLXBvdGVudGlhbC1hbWJ1bGFuY2UtZGVsYXlzL9IBAA?oc=5</id>
+    <title type="html">Controversial road blocks could be introduced despite potential ambulance delays - London News Online</title>
+    <updated>2021-02-15T17:52:00.000000000Z</updated>
+    <link href="http://londonnewsonline.co.uk/controversial-road-blocks-could-be-introduced-despite-potential-ambulance-delays/" type="text/html"/>
+    <content type="html">&lt;a href="http://londonnewsonline.co.uk/controversial-road-blocks-could-be-introduced-despite-potential-ambulance-delays/" target="_blank"&gt;Controversial road blocks could be introduced despite potential ambulance delays&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2021-02-13T10:44:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19088532.two-arrested-house-party-wandsworth/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19088532.two-arrested-house-party-wandsworth/" target="_blank"&gt;Two arrested after house party in Wandsworth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmxhbmNzLmxpdmUvbmV3cy9sYW5jYXNoaXJlLW5ld3MvZ2FsbGVyeS9pbW1hY3VsYXRlLW1vZGVybi1ibGFja3Bvb2wtaG9tZS1iYXItMTk4MDkxMDXSAWVodHRwczovL3d3dy5sYW5jcy5saXZlL25ld3MvbGFuY2FzaGlyZS1uZXdzL2dhbGxlcnkvaW1tYWN1bGF0ZS1tb2Rlcm4tYmxhY2twb29sLWhvbWUtYmFyLTE5ODA5MTA1LmFtcA?oc=5</id>
-    <title type="html">The 'immaculate' modern Blackpool home with its own bar that could be yours for £265,000 - Accrington Observer</title>
-    <updated>2021-02-13T08:00:00.000000000Z</updated>
-    <link href="https://www.lancs.live/news/lancashire-news/gallery/immaculate-modern-blackpool-home-bar-19809105" type="text/html"/>
-    <content type="html">&lt;a href="https://www.lancs.live/news/lancashire-news/gallery/immaculate-modern-blackpool-home-bar-19809105" target="_blank"&gt;The 'immaculate' modern Blackpool home with its own bar that could be yours for £265,000&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Accrington Observer&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Colour</title>
