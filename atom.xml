@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-16T18:30:39Z</updated>
+  <updated>2021-02-16T18:59:04Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -105,6 +105,34 @@
     <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7285/buddyicons/14256361@N00.jpg?1427321525#14256361@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -262,32 +290,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/15038/50724393412/"/>
-    <id>tag:flickr.com,2005:/photo/50724393412</id>
-    <published>2020-12-15T21:56:57Z</published>
-    <updated>2020-12-15T21:56:57Z</updated>
-    <flickr:date_taken>1990-11-03T22:01:48-08:00</flickr:date_taken>
-    <dc:date.Taken>1990-11-03T22:01:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/15038/"&gt;15038&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/15038/50724393412/" title="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly"&gt;&lt;img src="https://live.staticflickr.com/65535/50724393412_ac95586756_m.jpg" width="240" height="160" alt="19901103 028 Balham. 47851 assumed working 1M50 14.20 Brighton - Manchester Piccadilly" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>15038</name>
-      <uri>https://www.flickr.com/people/15038/</uri>
-      <flickr:nsid>62613295@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7357/buddyicons/62613295@N05.jpg?1467018067#62613295@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50724393412_ac95586756_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="47851" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1m50" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
