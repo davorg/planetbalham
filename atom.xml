@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-17T22:24:57Z</updated>
+  <updated>2021-02-17T22:51:05Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -75,6 +75,39 @@
     <link href="https://www.msn.com/en-gb/news/other/my-heart-did-a-backflip-when-a-mystery-envelope-arrived/ar-BB1dG9FJ" type="text/html"/>
     <content type="html">&lt;a href="https://www.msn.com/en-gb/news/other/my-heart-did-a-backflip-when-a-mystery-envelope-arrived/ar-BB1dG9FJ" target="_blank"&gt;'My heart did a backflip when a mystery envelope arrived'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Colour</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/50928787537/"/>
+    <id>tag:flickr.com,2005:/photo/50928787537</id>
+    <published>2021-02-10T09:29:58Z</published>
+    <updated>2021-02-10T09:29:58Z</updated>
+    <flickr:date_taken>2019-10-09T10:28:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-10-09T10:28:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/50928787537/" title="Balham Colour"&gt;&lt;img src="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_m.jpg" width="180" height="240" alt="Balham Colour" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Behind Sainsburys&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="supermarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
@@ -256,47 +289,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham - Gateway To The South</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726670203/"/>
-    <id>tag:flickr.com,2005:/photo/50726670203</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T07:32:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T07:32:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726670203/" title="Balham - Gateway To The South"&gt;&lt;img src="https://live.staticflickr.com/65535/50726670203_67288de219_m.jpg" width="240" height="240" alt="Balham - Gateway To The South" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A southbound Northern Line service to Morden arrives into Balham Underground Station.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726670203_67288de219_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tubetrain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="platform" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="roundel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
