@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-18T09:28:48Z</updated>
+  <updated>2021-02-18T09:54:58Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -136,51 +136,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Winter Walk 1</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50875114502/"/>
-    <id>tag:flickr.com,2005:/photo/50875114502</id>
-    <published>2021-01-25T19:03:46Z</published>
-    <updated>2021-01-25T19:03:46Z</updated>
-    <flickr:date_taken>2021-01-25T18:45:36-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-01-25T18:45:36-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50875114502/" title="Winter Walk 1"&gt;&lt;img src="https://live.staticflickr.com/65535/50875114502_7f4edf3cc0_m.jpg" width="240" height="180" alt="Winter Walk 1" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>The_Kevster</name>
-      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
-      <flickr:nsid>64151671@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50875114502_7f4edf3cc0_b.jpg"/>
-    <category term="log" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="woodland" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trees" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="water" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="frozen" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw17" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="reflections" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="winter" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sky" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>2020 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html" type="text/html"/>
@@ -289,6 +244,47 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham - Gateway To The South</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726670203/"/>
+    <id>tag:flickr.com,2005:/photo/50726670203</id>
+    <published>2020-12-16T19:38:37Z</published>
+    <updated>2020-12-16T19:38:37Z</updated>
+    <flickr:date_taken>2020-12-15T07:32:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-12-15T07:32:16-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726670203/" title="Balham - Gateway To The South"&gt;&lt;img src="https://live.staticflickr.com/65535/50726670203_67288de219_m.jpg" width="240" height="240" alt="Balham - Gateway To The South" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A southbound Northern Line service to Morden arrives into Balham Underground Station.&lt;br /&gt;
+15 December 2020&lt;/p&gt;</content>
+    <author>
+      <name>McTumshie (Andrew Smith)</name>
+      <uri>https://www.flickr.com/people/mctumshie/</uri>
+      <flickr:nsid>51939423@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726670203_67288de219_b.jpg"/>
+    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tubetrain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="platform" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="roundel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
