@@ -7,9 +7,49 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-18T17:16:59Z</updated>
+  <updated>2021-02-18T17:56:08Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Route 255, Arriva London, DWL2, Y802DGT</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/50956690092/"/>
+    <id>tag:flickr.com,2005:/photo/50956690092</id>
+    <published>2021-02-18T17:22:15Z</published>
+    <updated>2021-02-18T17:22:15Z</updated>
+    <flickr:date_taken>2014-12-19T12:23:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2014-12-19T12:23:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/50956690092/" title="Route 255, Arriva London, DWL2, Y802DGT"&gt;&lt;img src="https://live.staticflickr.com/65535/50956690092_47fe793fff_m.jpg" width="240" height="161" alt="Route 255, Arriva London, DWL2, Y802DGT" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Arriva London DWL2 is pictured passing Streatham Station working a trip bound for Pollards Hill&lt;/p&gt;</content>
+    <author>
+      <name>Jack Marian</name>
+      <uri>https://www.flickr.com/people/londonbuses1/</uri>
+      <flickr:nsid>66490030@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1608940381#66490030@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50956690092_47fe793fff_b.jpg"/>
+    <category term="route255" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="arrivalondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dwl2" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="y802dgt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dafsb120" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="daf" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sb120" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wrightcadet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wright" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cadet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pollardshill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streathamstation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -41,11 +81,11 @@
     <updated>2021-02-18T17:09:59Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmhlbGxvbWFnYXppbmUuY29tL2hvbWVzL2dhbGxlcnkvMjAyMTAyMTgxMDcxNTEvZ29vZC1tb3JuaW5nLWJyaXRhaW4taG9zdHMtaG9tZXMtcGhvdG9zLWluc2lkZS8xL9IBd2h0dHBzOi8vd3d3LmhlbGxvbWFnYXppbmUuY29tL2hvbWVzL2dhbGxlcnkvMjAyMTAyMTgxMDcxNTEvZ29vZC1tb3JuaW5nLWJyaXRhaW4taG9zdHMtaG9tZXMtcGhvdG9zLWluc2lkZS8xLz92aWV3YXM9YW1w?oc=5</id>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LmhlbGxvbWFnYXppbmUuY29tL2hvbWVzLzIwMjEwMjE4MTA3MTUxL2dvb2QtbW9ybmluZy1icml0YWluLWhvc3RzLWhvbWVzLXBob3Rvcy1pbnNpZGUv0gF3aHR0cHM6Ly93d3cuaGVsbG9tYWdhemluZS5jb20vaG9tZXMvZ2FsbGVyeS8yMDIxMDIxODEwNzE1MS9nb29kLW1vcm5pbmctYnJpdGFpbi1ob3N0cy1ob21lcy1waG90b3MtaW5zaWRlLzEvP3ZpZXdhcz1hbXA?oc=5</id>
     <title type="html">GMB stars' homes REVEALED: Kate Garraway, Charlotte Hawkins, Susanna Reid &amp; more - HELLO!</title>
     <updated>2021-02-18T11:30:00.000000000Z</updated>
-    <link href="https://www.hellomagazine.com/homes/gallery/20210218107151/good-morning-britain-hosts-homes-photos-inside/1/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hellomagazine.com/homes/gallery/20210218107151/good-morning-britain-hosts-homes-photos-inside/1/" target="_blank"&gt;GMB stars' homes REVEALED: Kate Garraway, Charlotte Hawkins, Susanna Reid &amp; more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
+    <link href="https://www.hellomagazine.com/homes/20210218107151/good-morning-britain-hosts-homes-photos-inside/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hellomagazine.com/homes/20210218107151/good-morning-britain-hosts-homes-photos-inside/" target="_blank"&gt;GMB stars' homes REVEALED: Kate Garraway, Charlotte Hawkins, Susanna Reid &amp; more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEAz38MAzQu2JncdhiCq1yVAqMwgEKioIACIQ9kX38iy7_2S9dog8bNgj9ioUCAoiEPZF9_Isu_9kvXaIPGzYI_Yw6trJBg?oc=5</id>
@@ -253,43 +293,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
-    <id>tag:flickr.com,2005:/photo/50726669988</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
