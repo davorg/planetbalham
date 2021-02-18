@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-18T17:56:08Z</updated>
+  <updated>2021-02-18T18:30:27Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (37°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunset: 17:21 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-18T09:56:00.000+0000</id>
+    <published>2021-02-18T18:10:17Z</published>
+    <updated>2021-02-18T18:10:17Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 11°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-18T09:56:00.000+0000</id>
+    <published>2021-02-18T18:10:17Z</published>
+    <updated>2021-02-18T18:10:17Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 16°C (61°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1004mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-18T09:56:00.000+0000</id>
+    <published>2021-02-18T18:10:17Z</published>
+    <updated>2021-02-18T18:10:17Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/50956690092/"/>
@@ -50,36 +80,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 3°C (38°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1010mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 17:21 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-18T09:56:00.000+0000</id>
-    <published>2021-02-18T17:09:59Z</published>
-    <updated>2021-02-18T17:09:59Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 11°C (51°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-18T09:56:00.000+0000</id>
-    <published>2021-02-18T17:09:59Z</published>
-    <updated>2021-02-18T17:09:59Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 16°C (61°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1004mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-18T09:56:00.000+0000</id>
-    <published>2021-02-18T17:09:59Z</published>
-    <updated>2021-02-18T17:09:59Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LmhlbGxvbWFnYXppbmUuY29tL2hvbWVzLzIwMjEwMjE4MTA3MTUxL2dvb2QtbW9ybmluZy1icml0YWluLWhvc3RzLWhvbWVzLXBob3Rvcy1pbnNpZGUv0gF3aHR0cHM6Ly93d3cuaGVsbG9tYWdhemluZS5jb20vaG9tZXMvZ2FsbGVyeS8yMDIxMDIxODEwNzE1MS9nb29kLW1vcm5pbmctYnJpdGFpbi1ob3N0cy1ob21lcy1waG90b3MtaW5zaWRlLzEvP3ZpZXdhcz1hbXA?oc=5</id>
     <title type="html">GMB stars' homes REVEALED: Kate Garraway, Charlotte Hawkins, Susanna Reid &amp; more - HELLO!</title>
