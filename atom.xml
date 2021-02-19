@@ -7,79 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-19T04:57:20Z</updated>
+  <updated>2021-02-19T05:27:52Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 6°C (42°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1010mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 17:23 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1008mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-18T21:54:00.000+0000</id>
-    <published>2021-02-19T04:16:31Z</published>
-    <updated>2021-02-19T04:16:31Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 11°C (52°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1008mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-18T21:54:00.000+0000</id>
-    <published>2021-02-19T04:16:31Z</published>
-    <updated>2021-02-19T04:16:31Z</updated>
+    <published>2021-02-19T05:16:52Z</published>
+    <updated>2021-02-19T05:16:52Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 16°C (61°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1004mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-18T21:54:00.000+0000</id>
+    <published>2021-02-19T05:16:52Z</published>
+    <updated>2021-02-19T05:16:52Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1004mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1008mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-18T21:54:00.000+0000</id>
-    <published>2021-02-19T04:16:31Z</published>
-    <updated>2021-02-19T04:16:31Z</updated>
+    <published>2021-02-19T05:16:52Z</published>
+    <updated>2021-02-19T05:16:52Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Route 255, Arriva London, DWL2, Y802DGT</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/50956690092/"/>
-    <id>tag:flickr.com,2005:/photo/50956690092</id>
-    <published>2021-02-18T17:22:15Z</published>
-    <updated>2021-02-18T17:22:15Z</updated>
-    <flickr:date_taken>2014-12-19T12:23:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2014-12-19T12:23:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/50956690092/" title="Route 255, Arriva London, DWL2, Y802DGT"&gt;&lt;img src="https://live.staticflickr.com/65535/50956690092_47fe793fff_m.jpg" width="240" height="161" alt="Route 255, Arriva London, DWL2, Y802DGT" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Arriva London DWL2 is pictured passing Streatham Station working a trip bound for Pollards Hill&lt;/p&gt;</content>
-    <author>
-      <name>Jack Marian</name>
-      <uri>https://www.flickr.com/people/londonbuses1/</uri>
-      <flickr:nsid>66490030@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1608940381#66490030@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50956690092_47fe793fff_b.jpg"/>
-    <category term="route255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="arrivalondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dwl2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="y802dgt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dafsb120" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="daf" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sb120" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrightcadet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wright" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cadet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pollardshill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streathamstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LmhlbGxvbWFnYXppbmUuY29tL2hvbWVzLzIwMjEwMjE4MTA3MTUxL2dvb2QtbW9ybmluZy1icml0YWluLWhvc3RzLWhvbWVzLXBob3Rvcy1pbnNpZGUv0gF3aHR0cHM6Ly93d3cuaGVsbG9tYWdhemluZS5jb20vaG9tZXMvZ2FsbGVyeS8yMDIxMDIxODEwNzE1MS9nb29kLW1vcm5pbmctYnJpdGFpbi1ob3N0cy1ob21lcy1waG90b3MtaW5zaWRlLzEvP3ZpZXdhcz1hbXA?oc=5</id>
     <title type="html">GMB stars' homes REVEALED: Kate Garraway, Charlotte Hawkins, Susanna Reid &amp; more - HELLO!</title>
@@ -293,6 +253,43 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Underground Station</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
+    <id>tag:flickr.com,2005:/photo/50726669988</id>
+    <published>2020-12-16T19:38:37Z</published>
+    <updated>2020-12-16T19:38:37Z</updated>
+    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
+15 December 2020&lt;/p&gt;</content>
+    <author>
+      <name>McTumshie (Andrew Smith)</name>
+      <uri>https://www.flickr.com/people/mctumshie/</uri>
+      <flickr:nsid>51939423@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
+    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
