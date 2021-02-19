@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-19T10:53:46Z</updated>
+  <updated>2021-02-19T11:26:14Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 10°C (49°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 10°C (49°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 10°C (49°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1008mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 10°C (49°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1008mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-19T09:54:00.000+0000</id>
-    <published>2021-02-19T10:18:16Z</published>
-    <updated>2021-02-19T10:18:16Z</updated>
+    <published>2021-02-19T11:19:17Z</published>
+    <updated>2021-02-19T11:19:17Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1003mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-19T09:54:00.000+0000</id>
-    <published>2021-02-19T10:18:16Z</published>
-    <updated>2021-02-19T10:18:16Z</updated>
+    <published>2021-02-19T11:19:17Z</published>
+    <updated>2021-02-19T11:19:17Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-19T09:54:00.000+0000</id>
-    <published>2021-02-19T10:18:16Z</published>
-    <updated>2021-02-19T10:18:16Z</updated>
+    <published>2021-02-19T11:19:17Z</published>
+    <updated>2021-02-19T11:19:17Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
@@ -97,7 +97,7 @@
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LmdvaW5nY29uY2Vybi5jb20vYmlsbC1taWNoYWVsLWtwbWctdWstY2hhaXJtYW4tcG9zdC1tb3J0ZW0v0gFLaHR0cHM6Ly93d3cuZ29pbmdjb25jZXJuLmNvbS9iaWxsLW1pY2hhZWwta3BtZy11ay1jaGFpcm1hbi1wb3N0LW1vcnRlbS9hbXAv?oc=5</id>
     <title type="html">Right or Wrong: Bill Michael Is No Longer KPMG U.K. Chairman Because He Didn’t Mollycoddle Millennials and Zoomers - Going Concern</title>
-    <updated>2021-02-16T20:45:34.000000000Z</updated>
+    <updated>2021-02-16T20:45:00.000000000Z</updated>
     <link href="https://www.goingconcern.com/bill-michael-kpmg-uk-chairman-post-mortem/" type="text/html"/>
     <content type="html">&lt;a href="https://www.goingconcern.com/bill-michael-kpmg-uk-chairman-post-mortem/" target="_blank"&gt;Right or Wrong: Bill Michael Is No Longer KPMG U.K. Chairman Because He Didn’t Mollycoddle Millennials and Zoomers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Going Concern&lt;/font&gt;</content>
   </entry>
