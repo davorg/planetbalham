@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-20T18:30:38Z</updated>
+  <updated>2021-02-20T18:58:54Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 11°C (51°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunset: 17:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1005mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-20T09:56:00.000+0000</id>
-    <published>2021-02-20T18:01:18Z</published>
-    <updated>2021-02-20T18:01:18Z</updated>
+    <published>2021-02-20T18:46:19Z</published>
+    <updated>2021-02-20T18:46:19Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1009mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-20T09:56:00.000+0000</id>
-    <published>2021-02-20T18:01:18Z</published>
-    <updated>2021-02-20T18:01:18Z</updated>
+    <published>2021-02-20T18:46:19Z</published>
+    <updated>2021-02-20T18:46:19Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:01 GMT, Sunset: 17:28 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-20T09:56:00.000+0000</id>
-    <published>2021-02-20T18:01:18Z</published>
-    <updated>2021-02-20T18:01:18Z</updated>
+    <published>2021-02-20T18:46:19Z</published>
+    <updated>2021-02-20T18:46:19Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvdXBkYXRlLW9uLXRoZS1iYWxoYW0tc2FsZXMtbWFya2V0LWZyb20tbWFyc2gtcGFyc29uc9IBAA?oc=5</id>
