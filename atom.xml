@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-20T13:50:34Z</updated>
+  <updated>2021-02-20T14:26:49Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (60°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1002mb, Humidity: 56%, UV Risk: 1, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1001mb, Humidity: 54%, UV Risk: 1, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-20T09:56:00.000+0000</id>
-    <published>2021-02-20T13:44:57Z</published>
-    <updated>2021-02-20T13:44:57Z</updated>
+    <published>2021-02-20T14:01:02Z</published>
+    <updated>2021-02-20T14:01:02Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1009mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-20T09:56:00.000+0000</id>
-    <published>2021-02-20T13:44:57Z</published>
-    <updated>2021-02-20T13:44:57Z</updated>
+    <published>2021-02-20T14:01:02Z</published>
+    <updated>2021-02-20T14:01:02Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:01 GMT, Sunset: 17:28 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-20T09:56:00.000+0000</id>
-    <published>2021-02-20T13:44:57Z</published>
-    <updated>2021-02-20T13:44:57Z</updated>
+    <published>2021-02-20T14:01:02Z</published>
+    <updated>2021-02-20T14:01:02Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDEvdXBkYXRlLW9uLXRoZS1iYWxoYW0tc2FsZXMtbWFya2V0LWZyb20tbWFyc2gtcGFyc29uc9IBAA?oc=5</id>
@@ -149,47 +149,30 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Winter Walk 1</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50875114502/"/>
-    <id>tag:flickr.com,2005:/photo/50875114502</id>
-    <published>2021-01-25T19:03:46Z</published>
-    <updated>2021-01-25T19:03:46Z</updated>
-    <flickr:date_taken>2021-01-25T18:45:36-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-01-25T18:45:36-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50875114502/" title="Winter Walk 1"&gt;&lt;img src="https://live.staticflickr.com/65535/50875114502_7f4edf3cc0_m.jpg" width="240" height="180" alt="Winter Walk 1" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
-      <name>The_Kevster</name>
-      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
-      <flickr:nsid>64151671@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7285/buddyicons/14256361@N00.jpg?1427321525#14256361@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50875114502_7f4edf3cc0_b.jpg"/>
-    <category term="log" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="woodland" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trees" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="water" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="frozen" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw17" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="reflections" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="winter" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sky" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
