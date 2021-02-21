@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-21T15:55:57Z</updated>
+  <updated>2021-02-21T16:46:28Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1009mb, Humidity: 67%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1009mb, Humidity: 67%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-21T09:55:00.000+0000</id>
-    <published>2021-02-21T15:05:11Z</published>
-    <updated>2021-02-21T15:05:11Z</updated>
+    <published>2021-02-21T16:07:01Z</published>
+    <updated>2021-02-21T16:07:01Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1015mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:01 GMT, Sunset: 17:28 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-21T09:55:00.000+0000</id>
-    <published>2021-02-21T15:05:11Z</published>
-    <updated>2021-02-21T15:05:11Z</updated>
+    <published>2021-02-21T16:07:01Z</published>
+    <updated>2021-02-21T16:07:01Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1024mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:59 GMT, Sunset: 17:30 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-21T09:55:00.000+0000</id>
-    <published>2021-02-21T15:05:11Z</published>
-    <updated>2021-02-21T15:05:11Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMigwFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvdG9vdGluZy1udXJzZXJ5LWZvdW5kZXItYW5kLWJyYXZlLWNoYXJpdHktZnVuZHJhaXNlci1kaWVzLWp1c3QtZGF5cy1hZnRlci1iZWluZy1tYWRlLWFuLW1iZS1hZ2VkLTk2L9IBAA?oc=5</id>
-    <title type="html">Tooting nursery founder and brave charity fundraiser dies just days after being made an MBE aged 96 - London News Online</title>
-    <updated>2021-02-19T16:56:32.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/tooting-nursery-founder-and-brave-charity-fundraiser-dies-just-days-after-being-made-an-mbe-aged-96/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/tooting-nursery-founder-and-brave-charity-fundraiser-dies-just-days-after-being-made-an-mbe-aged-96/" target="_blank"&gt;Tooting nursery founder and brave charity fundraiser dies just days after being made an MBE aged 96&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <published>2021-02-21T16:07:01Z</published>
+    <updated>2021-02-21T16:07:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMimwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTIyMjI0MjAvZm9vdGJhbGwtaW4tdGhlLXRpbWUtb2YtaXRzLWEtc2luLWFzbGllLXBpdHRlci1hbmQtam9hbmllLWV2YW5zLXNoYXJlLW1lbW9yaWVzLWluLWxnYnQtaGlzdG9yeS1tb250aNIBnwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyMjIyNDIwL2Zvb3RiYWxsLWluLXRoZS10aW1lLW9mLWl0cy1hLXNpbi1hc2xpZS1waXR0ZXItYW5kLWpvYW5pZS1ldmFucy1zaGFyZS1tZW1vcmllcy1pbi1sZ2J0LWhpc3RvcnktbW9udGg?oc=5</id>
@@ -114,6 +107,13 @@
     <updated>2021-02-17T08:50:36.000000000Z</updated>
     <link href="https://extra.ie/2021/02/17/sport/soccernews/fai-ceo-jonathan-hill-vision" type="text/html"/>
     <content type="html">&lt;a href="https://extra.ie/2021/02/17/sport/soccernews/fai-ceo-jonathan-hill-vision" target="_blank"&gt;What is the vision of the new FAI chief executive Jonathan Hill?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Extra.ie&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LmdvaW5nY29uY2Vybi5jb20vYmlsbC1taWNoYWVsLWtwbWctdWstY2hhaXJtYW4tcG9zdC1tb3J0ZW0v0gFLaHR0cHM6Ly93d3cuZ29pbmdjb25jZXJuLmNvbS9iaWxsLW1pY2hhZWwta3BtZy11ay1jaGFpcm1hbi1wb3N0LW1vcnRlbS9hbXAv?oc=5</id>
+    <title type="html">Right or Wrong: Bill Michael Is No Longer KPMG U.K. Chairman Because He Didn’t Mollycoddle Millennials and Zoomers - Going Concern</title>
+    <updated>2021-02-16T20:45:34.000000000Z</updated>
+    <link href="https://www.goingconcern.com/bill-michael-kpmg-uk-chairman-post-mortem/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.goingconcern.com/bill-michael-kpmg-uk-chairman-post-mortem/" target="_blank"&gt;Right or Wrong: Bill Michael Is No Longer KPMG U.K. Chairman Because He Didn’t Mollycoddle Millennials and Zoomers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Going Concern&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Colour</title>
