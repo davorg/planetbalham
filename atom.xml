@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-24T07:51:12Z</updated>
+  <updated>2021-02-24T08:33:09Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1023mb, Humidity: 67%, UV Risk: 1, Pollution: Low, Sunrise: 06:57 GMT, Sunset: 17:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-23T21:53:00.000+0000</id>
-    <published>2021-02-24T07:45:12Z</published>
-    <updated>2021-02-24T07:45:12Z</updated>
+    <published>2021-02-24T08:02:00Z</published>
+    <updated>2021-02-24T08:02:00Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-23T21:53:00.000+0000</id>
-    <published>2021-02-24T07:45:12Z</published>
-    <updated>2021-02-24T07:45:12Z</updated>
+    <published>2021-02-24T08:02:00Z</published>
+    <updated>2021-02-24T08:02:00Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 2°C (36°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1038mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-23T21:53:00.000+0000</id>
-    <published>2021-02-24T07:45:12Z</published>
-    <updated>2021-02-24T07:45:12Z</updated>
+    <published>2021-02-24T08:02:00Z</published>
+    <updated>2021-02-24T08:02:00Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBJsRL2oX8fT7ttrWzLDSEIqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
@@ -67,6 +67,13 @@
     <updated>2021-02-23T16:31:18.000000000Z</updated>
     <link href="http://tooting.localnewsie.co.uk/tabs/blog/2021/02/the-latest-update-on-the-tooting-sales-market" type="text/html"/>
     <content type="html">&lt;a href="http://tooting.localnewsie.co.uk/tabs/blog/2021/02/the-latest-update-on-the-tooting-sales-market" target="_blank"&gt;the-latest-update-on-the-tooting-sales-market&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Tooting Daily PRSS&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMimwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL25ld3MvMTEwOTUvMTIyMjI0MjAvZm9vdGJhbGwtaW4tdGhlLXRpbWUtb2YtaXRzLWEtc2luLWFzbGllLXBpdHRlci1hbmQtam9hbmllLWV2YW5zLXNoYXJlLW1lbW9yaWVzLWluLWxnYnQtaGlzdG9yeS1tb250aNIBnwFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2FtcC9mb290YmFsbC9uZXdzLzExMDk1LzEyMjIyNDIwL2Zvb3RiYWxsLWluLXRoZS10aW1lLW9mLWl0cy1hLXNpbi1hc2xpZS1waXR0ZXItYW5kLWpvYW5pZS1ldmFucy1zaGFyZS1tZW1vcmllcy1pbi1sZ2J0LWhpc3RvcnktbW9udGg?oc=5</id>
+    <title type="html">Football in the time of 'It's A Sin': Aslie Pitter and Joanie Evans share memories in LGBT+ History Month - Sky Sports</title>
+    <updated>2021-02-19T11:16:52.000000000Z</updated>
+    <link href="https://www.skysports.com/football/news/11095/12222420/football-in-the-time-of-its-a-sin-aslie-pitter-and-joanie-evans-share-memories-in-lgbt-history-month" type="text/html"/>
+    <content type="html">&lt;a href="https://www.skysports.com/football/news/11095/12222420/football-in-the-time-of-its-a-sin-aslie-pitter-and-joanie-evans-share-memories-in-lgbt-history-month" target="_blank"&gt;Football in the time of 'It's A Sin': Aslie Pitter and Joanie Evans share memories in LGBT+ History Month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky Sports&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
@@ -108,13 +115,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAz38MAzQu2JncdhiCq1yVAqMwgEKioIACIQ9kX38iy7_2S9dog8bNgj9ioUCAoiEPZF9_Isu_9kvXaIPGzYI_Yw6trJBg?oc=5</id>
-    <title type="html">Former L&amp;Q boss David Montague named chair at developer - Inside Housing</title>
-    <updated>2021-02-17T17:14:00.000000000Z</updated>
-    <link href="https://www.insidehousing.co.uk/news/news/former-lq-boss-david-montague-named-chair-at-developer-69594" type="text/html"/>
-    <content type="html">&lt;a href="https://www.insidehousing.co.uk/news/news/former-lq-boss-david-montague-named-chair-at-developer-69594" target="_blank"&gt;Former L&amp;Q boss David Montague named chair at developer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Housing&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Colour</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/50928787537/"/>
