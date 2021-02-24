@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-24T17:57:15Z</updated>
+  <updated>2021-02-24T18:31:31Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1022mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 17:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-24T09:51:00.000+0000</id>
-    <published>2021-02-24T17:51:06Z</published>
-    <updated>2021-02-24T17:51:06Z</updated>
+    <published>2021-02-24T18:02:00Z</published>
+    <updated>2021-02-24T18:02:00Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-24T09:51:00.000+0000</id>
-    <published>2021-02-24T17:51:06Z</published>
-    <updated>2021-02-24T17:51:06Z</updated>
+    <published>2021-02-24T18:02:00Z</published>
+    <updated>2021-02-24T18:02:00Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 1°C (33°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1036mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-24T09:51:00.000+0000</id>
-    <published>2021-02-24T17:51:06Z</published>
-    <updated>2021-02-24T17:51:06Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEO_yfZNZTPn7NJ8TdRfDfWoqGQgEKhAIACoHCAowzuOICzCZ4ocDMPy1pwY?oc=5</id>
-    <title type="html">'NO scientific argument' for teachers to be prioritised for a Covid jab - Daily Mail</title>
-    <updated>2021-02-24T17:18:41.000000000Z</updated>
-    <link href="https://www.dailymail.co.uk/news/article-9295885/NO-scientific-argument-teachers-prioritised-Covid-jab.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9295885/NO-scientific-argument-teachers-prioritised-Covid-jab.html" target="_blank"&gt;'NO scientific argument' for teachers to be prioritised for a Covid jab&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+    <published>2021-02-24T18:02:00Z</published>
+    <updated>2021-02-24T18:02:00Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiED6SMHuzNgbQIK5z4wgA-a4qGQgEKhAIACoHCAowzuOICzCZ4ocDMO7xqQY?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-02-24T09:48:25.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/tooting-nursery-founder-and-brave-charity-fundraiser-dies-just-days-after-being-made-an-mbe-aged-96-2/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/tooting-nursery-founder-and-brave-charity-fundraiser-dies-just-days-after-being-made-an-mbe-aged-96-2/" target="_blank"&gt;Tooting nursery founder and brave charity fundraiser dies just days after being made an MBE aged 96&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBJsRL2oX8fT7ttrWzLDSEIqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
+    <title type="html">House prices are rising - so find out the best places to buy - Metro.co.uk</title>
+    <updated>2021-02-24T06:19:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/02/24/house-prices-are-rising-so-find-out-the-best-places-to-buy-14121952/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/02/24/house-prices-are-rising-so-find-out-the-best-places-to-buy-14121952/" target="_blank"&gt;House prices are rising - so find out the best places to buy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
@@ -112,6 +112,39 @@
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Colour</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/50928787537/"/>
+    <id>tag:flickr.com,2005:/photo/50928787537</id>
+    <published>2021-02-10T09:29:58Z</published>
+    <updated>2021-02-10T09:29:58Z</updated>
+    <flickr:date_taken>2019-10-09T10:28:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-10-09T10:28:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/50928787537/" title="Balham Colour"&gt;&lt;img src="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_m.jpg" width="180" height="240" alt="Balham Colour" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Behind Sainsburys&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="supermarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -260,43 +293,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mctumshie/50726669988/"/>
-    <id>tag:flickr.com,2005:/photo/50726669988</id>
-    <published>2020-12-16T19:38:37Z</published>
-    <updated>2020-12-16T19:38:37Z</updated>
-    <flickr:date_taken>2020-12-15T16:12:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-15T16:12:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/mctumshie/"&gt;McTumshie (Andrew Smith)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/mctumshie/50726669988/" title="Balham Underground Station"&gt;&lt;img src="https://live.staticflickr.com/65535/50726669988_934d914369_m.jpg" width="240" height="240" alt="Balham Underground Station" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham Underground Station which was designed by Charles Holden and is Grade II listed.&lt;br /&gt;
-15 December 2020&lt;/p&gt;</content>
-    <author>
-      <name>McTumshie (Andrew Smith)</name>
-      <uri>https://www.flickr.com/people/mctumshie/</uri>
-      <flickr:nsid>51939423@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/51939423@N00.jpg?1591295565#51939423@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50726669988_934d914369_b.jpg"/>
-    <category term="20201215" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="charlesholden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lul" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
