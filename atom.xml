@@ -7,45 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-25T08:57:03Z</updated>
+  <updated>2021-02-25T09:33:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Drizzle, Minimum Temperature: 2°C (35°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 2°C (35°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-24T21:52:00.000+0000</id>
-    <published>2021-02-25T08:06:14Z</published>
-    <updated>2021-02-25T08:06:14Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-25T07:58:00.000+0000</id>
+    <published>2021-02-25T09:06:14Z</published>
+    <updated>2021-02-25T09:06:14Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny, Minimum Temperature: 1°C (35°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Friday: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1037mb, Humidity: 63%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1037mb, Humidity: 63%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-24T21:52:00.000+0000</id>
-    <published>2021-02-25T08:06:14Z</published>
-    <updated>2021-02-25T08:06:14Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-25T07:58:00.000+0000</id>
+    <published>2021-02-25T09:06:14Z</published>
+    <updated>2021-02-25T09:06:14Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 3°C (37°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1040mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1041mb, Humidity: 64%, UV Risk: 1, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-24T21:52:00.000+0000</id>
-    <published>2021-02-25T08:06:14Z</published>
-    <updated>2021-02-25T08:06:14Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiED6SMHuzNgbQIK5z4wgA-a4qGQgEKhAIACoHCAowzuOICzCZ4ocDMO7xqQY?oc=5</id>
-    <title type="html">Britain and the US could achieve herd immunity through Covid vaccines before the end of 2021 - Daily Mail</title>
-    <updated>2021-02-24T14:54:55.000000000Z</updated>
-    <link href="https://www.dailymail.co.uk/news/article-9294289/Britain-achieve-herd-immunity-Covid-vaccines-end-2021.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9294289/Britain-achieve-herd-immunity-Covid-vaccines-end-2021.html" target="_blank"&gt;Britain and the US could achieve herd immunity through Covid vaccines before the end of 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-25T07:58:00.000+0000</id>
+    <published>2021-02-25T09:06:14Z</published>
+    <updated>2021-02-25T09:06:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBFEWtNQQcugbBR7GjxKyoYqGQgEKhAIACoHCAowwNKVCzCxt6sDMJjwxgY?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-02-24T09:00:00.000000000Z</updated>
     <link href="https://www.ispreview.co.uk/index.php/2021/02/isp-community-fibre-brings-full-fibre-to-200000-london-homes.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.ispreview.co.uk/index.php/2021/02/isp-community-fibre-brings-full-fibre-to-200000-london-homes.html" target="_blank"&gt;ISP Community Fibre Brings Full Fibre to 200,000 London Homes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ISPreview.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBJsRL2oX8fT7ttrWzLDSEIqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
+    <title type="html">House prices are rising - so find out the best places to buy - Metro.co.uk</title>
+    <updated>2021-02-24T06:19:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/02/24/house-prices-are-rising-so-find-out-the-best-places-to-buy-14121952/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/02/24/house-prices-are-rising-so-find-out-the-best-places-to-buy-14121952/" target="_blank"&gt;House prices are rising - so find out the best places to buy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
