@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-02-27T08:56:52Z</updated>
+  <updated>2021-02-27T09:29:21Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-02-27T07:58:00.000+0000</id>
-    <published>2021-02-27T08:40:10Z</published>
-    <updated>2021-02-27T08:40:10Z</updated>
+    <published>2021-02-27T09:04:40Z</published>
+    <updated>2021-02-27T09:04:40Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-02-27T07:58:00.000+0000</id>
-    <published>2021-02-27T08:40:10Z</published>
-    <updated>2021-02-27T08:40:10Z</updated>
+    <published>2021-02-27T09:04:40Z</published>
+    <updated>2021-02-27T09:04:40Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 9°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1033mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-02-27T07:58:00.000+0000</id>
-    <published>2021-02-27T08:40:10Z</published>
-    <updated>2021-02-27T08:40:10Z</updated>
+    <published>2021-02-27T09:04:40Z</published>
+    <updated>2021-02-27T09:04:40Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9yZW1lbWJlcmluZy1nb29kLXRpbWVzLWF0LXRoZS1uaWdodGluZ2FsZS_SAQA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-02-26T16:00:21.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/remembering-good-times-at-the-nightingale/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/remembering-good-times-at-the-nightingale/" target="_blank"&gt;Remembering good times at The Nightingale – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEOujK5yMbfh0d3N5YjVfroMqGQgEKhAIACoHCAowzuOICzCZ4ocDMKiaowY?oc=5</id>
+    <title type="html">Coronavirus UK: 60% of people in part of the Isle of Wight have had their first jab - Daily Mail</title>
+    <updated>2021-02-25T17:33:04.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9299781/Coronavirus-UK-60-people-Isle-Wight-jab.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9299781/Coronavirus-UK-60-people-Isle-Wight-jab.html" target="_blank"&gt;Coronavirus UK: 60% of people in part of the Isle of Wight have had their first jab&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wMi8yNS9ub24tbGVhZ3VlLWNsdWJzLWxlZnQtdG8tY291bnQtY29zdHMtb2Ytc2Vhc29uLXRoYXQtbmV2ZXItd2FzL9IBZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wMi8yNS9ub24tbGVhZ3VlLWNsdWJzLWxlZnQtdG8tY291bnQtY29zdHMtb2Ytc2Vhc29uLXRoYXQtbmV2ZXItd2FzL2FtcC8?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-02-24T13:37:49.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/herne-hill-harriers-katie-snowden-makes-gb-team-for-european-indoor-championships/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/herne-hill-harriers-katie-snowden-makes-gb-team-for-european-indoor-championships/" target="_blank"&gt;Herne Hill Harriers' Katie Snowden makes GB team for European Indoor Championships&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEOOI5-SRjyN1fPlLpLElYj8qGQgEKhAIACoHCAow0Ij8CjCRwIgDMOSMzAU?oc=5</id>
-    <title type="html">Vaccine postcode lottery as healthy 20 and 30-year-olds called for Covid jabs despite not being on priority - The Sun</title>
-    <updated>2021-02-24T12:55:00.000000000Z</updated>
-    <link href="https://www.thesun.co.uk/news/14147650/vaccine-postcode-lottery-healthy-20-30/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thesun.co.uk/news/14147650/vaccine-postcode-lottery-healthy-20-30/" target="_blank"&gt;Vaccine postcode lottery as healthy 20 and 30-year-olds called for Covid jabs despite not being on priority&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
@@ -260,7 +260,7 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
       <name>Leticia Tootington</name>
       <uri>https://www.flickr.com/people/plasmatika/</uri>
       <flickr:nsid>14256361@N00</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon01.png#14256361@N00</flickr:buddyicon>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
