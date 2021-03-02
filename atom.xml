@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-02T11:50:56Z</updated>
+  <updated>2021-03-02T12:31:04Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 3°C (37°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 68%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:44 GMT, Sunset: 17:42 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-02T09:54:00.000+0000</id>
-    <published>2021-03-02T11:41:13Z</published>
-    <updated>2021-03-02T11:41:13Z</updated>
+    <published>2021-03-02T12:02:22Z</published>
+    <updated>2021-03-02T12:02:22Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 81%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-02T09:54:00.000+0000</id>
-    <published>2021-03-02T11:41:13Z</published>
-    <updated>2021-03-02T11:41:13Z</updated>
+    <published>2021-03-02T12:02:22Z</published>
+    <updated>2021-03-02T12:02:22Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thick Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 84%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-02T09:54:00.000+0000</id>
-    <published>2021-03-02T11:41:13Z</published>
-    <updated>2021-03-02T11:41:13Z</updated>
+    <published>2021-03-02T12:02:22Z</published>
+    <updated>2021-03-02T12:02:22Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb29kLWFuZC1kcmluay9mZWF0dXJlcy8yNS10ZXJyaWZpZWQtZ29pbmctcmVzdGF1cmFudHMtYmFycy1jbHVicy1yZW9wZW4v0gFpaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzI1LXRlcnJpZmllZC1nb2luZy1yZXN0YXVyYW50cy1iYXJzLWNsdWJzLXJlb3Blbi9hbXAv?oc=5</id>
+    <title type="html">I'm 25 and terrified of going to restaurants, bars and clubs when they reopen - Telegraph.co.uk</title>
+    <updated>2021-03-02T12:00:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/food-and-drink/features/25-terrified-going-restaurants-bars-clubs-reopen/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/food-and-drink/features/25-terrified-going-restaurants-bars-clubs-reopen/" target="_blank"&gt;I'm 25 and terrified of going to restaurants, bars and clubs when they reopen&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELzohynDhGqEhg9UfMcSmVMqIggEKhoIACIQd3d3Lm1hc2hhYmxlLmNvbSoECAowCDChmB4?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-03-01T22:38:00.000000000Z</updated>
     <link href="https://www.thesun.co.uk/news/14202750/seven-million-living-areas-covid-cases-zero/" type="text/html"/>
     <content type="html">&lt;a href="https://www.thesun.co.uk/news/14202750/seven-million-living-areas-covid-cases-zero/" target="_blank"&gt;Seven million people in UK living in areas where Covid cases ‘close to zero’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMDMvMDEvc2V2ZW4tbWlsbGlvbi1wZW9wbGUtdWstbGl2aW5nLWFyZWFzLW5lZ2xpZ2libGUtY292aWQtY2FzZXMv0gFsaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL25ld3MvMjAyMS8wMy8wMS9zZXZlbi1taWxsaW9uLXBlb3BsZS11ay1saXZpbmctYXJlYXMtbmVnbGlnaWJsZS1jb3ZpZC1jYXNlcy9hbXAv?oc=5</id>
-    <title type="html">More than seven million people in the UK living in areas with negligible Covid cases - Telegraph.co.uk</title>
-    <updated>2021-03-01T21:00:00.000000000Z</updated>
-    <link href="https://www.telegraph.co.uk/news/2021/03/01/seven-million-people-uk-living-areas-negligible-covid-cases/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/03/01/seven-million-people-uk-living-areas-negligible-covid-cases/" target="_blank"&gt;More than seven million people in the UK living in areas with negligible Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
