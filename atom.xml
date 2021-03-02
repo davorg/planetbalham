@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-02T06:31:19Z</updated>
+  <updated>2021-03-02T06:59:00Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1030mb, Humidity: 75%, UV Risk: 2, Pollution: Moderate, Sunrise: 06:44 GMT, Sunset: 17:42 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Poor, Pressure: 1030mb, Humidity: 76%, UV Risk: 2, Pollution: Moderate, Sunrise: 06:44 GMT, Sunset: 17:42 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-01T21:54:00.000+0000</id>
-    <published>2021-03-02T06:00:56Z</published>
-    <updated>2021-03-02T06:00:56Z</updated>
+    <published>2021-03-02T06:39:34Z</published>
+    <updated>2021-03-02T06:39:34Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Wednesday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 78%, UV Risk: 2, Pollution: Moderate, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 81%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-01T21:54:00.000+0000</id>
-    <published>2021-03-02T06:00:56Z</published>
-    <updated>2021-03-02T06:00:56Z</updated>
+    <published>2021-03-02T06:39:34Z</published>
+    <updated>2021-03-02T06:39:34Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thick Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 82%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-01T21:54:00.000+0000</id>
-    <published>2021-03-02T06:00:56Z</published>
-    <updated>2021-03-02T06:00:56Z</updated>
+    <published>2021-03-02T06:39:34Z</published>
+    <updated>2021-03-02T06:39:34Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBw50PFnuSUisjcHlisQNC4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMOSMzAU?oc=5</id>
+    <title type="html">Seven million people in UK living in areas where Covid cases ‘close to zero’ - The Sun</title>
+    <updated>2021-03-01T22:38:00.000000000Z</updated>
+    <link href="https://www.thesun.co.uk/news/14202750/seven-million-living-areas-covid-cases-zero/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/news/14202750/seven-million-living-areas-covid-cases-zero/" target="_blank"&gt;Seven million people in UK living in areas where Covid cases ‘close to zero’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMDMvMDEvc2V2ZW4tbWlsbGlvbi1wZW9wbGUtdWstbGl2aW5nLWFyZWFzLW5lZ2xpZ2libGUtY292aWQtY2FzZXMv0gFsaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL25ld3MvMjAyMS8wMy8wMS9zZXZlbi1taWxsaW9uLXBlb3BsZS11ay1saXZpbmctYXJlYXMtbmVnbGlnaWJsZS1jb3ZpZC1jYXNlcy9hbXAv?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-02-27T10:55:52.000000000Z</updated>
     <link href="https://ca.news.yahoo.com/only-fools-and-horses-lost-episode-105552488.html" type="text/html"/>
     <content type="html">&lt;a href="https://ca.news.yahoo.com/only-fools-and-horses-lost-episode-105552488.html" target="_blank"&gt;Lost episode of 'Only Fools and Horses' would've seen Del Boy retire as a millionaire&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News Canada&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wMi8yNS9ub24tbGVhZ3VlLWNsdWJzLWxlZnQtdG8tY291bnQtY29zdHMtb2Ytc2Vhc29uLXRoYXQtbmV2ZXItd2FzL9IBZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wMi8yNS9ub24tbGVhZ3VlLWNsdWJzLWxlZnQtdG8tY291bnQtY29zdHMtb2Ytc2Vhc29uLXRoYXQtbmV2ZXItd2FzL2FtcC8?oc=5</id>
-    <title type="html">Non-league clubs left to count costs of season-that-never-was - Inside Croydon</title>
-    <updated>2021-02-25T10:39:46.000000000Z</updated>
-    <link href="https://insidecroydon.com/2021/02/25/non-league-clubs-left-to-count-costs-of-season-that-never-was/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidecroydon.com/2021/02/25/non-league-clubs-left-to-count-costs-of-season-that-never-was/" target="_blank"&gt;Non-league clubs left to count costs of season-that-never-was&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
@@ -211,6 +211,39 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Colour</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/50928787537/"/>
+    <id>tag:flickr.com,2005:/photo/50928787537</id>
+    <published>2021-02-10T09:29:58Z</published>
+    <updated>2021-02-10T09:29:58Z</updated>
+    <flickr:date_taken>2019-10-09T10:28:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-10-09T10:28:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/50928787537/" title="Balham Colour"&gt;&lt;img src="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_m.jpg" width="180" height="240" alt="Balham Colour" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Behind Sainsburys&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="supermarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>20210129_151837</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
     <id>tag:flickr.com,2005:/photo/50888122967</id>
@@ -327,37 +360,6 @@ I don’t usually include classical shows in these lists. To be honest, I don’
     <category term="review"/>
     <category term="year in gigs"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>YD19HHO</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/trevor-plackett/49569620457/"/>
-    <id>tag:flickr.com,2005:/photo/49569620457</id>
-    <published>2020-12-26T09:55:25Z</published>
-    <updated>2020-12-26T09:55:25Z</updated>
-    <flickr:date_taken>2020-02-22T14:32:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-02-22T14:32:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/trevor-plackett/"&gt;47604&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/trevor-plackett/49569620457/" title="YD19HHO"&gt;&lt;img src="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_m.jpg" width="240" height="172" alt="YD19HHO" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;George regal of balham    m1&lt;/p&gt;</content>
-    <author>
-      <name>47604</name>
-      <uri>https://www.flickr.com/people/trevor-plackett/</uri>
-      <flickr:nsid>60459234@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2865/buddyicons/60459234@N04.jpg?1369294418#60459234@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/49569620457_320d2f9ec4_b.jpg"/>
-    <category term="yutong" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yd19" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="george" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="regal" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coach" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Consuming Culture: 16-31 Jan 2020</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/02/consuming-culture-16-31-jan-2020.html" type="text/html"/>
