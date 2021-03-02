@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-02T17:50:23Z</updated>
+  <updated>2021-03-02T18:28:51Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL25ld3MvdWstbmV3cy9tYXR0LWhhbmNvY2stcmVqZWN0cy1jb3ZpZC1jYWxscy0xOTk1MTUxMtIBWGh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL25ld3MvdWstbmV3cy9tYXR0LWhhbmNvY2stcmVqZWN0cy1jb3ZpZC1jYWxscy0xOTk1MTUxMi5hbXA?oc=5</id>
+    <title type="html">Matt Hancock rejects Covid calls to ease lockdown in areas with low rates - WalesOnline</title>
+    <updated>2021-03-02T18:24:45.000000000Z</updated>
+    <link href="https://www.walesonline.co.uk/news/uk-news/matt-hancock-rejects-covid-calls-19951512" type="text/html"/>
+    <content type="html">&lt;a href="https://www.walesonline.co.uk/news/uk-news/matt-hancock-rejects-covid-calls-19951512" target="_blank"&gt;Matt Hancock rejects Covid calls to ease lockdown in areas with low rates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WalesOnline&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 90%, UV Risk: 0, Pollution: Moderate, Sunset: 17:42 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-02T09:54:00.000+0000</id>
-    <published>2021-03-02T17:42:54Z</published>
-    <updated>2021-03-02T17:42:54Z</updated>
+    <published>2021-03-02T18:00:47Z</published>
+    <updated>2021-03-02T18:00:47Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 81%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-02T09:54:00.000+0000</id>
-    <published>2021-03-02T17:42:54Z</published>
-    <updated>2021-03-02T17:42:54Z</updated>
+    <published>2021-03-02T18:00:47Z</published>
+    <updated>2021-03-02T18:00:47Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thick Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,15 +44,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 84%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-02T09:54:00.000+0000</id>
-    <published>2021-03-02T17:42:54Z</published>
-    <updated>2021-03-02T17:42:54Z</updated>
+    <published>2021-03-02T18:00:47Z</published>
+    <updated>2021-03-02T18:00:47Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vbWV0cm8uY28udWsvMjAyMS8wMy8wMi9tb3JlLXRoYW4tNzAwMDAwMC1pbi1lbmdsYW5kLWxpdmUtaW4tYXJlYXMtd2l0aC1hbG1vc3Qtbm8tY292aWQtY2FzZXMtMTQxNzMxNDkv0gFyaHR0cHM6Ly9tZXRyby5jby51ay8yMDIxLzAzLzAyL21vcmUtdGhhbi03MDAwMDAwLWluLWVuZ2xhbmQtbGl2ZS1pbi1hcmVhcy13aXRoLWFsbW9zdC1uby1jb3ZpZC1jYXNlcy0xNDE3MzE0OS9hbXAv?oc=5</id>
-    <title type="html">More than 7,000,000 in England live in areas with almost no Covid cases - Metro</title>
+    <id>https://news.google.com/articles/CAIiEM5Hh4ArVC9PN85xipgEBdoqGQgEKhAIACoHCAowzc-JCzDQ5psDMLyzrQY?oc=5</id>
+    <title type="html">More than 7,000,000 in England live in areas with almost no Covid cases - Metro.co.uk</title>
     <updated>2021-03-02T17:40:00.000000000Z</updated>
     <link href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" target="_blank"&gt;More than 7,000,000 in England live in areas with almost no Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" target="_blank"&gt;More than 7,000,000 in England live in areas with almost no Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb29kLWFuZC1kcmluay9mZWF0dXJlcy8yNS10ZXJyaWZpZWQtZ29pbmctcmVzdGF1cmFudHMtYmFycy1jbHVicy1yZW9wZW4v0gFpaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzI1LXRlcnJpZmllZC1nb2luZy1yZXN0YXVyYW50cy1iYXJzLWNsdWJzLXJlb3Blbi9hbXAv?oc=5</id>
@@ -60,13 +67,6 @@
     <updated>2021-03-02T11:14:54.000000000Z</updated>
     <link href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" type="text/html"/>
     <content type="html">&lt;a href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" target="_blank"&gt;Lime e-bike batteries are being turned into portable speakers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mashable&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBaWqsmoxAaCmC3zcw8TGAYqGQgEKhAIACoHCAowltmQCzCb66QDMO_NtAY?oc=5</id>
-    <title type="html">PHE suppressing data on areas where there are near zero Covid cases - The London Economic</title>
-    <updated>2021-03-02T10:48:57.000000000Z</updated>
-    <link href="https://www.thelondoneconomic.com/news/phe-suppressing-data-on-areas-where-there-are-near-zero-covid-cases-223013/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thelondoneconomic.com/news/phe-suppressing-data-on-areas-where-there-are-near-zero-covid-cases-223013/" target="_blank"&gt;PHE suppressing data on areas where there are near zero Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The London Economic&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBw50PFnuSUisjcHlisQNC4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMOSMzAU?oc=5</id>
