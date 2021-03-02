@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-02T17:08:18Z</updated>
+  <updated>2021-03-02T17:35:54Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2021-03-02T17:02:22Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL21pbGxpb25zLXBlb3BsZS1lbmdsYW5kLWxpdmluZy1hcmVhcy0xOTk0Nzc0NdIBAA?oc=5</id>
-    <title type="html">Millions of people in England living in areas with almost no Covid - MyLondon</title>
-    <updated>2021-03-02T13:40:30.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/uk-world-news/millions-people-england-living-areas-19947745" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/millions-people-england-living-areas-19947745" target="_blank"&gt;Millions of people in England living in areas with almost no Covid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb29kLWFuZC1kcmluay9mZWF0dXJlcy8yNS10ZXJyaWZpZWQtZ29pbmctcmVzdGF1cmFudHMtYmFycy1jbHVicy1yZW9wZW4v0gFpaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzI1LXRlcnJpZmllZC1nb2luZy1yZXN0YXVyYW50cy1iYXJzLWNsdWJzLXJlb3Blbi9hbXAv?oc=5</id>
     <title type="html">I'm 25 and terrified of going to restaurants, bars and clubs when they reopen - Telegraph.co.uk</title>
     <updated>2021-03-02T12:00:00.000000000Z</updated>
@@ -60,6 +53,13 @@
     <updated>2021-03-02T11:14:54.000000000Z</updated>
     <link href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" type="text/html"/>
     <content type="html">&lt;a href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" target="_blank"&gt;Lime e-bike batteries are being turned into portable speakers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mashable&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBaWqsmoxAaCmC3zcw8TGAYqGQgEKhAIACoHCAowltmQCzCb66QDMO_NtAY?oc=5</id>
+    <title type="html">PHE suppressing data on areas where there are near zero Covid cases - The London Economic</title>
+    <updated>2021-03-02T10:48:57.000000000Z</updated>
+    <link href="https://www.thelondoneconomic.com/news/phe-suppressing-data-on-areas-where-there-are-near-zero-covid-cases-223013/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thelondoneconomic.com/news/phe-suppressing-data-on-areas-where-there-are-near-zero-covid-cases-223013/" target="_blank"&gt;PHE suppressing data on areas where there are near zero Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The London Economic&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBw50PFnuSUisjcHlisQNC4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMOSMzAU?oc=5</id>
