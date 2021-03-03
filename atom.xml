@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-03T13:50:32Z</updated>
+  <updated>2021-03-03T14:28:16Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 79%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 83%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-03T09:51:00.000+0000</id>
-    <published>2021-03-03T13:00:36Z</published>
-    <updated>2021-03-03T13:00:36Z</updated>
+    <published>2021-03-03T14:00:56Z</published>
+    <updated>2021-03-03T14:00:56Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thick Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (38°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 80%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-03T09:51:00.000+0000</id>
-    <published>2021-03-03T13:00:36Z</published>
-    <updated>2021-03-03T13:00:36Z</updated>
+    <published>2021-03-03T14:00:56Z</published>
+    <updated>2021-03-03T14:00:56Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 0°C (32°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 63%, UV Risk: 1, Pollution: Moderate, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-03T09:51:00.000+0000</id>
-    <published>2021-03-03T13:00:36Z</published>
-    <updated>2021-03-03T13:00:36Z</updated>
+    <published>2021-03-03T14:00:56Z</published>
+    <updated>2021-03-03T14:00:56Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEK0Bs8bU0NCQQKG-Vu2dvB8qGQgEKhAIACoHCAowzuOICzCZ4ocDMJ3joAY?oc=5</id>
+    <title type="html">Budget 2021: Homebuyers react to Rishi Sunak's new mortgage guarantee scheme - Daily Mail</title>
+    <updated>2021-03-03T12:29:05.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9320635/Rishi-Sunak-announces-new-mortgage-guarantee-scheme.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9320635/Rishi-Sunak-announces-new-mortgage-guarantee-scheme.html" target="_blank"&gt;Budget 2021: Homebuyers react to Rishi Sunak's new mortgage guarantee scheme&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnJhY2luZy5jb20vbmV3cy8yMDIxLTAzLTAzL25ld3MtaW50ZXJzdGF0ZS1mcm9tLW5pZ2h0LWZpbGwtbWFuYWdlci10by10aGUtcmFjZXPSAQA?oc=5</id>
@@ -55,25 +62,18 @@
     <content type="html">&lt;a href="https://www.cambridge-news.co.uk/news/uk-world-news/matt-hancock-rejects-covid-calls-19951512" target="_blank"&gt;Hancock rejects calls to ease lockdown in areas with low Covid rates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cambridgeshire Live&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL21pbGxpb25zLXBlb3BsZS1lbmdsYW5kLWxpdmluZy1hcmVhcy0xOTk0Nzc0NdIBAA?oc=5</id>
+    <title type="html">Millions of people in England living in areas with almost no Covid - MyLondon</title>
+    <updated>2021-03-02T13:40:30.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/uk-world-news/millions-people-england-living-areas-19947745" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/millions-people-england-living-areas-19947745" target="_blank"&gt;Millions of people in England living in areas with almost no Covid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb29kLWFuZC1kcmluay9mZWF0dXJlcy8yNS10ZXJyaWZpZWQtZ29pbmctcmVzdGF1cmFudHMtYmFycy1jbHVicy1yZW9wZW4v0gFpaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzI1LXRlcnJpZmllZC1nb2luZy1yZXN0YXVyYW50cy1iYXJzLWNsdWJzLXJlb3Blbi9hbXAv?oc=5</id>
     <title type="html">I'm 25 and terrified of going to restaurants, bars and clubs when they reopen - Telegraph.co.uk</title>
     <updated>2021-03-02T12:00:00.000000000Z</updated>
     <link href="https://www.telegraph.co.uk/food-and-drink/features/25-terrified-going-restaurants-bars-clubs-reopen/" type="text/html"/>
     <content type="html">&lt;a href="https://www.telegraph.co.uk/food-and-drink/features/25-terrified-going-restaurants-bars-clubs-reopen/" target="_blank"&gt;I'm 25 and terrified of going to restaurants, bars and clubs when they reopen&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiELzohynDhGqEhg9UfMcSmVMqIggEKhoIACIQd3d3Lm1hc2hhYmxlLmNvbSoECAowCDChmB4?oc=5</id>
-    <title type="html">Lime e-bike batteries are being turned into portable speakers - Mashable</title>
-    <updated>2021-03-02T11:14:54.000000000Z</updated>
-    <link href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" type="text/html"/>
-    <content type="html">&lt;a href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" target="_blank"&gt;Lime e-bike batteries are being turned into portable speakers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mashable&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBaWqsmoxAaCmC3zcw8TGAYqGQgEKhAIACoHCAowltmQCzCb66QDMO_NtAY?oc=5</id>
-    <title type="html">PHE suppressing data on areas where there are near zero Covid cases - The London Economic</title>
-    <updated>2021-03-02T10:48:57.000000000Z</updated>
-    <link href="https://www.thelondoneconomic.com/news/phe-suppressing-data-on-areas-where-there-are-near-zero-covid-cases-223013/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thelondoneconomic.com/news/phe-suppressing-data-on-areas-where-there-are-near-zero-covid-cases-223013/" target="_blank"&gt;PHE suppressing data on areas where there are near zero Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The London Economic&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
