@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-05T13:51:00Z</updated>
+  <updated>2021-03-05T14:28:42Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1033mb, Humidity: 51%, UV Risk: 2, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-05T09:56:00.000+0000</id>
-    <published>2021-03-05T13:41:16Z</published>
-    <updated>2021-03-05T13:41:16Z</updated>
+    <published>2021-03-05T14:00:27Z</published>
+    <updated>2021-03-05T14:00:27Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1034mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-05T09:56:00.000+0000</id>
-    <published>2021-03-05T13:41:16Z</published>
-    <updated>2021-03-05T13:41:16Z</updated>
+    <published>2021-03-05T14:00:27Z</published>
+    <updated>2021-03-05T14:00:27Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (44°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-05T09:56:00.000+0000</id>
-    <published>2021-03-05T13:41:16Z</published>
-    <updated>2021-03-05T13:41:16Z</updated>
+    <published>2021-03-05T14:00:27Z</published>
+    <updated>2021-03-05T14:00:27Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3Lm1hbnNpb25nbG9iYWwuY29tL2FydGljbGVzL2Rlc2lnbmVycy1vbi10aGVpci1maXJzdC1hcGFydG1lbnRzLWFuZC10aGVpci1jaGVhcC1kZWNvci10cmlja3MtMTQ2Njgy0gFyaHR0cHM6Ly93d3cubWFuc2lvbmdsb2JhbC5jb20vYW1wL2FydGljbGVzL2Rlc2lnbmVycy1vbi10aGVpci1maXJzdC1hcGFydG1lbnRzLWFuZC10aGVpci1jaGVhcC1kZWNvci10cmlja3MtMTQ2Njgy?oc=5</id>
@@ -79,13 +79,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnJhY2luZy5jb20vbmV3cy8yMDIxLTAzLTAzL25ld3MtaW50ZXJzdGF0ZS1mcm9tLW5pZ2h0LWZpbGwtbWFuYWdlci10by10aGUtcmFjZXPSAQA?oc=5</id>
-    <title type="html">From night fill manager to the races - Racing.com</title>
-    <updated>2021-03-03T01:01:41.000000000Z</updated>
-    <link href="https://www.racing.com/news/2021-03-03/news-interstate-from-night-fill-manager-to-the-races" type="text/html"/>
-    <content type="html">&lt;a href="https://www.racing.com/news/2021-03-03/news-interstate-from-night-fill-manager-to-the-races" target="_blank"&gt;From night fill manager to the races&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Racing.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEDlC9Mwu-cG05aC2-878d5wqGAgEKg8IACoHCAowqa6gCTCuoHAw_YqLAw?oc=5</id>
     <title type="html">Seven million living in neighbourhoods where coronavirus cases are 'almost zero' - Mirror Online</title>
     <updated>2021-03-02T18:28:06.000000000Z</updated>
@@ -105,6 +98,13 @@
     <updated>2021-03-02T17:40:00.000000000Z</updated>
     <link href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" type="text/html"/>
     <content type="html">&lt;a href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" target="_blank"&gt;More than 7,000,000 in England live in areas with almost no Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmNpdHlhbS5jb20vbWlsbGlvbnMtb2YtcGVvcGxlLWluLWVuZ2xhbmQtaGF2ZS1hbG1vc3Qtbm8tY292aWQtY2FzZXMtaW4tdGhlaXItYXJlYS_SAWJodHRwczovL3d3dy5jaXR5YW0uY29tL21pbGxpb25zLW9mLXBlb3BsZS1pbi1lbmdsYW5kLWhhdmUtYWxtb3N0LW5vLWNvdmlkLWNhc2VzLWluLXRoZWlyLWFyZWEvYW1wLw?oc=5</id>
+    <title type="html">Millions of people in England have almost no Covid cases in their area - City A.M.</title>
+    <updated>2021-03-02T14:58:00.000000000Z</updated>
+    <link href="https://www.cityam.com/millions-of-people-in-england-have-almost-no-covid-cases-in-their-area/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cityam.com/millions-of-people-in-england-have-almost-no-covid-cases-in-their-area/" target="_blank"&gt;Millions of people in England have almost no Covid cases in their area&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
