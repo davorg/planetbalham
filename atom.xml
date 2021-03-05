@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-05T06:31:25Z</updated>
+  <updated>2021-03-05T06:59:44Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 0°C (31°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 0°C (31°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (31°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1032mb, Humidity: 63%, UV Risk: 1, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (31°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1032mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-04T21:52:00.000+0000</id>
-    <published>2021-03-05T06:01:19Z</published>
-    <updated>2021-03-05T06:01:19Z</updated>
+    <published>2021-03-05T06:35:37Z</published>
+    <updated>2021-03-05T06:35:37Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (44°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1034mb, Humidity: 67%, UV Risk: 1, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-04T21:52:00.000+0000</id>
-    <published>2021-03-05T06:01:19Z</published>
-    <updated>2021-03-05T06:01:19Z</updated>
+    <published>2021-03-05T06:35:37Z</published>
+    <updated>2021-03-05T06:35:37Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (44°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-04T21:52:00.000+0000</id>
-    <published>2021-03-05T06:01:19Z</published>
-    <updated>2021-03-05T06:01:19Z</updated>
+    <published>2021-03-05T06:35:37Z</published>
+    <updated>2021-03-05T06:35:37Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3Lm1hbnNpb25nbG9iYWwuY29tL2FydGljbGVzL2Rlc2lnbmVycy1vbi10aGVpci1maXJzdC1hcGFydG1lbnRzLWFuZC10aGVpci1jaGVhcC1kZWNvci10cmlja3MtMTQ2Njgy0gFyaHR0cHM6Ly93d3cubWFuc2lvbmdsb2JhbC5jb20vYW1wL2FydGljbGVzL2Rlc2lnbmVycy1vbi10aGVpci1maXJzdC1hcGFydG1lbnRzLWFuZC10aGVpci1jaGVhcC1kZWNvci10cmlja3MtMTQ2Njgy?oc=5</id>
@@ -93,18 +93,18 @@
     <content type="html">&lt;a href="https://www.cambridge-news.co.uk/news/uk-world-news/matt-hancock-rejects-covid-calls-19951512" target="_blank"&gt;Hancock rejects calls to ease lockdown in areas with low Covid rates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cambridgeshire Live&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL21pbGxpb25zLXBlb3BsZS1lbmdsYW5kLWxpdmluZy1hcmVhcy0xOTk0Nzc0NdIBAA?oc=5</id>
-    <title type="html">Millions of people in England living in areas with almost no Covid - MyLondon</title>
-    <updated>2021-03-02T13:40:30.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/uk-world-news/millions-people-england-living-areas-19947745" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/millions-people-england-living-areas-19947745" target="_blank"&gt;Millions of people in England living in areas with almost no Covid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mb29kLWFuZC1kcmluay9mZWF0dXJlcy8yNS10ZXJyaWZpZWQtZ29pbmctcmVzdGF1cmFudHMtYmFycy1jbHVicy1yZW9wZW4v0gFpaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzI1LXRlcnJpZmllZC1nb2luZy1yZXN0YXVyYW50cy1iYXJzLWNsdWJzLXJlb3Blbi9hbXAv?oc=5</id>
     <title type="html">I'm 25 and terrified of going to restaurants, bars and clubs when they reopen - Telegraph.co.uk</title>
     <updated>2021-03-02T12:00:00.000000000Z</updated>
     <link href="https://www.telegraph.co.uk/food-and-drink/features/25-terrified-going-restaurants-bars-clubs-reopen/" type="text/html"/>
     <content type="html">&lt;a href="https://www.telegraph.co.uk/food-and-drink/features/25-terrified-going-restaurants-bars-clubs-reopen/" target="_blank"&gt;I'm 25 and terrified of going to restaurants, bars and clubs when they reopen&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiELzohynDhGqEhg9UfMcSmVMqIggEKhoIACIQd3d3Lm1hc2hhYmxlLmNvbSoECAowCDChmB4?oc=5</id>
+    <title type="html">Lime e-bike batteries are being turned into portable speakers - Mashable</title>
+    <updated>2021-03-02T11:14:54.000000000Z</updated>
+    <link href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" type="text/html"/>
+    <content type="html">&lt;a href="https://mashable.com/article/lime-gomi-ebike-batteries-portable-speakers/" target="_blank"&gt;Lime e-bike batteries are being turned into portable speakers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mashable&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
