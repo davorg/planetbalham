@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-06T13:28:52Z</updated>
+  <updated>2021-03-06T13:50:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -86,13 +86,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnJhY2luZy5jb20vbmV3cy8yMDIxLTAzLTAzL25ld3MtaW50ZXJzdGF0ZS1mcm9tLW5pZ2h0LWZpbGwtbWFuYWdlci10by10aGUtcmFjZXPSAQA?oc=5</id>
-    <title type="html">From night fill manager to the races - Racing.com</title>
-    <updated>2021-03-03T01:01:41.000000000Z</updated>
-    <link href="https://www.racing.com/news/2021-03-03/news-interstate-from-night-fill-manager-to-the-races" type="text/html"/>
-    <content type="html">&lt;a href="https://www.racing.com/news/2021-03-03/news-interstate-from-night-fill-manager-to-the-races" target="_blank"&gt;From night fill manager to the races&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Racing.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnNvbWVyc2V0bGl2ZS5jby51ay9uZXdzL3VrLXdvcmxkLW5ld3MvbWF0dC1oYW5jb2NrLXJlamVjdHMtY292aWQtY2FsbHMtNTA2NDU5NdIBAA?oc=5</id>
     <title type="html">Hancock rebuffs calls to ease lockdown in areas with low virus rates - Somerset Live</title>
     <updated>2021-03-02T18:49:35.000000000Z</updated>
@@ -105,6 +98,13 @@
     <updated>2021-03-02T18:28:06.000000000Z</updated>
     <link href="https://www.mirror.co.uk/news/uk-news/seven-million-living-neighbourhoods-coronavirus-23589256" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/seven-million-living-neighbourhoods-coronavirus-23589256" target="_blank"&gt;Seven million living in neighbourhoods where coronavirus cases are 'almost zero'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEM5Hh4ArVC9PN85xipgEBdoqGQgEKhAIACoHCAowzc-JCzDQ5psDML6GogY?oc=5</id>
+    <title type="html">More than 7,000,000 in England live in areas with almost no Covid cases - Metro.co.uk</title>
+    <updated>2021-03-02T17:40:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" target="_blank"&gt;More than 7,000,000 in England live in areas with almost no Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
