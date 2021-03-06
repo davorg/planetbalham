@@ -7,18 +7,49 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-06T15:56:59Z</updated>
+  <updated>2021-03-06T16:49:23Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The lost bookshop</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/51009313496/"/>
+    <id>tag:flickr.com,2005:/photo/51009313496</id>
+    <published>2021-03-06T16:31:39Z</published>
+    <updated>2021-03-06T16:31:39Z</updated>
+    <flickr:date_taken>2013-02-17T13:48:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2013-02-17T13:48:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/51009313496/" title="The lost bookshop"&gt;&lt;img src="https://live.staticflickr.com/65535/51009313496_8b4b225fd1_m.jpg" width="160" height="240" alt="The lost bookshop" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now an estate agents. :-(&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51009313496_8b4b225fd1_b.jpg"/>
+    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="secondhand" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="paperbacks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="minicab" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamstation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 0°C (32°F) Maximum Temperature: 6°C (42°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: 0°C (32°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1032mb, Humidity: 60%, UV Risk: 1, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: 0°C (32°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1032mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-06T09:50:00.000+0000</id>
-    <published>2021-03-06T15:03:09Z</published>
-    <updated>2021-03-06T15:03:09Z</updated>
+    <published>2021-03-06T16:04:14Z</published>
+    <updated>2021-03-06T16:04:14Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (44°F)</title>
@@ -27,8 +58,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-06T09:50:00.000+0000</id>
-    <published>2021-03-06T15:03:09Z</published>
-    <updated>2021-03-06T15:03:09Z</updated>
+    <published>2021-03-06T16:04:14Z</published>
+    <updated>2021-03-06T16:04:14Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,8 +68,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-06T09:50:00.000+0000</id>
-    <published>2021-03-06T15:03:09Z</published>
-    <updated>2021-03-06T15:03:09Z</updated>
+    <published>2021-03-06T16:04:14Z</published>
+    <updated>2021-03-06T16:04:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAsm1kcnEV_B4upETJssKQ4qGQgEKhAIACoHCAow9qOFCzDSvIIDMK6RywY?oc=5</id>
+    <title type="html">YouTube pranksters trick royal experts into lying about Meghan Markle - Insider</title>
+    <updated>2021-03-06T15:57:34.000000000Z</updated>
+    <link href="https://www.insider.com/youtube-pranksters-trick-royal-experts-into-lying-about-meghan-markle-2021-3" type="text/html"/>
+    <content type="html">&lt;a href="https://www.insider.com/youtube-pranksters-trick-royal-experts-into-lying-about-meghan-markle-2021-3" target="_blank"&gt;YouTube pranksters trick royal experts into lying about Meghan Markle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Insider&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTM5NzEzLndhbmRzd29ydGhzLXRvcC1iZWVyLWdhcmRlbnMtLS1ib29rLWFwcmlsLTEyL9IBAA?oc=5</id>
@@ -98,13 +136,6 @@
     <updated>2021-03-02T18:28:06.000000000Z</updated>
     <link href="https://www.mirror.co.uk/news/uk-news/seven-million-living-neighbourhoods-coronavirus-23589256" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/seven-million-living-neighbourhoods-coronavirus-23589256" target="_blank"&gt;Seven million living in neighbourhoods where coronavirus cases are 'almost zero'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEM5Hh4ArVC9PN85xipgEBdoqGQgEKhAIACoHCAowzc-JCzDQ5psDML6GogY?oc=5</id>
-    <title type="html">More than 7,000,000 in England live in areas with almost no Covid cases - Metro.co.uk</title>
-    <updated>2021-03-02T17:40:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/03/02/more-than-7000000-in-england-live-in-areas-with-almost-no-covid-cases-14173149/" target="_blank"&gt;More than 7,000,000 in England live in areas with almost no Covid cases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
@@ -271,34 +302,6 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
     <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>20210129_151837</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
-    <id>tag:flickr.com,2005:/photo/50888122967</id>
-    <published>2021-01-29T16:41:29Z</published>
-    <updated>2021-01-29T16:41:29Z</updated>
-    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Leticia Tootington</name>
-      <uri>https://www.flickr.com/people/plasmatika/</uri>
-      <flickr:nsid>14256361@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
