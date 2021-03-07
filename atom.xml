@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-07T14:51:34Z</updated>
+  <updated>2021-03-07T15:28:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 5°C (42°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 6°C (42°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 52%, UV Risk: 1, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (42°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 51%, UV Risk: 1, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-07T09:58:00.000+0000</id>
-    <published>2021-03-07T14:19:42Z</published>
-    <updated>2021-03-07T14:19:42Z</updated>
+    <published>2021-03-07T15:20:01Z</published>
+    <updated>2021-03-07T15:20:01Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1024mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-07T09:58:00.000+0000</id>
-    <published>2021-03-07T14:19:42Z</published>
-    <updated>2021-03-07T14:19:42Z</updated>
+    <published>2021-03-07T15:20:01Z</published>
+    <updated>2021-03-07T15:20:01Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-07T09:58:00.000+0000</id>
-    <published>2021-03-07T14:19:42Z</published>
-    <updated>2021-03-07T14:19:42Z</updated>
+    <published>2021-03-07T15:20:01Z</published>
+    <updated>2021-03-07T15:20:01Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnRoZXRlbGVncmFwaGFuZGFyZ3VzLmNvLnVrL25ld3MvMTkxMzgyMzIubG9vay1iYWNrLWp1bmlvci1sZWFkZXJzLXJlZ2ltZW50LXJveWFsLWNvcnBzLXNpZ25hbHMv0gE5aHR0cHM6Ly93d3cudGhldGVsZWdyYXBoYW5kYXJndXMuY28udWsvbmV3cy8xOTEzODIzMi5hbXAv?oc=5</id>
+    <title type="html">Look back: Junior Leaders Regiment Royal Corps of Signals - Bradford Telegraph and Argus</title>
+    <updated>2021-03-07T15:00:00.000000000Z</updated>
+    <link href="https://www.thetelegraphandargus.co.uk/news/19138232.look-back-junior-leaders-regiment-royal-corps-signals/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetelegraphandargus.co.uk/news/19138232.look-back-junior-leaders-regiment-royal-corps-signals/" target="_blank"&gt;Look back: Junior Leaders Regiment Royal Corps of Signals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bradford Telegraph and Argus&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMDE5Ny9uZXdzLWZ1bm55LWZlc3RpdmFsLWxpdmXSAQA?oc=5</id>
@@ -99,13 +106,6 @@
     <link href="https://www.insider.com/youtube-pranksters-trick-royal-experts-into-lying-about-meghan-markle-2021-3" type="text/html"/>
     <content type="html">&lt;a href="https://www.insider.com/youtube-pranksters-trick-royal-experts-into-lying-about-meghan-markle-2021-3" target="_blank"&gt;YouTube pranksters trick royal experts into lying about Meghan Markle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Insider&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTM5NzEzLndhbmRzd29ydGhzLXRvcC1iZWVyLWdhcmRlbnMtLS1ib29rLWFwcmlsLTEyL9IBAA?oc=5</id>
-    <title type="html">Wandsworth's top beer gardens – where to book for April - Wandsworth Guardian</title>
-    <updated>2021-03-06T06:00:00.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19139713.wandsworths-top-beer-gardens---book-april-12/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19139713.wandsworths-top-beer-gardens---book-april-12/" target="_blank"&gt;Wandsworth's top beer gardens – where to book for April&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Ritherdon Road, London SW17 1984</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/95406721@N03/50999783033/"/>
@@ -134,46 +134,6 @@
     <category term="v750" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="scan" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Route 255, Arriva London, DWL2, Y802DGT</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/50956690092/"/>
-    <id>tag:flickr.com,2005:/photo/50956690092</id>
-    <published>2021-02-18T17:22:15Z</published>
-    <updated>2021-02-18T17:22:15Z</updated>
-    <flickr:date_taken>2014-12-19T12:23:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2014-12-19T12:23:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/50956690092/" title="Route 255, Arriva London, DWL2, Y802DGT"&gt;&lt;img src="https://live.staticflickr.com/65535/50956690092_47fe793fff_m.jpg" width="240" height="161" alt="Route 255, Arriva London, DWL2, Y802DGT" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Arriva London DWL2 is pictured passing Streatham Station working a trip bound for Pollards Hill&lt;/p&gt;</content>
-    <author>
-      <name>Jack Marian</name>
-      <uri>https://www.flickr.com/people/londonbuses1/</uri>
-      <flickr:nsid>66490030@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1608940381#66490030@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50956690092_47fe793fff_b.jpg"/>
-    <category term="route255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="arrivalondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dwl2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="y802dgt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dafsb120" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="daf" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sb120" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrightcadet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wright" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cadet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pollardshill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streathamstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -302,6 +262,34 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
     <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
