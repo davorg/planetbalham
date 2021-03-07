@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-07T05:52:11Z</updated>
+  <updated>2021-03-07T06:30:28Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (30°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (30°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 1, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-06T21:53:00.000+0000</id>
-    <published>2021-03-07T05:15:49Z</published>
-    <updated>2021-03-07T05:15:49Z</updated>
+    <published>2021-03-07T06:16:48Z</published>
+    <updated>2021-03-07T06:16:48Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1024mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-06T21:53:00.000+0000</id>
-    <published>2021-03-07T05:15:49Z</published>
-    <updated>2021-03-07T05:15:49Z</updated>
+    <published>2021-03-07T06:16:48Z</published>
+    <updated>2021-03-07T06:16:48Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1022mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-06T21:53:00.000+0000</id>
-    <published>2021-03-07T05:15:49Z</published>
-    <updated>2021-03-07T05:15:49Z</updated>
+    <published>2021-03-07T06:16:48Z</published>
+    <updated>2021-03-07T06:16:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirgFodHRwczovL3d3dy5nanNlbnRpbmVsLmNvbS9zcG9ydHMvbmF0aW9uYWwvdGhlLWRheS1zcG9ydHMtd2VudC1kYXJrLW9uZS15ZWFyLWxhdGVyLWhvaWJlcmctaHVza2Vycy1yZWNhbGwtY2hhb3Mtb2YtY292aWQtMTlzL2FydGljbGVfNjY0MzRkMGQtOWFmNi01M2U4LWE4NmUtYzc2NjZiY2EyOWEwLmh0bWzSAQA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-03-07T01:30:00.000000000Z</updated>
     <link href="https://www.gjsentinel.com/sports/national/the-day-sports-went-dark-one-year-later-hoiberg-huskers-recall-chaos-of-covid-19s/article_66434d0d-9af6-53e8-a86e-c7666bca29a0.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.gjsentinel.com/sports/national/the-day-sports-went-dark-one-year-later-hoiberg-huskers-recall-chaos-of-covid-19s/article_66434d0d-9af6-53e8-a86e-c7666bca29a0.html" target="_blank"&gt;The day sports went dark: One year later, Hoiberg, Huskers recall chaos of COVID-19's arrival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Grand Junction Daily Sentinel&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMirAFodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuaW4vdGhlbGlmZS9uZXdzL3doaXRlLWF1dGhvci13cml0ZXMtcG9lbS1pbi1yZXNwb25zZS10by1jcml0aWNpc20taXQtd2FzLWluYXBwcm9wcmlhdGUtdG8tdHJhbnNsYXRlLWFtYW5kYS1nb3JtYW5zLXdvcmsvYXJ0aWNsZXNob3cvODEzNjg5NzkuY21z0gGwAWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5pbi90aGVsaWZlL25ld3Mvd2hpdGUtYXV0aG9yLXdyaXRlcy1wb2VtLWluLXJlc3BvbnNlLXRvLWNyaXRpY2lzbS1pdC13YXMtaW5hcHByb3ByaWF0ZS10by10cmFuc2xhdGUtYW1hbmRhLWdvcm1hbnMtd29yay9hbXBfYXJ0aWNsZXNob3cvODEzNjg5NzkuY21z?oc=5</id>
+    <title type="html">White author writes poem in response to criticism it was inappropriate to translate Amanda Gorman's work - Business Insider India</title>
+    <updated>2021-03-06T16:36:00.000000000Z</updated>
+    <link href="https://www.businessinsider.in/thelife/news/white-author-writes-poem-in-response-to-criticism-it-was-inappropriate-to-translate-amanda-gormans-work/articleshow/81368979.cms" type="text/html"/>
+    <content type="html">&lt;a href="https://www.businessinsider.in/thelife/news/white-author-writes-poem-in-response-to-criticism-it-was-inappropriate-to-translate-amanda-gormans-work/articleshow/81368979.cms" target="_blank"&gt;White author writes poem in response to criticism it was inappropriate to translate Amanda Gorman's work&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Business Insider India&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
@@ -130,13 +137,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL3VrLXdvcmxkLW5ld3MvbWF0dC1oYW5jb2NrLXJlamVjdHMtY292aWQtY2FsbHMtNTA2NDU5NdIBAA?oc=5</id>
-    <title type="html">Hancock rebuffs calls to ease lockdown in areas with low virus rates - Nottinghamshire Live</title>
-    <updated>2021-03-02T18:39:04.000000000Z</updated>
-    <link href="https://www.nottinghampost.com/news/uk-world-news/matt-hancock-rejects-covid-calls-5064595" type="text/html"/>
-    <content type="html">&lt;a href="https://www.nottinghampost.com/news/uk-world-news/matt-hancock-rejects-covid-calls-5064595" target="_blank"&gt;Hancock rebuffs calls to ease lockdown in areas with low virus rates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nottinghamshire Live&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 255, Arriva London, DWL2, Y802DGT</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/50956690092/"/>
