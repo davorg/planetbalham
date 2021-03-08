@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-08T19:01:26Z</updated>
+  <updated>2021-03-08T19:23:59Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1022mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-08T09:52:00.000+0000</id>
-    <published>2021-03-08T18:40:38Z</published>
-    <updated>2021-03-08T18:40:38Z</updated>
+    <published>2021-03-08T19:01:35Z</published>
+    <updated>2021-03-08T19:01:35Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-08T09:52:00.000+0000</id>
-    <published>2021-03-08T18:40:38Z</published>
-    <updated>2021-03-08T18:40:38Z</updated>
+    <published>2021-03-08T19:01:35Z</published>
+    <updated>2021-03-08T19:01:35Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 9°C (49°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1009mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-08T09:52:00.000+0000</id>
-    <published>2021-03-08T18:40:38Z</published>
-    <updated>2021-03-08T18:40:38Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvY2VsZWJyaXRpZXMtbGlrZS1tZWdoYW4tYXJlLXRoZXJlLXRvLWJlLWVhdGVuLTZ6bGs4Yzh2cdIBAA?oc=5</id>
-    <title type="html">Celebrities like Meghan are there to be eaten - The Times</title>
-    <updated>2021-03-08T17:00:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/celebrities-like-meghan-are-there-to-be-eaten-6zlk8c8vq" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/celebrities-like-meghan-are-there-to-be-eaten-6zlk8c8vq" target="_blank"&gt;Celebrities like Meghan are there to be eaten&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+    <published>2021-03-08T19:01:35Z</published>
+    <updated>2021-03-08T19:01:35Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEO-4iqhT1-eQNEXRKP4b6RYqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-03-07T15:00:00.000000000Z</updated>
     <link href="https://www.thetelegraphandargus.co.uk/news/19138232.look-back-junior-leaders-regiment-royal-corps-signals/" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetelegraphandargus.co.uk/news/19138232.look-back-junior-leaders-regiment-royal-corps-signals/" target="_blank"&gt;Look back: Junior Leaders Regiment Royal Corps of Signals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bradford Telegraph and Argus&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiECdzUX09JBoc5LhND4zIV_8qGQgEKhAIACoHCAowzc-JCzDQ5psDMLXrrQY?oc=5</id>
+    <title type="html">Josh Pieters 'proves royal experts lie about Harry and Meghan' - Metro.co.uk</title>
+    <updated>2021-03-06T18:55:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/03/06/josh-pieters-proves-royal-experts-lie-about-harry-and-meghan-14199844/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/03/06/josh-pieters-proves-royal-experts-lie-about-harry-and-meghan-14199844/" target="_blank"&gt;Josh Pieters 'proves royal experts lie about Harry and Meghan'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
