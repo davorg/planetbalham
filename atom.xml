@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-08T16:50:21Z</updated>
+  <updated>2021-03-08T17:40:32Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 10°C (49°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 2°C (36°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1022mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-08T09:52:00.000+0000</id>
-    <published>2021-03-08T16:38:36Z</published>
-    <updated>2021-03-08T16:38:36Z</updated>
+    <published>2021-03-08T17:38:56Z</published>
+    <updated>2021-03-08T17:38:56Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-08T09:52:00.000+0000</id>
-    <published>2021-03-08T16:38:36Z</published>
-    <updated>2021-03-08T16:38:36Z</updated>
+    <published>2021-03-08T17:38:56Z</published>
+    <updated>2021-03-08T17:38:56Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 9°C (49°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,15 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1009mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-08T09:52:00.000+0000</id>
-    <published>2021-03-08T16:38:36Z</published>
-    <updated>2021-03-08T16:38:36Z</updated>
+    <published>2021-03-08T17:38:56Z</published>
+    <updated>2021-03-08T17:38:56Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWpWZzVPTWtvQU1FWHBtMm8tSkgtdXhLQUFQAQ?oc=5</id>
+    <id>https://news.google.com/articles/CBMigAFodHRwczovL3d3dy50aGV6aW1iYWJ3ZW1haWwuY29tL2VudGVydGFpbm1lbnQveW91dHViZXJzLXByb3ZlLXRoYXQtcm95YWwtY29tbWVudGF0b3JzLWxpZS1hYm91dC1kdWNoZXNzLW1lZ2hhbi1hbmQtcHJpbmNlLWhhcnJ5L9IBAA?oc=5</id>
+    <title type="html">YouTubers prove that royal commentators lie about Duchess Meghan and Prince Harry - The Zimbabwe Mail</title>
+    <updated>2021-03-08T17:28:45.000000000Z</updated>
+    <link href="https://www.thezimbabwemail.com/entertainment/youtubers-prove-that-royal-commentators-lie-about-duchess-meghan-and-prince-harry/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thezimbabwemail.com/entertainment/youtubers-prove-that-royal-commentators-lie-about-duchess-meghan-and-prince-harry/" target="_blank"&gt;YouTubers prove that royal commentators lie about Duchess Meghan and Prince Harry&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Zimbabwe Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvY2VsZWJyaXRpZXMtbGlrZS1tZWdoYW4tYXJlLXRoZXJlLXRvLWJlLWVhdGVuLTZ6bGs4Yzh2cdIBAA?oc=5</id>
+    <title type="html">Celebrities like Meghan are there to be eaten - The Times</title>
+    <updated>2021-03-08T17:00:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/celebrities-like-meghan-are-there-to-be-eaten-6zlk8c8vq" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/celebrities-like-meghan-are-there-to-be-eaten-6zlk8c8vq" target="_blank"&gt;Celebrities like Meghan are there to be eaten&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEO-4iqhT1-eQNEXRKP4b6RYqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
     <title type="html">Londoner’s Diary: Archie Manners and Josh Pieters say Meghan and Harry prank video was an ‘honest edit’ - Evening Standard</title>
     <updated>2021-03-08T14:44:18.000000000Z</updated>
     <link href="https://www.standard.co.uk/news/londoners-diary/archie-manners-josh-pieters-prank-video-of-meghan-markle-prince-harry-oprah-interview-b922797.html" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.standard.co.uk/news/londoners-diary/archie-manners-josh-pieters-prank-video-of-meghan-markle-prince-harry-oprah-interview-b922797.html" target="_blank"&gt;Londoner’s Diary: Archie Manners and Josh Pieters say Meghan and Harry prank video was an ‘honest edit’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/uk-news/2021/mar/07/royal-commentators-hoaxed-into-critique-of-meghan-interview-before-seeing-it" target="_blank"&gt;Royal commentators hoaxed into critique of Meghan interview before seeing it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.ibtimes.com/royal-commentators-duped-commenting-meghan-markle-harrys-oprah-interview-seeing-it-3158070" target="_blank"&gt;Royal Commentators Duped Into Commenting On Meghan Markle, Harry's Oprah Interview Before Seeing It: Report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;International Business Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.indy100.com/news/prince-harry-meghan-markle-josh-pieters-b1813901" target="_blank"&gt;Pranksters hoax Royal Commentators into commenting on Harry and Meghan interview days before it aired&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;indy100&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.elitedaily.com/p/this-video-of-royal-experts-lying-about-harry-meghans-oprah-interview-is-wild-65165292" target="_blank"&gt;This Video Of Royal Experts Lying About Harry &amp; Meghan's Oprah Interview Is Wild&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Elite Daily&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWpWZzVPTWtvQU1FWHBtMm8tSkgtdXhLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/londoners-diary/archie-manners-josh-pieters-prank-video-of-meghan-markle-prince-harry-oprah-interview-b922797.html" target="_blank"&gt;Londoner’s Diary: Archie Manners and Josh Pieters say Meghan and Harry prank video was an ‘honest edit’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFSkFgiQD0_ckgy7uaaci20qFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
@@ -55,25 +69,11 @@
     <content type="html">&lt;a href="https://www.theguardian.com/stage/2021/mar/08/funny-festival-live-review-bbc-series-puts-standups-back-on-stage" target="_blank"&gt;Funny Festival Live review – BBC series puts standups back on stage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnRoZXRlbGVncmFwaGFuZGFyZ3VzLmNvLnVrL25ld3MvMTkxMzgyMzIubG9vay1iYWNrLWp1bmlvci1sZWFkZXJzLXJlZ2ltZW50LXJveWFsLWNvcnBzLXNpZ25hbHMv0gE5aHR0cHM6Ly93d3cudGhldGVsZWdyYXBoYW5kYXJndXMuY28udWsvbmV3cy8xOTEzODIzMi5hbXAv?oc=5</id>
-    <title type="html">Look back: Junior Leaders Regiment Royal Corps of Signals - Bradford Telegraph and Argus</title>
-    <updated>2021-03-07T15:00:00.000000000Z</updated>
-    <link href="https://www.thetelegraphandargus.co.uk/news/19138232.look-back-junior-leaders-regiment-royal-corps-signals/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetelegraphandargus.co.uk/news/19138232.look-back-junior-leaders-regiment-royal-corps-signals/" target="_blank"&gt;Look back: Junior Leaders Regiment Royal Corps of Signals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bradford Telegraph and Argus&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMDE5Ny9uZXdzLWZ1bm55LWZlc3RpdmFsLWxpdmXSAQA?oc=5</id>
-    <title type="html">News: Funny Festival Live, jayde adams - Beyond The Joke</title>
-    <updated>2021-03-07T13:23:16.000000000Z</updated>
-    <link href="https://www.beyondthejoke.co.uk/content/10197/news-funny-festival-live" type="text/html"/>
-    <content type="html">&lt;a href="https://www.beyondthejoke.co.uk/content/10197/news-funny-festival-live" target="_blank"&gt;News: Funny Festival Live, jayde adams&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECdzUX09JBoc5LhND4zIV_8qGQgEKhAIACoHCAowzc-JCzDQ5psDMLXrrQY?oc=5</id>
-    <title type="html">Josh Pieters 'proves royal experts lie about Harry and Meghan' - Metro.co.uk</title>
-    <updated>2021-03-06T18:55:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/03/06/josh-pieters-proves-royal-experts-lie-about-harry-and-meghan-14199844/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/03/06/josh-pieters-proves-royal-experts-lie-about-harry-and-meghan-14199844/" target="_blank"&gt;Josh Pieters 'proves royal experts lie about Harry and Meghan'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEMllnXS2OHc-n1YSVaOCeHYqFwgEKg4IACoGCAowl6p7MN-zCTDJ4PsF?oc=5</id>
+    <title type="html">Royal commentators hoaxed into critique of Meghan interview before seeing it - The Guardian</title>
+    <updated>2021-03-07T17:48:00.000000000Z</updated>
+    <link href="https://www.theguardian.com/uk-news/2021/mar/07/royal-commentators-hoaxed-into-critique-of-meghan-interview-before-seeing-it" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theguardian.com/uk-news/2021/mar/07/royal-commentators-hoaxed-into-critique-of-meghan-interview-before-seeing-it" target="_blank"&gt;Royal commentators hoaxed into critique of Meghan interview before seeing it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
