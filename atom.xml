@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-09T15:29:50Z</updated>
+  <updated>2021-03-09T15:58:18Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 51%, UV Risk: 1, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 48%, UV Risk: 1, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-09T09:54:00.000+0000</id>
-    <published>2021-03-09T15:02:17Z</published>
-    <updated>2021-03-09T15:02:17Z</updated>
+    <published>2021-03-09T15:51:07Z</published>
+    <updated>2021-03-09T15:51:07Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 9°C (49°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 21mph, Visibility: Good, Pressure: 1009mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-09T09:54:00.000+0000</id>
-    <published>2021-03-09T15:02:17Z</published>
-    <updated>2021-03-09T15:02:17Z</updated>
+    <published>2021-03-09T15:51:07Z</published>
+    <updated>2021-03-09T15:51:07Z</updated>
   </entry>
   <entry>
     <title>Thursday: Hail Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 22mph, Visibility: Good, Pressure: 998mb, Humidity: 63%, UV Risk: 2, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-09T09:54:00.000+0000</id>
-    <published>2021-03-09T15:02:17Z</published>
-    <updated>2021-03-09T15:02:17Z</updated>
+    <published>2021-03-09T15:51:07Z</published>
+    <updated>2021-03-09T15:51:07Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGAMn0JrQdlfkl0ZGF9F3jgqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-03-09T09:07:27.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/attacks-young-women-reported-police-19994518" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/attacks-young-women-reported-police-19994518" target="_blank"&gt;Attacks on young women 'reported to police' near where Sarah Everard vanished in Clapham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEGjSkQnRRYfvzMJN5leWP-8qGQgEKhAIACoHCAow9JmICzCK0oYDMN7CygY?oc=5</id>
+    <title type="html">WATCH | SA-born YouTuber pranks royal 'experts' into commenting on Harry and Meghan's interview before seeing it - SowetanLIVE</title>
+    <updated>2021-03-09T07:26:00.000000000Z</updated>
+    <link href="https://www.sowetanlive.co.za/entertainment/2021-03-09-watch-sa-born-youtuber-pranks-royal-experts-into-commenting-on-harry-and-meghans-interview-before-seeing-it/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.sowetanlive.co.za/entertainment/2021-03-09-watch-sa-born-youtuber-pranks-royal-experts-into-commenting-on-harry-and-meghans-interview-before-seeing-it/" target="_blank"&gt;WATCH | SA-born YouTuber pranks royal 'experts' into commenting on Harry and Meghan's interview before seeing it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SowetanLIVE&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPYDMnSkR4kmDFF2trsSLIAqGAgEKg8IACoHCAowqa6gCTCuoHAw_YqLAw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-03-09T00:01:00.000000000Z</updated>
     <link href="https://www.thetimes.co.uk/article/attacks-reported-on-streets-where-sarah-everard-last-seen-dwmxftmf7" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/attacks-reported-on-streets-where-sarah-everard-last-seen-dwmxftmf7" target="_blank"&gt;Attacks reported on streets where Sarah Everard last seen&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvY2VsZWJyaXRpZXMtbGlrZS1tZWdoYW4tYXJlLXRoZXJlLXRvLWJlLWVhdGVuLTZ6bGs4Yzh2cdIBAA?oc=5</id>
-    <title type="html">Celebrities like Meghan are there to be eaten - The Times</title>
-    <updated>2021-03-08T17:00:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/celebrities-like-meghan-are-there-to-be-eaten-6zlk8c8vq" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/celebrities-like-meghan-are-there-to-be-eaten-6zlk8c8vq" target="_blank"&gt;Celebrities like Meghan are there to be eaten&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
