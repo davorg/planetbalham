@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-11T18:34:37Z</updated>
+  <updated>2021-03-11T19:01:04Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (38°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1004mb, Humidity: 72%, UV Risk: 0, Pollution: Low, Sunset: 17:58 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1004mb, Humidity: 72%, UV Risk: 0, Pollution: Low, Sunset: 17:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-11T09:55:00.000+0000</id>
-    <published>2021-03-11T18:02:11Z</published>
-    <updated>2021-03-11T18:02:11Z</updated>
+    <published>2021-03-11T18:36:41Z</published>
+    <updated>2021-03-11T18:36:41Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 20mph, Visibility: Good, Pressure: 1002mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:22 GMT, Sunset: 17:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-11T09:55:00.000+0000</id>
-    <published>2021-03-11T18:02:11Z</published>
-    <updated>2021-03-11T18:02:11Z</updated>
+    <published>2021-03-11T18:36:41Z</published>
+    <updated>2021-03-11T18:36:41Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 21mph, Visibility: Good, Pressure: 995mb, Humidity: 60%, UV Risk: 2, Pollution: Low, Sunrise: 06:20 GMT, Sunset: 18:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-11T09:55:00.000+0000</id>
-    <published>2021-03-11T18:02:11Z</published>
-    <updated>2021-03-11T18:02:11Z</updated>
+    <published>2021-03-11T18:36:41Z</published>
+    <updated>2021-03-11T18:36:41Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LnJ0ZS5pZS9lbnRlcnRhaW5tZW50LzIwMjEvMDMxMS8xMjAzMjUwLXdoYXRzLW9uLTEwLXRvcC10ZWxseS10aXBzLWZvci10aHVyc2RheS1tYXJjaC0xMS_SAQA?oc=5</id>
@@ -273,35 +273,30 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Colour</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/50928787537/"/>
-    <id>tag:flickr.com,2005:/photo/50928787537</id>
-    <published>2021-02-10T09:29:58Z</published>
-    <updated>2021-02-10T09:29:58Z</updated>
-    <flickr:date_taken>2019-10-09T10:28:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2019-10-09T10:28:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/50928787537/" title="Balham Colour"&gt;&lt;img src="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_m.jpg" width="180" height="240" alt="Balham Colour" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Behind Sainsburys&lt;/p&gt;</content>
+</content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50928787537_c23cfdcacc_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="supermarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
