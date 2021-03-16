@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-16T18:31:16Z</updated>
+  <updated>2021-03-16T18:59:39Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2021-03-16T18:12:43Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTY0ODIwLm1hcHBlZC1yZXBvcnRlZC1zZXh1YWwtY3JpbWVzLWNsYXBoYW0tY29tbW9uL9IBAA?oc=5</id>
-    <title type="html">MAPPED: Most reports of sexual crimes in Clapham Common - Wandsworth Guardian</title>
-    <updated>2021-03-16T17:39:25.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19164820.mapped-reported-sexual-crimes-clapham-common/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19164820.mapped-reported-sexual-crimes-clapham-common/" target="_blank"&gt;MAPPED: Most reports of sexual crimes in Clapham Common&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEOQRBPktjV2CeZpXniMP3ugqFwgEKg4IACoGCAowqvB9MMTRCTCHn-8G?oc=5</id>
     <title type="html">The slice is right: Jimi Famurewa on the hunt for London’s best pizza - Evening Standard</title>
     <updated>2021-03-16T17:30:17.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2021-03-15T13:24:20.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/low-paid-school-staff-risk-being-made-redundant-as-head-teachers-plan-for-a-radical-restructure/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/low-paid-school-staff-risk-being-made-redundant-as-head-teachers-plan-for-a-radical-restructure/" target="_blank"&gt;Low paid school staff risk being made redundant as head teachers plan for a radical restructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEHJKVKfze_te97q5q9XYi-0qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">Balham mountaineer completes ground-breaking climb of Colombian volcano - South West Londoner</title>
+    <updated>2021-03-15T10:51:11.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/news/15032021-balham-mountaineer-completes-ground-breaking-climb-of-colombian-volcano/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/15032021-balham-mountaineer-completes-ground-breaking-climb-of-colombian-volcano/" target="_blank"&gt;Balham mountaineer completes ground-breaking climb of Colombian volcano&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
