@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-16T18:01:49Z</updated>
+  <updated>2021-03-16T18:31:16Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: 4°C (40°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (40°F), Wind Direction: North Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1032mb, Humidity: 71%, UV Risk: 0, Pollution: Low, Sunset: 18:06 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-16T09:53:00.000+0000</id>
+    <published>2021-03-16T18:12:43Z</published>
+    <updated>2021-03-16T18:12:43Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 12°C (53°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:11 GMT, Sunset: 18:08 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-16T09:53:00.000+0000</id>
+    <published>2021-03-16T18:12:43Z</published>
+    <updated>2021-03-16T18:12:43Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Thick Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (52°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-16T09:53:00.000+0000</id>
+    <published>2021-03-16T18:12:43Z</published>
+    <updated>2021-03-16T18:12:43Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTY0ODIwLm1hcHBlZC1yZXBvcnRlZC1zZXh1YWwtY3JpbWVzLWNsYXBoYW0tY29tbW9uL9IBAA?oc=5</id>
     <title type="html">MAPPED: Most reports of sexual crimes in Clapham Common - Wandsworth Guardian</title>
@@ -23,36 +53,6 @@
     <updated>2021-03-16T17:30:17.000000000Z</updated>
     <link href="https://www.standard.co.uk/reveller/restaurants/londons-best-pizza-jimi-famurewa-b924429.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/londons-best-pizza-jimi-famurewa-b924429.html" target="_blank"&gt;The slice is right: Jimi Famurewa on the hunt for London’s best pizza&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 4°C (40°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (40°F), Wind Direction: North Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1032mb, Humidity: 71%, UV Risk: 0, Pollution: Low, Sunset: 18:06 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-16T09:53:00.000+0000</id>
-    <published>2021-03-16T17:12:38Z</published>
-    <updated>2021-03-16T17:12:38Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 12°C (53°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:11 GMT, Sunset: 18:08 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-16T09:53:00.000+0000</id>
-    <published>2021-03-16T17:12:38Z</published>
-    <updated>2021-03-16T17:12:38Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Thick Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (52°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-16T09:53:00.000+0000</id>
-    <published>2021-03-16T17:12:38Z</published>
-    <updated>2021-03-16T17:12:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTYzMzIyLnRoaWV2ZXMtdGFyZ2V0LW1vdGhlcnMtYnVnZ2llcy1iYWxoYW0v0gEA?oc=5</id>
