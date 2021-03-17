@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-17T16:51:14Z</updated>
+  <updated>2021-03-17T17:40:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (43°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1032mb, Humidity: 69%, UV Risk: 1, Pollution: Low, Sunrise: 06:11 GMT, Sunset: 18:08 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1032mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 18:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-17T09:54:00.000+0000</id>
-    <published>2021-03-17T16:31:29Z</published>
-    <updated>2021-03-17T16:31:29Z</updated>
+    <published>2021-03-17T17:33:16Z</published>
+    <updated>2021-03-17T17:33:16Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thick Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 7°C (45°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-17T09:54:00.000+0000</id>
-    <published>2021-03-17T16:31:29Z</published>
-    <updated>2021-03-17T16:31:29Z</updated>
+    <published>2021-03-17T17:33:16Z</published>
+    <updated>2021-03-17T17:33:16Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-17T09:54:00.000+0000</id>
-    <published>2021-03-17T16:31:29Z</published>
-    <updated>2021-03-17T16:31:29Z</updated>
+    <published>2021-03-17T17:33:16Z</published>
+    <updated>2021-03-17T17:33:16Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEIjUH00-EuYTMn99iWbZDEEqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
+    <title type="html">PizzaExpress will open 118 restaurants for outdoor dining from April 12 - Daily Mail</title>
+    <updated>2021-03-17T16:55:29.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9372315/PizzaExpress-open-118-restaurants-outdoor-dining-April-12.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9372315/PizzaExpress-open-118-restaurants-outdoor-dining-April-12.html" target="_blank"&gt;PizzaExpress will open 118 restaurants for outdoor dining from April 12&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvbG93LXBhaWQtc2Nob29sLXN0YWZmLXJpc2stYmVpbmctbWFkZS1yZWR1bmRhbnQtYXMtaGVhZC10ZWFjaGVycy1wbGFuLWZvci1hLXJhZGljYWwtcmVzdHJ1Y3R1cmUtMi_SAQA?oc=5</id>
+    <title type="html">Low paid school staff risk being made redundant as head teachers plan for a radical restructure - London News Online</title>
+    <updated>2021-03-17T16:46:58.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/low-paid-school-staff-risk-being-made-redundant-as-head-teachers-plan-for-a-radical-restructure-2/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/low-paid-school-staff-risk-being-made-redundant-as-head-teachers-plan-for-a-radical-restructure-2/" target="_blank"&gt;Low paid school staff risk being made redundant as head teachers plan for a radical restructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMS8wMy8xNy9SZXN0YXVyYW50LWFuZC1iYXItQmV0dHktdG8tb3Blbi1vbi1mb3JtZXItRm94bG93LXNpdGUtaW4tQ2hpc3dpY2vSAQA?oc=5</id>
@@ -61,20 +75,37 @@
     <link href="https://metro.co.uk/2021/03/17/nine-affordable-london-flats-that-are-perfect-for-first-time-buyers-14253698/" type="text/html"/>
     <content type="html">&lt;a href="https://metro.co.uk/2021/03/17/nine-affordable-london-flats-that-are-perfect-for-first-time-buyers-14253698/" target="_blank"&gt;Nine affordable London flats that are perfect for first-time buyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTY0ODIwLm1hcHBlZC1yZXBvcnRlZC1zZXh1YWwtY3JpbWVzLWNsYXBoYW0tY29tbW9uL9IBAA?oc=5</id>
-    <title type="html">MAPPED: Most reports of sexual crimes in Clapham Common - Wandsworth Guardian</title>
-    <updated>2021-03-16T17:39:25.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19164820.mapped-reported-sexual-crimes-clapham-common/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19164820.mapped-reported-sexual-crimes-clapham-common/" target="_blank"&gt;MAPPED: Most reports of sexual crimes in Clapham Common&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTYzMzIyLnRoaWV2ZXMtdGFyZ2V0LW1vdGhlcnMtYnVnZ2llcy1iYWxoYW0v0gEA?oc=5</id>
-    <title type="html">Thieves target mothers with buggies in Balham - Wandsworth Guardian</title>
-    <updated>2021-03-16T10:57:41.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19163322.thieves-target-mothers-buggies-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19163322.thieves-target-mothers-buggies-balham/" target="_blank"&gt;Thieves target mothers with buggies in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The lost bookshop</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/51009313496/"/>
+    <id>tag:flickr.com,2005:/photo/51009313496</id>
+    <published>2021-03-06T16:31:39Z</published>
+    <updated>2021-03-06T16:31:39Z</updated>
+    <flickr:date_taken>2013-02-17T13:48:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2013-02-17T13:48:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/51009313496/" title="The lost bookshop"&gt;&lt;img src="https://live.staticflickr.com/65535/51009313496_8b4b225fd1_m.jpg" width="160" height="240" alt="The lost bookshop" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now an estate agents. :-(&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51009313496_8b4b225fd1_b.jpg"/>
+    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="secondhand" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="paperbacks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="minicab" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamstation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Ritherdon Road, London SW17 1984</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/95406721@N03/50999783033/"/>
@@ -271,34 +302,6 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
     <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>20210129_151837</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
-    <id>tag:flickr.com,2005:/photo/50888122967</id>
-    <published>2021-01-29T16:41:29Z</published>
-    <updated>2021-01-29T16:41:29Z</updated>
-    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Leticia Tootington</name>
-      <uri>https://www.flickr.com/people/plasmatika/</uri>
-      <flickr:nsid>14256361@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
