@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-18T12:38:03Z</updated>
+  <updated>2021-03-18T13:06:05Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 7°C (45°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 7°C (45°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-18T09:54:00.000+0000</id>
-    <published>2021-03-18T12:01:31Z</published>
-    <updated>2021-03-18T12:01:31Z</updated>
+    <published>2021-03-18T13:03:12Z</published>
+    <updated>2021-03-18T13:03:12Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-18T09:54:00.000+0000</id>
-    <published>2021-03-18T12:01:31Z</published>
-    <updated>2021-03-18T12:01:31Z</updated>
+    <published>2021-03-18T13:03:12Z</published>
+    <updated>2021-03-18T13:03:12Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1031mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-18T09:54:00.000+0000</id>
-    <published>2021-03-18T12:01:31Z</published>
-    <updated>2021-03-18T12:01:31Z</updated>
+    <published>2021-03-18T13:03:12Z</published>
+    <updated>2021-03-18T13:03:12Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pbmFkZXF1YXRlLWJhbGhhbS1zY2hvb2wtY2hhcmdpbmctdXAtMjAyMDQ2MzjSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvaW5hZGVxdWF0ZS1iYWxoYW0tc2Nob29sLWNoYXJnaW5nLXVwLTIwMjA0NjM4LmFtcA?oc=5</id>
+    <title type="html">'Inadequate’ Balham school charging up to £9,000 a year in fees - MyLondon</title>
+    <updated>2021-03-18T12:44:47.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/inadequate-balham-school-charging-up-20204638" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/inadequate-balham-school-charging-up-20204638" target="_blank"&gt;'Inadequate’ Balham school charging up to £9,000 a year in fees&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3Lm1hbGRvbmFuZGJ1cm5oYW1zdGFuZGFyZC5jby51ay9uZXdzLzE5MTY5OTg0LnBpenphLWV4cHJlc3MtYW5ub3VuY2UtZXNzZXgtc3RvcmVzLXdpbGwtcmVvcGVuLWFwcmlsLTEyL9IBAA?oc=5</id>
+    <title type="html">Pizza Express announce which Essex stores will reopen next month - Maldon and Burnham Standard</title>
+    <updated>2021-03-18T12:35:04.000000000Z</updated>
+    <link href="https://www.maldonandburnhamstandard.co.uk/news/19169984.pizza-express-announce-essex-stores-will-reopen-april-12/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.maldonandburnhamstandard.co.uk/news/19169984.pizza-express-announce-essex-stores-will-reopen-april-12/" target="_blank"&gt;Pizza Express announce which Essex stores will reopen next month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Maldon and Burnham Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiwAFodHRwczovL3d3dy5wb3J0c21vdXRoLmNvLnVrL2J1c2luZXNzL2NvbnN1bWVyL3BpenphLWV4cHJlc3MtY29uZmlybXMtcG9ydHNtb3V0aC1ndW53aGFyZi1xdWF5cy1yZXN0YXVyYW50LXdpbGwtcmVvcGVuLWZvci1vdXRkb29yLWRpbmluZy1vbi1hcHJpbC0xMi1mdWxsLWxpc3Qtb2YtcmVzdGF1cmFudHMtcmVvcGVuaW5nLTMxNzAyNTbSAcQBaHR0cHM6Ly93d3cucG9ydHNtb3V0aC5jby51ay9idXNpbmVzcy9jb25zdW1lci9waXp6YS1leHByZXNzLWNvbmZpcm1zLXBvcnRzbW91dGgtZ3Vud2hhcmYtcXVheXMtcmVzdGF1cmFudC13aWxsLXJlb3Blbi1mb3Itb3V0ZG9vci1kaW5pbmctb24tYXByaWwtMTItZnVsbC1saXN0LW9mLXJlc3RhdXJhbnRzLXJlb3BlbmluZy0zMTcwMjU2P2FtcA?oc=5</id>
@@ -55,26 +69,43 @@
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19167692.ofsted-rules-london-steiner-school-still-inadequate/" target="_blank"&gt;Ofsted monitoring inspection of London Steiner School&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEIhMwUJre7whUwfg103FRQYqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
-    <title type="html">Pizza Express names 118 restaurants that will reopen on April 12 - is your local on there? - Mirror Online</title>
-    <updated>2021-03-18T08:57:26.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/money/pizza-express-names-118-restaurants-23750592" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/money/pizza-express-names-118-restaurants-23750592" target="_blank"&gt;Pizza Express names 118 restaurants that will reopen on April 12 - is your local on there?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEIjUH00-EuYTMn99iWbZDEEqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
     <title type="html">PizzaExpress will open 118 restaurants for outdoor dining from April 12 - Daily Mail</title>
     <updated>2021-03-17T16:55:29.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/news/article-9372315/PizzaExpress-open-118-restaurants-outdoor-dining-April-12.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9372315/PizzaExpress-open-118-restaurants-outdoor-dining-April-12.html" target="_blank"&gt;PizzaExpress will open 118 restaurants for outdoor dining from April 12&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvbG93LXBhaWQtc2Nob29sLXN0YWZmLXJpc2stYmVpbmctbWFkZS1yZWR1bmRhbnQtYXMtaGVhZC10ZWFjaGVycy1wbGFuLWZvci1hLXJhZGljYWwtcmVzdHJ1Y3R1cmUtMi_SAQA?oc=5</id>
-    <title type="html">Low paid school staff risk being made redundant as head teachers plan for a radical restructure - London News Online</title>
-    <updated>2021-03-17T16:46:58.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/low-paid-school-staff-risk-being-made-redundant-as-head-teachers-plan-for-a-radical-restructure-2/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/low-paid-school-staff-risk-being-made-redundant-as-head-teachers-plan-for-a-radical-restructure-2/" target="_blank"&gt;Low paid school staff risk being made redundant as head teachers plan for a radical restructure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The lost bookshop</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/51009313496/"/>
+    <id>tag:flickr.com,2005:/photo/51009313496</id>
+    <published>2021-03-06T16:31:39Z</published>
+    <updated>2021-03-06T16:31:39Z</updated>
+    <flickr:date_taken>2013-02-17T13:48:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2013-02-17T13:48:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/51009313496/" title="The lost bookshop"&gt;&lt;img src="https://live.staticflickr.com/65535/51009313496_8b4b225fd1_m.jpg" width="160" height="240" alt="The lost bookshop" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now an estate agents. :-(&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51009313496_8b4b225fd1_b.jpg"/>
+    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="secondhand" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="paperbacks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="minicab" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamstation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Ritherdon Road, London SW17 1984</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/95406721@N03/50999783033/"/>
@@ -271,34 +302,6 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
     <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>20210129_151837</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
-    <id>tag:flickr.com,2005:/photo/50888122967</id>
-    <published>2021-01-29T16:41:29Z</published>
-    <updated>2021-01-29T16:41:29Z</updated>
-    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Leticia Tootington</name>
-      <uri>https://www.flickr.com/people/plasmatika/</uri>
-      <flickr:nsid>14256361@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
