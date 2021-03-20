@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-20T11:51:15Z</updated>
+  <updated>2021-03-20T12:38:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1031mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1031mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-20T09:53:00.000+0000</id>
-    <published>2021-03-20T11:27:34Z</published>
-    <updated>2021-03-20T11:27:34Z</updated>
+    <published>2021-03-20T12:28:37Z</published>
+    <updated>2021-03-20T12:28:37Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-20T09:53:00.000+0000</id>
-    <published>2021-03-20T11:27:34Z</published>
-    <updated>2021-03-20T11:27:34Z</updated>
+    <published>2021-03-20T12:28:37Z</published>
+    <updated>2021-03-20T12:28:37Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:00 GMT, Sunset: 18:16 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-20T09:53:00.000+0000</id>
-    <published>2021-03-20T11:27:34Z</published>
-    <updated>2021-03-20T11:27:34Z</updated>
+    <published>2021-03-20T12:28:37Z</published>
+    <updated>2021-03-20T12:28:37Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEO13rFcs0U3FJUP-6va8YbAqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
-    <title type="html">Man jailed for six weeks for shouting abuse at a woman on the street - Evening Standard</title>
-    <updated>2021-03-20T10:04:56.000000000Z</updated>
-    <link href="https://www.standard.co.uk/news/crime/max-ronaldson-abuse-woman-jailed-shouting-b925292.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/news/crime/max-ronaldson-abuse-woman-jailed-shouting-b925292.html" target="_blank"&gt;Man jailed for six weeks for shouting abuse at a woman on the street&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEBfs1rayBoyzrfgUA_9LcTAqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">London crime: Lambeth man who threatened to break into woman's house to rape her jailed for 6 weeks - My London</title>
+    <updated>2021-03-20T11:45:20.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/london-crime-lambeth-man-who-20219645" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-crime-lambeth-man-who-20219645" target="_blank"&gt;London crime: Lambeth man who threatened to break into woman's house to rape her jailed for 6 weeks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvc2VhbXVzLWNyYWlnLTc3LWlyaXNoLXJhY2Vnb2VyLWluLXRoZS1idWlsZGluZy1nYW1lLWpnZndjdjZ6ZtIBAA?oc=5</id>
@@ -134,46 +134,6 @@
     <category term="v750" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="scan" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Route 255, Arriva London, DWL2, Y802DGT</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/50956690092/"/>
-    <id>tag:flickr.com,2005:/photo/50956690092</id>
-    <published>2021-02-18T17:22:15Z</published>
-    <updated>2021-02-18T17:22:15Z</updated>
-    <flickr:date_taken>2014-12-19T12:23:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2014-12-19T12:23:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/50956690092/" title="Route 255, Arriva London, DWL2, Y802DGT"&gt;&lt;img src="https://live.staticflickr.com/65535/50956690092_47fe793fff_m.jpg" width="240" height="161" alt="Route 255, Arriva London, DWL2, Y802DGT" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Arriva London DWL2 is pictured passing Streatham Station working a trip bound for Pollards Hill&lt;/p&gt;</content>
-    <author>
-      <name>Jack Marian</name>
-      <uri>https://www.flickr.com/people/londonbuses1/</uri>
-      <flickr:nsid>66490030@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1608940381#66490030@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50956690092_47fe793fff_b.jpg"/>
-    <category term="route255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="arrivalondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dwl2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="y802dgt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dafsb120" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="daf" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sb120" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrightcadet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wright" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cadet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pollardshill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streathamstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -302,6 +262,34 @@ Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</conten
     <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>20210129_151837</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/plasmatika/50888122967/"/>
+    <id>tag:flickr.com,2005:/photo/50888122967</id>
+    <published>2021-01-29T16:41:29Z</published>
+    <updated>2021-01-29T16:41:29Z</updated>
+    <flickr:date_taken>2021-01-29T15:18:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-29T15:18:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/plasmatika/"&gt;Leticia Tootington&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/plasmatika/50888122967/" title="20210129_151837"&gt;&lt;img src="https://live.staticflickr.com/65535/50888122967_da63914ac4_m.jpg" width="240" height="135" alt="20210129_151837" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Leticia Tootington</name>
+      <uri>https://www.flickr.com/people/plasmatika/</uri>
+      <flickr:nsid>14256361@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/14256361@N00.jpg?1614416226#14256361@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50888122967_da63914ac4_b.jpg"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="triangle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="playground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
