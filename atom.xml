@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-21T22:30:59Z</updated>
+  <updated>2021-03-21T22:58:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 5°C (40°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 4°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunset: 18:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (40°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 18:15 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-21T19:55:00.000+0000</id>
-    <published>2021-03-21T22:03:07Z</published>
-    <updated>2021-03-21T22:03:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-21T21:54:00.000+0000</id>
+    <published>2021-03-21T22:55:18Z</published>
+    <updated>2021-03-21T22:55:18Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (57°F)</title>
@@ -26,9 +26,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1026mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:00 GMT, Sunset: 18:16 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-21T19:55:00.000+0000</id>
-    <published>2021-03-21T22:03:07Z</published>
-    <updated>2021-03-21T22:03:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-21T21:54:00.000+0000</id>
+    <published>2021-03-21T22:55:18Z</published>
+    <updated>2021-03-21T22:55:18Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 12°C (53°F)</title>
@@ -36,9 +36,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 05:57 GMT, Sunset: 18:18 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-21T19:55:00.000+0000</id>
-    <published>2021-03-21T22:03:07Z</published>
-    <updated>2021-03-21T22:03:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-21T21:54:00.000+0000</id>
+    <published>2021-03-21T22:55:18Z</published>
+    <updated>2021-03-21T22:55:18Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFlH9KAUcISk3CSemVF04uUqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
