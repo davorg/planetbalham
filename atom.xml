@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-25T11:53:19Z</updated>
+  <updated>2021-03-25T12:17:08Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-25T07:01:00.000+0000</id>
-    <published>2021-03-25T11:40:58Z</published>
-    <updated>2021-03-25T11:40:58Z</updated>
+    <published>2021-03-25T12:12:13Z</published>
+    <updated>2021-03-25T12:12:13Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 GMT, Sunset: 18:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-25T07:01:00.000+0000</id>
-    <published>2021-03-25T11:40:58Z</published>
-    <updated>2021-03-25T11:40:58Z</updated>
+    <published>2021-03-25T12:12:13Z</published>
+    <updated>2021-03-25T12:12:13Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-25T07:01:00.000+0000</id>
-    <published>2021-03-25T11:40:58Z</published>
-    <updated>2021-03-25T11:40:58Z</updated>
+    <published>2021-03-25T12:12:13Z</published>
+    <updated>2021-03-25T12:12:13Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMilgFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9qdWRnZS1yb2ItcmluZGVyLXNwZWFrcy1vZi1vdmVyd2hlbG1pbmctc2FkbmVzcy1mb3ItbWFza2VkLW11Z2dlcnMtYWZ0ZXItcm9iYmVyeS1pbi1ub3J0aC1sb25kb24vYXItQkIxZVgwa3rSAQA?oc=5</id>
+    <title type="html">Judge Rob Rinder speaks of 'overwhelming sadness' for masked muggers after robbery in north London - MSN UK</title>
+    <updated>2021-03-25T11:38:08.000000000Z</updated>
+    <link href="https://www.msn.com/en-gb/news/newslondon/judge-rob-rinder-speaks-of-overwhelming-sadness-for-masked-muggers-after-robbery-in-north-london/ar-BB1eX0kz" type="text/html"/>
+    <content type="html">&lt;a href="https://www.msn.com/en-gb/news/newslondon/judge-rob-rinder-speaks-of-overwhelming-sadness-for-masked-muggers-after-robbery-in-north-london/ar-BB1eX0kz" target="_blank"&gt;Judge Rob Rinder speaks of 'overwhelming sadness' for masked muggers after robbery in north London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMipAFodHRwczovL3d3dy5wb250ZWZyYWN0YW5kY2FzdGxlZm9yZGV4cHJlc3MuY28udWsvYnVzaW5lc3MvY29uc3VtZXIvc2FudGFuZGVyLWNvbmZpcm1zLXBsYW5zLXRvLWNsb3NlLTExMS1icmFuY2hlcy1pbmNsdWRpbmctdGhvc2UtaW4tY2FzdGxlZm9yZC1hbmQtZGV3c2J1cnktMzE3ODIwMtIBqAFodHRwczovL3d3dy5wb250ZWZyYWN0YW5kY2FzdGxlZm9yZGV4cHJlc3MuY28udWsvYnVzaW5lc3MvY29uc3VtZXIvc2FudGFuZGVyLWNvbmZpcm1zLXBsYW5zLXRvLWNsb3NlLTExMS1icmFuY2hlcy1pbmNsdWRpbmctdGhvc2UtaW4tY2FzdGxlZm9yZC1hbmQtZGV3c2J1cnktMzE3ODIwMj9hbXA?oc=5</id>
@@ -56,10 +63,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFfBblrQ3-5vIVTW2N3iJgwqGQgEKhAIACoHCAow16D9CjCOy_QCMOvo0wU?oc=5</id>
-    <title type="html">Santander announces closure of Ashford, Cobham, Leatherhead and Weybridge branches - Surrey Live</title>
+    <title type="html">Santander announces closure of Ashford, Banstead, Cobham, Leatherhead and Weybridge branches - Surrey Live</title>
     <updated>2021-03-25T10:33:09.000000000Z</updated>
     <link href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" type="text/html"/>
-    <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" target="_blank"&gt;Santander announces closure of Ashford, Cobham, Leatherhead and Weybridge branches&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" target="_blank"&gt;Santander announces closure of Ashford, Banstead, Cobham, Leatherhead and Weybridge branches&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTg2NTY5LnR3by1jaGFyZ2VkLXRhcmdldGluZy1sb25lLXdvbWVuLXdhbmRzd29ydGgv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-03-25T10:30:26.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19186569.two-charged-targeting-lone-women-wandsworth/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19186569.two-charged-targeting-lone-women-wandsworth/" target="_blank"&gt;Two charged after targeting lone women in Wandsworth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEG5y1aMQ63vEYTEQfBvShU0qGQgEKhAIACoHCAow2c77CjC-yfQCMIrk0wU?oc=5</id>
-    <title type="html">The restaurant chains opening on April 12 including Nando's, Five Guys, Wetherspoons and more - Birmingham Live</title>
-    <updated>2021-03-24T16:35:26.000000000Z</updated>
-    <link href="https://www.birminghammail.co.uk/whats-on/food-drink-news/restaurant-chains-opening-april-12-20238742" type="text/html"/>
-    <content type="html">&lt;a href="https://www.birminghammail.co.uk/whats-on/food-drink-news/restaurant-chains-opening-april-12-20238742" target="_blank"&gt;The restaurant chains opening on April 12 including Nando's, Five Guys, Wetherspoons and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
