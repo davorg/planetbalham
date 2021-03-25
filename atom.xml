@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-25T11:16:35Z</updated>
+  <updated>2021-03-25T11:53:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 8°C (47°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-25T07:01:00.000+0000</id>
-    <published>2021-03-25T11:04:28Z</published>
-    <updated>2021-03-25T11:04:28Z</updated>
+    <published>2021-03-25T11:40:58Z</published>
+    <updated>2021-03-25T11:40:58Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 GMT, Sunset: 18:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-25T07:01:00.000+0000</id>
-    <published>2021-03-25T11:04:28Z</published>
-    <updated>2021-03-25T11:04:28Z</updated>
+    <published>2021-03-25T11:40:58Z</published>
+    <updated>2021-03-25T11:40:58Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,15 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-25T07:01:00.000+0000</id>
-    <published>2021-03-25T11:04:28Z</published>
-    <updated>2021-03-25T11:04:28Z</updated>
+    <published>2021-03-25T11:40:58Z</published>
+    <updated>2021-03-25T11:40:58Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMipAFodHRwczovL3d3dy5wb250ZWZyYWN0YW5kY2FzdGxlZm9yZGV4cHJlc3MuY28udWsvYnVzaW5lc3MvY29uc3VtZXIvc2FudGFuZGVyLWNvbmZpcm1zLXBsYW5zLXRvLWNsb3NlLTExMS1icmFuY2hlcy1pbmNsdWRpbmctdGhvc2UtaW4tY2FzdGxlZm9yZC1hbmQtZGV3c2J1cnktMzE3ODIwMtIBqAFodHRwczovL3d3dy5wb250ZWZyYWN0YW5kY2FzdGxlZm9yZGV4cHJlc3MuY28udWsvYnVzaW5lc3MvY29uc3VtZXIvc2FudGFuZGVyLWNvbmZpcm1zLXBsYW5zLXRvLWNsb3NlLTExMS1icmFuY2hlcy1pbmNsdWRpbmctdGhvc2UtaW4tY2FzdGxlZm9yZC1hbmQtZGV3c2J1cnktMzE3ODIwMj9hbXA?oc=5</id>
+    <title type="html">Santander confirms plans to close 111 branches - including those in Castleford and Dewsbury - Pontefract and Castleford Express</title>
+    <updated>2021-03-25T11:25:00.000000000Z</updated>
+    <link href="https://www.pontefractandcastlefordexpress.co.uk/business/consumer/santander-confirms-plans-to-close-111-branches-including-those-in-castleford-and-dewsbury-3178202" type="text/html"/>
+    <content type="html">&lt;a href="https://www.pontefractandcastlefordexpress.co.uk/business/consumer/santander-confirms-plans-to-close-111-branches-including-those-in-castleford-and-dewsbury-3178202" target="_blank"&gt;Santander confirms plans to close 111 branches - including those in Castleford and Dewsbury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Pontefract and Castleford Express&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vcGxhbmV0cmFkaW8uY28udWsvZnJlZS91ay9uZXdzL3NhbnRhbmRlci1icmFuY2hlcy1jbG9zaW5nL9IBAA?oc=5</id>
     <title type="html">Find out if your local Santander branch is closing - Free Radio</title>
-    <updated>2021-03-25T10:50:55.000000000Z</updated>
+    <updated>2021-03-25T10:37:36.000000000Z</updated>
     <link href="https://planetradio.co.uk/free/uk/news/santander-branches-closing/" type="text/html"/>
     <content type="html">&lt;a href="https://planetradio.co.uk/free/uk/news/santander-branches-closing/" target="_blank"&gt;Find out if your local Santander branch is closing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Free Radio&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEFfBblrQ3-5vIVTW2N3iJgwqGQgEKhAIACoHCAow16D9CjCOy_QCMOvo0wU?oc=5</id>
+    <title type="html">Santander announces closure of Ashford, Cobham, Leatherhead and Weybridge branches - Surrey Live</title>
+    <updated>2021-03-25T10:33:09.000000000Z</updated>
+    <link href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" type="text/html"/>
+    <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" target="_blank"&gt;Santander announces closure of Ashford, Cobham, Leatherhead and Weybridge branches&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTg2NTY5LnR3by1jaGFyZ2VkLXRhcmdldGluZy1sb25lLXdvbWVuLXdhbmRzd29ydGgv0gEA?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2021-03-24T16:35:26.000000000Z</updated>
     <link href="https://www.birminghammail.co.uk/whats-on/food-drink-news/restaurant-chains-opening-april-12-20238742" type="text/html"/>
     <content type="html">&lt;a href="https://www.birminghammail.co.uk/whats-on/food-drink-news/restaurant-chains-opening-april-12-20238742" target="_blank"&gt;The restaurant chains opening on April 12 including Nando's, Five Guys, Wetherspoons and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vZXZlcnl0aGluZ2hvcnNldWsuY28udWsvb2FzYnktZWxpdGUtYW4tb3V0cmlnaHQtc3VjY2Vzcy13aXRoLWxlYWRpbmctcmlkZXJzLXRha2luZy10aGUtaG9ub3Vycy_SAQA?oc=5</id>
-    <title type="html">Oasby Elite an Outright Success with Leading Riders Taking the Honours - Everything Horse UK</title>
-    <updated>2021-03-24T13:34:31.000000000Z</updated>
-    <link href="https://everythinghorseuk.co.uk/oasby-elite-an-outright-success-with-leading-riders-taking-the-honours/" type="text/html"/>
-    <content type="html">&lt;a href="https://everythinghorseuk.co.uk/oasby-elite-an-outright-success-with-leading-riders-taking-the-honours/" target="_blank"&gt;Oasby Elite an Outright Success with Leading Riders Taking the Honours&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Everything Horse UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTgxMTcxLmNsYXBoYW0tdHJhdmVsLWV4cGVydC1zdGlsbC1ob3BlZnVsLXN1bW1lci1ob2xpZGF5cy_SAQA?oc=5</id>
-    <title type="html">Summer holiday advice from Travel Matters - Wandsworth Guardian</title>
-    <updated>2021-03-23T14:48:19.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19181171.clapham-travel-expert-still-hopeful-summer-holidays/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19181171.clapham-travel-expert-still-hopeful-summer-holidays/" target="_blank"&gt;Summer holiday advice from Travel Matters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
