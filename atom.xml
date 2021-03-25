@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-25T10:13:41Z</updated>
+  <updated>2021-03-25T10:52:24Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-25T07:09:00.000+0000</id>
-    <published>2021-03-25T10:00:46Z</published>
-    <updated>2021-03-25T10:00:46Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-25T07:01:00.000+0000</id>
+    <published>2021-03-25T10:41:49Z</published>
+    <updated>2021-03-25T10:41:49Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
@@ -26,33 +26,40 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 GMT, Sunset: 18:23 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-25T07:09:00.000+0000</id>
-    <published>2021-03-25T10:00:46Z</published>
-    <updated>2021-03-25T10:00:46Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-25T07:01:00.000+0000</id>
+    <published>2021-03-25T10:41:49Z</published>
+    <updated>2021-03-25T10:41:49Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 59%, UV Risk: 3, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-25T07:09:00.000+0000</id>
-    <published>2021-03-25T10:00:46Z</published>
-    <updated>2021-03-25T10:00:46Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-25T07:01:00.000+0000</id>
+    <published>2021-03-25T10:41:49Z</published>
+    <updated>2021-03-25T10:41:49Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEAm5aXjXojo8_tVpeFc2xvsqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
-    <title type="html">Santander to close 111 branches across the UK this summer - see if yours is affected - Mirror Online</title>
-    <updated>2021-03-25T09:16:05.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/money/breaking-santander-permanently-close-111-23792446" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/money/breaking-santander-permanently-close-111-23792446" target="_blank"&gt;Santander to close 111 branches across the UK this summer - see if yours is affected&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmdldHN1cnJleS5jby51ay9uZXdzL3N1cnJleS1uZXdzL3NhbnRhbmRlci1hbm5vdW5jZXMtY2xvc3VyZS1hc2hmb3JkLWNvYmhhbS0yMDI1MTM5MtIBZGh0dHBzOi8vd3d3LmdldHN1cnJleS5jby51ay9uZXdzL3N1cnJleS1uZXdzL3NhbnRhbmRlci1hbm5vdW5jZXMtY2xvc3VyZS1hc2hmb3JkLWNvYmhhbS0yMDI1MTM5Mi5hbXA?oc=5</id>
+    <title type="html">Santander announces closure of Ashford, Cobham, Leatherhead and Weybridge branches - Surrey Live</title>
+    <updated>2021-03-25T10:33:09.000000000Z</updated>
+    <link href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" type="text/html"/>
+    <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/santander-announces-closure-ashford-cobham-20251392" target="_blank"&gt;Santander announces closure of Ashford, Cobham, Leatherhead and Weybridge branches&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9vbmUtbWFuLWFycmVzdGVkLWFuZC10d28tY2hhcmdlZC1vdmVyLW1vcGVkLXBob25lLXNuYXRjaGluZy_SAQA?oc=5</id>
-    <title type="html">One man arrested and two charged over moped phone snatching - London News Online</title>
-    <updated>2021-03-25T09:15:16.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/one-man-arrested-and-two-charged-over-moped-phone-snatching/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/one-man-arrested-and-two-charged-over-moped-phone-snatching/" target="_blank"&gt;One man arrested and two charged over moped phone snatching&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTg2NTY5LnR3by1jaGFyZ2VkLXRhcmdldGluZy1sb25lLXdvbWVuLXdhbmRzd29ydGgv0gEA?oc=5</id>
+    <title type="html">Two charged after targeting lone women in Wandsworth - Wandsworth Guardian</title>
+    <updated>2021-03-25T10:30:26.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19186569.two-charged-targeting-lone-women-wandsworth/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19186569.two-charged-targeting-lone-women-wandsworth/" target="_blank"&gt;Two charged after targeting lone women in Wandsworth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LnRoZW5vcnRoZXJuZWNoby5jby51ay9idXNpbmVzcy8xOTE4NjUyMC5zZWUtc2FudGFuZGVyLWJyYW5jaGVzLXdpbGwtY2xvc2Utc3VtbWVyL9IBAA?oc=5</id>
+    <title type="html">See which Santander branches will close this summer - The Northern Echo</title>
+    <updated>2021-03-25T10:17:21.000000000Z</updated>
+    <link href="https://www.thenorthernecho.co.uk/business/19186520.see-santander-branches-will-close-summer/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thenorthernecho.co.uk/business/19186520.see-santander-branches-will-close-summer/" target="_blank"&gt;See which Santander branches will close this summer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Northern Echo&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEG5y1aMQ63vEYTEQfBvShU0qGQgEKhAIACoHCAow2c77CjC-yfQCMIrk0wU?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-03-24T13:34:31.000000000Z</updated>
     <link href="https://everythinghorseuk.co.uk/oasby-elite-an-outright-success-with-leading-riders-taking-the-honours/" type="text/html"/>
     <content type="html">&lt;a href="https://everythinghorseuk.co.uk/oasby-elite-an-outright-success-with-leading-riders-taking-the-honours/" target="_blank"&gt;Oasby Elite an Outright Success with Leading Riders Taking the Honours&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Everything Horse UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MTgxMTcxLmNsYXBoYW0tdHJhdmVsLWV4cGVydC1zdGlsbC1ob3BlZnVsLXN1bW1lci1ob2xpZGF5cy_SAQA?oc=5</id>
-    <title type="html">Summer holiday advice from Travel Matters - Wandsworth Guardian</title>
-    <updated>2021-03-23T14:48:19.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19181171.clapham-travel-expert-still-hopeful-summer-holidays/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19181171.clapham-travel-expert-still-hopeful-summer-holidays/" target="_blank"&gt;Summer holiday advice from Travel Matters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
