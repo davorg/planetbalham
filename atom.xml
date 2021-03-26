@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-26T00:25:24Z</updated>
+  <updated>2021-03-26T01:07:54Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 10°C (49°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1013mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 18:23 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1013mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 18:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-25T21:51:00.000+0000</id>
-    <published>2021-03-26T00:01:25Z</published>
-    <updated>2021-03-26T00:01:25Z</updated>
+    <published>2021-03-26T01:00:15Z</published>
+    <updated>2021-03-26T01:00:15Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-25T21:51:00.000+0000</id>
-    <published>2021-03-26T00:01:25Z</published>
-    <updated>2021-03-26T00:01:25Z</updated>
+    <published>2021-03-26T01:00:15Z</published>
+    <updated>2021-03-26T01:00:15Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1023mb, Humidity: 58%, UV Risk: 3, Pollution: Low, Sunrise: 05:46 GMT, Sunset: 18:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-25T21:51:00.000+0000</id>
-    <published>2021-03-26T00:01:25Z</published>
-    <updated>2021-03-26T00:01:25Z</updated>
+    <published>2021-03-26T01:00:15Z</published>
+    <updated>2021-03-26T01:00:15Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL2Zvb2QtZHJpbmstbG9uZG9uL3JlYWR5LW1hZGUtcGljbmljLWhhbXBlcnMtbG9uZG9uLWRlbGl2ZXJ5L9IBAA?oc=5</id>
@@ -46,13 +46,6 @@
     <updated>2021-03-25T18:17:12.000000000Z</updated>
     <link href="https://www.theresident.co.uk/food-drink-london/ready-made-picnic-hampers-london-delivery/" type="text/html"/>
     <content type="html">&lt;a href="https://www.theresident.co.uk/food-drink-london/ready-made-picnic-hampers-london-delivery/" target="_blank"&gt;Ready-Made Picnic Hampers for Delivery in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmZvb2RlcGVkaWEuY28udWsvcmVzdGF1cmFudC1vcGVuaW5ncy9uZXctb3BlbmluZy1yZWQtZHVjay1iYWxoYW0v0gEA?oc=5</id>
-    <title type="html">New Opening. Red Duck Balham - Foodepedia</title>
-    <updated>2021-03-25T14:16:54.000000000Z</updated>
-    <link href="https://www.foodepedia.co.uk/restaurant-openings/new-opening-red-duck-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.foodepedia.co.uk/restaurant-openings/new-opening-red-duck-balham/" target="_blank"&gt;New Opening. Red Duck Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Foodepedia&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFiaBJTDWgXMHGrlpZD3F-4qFggEKg4IACoGCAowzdp7ML-3CTCtyxU?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-03-25T11:26:19.000000000Z</updated>
     <link href="https://www.wakefieldexpress.co.uk/business/consumer/santander-confirms-plans-to-close-111-branches-including-those-in-castleford-and-dewsbury-3178202" type="text/html"/>
     <content type="html">&lt;a href="https://www.wakefieldexpress.co.uk/business/consumer/santander-confirms-plans-to-close-111-branches-including-those-in-castleford-and-dewsbury-3178202" target="_blank"&gt;Santander confirms plans to close 111 branches - including those in Castleford and Dewsbury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wakefield Express&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEHuZ-cI1kcx2Am8rbHYl0UwqGQgEKhAIACoHCAowms-ICzDyxYcDMKi-gAc?oc=5</id>
+    <title type="html">Khan says London's roads “cannot be clogged with cars” with 4 new cycle lanes being built this month - TaxiPoint Taxi News</title>
+    <updated>2021-03-25T11:04:11.000000000Z</updated>
+    <link href="https://www.taxi-point.co.uk/post/khan-says-london-s-roads-cannot-be-clogged-with-cars-with-4-new-cycle-lanes-being-built-this-month" type="text/html"/>
+    <content type="html">&lt;a href="https://www.taxi-point.co.uk/post/khan-says-london-s-roads-cannot-be-clogged-with-cars-with-4-new-cycle-lanes-being-built-this-month" target="_blank"&gt;Khan says London's roads “cannot be clogged with cars” with 4 new cycle lanes being built this month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TaxiPoint Taxi News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
