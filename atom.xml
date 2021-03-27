@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-27T08:16:46Z</updated>
+  <updated>2021-03-27T08:54:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1022mb, Humidity: 58%, UV Risk: 3, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1022mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 05:48 GMT, Sunset: 18:25 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-26T21:54:00.000+0000</id>
-    <published>2021-03-27T08:03:23Z</published>
-    <updated>2021-03-27T08:03:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-27T07:59:00.000+0000</id>
+    <published>2021-03-27T08:22:46Z</published>
+    <updated>2021-03-27T08:22:46Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1023mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 05:46 BST, Sunset: 18:27 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1023mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 05:46 BST, Sunset: 18:27 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-26T21:54:00.000+0000</id>
-    <published>2021-03-27T08:03:23Z</published>
-    <updated>2021-03-27T08:03:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-27T07:59:00.000+0000</id>
+    <published>2021-03-27T08:22:46Z</published>
+    <updated>2021-03-27T08:22:46Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny, Minimum Temperature: 5°C (42°F) Maximum Temperature: 19°C (65°F)</title>
+    <title>Monday: Sunny, Minimum Temperature: 5°C (40°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 5°C (42°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1027mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-26T21:54:00.000+0000</id>
-    <published>2021-03-27T08:03:23Z</published>
-    <updated>2021-03-27T08:03:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-27T07:59:00.000+0000</id>
+    <published>2021-03-27T08:22:46Z</published>
+    <updated>2021-03-27T08:22:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEL3WFi0H8TkQrd9unV6RE5EqGQgEKhAIACoHCAowzuOICzCZ4ocDMJ3joAY?oc=5</id>
