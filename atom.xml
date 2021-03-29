@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-29T21:16:45Z</updated>
+  <updated>2021-03-29T21:53:45Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunset: 19:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunset: 19:28 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-29T09:00:00.000+0000</id>
-    <published>2021-03-29T21:00:40Z</published>
-    <updated>2021-03-29T21:00:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-03-29T19:58:00.000+0000</id>
+    <published>2021-03-29T21:16:42Z</published>
+    <updated>2021-03-29T21:16:42Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny, Minimum Temperature: 9°C (47°F) Maximum Temperature: 23°C (73°F)</title>
+    <title>Tuesday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 9°C (47°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 3, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 3, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-29T09:00:00.000+0000</id>
-    <published>2021-03-29T21:00:40Z</published>
-    <updated>2021-03-29T21:00:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-03-29T19:58:00.000+0000</id>
+    <published>2021-03-29T21:16:42Z</published>
+    <updated>2021-03-29T21:16:42Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 22°C (72°F)</title>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 21°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-29T09:00:00.000+0000</id>
-    <published>2021-03-29T21:00:40Z</published>
-    <updated>2021-03-29T21:00:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-03-29T19:58:00.000+0000</id>
+    <published>2021-03-29T21:16:42Z</published>
+    <updated>2021-03-29T21:16:42Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiO2h0dHBzOi8vbG9uZG9udGhlaW5zaWRlLmNvbS90aGUtcmVkLWR1Y2stdG8tb3Blbi1pbi1iYWxoYW0v0gE_aHR0cHM6Ly9sb25kb250aGVpbnNpZGUuY29tL3RoZS1yZWQtZHVjay10by1vcGVuLWluLWJhbGhhbS8_YW1w?oc=5</id>
