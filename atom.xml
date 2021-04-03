@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-03T12:59:09Z</updated>
+  <updated>2021-04-03T13:18:20Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMijQFodHRwczovL3d3dy5nb3FyYWRpby5jb20vbmV3cy9xLXJhZGlvLW5hdGlvbmFsLW5ld3MvY292aWQtMTktcG9saWNlLXNodXQtZG93bi1nb29kLWZyaWRheS1jaHVyY2gtc2VydmljZS1hbmQtdGhyZWF0ZW4td29yc2hpcHBlcnMtd2l0aC1maW5lcy_SAQA?oc=5</id>
+    <title type="html">COVID-19: Police shut down Good Friday church service and threaten worshippers with fines - goqradio.com</title>
+    <updated>2021-04-03T13:08:00.000000000Z</updated>
+    <link href="https://www.goqradio.com/news/q-radio-national-news/covid-19-police-shut-down-good-friday-church-service-and-threaten-worshippers-with-fines/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.goqradio.com/news/q-radio-national-news/covid-19-police-shut-down-good-friday-church-service-and-threaten-worshippers-with-fines/" target="_blank"&gt;COVID-19: Police shut down Good Friday church service and threaten worshippers with fines&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;goqradio.com&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1032mb, Humidity: 57%, UV Risk: 1, Pollution: Low, Sunrise: 06:32 BST, Sunset: 19:36 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-03T09:40:00.000+0000</id>
-    <published>2021-04-03T12:56:45Z</published>
-    <updated>2021-04-03T12:56:45Z</updated>
+    <published>2021-04-03T13:00:09Z</published>
+    <updated>2021-04-03T13:00:09Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 5°C (42°F) Maximum Temperature: 15°C (58°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:38 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-03T09:40:00.000+0000</id>
-    <published>2021-04-03T12:56:45Z</published>
-    <updated>2021-04-03T12:56:45Z</updated>
+    <published>2021-04-03T13:00:09Z</published>
+    <updated>2021-04-03T13:00:09Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: -1°C (31°F) Maximum Temperature: 7°C (44°F)</title>
@@ -37,11 +44,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1018mb, Humidity: 51%, UV Risk: 3, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-03T09:40:00.000+0000</id>
-    <published>2021-04-03T12:56:45Z</published>
-    <updated>2021-04-03T12:56:45Z</updated>
+    <published>2021-04-03T13:00:09Z</published>
+    <updated>2021-04-03T13:00:09Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEEzjKwR1AayKzrbovR1kOUAqGQgEKhAIACoHCAownKyACzD_r4wDMMKl-QU?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEEzjKwR1AayKzrbovR1kOUAqGQgEKhAIACoHCAownKyACzD_r4wDMNTC8wY?oc=5</id>
     <title type="html">Police break up Good Friday church service in London for breaching Covid rules - LBC</title>
     <updated>2021-04-03T11:31:25.000000000Z</updated>
     <link href="https://www.lbc.co.uk/news/police-break-up-good-friday-church-service-balham-london-breaching-covid-rules/" type="text/html"/>
@@ -60,13 +67,6 @@
     <updated>2021-03-30T20:13:48.000000000Z</updated>
     <link href="https://jis.gov.jm/speeches/statement-to-the-house-of-representatives-by-the-minister-of-culture-gender-entertainment-and-sport-the-honourable-olivia-grange-cd-mp-on-tuesday-30-march-2021/" type="text/html"/>
     <content type="html">&lt;a href="https://jis.gov.jm/speeches/statement-to-the-house-of-representatives-by-the-minister-of-culture-gender-entertainment-and-sport-the-honourable-olivia-grange-cd-mp-on-tuesday-30-march-2021/" target="_blank"&gt;Statement To The House Of Representatives By the Minister of Culture, Gender, Entertainment and Sport, The Honourable Olivia Grange, CD, MP on Tuesday, 30 March 2021 – Jamaica Information Service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Government of Jamaica, Jamaica Information Service&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiO2h0dHBzOi8vbG9uZG9udGhlaW5zaWRlLmNvbS90aGUtcmVkLWR1Y2stdG8tb3Blbi1pbi1iYWxoYW0v0gE_aHR0cHM6Ly9sb25kb250aGVpbnNpZGUuY29tL3RoZS1yZWQtZHVjay10by1vcGVuLWluLWJhbGhhbS8_YW1w?oc=5</id>
-    <title type="html">THE RED DUCK TO OPEN IN BALHAM - London On The Inside</title>
-    <updated>2021-03-29T16:08:24.000000000Z</updated>
-    <link href="https://londontheinside.com/the-red-duck-to-open-in-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://londontheinside.com/the-red-duck-to-open-in-balham/" target="_blank"&gt;THE RED DUCK TO OPEN IN BALHAM&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London On The Inside&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmZvb2RlcGVkaWEuY28udWsvcmVzdGF1cmFudC1vcGVuaW5ncy9uZXctb3BlbmluZy1yZWQtZHVjay1iYWxoYW0v0gEA?oc=5</id>
