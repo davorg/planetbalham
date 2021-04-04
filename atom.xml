@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-04T06:58:10Z</updated>
+  <updated>2021-04-04T07:17:06Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:38 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1026mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:38 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-03T21:56:00.000+0000</id>
-    <published>2021-04-04T06:11:58Z</published>
-    <updated>2021-04-04T06:11:58Z</updated>
+    <published>2021-04-04T07:12:11Z</published>
+    <updated>2021-04-04T07:12:11Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny, Minimum Temperature: -1°C (30°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 47%, UV Risk: 3, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1018mb, Humidity: 47%, UV Risk: 3, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-03T21:56:00.000+0000</id>
-    <published>2021-04-04T06:11:58Z</published>
-    <updated>2021-04-04T06:11:58Z</updated>
+    <published>2021-04-04T07:12:11Z</published>
+    <updated>2021-04-04T07:12:11Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: -1°C (31°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 50%, UV Risk: 3, Pollution: Low, Sunrise: 06:26 BST, Sunset: 19:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-03T21:56:00.000+0000</id>
-    <published>2021-04-04T06:11:58Z</published>
-    <updated>2021-04-04T06:11:58Z</updated>
+    <published>2021-04-04T07:12:11Z</published>
+    <updated>2021-04-04T07:12:11Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3Lm5ld3NodWIuY28ubnovaG9tZS93b3JsZC8yMDIxLzA0L2Nvcm9uYXZpcnVzLWxhdGVzdC1vbi1jb3ZpZC0xOS1mcm9tLWFyb3VuZC10aGUtd29ybGQtc3VuZGF5LWFwcmlsLTQuaHRtbNIBeWh0dHBzOi8vd3d3Lm5ld3NodWIuY28ubnovaG9tZS93b3JsZC8yMDIxLzA0L2Nvcm9uYXZpcnVzLWxhdGVzdC1vbi1jb3ZpZC0xOS1mcm9tLWFyb3VuZC10aGUtd29ybGQtc3VuZGF5LWFwcmlsLTQuYW1wLmh0bWw?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.newsshopper.co.uk/news/19208848.police-shut-good-friday-service-south-london/" target="_blank"&gt;Police shut down Good Friday service in south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbmV3cy13ZWVrLXBpZXJzLW1vcmdhbi1zbGFtcy0xMjAwMDA0ODcuaHRtbNIBTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9uZXdzLXdlZWstcGllcnMtbW9yZ2FuLXNsYW1zLTEyMDAwMDQ4Ny5odG1s?oc=5</id>
+    <title type="html">NEWS OF THE WEEK: Piers Morgan slams treatment of Sharon Osbourne after The Talk departure - Yahoo News UK</title>
+    <updated>2021-04-03T12:00:00.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/news-week-piers-morgan-slams-120000487.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/news-week-piers-morgan-slams-120000487.html" target="_blank"&gt;NEWS OF THE WEEK: Piers Morgan slams treatment of Sharon Osbourne after The Talk departure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZmlyZWZpZ2h0ZXJzLWJhdHRsZS1tdWx0aXBsZS1icnVzaC1maXJlcy0xMDI5MTczNTUuaHRtbNIBWWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9maXJlZmlnaHRlcnMtYmF0dGxlLW11bHRpcGxlLWJydXNoLWZpcmVzLTEwMjkxNzM1NS5odG1s?oc=5</id>
     <title type="html">Firefighters Battle Multiple Brush Fires in Menomonee Falls, Wisconsin - Yahoo News UK</title>
     <updated>2021-04-03T10:29:17.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/firefighters-battle-multiple-brush-fires-102917355.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/firefighters-battle-multiple-brush-fires-102917355.html" target="_blank"&gt;Firefighters Battle Multiple Brush Fires in Menomonee Falls, Wisconsin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdGFpd2FuLXByb3NlY3V0b3JzLWxhdW5jaC1wcm9iZS10cmFpbi0wNjAwMzkzMTQuaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC90YWl3YW4tcHJvc2VjdXRvcnMtbGF1bmNoLXByb2JlLXRyYWluLTA2MDAzOTMxNC5odG1s?oc=5</id>
-    <title type="html">Taiwan prosecutors seek arrest of lorry driver as train crash death toll rises to 50 - Yahoo News UK</title>
-    <updated>2021-04-03T06:00:39.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/taiwan-prosecutors-launch-probe-train-060039314.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/taiwan-prosecutors-launch-probe-train-060039314.html" target="_blank"&gt;Taiwan prosecutors seek arrest of lorry driver as train crash death toll rises to 50&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The lost bookshop</title>
