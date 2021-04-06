@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-06T12:17:04Z</updated>
+  <updated>2021-04-06T12:59:17Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 7°C (44°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -2°C (28°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 36%, UV Risk: 3, Pollution: Low, Sunrise: 06:26 BST, Sunset: 19:42 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -2°C (28°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 36%, UV Risk: 3, Pollution: Low, Sunrise: 06:26 BST, Sunset: 19:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-06T09:02:00.000+0000</id>
-    <published>2021-04-06T12:01:20Z</published>
-    <updated>2021-04-06T12:01:20Z</updated>
+    <published>2021-04-06T12:51:47Z</published>
+    <updated>2021-04-06T12:51:47Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 8°C (47°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 53%, UV Risk: 3, Pollution: Low, Sunrise: 06:23 BST, Sunset: 19:43 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-06T09:02:00.000+0000</id>
-    <published>2021-04-06T12:01:20Z</published>
-    <updated>2021-04-06T12:01:20Z</updated>
+    <published>2021-04-06T12:51:47Z</published>
+    <updated>2021-04-06T12:51:47Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,9 +37,52 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1022mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:21 BST, Sunset: 19:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-06T09:02:00.000+0000</id>
-    <published>2021-04-06T12:01:20Z</published>
-    <updated>2021-04-06T12:01:20Z</updated>
+    <published>2021-04-06T12:51:47Z</published>
+    <updated>2021-04-06T12:51:47Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>315 SEN39</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/rokettodan/51099387420/"/>
+    <id>tag:flickr.com,2005:/photo/51099387420</id>
+    <published>2021-04-06T12:22:35Z</published>
+    <updated>2021-04-06T12:22:35Z</updated>
+    <flickr:date_taken>2021-04-06T09:13:29-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-06T09:13:29-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/rokettodan/"&gt;tbtsimplayer&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/rokettodan/51099387420/" title="315 SEN39"&gt;&lt;img src="https://live.staticflickr.com/65535/51099387420_5e028585f1_m.jpg" width="240" height="135" alt="315 SEN39" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;SEN39 YX09FLP (Former First London DMS44414/Metroline DES1708) seen at Bedford Hill working on route 315 towards West Norwood, Norwood Bus Garage.&lt;/p&gt;</content>
+    <author>
+      <name>tbtsimplayer</name>
+      <uri>https://www.flickr.com/people/rokettodan/</uri>
+      <flickr:nsid>154309822@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/154309822@N04.jpg?1604841717#154309822@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51099387420_5e028585f1_b.jpg"/>
+    <category term="adlenviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="west" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="norwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="n" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="garage" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="first" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="red" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dms44414" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="des1708" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="metroline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx09flp" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx09" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flp" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vdGhlY2F0aG9saWN1bml2ZXJzZS5jb20vcG9saWNlLWJydXRhbGx5LWV4Y2VlZGVkLXBvd2Vycy1zaHV0dGluZy1kb3duLWdvb2QtZnJpZGF5LXNlcnZpY2Utc2F5cy1jaHVyY2gv0gEA?oc=5</id>
     <title type="html">Police 'brutally exceeded powers' shutting down Good Friday service, says church - The Catholic Universe</title>
@@ -208,101 +251,6 @@
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>London - Clapham Parish Church Prior to 1907</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/50928667171/"/>
-    <id>tag:flickr.com,2005:/photo/50928667171</id>
-    <published>2021-02-10T09:30:35Z</published>
-    <updated>2021-02-10T09:30:35Z</updated>
-    <flickr:date_taken>2021-02-10T09:27:18-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-02-10T09:27:18-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/50928667171/" title="London - Clapham Parish Church Prior to 1907"&gt;&lt;img src="https://live.staticflickr.com/65535/50928667171_0859f94cd7_m.jpg" width="240" height="166" alt="London - Clapham Parish Church Prior to 1907" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-An S. S. Series postcard that was published by Sidney Smith of 200, Lavender Hill, London S. W.&lt;br /&gt;
-&lt;br /&gt;
-The card was posted in Balham on Thursday the 21st. November 1907 to:&lt;br /&gt;
-&lt;br /&gt;
-Mrs. D. Ayres,&lt;br /&gt;
-83, Calderon Road,&lt;br /&gt;
-Leyton,&lt;br /&gt;
-Essex.&lt;br /&gt;
-&lt;br /&gt;
-The message on the divided back of the card was as follows:&lt;br /&gt;
-&lt;br /&gt;
-&amp;quot;Dear Mother,&lt;br /&gt;
-Hoping this finds you&lt;br /&gt;
-all quite well.&lt;br /&gt;
-Did you get my letter&lt;br /&gt;
-last week?&lt;br /&gt;
-I am going to see&lt;br /&gt;
-Cousin Emma on Sunday.&lt;br /&gt;
-Love to all.&lt;br /&gt;
-Love from yours ever,&lt;br /&gt;
-Alice M. A.&amp;quot;&lt;br /&gt;
-&lt;br /&gt;
-&lt;u&gt;Josef Issels&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-So what else happened on the day that Alice posted the card to her mother?&lt;br /&gt;
-&lt;br /&gt;
-Well, the 21st. November 1907 marked the birth in Mönchengladbach of Josef Issels.&lt;br /&gt;
-&lt;br /&gt;
-Josef M. Issels was a German physician known for promoting an alternative cancer therapy regimen known as the Issels treatment. He claimed to cure cancer patients who had been declared incurable by conventional cancer treatments. &lt;br /&gt;
-&lt;br /&gt;
-During Issels' lifetime, his methods were controversial, and in 1961 he was charged with fraud and manslaughter for allegedly promising fraudulent cancer cures and for the subsequent deaths of patients under his care who refused standard cancer treatment. &lt;br /&gt;
-&lt;br /&gt;
-An initial conviction on the manslaughter charge was overturned in 1964 on the grounds that Issels had genuinely believed that his therapy could cure cancer. &lt;br /&gt;
-&lt;br /&gt;
-Since at least 1972 the Issels treatment is described as unproven, and considered ineffective as a treatment for cancer.&lt;br /&gt;
-&lt;br /&gt;
-&lt;u&gt;The Death of Josef Issels&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-Josef Issels died at the age of 90 on the 11th. February 1998.&lt;/p&gt;</content>
-    <author>
-      <name>pepandtim</name>
-      <uri>https://www.flickr.com/people/november_song/</uri>
-      <flickr:nsid>38123425@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50928667171_0859f94cd7_b.jpg"/>
-    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clapham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="parish" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ss" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="series" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sidney" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="smith" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lavender" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="21111907" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1907" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="32lcp72" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ayres" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="calderon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="leyton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="essex" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="letter" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cousin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="emma" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="josef" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="issels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="german" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="physician" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
