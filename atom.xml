@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-09T23:17:02Z</updated>
+  <updated>2021-04-09T23:55:27Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 19:48 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1013mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 19:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-09T21:54:00.000+0000</id>
-    <published>2021-04-09T23:01:42Z</published>
-    <updated>2021-04-09T23:01:42Z</updated>
+    <published>2021-04-09T23:45:25Z</published>
+    <updated>2021-04-09T23:45:25Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:15 BST, Sunset: 19:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-09T21:54:00.000+0000</id>
-    <published>2021-04-09T23:01:42Z</published>
-    <updated>2021-04-09T23:01:42Z</updated>
+    <published>2021-04-09T23:45:25Z</published>
+    <updated>2021-04-09T23:45:25Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-09T21:54:00.000+0000</id>
-    <published>2021-04-09T23:01:42Z</published>
-    <updated>2021-04-09T23:01:42Z</updated>
+    <published>2021-04-09T23:45:25Z</published>
+    <updated>2021-04-09T23:45:25Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMikgFodHRwOi8vd3d3Lm5ldHdvcmtub3J3aWNoLmNvLnVrL0FydGljbGVzLzYwNzM0NS9OZXR3b3JrX05vcndpY2hfYW5kX05vcmZvbGsvUmVnaW9uYWxfTmV3cy9Ob3J0aF9Ob3Jmb2xrL1Bhc3Rvcl9zX3ByYXllcl9oaWtlX3RvX2NvbW1lbW9yYXRlX0UuYXNweNIBAA?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://www.theguardian.com/society/2021/apr/08/jill-dcruz-obituary" target="_blank"&gt;Jill D’Cruz obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnRoZWZsb3JpZGFjYXRob2xpYy5vcmcvbmV3cy9uYXRpb25hbC9xdWljay1yZWFkcy00LTkvYXJ0aWNsZV82MWJjMmUzMC05ODc2LTExZWItYTgyYi00YjZhOTk0MWY1M2YuaHRtbNIBAA?oc=5</id>
+    <title type="html">Quick Reads - Apr. 4-9, 2021 | National | thefloridacatholic.org - Florida Catholic</title>
+    <updated>2021-04-08T14:26:00.000000000Z</updated>
+    <link href="https://www.thefloridacatholic.org/news/national/quick-reads-4-9/article_61bc2e30-9876-11eb-a82b-4b6a9941f53f.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thefloridacatholic.org/news/national/quick-reads-4-9/article_61bc2e30-9876-11eb-a82b-4b6a9941f53f.html" target="_blank"&gt;Quick Reads - Apr. 4-9, 2021 | National | thefloridacatholic.org&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Florida Catholic&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEByb2Lsgr6I4PFBnZp1YIjgqGQgEKhAIACoHCAowy4KeCzDcjLYDMNjl6QY?oc=5</id>
     <title type="html">Some of the best pubs in south west London to wet your post-lockdown whistle - South West Londoner</title>
     <updated>2021-04-08T13:11:05.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2021-04-08T11:54:32.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/08042021-balham-restaurant-delivers-almost-500-pizzas-to-staff-at-st-georges-hospital/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/08042021-balham-restaurant-delivers-almost-500-pizzas-to-staff-at-st-georges-hospital/" target="_blank"&gt;Balham Restaurant delivers pizzas to NHS staff at St George's Hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEATRcQ1FJO3PrXIfTg9zzn0qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">South London's only LGBTQ church facing closure - South West Londoner</title>
-    <updated>2021-04-08T09:44:37.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/08042021-south-londons-only-lgbtq-church-facing-closure/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/08042021-south-londons-only-lgbtq-church-facing-closure/" target="_blank"&gt;South London's only LGBTQ church facing closure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>315 SEN39</title>
