@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-09T10:16:49Z</updated>
+  <updated>2021-04-09T10:54:53Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1013mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:47 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1013mb, Humidity: 55%, UV Risk: 3, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:47 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-09T07:56:00.000+0000</id>
-    <published>2021-04-09T10:03:36Z</published>
-    <updated>2021-04-09T10:03:36Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-09T09:54:00.000+0000</id>
+    <published>2021-04-09T10:37:26Z</published>
+    <updated>2021-04-09T10:37:26Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Saturday: Light Rain, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:17 BST, Sunset: 19:48 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:17 BST, Sunset: 19:48 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-09T07:56:00.000+0000</id>
-    <published>2021-04-09T10:03:36Z</published>
-    <updated>2021-04-09T10:03:36Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-09T09:54:00.000+0000</id>
+    <published>2021-04-09T10:37:26Z</published>
+    <updated>2021-04-09T10:37:26Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 8°C (47°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: -1°C (29°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: -1°C (30°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 06:15 BST, Sunset: 19:50 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: -1°C (29°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:15 BST, Sunset: 19:50 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-09T07:56:00.000+0000</id>
-    <published>2021-04-09T10:03:36Z</published>
-    <updated>2021-04-09T10:03:36Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-09T09:54:00.000+0000</id>
+    <published>2021-04-09T10:37:26Z</published>
+    <updated>2021-04-09T10:37:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMikgFodHRwOi8vd3d3Lm5ldHdvcmtub3J3aWNoLmNvLnVrL0FydGljbGVzLzYwNzM0NS9OZXR3b3JrX05vcndpY2hfYW5kX05vcmZvbGsvUmVnaW9uYWxfTmV3cy9Ob3J0aF9Ob3Jmb2xrL1Bhc3Rvcl9zX3ByYXllcl9oaWtlX3RvX2NvbW1lbW9yYXRlX0UuYXNweNIBAA?oc=5</id>
@@ -56,10 +56,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnRoZWZsb3JpZGFjYXRob2xpYy5vcmcvbmV3cy9uYXRpb25hbC9xdWljay1yZWFkcy00LTkvYXJ0aWNsZV82MWJjMmUzMC05ODc2LTExZWItYTgyYi00YjZhOTk0MWY1M2YuaHRtbNIBAA?oc=5</id>
-    <title type="html">Quick Reads - Apr. 4-9, 2021 | National | thefloridacatholic.org - Florida Catholic</title>
+    <title type="html">Quick Reads - Apr. 4-9, 2021 | National - Florida Catholic</title>
     <updated>2021-04-08T14:26:00.000000000Z</updated>
     <link href="https://www.thefloridacatholic.org/news/national/quick-reads-4-9/article_61bc2e30-9876-11eb-a82b-4b6a9941f53f.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thefloridacatholic.org/news/national/quick-reads-4-9/article_61bc2e30-9876-11eb-a82b-4b6a9941f53f.html" target="_blank"&gt;Quick Reads - Apr. 4-9, 2021 | National | thefloridacatholic.org&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Florida Catholic&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://www.thefloridacatholic.org/news/national/quick-reads-4-9/article_61bc2e30-9876-11eb-a82b-4b6a9941f53f.html" target="_blank"&gt;Quick Reads - Apr. 4-9, 2021 | National&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Florida Catholic&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEByb2Lsgr6I4PFBnZp1YIjgqGQgEKhAIACoHCAowy4KeCzDcjLYDMNjl6QY?oc=5</id>
