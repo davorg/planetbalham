@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-12T12:59:47Z</updated>
+  <updated>2021-04-12T13:19:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1029mb, Humidity: 52%, UV Risk: 3, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T12:58:30Z</published>
-    <updated>2021-04-12T12:58:30Z</updated>
+    <published>2021-04-12T13:00:36Z</published>
+    <updated>2021-04-12T13:00:36Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 1°C (35°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T12:58:30Z</published>
-    <updated>2021-04-12T12:58:30Z</updated>
+    <published>2021-04-12T13:00:36Z</published>
+    <updated>2021-04-12T13:00:36Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,20 +37,20 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T12:58:30Z</published>
-    <updated>2021-04-12T12:58:30Z</updated>
+    <published>2021-04-12T13:00:36Z</published>
+    <updated>2021-04-12T13:00:36Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51112241185/"/>
-    <id>tag:flickr.com,2005:/photo/51112241185</id>
-    <published>2021-04-12T12:56:56Z</published>
-    <updated>2021-04-12T12:56:56Z</updated>
-    <flickr:date_taken>2012-01-01T00:00:09-08:00</flickr:date_taken>
-    <dc:date.Taken>2012-01-01T00:00:09-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51111449506/"/>
+    <id>tag:flickr.com,2005:/photo/51111449506</id>
+    <published>2021-04-12T12:57:20Z</published>
+    <updated>2021-04-12T12:57:20Z</updated>
+    <flickr:date_taken>2021-04-11T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T00:00:00-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51112241185/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51112241185_a1cf71a6b0_m.jpg" width="240" height="170" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51111449506/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51111449506_e3a1f1ff62_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
     <author>
@@ -60,7 +60,151 @@
       <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51112241185_a1cf71a6b0_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51111449506_e3a1f1ff62_b.jpg"/>
+    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51111359528/"/>
+    <id>tag:flickr.com,2005:/photo/51111359528</id>
+    <published>2021-04-12T12:57:19Z</published>
+    <updated>2021-04-12T12:57:19Z</updated>
+    <flickr:date_taken>2021-04-11T00:00:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T00:00:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51111359528/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51111359528_f51f5a70e5_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51111359528_f51f5a70e5_b.jpg"/>
+    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51110885697/"/>
+    <id>tag:flickr.com,2005:/photo/51110885697</id>
+    <published>2021-04-12T12:57:16Z</published>
+    <updated>2021-04-12T12:57:16Z</updated>
+    <flickr:date_taken>2021-04-11T00:00:08-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T00:00:08-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51110885697/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51110885697_1a711a1ced_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51110885697_1a711a1ced_b.jpg"/>
+    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51112232040/"/>
+    <id>tag:flickr.com,2005:/photo/51112232040</id>
+    <published>2021-04-12T12:57:16Z</published>
+    <updated>2021-04-12T12:57:16Z</updated>
+    <flickr:date_taken>2021-04-11T00:00:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T00:00:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51112232040/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51112232040_c89e58570c_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51112232040_c89e58570c_b.jpg"/>
+    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51111361548/"/>
+    <id>tag:flickr.com,2005:/photo/51111361548</id>
+    <published>2021-04-12T12:57:15Z</published>
+    <updated>2021-04-12T12:57:15Z</updated>
+    <flickr:date_taken>2021-04-11T00:00:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T00:00:09-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51111361548/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51111361548_2a74f57ba3_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51111361548_2a74f57ba3_b.jpg"/>
     <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
@@ -91,156 +235,12 @@
     <content type="html">&lt;a href="https://www.yahoo.com/lifestyle/midnight-beauty-treatments-beer-gardens-england-covid-lockdown-090717475.html" target="_blank"&gt;Midnight beer gardens and beauty treatments as people brave snow for England’s relaxed COVID lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Lifestyle&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmJlbGZhc3R0ZWxlZ3JhcGguY28udWsvbmV3cy91ay9pbi1waWN0dXJlcy1iYWNrLXRvLXRoZS1neW0tcHViLXBvb2wtc2Fsb24tYW5kLXNob3BzLTQwMzAyNTgzLmh0bWzSAQA?oc=5</id>
-    <title type="html">In Pictures: Back to the gym, pub, pool, salon and shops - Belfast Telegraph</title>
+    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvbmV3cy9uYXRpb25hbC9pbi1waWN0dXJlcy1iYWNrLXRvLXRoZS1neW0tcHViLXBvb2wtc2Fsb24tYW5kLXNob3BzLTI4Mjc2L9IBamh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvbmV3cy9uYXRpb25hbC9hbXAvaW4tcGljdHVyZXMtYmFjay10by10aGUtZ3ltLXB1Yi1wb29sLXNhbG9uLWFuZC1zaG9wcy0yODI3Ni8?oc=5</id>
+    <title type="html">In Pictures: Back to the gym, pub, pool, salon and shops - Kent Online</title>
     <updated>2021-04-12T07:29:00.000000000Z</updated>
-    <link href="https://www.belfasttelegraph.co.uk/news/uk/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-40302583.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.belfasttelegraph.co.uk/news/uk/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-40302583.html" target="_blank"&gt;In Pictures: Back to the gym, pub, pool, salon and shops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Belfast Telegraph&lt;/font&gt;</content>
+    <link href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" target="_blank"&gt;In Pictures: Back to the gym, pub, pool, salon and shops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51109987999/"/>
-    <id>tag:flickr.com,2005:/photo/51109987999</id>
-    <published>2021-04-11T22:06:08Z</published>
-    <updated>2021-04-11T22:06:08Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:05-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:05-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51109987999/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51109987999_370ee1275c_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51109987999_370ee1275c_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51109681742/"/>
-    <id>tag:flickr.com,2005:/photo/51109681742</id>
-    <published>2021-04-11T22:05:50Z</published>
-    <updated>2021-04-11T22:05:50Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:31-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51109681742/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51109681742_bb066f2469_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51109681742_bb066f2469_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51110153933/"/>
-    <id>tag:flickr.com,2005:/photo/51110153933</id>
-    <published>2021-04-11T22:05:48Z</published>
-    <updated>2021-04-11T22:05:48Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51110153933/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51110153933_3736c8429b_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51110153933_3736c8429b_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51111023395/"/>
-    <id>tag:flickr.com,2005:/photo/51111023395</id>
-    <published>2021-04-11T22:05:47Z</published>
-    <updated>2021-04-11T22:05:47Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:34-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:34-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51111023395/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51111023395_893d1b7c36_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51111023395_893d1b7c36_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWlRak15NGtvQU1FZk43TkdSM3RGTkRLQUFQAQ?oc=5</id>
     <title type="html">Covid: Police 'regret' over halting church Good Friday service - BBC News</title>
