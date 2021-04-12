@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-12T00:27:48Z</updated>
+  <updated>2021-04-12T01:12:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 1°C (33°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 1°C (33°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 19:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 19:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-11T21:54:00.000+0000</id>
-    <published>2021-04-12T00:18:43Z</published>
-    <updated>2021-04-12T00:18:43Z</updated>
+    <published>2021-04-12T01:02:57Z</published>
+    <updated>2021-04-12T01:02:57Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-11T21:54:00.000+0000</id>
-    <published>2021-04-12T00:18:43Z</published>
-    <updated>2021-04-12T00:18:43Z</updated>
+    <published>2021-04-12T01:02:57Z</published>
+    <updated>2021-04-12T01:02:57Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 11°C (53°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-11T21:54:00.000+0000</id>
-    <published>2021-04-12T00:18:43Z</published>
-    <updated>2021-04-12T00:18:43Z</updated>
+    <published>2021-04-12T01:02:57Z</published>
+    <updated>2021-04-12T01:02:57Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiECe9M7jIv5RpsYPGtw8PfxkqGAgEKg8IACoHCAowqa6gCTCuoHAw3oqLAw?oc=5</id>
-    <title type="html">Hairdressers, shops and gyms open doors for keen customers at midnight as lockdown eases - Mirror Online</title>
-    <updated>2021-04-12T00:03:23.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/news/uk-news/hairdressers-shops-gyms-open-doors-23895910" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/hairdressers-shops-gyms-open-doors-23895910" target="_blank"&gt;Hairdressers, shops and gyms open doors for keen customers at midnight as lockdown eases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmVhc3RvcmVnb25pYW4uY29tL2Nvcm9uYXZpcnVzL25hdGlvbmFsL3ZpcnVzLW91dGJyZWFrLWJyaXRhaW4vaW1hZ2VfMzkyNWRkYjEtZGE2NS01ZjhmLWEwYWMtMDdkZjg5MTMzODc5Lmh0bWzSAQA?oc=5</id>
+    <title type="html">Virus Outbreak Britain | National | eastoregonian.com - East Oregonian</title>
+    <updated>2021-04-12T00:15:04.000000000Z</updated>
+    <link href="https://www.eastoregonian.com/coronavirus/national/virus-outbreak-britain/image_3925ddb1-da65-5f8f-a0ac-07df89133879.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.eastoregonian.com/coronavirus/national/virus-outbreak-britain/image_3925ddb1-da65-5f8f-a0ac-07df89133879.html" target="_blank"&gt;Virus Outbreak Britain | National | eastoregonian.com&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East Oregonian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBqvRUDwIDrjU7C82WnBOu4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMMCBzAU?oc=5</id>
@@ -242,18 +242,18 @@
     <content type="html">&lt;a href="https://www.bbc.com/news/uk-england-london-56708973" target="_blank"&gt;Covid: Police 'regret' over halting church Good Friday service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtbG9uZG9uLTU2NzA4OTcz0gE5aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYW1wL3VrLWVuZ2xhbmQtbG9uZG9uLTU2NzA4OTcz?oc=5</id>
+    <title type="html">Covid: Police 'regret' over halting church Good Friday mass - BBC News</title>
+    <updated>2021-04-11T19:03:33.000000000Z</updated>
+    <link href="https://www.bbc.co.uk/news/uk-england-london-56708973" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bbc.co.uk/news/uk-england-london-56708973" target="_blank"&gt;Covid: Police 'regret' over halting church Good Friday mass&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MjI1MjgxLmJhbGhhbS1zZWNyZXQtc3BhLWNvLW93bmVyLXNwZWFrcy1nb3Zlcm5tZW50LXJvYWRtYXAv0gEA?oc=5</id>
     <title type="html">Balham: Secret Spa co-owner speaks on government roadmap - Wandsworth Guardian</title>
     <updated>2021-04-11T13:19:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19225281.balham-secret-spa-co-owner-speaks-government-roadmap/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19225281.balham-secret-spa-co-owner-speaks-government-roadmap/" target="_blank"&gt;Balham: Secret Spa co-owner speaks on government roadmap&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiELlgYKpEME84X2FaFFUeyAwqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
-    <title type="html">PETER HITCHENS: When police start raiding our churches, you know the revolution has begun - Daily Mail</title>
-    <updated>2021-04-10T21:22:40.000000000Z</updated>
-    <link href="https://www.dailymail.co.uk/debate/article-9457207/PETER-HITCHENS-police-start-raiding-churches-know-revolution-begun.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailymail.co.uk/debate/article-9457207/PETER-HITCHENS-police-start-raiding-churches-know-revolution-begun.html" target="_blank"&gt;PETER HITCHENS: When police start raiding our churches, you know the revolution has begun&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
