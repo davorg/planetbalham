@@ -7,52 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-12T04:17:09Z</updated>
+  <updated>2021-04-12T04:58:24Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (51°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 1°C (33°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1026mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-11T21:54:00.000+0000</id>
-    <published>2021-04-12T04:00:17Z</published>
-    <updated>2021-04-12T04:00:17Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 11°C (51°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-11T21:54:00.000+0000</id>
-    <published>2021-04-12T04:00:17Z</published>
-    <updated>2021-04-12T04:00:17Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (53°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-11T21:54:00.000+0000</id>
-    <published>2021-04-12T04:00:17Z</published>
-    <updated>2021-04-12T04:00:17Z</updated>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmVhc3RvcmVnb25pYW4uY29tL2Nvcm9uYXZpcnVzL25hdGlvbmFsL3ZpcnVzLW91dGJyZWFrLWJyaXRhaW4vaW1hZ2VfN2JlMGNkM2YtMWZhZi01YWIzLWEzNjEtMGQ4NmY2Y2JhYTQ0Lmh0bWzSAQA?oc=5</id>
     <title type="html">Virus Outbreak Britain | National | eastoregonian.com - East Oregonian</title>
-    <updated>2021-04-12T00:11:07.000000000Z</updated>
+    <updated>2021-04-12T04:33:00.000000000Z</updated>
     <link href="https://www.eastoregonian.com/coronavirus/national/virus-outbreak-britain/image_7be0cd3f-1faf-5ab3-a361-0d86f6cbaa44.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.eastoregonian.com/coronavirus/national/virus-outbreak-britain/image_7be0cd3f-1faf-5ab3-a361-0d86f6cbaa44.html" target="_blank"&gt;Virus Outbreak Britain | National | eastoregonian.com&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East Oregonian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiECe9M7jIv5RpsYPGtw8PfxkqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
-    <title type="html">Hairdressers, shops and gyms open doors for keen customers at midnight as lockdown eases - Mirror Online</title>
-    <updated>2021-04-12T00:03:23.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/news/uk-news/hairdressers-shops-gyms-open-doors-23895910" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/hairdressers-shops-gyms-open-doors-23895910" target="_blank"&gt;Hairdressers, shops and gyms open doors for keen customers at midnight as lockdown eases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror Online&lt;/font&gt;</content>
+    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 11°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 63%, UV Risk: 3, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-11T21:54:00.000+0000</id>
+    <published>2021-04-12T04:22:57Z</published>
+    <updated>2021-04-12T04:22:57Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (53°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-11T21:54:00.000+0000</id>
+    <published>2021-04-12T04:22:57Z</published>
+    <updated>2021-04-12T04:22:57Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 11°C (52°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-11T21:54:00.000+0000</id>
+    <published>2021-04-12T04:22:57Z</published>
+    <updated>2021-04-12T04:22:57Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvYmVhdXR5LXRyZWF0bWVudHMtbG9uZG9uLWVuZ2xhbmQtbWFuY2hlc3Rlci1iYWxoYW0tYjkyOTE0OS5odG1s0gFmaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvbmV3cy91ay9iZWF1dHktdHJlYXRtZW50cy1sb25kb24tZW5nbGFuZC1tYW5jaGVzdGVyLWJhbGhhbS1iOTI5MTQ5Lmh0bWw_YW1w?oc=5</id>
+    <title type="html">Beauty treatments from midnight and pub gardens open as lockdown eases - Evening Standard</title>
+    <updated>2021-04-12T03:28:10.000000000Z</updated>
+    <link href="https://www.standard.co.uk/news/uk/beauty-treatments-london-england-manchester-balham-b929149.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/uk/beauty-treatments-london-england-manchester-balham-b929149.html" target="_blank"&gt;Beauty treatments from midnight and pub gardens open as lockdown eases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBqvRUDwIDrjU7C82WnBOu4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMOSMzAU?oc=5</id>
