@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-12T21:53:58Z</updated>
+  <updated>2021-04-12T22:17:14Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: -1°C (30°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 0°C (33°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1032mb, Humidity: 58%, UV Risk: 1, Pollution: Low, Sunset: 19:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (33°F), Wind Direction: South Westerly, Wind Speed: 4mph, Visibility: Good, Pressure: 1032mb, Humidity: 72%, UV Risk: 0, Pollution: Low, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-12T19:58:00.000+0000</id>
-    <published>2021-04-12T21:32:21Z</published>
-    <updated>2021-04-12T21:32:21Z</updated>
+    <published>2021-04-12T22:02:25Z</published>
+    <updated>2021-04-12T22:02:25Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 2°C (35°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 2°C (35°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-12T19:58:00.000+0000</id>
-    <published>2021-04-12T21:32:21Z</published>
-    <updated>2021-04-12T21:32:21Z</updated>
+    <published>2021-04-12T22:02:25Z</published>
+    <updated>2021-04-12T22:02:25Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1033mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1033mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-12T19:58:00.000+0000</id>
-    <published>2021-04-12T21:32:21Z</published>
-    <updated>2021-04-12T21:32:21Z</updated>
+    <published>2021-04-12T22:02:25Z</published>
+    <updated>2021-04-12T22:02:25Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvZW5nbGFuZC1jcm95ZG9uLXByaW1hcmstbWFuY2hlc3Rlci1iaXJtaW5naGFtLWI5MjkyMzQuaHRtbNIBYWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvZW5nbGFuZC1jcm95ZG9uLXByaW1hcmstbWFuY2hlc3Rlci1iaXJtaW5naGFtLWI5MjkyMzQuaHRtbD9hbXA?oc=5</id>
+    <title type="html">England embraces return of hairdressers, pub pints and high street shopping - Evening Standard</title>
+    <updated>2021-04-12T16:47:18.000000000Z</updated>
+    <link href="https://www.standard.co.uk/news/uk/england-croydon-primark-manchester-birmingham-b929234.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/uk/england-croydon-primark-manchester-birmingham-b929234.html" target="_blank"&gt;England embraces return of hairdressers, pub pints and high street shopping&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
@@ -240,13 +247,6 @@
     <updated>2021-04-12T07:29:00.000000000Z</updated>
     <link href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" target="_blank"&gt;In Pictures: Back to the gym, pub, pool, salon and shops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnNvdXRoY29hc3RyZWdpc3Rlci5jb20uYXUvc3RvcnkvNzIwNTY5My9zaG9hbGhhdmVuLWxvc2VzLWxlYWRpbmctbWVkaWNhbC1wcm9mZXNzaW9uYWwtZHItaXJ3aW4taGFuYW4tYXQtODYv0gEA?oc=5</id>
-    <title type="html">Shoalhaven loses leading medical professional Dr Irwin Hanan at 86 - South Coast Register</title>
-    <updated>2021-04-12T05:30:00.000000000Z</updated>
-    <link href="https://www.southcoastregister.com.au/story/7205693/shoalhaven-loses-leading-medical-professional-dr-irwin-hanan-at-86/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.southcoastregister.com.au/story/7205693/shoalhaven-loses-leading-medical-professional-dr-irwin-hanan-at-86/" target="_blank"&gt;Shoalhaven loses leading medical professional Dr Irwin Hanan at 86&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South Coast Register&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBqvRUDwIDrjU7C82WnBOu4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMMCBzAU?oc=5</id>
