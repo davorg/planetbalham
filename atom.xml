@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-12T12:17:11Z</updated>
+  <updated>2021-04-12T12:59:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1029mb, Humidity: 54%, UV Risk: 3, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1029mb, Humidity: 52%, UV Risk: 3, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T12:03:54Z</published>
-    <updated>2021-04-12T12:03:54Z</updated>
+    <published>2021-04-12T12:58:30Z</published>
+    <updated>2021-04-12T12:58:30Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 1°C (35°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T12:03:54Z</published>
-    <updated>2021-04-12T12:03:54Z</updated>
+    <published>2021-04-12T12:58:30Z</published>
+    <updated>2021-04-12T12:58:30Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,9 +37,45 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T12:03:54Z</published>
-    <updated>2021-04-12T12:03:54Z</updated>
+    <published>2021-04-12T12:58:30Z</published>
+    <updated>2021-04-12T12:58:30Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51112241185/"/>
+    <id>tag:flickr.com,2005:/photo/51112241185</id>
+    <published>2021-04-12T12:56:56Z</published>
+    <updated>2021-04-12T12:56:56Z</updated>
+    <flickr:date_taken>2012-01-01T00:00:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2012-01-01T00:00:09-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51112241185/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51112241185_a1cf71a6b0_m.jpg" width="240" height="170" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51112241185_a1cf71a6b0_b.jpg"/>
+    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MjI2NTQzLmJhbGhhbS1wb3N0LW9mZmljZS1yZWxvY2F0ZXMtZm9ybWVyLXB1Yi1wcmVtaXNlcy_SAQA?oc=5</id>
     <title type="html">Balham Post Office relocates to former pub premises - Wandsworth Guardian</title>
@@ -82,42 +118,6 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51109987999_370ee1275c_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51110243861/"/>
-    <id>tag:flickr.com,2005:/photo/51110243861</id>
-    <published>2021-04-11T22:05:58Z</published>
-    <updated>2021-04-11T22:05:58Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:20-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51110243861/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51110243861_384c1e2a2d_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51110243861_384c1e2a2d_b.jpg"/>
     <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
@@ -246,7 +246,7 @@
     <title type="html">Covid: Police 'regret' over halting church Good Friday service - BBC News</title>
     <updated>2021-04-11T19:03:33.000000000Z</updated>
     <link href="https://www.bbc.com/news/uk-england-london-56708973" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-56708973" target="_blank"&gt;Covid: Police 'regret' over halting church Good Friday service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.sky.com/story/covid-19-police-deeply-regret-upset-caused-by-shutting-down-good-friday-church-service-12273159" target="_blank"&gt;COVID-19: Police 'deeply regret' upset caused by shutting down Good Friday church service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.christiantoday.com/article/police.apologise.for.halting.church.service.on.good.friday/136650.htm" target="_blank"&gt;Police apologise for halting church service on Good Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ChristianToday&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.newsshopper.co.uk/news/19225935.met-police-regret-shutting-south-london-church-service/" target="_blank"&gt;Met Police officers 'deeply regret' shutting down south London church service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWlRak15NGtvQU1FZk43TkdSM3RGTkRLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-56708973" target="_blank"&gt;Covid: Police 'regret' over halting church Good Friday service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.thefirstnews.com/article/london-cops-deeply-regret-easter-virus-raid-on-polish-church-21159" target="_blank"&gt;London cops 'deeply regret' Easter virus raid on Polish church&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The First News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.sky.com/story/covid-19-police-deeply-regret-upset-caused-by-shutting-down-good-friday-church-service-12273159" target="_blank"&gt;COVID-19: Police 'deeply regret' upset caused by shutting down Good Friday church service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.christiantoday.com/article/police.apologise.for.halting.church.service.on.good.friday/136650.htm" target="_blank"&gt;Police apologise for halting church service on Good Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ChristianToday&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.newsshopper.co.uk/news/19225935.met-police-regret-shutting-south-london-church-service/" target="_blank"&gt;Met Police officers 'deeply regret' shutting down south London church service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWlRak15NGtvQU1FZk43TkdSM3RGTkRLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtbG9uZG9uLTU2NzA4OTcz0gE5aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvYW1wL3VrLWVuZ2xhbmQtbG9uZG9uLTU2NzA4OTcz?oc=5</id>
