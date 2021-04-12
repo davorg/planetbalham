@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-12T15:54:44Z</updated>
+  <updated>2021-04-12T16:16:57Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: -1°C (30°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1029mb, Humidity: 42%, UV Risk: 3, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (30°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1031mb, Humidity: 63%, UV Risk: 1, Pollution: Low, Sunset: 19:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T15:29:49Z</published>
-    <updated>2021-04-12T15:29:49Z</updated>
+    <published>2021-04-12T16:01:04Z</published>
+    <updated>2021-04-12T16:01:04Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 1°C (35°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T15:29:49Z</published>
-    <updated>2021-04-12T15:29:49Z</updated>
+    <published>2021-04-12T16:01:04Z</published>
+    <updated>2021-04-12T16:01:04Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-12T09:57:00.000+0000</id>
-    <published>2021-04-12T15:29:49Z</published>
-    <updated>2021-04-12T15:29:49Z</updated>
+    <published>2021-04-12T16:01:04Z</published>
+    <updated>2021-04-12T16:01:04Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
@@ -221,6 +221,13 @@
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEESdxna0zNKPrgNR4j1vnCIqFggEKg4IACoGCAowm6R6MMKqCTCfrxU?oc=5</id>
+    <title type="html">Police step up patrols as freedom slowly returns after long lockdown - The Telegraph</title>
+    <updated>2021-04-12T11:37:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/news/2021/04/12/eager-shoppers-descend-stores-first-day-freedom/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/04/12/eager-shoppers-descend-stores-first-day-freedom/" target="_blank"&gt;Police step up patrols as freedom slowly returns after long lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MjI2NTQzLmJhbGhhbS1wb3N0LW9mZmljZS1yZWxvY2F0ZXMtZm9ybWVyLXB1Yi1wcmVtaXNlcy_SAQA?oc=5</id>
     <title type="html">Balham Post Office relocates to former pub premises - Wandsworth Guardian</title>
     <updated>2021-04-12T11:00:34.000000000Z</updated>
@@ -228,11 +235,11 @@
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19226543.balham-post-office-relocates-former-pub-premises/" target="_blank"&gt;Balham Post Office relocates to former pub premises&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21pZG5pZ2h0LWJlYXV0eS10cmVhdG1lbnRzLWJlZXItZ2FyZGVucy1lbmdsYW5kLWNvdmlkLWxvY2tkb3duLTA5MDcxNzQ3NS5odG1s0gF2aHR0cHM6Ly9jYS5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9taWRuaWdodC1iZWF1dHktdHJlYXRtZW50cy1iZWVyLWdhcmRlbnMtZW5nbGFuZC1jb3ZpZC1sb2NrZG93bi0wOTA3MTc0NzUuaHRtbA?oc=5</id>
-    <title type="html">Midnight beer gardens and beauty treatments as people brave snow for England’s relaxed COVID lockdown - Yahoo Canada Sports</title>
+    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy9taWRuaWdodC1iZWF1dHktdHJlYXRtZW50cy1iZWVyLWdhcmRlbnMtZW5nbGFuZC1jb3ZpZC1sb2NrZG93bi0wOTA3MTc0NzUuaHRtbNIBd2h0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL21pZG5pZ2h0LWJlYXV0eS10cmVhdG1lbnRzLWJlZXItZ2FyZGVucy1lbmdsYW5kLWNvdmlkLWxvY2tkb3duLTA5MDcxNzQ3NS5odG1s?oc=5</id>
+    <title type="html">Midnight beer gardens and beauty treatments as people brave snow for England’s relaxed COVID lockdown - Yahoo Canada Finance</title>
     <updated>2021-04-12T09:07:17.000000000Z</updated>
-    <link href="https://ca.sports.yahoo.com/news/midnight-beauty-treatments-beer-gardens-england-covid-lockdown-090717475.html" type="text/html"/>
-    <content type="html">&lt;a href="https://ca.sports.yahoo.com/news/midnight-beauty-treatments-beer-gardens-england-covid-lockdown-090717475.html" target="_blank"&gt;Midnight beer gardens and beauty treatments as people brave snow for England’s relaxed COVID lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Canada Sports&lt;/font&gt;</content>
+    <link href="https://ca.finance.yahoo.com/news/midnight-beauty-treatments-beer-gardens-england-covid-lockdown-090717475.html" type="text/html"/>
+    <content type="html">&lt;a href="https://ca.finance.yahoo.com/news/midnight-beauty-treatments-beer-gardens-england-covid-lockdown-090717475.html" target="_blank"&gt;Midnight beer gardens and beauty treatments as people brave snow for England’s relaxed COVID lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Canada Finance&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvbmV3cy9uYXRpb25hbC9pbi1waWN0dXJlcy1iYWNrLXRvLXRoZS1neW0tcHViLXBvb2wtc2Fsb24tYW5kLXNob3BzLTI4Mjc2L9IBamh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvbmV3cy9uYXRpb25hbC9hbXAvaW4tcGljdHVyZXMtYmFjay10by10aGUtZ3ltLXB1Yi1wb29sLXNhbG9uLWFuZC1zaG9wcy0yODI3Ni8?oc=5</id>
@@ -240,13 +247,6 @@
     <updated>2021-04-12T07:29:00.000000000Z</updated>
     <link href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" target="_blank"&gt;In Pictures: Back to the gym, pub, pool, salon and shops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEFOOc2Rk-e8m32NtsZNVJ0QqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
-    <title type="html">Hairdressers reopen: People get hair cut for first time in months - Metro.co.uk</title>
-    <updated>2021-04-12T07:10:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/04/12/people-get-hair-cut-for-first-time-in-months-as-salons-reopen-at-midnight-14394509/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/04/12/people-get-hair-cut-for-first-time-in-months-as-salons-reopen-at-midnight-14394509/" target="_blank"&gt;Hairdressers reopen: People get hair cut for first time in months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnNvdXRoY29hc3RyZWdpc3Rlci5jb20uYXUvc3RvcnkvNzIwNTY5My9zaG9hbGhhdmVuLWxvc2VzLWxlYWRpbmctbWVkaWNhbC1wcm9mZXNzaW9uYWwtZHItaXJ3aW4taGFuYW4tYXQtODYv0gEA?oc=5</id>
