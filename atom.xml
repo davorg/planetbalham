@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-13T07:53:00Z</updated>
+  <updated>2021-04-13T08:20:06Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 55%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-12T21:57:00.000+0000</id>
-    <published>2021-04-13T07:42:08Z</published>
-    <updated>2021-04-13T07:42:08Z</updated>
+    <published>2021-04-13T08:01:51Z</published>
+    <updated>2021-04-13T08:01:51Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-12T21:57:00.000+0000</id>
-    <published>2021-04-13T07:42:08Z</published>
-    <updated>2021-04-13T07:42:08Z</updated>
+    <published>2021-04-13T08:01:51Z</published>
+    <updated>2021-04-13T08:01:51Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,13 +37,13 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-12T21:57:00.000+0000</id>
-    <published>2021-04-13T07:42:08Z</published>
-    <updated>2021-04-13T07:42:08Z</updated>
+    <published>2021-04-13T08:01:51Z</published>
+    <updated>2021-04-13T08:01:51Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQmh0dHA6Ly93d3cuZGFpbHlhdmVudWUuY29tL2Zvb2QtZHJpbmsvYmVzdC1iZWVyLWdhcmRlbnMtaW4tbG9uZG9uL9IBRmh0dHA6Ly93d3cuZGFpbHlhdmVudWUuY29tL2Zvb2QtZHJpbmsvYmVzdC1iZWVyLWdhcmRlbnMtaW4tbG9uZG9uL2FtcC8?oc=5</id>
     <title type="html">Our guide to London’s Best Beer Gardens - Daily Avenue</title>
-    <updated>2021-04-12T21:09:27.000000000Z</updated>
+    <updated>2021-04-12T21:10:24.000000000Z</updated>
     <link href="http://www.dailyavenue.com/food-drink/best-beer-gardens-in-london/" type="text/html"/>
     <content type="html">&lt;a href="http://www.dailyavenue.com/food-drink/best-beer-gardens-in-london/" target="_blank"&gt;Our guide to London’s Best Beer Gardens&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Avenue&lt;/font&gt;</content>
   </entry>
@@ -228,13 +228,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnRpbWVzLXNlcmllcy5jby51ay9uZXdzL25hdGlvbmFsLzE5MjI2NzE4LmVuZ2xhbmQtZW1icmFjZXMtcmV0dXJuLWhhaXJkcmVzc2Vycy1wdWItcGludHMtaGlnaC1zdHJlZXQtc2hvcHBpbmcv0gEA?oc=5</id>
-    <title type="html">England embraces return of hairdressers, pub pints and high street shopping - Times Series</title>
-    <updated>2021-04-12T12:19:18.000000000Z</updated>
-    <link href="https://www.times-series.co.uk/news/national/19226718.england-embraces-return-hairdressers-pub-pints-high-street-shopping/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.times-series.co.uk/news/national/19226718.england-embraces-return-hairdressers-pub-pints-high-street-shopping/" target="_blank"&gt;England embraces return of hairdressers, pub pints and high street shopping&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Times Series&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MjI2NTQzLmJhbGhhbS1wb3N0LW9mZmljZS1yZWxvY2F0ZXMtZm9ybWVyLXB1Yi1wcmVtaXNlcy_SAQA?oc=5</id>
     <title type="html">Balham Post Office relocates to former pub premises - Wandsworth Guardian</title>
     <updated>2021-04-12T11:00:34.000000000Z</updated>
@@ -254,6 +247,13 @@
     <updated>2021-04-12T07:29:00.000000000Z</updated>
     <link href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentonline.co.uk/news/national/in-pictures-back-to-the-gym-pub-pool-salon-and-shops-28276/" target="_blank"&gt;In Pictures: Back to the gym, pub, pool, salon and shops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBqvRUDwIDrjU7C82WnBOu4qGQgEKhAIACoHCAow0Ij8CjCRwIgDMMCBzAU?oc=5</id>
+    <title type="html">Brits flock to get their hair cut for the first time in months as salons reopen after midnight... - The Sun</title>
+    <updated>2021-04-11T23:48:00.000000000Z</updated>
+    <link href="https://www.thesun.co.uk/news/14619401/brits-flock-haircut-salons-reopen-midnight/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/news/14619401/brits-flock-haircut-salons-reopen-midnight/" target="_blank"&gt;Brits flock to get their hair cut for the first time in months as salons reopen after midnight...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
