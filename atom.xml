@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-13T09:55:23Z</updated>
+  <updated>2021-04-13T10:16:30Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1033mb, Humidity: 54%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1032mb, Humidity: 44%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-13T07:54:00.000+0000</id>
-    <published>2021-04-13T09:42:53Z</published>
-    <updated>2021-04-13T09:42:53Z</updated>
+    <published>2021-04-13T10:02:29Z</published>
+    <updated>2021-04-13T10:02:29Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-13T07:54:00.000+0000</id>
-    <published>2021-04-13T09:42:53Z</published>
-    <updated>2021-04-13T09:42:53Z</updated>
+    <published>2021-04-13T10:02:29Z</published>
+    <updated>2021-04-13T10:02:29Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-13T07:54:00.000+0000</id>
-    <published>2021-04-13T09:42:53Z</published>
-    <updated>2021-04-13T09:42:53Z</updated>
+    <published>2021-04-13T10:02:29Z</published>
+    <updated>2021-04-13T10:02:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmlyaXNocG9zdC5jb20vbmV3cy9wb2xpY2UtcmVncmV0LXNodXR0aW5nLWRvd24tZ29vZC1mcmlkYXktbWFzcy1zZXJ2aWNlLWluLWNhdGhvbGljLWNodXJjaC0yMDkyNzDSAQA?oc=5</id>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://news.google.com/articles/CBMiQmh0dHA6Ly93d3cuZGFpbHlhdmVudWUuY29tL2Zvb2QtZHJpbmsvYmVzdC1iZWVyLWdhcmRlbnMtaW4tbG9uZG9uL9IBRmh0dHA6Ly93d3cuZGFpbHlhdmVudWUuY29tL2Zvb2QtZHJpbmsvYmVzdC1iZWVyLWdhcmRlbnMtaW4tbG9uZG9uL2FtcC8?oc=5</id>
     <title type="html">Our guide to London’s Best Beer Gardens - Daily Avenue</title>
-    <updated>2021-04-12T21:09:31.000000000Z</updated>
+    <updated>2021-04-12T21:10:08.000000000Z</updated>
     <link href="http://www.dailyavenue.com/food-drink/best-beer-gardens-in-london/" type="text/html"/>
     <content type="html">&lt;a href="http://www.dailyavenue.com/food-drink/best-beer-gardens-in-london/" target="_blank"&gt;Our guide to London’s Best Beer Gardens&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Avenue&lt;/font&gt;</content>
   </entry>
