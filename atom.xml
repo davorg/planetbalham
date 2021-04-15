@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-15T23:16:29Z</updated>
+  <updated>2021-04-15T23:54:41Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (33°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 19:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-15T21:55:00.000+0000</id>
-    <published>2021-04-15T23:02:14Z</published>
-    <updated>2021-04-15T23:02:14Z</updated>
+    <published>2021-04-15T23:30:54Z</published>
+    <updated>2021-04-15T23:30:54Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-15T21:55:00.000+0000</id>
-    <published>2021-04-15T23:02:14Z</published>
-    <updated>2021-04-15T23:02:14Z</updated>
+    <published>2021-04-15T23:30:54Z</published>
+    <updated>2021-04-15T23:30:54Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1030mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-15T21:55:00.000+0000</id>
-    <published>2021-04-15T23:02:14Z</published>
-    <updated>2021-04-15T23:02:14Z</updated>
+    <published>2021-04-15T23:30:54Z</published>
+    <updated>2021-04-15T23:30:54Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5wcm9wZXJ0eWludmVzdG9ydG9kYXkuY28udWsvYnJlYWtpbmctbmV3cy8yMDIxLzQvaW52ZXN0bWVudC1vcHBvcnR1bml0eS0td2hhdC1uZXh0LWZvci10aGlzLXNvdXRoLWxvbmRvbi1icm93bmZpZWxkLXNpdGXSAQA?oc=5</id>
+    <title type="html">Investment opportunity - what next for this South London brownfield site? - Property Investor Today</title>
+    <updated>2021-04-15T23:07:57.000000000Z</updated>
+    <link href="https://www.propertyinvestortoday.co.uk/breaking-news/2021/4/investment-opportunity--what-next-for-this-south-london-brownfield-site" type="text/html"/>
+    <content type="html">&lt;a href="https://www.propertyinvestortoday.co.uk/breaking-news/2021/4/investment-opportunity--what-next-for-this-south-london-brownfield-site" target="_blank"&gt;Investment opportunity - what next for this South London brownfield site?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Property Investor Today&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigwFodHRwczovL3d3dy50aGV0YWJsZXQuY28udWsvY29sdW1uaXN0cy8zLzE5ODA0L2ktZG8tbm90LWJlbGlldmUtYXMtY2F0aG9saWNzLXdlLXNob3VsZC1iZS1hbi1leGNlcHRpb24tdG8tcnVsZXMtZGVzaWduZWQtZm9yLXNhZmV0edIBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-04-13T08:32:46.000000000Z</updated>
     <link href="https://www.irishpost.com/news/police-regret-shutting-down-good-friday-mass-service-in-catholic-church-209270" type="text/html"/>
     <content type="html">&lt;a href="https://www.irishpost.com/news/police-regret-shutting-down-good-friday-mass-service-in-catholic-church-209270" target="_blank"&gt;Police 'regret' shutting down Good Friday mass service in Catholic church&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Irish Post&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3Nob3BwaW5nL3Nob3Bsb25kb24vc2hvcC1sb25kb24tZm9vZC1kcmluay10YWtlYXdheS1yZXN0YXVyYW50cy1iOTI4NTQ2Lmh0bWzSAWtodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9zaG9wcGluZy9zaG9wbG9uZG9uL3Nob3AtbG9uZG9uLWZvb2QtZHJpbmstdGFrZWF3YXktcmVzdGF1cmFudHMtYjkyODU0Ni5odG1sP2FtcA?oc=5</id>
-    <title type="html">Shop London food and drink: Our editor picks of best restaurants to eat outdoors for the event - Evening Standard</title>
-    <updated>2021-04-13T08:01:53.000000000Z</updated>
-    <link href="https://www.standard.co.uk/shopping/shoplondon/shop-london-food-drink-takeaway-restaurants-b928546.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/shopping/shoplondon/shop-london-food-drink-takeaway-restaurants-b928546.html" target="_blank"&gt;Shop London food and drink: Our editor picks of best restaurants to eat outdoors for the event&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
