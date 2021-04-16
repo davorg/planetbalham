@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-16T03:56:46Z</updated>
+  <updated>2021-04-16T04:17:05Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 1°C (33°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 19:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: -2°C (29°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-15T21:55:00.000+0000</id>
-    <published>2021-04-16T03:33:52Z</published>
-    <updated>2021-04-16T03:33:52Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 11°C (52°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: -2°C (29°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-15T21:55:00.000+0000</id>
-    <published>2021-04-16T03:33:52Z</published>
-    <updated>2021-04-16T03:33:52Z</updated>
+    <published>2021-04-16T04:02:13Z</published>
+    <updated>2021-04-16T04:02:13Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 13°C (55°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1030mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-15T21:55:00.000+0000</id>
+    <published>2021-04-16T04:02:13Z</published>
+    <updated>2021-04-16T04:02:13Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1030mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 3°C (38°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-15T21:55:00.000+0000</id>
-    <published>2021-04-16T03:33:52Z</published>
-    <updated>2021-04-16T03:33:52Z</updated>
+    <published>2021-04-16T04:02:13Z</published>
+    <updated>2021-04-16T04:02:13Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5wcm9wZXJ0eWludmVzdG9ydG9kYXkuY28udWsvYnJlYWtpbmctbmV3cy8yMDIxLzQvaW52ZXN0bWVudC1vcHBvcnR1bml0eS0td2hhdC1uZXh0LWZvci10aGlzLXNvdXRoLWxvbmRvbi1icm93bmZpZWxkLXNpdGXSAQA?oc=5</id>
