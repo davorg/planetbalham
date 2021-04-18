@@ -7,41 +7,41 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-18T04:17:00Z</updated>
+  <updated>2021-04-18T04:57:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 2°C (35°F), Wind Direction: Easterly, Wind Speed: 3mph, Visibility: Good, Pressure: 1026mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1025mb, Humidity: 49%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-17T21:53:00.000+0000</id>
-    <published>2021-04-18T04:00:31Z</published>
-    <updated>2021-04-18T04:00:31Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 15°C (59°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1025mb, Humidity: 50%, UV Risk: 4, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:03 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-17T21:53:00.000+0000</id>
-    <published>2021-04-18T04:00:31Z</published>
-    <updated>2021-04-18T04:00:31Z</updated>
+    <published>2021-04-18T04:18:13Z</published>
+    <updated>2021-04-18T04:18:13Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 4°C (40°F) Maximum Temperature: 16°C (60°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 4°C (40°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 4°C (40°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:03 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-17T21:53:00.000+0000</id>
-    <published>2021-04-18T04:00:31Z</published>
-    <updated>2021-04-18T04:00:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-17T21:53:00.000+0000</id>
+    <published>2021-04-18T04:18:13Z</published>
+    <updated>2021-04-18T04:18:13Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3Lmh1ZmZpbmd0b25wb3N0LmNvLnVrL2VudHJ5L2NoYXJpdHktc2hvcHMtYmFyZ2FpbnMtcG9zdC1sb2NrZG93bl91a182MDc1NjZkMGU0YjAxZTMwNDIzNjA1ZTLSAWxodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5jby51ay9hbXAvZW50cnkvY2hhcml0eS1zaG9wcy1iYXJnYWlucy1wb3N0LWxvY2tkb3duX3VrXzYwNzU2NmQwZTRiMDFlMzA0MjM2MDVlMi8?oc=5</id>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1017mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:05 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-17T21:53:00.000+0000</id>
+    <published>2021-04-18T04:18:13Z</published>
+    <updated>2021-04-18T04:18:13Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEGROQJrDcFcetR5ryrZEiCAqFwgEKg8IACoHCAowmdW_BzCbhUcwy5Vr?oc=5</id>
     <title type="html">Our Favourite Charity Shop Finds From The First Week Back - HuffPost UK</title>
     <updated>2021-04-18T04:00:06.000000000Z</updated>
     <link href="https://www.huffingtonpost.co.uk/entry/charity-shops-bargains-post-lockdown_uk_607566d0e4b01e30423605e2" type="text/html"/>
