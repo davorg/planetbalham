@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-22T10:16:42Z</updated>
+  <updated>2021-04-22T10:54:27Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 1°C (33°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 1°C (33°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 1°C (33°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1027mb, Humidity: 42%, UV Risk: 4, Pollution: Low, Sunrise: 05:51 BST, Sunset: 20:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 1°C (33°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1027mb, Humidity: 43%, UV Risk: 4, Pollution: Low, Sunrise: 05:51 BST, Sunset: 20:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-22T07:57:00.000+0000</id>
-    <published>2021-04-22T10:02:27Z</published>
-    <updated>2021-04-22T10:02:27Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-22T09:54:00.000+0000</id>
+    <published>2021-04-22T10:48:33Z</published>
+    <updated>2021-04-22T10:48:33Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Friday: Sunny, Minimum Temperature: 5°C (40°F) Maximum Temperature: 16°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 54%, UV Risk: 5, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 54%, UV Risk: 5, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-22T07:57:00.000+0000</id>
-    <published>2021-04-22T10:02:27Z</published>
-    <updated>2021-04-22T10:02:27Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-22T09:54:00.000+0000</id>
+    <published>2021-04-22T10:48:33Z</published>
+    <updated>2021-04-22T10:48:33Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (56°F)</title>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (56°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:11 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-22T07:57:00.000+0000</id>
-    <published>2021-04-22T10:02:27Z</published>
-    <updated>2021-04-22T10:02:27Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-22T09:54:00.000+0000</id>
+    <published>2021-04-22T10:48:33Z</published>
+    <updated>2021-04-22T10:48:33Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDQvdGhlLWJhbGhhbS1zYWxlcy1tYXJrZXQtaXMtbW92aW5nLWZhc3TSAQA?oc=5</id>
+    <title type="html">the-balham-sales-market-is-moving-fast - Hitchin Daily PRSS</title>
+    <updated>2021-04-22T10:16:04.000000000Z</updated>
+    <link href="http://balham.localnewsie.co.uk/tabs/blog/2021/04/the-balham-sales-market-is-moving-fast" type="text/html"/>
+    <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2021/04/the-balham-sales-market-is-moving-fast" target="_blank"&gt;the-balham-sales-market-is-moving-fast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9zb3V0aC1sb25kb24tcmFpbHdheS11cGdyYWRlcy1hZmZlY3Rpbmctd2Vla2VuZC10cmF2ZWwtaW4tbWF5L9IBAA?oc=5</id>
@@ -53,13 +60,6 @@
     <updated>2021-04-21T06:49:44.000000000Z</updated>
     <link href="https://www.upscalelivingmag.com/merser-market-row-rum-reviving-the-art-tradition/" type="text/html"/>
     <content type="html">&lt;a href="https://www.upscalelivingmag.com/merser-market-row-rum-reviving-the-art-tradition/" target="_blank"&gt;Merser &amp; Market Row Rum, Reviving the Art &amp; Tradition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Upscale Living Magazine&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiKmh0dHBzOi8vb3Rha3VrYXJ0LmNvbS93aG8taXMtc3VzYW5uYS1yZWlkL9IBAA?oc=5</id>
-    <title type="html">Who is Susanna Reid, The Host of Good Morning Britain? - OtakuKart</title>
-    <updated>2021-04-20T19:57:24.000000000Z</updated>
-    <link href="https://otakukart.com/who-is-susanna-reid/" type="text/html"/>
-    <content type="html">&lt;a href="https://otakukart.com/who-is-susanna-reid/" target="_blank"&gt;Who is Susanna Reid, The Host of Good Morning Britain?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;OtakuKart&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1waXp6YS1nb2RzLWhhdmUtYmVlbi1raW5kLXRvLXNvdXRoLWxvbmRvbi0wNDIwMjHSAQA?oc=5</id>
