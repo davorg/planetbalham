@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-23T13:53:07Z</updated>
+  <updated>2021-04-23T14:16:45Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1028mb, Humidity: 33%, UV Risk: 4, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 35%, UV Risk: 4, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-23T09:56:00.000+0000</id>
-    <published>2021-04-23T13:12:51Z</published>
-    <updated>2021-04-23T13:12:51Z</updated>
+    <published>2021-04-23T14:15:48Z</published>
+    <updated>2021-04-23T14:15:48Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 5°C (42°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 5°C (42°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 58%, UV Risk: 6, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-23T09:56:00.000+0000</id>
-    <published>2021-04-23T13:12:51Z</published>
-    <updated>2021-04-23T13:12:51Z</updated>
+    <published>2021-04-23T14:15:48Z</published>
+    <updated>2021-04-23T14:15:48Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1029mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 05:45 BST, Sunset: 20:13 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-23T09:56:00.000+0000</id>
-    <published>2021-04-23T13:12:51Z</published>
-    <updated>2021-04-23T13:12:51Z</updated>
+    <published>2021-04-23T14:15:48Z</published>
+    <updated>2021-04-23T14:15:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L2Zvb3RiYWxsL2lwc3dpY2gtdG93bi12LWFmYy13aW1ibGVkb24tdGVhbS1hbmQtaW5qdXJ5LW5ld3Mtc3RhdHMtYW5kLWhvdy10by13YXRjaC10aGUtZ2FtZS9hci1CQjFmWEtvR9IBAA?oc=5</id>
@@ -64,16 +64,16 @@
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9zb3V0aC1sb25kb24tcmFpbHdheS11cGdyYWRlcy1hZmZlY3Rpbmctd2Vla2VuZC10cmF2ZWwtaW4tbWF5L9IBAA?oc=5</id>
     <title type="html">South London railway upgrades affecting weekend travel in May - In Your Area</title>
-    <updated>2021-04-22T06:01:19.000000000Z</updated>
+    <updated>2021-04-22T06:05:13.000000000Z</updated>
     <link href="https://www.inyourarea.co.uk/news/south-london-railway-upgrades-affecting-weekend-travel-in-may/" type="text/html"/>
     <content type="html">&lt;a href="https://www.inyourarea.co.uk/news/south-london-railway-upgrades-affecting-weekend-travel-in-may/" target="_blank"&gt;South London railway upgrades affecting weekend travel in May&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;In Your Area&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEEfQQZ8ljxo7kzoZbtLy3zQqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Over three months to test all Tooting residents for South African variant - South West Londoner</title>
-    <updated>2021-04-20T10:29:00.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/20042021-over-three-months-to-test-all-tooting-residents-for-south-african-variant/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/20042021-over-three-months-to-test-all-tooting-residents-for-south-african-variant/" target="_blank"&gt;Over three months to test all Tooting residents for South African variant&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1waXp6YS1nb2RzLWhhdmUtYmVlbi1raW5kLXRvLXNvdXRoLWxvbmRvbi0wNDIwMjHSAQA?oc=5</id>
+    <title type="html">Three new pizza joints are coming to south London - Time Out London</title>
+    <updated>2021-04-20T10:46:32.000000000Z</updated>
+    <link href="https://www.timeout.com/london/news/the-pizza-gods-have-been-kind-to-south-london-042021" type="text/html"/>
+    <content type="html">&lt;a href="https://www.timeout.com/london/news/the-pizza-gods-have-been-kind-to-south-london-042021" target="_blank"&gt;Three new pizza joints are coming to south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
