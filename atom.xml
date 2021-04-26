@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-26T07:17:14Z</updated>
+  <updated>2021-04-26T07:52:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -41,11 +41,25 @@
     <updated>2021-04-26T07:08:52Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEAn4BQcsEHZzUNwF-RGgKcsqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
-    <title type="html">Hunt for man who ‘tried to lure boy, 6, into van with sweets’ - Metro.co.uk</title>
-    <updated>2021-04-26T06:54:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" target="_blank"&gt;Hunt for man who ‘tried to lure boy, 6, into van with sweets’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3BvbGljZS1pbnZlc3RpZ2F0ZS1zdXNwZWN0ZWQtYXR0ZW1wdGVkLWFiZHVjdGlvbi0wNzA4Mzg0NjIuaHRtbNIBaGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcG9saWNlLWludmVzdGlnYXRlLXN1c3BlY3RlZC1hdHRlbXB0ZWQtYWJkdWN0aW9uLTA3MDgzODQ2Mi5odG1s?oc=5</id>
+    <title type="html">Police investigate suspected attempted abduction of six-year-old boy in Balham - Yahoo Eurosport UK</title>
+    <updated>2021-04-26T07:08:38.000000000Z</updated>
+    <link href="https://uk.sports.yahoo.com/news/police-investigate-suspected-attempted-abduction-070838462.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/police-investigate-suspected-attempted-abduction-070838462.html" target="_blank"&gt;Police investigate suspected attempted abduction of six-year-old boy in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9zaGFyZS1idXktYmFjay1wcm9ncmFtLTA3MDgwMDMxOC5odG1s0gFPaHR0cHM6Ly91ay5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3Mvc2hhcmUtYnV5LWJhY2stcHJvZ3JhbS0wNzA4MDAzMTguaHRtbA?oc=5</id>
+    <title type="html">Share buy-back Program - Yahoo Finance UK</title>
+    <updated>2021-04-26T07:08:00.000000000Z</updated>
+    <link href="https://uk.finance.yahoo.com/news/share-buy-back-program-070800318.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.finance.yahoo.com/news/share-buy-back-program-070800318.html" target="_blank"&gt;Share buy-back Program&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9wcmVsaW1pbmFyeS1kYXRhLWVhcmx5LXJlZGVtcHRpb25zLXByZXBheW1lbnRzLTA3MDcwMDAxNy5odG1s0gFnaHR0cHM6Ly91ay5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcHJlbGltaW5hcnktZGF0YS1lYXJseS1yZWRlbXB0aW9ucy1wcmVwYXltZW50cy0wNzA3MDAwMTcuaHRtbA?oc=5</id>
+    <title type="html">Preliminary data on early redemptions (prepayments) - Yahoo Finance UK</title>
+    <updated>2021-04-26T07:07:00.000000000Z</updated>
+    <link href="https://uk.finance.yahoo.com/news/preliminary-data-early-redemptions-prepayments-070700017.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.finance.yahoo.com/news/preliminary-data-early-redemptions-prepayments-070700017.html" target="_blank"&gt;Preliminary data on early redemptions (prepayments)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2luZGVwZW5kZW50cHJlbWl1bS93b3JraW5nLWZyb20taG9tZS1zb2NpYWwtbWVkaWEtYjE4MzM5MjAuaHRtbNIBAA?oc=5</id>
@@ -94,20 +108,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L2Zvb3RiYWxsL2lwc3dpY2gtdG93bi12LWFmYy13aW1ibGVkb24tdGVhbS1hbmQtaW5qdXJ5LW5ld3Mtc3RhdHMtYW5kLWhvdy10by13YXRjaC10aGUtZ2FtZS9hci1CQjFmWEtvR9IBAA?oc=5</id>
-    <title type="html">Ipswich Town v AFC Wimbledon: Team and injury news, stats and how to watch the game - MSN UK</title>
-    <updated>2021-04-23T08:36:31.000000000Z</updated>
-    <link href="https://www.msn.com/en-gb/sport/football/ipswich-town-v-afc-wimbledon-team-and-injury-news-stats-and-how-to-watch-the-game/ar-BB1fXKoG" type="text/html"/>
-    <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/ipswich-town-v-afc-wimbledon-team-and-injury-news-stats-and-how-to-watch-the-game/ar-BB1fXKoG" target="_blank"&gt;Ipswich Town v AFC Wimbledon: Team and injury news, stats and how to watch the game&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1waXp6YS1nb2RzLWhhdmUtYmVlbi1raW5kLXRvLXNvdXRoLWxvbmRvbi0wNDIwMjHSAQA?oc=5</id>
-    <title type="html">Three new pizza joints are coming to south London - Time Out London</title>
-    <updated>2021-04-20T10:46:32.000000000Z</updated>
-    <link href="https://www.timeout.com/london/news/the-pizza-gods-have-been-kind-to-south-london-042021" type="text/html"/>
-    <content type="html">&lt;a href="https://www.timeout.com/london/news/the-pizza-gods-have-been-kind-to-south-london-042021" target="_blank"&gt;Three new pizza joints are coming to south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51111449506/"/>
