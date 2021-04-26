@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-26T15:16:36Z</updated>
+  <updated>2021-04-26T15:56:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -41,6 +41,13 @@
     <updated>2021-04-26T15:13:39Z</updated>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdGFsa2luZy1wb2ludC10aGluay1uZWVkcy1kb25lLTE0NTM1MjQ2Ni5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3RhbGtpbmctcG9pbnQtdGhpbmstbmVlZHMtZG9uZS0xNDUzNTI0NjYuaHRtbA?oc=5</id>
+    <title type="html">Talking Point: What do you think needs to be done about crime in London? - Yahoo News UK</title>
+    <updated>2021-04-26T14:53:52.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/talking-point-think-needs-done-145352466.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/talking-point-think-needs-done-145352466.html" target="_blank"&gt;Talking Point: What do you think needs to be done about crime in London?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wNC8yNi90cmFtcy1tb3N0LXBlY3VsaWFyLXNlYXNvbi1jb21lcy10by1maXR0aW5nLWVuZC1pbi1wZWNraGFtL9IBZGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wNC8yNi90cmFtcy1tb3N0LXBlY3VsaWFyLXNlYXNvbi1jb21lcy10by1maXR0aW5nLWVuZC1pbi1wZWNraGFtL2FtcC8?oc=5</id>
     <title type="html">Trams’ most peculiar season comes to fitting end in Peckham - Inside Croydon</title>
     <updated>2021-04-26T11:06:13.000000000Z</updated>
@@ -55,25 +62,18 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/putin-assad-discuss-supplies-russian-110040654.html" target="_blank"&gt;Putin, Assad discuss supplies of Russian COVID-19 vaccine to Syria - Kremlin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vd2Fsay1pbnMtYWxsb3dlZC1jb29rLWNvdW50eS0xMDUzMzkwNDguaHRtbNIBTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC93YWxrLWlucy1hbGxvd2VkLWNvb2stY291bnR5LTEwNTMzOTA0OC5odG1s?oc=5</id>
+    <title type="html">Walk-Ins Will Be Allowed At All Cook County COVID-19 Vaccination Sites Starting Monday - Yahoo News UK</title>
+    <updated>2021-04-26T10:53:39.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/walk-ins-allowed-cook-county-105339048.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/walk-ins-allowed-cook-county-105339048.html" target="_blank"&gt;Walk-Ins Will Be Allowed At All Cook County COVID-19 Vaccination Sites Starting Monday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaW5kaWFzLW94eWdlbi1leHByZXNzLWRlbGl2ZXJzLXN1cHBseS0xMDM3NDYyMzguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9pbmRpYXMtb3h5Z2VuLWV4cHJlc3MtZGVsaXZlcnMtc3VwcGx5LTEwMzc0NjIzOC5odG1s?oc=5</id>
     <title type="html">India's 'Oxygen Express' Delivers Supply as COVID-Hit Hospitals Run Low - Yahoo News UK</title>
     <updated>2021-04-26T10:37:46.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/indias-oxygen-express-delivers-supply-103746238.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/indias-oxygen-express-delivers-supply-103746238.html" target="_blank"&gt;India's 'Oxygen Express' Delivers Supply as COVID-Hit Hospitals Run Low&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MjU4ODEyLnlhcmQtc2FsZS1waXp6YS1sYXVuY2hlcy1iYWxoYW0tc3BlY2lhbC1vZmZlci_SAQA?oc=5</id>
-    <title type="html">Yard Sale Pizza launches in Balham with special offer - Wandsworth Guardian</title>
-    <updated>2021-04-26T09:46:04.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19258812.yard-sale-pizza-launches-balham-special-offer/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19258812.yard-sale-pizza-launches-balham-special-offer/" target="_blank"&gt;Yard Sale Pizza launches in Balham with special offer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAn4BQcsEHZzUNwF-RGgKcsqGQgEKhAIACoHCAowzc-JCzDQ5psDMLyzrQY?oc=5</id>
-    <title type="html">Balham: Hunt for man who 'tried to lure boy, 6, into van with sweets' - Metro.co.uk</title>
-    <updated>2021-04-26T06:54:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" target="_blank"&gt;Balham: Hunt for man who 'tried to lure boy, 6, into van with sweets'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SEN40 | LX09 FLW | 315 to Balham</title>
