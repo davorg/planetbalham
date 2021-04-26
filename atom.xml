@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-26T21:16:33Z</updated>
+  <updated>2021-04-26T21:53:20Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 2°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (35°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunset: 20:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (35°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunset: 20:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-26T19:58:00.000+0000</id>
-    <published>2021-04-26T21:02:33Z</published>
-    <updated>2021-04-26T21:02:33Z</updated>
+    <published>2021-04-26T21:18:49Z</published>
+    <updated>2021-04-26T21:18:49Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-26T19:58:00.000+0000</id>
-    <published>2021-04-26T21:02:33Z</published>
-    <updated>2021-04-26T21:02:33Z</updated>
+    <published>2021-04-26T21:18:49Z</published>
+    <updated>2021-04-26T21:18:49Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-26T19:58:00.000+0000</id>
-    <published>2021-04-26T21:02:33Z</published>
-    <updated>2021-04-26T21:02:33Z</updated>
+    <published>2021-04-26T21:18:49Z</published>
+    <updated>2021-04-26T21:18:49Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdG9wLWNpdmlsLXNlcnZhbnQtcmV2aWV3LWZ1bmRpbmctMjExMjAwNjIyLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvdG9wLWNpdmlsLXNlcnZhbnQtcmV2aWV3LWZ1bmRpbmctMjExMjAwNjIyLmh0bWw?oc=5</id>
+    <title type="html">Top civil servant to review funding of refurbishment of Boris Johnson's Downing Street flat - Yahoo News UK</title>
+    <updated>2021-04-26T21:12:00.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/top-civil-servant-review-funding-211200622.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/top-civil-servant-review-funding-211200622.html" target="_blank"&gt;Top civil servant to review funding of refurbishment of Boris Johnson's Downing Street flat&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZ3JhY2Utc25lYWstcGVlay1idWxscGVuLTE3NTUwMDk4NC5odG1s0gFJaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2dyYWNlLXNuZWFrLXBlZWstYnVsbHBlbi0xNzU1MDA5ODQuaHRtbA?oc=5</id>
@@ -55,25 +62,18 @@
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/26042021-dementia-friendly-minibus-stolen-from-wandsworth-charity-for-elderly/" target="_blank"&gt;Dementia-friendly minibus stolen from Wandsworth charity for elderly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdGFsa2luZy1wb2ludC10aGluay1uZWVkcy1kb25lLTE0NTM1MjQ2Ni5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3RhbGtpbmctcG9pbnQtdGhpbmstbmVlZHMtZG9uZS0xNDUzNTI0NjYuaHRtbA?oc=5</id>
-    <title type="html">Talking Point: What do you think needs to be done about crime in London? - Yahoo News UK</title>
-    <updated>2021-04-26T14:53:52.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/talking-point-think-needs-done-145352466.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/talking-point-think-needs-done-145352466.html" target="_blank"&gt;Talking Point: What do you think needs to be done about crime in London?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm91ci1icm9ueC1zeW5hZ29ndWVzLXZhbmRhbGl6ZWQtbG9jYWwtMTUxMDUzNzY3Lmh0bWzSAVdodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZm91ci1icm9ueC1zeW5hZ29ndWVzLXZhbmRhbGl6ZWQtbG9jYWwtMTUxMDUzNzY3Lmh0bWw?oc=5</id>
+    <title type="html">Four Bronx synagogues vandalized -local reports - Yahoo News UK</title>
+    <updated>2021-04-26T15:10:53.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/four-bronx-synagogues-vandalized-local-151053767.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/four-bronx-synagogues-vandalized-local-151053767.html" target="_blank"&gt;Four Bronx synagogues vandalized -local reports&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy50aGlzaXNsb2NhbGxvbmRvbi5jby51ay95b3VuZ3JlcG9ydGVyLzE5MjU5NzEzLnNoYXJlLWNhcmUtY29sbGVjdGl2ZS1icmlnaHRlbmluZy1jb21tdW5pdHktcGFuZGVtaWMtLS1yZWJlY2NhLW5lbG1lcy1zdGNzL9IBAA?oc=5</id>
-    <title type="html">Share and Care Collective: Bringing light into a community during a pandemic - This is Local London</title>
-    <updated>2021-04-26T14:10:16.000000000Z</updated>
-    <link href="https://www.thisislocallondon.co.uk/youngreporter/19259713.share-care-collective-brightening-community-pandemic---rebecca-nelmes-stcs/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/youngreporter/19259713.share-care-collective-brightening-community-pandemic---rebecca-nelmes-stcs/" target="_blank"&gt;Share and Care Collective: Bringing light into a community during a pandemic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wNC8yNi90cmFtcy1tb3N0LXBlY3VsaWFyLXNlYXNvbi1jb21lcy10by1maXR0aW5nLWVuZC1pbi1wZWNraGFtL9IBZGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wNC8yNi90cmFtcy1tb3N0LXBlY3VsaWFyLXNlYXNvbi1jb21lcy10by1maXR0aW5nLWVuZC1pbi1wZWNraGFtL2FtcC8?oc=5</id>
-    <title type="html">Trams’ most peculiar season comes to fitting end in Peckham - Inside Croydon</title>
-    <updated>2021-04-26T11:06:13.000000000Z</updated>
-    <link href="https://insidecroydon.com/2021/04/26/trams-most-peculiar-season-comes-to-fitting-end-in-peckham/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidecroydon.com/2021/04/26/trams-most-peculiar-season-comes-to-fitting-end-in-peckham/" target="_blank"&gt;Trams’ most peculiar season comes to fitting end in Peckham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb3R0b21hbi1zdHlsZS1wcm90ZXN0LWRlbm91bmNlLXUtMTUwMzU1NzYyLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvb3R0b21hbi1zdHlsZS1wcm90ZXN0LWRlbm91bmNlLXUtMTUwMzU1NzYyLmh0bWw?oc=5</id>
+    <title type="html">Ottoman-style protest to denounce U.S. genocide statement - Yahoo News UK</title>
+    <updated>2021-04-26T15:03:55.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/ottoman-style-protest-denounce-u-150355762.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/ottoman-style-protest-denounce-u-150355762.html" target="_blank"&gt;Ottoman-style protest to denounce U.S. genocide statement&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SEN40 | LX09 FLW | 315 to Balham</title>
