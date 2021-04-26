@@ -7,23 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-26T06:58:08Z</updated>
+  <updated>2021-04-26T07:17:14Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMS8wNC8yNi9iYWxoYW0taHVudC1mb3ItbWFuLXdoby10cmllZC10by1sdXJlLWJveS02LWludG8tdmFuLXdpdGgtc3dlZXRzLTE0NDcyNDQ2L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMS8wNC8yNi9iYWxoYW0taHVudC1mb3ItbWFuLXdoby10cmllZC10by1sdXJlLWJveS02LWludG8tdmFuLXdpdGgtc3dlZXRzLTE0NDcyNDQ2L2FtcC8?oc=5</id>
-    <title type="html">Hunt for man who ‘tried to lure boy, 6, into van with sweets’ - Metro</title>
-    <updated>2021-04-26T06:54:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" target="_blank"&gt;Hunt for man who ‘tried to lure boy, 6, into van with sweets’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBVgDqZkw_bRkO29_U9DwUoqGQgEKhAIACoHCAowzuOICzCZ4ocDMKmaowY?oc=5</id>
-    <title type="html">Police launch attempted abduction probe after 'stranger told boy, six, he had sweets in his van' - Daily Mail</title>
-    <updated>2021-04-26T06:45:43.000000000Z</updated>
-    <link href="https://www.dailymail.co.uk/news/article-9511471/Police-launch-attempted-abduction-probe-stranger-told-boy-six-sweets-van.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9511471/Police-launch-attempted-abduction-probe-stranger-told-boy-six-sweets-van.html" target="_blank"&gt;Police launch attempted abduction probe after 'stranger told boy, six, he had sweets in his van'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -31,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 53%, UV Risk: 5, Pollution: Low, Sunrise: 05:43 BST, Sunset: 20:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-25T21:56:00.000+0000</id>
-    <published>2021-04-26T06:07:48Z</published>
-    <updated>2021-04-26T06:07:48Z</updated>
+    <published>2021-04-26T07:08:52Z</published>
+    <updated>2021-04-26T07:08:52Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 16°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 5°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-25T21:56:00.000+0000</id>
-    <published>2021-04-26T06:07:48Z</published>
-    <updated>2021-04-26T06:07:48Z</updated>
+    <published>2021-04-26T07:08:52Z</published>
+    <updated>2021-04-26T07:08:52Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 14°C (58°F)</title>
@@ -51,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1005mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-25T21:56:00.000+0000</id>
-    <published>2021-04-26T06:07:48Z</published>
-    <updated>2021-04-26T06:07:48Z</updated>
+    <published>2021-04-26T07:08:52Z</published>
+    <updated>2021-04-26T07:08:52Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAn4BQcsEHZzUNwF-RGgKcsqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
+    <title type="html">Hunt for man who ‘tried to lure boy, 6, into van with sweets’ - Metro.co.uk</title>
+    <updated>2021-04-26T06:54:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/04/26/balham-hunt-for-man-who-tried-to-lure-boy-6-into-van-with-sweets-14472446/" target="_blank"&gt;Hunt for man who ‘tried to lure boy, 6, into van with sweets’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2luZGVwZW5kZW50cHJlbWl1bS93b3JraW5nLWZyb20taG9tZS1zb2NpYWwtbWVkaWEtYjE4MzM5MjAuaHRtbNIBAA?oc=5</id>
@@ -107,6 +100,13 @@
     <updated>2021-04-23T08:36:31.000000000Z</updated>
     <link href="https://www.msn.com/en-gb/sport/football/ipswich-town-v-afc-wimbledon-team-and-injury-news-stats-and-how-to-watch-the-game/ar-BB1fXKoG" type="text/html"/>
     <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/ipswich-town-v-afc-wimbledon-team-and-injury-news-stats-and-how-to-watch-the-game/ar-BB1fXKoG" target="_blank"&gt;Ipswich Town v AFC Wimbledon: Team and injury news, stats and how to watch the game&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1waXp6YS1nb2RzLWhhdmUtYmVlbi1raW5kLXRvLXNvdXRoLWxvbmRvbi0wNDIwMjHSAQA?oc=5</id>
+    <title type="html">Three new pizza joints are coming to south London - Time Out London</title>
+    <updated>2021-04-20T10:46:32.000000000Z</updated>
+    <link href="https://www.timeout.com/london/news/the-pizza-gods-have-been-kind-to-south-london-042021" type="text/html"/>
+    <content type="html">&lt;a href="https://www.timeout.com/london/news/the-pizza-gods-have-been-kind-to-south-london-042021" target="_blank"&gt;Three new pizza joints are coming to south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
