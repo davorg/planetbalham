@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-27T01:12:33Z</updated>
+  <updated>2021-04-27T02:12:49Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1014mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1014mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T01:01:10Z</published>
-    <updated>2021-04-27T01:01:10Z</updated>
+    <published>2021-04-27T02:01:34Z</published>
+    <updated>2021-04-27T02:01:34Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T01:01:10Z</published>
-    <updated>2021-04-27T01:01:10Z</updated>
+    <published>2021-04-27T02:01:34Z</published>
+    <updated>2021-04-27T02:01:34Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T01:01:10Z</published>
-    <updated>2021-04-27T01:01:10Z</updated>
+    <published>2021-04-27T02:01:34Z</published>
+    <updated>2021-04-27T02:01:34Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbW9iaWxlLWNvdmlkLXZhY2NpbmUtYnVzLXNldHMtMjMxNDIwMzU3Lmh0bWzSAU5odHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvbW9iaWxlLWNvdmlkLXZhY2NpbmUtYnVzLXNldHMtMjMxNDIwMzU3Lmh0bWw?oc=5</id>
+    <title type="html">Mobile COVID Vaccine Bus Sets Up In Summit County - Yahoo News UK</title>
+    <updated>2021-04-27T01:27:24.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/mobile-covid-vaccine-bus-sets-231420357.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/mobile-covid-vaccine-bus-sets-231420357.html" target="_blank"&gt;Mobile COVID Vaccine Bus Sets Up In Summit County&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYWlybGluZS1iYW5zLWFsYXNrYS1zZW5hdG9yLWxvcmEtMDEwMjI0ODQ5Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYWlybGluZS1iYW5zLWFsYXNrYS1zZW5hdG9yLWxvcmEtMDEwMjI0ODQ5Lmh0bWw?oc=5</id>
+    <title type="html">Airline Bans Alaska Senator Lora Reinbold for Violating COVID-19 Mask Policy - Yahoo News UK</title>
+    <updated>2021-04-27T01:02:24.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/airline-bans-alaska-senator-lora-010224849.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/airline-bans-alaska-senator-lora-010224849.html" target="_blank"&gt;Airline Bans Alaska Senator Lora Reinbold for Violating COVID-19 Mask Policy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaG9tZS1yb2JlcnRzb25zLXN0YXJzLW5mbC1wcm90ZXN0cy0yMzU1MzAzMDYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ob21lLXJvYmVydHNvbnMtc3RhcnMtbmZsLXByb3Rlc3RzLTIzNTUzMDMwNi5odG1s?oc=5</id>
@@ -48,25 +62,11 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/home-robertsons-stars-nfl-protests-235530306.html" target="_blank"&gt;‘At Home with the Robertsons’ stars take on NFL protests: ‘Just feels a little un-American’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdS1wbGVkZ2VzLW1vcmUtc3VwcG9ydC1jZW50cmFsLTIzMzMyNzQ0Ny5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3UtcGxlZGdlcy1tb3JlLXN1cHBvcnQtY2VudHJhbC0yMzMzMjc0NDcuaHRtbA?oc=5</id>
-    <title type="html">U.S. pledges more support to Central America - Yahoo News UK</title>
-    <updated>2021-04-26T23:45:41.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" target="_blank"&gt;U.S. pledges more support to Central America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcG9wLWZhbnMtYmlkZW4ta2lkcy1ncmFuZGNoaWxkcmVuLTIzMDUyOTg1MS5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3BvcC1mYW5zLWJpZGVuLWtpZHMtZ3JhbmRjaGlsZHJlbi0yMzA1Mjk4NTEuaHRtbA?oc=5</id>
-    <title type="html">'Pop' fans: Biden kids, grandchildren prominent part of White House scene - Yahoo News UK</title>
-    <updated>2021-04-26T23:16:43.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/pop-fans-biden-kids-grandchildren-230529851.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/pop-fans-biden-kids-grandchildren-230529851.html" target="_blank"&gt;'Pop' fans: Biden kids, grandchildren prominent part of White House scene&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZG9qLWFubm91bmNlcy1wcm9iZS1sb3Vpc3ZpbGxlLW1ldHJvLTIyNTIxOTgzNS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2Rvai1hbm5vdW5jZXMtcHJvYmUtbG91aXN2aWxsZS1tZXRyby0yMjUyMTk4MzUuaHRtbA?oc=5</id>
-    <title type="html">DOJ announces probe into Louisville Metro Police Department - Yahoo News UK</title>
-    <updated>2021-04-26T22:52:19.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/doj-announces-probe-louisville-metro-225219835.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/doj-announces-probe-louisville-metro-225219835.html" target="_blank"&gt;DOJ announces probe into Louisville Metro Police Department&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdS1hbm5vdW5jZXMtMzEwLW1pbGxpb24taHVtYW5pdGFyaWFuLTAwMjEwMzA5NC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3UtYW5ub3VuY2VzLTMxMC1taWxsaW9uLWh1bWFuaXRhcmlhbi0wMDIxMDMwOTQuaHRtbA?oc=5</id>
+    <title type="html">U.S. announces $310 million in humanitarian, food aid to Guatemala, Honduras, El Salvador - Yahoo News UK</title>
+    <updated>2021-04-27T00:21:03.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/u-announces-310-million-humanitarian-002103094.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/u-announces-310-million-humanitarian-002103094.html" target="_blank"&gt;U.S. announces $310 million in humanitarian, food aid to Guatemala, Honduras, El Salvador&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaXJhbi1mb3JlaWduLW1pbmlzdGVyLWNsYWltcy1qb2huLTIyMTk0ODQ4NS5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2lyYW4tZm9yZWlnbi1taW5pc3Rlci1jbGFpbXMtam9obi0yMjE5NDg0ODUuaHRtbA?oc=5</id>
