@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-27T04:17:01Z</updated>
+  <updated>2021-04-27T04:57:21Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 16°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T04:01:41Z</published>
-    <updated>2021-04-27T04:01:41Z</updated>
+    <published>2021-04-27T04:29:49Z</published>
+    <updated>2021-04-27T04:29:49Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T04:01:41Z</published>
-    <updated>2021-04-27T04:01:41Z</updated>
+    <published>2021-04-27T04:29:49Z</published>
+    <updated>2021-04-27T04:29:49Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (38°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1011mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T04:01:41Z</published>
-    <updated>2021-04-27T04:01:41Z</updated>
+    <published>2021-04-27T04:29:49Z</published>
+    <updated>2021-04-27T04:29:49Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbXlhbm1hcnMtanVudGEtcG9zaXRpdmVseS1jb25zaWRlci1hc2Vhbi0wNDI0Mzc1ODMuaHRtbNIBWWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9teWFubWFycy1qdW50YS1wb3NpdGl2ZWx5LWNvbnNpZGVyLWFzZWFuLTA0MjQzNzU4My5odG1s?oc=5</id>
+    <title type="html">Myanmar's junta to 'positively' consider ASEAN suggestion on ending crisis - Yahoo News UK</title>
+    <updated>2021-04-27T04:24:37.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/myanmars-junta-positively-consider-asean-042437583.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/myanmars-junta-positively-consider-asean-042437583.html" target="_blank"&gt;Myanmar's junta to 'positively' consider ASEAN suggestion on ending crisis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmVsZWFzZS10YXBlLXByb3Rlc3RlcnMtbWFyY2gtZWxpemFiZXRoLTA0MjQwMzE5Mi5odG1s0gFYaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3JlbGVhc2UtdGFwZS1wcm90ZXN0ZXJzLW1hcmNoLWVsaXphYmV0aC0wNDI0MDMxOTIuaHRtbA?oc=5</id>
+    <title type="html">'Release the Tape': Protesters March in Elizabeth City After Family of Andrew Brown Jr Shown Video of Police Shooting - Yahoo News UK</title>
+    <updated>2021-04-27T04:24:03.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/release-tape-protesters-march-elizabeth-042403192.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/release-tape-protesters-march-elizabeth-042403192.html" target="_blank"&gt;'Release the Tape': Protesters March in Elizabeth City After Family of Andrew Brown Jr Shown Video of Police Shooting&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaW5ncmFoYW0tbGVmdHMtYW50aS1wb2xpY2UtYWdlbmRhLTAyMzUyNTc4My5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2luZ3JhaGFtLWxlZnRzLWFudGktcG9saWNlLWFnZW5kYS0wMjM1MjU3ODMuaHRtbA?oc=5</id>
@@ -55,25 +69,11 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/airline-bans-alaska-senator-lora-010224849.html" target="_blank"&gt;Airline Bans Alaska Senator Lora Reinbold for Violating COVID-19 Mask Policy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaG9tZS1yb2JlcnRzb25zLXN0YXJzLW5mbC1wcm90ZXN0cy0yMzU1MzAzMDYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ob21lLXJvYmVydHNvbnMtc3RhcnMtbmZsLXByb3Rlc3RzLTIzNTUzMDMwNi5odG1s?oc=5</id>
-    <title type="html">‘At Home with the Robertsons’ stars take on NFL protests: ‘Just feels a little un-American’ - Yahoo News UK</title>
-    <updated>2021-04-27T00:23:10.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/home-robertsons-stars-nfl-protests-235530306.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/home-robertsons-stars-nfl-protests-235530306.html" target="_blank"&gt;‘At Home with the Robertsons’ stars take on NFL protests: ‘Just feels a little un-American’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdS1hbm5vdW5jZXMtMzEwLW1pbGxpb24taHVtYW5pdGFyaWFuLTAwMjEwMzA5NC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3UtYW5ub3VuY2VzLTMxMC1taWxsaW9uLWh1bWFuaXRhcmlhbi0wMDIxMDMwOTQuaHRtbA?oc=5</id>
-    <title type="html">U.S. announces $310 million in humanitarian, food aid to Guatemala, Honduras, El Salvador - Yahoo News UK</title>
-    <updated>2021-04-27T00:21:03.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/u-announces-310-million-humanitarian-002103094.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/u-announces-310-million-humanitarian-002103094.html" target="_blank"&gt;U.S. announces $310 million in humanitarian, food aid to Guatemala, Honduras, El Salvador&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdS1wbGVkZ2VzLW1vcmUtc3VwcG9ydC1jZW50cmFsLTIzMzMyNzQ0Ny5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3UtcGxlZGdlcy1tb3JlLXN1cHBvcnQtY2VudHJhbC0yMzMzMjc0NDcuaHRtbA?oc=5</id>
-    <title type="html">U.S. pledges more support to Central America - Yahoo News UK</title>
-    <updated>2021-04-26T23:45:38.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" target="_blank"&gt;U.S. pledges more support to Central America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWlyYW5kYS1kZXZpbmUtY3VsdC1mYXVjaS1kYW1hZ2luZy0wMDQ0MjIyNzUuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9taXJhbmRhLWRldmluZS1jdWx0LWZhdWNpLWRhbWFnaW5nLTAwNDQyMjI3NS5odG1s?oc=5</id>
+    <title type="html">Miranda Devine: 'Cult of Fauci' is damaging America - Yahoo News UK</title>
+    <updated>2021-04-27T00:44:22.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/miranda-devine-cult-fauci-damaging-004422275.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/miranda-devine-cult-fauci-damaging-004422275.html" target="_blank"&gt;Miranda Devine: 'Cult of Fauci' is damaging America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SEN40 | LX09 FLW | 315 to Balham</title>
