@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-26T23:54:52Z</updated>
+  <updated>2021-04-27T00:26:18Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1015mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-26T23:23:18Z</published>
-    <updated>2021-04-26T23:23:18Z</updated>
+    <published>2021-04-27T00:24:37Z</published>
+    <updated>2021-04-27T00:24:37Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-26T23:23:18Z</published>
-    <updated>2021-04-26T23:23:18Z</updated>
+    <published>2021-04-27T00:24:37Z</published>
+    <updated>2021-04-27T00:24:37Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-26T23:23:18Z</published>
-    <updated>2021-04-26T23:23:18Z</updated>
+    <published>2021-04-27T00:24:37Z</published>
+    <updated>2021-04-27T00:24:37Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdS1wbGVkZ2VzLW1vcmUtc3VwcG9ydC1jZW50cmFsLTIzMzMyNzQ0Ny5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3UtcGxlZGdlcy1tb3JlLXN1cHBvcnQtY2VudHJhbC0yMzMzMjc0NDcuaHRtbA?oc=5</id>
+    <title type="html">U.S. pledges more support to Central America - Yahoo News UK</title>
+    <updated>2021-04-26T23:45:41.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" target="_blank"&gt;U.S. pledges more support to Central America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbW9sbGllLWhlbW1pbmd3YXktdmlvbGVudC1jcmltZS1jcmlzaXMtMjMwMDAzMzE1Lmh0bWzSAVdodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvbW9sbGllLWhlbW1pbmd3YXktdmlvbGVudC1jcmltZS1jcmlzaXMtMjMwMDAzMzE1Lmh0bWw?oc=5</id>
+    <title type="html">Mollie Hemmingway: We have a violent crime crisis in this country - Yahoo News UK</title>
+    <updated>2021-04-26T23:37:11.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/mollie-hemmingway-violent-crime-crisis-230003315.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/mollie-hemmingway-violent-crime-crisis-230003315.html" target="_blank"&gt;Mollie Hemmingway: We have a violent crime crisis in this country&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcG9wLWZhbnMtYmlkZW4ta2lkcy1ncmFuZGNoaWxkcmVuLTIzMDUyOTg1MS5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3BvcC1mYW5zLWJpZGVuLWtpZHMtZ3JhbmRjaGlsZHJlbi0yMzA1Mjk4NTEuaHRtbA?oc=5</id>
@@ -46,13 +60,6 @@
     <updated>2021-04-26T23:16:43.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/pop-fans-biden-kids-grandchildren-230529851.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/pop-fans-biden-kids-grandchildren-230529851.html" target="_blank"&gt;'Pop' fans: Biden kids, grandchildren prominent part of White House scene&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZG9qLWFubm91bmNlcy1wcm9iZS1sb3Vpc3ZpbGxlLW1ldHJvLTIyNTIxOTgzNS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2Rvai1hbm5vdW5jZXMtcHJvYmUtbG91aXN2aWxsZS1tZXRyby0yMjUyMTk4MzUuaHRtbA?oc=5</id>
-    <title type="html">DOJ announces probe into Louisville Metro Police Department - Yahoo News UK</title>
-    <updated>2021-04-26T22:52:19.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/doj-announces-probe-louisville-metro-225219835.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/doj-announces-probe-louisville-metro-225219835.html" target="_blank"&gt;DOJ announces probe into Louisville Metro Police Department&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaXJhbi1mb3JlaWduLW1pbmlzdGVyLWNsYWltcy1qb2huLTIyMTk0ODQ4NS5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2lyYW4tZm9yZWlnbi1taW5pc3Rlci1jbGFpbXMtam9obi0yMjE5NDg0ODUuaHRtbA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-04-26T22:18:45.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/brazil-health-regulator-anvisas-technical-221845760.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/brazil-health-regulator-anvisas-technical-221845760.html" target="_blank"&gt;Brazil health regulator Anvisa's technical staff recommend against importing Russia's Sputnik vaccine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vam91cm5leS1yb2xscy13b21lbi1ydnMtbm9tYWRsYW5kLTIyMDAyMzgzOS5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2pvdXJuZXktcm9sbHMtd29tZW4tcnZzLW5vbWFkbGFuZC0yMjAwMjM4MzkuaHRtbA?oc=5</id>
-    <title type="html">Journey rolls on for women in RVs as 'Nomadland' rides high at Oscars - Yahoo News UK</title>
-    <updated>2021-04-26T22:00:23.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/journey-rolls-women-rvs-nomadland-220023839.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/journey-rolls-women-rvs-nomadland-220023839.html" target="_blank"&gt;Journey rolls on for women in RVs as 'Nomadland' rides high at Oscars&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SEN40 | LX09 FLW | 315 to Balham</title>
