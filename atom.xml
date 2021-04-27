@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-27T03:17:13Z</updated>
+  <updated>2021-04-27T03:56:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1014mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 3mph, Visibility: Good, Pressure: 1014mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T03:01:49Z</published>
-    <updated>2021-04-27T03:01:49Z</updated>
+    <published>2021-04-27T03:29:37Z</published>
+    <updated>2021-04-27T03:29:37Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1010mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T03:01:49Z</published>
-    <updated>2021-04-27T03:01:49Z</updated>
+    <published>2021-04-27T03:29:37Z</published>
+    <updated>2021-04-27T03:29:37Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-26T21:56:00.000+0000</id>
-    <published>2021-04-27T03:01:49Z</published>
-    <updated>2021-04-27T03:01:49Z</updated>
+    <published>2021-04-27T03:29:37Z</published>
+    <updated>2021-04-27T03:29:37Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbW9iaWxlLWNvdmlkLXZhY2NpbmUtYnVzLXNldHMtMjMxNDIwMzU3Lmh0bWzSAU5odHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvbW9iaWxlLWNvdmlkLXZhY2NpbmUtYnVzLXNldHMtMjMxNDIwMzU3Lmh0bWw?oc=5</id>
-    <title type="html">Mobile COVID Vaccine Bus Sets Up In Summit County - Yahoo News UK</title>
-    <updated>2021-04-27T01:27:24.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/mobile-covid-vaccine-bus-sets-231420357.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/mobile-covid-vaccine-bus-sets-231420357.html" target="_blank"&gt;Mobile COVID Vaccine Bus Sets Up In Summit County&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaW5ncmFoYW0tbGVmdHMtYW50aS1wb2xpY2UtYWdlbmRhLTAyMzUyNTc4My5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2luZ3JhaGFtLWxlZnRzLWFudGktcG9saWNlLWFnZW5kYS0wMjM1MjU3ODMuaHRtbA?oc=5</id>
+    <title type="html">Ingraham: Left's anti-police agenda making America 'more dangerous' - Yahoo News UK</title>
+    <updated>2021-04-27T02:35:25.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/ingraham-lefts-anti-police-agenda-023525783.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/ingraham-lefts-anti-police-agenda-023525783.html" target="_blank"&gt;Ingraham: Left's anti-police agenda making America 'more dangerous'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYWlybGluZS1iYW5zLWFsYXNrYS1zZW5hdG9yLWxvcmEtMDEwMjI0ODQ5Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYWlybGluZS1iYW5zLWFsYXNrYS1zZW5hdG9yLWxvcmEtMDEwMjI0ODQ5Lmh0bWw?oc=5</id>
@@ -53,13 +53,6 @@
     <updated>2021-04-27T01:02:24.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/airline-bans-alaska-senator-lora-010224849.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/airline-bans-alaska-senator-lora-010224849.html" target="_blank"&gt;Airline Bans Alaska Senator Lora Reinbold for Violating COVID-19 Mask Policy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWlyYW5kYS1kZXZpbmUtY3VsdC1mYXVjaS1kYW1hZ2luZy0wMDQ0MjIyNzUuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9taXJhbmRhLWRldmluZS1jdWx0LWZhdWNpLWRhbWFnaW5nLTAwNDQyMjI3NS5odG1s?oc=5</id>
-    <title type="html">Miranda Devine: 'Cult of Fauci' is damaging America - Yahoo News UK</title>
-    <updated>2021-04-27T00:44:22.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/miranda-devine-cult-fauci-damaging-004422275.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/miranda-devine-cult-fauci-damaging-004422275.html" target="_blank"&gt;Miranda Devine: 'Cult of Fauci' is damaging America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaG9tZS1yb2JlcnRzb25zLXN0YXJzLW5mbC1wcm90ZXN0cy0yMzU1MzAzMDYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ob21lLXJvYmVydHNvbnMtc3RhcnMtbmZsLXByb3Rlc3RzLTIzNTUzMDMwNi5odG1s?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-04-27T00:21:03.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/u-announces-310-million-humanitarian-002103094.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/u-announces-310-million-humanitarian-002103094.html" target="_blank"&gt;U.S. announces $310 million in humanitarian, food aid to Guatemala, Honduras, El Salvador&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdS1wbGVkZ2VzLW1vcmUtc3VwcG9ydC1jZW50cmFsLTIzMzMyNzQ0Ny5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3UtcGxlZGdlcy1tb3JlLXN1cHBvcnQtY2VudHJhbC0yMzMzMjc0NDcuaHRtbA?oc=5</id>
+    <title type="html">U.S. pledges more support to Central America - Yahoo News UK</title>
+    <updated>2021-04-26T23:45:38.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/u-pledges-more-support-central-233327447.html" target="_blank"&gt;U.S. pledges more support to Central America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SEN40 | LX09 FLW | 315 to Balham</title>
@@ -182,42 +182,6 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51112232040/"/>
-    <id>tag:flickr.com,2005:/photo/51112232040</id>
-    <published>2021-04-12T12:57:16Z</published>
-    <updated>2021-04-12T12:57:16Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:07-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51112232040/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51112232040_c89e58570c_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51112232040_c89e58570c_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51110885697/"/>
     <id>tag:flickr.com,2005:/photo/51110885697</id>
     <published>2021-04-12T12:57:16Z</published>
@@ -237,6 +201,42 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51110885697_1a711a1ced_b.jpg"/>
+    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51112232040/"/>
+    <id>tag:flickr.com,2005:/photo/51112232040</id>
+    <published>2021-04-12T12:57:16Z</published>
+    <updated>2021-04-12T12:57:16Z</updated>
+    <flickr:date_taken>2021-04-11T00:00:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T00:00:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51112232040/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51112232040_c89e58570c_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51112232040_c89e58570c_b.jpg"/>
     <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
