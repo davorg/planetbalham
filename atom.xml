@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-29T20:51:58Z</updated>
+  <updated>2021-04-29T21:17:12Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 1, Pollution: Low, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-29T19:56:00.000+0000</id>
-    <published>2021-04-29T20:18:39Z</published>
-    <updated>2021-04-29T20:18:39Z</updated>
+    <published>2021-04-29T21:00:59Z</published>
+    <updated>2021-04-29T21:00:59Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1015mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-29T19:56:00.000+0000</id>
-    <published>2021-04-29T20:18:39Z</published>
-    <updated>2021-04-29T20:18:39Z</updated>
+    <published>2021-04-29T21:00:59Z</published>
+    <updated>2021-04-29T21:00:59Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,9 +37,50 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-29T19:56:00.000+0000</id>
-    <published>2021-04-29T20:18:39Z</published>
-    <updated>2021-04-29T20:18:39Z</updated>
+    <published>2021-04-29T21:00:59Z</published>
+    <updated>2021-04-29T21:00:59Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Go Ahead London (SEN39 YX09FLP) - Route 315</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/138125402@N03/51144411968/"/>
+    <id>tag:flickr.com,2005:/photo/51144411968</id>
+    <published>2021-04-28T12:52:27Z</published>
+    <updated>2021-04-28T12:52:27Z</updated>
+    <flickr:date_taken>2021-04-27T14:46:24-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-27T14:46:24-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/138125402@N03/"&gt;VolvoTrident&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/138125402@N03/51144411968/" title="Go Ahead London (SEN39 YX09FLP) - Route 315"&gt;&lt;img src="https://live.staticflickr.com/65535/51144411968_015ea62965_m.jpg" width="240" height="160" alt="Go Ahead London (SEN39 YX09FLP) - Route 315" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As the 315 passes over to Abellio London on the 1st May 2021, I thought I would grab some shots of it's last days at Go Ahead London. The sun wasn't very nice to me for the 315 but these will do. Apart from that here is SEN39 near Royal Circus, in West Norwood.&lt;/p&gt;</content>
+    <author>
+      <name>VolvoTrident</name>
+      <uri>https://www.flickr.com/people/138125402@N03/</uri>
+      <flickr:nsid>138125402@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/138125402@N03.jpg?1618881628#138125402@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51144411968_015ea62965_b.jpg"/>
+    <category term="sen39" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx09flp" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="adl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennislimited" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exfirstlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boroughoflambeth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89metre" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dms44414" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="swstockwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9jeWNsaXN0cy1yaWRlLWZyb20tY29sbGllcnMtd29vZC10by1iYWxoYW0tYW5kLWJhY2stdG8taGlnaGxpZ2h0LW5lZWQtZm9yLWNzNy1jeWNsZS1yb3V0ZS_SAQA?oc=5</id>
     <title type="html">Cyclists ride from Colliers Wood to Balham and back to highlight need for CS7 cycle route - In Your Area</title>
@@ -69,11 +110,11 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/five-analyzes-bidens-first-100-212229807.html" target="_blank"&gt;'The Five' analyzes Biden's first 100 days in office&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20va2VubmVkeS13YW50cy1jb3AtcG9ydGxhbmQtZW52aXJvbm1lbnQtMTcyODM5OTk0Lmh0bWzSAVdodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwva2VubmVkeS13YW50cy1jb3AtcG9ydGxhbmQtZW52aXJvbm1lbnQtMTcyODM5OTk0Lmh0bWw?oc=5</id>
-    <title type="html">Kennedy: Who wants to be a cop in Portland in this environment? - Yahoo News UK</title>
-    <updated>2021-04-26T17:28:39.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/kennedy-wants-cop-portland-environment-172839994.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/kennedy-wants-cop-portland-environment-172839994.html" target="_blank"&gt;Kennedy: Who wants to be a cop in Portland in this environment?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYXR0b3JuZXktZ2VuZXJhbC1hbm5vdW5jZXMtY2l2aWwtaW52ZXN0aWdhdGlvbi0xODE1NDQ4MzQuaHRtbNIBX2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9hdHRvcm5leS1nZW5lcmFsLWFubm91bmNlcy1jaXZpbC1pbnZlc3RpZ2F0aW9uLTE4MTU0NDgzNC5odG1s?oc=5</id>
+    <title type="html">Attorney general announces a civil investigation into the Louisville Police Department - Yahoo News UK</title>
+    <updated>2021-04-26T18:15:44.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/attorney-general-announces-civil-investigation-181544834.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/attorney-general-announces-civil-investigation-181544834.html" target="_blank"&gt;Attorney general announces a civil investigation into the Louisville Police Department&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SEN40 | LX09 FLW | 315 to Balham</title>
@@ -201,42 +242,6 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51110885697_1a711a1ced_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51112232040/"/>
-    <id>tag:flickr.com,2005:/photo/51112232040</id>
-    <published>2021-04-12T12:57:16Z</published>
-    <updated>2021-04-12T12:57:16Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:07-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51112232040/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51112232040_c89e58570c_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51112232040_c89e58570c_b.jpg"/>
     <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
