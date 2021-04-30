@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-30T15:56:08Z</updated>
+  <updated>2021-04-30T16:17:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1014mb, Humidity: 45%, UV Risk: 3, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1015mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunset: 20:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-04-30T09:58:00.000+0000</id>
-    <published>2021-04-30T15:32:26Z</published>
-    <updated>2021-04-30T15:32:26Z</updated>
+    <published>2021-04-30T16:03:46Z</published>
+    <updated>2021-04-30T16:03:46Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1016mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-04-30T09:58:00.000+0000</id>
-    <published>2021-04-30T15:32:26Z</published>
-    <updated>2021-04-30T15:32:26Z</updated>
+    <published>2021-04-30T16:03:46Z</published>
+    <updated>2021-04-30T16:03:46Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-04-30T09:58:00.000+0000</id>
-    <published>2021-04-30T15:32:26Z</published>
-    <updated>2021-04-30T15:32:26Z</updated>
+    <published>2021-04-30T16:03:46Z</published>
+    <updated>2021-04-30T16:03:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiPWh0dHA6Ly9sb25kb25uZXdzb25saW5lLmNvLnVrL3RoaXMtd2Vlay0xMC0yMC0zMC15ZWFycy1hZ28tOC_SAQA?oc=5</id>
