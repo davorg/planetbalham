@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-01T13:17:49Z</updated>
+  <updated>2021-05-01T13:53:02Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1015mb, Humidity: 47%, UV Risk: 2, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:23 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1015mb, Humidity: 48%, UV Risk: 3, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-01T09:54:00.000+0000</id>
-    <published>2021-05-01T13:03:37Z</published>
-    <updated>2021-05-01T13:03:37Z</updated>
+    <published>2021-05-01T13:47:40Z</published>
+    <updated>2021-05-01T13:47:40Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 62%, UV Risk: 4, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-01T09:54:00.000+0000</id>
-    <published>2021-05-01T13:03:37Z</published>
-    <updated>2021-05-01T13:03:37Z</updated>
+    <published>2021-05-01T13:47:40Z</published>
+    <updated>2021-05-01T13:47:40Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 20mph, Visibility: Good, Pressure: 1015mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-01T09:54:00.000+0000</id>
-    <published>2021-05-01T13:03:37Z</published>
-    <updated>2021-05-01T13:03:37Z</updated>
+    <published>2021-05-01T13:47:40Z</published>
+    <updated>2021-05-01T13:47:40Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 315, Abellio London, 8122, YX13EHJ</title>
@@ -50,7 +50,7 @@
     <dc:date.Taken>2021-05-01T07:36:45-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/51151266935/" title="Route 315, Abellio London, 8122, YX13EHJ"&gt;&lt;img src="https://live.staticflickr.com/65535/51151266935_ff73b84b56_m.jpg" width="240" height="160" alt="Route 315, Abellio London, 8122, YX13EHJ" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/51151266935/" title="Route 315, Abellio London, 8122, YX13EHJ"&gt;&lt;img src="https://live.staticflickr.com/65535/51151266935_a242ab863c_m.jpg" width="240" height="160" alt="Route 315, Abellio London, 8122, YX13EHJ" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Abellio 8122 is pictured just after 7:30am by Tooting Bec Common as it heads for West Norwood. Abellio took over operation of the route from Go Ahead today using the 2013 plated E200s that had previously be used for school extras following their displacement from Route K1&lt;/p&gt;</content>
     <author>
@@ -59,7 +59,7 @@
       <flickr:nsid>66490030@N03</flickr:nsid>
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1608940381#66490030@N03</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51151266935_ff73b84b56_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51151266935_a242ab863c_b.jpg"/>
     <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="8122" scheme="https://www.flickr.com/photos/tags/"/>
@@ -218,38 +218,35 @@
     <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2021/03/09/Yard-Sale-Pizza-to-open-seventh-site-in-Balham-in-May" target="_blank"&gt;Yard Sale Pizza to open seventh site, in Balham, in May&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51111449506/"/>
-    <id>tag:flickr.com,2005:/photo/51111449506</id>
-    <published>2021-04-12T12:57:20Z</published>
-    <updated>2021-04-12T12:57:20Z</updated>
-    <flickr:date_taken>2021-04-11T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-11T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>SEN40 | LX09 FLW | 315 to Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/166123758@N08/51134833740/"/>
+    <id>tag:flickr.com,2005:/photo/51134833740</id>
+    <published>2021-04-23T17:58:13Z</published>
+    <updated>2021-04-23T17:58:13Z</updated>
+    <flickr:date_taken>2021-04-22T13:38:53-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-22T13:38:53-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/166123758@N08/"&gt;OfficialJoxhieBuses&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51111449506/" title="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church."&gt;&lt;img src="https://live.staticflickr.com/65535/51111449506_e3a1f1ff62_m.jpg" width="240" height="160" alt="A Joint Commitment to Healing and Collaboration following the events of Good Friday in Balham Catholic Church." /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/166123758@N08/51134833740/" title="SEN40 | LX09 FLW | 315 to Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51134833740_95d72e5a3d_m.jpg" width="240" height="160" alt="SEN40 | LX09 FLW | 315 to Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+</content>
     <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+      <name>OfficialJoxhieBuses</name>
+      <uri>https://www.flickr.com/people/166123758@N08/</uri>
+      <flickr:nsid>166123758@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/166123758@N08.jpg?1618691462#166123758@N08</flickr:buddyicon>
     </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51111449506_e3a1f1ff62_b.jpg"/>
-    <category term="a" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commitment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="healing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="collaboration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="following" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="events" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="good" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="friday" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51134833740_95d72e5a3d_b.jpg"/>
+    <category term="sen40" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="|" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lx09" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="catholic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="church" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="go" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ahead" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
