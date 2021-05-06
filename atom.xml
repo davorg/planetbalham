@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-06T16:01:50Z</updated>
+  <updated>2021-05-06T16:56:03Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunset: 20:31 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-06T09:00:00.000+0000</id>
-    <published>2021-05-06T16:01:33Z</published>
-    <updated>2021-05-06T16:01:33Z</updated>
+    <published>2021-05-06T16:30:47Z</published>
+    <updated>2021-05-06T16:30:47Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 52%, UV Risk: 5, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-06T09:00:00.000+0000</id>
-    <published>2021-05-06T16:01:33Z</published>
-    <updated>2021-05-06T16:01:33Z</updated>
+    <published>2021-05-06T16:30:47Z</published>
+    <updated>2021-05-06T16:30:47Z</updated>
   </entry>
   <entry>
     <title>Saturday: Heavy Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 16°C (60°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-06T09:00:00.000+0000</id>
-    <published>2021-05-06T16:01:33Z</published>
-    <updated>2021-05-06T16:01:33Z</updated>
+    <published>2021-05-06T16:30:47Z</published>
+    <updated>2021-05-06T16:30:47Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBIaL-UPNNFNA0MN4DyyuDwqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -117,41 +117,6 @@ YX13EHM (8125) is standing at Norwood, Cheviot Road awaiting a run to Balham via
     <category term="firstday" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Route 315, Abellio London, 8122, YX13EHJ</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/51151266935/"/>
-    <id>tag:flickr.com,2005:/photo/51151266935</id>
-    <published>2021-05-01T11:47:18Z</published>
-    <updated>2021-05-01T11:47:18Z</updated>
-    <flickr:date_taken>2021-05-01T07:36:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-01T07:36:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/51151266935/" title="Route 315, Abellio London, 8122, YX13EHJ"&gt;&lt;img src="https://live.staticflickr.com/65535/51151266935_80be3aaf75_m.jpg" width="240" height="160" alt="Route 315, Abellio London, 8122, YX13EHJ" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Abellio 8122 is pictured just after 7:30am by Tooting Bec Common as it heads for West Norwood. Abellio took over operation of the route from Go Ahead today using the 2013 plated E200s that had previously be used for school extras following their displacement from Route K1&lt;/p&gt;</content>
-    <author>
-      <name>Jack Marian</name>
-      <uri>https://www.flickr.com/people/londonbuses1/</uri>
-      <flickr:nsid>66490030@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1608940381#66490030@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51151266935_80be3aaf75_b.jpg"/>
-    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="8122" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx13ehj" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennisenviro200dart" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -259,6 +224,39 @@ YX13EHM (8125) is standing at Norwood, Cheviot Road awaiting a run to Balham via
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dms44414" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="swstockwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>SEN40 | LX09 FLW | 315 to Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/166123758@N08/51134833740/"/>
+    <id>tag:flickr.com,2005:/photo/51134833740</id>
+    <published>2021-04-23T17:58:13Z</published>
+    <updated>2021-04-23T17:58:13Z</updated>
+    <flickr:date_taken>2021-04-22T13:38:53-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-22T13:38:53-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/166123758@N08/"&gt;OfficialJoxhieBuses&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/166123758@N08/51134833740/" title="SEN40 | LX09 FLW | 315 to Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51134833740_95d72e5a3d_m.jpg" width="240" height="160" alt="SEN40 | LX09 FLW | 315 to Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>OfficialJoxhieBuses</name>
+      <uri>https://www.flickr.com/people/166123758@N08/</uri>
+      <flickr:nsid>166123758@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/166123758@N08.jpg?1618691462#166123758@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51134833740_95d72e5a3d_b.jpg"/>
+    <category term="sen40" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="|" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lx09" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="go" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ahead" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
