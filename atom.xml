@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-08T23:57:56Z</updated>
+  <updated>2021-05-09T01:24:18Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1000mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunset: 20:36 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 999mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 20:36 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-08T21:56:00.000+0000</id>
-    <published>2021-05-08T23:16:35Z</published>
-    <updated>2021-05-08T23:16:35Z</updated>
+    <published>2021-05-09T01:18:20Z</published>
+    <updated>2021-05-09T01:18:20Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (66°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 998mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:17 BST, Sunset: 20:37 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-08T21:56:00.000+0000</id>
-    <published>2021-05-08T23:16:35Z</published>
-    <updated>2021-05-08T23:16:35Z</updated>
+    <published>2021-05-09T01:18:20Z</published>
+    <updated>2021-05-09T01:18:20Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 16°C (60°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1001mb, Humidity: 68%, UV Risk: 5, Pollution: Low, Sunrise: 05:16 BST, Sunset: 20:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-08T21:56:00.000+0000</id>
-    <published>2021-05-08T23:16:35Z</published>
-    <updated>2021-05-08T23:16:35Z</updated>
+    <published>2021-05-09T01:18:20Z</published>
+    <updated>2021-05-09T01:18:20Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEEoHofyf33rj-LLqkrfXHfcqGQgEKhAIACoHCAow9935CjCe0eYCMPPlzAU?oc=5</id>
+    <title type="html">Joe Pasquale on ditching butchery for comedy 'I took the dead cow off my back' - Express</title>
+    <updated>2021-05-08T23:01:00.000000000Z</updated>
+    <link href="https://www.express.co.uk/celebrity-news/1432153/joe-pasquale-life-career-comedy-magician" type="text/html"/>
+    <content type="html">&lt;a href="https://www.express.co.uk/celebrity-news/1432153/joe-pasquale-life-career-comedy-magician" target="_blank"&gt;Joe Pasquale on ditching butchery for comedy 'I took the dead cow off my back'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEDVcA9BvUgCUWB7mxBT7cEwqGQgEKhAIACoHCAowur-YCzDxybADMIPd0AY?oc=5</id>
@@ -101,13 +108,6 @@
     <updated>2021-05-04T16:14:15.000000000Z</updated>
     <link href="https://www.standard.co.uk/news/uk/boy-almost-abducted-south-east-london-walk-home-school-b932998.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/news/uk/boy-almost-abducted-south-east-london-walk-home-school-b932998.html" target="_blank"&gt;Line of Duty actor appeals for help after attempted abduction of son&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5Mjc4MzQwLndlZWstbG9uZy1jcmFja2Rvd24ta25pZmUtY3JpbWUtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5</id>
-    <title type="html">Week-long crackdown on knife crime in South West London - Wandsworth Guardian</title>
-    <updated>2021-05-04T15:45:00.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19278340.week-long-crackdown-knife-crime-south-west-london/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19278340.week-long-crackdown-knife-crime-south-west-london/" target="_blank"&gt;Week-long crackdown on knife crime in South West London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>First day of operation for these ex-Kingston single door buses on a tiny, interesting route with a large Hail &amp; Ride section and some steep hills. | Abellio London ADL Enviro 200 working the 315 to Balham.</title>
