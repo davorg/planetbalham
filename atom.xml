@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-10T01:24:36Z</updated>
+  <updated>2021-05-10T02:37:21Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 997mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 20:37 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 997mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 20:37 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-09T21:54:00.000+0000</id>
-    <published>2021-05-10T01:00:23Z</published>
-    <updated>2021-05-10T01:00:23Z</updated>
+    <published>2021-05-10T02:35:29Z</published>
+    <updated>2021-05-10T02:35:29Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1000mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:16 BST, Sunset: 20:39 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1000mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:16 BST, Sunset: 20:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-09T21:54:00.000+0000</id>
-    <published>2021-05-10T01:00:23Z</published>
-    <updated>2021-05-10T01:00:23Z</updated>
+    <published>2021-05-10T02:35:29Z</published>
+    <updated>2021-05-10T02:35:29Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 05:14 BST, Sunset: 20:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-09T21:54:00.000+0000</id>
-    <published>2021-05-10T01:00:23Z</published>
-    <updated>2021-05-10T01:00:23Z</updated>
+    <published>2021-05-10T02:35:29Z</published>
+    <updated>2021-05-10T02:35:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEEoHofyf33rj-LLqkrfXHfcqGQgEKhAIACoHCAow9935CjCe0eYCMPPlzAU?oc=5</id>
@@ -223,35 +223,43 @@ YX13EHM (8125) is standing at Norwood, Cheviot Road awaiting a run to Balham via
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>SEN41 Go-Ahead London</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/124193440@N06/51147664535/"/>
-    <id>tag:flickr.com,2005:/photo/51147664535</id>
-    <published>2021-04-29T16:07:30Z</published>
-    <updated>2021-04-29T16:07:30Z</updated>
-    <flickr:date_taken>2021-04-22T18:11:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-22T18:11:24-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/124193440@N06/"&gt;KLTP17&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Go Ahead London (SEN39 YX09FLP) - Route 315</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/138125402@N03/51144411968/"/>
+    <id>tag:flickr.com,2005:/photo/51144411968</id>
+    <published>2021-04-28T12:52:27Z</published>
+    <updated>2021-04-28T12:52:27Z</updated>
+    <flickr:date_taken>2021-04-27T14:46:24-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-27T14:46:24-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/138125402@N03/"&gt;VolvoTrident&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/124193440@N06/51147664535/" title="SEN41 Go-Ahead London"&gt;&lt;img src="https://live.staticflickr.com/65535/51147664535_8756883943_m.jpg" width="240" height="137" alt="SEN41 Go-Ahead London" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/138125402@N03/51144411968/" title="Go Ahead London (SEN39 YX09FLP) - Route 315"&gt;&lt;img src="https://live.staticflickr.com/65535/51144411968_015ea62965_m.jpg" width="240" height="160" alt="Go Ahead London (SEN39 YX09FLP) - Route 315" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-</content>
+&lt;p&gt;As the 315 passes over to Abellio London on the 1st May 2021, I thought I would grab some shots of it's last days at Go Ahead London. The sun wasn't very nice to me for the 315 but these will do. Apart from that here is SEN39 near Royal Circus, in West Norwood.&lt;/p&gt;</content>
     <author>
-      <name>KLTP17</name>
-      <uri>https://www.flickr.com/people/124193440@N06/</uri>
-      <flickr:nsid>124193440@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/124193440@N06.jpg?1594195982#124193440@N06</flickr:buddyicon>
+      <name>VolvoTrident</name>
+      <uri>https://www.flickr.com/people/138125402@N03/</uri>
+      <flickr:nsid>138125402@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/138125402@N03.jpg?1618881628#138125402@N03</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51147664535_8756883943_b.jpg"/>
-    <category term="yx09flz" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sen41" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51144411968_015ea62965_b.jpg"/>
+    <category term="sen39" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx09flp" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="adl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennislimited" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exfirstlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boroughoflambeth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89metre" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dms44414" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="swstockwell" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
