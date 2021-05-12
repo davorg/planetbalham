@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-12T01:24:54Z</updated>
+  <updated>2021-05-12T02:36:32Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (48°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 20:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1009mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 20:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-11T21:54:00.000+0000</id>
-    <published>2021-05-12T01:20:10Z</published>
-    <updated>2021-05-12T01:20:10Z</updated>
+    <published>2021-05-12T02:20:25Z</published>
+    <updated>2021-05-12T02:20:25Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-11T21:54:00.000+0000</id>
-    <published>2021-05-12T01:20:10Z</published>
-    <updated>2021-05-12T01:20:10Z</updated>
+    <published>2021-05-12T02:20:25Z</published>
+    <updated>2021-05-12T02:20:25Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 9°C (47°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (47°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-11T21:54:00.000+0000</id>
-    <published>2021-05-12T01:20:10Z</published>
-    <updated>2021-05-12T01:20:10Z</updated>
+    <published>2021-05-12T02:20:25Z</published>
+    <updated>2021-05-12T02:20:25Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEAFJdvryAcVAxwGBpVYIvMoqGQgEKhAIACoHCAow9935CjCe0eYCMObkzAU?oc=5</id>
@@ -174,16 +174,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>SWA05412r</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/swanswell/51171212374/"/>
-    <id>tag:flickr.com,2005:/photo/51171212374</id>
+    <title>SWA05417r</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/swanswell/51171211909/"/>
+    <id>tag:flickr.com,2005:/photo/51171211909</id>
     <published>2021-05-10T17:51:38Z</published>
     <updated>2021-05-10T17:51:38Z</updated>
-    <flickr:date_taken>2021-05-07T12:14:13-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-07T12:14:13-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-05-07T12:15:20-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-07T12:15:20-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/swanswell/"&gt;Harry Wolford&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/swanswell/51171212374/" title="SWA05412r"&gt;&lt;img src="https://live.staticflickr.com/65535/51171212374_5733f71406_m.jpg" width="240" height="157" alt="SWA05412r" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/swanswell/51171211909/" title="SWA05417r"&gt;&lt;img src="https://live.staticflickr.com/65535/51171211909_454ef7b640_m.jpg" width="240" height="145" alt="SWA05417r" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -192,7 +192,7 @@
       <flickr:nsid>63753525@N02</flickr:nsid>
       <flickr:buddyicon>https://farm5.staticflickr.com/4911/buddyicons/63753525@N02.jpg?1546977160#63753525@N02</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51171212374_5733f71406_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51171211909_454ef7b640_b.jpg"/>
     <category term="swanswell" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrywolford" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
