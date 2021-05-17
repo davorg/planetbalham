@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-17T10:17:32Z</updated>
+  <updated>2021-05-17T10:55:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Hail Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1006mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 05:07 BST, Sunset: 20:48 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1006mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 05:07 BST, Sunset: 20:48 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-17T07:57:00.000+0000</id>
-    <published>2021-05-17T10:02:06Z</published>
-    <updated>2021-05-17T10:02:06Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-17T09:52:00.000+0000</id>
+    <published>2021-05-17T10:53:19Z</published>
+    <updated>2021-05-17T10:53:19Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 9°C (47°F) Maximum Temperature: 16°C (60°F)</title>
@@ -26,33 +26,33 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 9°C (47°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1013mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-17T07:57:00.000+0000</id>
-    <published>2021-05-17T10:02:06Z</published>
-    <updated>2021-05-17T10:02:06Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-17T09:52:00.000+0000</id>
+    <published>2021-05-17T10:53:19Z</published>
+    <updated>2021-05-17T10:53:19Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Wednesday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1018mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1018mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-17T07:57:00.000+0000</id>
-    <published>2021-05-17T10:02:06Z</published>
-    <updated>2021-05-17T10:02:06Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-17T09:52:00.000+0000</id>
+    <published>2021-05-17T10:53:19Z</published>
+    <updated>2021-05-17T10:53:19Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL3B1YnMtcmVvcGVuLWluZG9vci1waW50LW1pZG5pZ2h0LTIwNjEwOTc10gEA?oc=5</id>
-    <title type="html">Pubs reopen for indoor pint at midnight - MyLondon</title>
-    <updated>2021-05-17T05:18:11.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/uk-world-news/pubs-reopen-indoor-pint-midnight-20610975" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/pubs-reopen-indoor-pint-midnight-20610975" target="_blank"&gt;Pubs reopen for indoor pint at midnight&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiECN-HEkSZvWRUF7w9FU_V24qGQgEKhAIACoHCAow2c77CjC-yfQCMJzg0wU?oc=5</id>
+    <title type="html">Brits pack pubs from midnight as lockdown lifts to allow indoor mixing - Birmingham Live</title>
+    <updated>2021-05-17T06:01:31.000000000Z</updated>
+    <link href="https://www.birminghammail.co.uk/news/midlands-news/brits-pack-pubs-midnight-lockdown-20611051" type="text/html"/>
+    <content type="html">&lt;a href="https://www.birminghammail.co.uk/news/midlands-news/brits-pack-pubs-midnight-lockdown-20611051" target="_blank"&gt;Brits pack pubs from midnight as lockdown lifts to allow indoor mixing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMidGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9mb3JtZXItYmFsaGFtLWZjLXlvdW5nc3Rlci1mYWJpby1jYXJ2YWxoby10aGFua3MtZnVsaGFtLWJvc3MtYWZ0ZXItZmlyc3Qtc2VuaW9yLWdvYWwv0gEA?oc=5</id>
+    <id>https://news.google.com/articles/CBMic2h0dHA6Ly9sb25kb25uZXdzb25saW5lLmNvLnVrL2Zvcm1lci1iYWxoYW0tZmMteW91bmdzdGVyLWZhYmlvLWNhcnZhbGhvLXRoYW5rcy1mdWxoYW0tYm9zcy1hZnRlci1maXJzdC1zZW5pb3ItZ29hbC_SAQA?oc=5</id>
     <title type="html">Former Balham FC youngster Fabio Carvalho thanks Fulham boss after first senior goal - London News Online</title>
     <updated>2021-05-16T08:06:54.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/former-balham-fc-youngster-fabio-carvalho-thanks-fulham-boss-after-first-senior-goal/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-balham-fc-youngster-fabio-carvalho-thanks-fulham-boss-after-first-senior-goal/" target="_blank"&gt;Former Balham FC youngster Fabio Carvalho thanks Fulham boss after first senior goal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <link href="http://londonnewsonline.co.uk/former-balham-fc-youngster-fabio-carvalho-thanks-fulham-boss-after-first-senior-goal/" type="text/html"/>
+    <content type="html">&lt;a href="http://londonnewsonline.co.uk/former-balham-fc-youngster-fabio-carvalho-thanks-fulham-boss-after-first-senior-goal/" target="_blank"&gt;Former Balham FC youngster Fabio Carvalho thanks Fulham boss after first senior goal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zZWFyY2hpbmctZm9yLWFuc3dlcnMtYWJvdXQtaGVyby11bmNsZS1yb3kv0gEA?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.islingtongazette.co.uk/news/obituaries/tributes-founder-of-islington-museum-of-funeral-history-7960944" target="_blank"&gt;Tributes to founder of Islington's Museum of Funeral History&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Islington Gazette&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiENBNTWQnba9fJKrM5G2O8bMqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">London Underground: The Northern Line station changing zones as lockdown eases - My London</title>
-    <updated>2021-05-13T12:56:23.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/london-underground-northern-line-station-20588563" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-underground-northern-line-station-20588563" target="_blank"&gt;London Underground: The Northern Line station changing zones as lockdown eases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmNpdHlhbS5jb20va2VubmluZ3Rvbi1zdGF0aW9uLXRvLWJlY29tZS16b25lLTEtMi1zdGF0aW9uLW9uLXN1bmRheS_SAagBaHR0cHM6Ly93d3cuY2l0eWFtLmNvbS9rZW5uaW5ndG9uLXN0YXRpb24tdG8tYmVjb21lLXpvbmUtMS0yLXN0YXRpb24tb24tc3VuZGF5L2FtcC8_dXRtX2NvbnRlbnQ9YnVmZmVyODE2ZGMmdXRtX21lZGl1bT1zb2NpYWwmdXRtX3NvdXJjZT10d2l0dGVyLmNvbSZ1dG1fY2FtcGFpZ249YnVmZmVy?oc=5</id>
+    <title type="html">Kennington Station to become Zone 1/2 station from Sunday - City A.M.</title>
+    <updated>2021-05-13T14:02:00.000000000Z</updated>
+    <link href="https://www.cityam.com/kennington-station-to-become-zone-1-2-station-on-sunday/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cityam.com/kennington-station-to-become-zone-1-2-station-on-sunday/" target="_blank"&gt;Kennington Station to become Zone 1/2 station from Sunday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
@@ -228,39 +228,37 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51175361277/"/>
-    <id>tag:flickr.com,2005:/photo/51175361277</id>
-    <published>2021-05-13T11:00:46Z</published>
-    <updated>2021-05-13T11:00:46Z</updated>
-    <flickr:date_taken>2021-05-10T11:02:50-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-10T11:02:50-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>8125 Abellio London</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/124193440@N06/51176959965/"/>
+    <id>tag:flickr.com,2005:/photo/51176959965</id>
+    <published>2021-05-13T08:45:40Z</published>
+    <updated>2021-05-13T08:45:40Z</updated>
+    <flickr:date_taken>2021-05-01T16:07:08-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-01T16:07:08-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/124193440@N06/"&gt;KLTP17&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51175361277/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51175361277_74b84d61d7_m.jpg" width="240" height="140" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/124193440@N06/51176959965/" title="8125 Abellio London"&gt;&lt;img src="https://live.staticflickr.com/65535/51176959965_7a1f4c8a77_m.jpg" width="240" height="137" alt="8125 Abellio London" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
-      <name>Ledlon89</name>
-      <uri>https://www.flickr.com/people/23875695@N06/</uri>
-      <flickr:nsid>23875695@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+      <name>KLTP17</name>
+      <uri>https://www.flickr.com/people/124193440@N06/</uri>
+      <flickr:nsid>124193440@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/124193440@N06.jpg?1594195982#124193440@N06</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51175361277_74b84d61d7_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176959965_7a1f4c8a77_b.jpg"/>
+    <category term="8125" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx13ehm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx13ehl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="8124" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="abellio" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="adl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
