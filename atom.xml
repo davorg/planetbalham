@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-19T10:54:56Z</updated>
+  <updated>2021-05-19T11:16:32Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 6°C (42°F), Wind Direction: North Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 54%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-19T09:56:00.000+0000</id>
-    <published>2021-05-19T10:27:43Z</published>
-    <updated>2021-05-19T10:27:43Z</updated>
+    <published>2021-05-19T11:03:00Z</published>
+    <updated>2021-05-19T11:03:00Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1016mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 05:02 BST, Sunset: 20:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-19T09:56:00.000+0000</id>
-    <published>2021-05-19T10:27:43Z</published>
-    <updated>2021-05-19T10:27:43Z</updated>
+    <published>2021-05-19T11:03:00Z</published>
+    <updated>2021-05-19T11:03:00Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 998mb, Humidity: 76%, UV Risk: 3, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-19T09:56:00.000+0000</id>
-    <published>2021-05-19T10:27:43Z</published>
-    <updated>2021-05-19T10:27:43Z</updated>
+    <published>2021-05-19T11:03:00Z</published>
+    <updated>2021-05-19T11:03:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmxpdmU0ZXZlci51ay5jb20vMjAyMS8wNS9yZXZpZXcta2V2aW4tY3VtbWlucy1sYW5kc2xpZGUv0gEA?oc=5</id>
+    <title type="html">Caught Beneath The Landslide: The Other Side of Britpop | Review | Live4ever - Live4ever</title>
+    <updated>2021-05-19T10:51:13.000000000Z</updated>
+    <link href="https://www.live4ever.uk.com/2021/05/review-kevin-cummins-landslide/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.live4ever.uk.com/2021/05/review-kevin-cummins-landslide/" target="_blank"&gt;Caught Beneath The Landslide: The Other Side of Britpop | Review | Live4ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Live4ever&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIxM0Iqyne_t2lTSTGtT_20qFwgEKg4IACoGCAowqvB9MMTRCTCMk6UG?oc=5</id>
@@ -68,51 +75,6 @@
     <link href="https://metro.co.uk/2021/05/18/passengers-reminded-to-pay-for-london-tube-journeys-as-lockdown-eases-14601436/" type="text/html"/>
     <content type="html">&lt;a href="https://metro.co.uk/2021/05/18/passengers-reminded-to-pay-for-london-tube-journeys-as-lockdown-eases-14601436/" target="_blank"&gt;Passengers reminded to pay for London Tube journeys as lockdown eases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECN-HEkSZvWRUF7w9FU_V24qGQgEKhAIACoHCAow2c77CjC-yfQCMJzg0wU?oc=5</id>
-    <title type="html">Brits pack pubs from midnight as lockdown lifts to allow indoor mixing - Birmingham Live</title>
-    <updated>2021-05-17T06:01:31.000000000Z</updated>
-    <link href="https://www.birminghammail.co.uk/news/midlands-news/brits-pack-pubs-midnight-lockdown-20611051" type="text/html"/>
-    <content type="html">&lt;a href="https://www.birminghammail.co.uk/news/midlands-news/brits-pack-pubs-midnight-lockdown-20611051" target="_blank"&gt;Brits pack pubs from midnight as lockdown lifts to allow indoor mixing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Birmingham Live&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829079/"/>
-    <id>tag:flickr.com,2005:/photo/51176829079</id>
-    <published>2021-05-13T11:00:48Z</published>
-    <updated>2021-05-13T11:00:48Z</updated>
-    <flickr:date_taken>2021-05-12T11:42:15-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-12T11:42:15-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829079/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_m.jpg" width="240" height="168" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ledlon89</name>
-      <uri>https://www.flickr.com/people/23875695@N06/</uri>
-      <flickr:nsid>23875695@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829069/"/>
@@ -133,6 +95,44 @@
       <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829069_ec921575cd_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>(Untitled)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829079/"/>
+    <id>tag:flickr.com,2005:/photo/51176829079</id>
+    <published>2021-05-13T11:00:48Z</published>
+    <updated>2021-05-13T11:00:48Z</updated>
+    <flickr:date_taken>2021-05-12T11:42:15-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-12T11:42:15-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829079/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_m.jpg" width="240" height="168" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Ledlon89</name>
+      <uri>https://www.flickr.com/people/23875695@N06/</uri>
+      <flickr:nsid>23875695@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
