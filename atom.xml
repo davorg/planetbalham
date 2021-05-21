@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-21T14:52:26Z</updated>
+  <updated>2021-05-21T15:16:52Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL25vcnRoZXJuLWxpbmUtZXh0ZW5zaW9uLW5pbmUtZWxtcy1iYXR0ZXJzZWEtb3Blbi1zZXB0ZW1iZXItYjkzNjU2Ni5odG1s0gFyaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvbmV3cy9sb25kb24vbm9ydGhlcm4tbGluZS1leHRlbnNpb24tbmluZS1lbG1zLWJhdHRlcnNlYS1vcGVuLXNlcHRlbWJlci1iOTM2NTY2Lmh0bWw_YW1w?oc=5</id>
-    <title type="html">First extension to London Underground this century to open in September - Evening Standard</title>
-    <updated>2021-05-21T14:33:44.000000000Z</updated>
-    <link href="https://www.standard.co.uk/news/london/northern-line-extension-nine-elms-battersea-open-september-b936566.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/northern-line-extension-nine-elms-battersea-open-september-b936566.html" target="_blank"&gt;First extension to London Underground this century to open in September&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 11°C (53°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 21mph, Visibility: Good, Pressure: 996mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 21mph, Visibility: Good, Pressure: 996mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-21T09:55:00.000+0000</id>
-    <published>2021-05-21T14:01:44Z</published>
-    <updated>2021-05-21T14:01:44Z</updated>
+    <published>2021-05-21T15:03:03Z</published>
+    <updated>2021-05-21T15:03:03Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 5°C (42°F) Maximum Temperature: 14°C (57°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1003mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-21T09:55:00.000+0000</id>
-    <published>2021-05-21T14:01:44Z</published>
-    <updated>2021-05-21T14:01:44Z</updated>
+    <published>2021-05-21T15:03:03Z</published>
+    <updated>2021-05-21T15:03:03Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-21T09:55:00.000+0000</id>
-    <published>2021-05-21T14:01:44Z</published>
-    <updated>2021-05-21T14:01:44Z</updated>
+    <published>2021-05-21T15:03:03Z</published>
+    <updated>2021-05-21T15:03:03Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbmV3cy9uZXdzbG9uZG9uL2ZpcnN0LWV4dGVuc2lvbi10by1sb25kb24tdW5kZXJncm91bmQtdGhpcy1jZW50dXJ5LXRvLW9wZW4taW4tc2VwdGVtYmVyL2FyLUFBS2VSU1LSAQA?oc=5</id>
+    <title type="html">First extension to London Underground this century to open in September - MSN UK</title>
+    <updated>2021-05-21T14:33:44.000000000Z</updated>
+    <link href="https://www.msn.com/en-gb/news/newslondon/first-extension-to-london-underground-this-century-to-open-in-september/ar-AAKeRSR" type="text/html"/>
+    <content type="html">&lt;a href="https://www.msn.com/en-gb/news/newslondon/first-extension-to-london-underground-this-century-to-open-in-september/ar-AAKeRSR" target="_blank"&gt;First extension to London Underground this century to open in September&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEKyx1cJwlFU043cd34T7EaEqFwgEKg4IACoGCAowqvB9MMTRCTCGn-8G?oc=5</id>
