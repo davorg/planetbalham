@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-21T06:58:12Z</updated>
+  <updated>2021-05-21T07:17:01Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 24mph, Visibility: Good, Pressure: 997mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-20T21:54:00.000+0000</id>
-    <published>2021-05-21T06:56:06Z</published>
-    <updated>2021-05-21T06:56:06Z</updated>
+    <published>2021-05-21T07:04:46Z</published>
+    <updated>2021-05-21T07:04:46Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1003mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-20T21:54:00.000+0000</id>
-    <published>2021-05-21T06:56:06Z</published>
-    <updated>2021-05-21T06:56:06Z</updated>
+    <published>2021-05-21T07:04:46Z</published>
+    <updated>2021-05-21T07:04:46Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-20T21:54:00.000+0000</id>
-    <published>2021-05-21T06:56:06Z</published>
-    <updated>2021-05-21T06:56:06Z</updated>
+    <published>2021-05-21T07:04:46Z</published>
+    <updated>2021-05-21T07:04:46Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaGVybmUtaGlsbC1oYXJyaWVycy1yb3VuZC11cC1rYXRpZS1zbm93ZGVuLXNldHMtbmV3LTE1MDBtLXBiLWFuZC1hY2hpZXZlcy1vbHltcGljLXF1YWxpZnlpbmctdGltZS_SAQA?oc=5</id>
+    <title type="html">Herne Hill Harriers round-up: Katie Snowden sets new 1500m PB and achieves Olympic qualifying time - London News Online</title>
+    <updated>2021-05-21T07:00:39.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/herne-hill-harriers-round-up-katie-snowden-sets-new-1500m-pb-and-achieves-olympic-qualifying-time/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/herne-hill-harriers-round-up-katie-snowden-sets-new-1500m-pb-and-achieves-olympic-qualifying-time/" target="_blank"&gt;Herne Hill Harriers round-up: Katie Snowden sets new 1500m PB and achieves Olympic qualifying time&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wNS8yMC9hbGwtY2hhbmdlLWZvci10aGUtcmFtcy1hcy1sb2NhbC1sZWFndWVzLWdldC1mYS1zaGFrZS11cC_SAWJodHRwczovL2luc2lkZWNyb3lkb24uY29tLzIwMjEvMDUvMjAvYWxsLWNoYW5nZS1mb3ItdGhlLXJhbXMtYXMtbG9jYWwtbGVhZ3Vlcy1nZXQtZmEtc2hha2UtdXAvYW1wLw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-05-18T14:00:00.000000000Z</updated>
     <link href="https://www.kentonline.co.uk/kent/sport/corinthian-promoted-as-non-league-reshuffle-confirmed-247443/" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentonline.co.uk/kent/sport/corinthian-promoted-as-non-league-reshuffle-confirmed-247443/" target="_blank"&gt;Corinthian promoted as non-league reshuffle confirmed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEHkKIN8NOZBkCjyKAvyIYGsqGQgEKhAIACoHCAowzc-JCzDQ5psDML6GogY?oc=5</id>
-    <title type="html">Passengers reminded to pay for London Tube journeys as lockdown eases - Metro.co.uk</title>
-    <updated>2021-05-18T13:28:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/05/18/passengers-reminded-to-pay-for-london-tube-journeys-as-lockdown-eases-14601436/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/05/18/passengers-reminded-to-pay-for-london-tube-journeys-as-lockdown-eases-14601436/" target="_blank"&gt;Passengers reminded to pay for London Tube journeys as lockdown eases&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
