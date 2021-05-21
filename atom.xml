@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-21T19:54:29Z</updated>
+  <updated>2021-05-21T20:16:33Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 996mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunset: 20:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-21T09:55:00.000+0000</id>
-    <published>2021-05-21T19:07:24Z</published>
-    <updated>2021-05-21T19:07:24Z</updated>
+    <published>2021-05-21T20:08:39Z</published>
+    <updated>2021-05-21T20:08:39Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 5°C (42°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1003mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-21T09:55:00.000+0000</id>
-    <published>2021-05-21T19:07:24Z</published>
-    <updated>2021-05-21T19:07:24Z</updated>
+    <published>2021-05-21T20:08:39Z</published>
+    <updated>2021-05-21T20:08:39Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-21T09:55:00.000+0000</id>
-    <published>2021-05-21T19:07:24Z</published>
-    <updated>2021-05-21T19:07:24Z</updated>
+    <published>2021-05-21T20:08:39Z</published>
+    <updated>2021-05-21T20:08:39Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9zb3V0aC1sb25kb24tcmFpbC1wYXNzZW5nZXJzLXVyZ2VkLXRvLXBsYW4tYWhlYWQtZm9yLWxhdGUtbWF5LWJhbmstaG9saWRheS10cmF2ZWwv0gEA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://www.msn.com/en-gb/news/newslondon/first-extension-to-london-underground-this-century-to-open-in-september/ar-AAKeRSR" target="_blank"&gt;First extension to London Underground this century to open in September&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEKyx1cJwlFU043cd34T7EaEqFwgEKg4IACoGCAowqvB9MMTRCTCGn-8G?oc=5</id>
-    <title type="html">Your little black book of the best wellness practitioners in London - Evening Standard</title>
-    <updated>2021-05-21T10:44:36.000000000Z</updated>
-    <link href="https://www.standard.co.uk/escapist/best-wellness-practitioners-london-b935747.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/escapist/best-wellness-practitioners-london-b935747.html" target="_blank"&gt;Your little black book of the best wellness practitioners in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaGVybmUtaGlsbC1oYXJyaWVycy1yb3VuZC11cC1rYXRpZS1zbm93ZGVuLXNldHMtbmV3LTE1MDBtLXBiLWFuZC1hY2hpZXZlcy1vbHltcGljLXF1YWxpZnlpbmctdGltZS_SAQA?oc=5</id>
     <title type="html">Herne Hill Harriers round-up: Katie Snowden sets new 1500m PB and achieves Olympic qualifying time - London News Online</title>
     <updated>2021-05-21T07:00:39.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2021-05-20T13:32:22.000000000Z</updated>
     <link href="https://insidecroydon.com/2021/05/20/all-change-for-the-rams-as-local-leagues-get-fa-shake-up/" type="text/html"/>
     <content type="html">&lt;a href="https://insidecroydon.com/2021/05/20/all-change-for-the-rams-as-local-leagues-get-fa-shake-up/" target="_blank"&gt;All change for the Rams as local leagues get FA shake-up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEIxM0Iqyne_t2lTSTGtT_20qFwgEKg4IACoGCAowqvB9MMTRCTCMk6UG?oc=5</id>
+    <title type="html">The restaurants the London it-crowd can’t wait to head back into - Evening Standard</title>
+    <updated>2021-05-19T08:49:05.000000000Z</updated>
+    <link href="https://www.standard.co.uk/reveller/restaurants/cool-london-restaurants-revisit-lockdown-easing-indoor-b935092.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/cool-london-restaurants-revisit-lockdown-easing-indoor-b935092.html" target="_blank"&gt;The restaurants the London it-crowd can’t wait to head back into&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
