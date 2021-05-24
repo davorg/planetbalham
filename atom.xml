@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-24T06:17:15Z</updated>
+  <updated>2021-05-24T06:59:08Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Hail Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1002mb, Humidity: 76%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1002mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-23T21:55:00.000+0000</id>
-    <published>2021-05-24T06:03:46Z</published>
-    <updated>2021-05-24T06:03:46Z</updated>
+    <published>2021-05-24T06:47:04Z</published>
+    <updated>2021-05-24T06:47:04Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 16°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1014mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-23T21:55:00.000+0000</id>
-    <published>2021-05-24T06:03:46Z</published>
-    <updated>2021-05-24T06:03:46Z</updated>
+    <published>2021-05-24T06:47:04Z</published>
+    <updated>2021-05-24T06:47:04Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 17°C (62°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1015mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-23T21:55:00.000+0000</id>
-    <published>2021-05-24T06:03:46Z</published>
-    <updated>2021-05-24T06:03:46Z</updated>
+    <published>2021-05-24T06:47:04Z</published>
+    <updated>2021-05-24T06:47:04Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEFdxl3V7nNCr2CoNmSwDR-4qGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
+    <title type="html">Northern line extension to open in months to support Covid recovery - Metro.co.uk</title>
+    <updated>2021-05-24T06:18:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/05/24/northern-line-extension-to-open-in-months-to-support-covid-recovery-14624771/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/05/24/northern-line-extension-to-open-in-months-to-support-covid-recovery-14624771/" target="_blank"&gt;Northern line extension to open in months to support Covid recovery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbmV3cy91a25ld3MvaG93LXJldGlyZW1lbnQtdmlsbGFnZXMtYXJlLWJlY29taW5nLXBhcnQtb2YtaGlnaC1zdHJlZXQtbGlmZS1pbi10aGUtdWsvYXItQUFLamxuQtIBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-05-23T10:29:52.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/the-first-time-saw-myself-20645109" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/the-first-time-saw-myself-20645109" target="_blank"&gt;South Londoner who lost his eye after holiday accident 'glad he had a spare'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9zb3V0aC1sb25kb24tcmFpbC1wYXNzZW5nZXJzLXVyZ2VkLXRvLXBsYW4tYWhlYWQtZm9yLWxhdGUtbWF5LWJhbmstaG9saWRheS10cmF2ZWwv0gEA?oc=5</id>
-    <title type="html">South London rail passengers urged to plan ahead for late May bank holiday travel - In Your Area</title>
-    <updated>2021-05-21T18:15:55.000000000Z</updated>
-    <link href="https://www.inyourarea.co.uk/news/south-london-rail-passengers-urged-to-plan-ahead-for-late-may-bank-holiday-travel/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.inyourarea.co.uk/news/south-london-rail-passengers-urged-to-plan-ahead-for-late-may-bank-holiday-travel/" target="_blank"&gt;South London rail passengers urged to plan ahead for late May bank holiday travel&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;In Your Area&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
