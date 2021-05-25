@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-25T13:05:10Z</updated>
+  <updated>2021-05-25T13:25:02Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 53%, UV Risk: 3, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 55%, UV Risk: 3, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-05-25T09:56:00.000+0000</id>
-    <published>2021-05-25T13:03:06Z</published>
-    <updated>2021-05-25T13:03:06Z</updated>
+    <published>2021-05-25T13:08:44Z</published>
+    <updated>2021-05-25T13:08:44Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1015mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-05-25T09:56:00.000+0000</id>
-    <published>2021-05-25T13:03:06Z</published>
-    <updated>2021-05-25T13:03:06Z</updated>
+    <published>2021-05-25T13:08:44Z</published>
+    <updated>2021-05-25T13:08:44Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 10°C (49°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:02 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-05-25T09:56:00.000+0000</id>
-    <published>2021-05-25T13:03:06Z</published>
-    <updated>2021-05-25T13:03:06Z</updated>
+    <published>2021-05-25T13:08:44Z</published>
+    <updated>2021-05-25T13:08:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tYmFzZWQtc3RlZWwtb3JjaGVzdHJhLXdoby1wZXJmb3JtZWQtZm9yLXByaW5jZS1oYXJyeS1nZWFyLXVwLWZvci1zdW1tZXItY29uY2VydC_SAQA?oc=5</id>
@@ -95,6 +95,44 @@
       <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829069_ec921575cd_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>(Untitled)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829079/"/>
+    <id>tag:flickr.com,2005:/photo/51176829079</id>
+    <published>2021-05-13T11:00:48Z</published>
+    <updated>2021-05-13T11:00:48Z</updated>
+    <flickr:date_taken>2021-05-12T11:42:15-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-12T11:42:15-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829079/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_m.jpg" width="240" height="168" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Ledlon89</name>
+      <uri>https://www.flickr.com/people/23875695@N06/</uri>
+      <flickr:nsid>23875695@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
@@ -223,42 +261,6 @@
     <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>8125 Abellio London</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/124193440@N06/51176959965/"/>
-    <id>tag:flickr.com,2005:/photo/51176959965</id>
-    <published>2021-05-13T08:45:40Z</published>
-    <updated>2021-05-13T08:45:40Z</updated>
-    <flickr:date_taken>2021-05-01T16:07:08-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-01T16:07:08-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/124193440@N06/"&gt;KLTP17&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/124193440@N06/51176959965/" title="8125 Abellio London"&gt;&lt;img src="https://live.staticflickr.com/65535/51176959965_7a1f4c8a77_m.jpg" width="240" height="137" alt="8125 Abellio London" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>KLTP17</name>
-      <uri>https://www.flickr.com/people/124193440@N06/</uri>
-      <flickr:nsid>124193440@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/124193440@N06.jpg?1594195982#124193440@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176959965_7a1f4c8a77_b.jpg"/>
-    <category term="8125" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx13ehm" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx13ehl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="8124" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abellio" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="adl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
