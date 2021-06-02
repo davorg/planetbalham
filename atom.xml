@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-01T23:32:14Z</updated>
+  <updated>2021-06-02T00:07:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 21:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunset: 21:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-01T21:55:00.000+0000</id>
-    <published>2021-06-01T23:02:23Z</published>
-    <updated>2021-06-01T23:02:23Z</updated>
+    <published>2021-06-02T00:01:28Z</published>
+    <updated>2021-06-02T00:01:28Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 14°C (58°F) Maximum Temperature: 27°C (80°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (80°F), Minimum Temperature: 14°C (58°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1013mb, Humidity: 56%, UV Risk: 7, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-01T21:55:00.000+0000</id>
-    <published>2021-06-01T23:02:23Z</published>
-    <updated>2021-06-01T23:02:23Z</updated>
+    <published>2021-06-02T00:01:28Z</published>
+    <updated>2021-06-02T00:01:28Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 24°C (75°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-01T21:55:00.000+0000</id>
-    <published>2021-06-01T23:02:23Z</published>
-    <updated>2021-06-01T23:02:23Z</updated>
+    <published>2021-06-02T00:01:28Z</published>
+    <updated>2021-06-02T00:01:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMTkzMzU0MDEuZHJlYW1pbmctZmlzaHktZGlubmVycy_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzE5MzM1NDAxLmFtcC8?oc=5</id>
