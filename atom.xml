@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-03T07:15:50Z</updated>
+  <updated>2021-06-03T08:15:13Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-02T21:54:00.000+0000</id>
-    <published>2021-06-03T07:06:15Z</published>
-    <updated>2021-06-03T07:06:15Z</updated>
+    <published>2021-06-03T08:05:40Z</published>
+    <updated>2021-06-03T08:05:40Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-02T21:54:00.000+0000</id>
-    <published>2021-06-03T07:06:15Z</published>
-    <updated>2021-06-03T07:06:15Z</updated>
+    <published>2021-06-03T08:05:40Z</published>
+    <updated>2021-06-03T08:05:40Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (73°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-02T21:54:00.000+0000</id>
-    <published>2021-06-03T07:06:15Z</published>
-    <updated>2021-06-03T07:06:15Z</updated>
+    <published>2021-06-03T08:05:40Z</published>
+    <updated>2021-06-03T08:05:40Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jb20uYXUvMjAyMS8wNi9sZXR0ZXJzLTE5Mi_SAQA?oc=5</id>
+    <title type="html">Letters: The uncivil service - The Spectator Australia</title>
+    <updated>2021-06-03T07:48:11.000000000Z</updated>
+    <link href="https://www.spectator.com.au/2021/06/letters-192/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.spectator.com.au/2021/06/letters-192/" target="_blank"&gt;Letters: The uncivil service&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Spectator Australia&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicWh0dHBzOi8vc3dkLm1lZGlhL3ZpZGVvcy9zY29vdGVyLXJpZGVyLWF2b2lkcy16ZWJyYS1jcm9zc2luZy1idXQtc3RpbGwtY29tZXMtY2xvc2UtdG8taGl0dGluZy1wZWRlc3RyaWFuLTEtMjg0OTEv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-05-24T14:26:00.000000000Z</updated>
     <link href="https://www.cityam.com/retirement-villages-may-offer-high-streets-its-needed-post-pandemic-revival/" type="text/html"/>
     <content type="html">&lt;a href="https://www.cityam.com/retirement-villages-may-offer-high-streets-its-needed-post-pandemic-revival/" target="_blank"&gt;Retirement villages may offer high streets their needed post-pandemic revival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJAjrJpjUtRcFRUhCcJ8B1wqFggEKg4IACoGCAowl6p7MN-zCTDMwRU?oc=5</id>
-    <title type="html">How retirement villages are becoming part of high street life in the UK - The Guardian</title>
-    <updated>2021-05-24T07:00:00.000000000Z</updated>
-    <link href="https://www.theguardian.com/business/2021/may/24/how-retirement-villages-are-becoming-part-of-high-street-life-in-the-uk" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theguardian.com/business/2021/may/24/how-retirement-villages-are-becoming-part-of-high-street-life-in-the-uk" target="_blank"&gt;How retirement villages are becoming part of high street life in the UK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
