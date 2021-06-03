@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-03T16:31:28Z</updated>
+  <updated>2021-06-03T17:14:37Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 13°C (55°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunset: 21:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1021mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-03T09:52:00.000+0000</id>
-    <published>2021-06-03T16:09:05Z</published>
-    <updated>2021-06-03T16:09:05Z</updated>
+    <published>2021-06-03T17:09:08Z</published>
+    <updated>2021-06-03T17:09:08Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 12°C (53°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-03T09:52:00.000+0000</id>
-    <published>2021-06-03T16:09:05Z</published>
-    <updated>2021-06-03T16:09:05Z</updated>
+    <published>2021-06-03T17:09:08Z</published>
+    <updated>2021-06-03T17:09:08Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 23°C (73°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1024mb, Humidity: 55%, UV Risk: 7, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-03T09:52:00.000+0000</id>
-    <published>2021-06-03T16:09:05Z</published>
-    <updated>2021-06-03T16:09:05Z</updated>
+    <published>2021-06-03T17:09:08Z</published>
+    <updated>2021-06-03T17:09:08Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMie2h0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL25ld3MvdWstbmV3cy8yMDIxLzA2LzAzL3B1YnMtZG8tc3RlYWR5LXRyYWRlLWFzLWRvb3JzLXJlb3Blbi1mb3ItaW5kb29yLWRyaW5raW5nLWF0LW1pZG5pZ2h0L9IBAA?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://www.thetrendspotter.net/best-gin-brands/" target="_blank"&gt;25 Best Gin Brands You Need to Know (2021)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Trend Spotter&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMicWh0dHBzOi8vc3dkLm1lZGlhL3ZpZGVvcy9zY29vdGVyLXJpZGVyLWF2b2lkcy16ZWJyYS1jcm9zc2luZy1idXQtc3RpbGwtY29tZXMtY2xvc2UtdG8taGl0dGluZy1wZWRlc3RyaWFuLTEtMjg0OTEv0gEA?oc=5</id>
+    <title type="html">Scooter rider avoids zebra crossing but still comes close to hitting pedestrian - SWD Media</title>
+    <updated>2021-06-01T06:24:05.000000000Z</updated>
+    <link href="https://swd.media/videos/scooter-rider-avoids-zebra-crossing-but-still-comes-close-to-hitting-pedestrian-1-28491/" type="text/html"/>
+    <content type="html">&lt;a href="https://swd.media/videos/scooter-rider-avoids-zebra-crossing-but-still-comes-close-to-hitting-pedestrian-1-28491/" target="_blank"&gt;Scooter rider avoids zebra crossing but still comes close to hitting pedestrian&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SWD Media&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMTkzMzU0MDEuZHJlYW1pbmctZmlzaHktZGlubmVycy_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzE5MzM1NDAxLmFtcC8?oc=5</id>
     <title type="html">'Dreaming of fishy dinner' Arthur Smith hits Brighton Fringe - The Argus</title>
     <updated>2021-05-28T10:45:00.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2021-05-25T07:00:00.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/balham-based-steel-orchestra-who-performed-for-prince-harry-gear-up-for-summer-concert/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-based-steel-orchestra-who-performed-for-prince-harry-gear-up-for-summer-concert/" target="_blank"&gt;Balham-based steel orchestra who performed for Prince Harry gear up for summer concert&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LmNpdHlhbS5jb20vcmV0aXJlbWVudC12aWxsYWdlcy1tYXktb2ZmZXItaGlnaC1zdHJlZXRzLWl0cy1uZWVkZWQtcG9zdC1wYW5kZW1pYy1yZXZpdmFsL9IBZ2h0dHBzOi8vd3d3LmNpdHlhbS5jb20vcmV0aXJlbWVudC12aWxsYWdlcy1tYXktb2ZmZXItaGlnaC1zdHJlZXRzLWl0cy1uZWVkZWQtcG9zdC1wYW5kZW1pYy1yZXZpdmFsL2FtcC8?oc=5</id>
-    <title type="html">Retirement villages may offer high streets their needed post-pandemic revival - City A.M.</title>
-    <updated>2021-05-24T14:26:00.000000000Z</updated>
-    <link href="https://www.cityam.com/retirement-villages-may-offer-high-streets-its-needed-post-pandemic-revival/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cityam.com/retirement-villages-may-offer-high-streets-its-needed-post-pandemic-revival/" target="_blank"&gt;Retirement villages may offer high streets their needed post-pandemic revival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
