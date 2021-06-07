@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-07T15:23:16Z</updated>
+  <updated>2021-06-07T16:08:30Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 23°C (73°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 53%, UV Risk: 5, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:13 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunset: 21:13 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-07T09:57:00.000+0000</id>
-    <published>2021-06-07T15:03:52Z</published>
-    <updated>2021-06-07T15:03:52Z</updated>
+    <published>2021-06-07T16:03:38Z</published>
+    <updated>2021-06-07T16:03:38Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 13°C (54°F) Maximum Temperature: 24°C (76°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 13°C (54°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 55%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-07T09:57:00.000+0000</id>
-    <published>2021-06-07T15:03:52Z</published>
-    <updated>2021-06-07T15:03:52Z</updated>
+    <published>2021-06-07T16:03:38Z</published>
+    <updated>2021-06-07T16:03:38Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 14°C (58°F) Maximum Temperature: 26°C (79°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1023mb, Humidity: 57%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-07T09:57:00.000+0000</id>
-    <published>2021-06-07T15:03:52Z</published>
-    <updated>2021-06-07T15:03:52Z</updated>
+    <published>2021-06-07T16:03:38Z</published>
+    <updated>2021-06-07T16:03:38Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTkzNTU3NTAuYmVzdC1maXNoLWNoaXBzLXdhbmRzd29ydGgtYWNjb3JkaW5nLXJlYWRlcnMv0gEA?oc=5</id>
+    <title type="html">The best fish and chips in Wandsworth according to readers - This is Local London</title>
+    <updated>2021-06-07T16:01:22.000000000Z</updated>
+    <link href="https://www.thisislocallondon.co.uk/news/19355750.best-fish-chips-wandsworth-according-readers/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19355750.best-fish-chips-wandsworth-according-readers/" target="_blank"&gt;The best fish and chips in Wandsworth according to readers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEEyWyNfTn-tAFCfQAN6zLQsqGQgEKhAIACoHCAowqfqFCzD7v4MDMIzLjQY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-06-04T13:51:23.000000000Z</updated>
     <link href="https://www.elle.com/uk/life-and-culture/travel/a36541093/best-chinese-restaurants-london/" type="text/html"/>
     <content type="html">&lt;a href="https://www.elle.com/uk/life-and-culture/travel/a36541093/best-chinese-restaurants-london/" target="_blank"&gt;17 Best Chinese Restaurants In London For Delicate Dim Sum, Blissful Bao And No-Nonsense Noodles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;elle.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL25ld3MvdWstbmV3cy8yMDIxLzA2LzAzL3B1YnMtZG8tc3RlYWR5LXRyYWRlLWFzLWRvb3JzLXJlb3Blbi1mb3ItaW5kb29yLWRyaW5raW5nLWF0LW1pZG5pZ2h0L9IBAA?oc=5</id>
-    <title type="html">Pubs do steady trade as doors reopen for indoor drinking at midnight - Jersey Evening Post</title>
-    <updated>2021-06-03T14:12:34.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/news/uk-news/2021/06/03/pubs-do-steady-trade-as-doors-reopen-for-indoor-drinking-at-midnight/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/news/uk-news/2021/06/03/pubs-do-steady-trade-as-doors-reopen-for-indoor-drinking-at-midnight/" target="_blank"&gt;Pubs do steady trade as doors reopen for indoor drinking at midnight&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Two Sisters in London in 1918</title>
