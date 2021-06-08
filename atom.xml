@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-08T15:58:06Z</updated>
+  <updated>2021-06-08T16:18:46Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 43%, UV Risk: 6, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-08T09:53:00.000+0000</id>
-    <published>2021-06-08T15:52:55Z</published>
-    <updated>2021-06-08T15:52:55Z</updated>
+    <published>2021-06-08T16:03:44Z</published>
+    <updated>2021-06-08T16:03:44Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 15°C (58°F) Maximum Temperature: 25°C (77°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 56%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-08T09:53:00.000+0000</id>
-    <published>2021-06-08T15:52:55Z</published>
-    <updated>2021-06-08T15:52:55Z</updated>
+    <published>2021-06-08T16:03:44Z</published>
+    <updated>2021-06-08T16:03:44Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 15°C (58°F) Maximum Temperature: 23°C (73°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-08T09:53:00.000+0000</id>
-    <published>2021-06-08T15:52:55Z</published>
-    <updated>2021-06-08T15:52:55Z</updated>
+    <published>2021-06-08T16:03:44Z</published>
+    <updated>2021-06-08T16:03:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEDKlHq-ugEgWi6PKZ-v5qLsqMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0Uw5tOKBw?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-06-08T11:15:00.000000000Z</updated>
     <link href="https://www.kentonline.co.uk/deal/news/deals-longest-serving-landlady-was-a-real-life-peter-pan-248635/" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentonline.co.uk/deal/news/deals-longest-serving-landlady-was-a-real-life-peter-pan-248635/" target="_blank"&gt;Deal's longest serving landlady was a 'real life Peter Pan'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEI9xJ3E_0qgFAZkEfALMQaUqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
+    <title type="html">London’s 10 most fascinating sites to learn about Black history - Metro.co.uk</title>
+    <updated>2021-06-08T09:58:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/06/08/londons-10-most-fascinating-sites-to-learn-about-black-history-14735597/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/06/08/londons-10-most-fascinating-sites-to-learn-about-black-history-14735597/" target="_blank"&gt;London’s 10 most fascinating sites to learn about Black history&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MzU1NzUwLmJlc3QtZmlzaC1jaGlwcy13YW5kc3dvcnRoLWFjY29yZGluZy1yZWFkZXJzL9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-06-04T21:23:41.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/06052021-video-how-the-fitness-industry-survived-lockdown/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06052021-video-how-the-fitness-industry-survived-lockdown/" target="_blank"&gt;VIDEO: How the fitness industry survived lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiELTXZVGNepsBZNsjVVrtRgAqGQgEKhAIACoHCAowy4KeCzDcjLYDMNrl6QY?oc=5</id>
-    <title type="html">Balham food blogger embarks on an around-the-Balham culinary tour - South West Londoner</title>
-    <updated>2021-06-04T15:54:36.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/food-drink/04062021-balham-food-blogger-embarks-on-an-around-the-balham-culinary-tour-in-support-of-local-business/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/food-drink/04062021-balham-food-blogger-embarks-on-an-around-the-balham-culinary-tour-in-support-of-local-business/" target="_blank"&gt;Balham food blogger embarks on an around-the-Balham culinary tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Two Sisters in London in 1918</title>
