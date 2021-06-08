@@ -7,45 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-08T08:17:44Z</updated>
+  <updated>2021-06-08T08:56:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 24°C (76°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 11°C (53°F) Maximum Temperature: 24°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-07T21:53:00.000+0000</id>
-    <published>2021-06-08T08:03:37Z</published>
-    <updated>2021-06-08T08:03:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-08T07:54:00.000+0000</id>
+    <published>2021-06-08T08:49:21Z</published>
+    <updated>2021-06-08T08:49:21Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny, Minimum Temperature: 14°C (58°F) Maximum Temperature: 25°C (77°F)</title>
+    <title>Wednesday: Sunny, Minimum Temperature: 15°C (58°F) Maximum Temperature: 25°C (77°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 56%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 56%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-07T21:53:00.000+0000</id>
-    <published>2021-06-08T08:03:37Z</published>
-    <updated>2021-06-08T08:03:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-08T07:54:00.000+0000</id>
+    <published>2021-06-08T08:49:21Z</published>
+    <updated>2021-06-08T08:49:21Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (58°F) Maximum Temperature: 25°C (77°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-07T21:53:00.000+0000</id>
-    <published>2021-06-08T08:03:37Z</published>
-    <updated>2021-06-08T08:03:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-08T07:54:00.000+0000</id>
+    <published>2021-06-08T08:49:21Z</published>
+    <updated>2021-06-08T08:49:21Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5MzU1NzUwLmJlc3QtZmlzaC1jaGlwcy13YW5kc3dvcnRoLWFjY29yZGluZy1yZWFkZXJzL9IBAA?oc=5</id>
-    <title type="html">The best fish and chips in Wandsworth according to readers - Wandsworth Guardian</title>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTkzNTU3NTAuYmVzdC1maXNoLWNoaXBzLXdhbmRzd29ydGgtYWNjb3JkaW5nLXJlYWRlcnMv0gEA?oc=5</id>
+    <title type="html">The best fish and chips in Wandsworth according to readers - This is Local London</title>
     <updated>2021-06-07T16:01:22.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19355750.best-fish-chips-wandsworth-according-readers/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19355750.best-fish-chips-wandsworth-according-readers/" target="_blank"&gt;The best fish and chips in Wandsworth according to readers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+    <link href="https://www.thisislocallondon.co.uk/news/19355750.best-fish-chips-wandsworth-according-readers/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19355750.best-fish-chips-wandsworth-according-readers/" target="_blank"&gt;The best fish and chips in Wandsworth according to readers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEEyWyNfTn-tAFCfQAN6zLQsqGQgEKhAIACoHCAowqfqFCzD7v4MDMIzLjQY?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06052021-video-how-the-fitness-industry-survived-lockdown/" target="_blank"&gt;VIDEO: How the fitness industry survived lockdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmVsbGUuY29tL3VrL2xpZmUtYW5kLWN1bHR1cmUvdHJhdmVsL2EzNjU0MTA5My9iZXN0LWNoaW5lc2UtcmVzdGF1cmFudHMtbG9uZG9uL9IBXGh0dHBzOi8vd3d3LmVsbGUuY29tL3VrL2xpZmUtYW5kLWN1bHR1cmUvdHJhdmVsL2FtcDM2NTQxMDkzL2Jlc3QtY2hpbmVzZS1yZXN0YXVyYW50cy1sb25kb24v?oc=5</id>
-    <title type="html">17 Best Chinese Restaurants In London For Delicate Dim Sum, Blissful Bao And No-Nonsense Noodles - elle.com</title>
-    <updated>2021-06-04T13:51:23.000000000Z</updated>
-    <link href="https://www.elle.com/uk/life-and-culture/travel/a36541093/best-chinese-restaurants-london/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.elle.com/uk/life-and-culture/travel/a36541093/best-chinese-restaurants-london/" target="_blank"&gt;17 Best Chinese Restaurants In London For Delicate Dim Sum, Blissful Bao And No-Nonsense Noodles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;elle.com&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiELTXZVGNepsBZNsjVVrtRgAqGQgEKhAIACoHCAowy4KeCzDcjLYDMNrl6QY?oc=5</id>
+    <title type="html">Balham food blogger embarks on an around-the-Balham culinary tour - South West Londoner</title>
+    <updated>2021-06-04T15:54:36.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/food-drink/04062021-balham-food-blogger-embarks-on-an-around-the-balham-culinary-tour-in-support-of-local-business/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/food-drink/04062021-balham-food-blogger-embarks-on-an-around-the-balham-culinary-tour-in-support-of-local-business/" target="_blank"&gt;Balham food blogger embarks on an around-the-Balham culinary tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Two Sisters in London in 1918</title>
