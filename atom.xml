@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-09T13:58:11Z</updated>
+  <updated>2021-06-09T14:17:11Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tYm9ybi1hY3Rvci1wZXJmb3Jtcy1vbmUtbWFuLXNob3ctaW5zcGlyZWQtYnktdGhlLWRlYXRoLW9mLWdlb3JnZS1mbG95ZC_SAQA?oc=5</id>
-    <title type="html">Balham born actor performs one-man show inspired by the death of George Floyd - London News Online</title>
-    <updated>2021-06-09T13:45:52.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" target="_blank"&gt;Balham born actor performs one-man show inspired by the death of George Floyd&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 14°C (58°F) Maximum Temperature: 25°C (77°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 39%, UV Risk: 6, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-09T09:53:00.000+0000</id>
-    <published>2021-06-09T13:09:34Z</published>
-    <updated>2021-06-09T13:09:34Z</updated>
+    <published>2021-06-09T14:10:21Z</published>
+    <updated>2021-06-09T14:10:21Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 15°C (59°F) Maximum Temperature: 24°C (75°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-09T09:53:00.000+0000</id>
-    <published>2021-06-09T13:09:34Z</published>
-    <updated>2021-06-09T13:09:34Z</updated>
+    <published>2021-06-09T14:10:21Z</published>
+    <updated>2021-06-09T14:10:21Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 14°C (56°F) Maximum Temperature: 23°C (73°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (56°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-09T09:53:00.000+0000</id>
-    <published>2021-06-09T13:09:34Z</published>
-    <updated>2021-06-09T13:09:34Z</updated>
+    <published>2021-06-09T14:10:21Z</published>
+    <updated>2021-06-09T14:10:21Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tYm9ybi1hY3Rvci1wZXJmb3Jtcy1vbmUtbWFuLXNob3ctaW5zcGlyZWQtYnktdGhlLWRlYXRoLW9mLWdlb3JnZS1mbG95ZC_SAQA?oc=5</id>
+    <title type="html">Balham born actor performs one-man show inspired by the death of George Floyd - London News Online</title>
+    <updated>2021-06-09T13:45:52.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" target="_blank"&gt;Balham born actor performs one-man show inspired by the death of George Floyd&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEDKlHq-ugEgWi6PKZ-v5qLsqMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0Uw5tOKBw?oc=5</id>
@@ -311,15 +311,15 @@ The Army headquarters was an enormous administrative body, divided into five dep
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51177128770/"/>
-    <id>tag:flickr.com,2005:/photo/51177128770</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51175361277/"/>
+    <id>tag:flickr.com,2005:/photo/51175361277</id>
     <published>2021-05-13T11:00:46Z</published>
     <updated>2021-05-13T11:00:46Z</updated>
-    <flickr:date_taken>2021-05-09T12:31:12-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-09T12:31:12-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-05-10T11:02:50-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-10T11:02:50-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51177128770/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51177128770_a9b8342e5f_m.jpg" width="240" height="152" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51175361277/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51175361277_74b84d61d7_m.jpg" width="240" height="140" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -328,7 +328,7 @@ The Army headquarters was an enormous administrative body, divided into five dep
       <flickr:nsid>23875695@N06</flickr:nsid>
       <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51177128770_a9b8342e5f_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51175361277_74b84d61d7_b.jpg"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
