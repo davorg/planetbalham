@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-14T14:16:30Z</updated>
+  <updated>2021-06-14T14:51:03Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 15°C (60°F) Maximum Temperature: 28°C (82°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (60°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 43%, UV Risk: 7, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (60°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 44%, UV Risk: 7, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-14T09:56:00.000+0000</id>
-    <published>2021-06-14T14:00:51Z</published>
-    <updated>2021-06-14T14:00:51Z</updated>
+    <published>2021-06-14T14:46:12Z</published>
+    <updated>2021-06-14T14:46:12Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 25°C (77°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 14°C (58°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1021mb, Humidity: 51%, UV Risk: 7, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-14T09:56:00.000+0000</id>
-    <published>2021-06-14T14:00:51Z</published>
-    <updated>2021-06-14T14:00:51Z</updated>
+    <published>2021-06-14T14:46:12Z</published>
+    <updated>2021-06-14T14:46:12Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 17°C (62°F) Maximum Temperature: 28°C (82°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 17°C (62°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1013mb, Humidity: 54%, UV Risk: 7, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-14T09:56:00.000+0000</id>
-    <published>2021-06-14T14:00:51Z</published>
-    <updated>2021-06-14T14:00:51Z</updated>
+    <published>2021-06-14T14:46:12Z</published>
+    <updated>2021-06-14T14:46:12Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMNReQh4HzFWKnT-ZIjLRvYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-house-prices-every-young-20784875" target="_blank"&gt;London house prices: Why every young professional in the city seems to be moving to Tooting of all places&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMDY1MC9ib3JhdC13cml0ZXItcG9kY2FzdNIBAA?oc=5</id>
+    <title type="html">peter Baynham Borat Writer Launches Podcast - Beyond The Joke</title>
+    <updated>2021-06-10T08:59:07.000000000Z</updated>
+    <link href="https://www.beyondthejoke.co.uk/content/10650/borat-writer-podcast" type="text/html"/>
+    <content type="html">&lt;a href="https://www.beyondthejoke.co.uk/content/10650/borat-writer-podcast" target="_blank"&gt;peter Baynham Borat Writer Launches Podcast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEIFxy6c1YNO_mB6zegO6NFIqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">South London's only LGBTQ+ church risks closure in a matter of months - My London</title>
     <updated>2021-06-09T14:52:30.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2021-06-09T13:45:52.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" target="_blank"&gt;Balham born actor performs one-man show inspired by the death of George Floyd&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEI9xJ3E_0qgFAZkEfALMQaUqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
-    <title type="html">London’s 10 most fascinating sites to learn about Black history - Metro.co.uk</title>
-    <updated>2021-06-08T09:58:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/06/08/londons-10-most-fascinating-sites-to-learn-about-black-history-14735597/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/06/08/londons-10-most-fascinating-sites-to-learn-about-black-history-14735597/" target="_blank"&gt;London’s 10 most fascinating sites to learn about Black history&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl in London</title>
