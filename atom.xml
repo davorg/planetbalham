@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-15T11:16:42Z</updated>
+  <updated>2021-06-15T11:51:22Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMS8wNi8xNS9jb3VwbGUtd2hvLWZlbGwtaW4tbG92ZS1hdC1tY2RvbmFsZHMtaGVhZC10by1kcml2ZS10aHJ1LWZvci13ZWRkaW5nLTE0Nzc0NTAxL9IBcGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMS8wNi8xNS9jb3VwbGUtd2hvLWZlbGwtaW4tbG92ZS1hdC1tY2RvbmFsZHMtaGVhZC10by1kcml2ZS10aHJ1LWZvci13ZWRkaW5nLTE0Nzc0NTAxL2FtcC8?oc=5</id>
+    <title type="html">Couple who fell in love at McDonald's head to drive thru for wedding - Metro</title>
+    <updated>2021-06-15T11:31:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/06/15/couple-who-fell-in-love-at-mcdonalds-head-to-drive-thru-for-wedding-14774501/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/06/15/couple-who-fell-in-love-at-mcdonalds-head-to-drive-thru-for-wedding-14774501/" target="_blank"&gt;Couple who fell in love at McDonald's head to drive thru for wedding&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 25°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -101,13 +108,47 @@
     <link href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" target="_blank"&gt;Balham born actor performs one-man show inspired by the death of George Floyd&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEDKlHq-ugEgWi6PKZ-v5qLsqMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0Uw5tOKBw?oc=5</id>
-    <title type="html">Deal's longest serving landlady was a 'real life Peter Pan' - Kent Online</title>
-    <updated>2021-06-08T11:15:00.000000000Z</updated>
-    <link href="https://www.kentonline.co.uk/deal/news/deals-longest-serving-landlady-was-a-real-life-peter-pan-248635/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.kentonline.co.uk/deal/news/deals-longest-serving-landlady-was-a-real-life-peter-pan-248635/" target="_blank"&gt;Deal's longest serving landlady was a 'real life Peter Pan'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl in London</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51222295855/"/>
+    <id>tag:flickr.com,2005:/photo/51222295855</id>
+    <published>2021-06-02T23:26:53Z</published>
+    <updated>2021-06-02T23:26:53Z</updated>
+    <flickr:date_taken>2021-06-03T00:23:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-03T00:23:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/51222295855/" title="Girl in London"&gt;&lt;img src="https://live.staticflickr.com/65535/51222295855_95caced1e7_m.jpg" width="168" height="240" alt="Girl in London" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+A postally unused postcard that was published by The Wykeham Studios Ltd. of Balham, Streatham and Brixton. The card has a divided back.&lt;br /&gt;
+&lt;br /&gt;
+There are no indications as to the identity of the girl or the date of the photograph.&lt;/p&gt;</content>
+    <author>
+      <name>pepandtim</name>
+      <uri>https://www.flickr.com/people/november_song/</uri>
+      <flickr:nsid>38123425@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51222295855_95caced1e7_b.jpg"/>
+    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wykeham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="studios" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brixton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="55grl89" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Two Sisters in London in 1918</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51218782142/"/>
@@ -286,44 +327,6 @@ The Army headquarters was an enormous administrative body, divided into five dep
       <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829039/"/>
-    <id>tag:flickr.com,2005:/photo/51176829039</id>
-    <published>2021-05-13T11:00:47Z</published>
-    <updated>2021-05-13T11:00:47Z</updated>
-    <flickr:date_taken>2021-05-10T11:02:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-10T11:02:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829039/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829039_48b2279f3f_m.jpg" width="240" height="122" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ledlon89</name>
-      <uri>https://www.flickr.com/people/23875695@N06/</uri>
-      <flickr:nsid>23875695@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829039_48b2279f3f_b.jpg"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
