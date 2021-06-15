@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-15T17:05:25Z</updated>
+  <updated>2021-06-15T17:22:37Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 72%, UV Risk: 2, Pollution: Moderate, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 73%, UV Risk: 2, Pollution: Moderate, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-15T09:58:00.000+0000</id>
-    <published>2021-06-15T17:00:45Z</published>
-    <updated>2021-06-15T17:00:45Z</updated>
+    <published>2021-06-15T17:05:49Z</published>
+    <updated>2021-06-15T17:05:49Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 17°C (63°F) Maximum Temperature: 29°C (84°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (84°F), Minimum Temperature: 17°C (63°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1012mb, Humidity: 56%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-15T09:58:00.000+0000</id>
-    <published>2021-06-15T17:00:45Z</published>
-    <updated>2021-06-15T17:00:45Z</updated>
+    <published>2021-06-15T17:05:49Z</published>
+    <updated>2021-06-15T17:05:49Z</updated>
   </entry>
   <entry>
     <title>Thursday: Thundery Showers, Minimum Temperature: 15°C (58°F) Maximum Temperature: 22°C (71°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 15°C (58°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 77%, UV Risk: 2, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-15T09:58:00.000+0000</id>
-    <published>2021-06-15T17:00:45Z</published>
-    <updated>2021-06-15T17:00:45Z</updated>
+    <published>2021-06-15T17:05:49Z</published>
+    <updated>2021-06-15T17:05:49Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEB0QkCg3Gc4UMWmnJ9uLWHkqGAgEKg8IACoHCAowqa6gCTCuoHAw3oqLAw?oc=5</id>
@@ -88,13 +88,6 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/celebs/what-happened-del-boy-after-20794234" target="_blank"&gt;What happened to Del Boy after Only Fools and Horses ended&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LnZlZ2FuZm9vZGFuZGxpdmluZy5jb20vbmV3cy92ZWdhbi1yZXN0YXVyYW50LWxvbmRvbi1saWNrbGUtc3VnYXJjYW5lL9IBAA?oc=5</id>
-    <title type="html">Meet Lickle Sugarcane, the vegan Caribbean restaurant serving more than just delicious food - Vegan Food and Living</title>
-    <updated>2021-06-11T08:13:26.000000000Z</updated>
-    <link href="https://www.veganfoodandliving.com/news/vegan-restaurant-london-lickle-sugarcane/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.veganfoodandliving.com/news/vegan-restaurant-london-lickle-sugarcane/" target="_blank"&gt;Meet Lickle Sugarcane, the vegan Caribbean restaurant serving more than just delicious food&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Vegan Food and Living&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEO3yWFs41CH9HXoQFPVk54AqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">London house prices: Why every young professional in the city seems to be moving to Tooting of all places - My London</title>
     <updated>2021-06-10T20:42:49.000000000Z</updated>
@@ -107,6 +100,13 @@
     <updated>2021-06-10T08:59:07.000000000Z</updated>
     <link href="https://www.beyondthejoke.co.uk/content/10650/borat-writer-podcast" type="text/html"/>
     <content type="html">&lt;a href="https://www.beyondthejoke.co.uk/content/10650/borat-writer-podcast" target="_blank"&gt;peter Baynham Borat Writer Launches Podcast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tYm9ybi1hY3Rvci1wZXJmb3Jtcy1vbmUtbWFuLXNob3ctaW5zcGlyZWQtYnktdGhlLWRlYXRoLW9mLWdlb3JnZS1mbG95ZC_SAQA?oc=5</id>
+    <title type="html">Balham born actor performs one-man show inspired by the death of George Floyd - London News Online</title>
+    <updated>2021-06-09T13:45:52.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" target="_blank"&gt;Balham born actor performs one-man show inspired by the death of George Floyd&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl in London</title>
@@ -309,15 +309,15 @@ The Army headquarters was an enormous administrative body, divided into five dep
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829039/"/>
-    <id>tag:flickr.com,2005:/photo/51176829039</id>
-    <published>2021-05-13T11:00:47Z</published>
-    <updated>2021-05-13T11:00:47Z</updated>
-    <flickr:date_taken>2021-05-10T11:02:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-10T11:02:17-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829079/"/>
+    <id>tag:flickr.com,2005:/photo/51176829079</id>
+    <published>2021-05-13T11:00:48Z</published>
+    <updated>2021-05-13T11:00:48Z</updated>
+    <flickr:date_taken>2021-05-12T11:42:15-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-12T11:42:15-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829039/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829039_48b2279f3f_m.jpg" width="240" height="122" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829079/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_m.jpg" width="240" height="168" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -326,7 +326,7 @@ The Army headquarters was an enormous administrative body, divided into five dep
       <flickr:nsid>23875695@N06</flickr:nsid>
       <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829039_48b2279f3f_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
