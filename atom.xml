@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-15T10:53:40Z</updated>
+  <updated>2021-06-15T11:16:42Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 25°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 48%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 48%, UV Risk: 8, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-15T07:01:00.000+0000</id>
-    <published>2021-06-15T10:01:31Z</published>
-    <updated>2021-06-15T10:01:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-15T09:58:00.000+0000</id>
+    <published>2021-06-15T11:03:15Z</published>
+    <updated>2021-06-15T11:03:15Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny, Minimum Temperature: 18°C (64°F) Maximum Temperature: 29°C (84°F)</title>
+    <title>Wednesday: Sunny, Minimum Temperature: 17°C (63°F) Maximum Temperature: 29°C (84°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (84°F), Minimum Temperature: 18°C (64°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1012mb, Humidity: 56%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (84°F), Minimum Temperature: 17°C (63°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1012mb, Humidity: 56%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-15T07:01:00.000+0000</id>
-    <published>2021-06-15T10:01:31Z</published>
-    <updated>2021-06-15T10:01:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-15T09:58:00.000+0000</id>
+    <published>2021-06-15T11:03:15Z</published>
+    <updated>2021-06-15T11:03:15Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Thundery Showers, Minimum Temperature: 15°C (59°F) Maximum Temperature: 23°C (72°F)</title>
+    <title>Thursday: Thundery Showers, Minimum Temperature: 15°C (58°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 77%, UV Risk: 3, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 15°C (58°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 77%, UV Risk: 2, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-15T07:01:00.000+0000</id>
-    <published>2021-06-15T10:01:31Z</published>
-    <updated>2021-06-15T10:01:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-15T09:58:00.000+0000</id>
+    <published>2021-06-15T11:03:15Z</published>
+    <updated>2021-06-15T11:03:15Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
@@ -95,60 +95,19 @@
     <content type="html">&lt;a href="https://www.beyondthejoke.co.uk/content/10650/borat-writer-podcast" target="_blank"&gt;peter Baynham Borat Writer Launches Podcast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEIFxy6c1YNO_mB6zegO6NFIqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">South London's only LGBTQ+ church risks closure in a matter of months - My London</title>
-    <updated>2021-06-09T14:52:30.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/unless-find-solutions-dread-think-20770877" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/unless-find-solutions-dread-think-20770877" target="_blank"&gt;South London's only LGBTQ+ church risks closure in a matter of months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tYm9ybi1hY3Rvci1wZXJmb3Jtcy1vbmUtbWFuLXNob3ctaW5zcGlyZWQtYnktdGhlLWRlYXRoLW9mLWdlb3JnZS1mbG95ZC_SAQA?oc=5</id>
     <title type="html">Balham born actor performs one-man show inspired by the death of George Floyd - London News Online</title>
     <updated>2021-06-09T13:45:52.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-born-actor-performs-one-man-show-inspired-by-the-death-of-george-floyd/" target="_blank"&gt;Balham born actor performs one-man show inspired by the death of George Floyd&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Girl in London</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51222295855/"/>
-    <id>tag:flickr.com,2005:/photo/51222295855</id>
-    <published>2021-06-02T23:26:53Z</published>
-    <updated>2021-06-02T23:26:53Z</updated>
-    <flickr:date_taken>2021-06-03T00:23:03-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-03T00:23:03-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/51222295855/" title="Girl in London"&gt;&lt;img src="https://live.staticflickr.com/65535/51222295855_95caced1e7_m.jpg" width="168" height="240" alt="Girl in London" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-A postally unused postcard that was published by The Wykeham Studios Ltd. of Balham, Streatham and Brixton. The card has a divided back.&lt;br /&gt;
-&lt;br /&gt;
-There are no indications as to the identity of the girl or the date of the photograph.&lt;/p&gt;</content>
-    <author>
-      <name>pepandtim</name>
-      <uri>https://www.flickr.com/people/november_song/</uri>
-      <flickr:nsid>38123425@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51222295855_95caced1e7_b.jpg"/>
-    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wykeham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="studios" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brixton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="55grl89" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDKlHq-ugEgWi6PKZ-v5qLsqMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0Uw5tOKBw?oc=5</id>
+    <title type="html">Deal's longest serving landlady was a 'real life Peter Pan' - Kent Online</title>
+    <updated>2021-06-08T11:15:00.000000000Z</updated>
+    <link href="https://www.kentonline.co.uk/deal/news/deals-longest-serving-landlady-was-a-real-life-peter-pan-248635/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.kentonline.co.uk/deal/news/deals-longest-serving-landlady-was-a-real-life-peter-pan-248635/" target="_blank"&gt;Deal's longest serving landlady was a 'real life Peter Pan'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Two Sisters in London in 1918</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51218782142/"/>
@@ -327,6 +286,44 @@ The Army headquarters was an enormous administrative body, divided into five dep
       <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>(Untitled)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829039/"/>
+    <id>tag:flickr.com,2005:/photo/51176829039</id>
+    <published>2021-05-13T11:00:47Z</published>
+    <updated>2021-05-13T11:00:47Z</updated>
+    <flickr:date_taken>2021-05-10T11:02:17-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-10T11:02:17-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829039/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829039_48b2279f3f_m.jpg" width="240" height="122" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Ledlon89</name>
+      <uri>https://www.flickr.com/people/23875695@N06/</uri>
+      <flickr:nsid>23875695@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829039_48b2279f3f_b.jpg"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
