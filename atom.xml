@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-16T20:51:27Z</updated>
+  <updated>2021-06-16T21:16:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 18°C (65°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1008mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-16T19:56:00.000+0000</id>
-    <published>2021-06-16T20:28:03Z</published>
-    <updated>2021-06-16T20:28:03Z</updated>
+    <published>2021-06-16T21:01:03Z</published>
+    <updated>2021-06-16T21:01:03Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 24°C (74°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (74°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-16T19:56:00.000+0000</id>
-    <published>2021-06-16T20:28:03Z</published>
-    <updated>2021-06-16T20:28:03Z</updated>
+    <published>2021-06-16T21:01:03Z</published>
+    <updated>2021-06-16T21:01:03Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 17°C (62°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 85%, UV Risk: 3, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-16T19:56:00.000+0000</id>
-    <published>2021-06-16T20:28:03Z</published>
-    <updated>2021-06-16T20:28:03Z</updated>
+    <published>2021-06-16T21:01:03Z</published>
+    <updated>2021-06-16T21:01:03Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
@@ -108,13 +108,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZW5nbGFuZC1zZWVrcy1jb3ZpZC0xOS12YWNjaW5hdGlvbnMtMTQ1ODAxNDAyLmh0bWzSAVRodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZW5nbGFuZC1zZWVrcy1jb3ZpZC0xOS12YWNjaW5hdGlvbnMtMTQ1ODAxNDAyLmh0bWw?oc=5</id>
-    <title type="html">England seeks to make COVID-19 vaccinations compulsory for care workers - Yahoo News UK</title>
-    <updated>2021-06-16T14:58:01.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/england-seeks-covid-19-vaccinations-145801402.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/england-seeks-covid-19-vaccinations-145801402.html" target="_blank"&gt;England seeks to make COVID-19 vaccinations compulsory for care workers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcnVzc2lhLWZpbmUtbW9zY293LWJ1c2luZXNzZXMtZmFpbC0xNDM4NTA3MjYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ydXNzaWEtZmluZS1tb3Njb3ctYnVzaW5lc3Nlcy1mYWlsLTE0Mzg1MDcyNi5odG1s?oc=5</id>
     <title type="html">Russia to fine Moscow businesses that fail to ensure employee vaccination: TASS - Yahoo News UK</title>
     <updated>2021-06-16T14:38:50.000000000Z</updated>
@@ -141,6 +134,13 @@
     <updated>2021-06-16T12:34:00.000000000Z</updated>
     <link href="https://londonist.com/london/best-of-london/trap-kitchen-south-london-soulfood-joint" type="text/html"/>
     <content type="html">&lt;a href="https://londonist.com/london/best-of-london/trap-kitchen-south-london-soulfood-joint" target="_blank"&gt;Trap Kitchen: South London Soulfood With A Cult Following&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdWtyYWluZS1oYWNrZXJzLXVuY292ZXJlZC10YXJnZXRlZC11LTA5MTQwNjUxNy5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3VrcmFpbmUtaGFja2Vycy11bmNvdmVyZWQtdGFyZ2V0ZWQtdS0wOTE0MDY1MTcuaHRtbA?oc=5</id>
+    <title type="html">Ukraine hackers uncovered who targeted U.S., Korean firms, say police - Yahoo News UK</title>
+    <updated>2021-06-16T09:14:06.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/ukraine-hackers-uncovered-targeted-u-091406517.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/ukraine-hackers-uncovered-targeted-u-091406517.html" target="_blank"&gt;Ukraine hackers uncovered who targeted U.S., Korean firms, say police&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
