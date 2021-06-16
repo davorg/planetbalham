@@ -7,23 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-16T13:53:29Z</updated>
+  <updated>2021-06-16T14:16:25Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYWxheXNpYW4tY291cnQtY2hhbmdlcy12ZXJkaWN0LXRvLW9wZW4tcnVsaW5nLWluLW5vcmEtcXVvaXJpbi1jYXNlL9IBAA?oc=5</id>
-    <title type="html">Malaysian court changes verdict to “open ruling” in Nóra Quoirin case - London News Online</title>
-    <updated>2021-06-16T13:39:30.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/malaysian-court-changes-verdict-to-open-ruling-in-nora-quoirin-case/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/malaysian-court-changes-verdict-to-open-ruling-in-nora-quoirin-case/" target="_blank"&gt;Malaysian court changes verdict to “open ruling” in Nóra Quoirin case&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2JhcnMvYmVzdC1iZWVyLWdhcmRlbnMtbG9uZG9uLXB1YnMtYjkyODE1MC5odG1s0gFXaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvcmV2ZWxsZXIvYmFycy9iZXN0LWJlZXItZ2FyZGVucy1sb25kb24tcHVicy1iOTI4MTUwLmh0bWw_YW1w?oc=5</id>
-    <title type="html">The biggest pub and beer gardens in London - Evening Standard</title>
-    <updated>2021-06-16T13:34:26.000000000Z</updated>
-    <link href="https://www.standard.co.uk/reveller/bars/best-beer-gardens-london-pubs-b928150.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/reveller/bars/best-beer-gardens-london-pubs-b928150.html" target="_blank"&gt;The biggest pub and beer gardens in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 18°C (64°F) Maximum Temperature: 28°C (82°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -31,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 18°C (64°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1009mb, Humidity: 46%, UV Risk: 6, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-16T07:34:00.000+0000</id>
-    <published>2021-06-16T13:20:32Z</published>
-    <updated>2021-06-16T13:20:32Z</updated>
+    <published>2021-06-16T14:00:09Z</published>
+    <updated>2021-06-16T14:00:09Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (72°F)</title>
@@ -41,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-16T07:34:00.000+0000</id>
-    <published>2021-06-16T13:20:32Z</published>
-    <updated>2021-06-16T13:20:32Z</updated>
+    <published>2021-06-16T14:00:09Z</published>
+    <updated>2021-06-16T14:00:09Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 17°C (63°F)</title>
@@ -51,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 83%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-16T07:34:00.000+0000</id>
-    <published>2021-06-16T13:20:32Z</published>
-    <updated>2021-06-16T13:20:32Z</updated>
+    <published>2021-06-16T14:00:09Z</published>
+    <updated>2021-06-16T14:00:09Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAcg6p-a739TfMp9aufcyiYqFwgEKg4IACoGCAowqvB9MMTRCTCHn-8G?oc=5</id>
+    <title type="html">The biggest pub and beer gardens in London - Evening Standard</title>
+    <updated>2021-06-16T13:34:26.000000000Z</updated>
+    <link href="https://www.standard.co.uk/reveller/bars/best-beer-gardens-london-pubs-b928150.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/reveller/bars/best-beer-gardens-london-pubs-b928150.html" target="_blank"&gt;The biggest pub and beer gardens in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L25vcmEtcXVvaXJpbi1tYWxheXNpYS1jb3VydC1vdmVydHVybnMtY29yb25lcnMtdmVyZGljdC10aGF0LXRlZW5zLWRlYXRoLXdhcy1taXNhZHZlbnR1cmUtMTIzMzM5NDPSAYABaHR0cHM6Ly9uZXdzLnNreS5jb20vc3RvcnkvYW1wL25vcmEtcXVvaXJpbi1tYWxheXNpYS1jb3VydC1vdmVydHVybnMtY29yb25lcnMtdmVyZGljdC10aGF0LXRlZW5zLWRlYXRoLXdhcy1taXNhZHZlbnR1cmUtMTIzMzM5NDM?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-06-16T07:05:01.000000000Z</updated>
     <link href="https://primeresi.com/b-corp-developer-celebrates-sell-out-at-wellbeing-focused-scheme-in-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://primeresi.com/b-corp-developer-celebrates-sell-out-at-wellbeing-focused-scheme-in-balham/" target="_blank"&gt;B Corp developer celebrates sell-out at wellbeing-focused scheme in Balham • PrimeResi&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PrimeResi&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9jbGFwaGFtLWp1bmN0aW9uLWZpcmUtbGl2ZS11cGRhdGVzLTIwODIwMTc00gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2NsYXBoYW0tanVuY3Rpb24tZmlyZS1saXZlLXVwZGF0ZXMtMjA4MjAxNzQuYW1w?oc=5</id>
+    <title type="html">As it happened: Delays to train services after train catches fire at Clapham Junction - MyLondon</title>
+    <updated>2021-06-15T12:43:15.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/clapham-junction-fire-live-updates-20820174" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/clapham-junction-fire-live-updates-20820174" target="_blank"&gt;As it happened: Delays to train services after train catches fire at Clapham Junction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
