@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-16T17:04:36Z</updated>
+  <updated>2021-06-16T17:58:35Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Thundery Showers, Minimum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 18°C (64°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 18°C (64°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-16T07:34:00.000+0000</id>
-    <published>2021-06-16T17:02:48Z</published>
-    <updated>2021-06-16T17:02:48Z</updated>
+    <published>2021-06-16T17:25:24Z</published>
+    <updated>2021-06-16T17:25:24Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-16T07:34:00.000+0000</id>
-    <published>2021-06-16T17:02:48Z</published>
-    <updated>2021-06-16T17:02:48Z</updated>
+    <published>2021-06-16T17:25:24Z</published>
+    <updated>2021-06-16T17:25:24Z</updated>
   </entry>
   <entry>
     <title>Friday: Heavy Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 83%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-16T07:34:00.000+0000</id>
-    <published>2021-06-16T17:02:48Z</published>
-    <updated>2021-06-16T17:02:48Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMDYvMTYvbm9yYS1xdW9pcmluLXRoaXJkLXBhcnR5LWNvdWxkLWhhdmUtaW52b2x2ZWQtZGVhdGgtY291cnQtcnVsZXMv0gFvaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL25ld3MvMjAyMS8wNi8xNi9ub3JhLXF1b2lyaW4tdGhpcmQtcGFydHktY291bGQtaGF2ZS1pbnZvbHZlZC1kZWF0aC1jb3VydC1ydWxlcy9hbXAv?oc=5</id>
-    <title type="html">Nora Quoirin: Third party could have been involved in death, court rules - Telegraph.co.uk</title>
-    <updated>2021-06-16T17:00:00.000000000Z</updated>
-    <link href="https://www.telegraph.co.uk/news/2021/06/16/nora-quoirin-third-party-could-have-involved-death-court-rules/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/06/16/nora-quoirin-third-party-could-have-involved-death-court-rules/" target="_blank"&gt;Nora Quoirin: Third party could have been involved in death, court rules&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
+    <published>2021-06-16T17:25:24Z</published>
+    <updated>2021-06-16T17:25:24Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
@@ -142,6 +135,13 @@
     <link href="https://news.sky.com/story/nora-quoirin-malaysia-court-overturns-coroners-verdict-that-teens-death-was-misadventure-12333943" type="text/html"/>
     <content type="html">&lt;a href="https://news.sky.com/story/nora-quoirin-malaysia-court-overturns-coroners-verdict-that-teens-death-was-misadventure-12333943" target="_blank"&gt;Nora Quoirin: Malaysia court overturns coroner's verdict that teen's death was misadventure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky News&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vYmVzdC1vZi1sb25kb24vdHJhcC1raXRjaGVuLXNvdXRoLWxvbmRvbi1zb3VsZm9vZC1qb2ludNIBAA?oc=5</id>
+    <title type="html">Trap Kitchen: South London Soulfood With A Cult Following - Londonist</title>
+    <updated>2021-06-16T12:34:00.000000000Z</updated>
+    <link href="https://londonist.com/london/best-of-london/trap-kitchen-south-london-soulfood-joint" type="text/html"/>
+    <content type="html">&lt;a href="https://londonist.com/london/best-of-london/trap-kitchen-south-london-soulfood-joint" target="_blank"&gt;Trap Kitchen: South London Soulfood With A Cult Following&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/193238425@N02/51247378841/"/>
@@ -172,47 +172,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="commute" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Girl in London</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51222295855/"/>
-    <id>tag:flickr.com,2005:/photo/51222295855</id>
-    <published>2021-06-02T23:26:53Z</published>
-    <updated>2021-06-02T23:26:53Z</updated>
-    <flickr:date_taken>2021-06-03T00:23:03-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-03T00:23:03-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/51222295855/" title="Girl in London"&gt;&lt;img src="https://live.staticflickr.com/65535/51222295855_95caced1e7_m.jpg" width="168" height="240" alt="Girl in London" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-A postally unused postcard that was published by The Wykeham Studios Ltd. of Balham, Streatham and Brixton. The card has a divided back.&lt;br /&gt;
-&lt;br /&gt;
-There are no indications as to the identity of the girl or the date of the photograph.&lt;/p&gt;</content>
-    <author>
-      <name>pepandtim</name>
-      <uri>https://www.flickr.com/people/november_song/</uri>
-      <flickr:nsid>38123425@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51222295855_95caced1e7_b.jpg"/>
-    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wykeham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="studios" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brixton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="55grl89" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -333,6 +292,44 @@ The Army headquarters was an enormous administrative body, divided into five dep
     <category term="sector" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="haigh" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="22tsl39" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>(Untitled)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829079/"/>
+    <id>tag:flickr.com,2005:/photo/51176829079</id>
+    <published>2021-05-13T11:00:48Z</published>
+    <updated>2021-05-13T11:00:48Z</updated>
+    <flickr:date_taken>2021-05-12T11:42:15-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-12T11:42:15-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829079/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_m.jpg" width="240" height="168" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Ledlon89</name>
+      <uri>https://www.flickr.com/people/23875695@N06/</uri>
+      <flickr:nsid>23875695@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829079_2ecdb2e045_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
