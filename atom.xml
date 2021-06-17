@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-17T22:17:34Z</updated>
+  <updated>2021-06-17T22:52:04Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 16°C (61°F)</title>
+    <title>Tonight: Heavy Rain, Minimum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-17T19:58:00.000+0000</id>
-    <published>2021-06-17T22:03:24Z</published>
-    <updated>2021-06-17T22:03:24Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-17T21:55:00.000+0000</id>
+    <published>2021-06-17T22:50:06Z</published>
+    <updated>2021-06-17T22:50:06Z</updated>
   </entry>
   <entry>
-    <title>Friday: Thundery Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Friday: Thundery Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 86%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 12°C (53°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 86%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-17T19:58:00.000+0000</id>
-    <published>2021-06-17T22:03:24Z</published>
-    <updated>2021-06-17T22:03:24Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-17T21:55:00.000+0000</id>
+    <published>2021-06-17T22:50:06Z</published>
+    <updated>2021-06-17T22:50:06Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 74%, UV Risk: 4, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-17T19:58:00.000+0000</id>
-    <published>2021-06-17T22:03:24Z</published>
-    <updated>2021-06-17T22:03:24Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-17T21:55:00.000+0000</id>
+    <published>2021-06-17T22:50:06Z</published>
+    <updated>2021-06-17T22:50:06Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vcHJpbWVyZXNpLmNvbS9iLWNvcnAtZGV2ZWxvcGVyLWNlbGVicmF0ZXMtc2VsbC1vdXQtYXQtd2VsbGJlaW5nLWZvY3VzZWQtc2NoZW1lLWluLWJhbGhhbS_SAQA?oc=5</id>
@@ -217,40 +217,122 @@ There are no indications as to the identity of the girl or the date of the photo
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829069/"/>
-    <id>tag:flickr.com,2005:/photo/51176829069</id>
-    <published>2021-05-13T11:00:48Z</published>
-    <updated>2021-05-13T11:00:48Z</updated>
-    <flickr:date_taken>2021-05-12T11:43:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-12T11:43:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Two Sisters in London in 1918</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51218782142/"/>
+    <id>tag:flickr.com,2005:/photo/51218782142</id>
+    <published>2021-06-02T06:02:00Z</published>
+    <updated>2021-06-02T06:02:00Z</updated>
+    <flickr:date_taken>2021-06-02T07:01:13-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-02T07:01:13-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829069/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829069_ec921575cd_m.jpg" width="240" height="161" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/51218782142/" title="Two Sisters in London in 1918"&gt;&lt;img src="https://live.staticflickr.com/65535/51218782142_71b35b6d10_m.jpg" width="151" height="240" alt="Two Sisters in London in 1918" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-</content>
+&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+A postally unused postcard that was published by Stuart, Photographer, of 47-49, Brompton Road and 159, High Road, Balham, London. The card has a divided back.&lt;br /&gt;
+&lt;br /&gt;
+On the left of the divided back someone has used a pencil to write:&lt;br /&gt;
+&lt;br /&gt;
+&amp;quot;Cpl. C. Ayers 497366,&lt;br /&gt;
+RAMC,&lt;br /&gt;
+Attached First Royal Guernsey Light Infantry,&lt;br /&gt;
+Transport Section,&lt;br /&gt;
+B.E.F.,&lt;br /&gt;
+Ecuires, France.&lt;br /&gt;
+21st. May 1918&amp;quot;.&lt;br /&gt;
+&lt;br /&gt;
+Ecuires is a village situated just outside Montreuil-sur-Mer. It is in the Pas-de-Calais department. &lt;br /&gt;
+&lt;br /&gt;
+On the right of the divided back was written a name and part of an address:&lt;br /&gt;
+&lt;br /&gt;
+&amp;quot;Ann Ayers,&lt;br /&gt;
+84 Cross Road&amp;quot;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;u&gt;The First Royal Guernsey Light Infantry in 1918&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+During 1918, the First Royal Guernsey Light Infantry were involved in the following activities:&lt;br /&gt;
+&lt;br /&gt;
+&lt;u&gt;18th. - 26th. January 1918&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+The RGLI went back into the front line at Sint-Jan (north east of Ypres). After this, they engaged in work parties and training.&lt;br /&gt;
+&lt;br /&gt;
+&lt;u&gt;8th. - 29th. March 1918&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+In the battle zone, taking turns in the front line at Poelcappelle.&lt;br /&gt;
+&lt;br /&gt;
+&lt;u&gt;3rd. - 7th. April 1918&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+In the front line, Passchendaele sector. When out of the line, employed in trenching and draining.&lt;br /&gt;
+&lt;br /&gt;
+Pulled out of the front line, the 503 officers and men were hurried by lorry to Vieux-Berquin in the Lys area where a German offensive had broken through.&lt;br /&gt;
+&lt;br /&gt;
+&lt;u&gt;10th. - 14th. April 1918&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+Battle of the Lys, east of Hazebrouck. The German 6th. Army under Von Quast smashed 5 miles through allied lines. The RGLI was bussed south to help stem the German advance. &lt;br /&gt;
+&lt;br /&gt;
+Hopelessly outnumbered, but holding the Germans in a fighting retreat from Le Doulieu to near Merris, the Battalion suffered an appalling 80% casualty rate.&lt;br /&gt;
+&lt;br /&gt;
+The RGLI was relieved by the Australian 1st. Division. Field Marshall Douglas Haig, 1st Earl Haig wrote in his despatches, which were published in the London Gazette on the 21st. October 1918: &lt;br /&gt;
+&lt;br /&gt;
+&amp;quot;After very heavy fighting, in the course &lt;br /&gt;
+of which the 1st. Battalion Royal Guernsey &lt;br /&gt;
+Light Infantry, 29th. Division, Major-General &lt;br /&gt;
+D. E. Cayley C.M.G. commanding the division, &lt;br /&gt;
+did gallant service&amp;quot;.&lt;br /&gt;
+&lt;br /&gt;
+The fighting strength was by then less than 110 officers and men.&lt;br /&gt;
+&lt;br /&gt;
+&lt;u&gt;27th. April 1918&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+The RGLI, withdrawn from the 29th. Division and 86th. Brigade, become GHQ troops well to the rear in Ecuires where they became guard troops for General Haig's H.Q. at Montreuil, Pas-de-Calais for the rest of the war and beyond. &lt;br /&gt;
+&lt;br /&gt;
+The Army headquarters was an enormous administrative body, divided into five departments staffed with a wide variety of personnel. Haig lived at a small Château 'Beaurepaire', 2 miles (3.2 km) SE of the town.&lt;/p&gt;</content>
     <author>
-      <name>Ledlon89</name>
-      <uri>https://www.flickr.com/people/23875695@N06/</uri>
-      <flickr:nsid>23875695@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+      <name>pepandtim</name>
+      <uri>https://www.flickr.com/people/november_song/</uri>
+      <flickr:nsid>38123425@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829069_ec921575cd_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51218782142_71b35b6d10_b.jpg"/>
+    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="two" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sisters" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stuart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="photographer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brompton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="high" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="divided" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="back" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cpl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ayers" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ramc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="first" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="royal" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guernsey" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="infantry" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="section" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bef" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ecuires" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="france" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pas" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="de" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="calais" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cross" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="poelcappelle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="passchendaele" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sector" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="haigh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="22tsl39" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
