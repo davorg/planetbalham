@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-18T09:16:09Z</updated>
+  <updated>2021-06-18T09:53:16Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmNhdGVyaW5ndG9kYXkuY28udWsvbmV3cy9wdWJzLWFuZC1iYXJzL3RoZS1hcnRmdWwtZHVrZS10by1vcGVuLXRoaXMtYXVndXN0L9IBW2h0dHBzOi8vd3d3LmNhdGVyaW5ndG9kYXkuY28udWsvbmV3cy9wdWJzLWFuZC1iYXJzL3RoZS1hcnRmdWwtZHVrZS10by1vcGVuLXRoaXMtYXVndXN0L2FtcC8?oc=5</id>
+    <title type="html">The Artful Duke to open this August - Catering Today</title>
+    <updated>2021-06-18T09:35:00.000000000Z</updated>
+    <link href="https://www.cateringtoday.co.uk/news/pubs-and-bars/the-artful-duke-to-open-this-august/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cateringtoday.co.uk/news/pubs-and-bars/the-artful-duke-to-open-this-august/" target="_blank"&gt;The Artful Duke to open this August&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Catering Today&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Thundery Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -134,13 +141,6 @@
     <updated>2021-06-16T13:39:30.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/malaysian-court-changes-verdict-to-open-ruling-in-nora-quoirin-case/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/malaysian-court-changes-verdict-to-open-ruling-in-nora-quoirin-case/" target="_blank"&gt;Malaysian court changes verdict to “open ruling” in Nóra Quoirin case&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEB0QkCg3Gc4UMWmnJ9uLWHkqGAgEKg8IACoHCAowqa6gCTCuoHAw3oqLAw?oc=5</id>
-    <title type="html">Bride and groom who fell in love at McDonald's celebrate wedding with drive-thru - The Mirror</title>
-    <updated>2021-06-15T12:56:43.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/news/uk-news/bridge-groom-who-fell-love-24322368" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/bridge-groom-who-fell-love-24322368" target="_blank"&gt;Bride and groom who fell in love at McDonald's celebrate wedding with drive-thru&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
