@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-18T06:16:56Z</updated>
+  <updated>2021-06-18T06:58:15Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -39,13 +39,6 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-17T21:55:00.000+0000</id>
     <published>2021-06-18T06:00:57Z</published>
     <updated>2021-06-18T06:00:57Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMifWh0dHBzOi8vdWtuaXAuY28udWsvYnJlYWtpbmcvbmV3cy0yNjYxNDgvdXBkYXRlZC1wb2xpY2UtbGF1bmNoLWludmVzdGlnYXRpb24tYWZ0ZXItbWFuLWlzLWtpbGxlZC1pbi1mYXRhbC1pbmNpZGVudC1pbi1iYWxoYW0v0gEA?oc=5</id>
-    <title type="html">UPDATED: Police Launch Investigation After Man Is Killed In Fatal Incident In Balham – UKNIP - UK News in Pictures</title>
-    <updated>2021-06-18T01:36:46.000000000Z</updated>
-    <link href="https://uknip.co.uk/breaking/news-266148/updated-police-launch-investigation-after-man-is-killed-in-fatal-incident-in-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://uknip.co.uk/breaking/news-266148/updated-police-launch-investigation-after-man-is-killed-in-fatal-incident-in-balham/" target="_blank"&gt;UPDATED: Police Launch Investigation After Man Is Killed In Fatal Incident In Balham – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vdWtuaXAuY28udWsvYnJlYWtpbmcvbmV3cy0yNjYxNDIvcG9saWNlLWxhdW5jaC1pbnZlc3RpZ2F0aW9uLWFmdGVyLW1hbi1pcy1raWxsZWQtaW4tZmF0YWwtaW5jaWRlbnQtaW4tYmFsaGFtL9IBAA?oc=5</id>
@@ -141,6 +134,13 @@
     <updated>2021-06-15T12:56:43.000000000Z</updated>
     <link href="https://www.mirror.co.uk/news/uk-news/bridge-groom-who-fell-love-24322368" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/bridge-groom-who-fell-love-24322368" target="_blank"&gt;Bride and groom who fell in love at McDonald's celebrate wedding with drive-thru&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9jbGFwaGFtLWp1bmN0aW9uLWZpcmUtbGl2ZS11cGRhdGVzLTIwODIwMTc00gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2NsYXBoYW0tanVuY3Rpb24tZmlyZS1saXZlLXVwZGF0ZXMtMjA4MjAxNzQuYW1w?oc=5</id>
+    <title type="html">As it happened: Delays to train services after train catches fire at Clapham Junction - MyLondon</title>
+    <updated>2021-06-15T12:43:15.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/clapham-junction-fire-live-updates-20820174" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/clapham-junction-fire-live-updates-20820174" target="_blank"&gt;As it happened: Delays to train services after train catches fire at Clapham Junction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
