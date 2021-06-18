@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-18T06:58:15Z</updated>
+  <updated>2021-06-18T07:16:57Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Thundery Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 12°C (53°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 87%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 90%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-17T21:55:00.000+0000</id>
-    <published>2021-06-18T06:00:57Z</published>
-    <updated>2021-06-18T06:00:57Z</updated>
+    <published>2021-06-18T07:02:26Z</published>
+    <updated>2021-06-18T07:02:26Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 19°C (67°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 74%, UV Risk: 4, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1015mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-17T21:55:00.000+0000</id>
-    <published>2021-06-18T06:00:57Z</published>
-    <updated>2021-06-18T06:00:57Z</updated>
+    <published>2021-06-18T07:02:26Z</published>
+    <updated>2021-06-18T07:02:26Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (67°F)</title>
@@ -37,15 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-17T21:55:00.000+0000</id>
-    <published>2021-06-18T06:00:57Z</published>
-    <updated>2021-06-18T06:00:57Z</updated>
+    <published>2021-06-18T07:02:26Z</published>
+    <updated>2021-06-18T07:02:26Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vdWtuaXAuY28udWsvYnJlYWtpbmcvbmV3cy0yNjYxNDIvcG9saWNlLWxhdW5jaC1pbnZlc3RpZ2F0aW9uLWFmdGVyLW1hbi1pcy1raWxsZWQtaW4tZmF0YWwtaW5jaWRlbnQtaW4tYmFsaGFtL9IBAA?oc=5</id>
-    <title type="html">Police Launch Investigation After Man Is Killed In Fatal Incident In Balham – UKNIP - UK News in Pictures</title>
-    <updated>2021-06-18T00:32:11.000000000Z</updated>
-    <link href="https://uknip.co.uk/breaking/news-266142/police-launch-investigation-after-man-is-killed-in-fatal-incident-in-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://uknip.co.uk/breaking/news-266142/police-launch-investigation-after-man-is-killed-in-fatal-incident-in-balham/" target="_blank"&gt;Police Launch Investigation After Man Is Killed In Fatal Incident In Balham – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9saXZlLXVwZGF0ZXMtbWFuLTIwcy1zaG90LTIwODQ1NzQ00gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2xpdmUtdXBkYXRlcy1tYW4tMjBzLXNob3QtMjA4NDU3NDQuYW1w?oc=5</id>
+    <title type="html">Live updates as man in 20s shot dead in Balham - MyLondon</title>
+    <updated>2021-06-18T06:58:25.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/live-updates-man-20s-shot-20845744" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/live-updates-man-20s-shot-20845744" target="_blank"&gt;Live updates as man in 20s shot dead in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAYtzG49rHJcqeg5gQeaUBwqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
+    <title type="html">Balham shooting: Murder probe launched after man in his 20s shot dead in London - The Mirror</title>
+    <updated>2021-06-18T06:50:49.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/news/uk-news/balham-shooting-murder-probe-launched-24345719" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/balham-shooting-murder-probe-launched-24345719" target="_blank"&gt;Balham shooting: Murder probe launched after man in his 20s shot dead in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vcHJpbWVyZXNpLmNvbS9iLWNvcnAtZGV2ZWxvcGVyLWNlbGVicmF0ZXMtc2VsbC1vdXQtYXQtd2VsbGJlaW5nLWZvY3VzZWQtc2NoZW1lLWluLWJhbGhhbS_SAQA?oc=5</id>
@@ -134,13 +141,6 @@
     <updated>2021-06-15T12:56:43.000000000Z</updated>
     <link href="https://www.mirror.co.uk/news/uk-news/bridge-groom-who-fell-love-24322368" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/bridge-groom-who-fell-love-24322368" target="_blank"&gt;Bride and groom who fell in love at McDonald's celebrate wedding with drive-thru&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9jbGFwaGFtLWp1bmN0aW9uLWZpcmUtbGl2ZS11cGRhdGVzLTIwODIwMTc00gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2NsYXBoYW0tanVuY3Rpb24tZmlyZS1saXZlLXVwZGF0ZXMtMjA4MjAxNzQuYW1w?oc=5</id>
-    <title type="html">As it happened: Delays to train services after train catches fire at Clapham Junction - MyLondon</title>
-    <updated>2021-06-15T12:43:15.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/clapham-junction-fire-live-updates-20820174" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/clapham-junction-fire-live-updates-20820174" target="_blank"&gt;As it happened: Delays to train services after train catches fire at Clapham Junction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Wholesome Fare Evasion</title>
