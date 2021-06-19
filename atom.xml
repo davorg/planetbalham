@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-19T17:19:08Z</updated>
+  <updated>2021-06-19T17:55:43Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-19T09:01:00.000+0000</id>
-    <published>2021-06-19T17:00:50Z</published>
-    <updated>2021-06-19T17:00:50Z</updated>
+    <published>2021-06-19T17:26:19Z</published>
+    <updated>2021-06-19T17:26:19Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-19T09:01:00.000+0000</id>
-    <published>2021-06-19T17:00:50Z</published>
-    <updated>2021-06-19T17:00:50Z</updated>
+    <published>2021-06-19T17:26:19Z</published>
+    <updated>2021-06-19T17:26:19Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 80%, UV Risk: 3, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-19T09:01:00.000+0000</id>
-    <published>2021-06-19T17:00:50Z</published>
-    <updated>2021-06-19T17:00:50Z</updated>
+    <published>2021-06-19T17:26:19Z</published>
+    <updated>2021-06-19T17:26:19Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5Mzg1MTMzLmJhbGhhbS13aXRuZXNzLWhlYXJkLXR3by1wb3BzLXNjZW5lLWZhdGFsLXNob290aW5nL9IBAA?oc=5</id>
+    <title type="html">Balham: Witness heard 'two pops' at scene of fatal shooting - Wandsworth Guardian</title>
+    <updated>2021-06-19T14:13:17.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19385133.balham-witness-heard-two-pops-scene-fatal-shooting/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19385133.balham-witness-heard-two-pops-scene-fatal-shooting/" target="_blank"&gt;Balham: Witness heard 'two pops' at scene of fatal shooting&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMW_E1vHxqXplrXYjqHL4fkqGQgEKhAIACoHCAow3aOfCzDqrbcDMMK17wY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-06-18T14:30:15.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/fredericss-art-drew-the-readers-in/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/fredericss-art-drew-the-readers-in/" target="_blank"&gt;Frederics's art drew the readers in – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiELMbeSHIdxIDBkLaEtEn2xIqGQgEKhAIACoHCAow67WcCzD3v7QDMO6e4gY?oc=5</id>
-    <title type="html">There is little more difficult than building a nation in Iraq. - Eminetra.com</title>
-    <updated>2021-06-18T13:41:59.000000000Z</updated>
-    <link href="https://eminetra.com/there-is-little-more-difficult-than-building-a-nation-in-iraq/601212/" type="text/html"/>
-    <content type="html">&lt;a href="https://eminetra.com/there-is-little-more-difficult-than-building-a-nation-in-iraq/601212/" target="_blank"&gt;There is little more difficult than building a nation in Iraq.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eminetra.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
