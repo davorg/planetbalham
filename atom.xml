@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-20T19:51:00Z</updated>
+  <updated>2021-06-20T20:16:06Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-20T09:56:00.000+0000</id>
-    <published>2021-06-20T19:45:09Z</published>
-    <updated>2021-06-20T19:45:09Z</updated>
+    <published>2021-06-20T20:01:14Z</published>
+    <updated>2021-06-20T20:01:14Z</updated>
   </entry>
   <entry>
     <title>Monday: Heavy Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 14°C (58°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 83%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-20T09:56:00.000+0000</id>
-    <published>2021-06-20T19:45:09Z</published>
-    <updated>2021-06-20T19:45:09Z</updated>
+    <published>2021-06-20T20:01:14Z</published>
+    <updated>2021-06-20T20:01:14Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-20T09:56:00.000+0000</id>
-    <published>2021-06-20T19:45:09Z</published>
-    <updated>2021-06-20T19:45:09Z</updated>
+    <published>2021-06-20T20:01:14Z</published>
+    <updated>2021-06-20T20:01:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMimQFodHRwczovL2ZsaXBib2FyZC5jb20vdG9waWMvcG9saWNlL3BvbGljZS1zaG9vdGluZy12aWN0aW0tZ3VubmVkLWRvd24tb24taGlzLWJhbGhhbS1kb29yc3RlcC9hLWl5b05vVmR1Ul9TR0cxYzVpTnNLQmclM0FhJTNBMjY1Njg5NTU3My05NDVkMTExN2NkJTJGY28udWvSAaQBaHR0cHM6Ly9mbGlwYm9hcmQuY29tL3RvcGljL3BvbGljZS9wb2xpY2Utc2hvb3RpbmctdmljdGltLWd1bm5lZC1kb3duLW9uLWhpcy1iYWxoYW0tZG9vcnN0ZXAvYS1peW9Ob1ZkdVJfU0dHMWM1aU5zS0JnJTNBYSUzQTI2NTY4OTU1NzMtOTQ1ZDExMTdjZCUyRmNvLnVrP2Zvcm1hdD1hbXA?oc=5</id>
@@ -103,6 +103,39 @@
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-8u-22</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51251930369/"/>
+    <id>tag:flickr.com,2005:/photo/51251930369</id>
+    <published>2021-06-16T16:46:39Z</published>
+    <updated>2021-06-16T16:46:39Z</updated>
+    <flickr:date_taken>2021-06-09T14:31:13-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-09T14:31:13-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51251930369/" title="Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-8u-22"&gt;&lt;img src="https://live.staticflickr.com/65535/51251930369_f43160b80f_m.jpg" width="157" height="240" alt="Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-8u-22" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-8u-22&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51251930369_f43160b80f_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="908u22" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
@@ -300,44 +333,6 @@ The Army headquarters was an enormous administrative body, divided into five dep
     <category term="sector" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="haigh" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="22tsl39" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829069/"/>
-    <id>tag:flickr.com,2005:/photo/51176829069</id>
-    <published>2021-05-13T11:00:48Z</published>
-    <updated>2021-05-13T11:00:48Z</updated>
-    <flickr:date_taken>2021-05-12T11:43:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-12T11:43:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829069/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829069_ec921575cd_m.jpg" width="240" height="161" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ledlon89</name>
-      <uri>https://www.flickr.com/people/23875695@N06/</uri>
-      <flickr:nsid>23875695@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829069_ec921575cd_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
