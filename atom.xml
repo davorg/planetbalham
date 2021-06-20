@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-20T18:16:32Z</updated>
+  <updated>2021-06-20T18:56:30Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 13°C (55°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-20T09:56:00.000+0000</id>
-    <published>2021-06-20T18:04:11Z</published>
-    <updated>2021-06-20T18:04:11Z</updated>
+    <published>2021-06-20T18:44:32Z</published>
+    <updated>2021-06-20T18:44:32Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Monday: Heavy Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1012mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 83%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-20T09:56:00.000+0000</id>
-    <published>2021-06-20T18:04:11Z</published>
-    <updated>2021-06-20T18:04:11Z</updated>
+    <published>2021-06-20T18:44:32Z</published>
+    <updated>2021-06-20T18:44:32Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,15 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-20T09:56:00.000+0000</id>
-    <published>2021-06-20T18:04:11Z</published>
-    <updated>2021-06-20T18:04:11Z</updated>
+    <published>2021-06-20T18:44:32Z</published>
+    <updated>2021-06-20T18:44:32Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMimQFodHRwczovL2ZsaXBib2FyZC5jb20vdG9waWMvcG9saWNlL3BvbGljZS1zaG9vdGluZy12aWN0aW0tZ3VubmVkLWRvd24tb24taGlzLWJhbGhhbS1kb29yc3RlcC9hLWl5b05vVmR1Ul9TR0cxYzVpTnNLQmclM0FhJTNBMjY1Njg5NTU3My05NDVkMTExN2NkJTJGY28udWvSAaQBaHR0cHM6Ly9mbGlwYm9hcmQuY29tL3RvcGljL3BvbGljZS9wb2xpY2Utc2hvb3RpbmctdmljdGltLWd1bm5lZC1kb3duLW9uLWhpcy1iYWxoYW0tZG9vcnN0ZXAvYS1peW9Ob1ZkdVJfU0dHMWM1aU5zS0JnJTNBYSUzQTI2NTY4OTU1NzMtOTQ1ZDExMTdjZCUyRmNvLnVrP2Zvcm1hdD1hbXA?oc=5</id>
+    <title type="html">Police shooting victim gunned down on his Balham doorstep - Flipboard</title>
+    <updated>2021-06-20T18:19:18.000000000Z</updated>
+    <link href="https://flipboard.com/topic/police/police-shooting-victim-gunned-down-on-his-balham-doorstep/a-iyoNoVduR_SGG1c5iNsKBg%3Aa%3A2656895573-945d1117cd%2Fco.uk" type="text/html"/>
+    <content type="html">&lt;a href="https://flipboard.com/topic/police/police-shooting-victim-gunned-down-on-his-balham-doorstep/a-iyoNoVduR_SGG1c5iNsKBg%3Aa%3A2656895573-945d1117cd%2Fco.uk" target="_blank"&gt;Police shooting victim gunned down on his Balham doorstep&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Flipboard&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEF8j9gBllZnOmcITWFlMoecqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
+    <title type="html">First picture of man, 27, shot dead in London as police launch manhunt for killers - The Mirror</title>
+    <updated>2021-06-20T14:04:31.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/news/uk-news/first-picture-man-27-shot-24358537" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/first-picture-man-27-shot-24358537" target="_blank"&gt;First picture of man, 27, shot dead in London as police launch manhunt for killers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWozZzllSms0QU1FWTNsbEJYcVVmQkZLQUFQAQ?oc=5</id>
     <title type="html">Balham shooting: Victim named as Matthias Poleon - BBC News</title>
     <updated>2021-06-20T10:47:02.000000000Z</updated>
     <link href="https://www.bbc.com/news/uk-england-london-57539827" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-57539827" target="_blank"&gt;Balham shooting: Victim named as Matthias Poleon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.wandsworthguardian.co.uk/news/19385686.matthias-poleon-police-name-balham-shooting-victim/" target="_blank"&gt;Matthias Poleon: Police name Balham shooting victim&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailymail.co.uk/news/article-9705907/Balham-shooting-Man-shot-London-named-Matthias-Poleon-27.html" target="_blank"&gt;Balham shooting: Man who was shot down in London is named as Matthias Poleon, 27&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.msn.com/en-gb/news/uknews/pictured-man-who-was-shot-dead-on-his-doorstep-in-balham/ar-AALf3TE" target="_blank"&gt;Pictured: Man who was shot dead on his doorstep in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uknip.co.uk/breaking/news-266223/tributes-have-been-paid-to-a-young-man-shot-dead-in-south-london/" target="_blank"&gt;Tributes Have Been Paid To A Young Man Shot Dead In South London – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWozZzllSms0QU1FWTNsbEJYcVVmQkZLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-57539827" target="_blank"&gt;Balham shooting: Victim named as Matthias Poleon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.wandsworthguardian.co.uk/news/19385686.matthias-poleon-police-name-balham-shooting-victim/" target="_blank"&gt;Matthias Poleon: Police name Balham shooting victim&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailymail.co.uk/news/article-9705907/Balham-shooting-Man-shot-London-named-Matthias-Poleon-27.html" target="_blank"&gt;Balham shooting: Man who was shot down in London is named as Matthias Poleon, 27&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uknip.co.uk/breaking/news-266223/tributes-have-been-paid-to-a-young-man-shot-dead-in-south-london/" target="_blank"&gt;Tributes Have Been Paid To A Young Man Shot Dead In South London – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWozZzllSms0QU1FWTNsbEJYcVVmQkZLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHZgBX3rF5ALrlYeqYyG4QQqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2021-06-19T12:54:30.000000000Z</updated>
     <link href="https://texasnewstoday.com/praise-and-despise-irans-new-hardline-president/322166/" type="text/html"/>
     <content type="html">&lt;a href="https://texasnewstoday.com/praise-and-despise-irans-new-hardline-president/322166/" target="_blank"&gt;Praise and despise Iran's new hardline president&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Texasnewstoday.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEF8i7ItWf58WbXG_FjWwT_8qGQgEKhAIACoHCAowxsaVCzCXq6sDMPXkxgY?oc=5</id>
-    <title type="html">Shocking moment man wielding huge MACHETE brazenly walks down the street in Lawless London... - The US Sun</title>
-    <updated>2021-06-18T16:30:00.000000000Z</updated>
-    <link href="https://www.the-sun.com/news/3111331/shocking-moment-man-wielding-huge-machete-brazenly-lawless-london/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.the-sun.com/news/3111331/shocking-moment-man-wielding-huge-machete-brazenly-lawless-london/" target="_blank"&gt;Shocking moment man wielding huge MACHETE brazenly walks down the street in Lawless London...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEOiAOTaIBmZaKBJbCv7sos0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
-    <title type="html">Balham shooting: First picture of young man shot dead in 'front garden' of home - My London</title>
-    <updated>2021-06-18T16:14:20.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/balham-shooting-first-picture-young-20852910" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/balham-shooting-first-picture-young-20852910" target="_blank"&gt;Balham shooting: First picture of young man shot dead in 'front garden' of home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
