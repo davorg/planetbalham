@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-20T17:02:54Z</updated>
+  <updated>2021-06-20T17:19:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDOCfoU-ryd6IUCPZPXyesgqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <title type="html">Police name shooting victim, 27, gunned down on his south west London doorstep - Evening Standard</title>
+    <updated>2021-06-20T17:09:55.000000000Z</updated>
+    <link href="https://www.standard.co.uk/news/crime/balham-shooting-victim-matthia-poleon-b941605.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/crime/balham-shooting-victim-matthia-poleon-b941605.html" target="_blank"&gt;Police name shooting victim, 27, gunned down on his south west London doorstep&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -68,47 +75,6 @@
     <link href="https://www.the-sun.com/news/3111331/shocking-moment-man-wielding-huge-machete-brazenly-lawless-london/" type="text/html"/>
     <content type="html">&lt;a href="https://www.the-sun.com/news/3111331/shocking-moment-man-wielding-huge-machete-brazenly-lawless-london/" target="_blank"&gt;Shocking moment man wielding huge MACHETE brazenly walks down the street in Lawless London...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEOiAOTaIBmZaKBJbCv7sos0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
-    <title type="html">Balham shooting: First picture of young man shot dead in 'front garden' of home - My London</title>
-    <updated>2021-06-18T16:14:20.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/balham-shooting-first-picture-young-20852910" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/balham-shooting-first-picture-young-20852910" target="_blank"&gt;Balham shooting: First picture of young man shot dead in 'front garden' of home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51251178711/"/>
-    <id>tag:flickr.com,2005:/photo/51251178711</id>
-    <published>2021-06-16T16:46:40Z</published>
-    <updated>2021-06-16T16:46:40Z</updated>
-    <flickr:date_taken>2021-06-09T14:31:25-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-09T14:31:25-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51251178711/" title="Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24"&gt;&lt;img src="https://live.staticflickr.com/65535/51251178711_e38ae1e270_m.jpg" width="160" height="240" alt="Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51251178711_e38ae1e270_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="908u24" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighrd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhammosque" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-8u-22</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51251930369/"/>
@@ -333,6 +299,44 @@ The Army headquarters was an enormous administrative body, divided into five dep
     <category term="sector" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="haigh" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="22tsl39" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>(Untitled)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829069/"/>
+    <id>tag:flickr.com,2005:/photo/51176829069</id>
+    <published>2021-05-13T11:00:48Z</published>
+    <updated>2021-05-13T11:00:48Z</updated>
+    <flickr:date_taken>2021-05-12T11:43:38-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-05-12T11:43:38-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829069/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829069_ec921575cd_m.jpg" width="240" height="161" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Ledlon89</name>
+      <uri>https://www.flickr.com/people/23875695@N06/</uri>
+      <flickr:nsid>23875695@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829069_ec921575cd_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
