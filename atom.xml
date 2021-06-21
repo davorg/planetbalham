@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-21T04:57:36Z</updated>
+  <updated>2021-06-21T05:16:37Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 11°C (52°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 83%, UV Risk: 2, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-20T21:53:00.000+0000</id>
-    <published>2021-06-21T04:51:03Z</published>
-    <updated>2021-06-21T04:51:03Z</updated>
+    <published>2021-06-21T05:02:11Z</published>
+    <updated>2021-06-21T05:02:11Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-20T21:53:00.000+0000</id>
-    <published>2021-06-21T04:51:03Z</published>
-    <updated>2021-06-21T04:51:03Z</updated>
+    <published>2021-06-21T05:02:11Z</published>
+    <updated>2021-06-21T05:02:11Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 11°C (51°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-20T21:53:00.000+0000</id>
-    <published>2021-06-21T04:51:03Z</published>
-    <updated>2021-06-21T04:51:03Z</updated>
+    <published>2021-06-21T05:02:11Z</published>
+    <updated>2021-06-21T05:02:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvdG9uYnJpZGdlL3Nwb3J0L29sdXRhZGUtb24tYW5nZWxzLW1vdmUtMjQ5MzA1L9IBT2h0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvdG9uYnJpZGdlL3Nwb3J0L2FtcC9vbHV0YWRlLW9uLWFuZ2Vscy1tb3ZlLTI0OTMwNS8?oc=5</id>
+    <title type="html">Olutade on Angels move - Kent Online</title>
+    <updated>2021-06-21T05:00:00.000000000Z</updated>
+    <link href="https://www.kentonline.co.uk/tonbridge/sport/olutade-on-angels-move-249305/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.kentonline.co.uk/tonbridge/sport/olutade-on-angels-move-249305/" target="_blank"&gt;Olutade on Angels move&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMimQFodHRwczovL2ZsaXBib2FyZC5jb20vdG9waWMvcG9saWNlL3BvbGljZS1zaG9vdGluZy12aWN0aW0tZ3VubmVkLWRvd24tb24taGlzLWJhbGhhbS1kb29yc3RlcC9hLWl5b05vVmR1Ul9TR0cxYzVpTnNLQmclM0FhJTNBMjY1Njg5NTU3My05NDVkMTExN2NkJTJGY28udWvSAaQBaHR0cHM6Ly9mbGlwYm9hcmQuY29tL3RvcGljL3BvbGljZS9wb2xpY2Utc2hvb3RpbmctdmljdGltLWd1bm5lZC1kb3duLW9uLWhpcy1iYWxoYW0tZG9vcnN0ZXAvYS1peW9Ob1ZkdVJfU0dHMWM1aU5zS0JnJTNBYSUzQTI2NTY4OTU1NzMtOTQ1ZDExMTdjZCUyRmNvLnVrP2Zvcm1hdD1hbXA?oc=5</id>
@@ -59,7 +66,7 @@
     <title type="html">Balham shooting: Victim named as Matthias Poleon - BBC News</title>
     <updated>2021-06-20T10:47:02.000000000Z</updated>
     <link href="https://www.bbc.com/news/uk-england-london-57539827" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-57539827" target="_blank"&gt;Balham shooting: Victim named as Matthias Poleon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailymail.co.uk/news/article-9705907/Balham-shooting-Man-shot-London-named-Matthias-Poleon-27.html" target="_blank"&gt;Balham shooting: Man who was shot down in London is named as Matthias Poleon, 27&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uknip.co.uk/breaking/news-266223/tributes-have-been-paid-to-a-young-man-shot-dead-in-south-london/" target="_blank"&gt;Tributes Have Been Paid To A Young Man Shot Dead In South London – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWozZzllSms0QU1FWTNsbEJYcVVmQkZLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-57539827" target="_blank"&gt;Balham shooting: Victim named as Matthias Poleon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailymail.co.uk/news/article-9705907/Balham-shooting-Man-shot-London-named-Matthias-Poleon-27.html" target="_blank"&gt;Balham shooting: Man who was shot down in London is named as Matthias Poleon, 27&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.wandsworthguardian.co.uk/news/19385133.balham-witness-heard-two-pops-scene-fatal-shooting/" target="_blank"&gt;Balham: Witness heard 'two pops' at scene of fatal shooting&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uknip.co.uk/breaking/news-266223/tributes-have-been-paid-to-a-young-man-shot-dead-in-south-london/" target="_blank"&gt;Tributes Have Been Paid To A Young Man Shot Dead In South London – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWozZzllSms0QU1FWTNsbEJYcVVmQkZLQUFQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHZgBX3rF5ALrlYeqYyG4QQqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-06-19T22:42:02.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/news/article-9704723/Teacher-faces-investigation-using-N-word-speaking-pronunciation-country-Niger.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9704723/Teacher-faces-investigation-using-N-word-speaking-pronunciation-country-Niger.html" target="_blank"&gt;Teacher faces investigation after using N-word while speaking about pronunciation of country Niger&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEMW_E1vHxqXplrXYjqHL4fkqGQgEKhAIACoHCAow3aOfCzDqrbcDMMK17wY?oc=5</id>
-    <title type="html">Praise and despise Iran's new hardline president - Texasnewstoday.com</title>
-    <updated>2021-06-19T12:54:30.000000000Z</updated>
-    <link href="https://texasnewstoday.com/praise-and-despise-irans-new-hardline-president/322166/" type="text/html"/>
-    <content type="html">&lt;a href="https://texasnewstoday.com/praise-and-despise-irans-new-hardline-president/322166/" target="_blank"&gt;Praise and despise Iran's new hardline president&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Texasnewstoday.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
