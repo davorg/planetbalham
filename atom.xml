@@ -7,38 +7,73 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-22T22:16:11Z</updated>
+  <updated>2021-06-22T22:50:26Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (48°F)</title>
+    <id>https://news.google.com/articles/CAIiEF8i7ItWf58WbXG_FjWwT_8qGQgEKhAIACoHCAowxsaVCzCXq6sDMPXkxgY?oc=5</id>
+    <title type="html">Shocking moment man wielding huge MACHETE brazenly walks down the street in Lawless London... - The US Sun</title>
+    <updated>2021-06-22T22:31:34.000000000Z</updated>
+    <link href="https://www.the-sun.com/news/3111331/shocking-moment-man-wielding-huge-machete-brazenly-lawless-london/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.the-sun.com/news/3111331/shocking-moment-man-wielding-huge-machete-brazenly-lawless-london/" target="_blank"&gt;Shocking moment man wielding huge MACHETE brazenly walks down the street in Lawless London...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1023mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-22T19:59:00.000+0000</id>
-    <published>2021-06-22T22:02:42Z</published>
-    <updated>2021-06-22T22:02:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-22T21:56:00.000+0000</id>
+    <published>2021-06-22T22:21:53Z</published>
+    <updated>2021-06-22T22:21:53Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 10°C (50°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 58%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 10°C (50°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-22T19:59:00.000+0000</id>
-    <published>2021-06-22T22:02:42Z</published>
-    <updated>2021-06-22T22:02:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-22T21:56:00.000+0000</id>
+    <published>2021-06-22T22:21:53Z</published>
+    <updated>2021-06-22T22:21:53Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (58°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (58°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-22T19:59:00.000+0000</id>
-    <published>2021-06-22T22:02:42Z</published>
-    <updated>2021-06-22T22:02:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-22T21:56:00.000+0000</id>
+    <published>2021-06-22T22:21:53Z</published>
+    <updated>2021-06-22T22:21:53Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEAGJmH9P3GFYrPtxepTWQ-sqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">The London Underground station to be closed during morning rush hour for rest of 2021 - My London</title>
+    <updated>2021-06-22T17:36:24.000000000Z</updated>
+    <link href="https://www.mylondon.news/lifestyle/travel/london-underground-station-closed-during-20876975" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/travel/london-underground-station-closed-during-20876975" target="_blank"&gt;The London Underground station to be closed during morning rush hour for rest of 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHA6Ly9iYWxoYW0ubG9jYWxuZXdzaWUuY28udWsvdGFicy9ibG9nLzIwMjEvMDYvZXhjZXB0aW9uYWwtZGVtYW5kLWZvci1mYW1pbHktaG9tZXMtaW4tYmFsaGFt0gEA?oc=5</id>
+    <title type="html">exceptional-demand-for-family-homes-in-balham - Hitchin Daily PRSS</title>
+    <updated>2021-06-22T07:50:09.000000000Z</updated>
+    <link href="http://balham.localnewsie.co.uk/tabs/blog/2021/06/exceptional-demand-for-family-homes-in-balham" type="text/html"/>
+    <content type="html">&lt;a href="http://balham.localnewsie.co.uk/tabs/blog/2021/06/exceptional-demand-for-family-homes-in-balham" target="_blank"&gt;exceptional-demand-for-family-homes-in-balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hitchin Daily PRSS&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmtlbnRsaXZlLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL25ld2x5d2Vkcy13aG8tZmVsbC1sb3ZlLWRhdGVzLTU1NTM4NjLSAQA?oc=5</id>
+    <title type="html">Newlyweds who fell in love on McDonald's dates had drive-thru on wedding day - Kent Live</title>
+    <updated>2021-06-21T15:22:29.000000000Z</updated>
+    <link href="https://www.kentlive.news/news/uk-world-news/newlyweds-who-fell-love-dates-5553862" type="text/html"/>
+    <content type="html">&lt;a href="https://www.kentlive.news/news/uk-world-news/newlyweds-who-fell-love-dates-5553862" target="_blank"&gt;Newlyweds who fell in love on McDonald's dates had drive-thru on wedding day&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Live&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vYmRhaWx5LmNvLnVrL2FydGljbGVzLzIwMjEvMDYvMjEvc2FsZXMtc3VjY2Vzcy1hdC10aGUtdHJhbXlhcmQtaW4tYmFsaGFtLWFzLXdlbGxuZXNzLWhvbWVzLWJlY29tZS1tb3JlLWluLWRlbWFuZNIBAA?oc=5</id>
+    <title type="html">Sales success at The Tramyard in Balham, as wellness homes become more in demand - Bdaily</title>
+    <updated>2021-06-21T12:07:54.000000000Z</updated>
+    <link href="https://bdaily.co.uk/articles/2021/06/21/sales-success-at-the-tramyard-in-balham-as-wellness-homes-become-more-in-demand" type="text/html"/>
+    <content type="html">&lt;a href="https://bdaily.co.uk/articles/2021/06/21/sales-success-at-the-tramyard-in-balham-as-wellness-homes-become-more-in-demand" target="_blank"&gt;Sales success at The Tramyard in Balham, as wellness homes become more in demand&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bdaily&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
@@ -137,6 +172,47 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="commute" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Girl in London</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51222295855/"/>
+    <id>tag:flickr.com,2005:/photo/51222295855</id>
+    <published>2021-06-02T23:26:53Z</published>
+    <updated>2021-06-02T23:26:53Z</updated>
+    <flickr:date_taken>2021-06-03T00:23:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-03T00:23:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/51222295855/" title="Girl in London"&gt;&lt;img src="https://live.staticflickr.com/65535/51222295855_95caced1e7_m.jpg" width="168" height="240" alt="Girl in London" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
+&lt;br /&gt;
+A postally unused postcard that was published by The Wykeham Studios Ltd. of Balham, Streatham and Brixton. The card has a divided back.&lt;br /&gt;
+&lt;br /&gt;
+There are no indications as to the identity of the girl or the date of the photograph.&lt;/p&gt;</content>
+    <author>
+      <name>pepandtim</name>
+      <uri>https://www.flickr.com/people/november_song/</uri>
+      <flickr:nsid>38123425@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51222295855_95caced1e7_b.jpg"/>
+    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wykeham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="studios" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brixton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="55grl89" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -257,44 +333,6 @@ The Army headquarters was an enormous administrative body, divided into five dep
     <category term="sector" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="haigh" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="22tsl39" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>(Untitled)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/23875695@N06/51176829069/"/>
-    <id>tag:flickr.com,2005:/photo/51176829069</id>
-    <published>2021-05-13T11:00:48Z</published>
-    <updated>2021-05-13T11:00:48Z</updated>
-    <flickr:date_taken>2021-05-12T11:43:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-12T11:43:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/23875695@N06/"&gt;Ledlon89&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/23875695@N06/51176829069/" title=""&gt;&lt;img src="https://live.staticflickr.com/65535/51176829069_ec921575cd_m.jpg" width="240" height="161" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ledlon89</name>
-      <uri>https://www.flickr.com/people/23875695@N06/</uri>
-      <flickr:nsid>23875695@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7394/buddyicons/23875695@N06.jpg?1369156627#23875695@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51176829069_ec921575cd_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londontransport" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="general" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sutton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
