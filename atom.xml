@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-23T18:16:24Z</updated>
+  <updated>2021-06-23T18:54:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 8°C (47°F)</title>
+    <id>https://news.google.com/articles/CBMifWh0dHBzOi8vdWtuaXAuY28udWsvYnJlYWtpbmcvbmV3cy0yNjY0MjQvcG9saWNlLWNhbGxlZC10by1idXJnYXIta2luZy1pbi1iYWxoYW0tZm9sbG93aW5nLXRoZS1kaXNjb3Zlcnktb2YtYS1zdXNwZWN0LXBhY2thZ2Uv0gEA?oc=5</id>
+    <title type="html">Police Called To Burgar King In Balham Following The Discovery Of A Suspect Package – UKNIP - UK News in Pictures</title>
+    <updated>2021-06-23T18:45:56.000000000Z</updated>
+    <link href="https://uknip.co.uk/breaking/news-266424/police-called-to-burgar-king-in-balham-following-the-discovery-of-a-suspect-package/" type="text/html"/>
+    <content type="html">&lt;a href="https://uknip.co.uk/breaking/news-266424/police-called-to-burgar-king-in-balham-following-the-discovery-of-a-suspect-package/" target="_blank"&gt;Police Called To Burgar King In Balham Following The Discovery Of A Suspect Package – UKNIP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK News in Pictures&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-23T09:55:00.000+0000</id>
-    <published>2021-06-23T18:03:12Z</published>
-    <updated>2021-06-23T18:03:12Z</updated>
+    <published>2021-06-23T18:35:49Z</published>
+    <updated>2021-06-23T18:35:49Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (58°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 15°C (58°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 70%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-23T09:55:00.000+0000</id>
-    <published>2021-06-23T18:03:12Z</published>
-    <updated>2021-06-23T18:03:12Z</updated>
+    <published>2021-06-23T18:35:49Z</published>
+    <updated>2021-06-23T18:35:49Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,15 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 4, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-23T09:55:00.000+0000</id>
-    <published>2021-06-23T18:03:12Z</published>
-    <updated>2021-06-23T18:03:12Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmlzbGFtMjFjLmNvbS9jYW1wYWlnbnMvbmF0aW9uYWwta2h1dGJhaC1kYXktc3RhbmQ0dXlnaHVycy_SAQA?oc=5</id>
-    <title type="html">National Khutbah Day: #Stand4Uyghurs - Islam21c</title>
-    <updated>2021-06-23T14:38:25.000000000Z</updated>
-    <link href="https://www.islam21c.com/campaigns/national-khutbah-day-stand4uyghurs/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.islam21c.com/campaigns/national-khutbah-day-stand4uyghurs/" target="_blank"&gt;National Khutbah Day: #Stand4Uyghurs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Islam21c&lt;/font&gt;</content>
+    <published>2021-06-23T18:35:49Z</published>
+    <updated>2021-06-23T18:35:49Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigwFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvZmFtaWx5LXJhaXNlLTUwMDAtZm9yLWxhc3RpbmctdHJpYnV0ZS10by1iYWxoYW0tZGFkLXdoby13YXMtZ3VubmVkLWRvd24tb24taGlzLWRvb3JzdGVwLW9uLXRodXJzZGF5L9IBAA?oc=5</id>
