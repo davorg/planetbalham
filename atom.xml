@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-24T12:58:43Z</updated>
+  <updated>2021-06-24T13:16:37Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1021mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-24T09:53:00.000+0000</id>
-    <published>2021-06-24T12:48:38Z</published>
-    <updated>2021-06-24T12:48:38Z</updated>
+    <published>2021-06-24T13:00:10Z</published>
+    <updated>2021-06-24T13:00:10Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 19°C (66°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1016mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-24T09:53:00.000+0000</id>
-    <published>2021-06-24T12:48:38Z</published>
-    <updated>2021-06-24T12:48:38Z</updated>
+    <published>2021-06-24T13:00:10Z</published>
+    <updated>2021-06-24T13:00:10Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-24T09:53:00.000+0000</id>
-    <published>2021-06-24T12:48:38Z</published>
-    <updated>2021-06-24T12:48:38Z</updated>
+    <published>2021-06-24T13:00:10Z</published>
+    <updated>2021-06-24T13:00:10Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmRpZ2l0YWxoZWFsdGgubmV0LzIwMjEvMDYvZ3AtcmVmZXJyYWwtdGVjaG5vbG9neS1jdXRzLWhvc3BpdGFsLWFwcG9pbnRtZW50cy1ieS1qdXN0LXVuZGVyLXR3by10aGlyZHMv0gEA?oc=5</id>
+    <title type="html">GP referral technology cuts hospital appointments by just under two thirds - Digital Health</title>
+    <updated>2021-06-24T12:00:37.000000000Z</updated>
+    <link href="https://www.digitalhealth.net/2021/06/gp-referral-technology-cuts-hospital-appointments-by-just-under-two-thirds/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.digitalhealth.net/2021/06/gp-referral-technology-cuts-hospital-appointments-by-just-under-two-thirds/" target="_blank"&gt;GP referral technology cuts hospital appointments by just under two thirds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Health&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEE3NyC6ZZrWh2h4QYJD2OmQqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-06-24T08:41:27.000000000Z</updated>
     <link href="https://www.standard.co.uk/business/lidl-expansion-new-stores-london-areas-b942377.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/business/lidl-expansion-new-stores-london-areas-b942377.html" target="_blank"&gt;Lidl expansion: The 237 London areas the discount retailer is eyeing up for potential store openings&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEPX9PgokMBzzHYdIjLda7RUqGQgEKhAIACoHCAowwNKVCzCxt6sDMJjwxgY?oc=5</id>
-    <title type="html">Boy, 15, knifed in stomach and another teen, 17, stabbed outside college in twin daylight attacks in... - The Scottish Sun</title>
-    <updated>2021-06-23T19:19:00.000000000Z</updated>
-    <link href="https://www.thescottishsun.co.uk/news/uk-news/7302798/two-teenagers-stabbed-in-daylight-attacks/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thescottishsun.co.uk/news/uk-news/7302798/two-teenagers-stabbed-in-daylight-attacks/" target="_blank"&gt;Boy, 15, knifed in stomach and another teen, 17, stabbed outside college in twin daylight attacks in...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Scottish Sun&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>crayon</title>
