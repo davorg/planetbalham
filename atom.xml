@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-26T20:15:32Z</updated>
+  <updated>2021-06-26T20:51:04Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 14°C (57°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (58°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-26T09:57:00.000+0000</id>
-    <published>2021-06-26T20:00:03Z</published>
-    <updated>2021-06-26T20:00:03Z</updated>
+    <published>2021-06-26T20:38:45Z</published>
+    <updated>2021-06-26T20:38:45Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Rain Showers, Minimum Temperature: 16°C (60°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 16°C (60°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 16°C (60°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 16°C (60°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 80%, UV Risk: 3, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-26T09:57:00.000+0000</id>
-    <published>2021-06-26T20:00:03Z</published>
-    <updated>2021-06-26T20:00:03Z</updated>
+    <published>2021-06-26T20:38:45Z</published>
+    <updated>2021-06-26T20:38:45Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-26T09:57:00.000+0000</id>
-    <published>2021-06-26T20:00:03Z</published>
-    <updated>2021-06-26T20:00:03Z</updated>
+    <published>2021-06-26T20:38:45Z</published>
+    <updated>2021-06-26T20:38:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMitwFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvdGhleS10aG91Z2h0LXRoZXkta2lsbGVkLWEtbm9ib2R5LWJ1dC1teS1zb24td2FzLXNvbWVib2R5LWxhbWVudHMtbW90aGVyLW9mLTI3LXllYXItb2xkLXNob3QtZGVhZC1vbi1oaXMtYmFsaGFtLWRvb3JzdGVwLWFzLWNvcHMtc2VhcmNoLWZvci1nZXRhd2F5LWNhci_SAQA?oc=5</id>
@@ -163,78 +163,19 @@
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmRpZ2l0YWxoZWFsdGgubmV0LzIwMjEvMDYvZ3AtcmVmZXJyYWwtdGVjaG5vbG9neS1jdXRzLWhvc3BpdGFsLWFwcG9pbnRtZW50cy1ieS1qdXN0LXVuZGVyLXR3by10aGlyZHMv0gEA?oc=5</id>
+    <title type="html">GP referral technology cuts hospital appointments by just under two thirds - Digital Health</title>
+    <updated>2021-06-24T12:00:37.000000000Z</updated>
+    <link href="https://www.digitalhealth.net/2021/06/gp-referral-technology-cuts-hospital-appointments-by-just-under-two-thirds/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.digitalhealth.net/2021/06/gp-referral-technology-cuts-hospital-appointments-by-just-under-two-thirds/" target="_blank"&gt;GP referral technology cuts hospital appointments by just under two thirds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Health&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEE3NyC6ZZrWh2h4QYJD2OmQqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
     <title type="html">The 200 plus places in London where Lidl wants to open new supermarkets - My London</title>
     <updated>2021-06-24T10:54:06.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/shopping/200-plus-places-london-lidl-20889864" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/shopping/200-plus-places-london-lidl-20889864" target="_blank"&gt;The 200 plus places in London where Lidl wants to open new supermarkets&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnJhaWx0ZWNobm9sb2d5bWFnYXppbmUuY29tL2FydGljbGVzL2xvbmRvbi12aWN0b3JpYS10cmFjay1zaWduYWxsaW5nLXVwZ3JhZGVz0gEA?oc=5</id>
-    <title type="html">Track and signalling upgrades planned for south London - Rail Technology Magazine</title>
-    <updated>2021-06-24T08:55:21.000000000Z</updated>
-    <link href="https://www.railtechnologymagazine.com/articles/london-victoria-track-signalling-upgrades" type="text/html"/>
-    <content type="html">&lt;a href="https://www.railtechnologymagazine.com/articles/london-victoria-track-signalling-upgrades" target="_blank"&gt;Track and signalling upgrades planned for south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Rail Technology Magazine&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>crayon</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/chrysis/51258697616/"/>
-    <id>tag:flickr.com,2005:/photo/51258697616</id>
-    <published>2021-06-20T08:32:00Z</published>
-    <updated>2021-06-20T08:32:00Z</updated>
-    <flickr:date_taken>2009-05-24T15:24:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2009-05-24T15:24:31-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/chrysis/"&gt;chrysisignita&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/chrysis/51258697616/" title="crayon"&gt;&lt;img src="https://live.staticflickr.com/65535/51258697616_1b215e01e9_m.jpg" width="180" height="240" alt="crayon" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Posted to &lt;a href="https://www.flickr.com/groups/guesswherelondon/"&gt;Guess Where London&lt;/a&gt; on 20-06-21.&lt;br /&gt;
-&lt;br /&gt;
-GWL137: Balham Mosque, Balham High Road, Wandsworth SW12.&lt;/p&gt;</content>
-    <author>
-      <name>chrysisignita</name>
-      <uri>https://www.flickr.com/people/chrysis/</uri>
-      <flickr:nsid>168193068@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/168193068@N08.jpg?1623085645#168193068@N08</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51258697616_1b215e01e9_b.jpg"/>
-    <category term="chrysis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yersinia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="postedbychrysis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="guesswherelondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gwl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="postedbyyersinia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gwl101" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gwl2021" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="geotagged" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="guessed" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ygm" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gwlgeotagged" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="guessedbysimonwhite" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southoftheriver" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northorsouth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="minaret" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="islamic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="crenellations" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="placeofworship" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhammasjidtootingislamiccentre" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhammosque" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="postcoded" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="swpostcode" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="travelcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="zone3" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fullytagged" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Street game, Balham, Wandsworth, 90-817-65</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51257139486/"/>
@@ -262,6 +203,40 @@ GWL137: Balham Mosque, Balham High Road, Wandsworth SW12.&lt;/p&gt;</content>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51251178711/"/>
+    <id>tag:flickr.com,2005:/photo/51251178711</id>
+    <published>2021-06-16T16:46:40Z</published>
+    <updated>2021-06-16T16:46:40Z</updated>
+    <flickr:date_taken>2021-06-09T14:31:25-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-09T14:31:25-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51251178711/" title="Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24"&gt;&lt;img src="https://live.staticflickr.com/65535/51251178711_e38ae1e270_m.jpg" width="160" height="240" alt="Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham Mosque, Balham High Rd, Balham, Wandsworth, 1990, 90-8u-24&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51251178711_e38ae1e270_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="908u24" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighrd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
