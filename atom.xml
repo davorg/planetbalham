@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-26T06:16:00Z</updated>
+  <updated>2021-06-26T06:55:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 66%, UV Risk: 6, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-25T21:55:00.000+0000</id>
-    <published>2021-06-26T06:00:57Z</published>
-    <updated>2021-06-26T06:00:57Z</updated>
+    <published>2021-06-26T06:29:10Z</published>
+    <updated>2021-06-26T06:29:10Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 15°C (59°F) Maximum Temperature: 21°C (70°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 80%, UV Risk: 3, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-25T21:55:00.000+0000</id>
-    <published>2021-06-26T06:00:57Z</published>
-    <updated>2021-06-26T06:00:57Z</updated>
+    <published>2021-06-26T06:29:10Z</published>
+    <updated>2021-06-26T06:29:10Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain Showers, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (72°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (58°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1014mb, Humidity: 76%, UV Risk: 4, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-25T21:55:00.000+0000</id>
-    <published>2021-06-26T06:00:57Z</published>
-    <updated>2021-06-26T06:00:57Z</updated>
+    <published>2021-06-26T06:29:10Z</published>
+    <updated>2021-06-26T06:29:10Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiENJkJ8UhWGJMYUPvFoLtCx4qGQgEKhAIACoHCAow3MuhCzD01bkDMMmi-wY?oc=5</id>
@@ -163,18 +163,18 @@
     <content type="html">&lt;a href="https://www.beyondthejoke.co.uk/content/10714/balham-comedy-festival" target="_blank"&gt;Balham Comedy Festival To Go Ahead this year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEHzCSHazdUDCZLdem3oBBf8qGQgEKhAIACoHCAow5fmdCzD2g7YDMPP_6AY?oc=5</id>
-    <title type="html">London Underground weekend closures: Tube and Overground changes on June 26 and 27 - Herts Live</title>
-    <updated>2021-06-24T13:21:50.000000000Z</updated>
-    <link href="https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/london-underground-weekend-closures-tube-5569720" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/london-underground-weekend-closures-tube-5569720" target="_blank"&gt;London Underground weekend closures: Tube and Overground changes on June 26 and 27&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Herts Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmRpZ2l0YWxoZWFsdGgubmV0LzIwMjEvMDYvZ3AtcmVmZXJyYWwtdGVjaG5vbG9neS1jdXRzLWhvc3BpdGFsLWFwcG9pbnRtZW50cy1ieS1qdXN0LXVuZGVyLXR3by10aGlyZHMv0gEA?oc=5</id>
     <title type="html">GP referral technology cuts hospital appointments by just under two thirds - Digital Health</title>
     <updated>2021-06-24T12:00:37.000000000Z</updated>
     <link href="https://www.digitalhealth.net/2021/06/gp-referral-technology-cuts-hospital-appointments-by-just-under-two-thirds/" type="text/html"/>
     <content type="html">&lt;a href="https://www.digitalhealth.net/2021/06/gp-referral-technology-cuts-hospital-appointments-by-just-under-two-thirds/" target="_blank"&gt;GP referral technology cuts hospital appointments by just under two thirds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Health&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEE3NyC6ZZrWh2h4QYJD2OmQqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
+    <title type="html">The 200 plus places in London where Lidl wants to open new supermarkets - My London</title>
+    <updated>2021-06-24T10:54:06.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/shopping/200-plus-places-london-lidl-20889864" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/shopping/200-plus-places-london-lidl-20889864" target="_blank"&gt;The 200 plus places in London where Lidl wants to open new supermarkets&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>crayon</title>
