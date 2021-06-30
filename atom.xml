@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-30T10:15:58Z</updated>
+  <updated>2021-06-30T10:51:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-30T07:04:00.000+0000</id>
-    <published>2021-06-30T10:00:02Z</published>
-    <updated>2021-06-30T10:00:02Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-06-30T09:56:00.000+0000</id>
+    <published>2021-06-30T10:47:51Z</published>
+    <updated>2021-06-30T10:47:51Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (73°F)</title>
@@ -26,19 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-30T07:04:00.000+0000</id>
-    <published>2021-06-30T10:00:02Z</published>
-    <updated>2021-06-30T10:00:02Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-06-30T09:56:00.000+0000</id>
+    <published>2021-06-30T10:47:51Z</published>
+    <updated>2021-06-30T10:47:51Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (72°F)</title>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (58°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 70%, UV Risk: 5, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 70%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-30T07:04:00.000+0000</id>
-    <published>2021-06-30T10:00:02Z</published>
-    <updated>2021-06-30T10:00:02Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-06-30T09:56:00.000+0000</id>
+    <published>2021-06-30T10:47:51Z</published>
+    <updated>2021-06-30T10:47:51Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEH9eCPNmpdO3IVLOCKtUyfIqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
+    <title type="html">Major rail upgrades completed to London Victoria - RailAdvent - Railway News</title>
+    <updated>2021-06-30T10:23:22.000000000Z</updated>
+    <link href="https://www.railadvent.co.uk/2021/06/major-rail-upgrades-completed-to-london-victoria.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railadvent.co.uk/2021/06/major-rail-upgrades-completed-to-london-victoria.html" target="_blank"&gt;Major rail upgrades completed to London Victoria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NDA4ODAzLm1hbi1jYXVnaHQtY2xhcGhhbS1kcnVncy1zYW11cmFpLXN0eWxlLWtuaWZlL9IBAA?oc=5</id>
@@ -115,13 +122,6 @@ Probably not, for all I care 367 464 S4 can all see them whilst 315 which casual
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMTk0MDY1MjkuYmFsaGFtLXNwb2tlbi13b3JkLWFydGlzdC1kaWFsZWN0aWMtZGVlLXJlbGVhc2VzLWVwL9IBAA?oc=5</id>
-    <title type="html">Balham spoken word artist 'Dialectic Dee' releases EP - Richmond and Twickenham Times</title>
-    <updated>2021-06-29T11:47:41.000000000Z</updated>
-    <link href="https://www.richmondandtwickenhamtimes.co.uk/news/19406529.balham-spoken-word-artist-dialectic-dee-releases-ep/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.richmondandtwickenhamtimes.co.uk/news/19406529.balham-spoken-word-artist-dialectic-dee-releases-ep/" target="_blank"&gt;Balham spoken word artist 'Dialectic Dee' releases EP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Richmond and Twickenham Times&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267990066/"/>
