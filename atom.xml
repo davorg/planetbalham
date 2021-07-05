@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-05T08:15:26Z</updated>
+  <updated>2021-07-05T08:50:53Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 67%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-04T21:53:00.000+0000</id>
-    <published>2021-07-05T08:04:00Z</published>
-    <updated>2021-07-05T08:04:00Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-05T07:00:00.000+0000</id>
+    <published>2021-07-05T08:19:59Z</published>
+    <updated>2021-07-05T08:19:59Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 19°C (65°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 999mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-04T21:53:00.000+0000</id>
-    <published>2021-07-05T08:04:00Z</published>
-    <updated>2021-07-05T08:04:00Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-05T07:00:00.000+0000</id>
+    <published>2021-07-05T08:19:59Z</published>
+    <updated>2021-07-05T08:19:59Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Wednesday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1012mb, Humidity: 77%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1011mb, Humidity: 77%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-04T21:53:00.000+0000</id>
-    <published>2021-07-05T08:04:00Z</published>
-    <updated>2021-07-05T08:04:00Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-05T07:00:00.000+0000</id>
+    <published>2021-07-05T08:19:59Z</published>
+    <updated>2021-07-05T08:19:59Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmNhbWJyaWRnZW5ldHdvcmsuY28udWsvbmV3cy9ncnVtcHktZmFpcmllcy13b3JrLXRoZWlyLW1hZ2ljLWF3YXJkc9IBAA?oc=5</id>
