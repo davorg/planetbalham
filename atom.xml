@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-05T06:55:53Z</updated>
+  <updated>2021-07-05T07:15:05Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmNhbWJyaWRnZW5ldHdvcmsuY28udWsvbmV3cy9ncnVtcHktZmFpcmllcy13b3JrLXRoZWlyLW1hZ2ljLWF3YXJkc9IBAA?oc=5</id>
-    <title type="html">'The Grumpy Fairies' work their magic at awards - Cambridge Network</title>
-    <updated>2021-07-05T06:46:03.000000000Z</updated>
-    <link href="https://www.cambridgenetwork.co.uk/news/grumpy-fairies-work-their-magic-awards" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cambridgenetwork.co.uk/news/grumpy-fairies-work-their-magic-awards" target="_blank"&gt;'The Grumpy Fairies' work their magic at awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cambridge Network&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 68%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-04T21:53:00.000+0000</id>
-    <published>2021-07-05T06:18:56Z</published>
-    <updated>2021-07-05T06:18:56Z</updated>
+    <published>2021-07-05T07:02:03Z</published>
+    <updated>2021-07-05T07:02:03Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 19°C (65°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 999mb, Humidity: 76%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-04T21:53:00.000+0000</id>
-    <published>2021-07-05T06:18:56Z</published>
-    <updated>2021-07-05T06:18:56Z</updated>
+    <published>2021-07-05T07:02:03Z</published>
+    <updated>2021-07-05T07:02:03Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (66°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 77%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-04T21:53:00.000+0000</id>
-    <published>2021-07-05T06:18:56Z</published>
-    <updated>2021-07-05T06:18:56Z</updated>
+    <published>2021-07-05T07:02:03Z</published>
+    <updated>2021-07-05T07:02:03Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmNhbWJyaWRnZW5ldHdvcmsuY28udWsvbmV3cy9ncnVtcHktZmFpcmllcy13b3JrLXRoZWlyLW1hZ2ljLWF3YXJkc9IBAA?oc=5</id>
+    <title type="html">'The Grumpy Fairies' work their magic at awards - Cambridge Network</title>
+    <updated>2021-07-05T06:46:03.000000000Z</updated>
+    <link href="https://www.cambridgenetwork.co.uk/news/grumpy-fairies-work-their-magic-awards" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cambridgenetwork.co.uk/news/grumpy-fairies-work-their-magic-awards" target="_blank"&gt;'The Grumpy Fairies' work their magic at awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cambridge Network&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9mYW1pbHkvbGlmZS9hcnRodXItc21pdGgtbWlzcy1vbGQtc3R5bGUtY29uc3BpcmFjeS10aGVvcmllcy_SAVxodHRwczovL3d3dy50ZWxlZ3JhcGguY28udWsvZmFtaWx5L2xpZmUvYXJ0aHVyLXNtaXRoLW1pc3Mtb2xkLXN0eWxlLWNvbnNwaXJhY3ktdGhlb3JpZXMvYW1wLw?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.railmagazine.com/news/network/track-remodelling-to-boost-capacity-at-clapham-junction" target="_blank"&gt;Track remodelling to boost capacity at Clapham Junction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RAIL magazine&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEBdzX1C21w14DyDkVEiWuOkqGQgEKhAIACoHCAow3suhCzD21bkDMKPg-gY?oc=5</id>
+    <title type="html">Balham school students featured on TV in bid to save the water vole - Times News Express</title>
+    <updated>2021-07-02T10:52:30.000000000Z</updated>
+    <link href="https://timesnewsexpress.com/news/world/uk/balham-school-students-featured-on-tv-in-bid-to-save-the-water-vole/" type="text/html"/>
+    <content type="html">&lt;a href="https://timesnewsexpress.com/news/world/uk/balham-school-students-featured-on-tv-in-bid-to-save-the-water-vole/" target="_blank"&gt;Balham school students featured on TV in bid to save the water vole&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Times News Express&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NDA5Mjc2LnppYS1sdWNpYS1kZWxpdmVycy1waXp6YS1maXgtYmFsaGFtL9IBAA?oc=5</id>
     <title type="html">Zia Lucia delivers pizza fix in Balham - Wandsworth Guardian</title>
     <updated>2021-06-30T11:29:49.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19409276.zia-lucia-delivers-pizza-fix-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19409276.zia-lucia-delivers-pizza-fix-balham/" target="_blank"&gt;Zia Lucia delivers pizza fix in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEH9eCPNmpdO3IVLOCKtUyfIqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
-    <title type="html">Major rail upgrades completed to London Victoria - RailAdvent - Railway News</title>
-    <updated>2021-06-30T10:23:22.000000000Z</updated>
-    <link href="https://www.railadvent.co.uk/2021/06/major-rail-upgrades-completed-to-london-victoria.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.railadvent.co.uk/2021/06/major-rail-upgrades-completed-to-london-victoria.html" target="_blank"&gt;Major rail upgrades completed to London Victoria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
