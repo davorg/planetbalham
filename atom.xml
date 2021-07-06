@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-06T11:14:32Z</updated>
+  <updated>2021-07-06T11:50:42Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1002mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1002mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-06T09:55:00.000+0000</id>
-    <published>2021-07-06T11:03:26Z</published>
-    <updated>2021-07-06T11:03:26Z</updated>
+    <published>2021-07-06T11:36:30Z</published>
+    <updated>2021-07-06T11:36:30Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1012mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-06T09:55:00.000+0000</id>
-    <published>2021-07-06T11:03:26Z</published>
-    <updated>2021-07-06T11:03:26Z</updated>
+    <published>2021-07-06T11:36:30Z</published>
+    <updated>2021-07-06T11:36:30Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (71°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-06T09:55:00.000+0000</id>
-    <published>2021-07-06T11:03:26Z</published>
-    <updated>2021-07-06T11:03:26Z</updated>
+    <published>2021-07-06T11:36:30Z</published>
+    <updated>2021-07-06T11:36:30Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnJhaWx0ZWNobm9sb2d5bWFnYXppbmUuY29tL2FydGljbGVzL25ldHdvcmstcmFpbC1pbnZlc3QtcHMyNm0tcmVzdG9yZS1oaXN0b3JpYy1zdGF0aW9u0gEA?oc=5</id>
+    <title type="html">Network Rail invest £2.6m to restore historic station - Rail Technology Magazine</title>
+    <updated>2021-07-06T11:33:54.000000000Z</updated>
+    <link href="https://www.railtechnologymagazine.com/articles/network-rail-invest-ps26m-restore-historic-station" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railtechnologymagazine.com/articles/network-rail-invest-ps26m-restore-historic-station" target="_blank"&gt;Network Rail invest £2.6m to restore historic station&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Rail Technology Magazine&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBbZA-Sz0MGCapj7p0SY5fQqGQgEKhAIACoHCAowxsaVCzCXq6sDMPfkxgY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-05T09:34:08.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/bid-save-tooting-bec-athletics-20958178" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/bid-save-tooting-bec-athletics-20958178" target="_blank"&gt;Bid to save Tooting Bec Athletics Track backed by Balham Olympian who 'owes it all to my success'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmNhbWJyaWRnZW5ldHdvcmsuY28udWsvbmV3cy9ncnVtcHktZmFpcmllcy13b3JrLXRoZWlyLW1hZ2ljLWF3YXJkc9IBAA?oc=5</id>
-    <title type="html">'The Grumpy Fairies' work their magic at awards - Cambridge Network</title>
-    <updated>2021-07-05T06:46:03.000000000Z</updated>
-    <link href="https://www.cambridgenetwork.co.uk/news/grumpy-fairies-work-their-magic-awards" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cambridgenetwork.co.uk/news/grumpy-fairies-work-their-magic-awards" target="_blank"&gt;'The Grumpy Fairies' work their magic at awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cambridge Network&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
