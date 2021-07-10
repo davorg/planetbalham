@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-10T17:50:42Z</updated>
+  <updated>2021-07-10T18:16:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1015mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-10T09:57:00.000+0000</id>
-    <published>2021-07-10T17:48:53Z</published>
-    <updated>2021-07-10T17:48:53Z</updated>
+    <published>2021-07-10T18:03:24Z</published>
+    <updated>2021-07-10T18:03:24Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 15°C (58°F) Maximum Temperature: 21°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 15°C (58°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 04:56 BST, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-10T09:57:00.000+0000</id>
-    <published>2021-07-10T17:48:53Z</published>
-    <updated>2021-07-10T17:48:53Z</updated>
+    <published>2021-07-10T18:03:24Z</published>
+    <updated>2021-07-10T18:03:24Z</updated>
   </entry>
   <entry>
     <title>Monday: Heavy Rain, Minimum Temperature: 14°C (58°F) Maximum Temperature: 20°C (69°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 14°C (58°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 80%, UV Risk: 3, Pollution: Low, Sunrise: 04:57 BST, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-10T09:57:00.000+0000</id>
-    <published>2021-07-10T17:48:53Z</published>
-    <updated>2021-07-10T17:48:53Z</updated>
+    <published>2021-07-10T18:03:24Z</published>
+    <updated>2021-07-10T18:03:24Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMipAFodHRwczovL3d3dy5oZXJhbGRzdW4uY29tLmF1L25ld3Mvd29ybGQvZm9ybWVyLXRvcC1jb3AtcGxlYWRzLWd1aWx0eS10by1yYXBlLWtpZG5hcC1hbmQtbXVyZGVyLW9mLXVrLXdvbWFuLXNhcmFoLWV2ZXJhcmQvbmV3cy1zdG9yeS84NTVhN2MwNGMzZTJlNTYwNTMwMTRiYTQyMTEwNjM4MdIBqAFodHRwczovL3d3dy5oZXJhbGRzdW4uY29tLmF1L25ld3Mvd29ybGQvZm9ybWVyLXRvcC1jb3AtcGxlYWRzLWd1aWx0eS10by1yYXBlLWtpZG5hcC1hbmQtbXVyZGVyLW9mLXVrLXdvbWFuLXNhcmFoLWV2ZXJhcmQvbmV3cy1zdG9yeS84NTVhN2MwNGMzZTJlNTYwNTMwMTRiYTQyMTEwNjM4MT9hbXA?oc=5</id>
+    <title type="html">Unmasking a monster disguised as cop - Herald Sun</title>
+    <updated>2021-07-10T12:55:38.000000000Z</updated>
+    <link href="https://www.heraldsun.com.au/news/world/former-top-cop-pleads-guilty-to-rape-kidnap-and-murder-of-uk-woman-sarah-everard/news-story/855a7c04c3e2e56053014ba421106381" type="text/html"/>
+    <content type="html">&lt;a href="https://www.heraldsun.com.au/news/world/former-top-cop-pleads-guilty-to-rape-kidnap-and-murder-of-uk-woman-sarah-everard/news-story/855a7c04c3e2e56053014ba421106381" target="_blank"&gt;Unmasking a monster disguised as cop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Herald Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3doZXJlLXRvLXdhdGNoLWV1cm9zLWluLWxvbmRvbi1iZXN0LXBsYWNlcy10by13YXRjaC10aGUtZW5nbGFuZC12cy1pdGFseS1maW5hbC0wNzEwMjHSAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-09T13:31:44.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/09072021-snowden-throws-support-behind-tooting-bec-athletics-track-petition/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/09072021-snowden-throws-support-behind-tooting-bec-athletics-track-petition/" target="_blank"&gt;Snowden throws support behind Tooting Bec Athletics Track petition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAg6g91D4lgkgLD6ih_UoG4qMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0UwpcKKBw?oc=5</id>
-    <title type="html">FA Cup Extra Preliminary Round and Preliminary Round draws - Kent Online</title>
-    <updated>2021-07-09T12:00:00.000000000Z</updated>
-    <link href="https://www.kentonline.co.uk/maidstone/sport/fa-cup-extra-preliminary-round-and-preliminary-round-draws-250384/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.kentonline.co.uk/maidstone/sport/fa-cup-extra-preliminary-round-and-preliminary-round-draws-250384/" target="_blank"&gt;FA Cup Extra Preliminary Round and Preliminary Round draws&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
