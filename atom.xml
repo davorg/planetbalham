@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-11T00:17:56Z</updated>
+  <updated>2021-07-11T01:11:38Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1016mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 21:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1016mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-10T21:57:00.000+0000</id>
-    <published>2021-07-11T00:01:43Z</published>
-    <updated>2021-07-11T00:01:43Z</updated>
+    <published>2021-07-11T01:01:10Z</published>
+    <updated>2021-07-11T01:01:10Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 04:57 BST, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-10T21:57:00.000+0000</id>
-    <published>2021-07-11T00:01:43Z</published>
-    <updated>2021-07-11T00:01:43Z</updated>
+    <published>2021-07-11T01:01:10Z</published>
+    <updated>2021-07-11T01:01:10Z</updated>
   </entry>
   <entry>
     <title>Monday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 82%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 21:13 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-10T21:57:00.000+0000</id>
-    <published>2021-07-11T00:01:43Z</published>
-    <updated>2021-07-11T00:01:43Z</updated>
+    <published>2021-07-11T01:01:10Z</published>
+    <updated>2021-07-11T01:01:10Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmRhaWx5YXZlbnVlLmNvbS90aGluZ3MtdG8tZG8vd2hlcmUtdG8td2F0Y2gtZXVyby0yMDIwLWZpbmFsLWluLWxvbmRvbi_SAVZodHRwczovL3d3dy5kYWlseWF2ZW51ZS5jb20vdGhpbmdzLXRvLWRvL3doZXJlLXRvLXdhdGNoLWV1cm8tMjAyMC1maW5hbC1pbi1sb25kb24vYW1wLw?oc=5</id>
@@ -46,13 +46,6 @@
     <updated>2021-07-10T14:51:22.000000000Z</updated>
     <link href="https://www.dailyavenue.com/things-to-do/where-to-watch-euro-2020-final-in-london/" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailyavenue.com/things-to-do/where-to-watch-euro-2020-final-in-london/" target="_blank"&gt;Where to watch the Euro 2020 Final in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Avenue&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NDMzMDAxLndheW5lLWNvdXplbnMtZGllLWphaWwtc2FyYWgtZXZlcmFyZC1tdXJkZXIv0gEA?oc=5</id>
-    <title type="html">Wayne Couzens could die behind bars for Sarah Everard murder - Wandsworth Guardian</title>
-    <updated>2021-07-10T03:00:00.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19433001.wayne-couzens-die-jail-sarah-everard-murder/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19433001.wayne-couzens-die-jail-sarah-everard-murder/" target="_blank"&gt;Wayne Couzens could die behind bars for Sarah Everard murder&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECsFwiLgS2mv_lVurgkbzfUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-07-09T12:00:00.000000000Z</updated>
     <link href="https://www.kentonline.co.uk/maidstone/sport/fa-cup-extra-preliminary-round-and-preliminary-round-draws-250384/" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentonline.co.uk/maidstone/sport/fa-cup-extra-preliminary-round-and-preliminary-round-draws-250384/" target="_blank"&gt;FA Cup Extra Preliminary Round and Preliminary Round draws&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvNzMzNDQyMS91ay1wb2xpY2Utb2ZmaWNlci1hZG1pdHMtd29tYW5zLW11cmRlci8_Y3M9NzU3OdIBAA?oc=5</id>
+    <title type="html">UK police officer admits woman's murder - Newcastle Herald</title>
+    <updated>2021-07-09T09:55:51.000000000Z</updated>
+    <link href="https://www.newcastleherald.com.au/story/7334421/uk-police-officer-admits-womans-murder/?cs=7579" type="text/html"/>
+    <content type="html">&lt;a href="https://www.newcastleherald.com.au/story/7334421/uk-police-officer-admits-womans-murder/?cs=7579" target="_blank"&gt;UK police officer admits woman's murder&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Newcastle Herald&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
