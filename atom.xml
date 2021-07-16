@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-16T22:15:10Z</updated>
+  <updated>2021-07-16T22:50:22Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 13°C (56°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1028mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (59°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1028mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunset: 21:10 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-16T19:57:00.000+0000</id>
-    <published>2021-07-16T22:00:59Z</published>
-    <updated>2021-07-16T22:00:59Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-16T21:55:00.000+0000</id>
+    <published>2021-07-16T22:48:19Z</published>
+    <updated>2021-07-16T22:48:19Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny, Minimum Temperature: 15°C (60°F) Maximum Temperature: 28°C (82°F)</title>
+    <title>Saturday: Sunny, Minimum Temperature: 16°C (60°F) Maximum Temperature: 28°C (82°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (60°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 16°C (60°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 05:04 BST, Sunset: 21:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-16T19:57:00.000+0000</id>
-    <published>2021-07-16T22:00:59Z</published>
-    <updated>2021-07-16T22:00:59Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-16T21:55:00.000+0000</id>
+    <published>2021-07-16T22:48:19Z</published>
+    <updated>2021-07-16T22:48:19Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 17°C (62°F) Maximum Temperature: 30°C (86°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 30°C (86°F), Minimum Temperature: 17°C (62°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1025mb, Humidity: 62%, UV Risk: 8, Pollution: Low, Sunrise: 05:04 BST, Sunset: 21:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 30°C (86°F), Minimum Temperature: 17°C (62°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1025mb, Humidity: 62%, UV Risk: 8, Pollution: Low, Sunrise: 05:06 BST, Sunset: 21:07 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-16T19:57:00.000+0000</id>
-    <published>2021-07-16T22:00:59Z</published>
-    <updated>2021-07-16T22:00:59Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-16T21:55:00.000+0000</id>
+    <published>2021-07-16T22:48:19Z</published>
+    <updated>2021-07-16T22:48:19Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vbmV3c3dpcmUubmV0L25ld3Nyb29tL3ByLzAwMjE5NjMwLWh0dHBzLW1hcmlvbmFuZHlvdXBob3RvZ3JhcGh5LWNvbS5odG1s0gEA?oc=5</id>
@@ -70,10 +70,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOMHoj215QzmTUC4vPoi3JgqMwgEKioIACIQJ4jhQtGcXNB_WKuh1xrIRCoUCAoiECeI4ULRnFzQf1irodcayEQww5LnBg?oc=5</id>
-    <title type="html">Balham station's £2.6 million upgrade completed - IanVisits</title>
+    <title type="html">Balham station's £2.6 million upgrade completed - IanVisits - IanVisits</title>
     <updated>2021-07-15T11:00:22.000000000Z</updated>
     <link href="https://www.ianvisits.co.uk/blog/2021/07/15/balham-stations-2-6-million-upgrade-completed/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/07/15/balham-stations-2-6-million-upgrade-completed/" target="_blank"&gt;Balham station's £2.6 million upgrade completed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/07/15/balham-stations-2-6-million-upgrade-completed/" target="_blank"&gt;Balham station's £2.6 million upgrade completed - IanVisits&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
