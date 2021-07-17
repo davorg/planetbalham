@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-17T13:50:53Z</updated>
+  <updated>2021-07-17T14:14:49Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 15°C (59°F) Maximum Temperature: 27°C (81°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 48%, UV Risk: 7, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 15°C (59°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1027mb, Humidity: 45%, UV Risk: 7, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-17T09:53:00.000+0000</id>
-    <published>2021-07-17T13:00:32Z</published>
-    <updated>2021-07-17T13:00:32Z</updated>
+    <published>2021-07-17T14:01:54Z</published>
+    <updated>2021-07-17T14:01:54Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 17°C (62°F) Maximum Temperature: 30°C (87°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 30°C (87°F), Minimum Temperature: 17°C (62°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1025mb, Humidity: 58%, UV Risk: 8, Pollution: Low, Sunrise: 05:04 BST, Sunset: 21:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-17T09:53:00.000+0000</id>
-    <published>2021-07-17T13:00:32Z</published>
-    <updated>2021-07-17T13:00:32Z</updated>
+    <published>2021-07-17T14:01:54Z</published>
+    <updated>2021-07-17T14:01:54Z</updated>
   </entry>
   <entry>
     <title>Monday: Thundery Showers, Minimum Temperature: 15°C (60°F) Maximum Temperature: 25°C (78°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (78°F), Minimum Temperature: 15°C (60°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 6, Pollution: Low, Sunrise: 05:06 BST, Sunset: 21:07 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-17T09:53:00.000+0000</id>
-    <published>2021-07-17T13:00:32Z</published>
-    <updated>2021-07-17T13:00:32Z</updated>
+    <published>2021-07-17T14:01:54Z</published>
+    <updated>2021-07-17T14:01:54Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vbmV3c3dpcmUubmV0L25ld3Nyb29tL3ByLzAwMjE5NjMwLWh0dHBzLW1hcmlvbmFuZHlvdXBob3RvZ3JhcGh5LWNvbS5odG1s0gEA?oc=5</id>
