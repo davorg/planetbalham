@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-18T15:53:02Z</updated>
+  <updated>2021-07-18T16:16:11Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 17°C (62°F) Maximum Temperature: 30°C (86°F)</title>
+    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnJhaWxtYWdhemluZS5jb20vbmV3cy9uZXR3b3JrLzIwMjEvMDcvMTUvYmFsaGFtLXJlY2VpdmVzLTI2bS1yZWZyZXNo0gEA?oc=5</id>
+    <title type="html">Balham receives £2.6m refresh - RAIL magazine</title>
+    <updated>2021-07-18T16:11:00.000000000Z</updated>
+    <link href="https://www.railmagazine.com/news/network/2021/07/15/balham-receives-26m-refresh" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railmagazine.com/news/network/2021/07/15/balham-receives-26m-refresh" target="_blank"&gt;Balham receives £2.6m refresh&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RAIL magazine&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 30°C (86°F), Minimum Temperature: 17°C (62°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1024mb, Humidity: 45%, UV Risk: 7, Pollution: Low, Sunrise: 05:04 BST, Sunset: 21:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 17°C (62°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1022mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunset: 21:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-18T09:58:00.000+0000</id>
-    <published>2021-07-18T15:21:01Z</published>
-    <updated>2021-07-18T15:21:01Z</updated>
+    <published>2021-07-18T16:02:59Z</published>
+    <updated>2021-07-18T16:02:59Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 15°C (60°F) Maximum Temperature: 28°C (82°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (60°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1021mb, Humidity: 66%, UV Risk: 6, Pollution: Low, Sunrise: 05:06 BST, Sunset: 21:07 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-18T09:58:00.000+0000</id>
-    <published>2021-07-18T15:21:01Z</published>
-    <updated>2021-07-18T15:21:01Z</updated>
+    <published>2021-07-18T16:02:59Z</published>
+    <updated>2021-07-18T16:02:59Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 16°C (61°F) Maximum Temperature: 27°C (80°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (80°F), Minimum Temperature: 16°C (61°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1021mb, Humidity: 68%, UV Risk: 7, Pollution: Low, Sunrise: 05:07 BST, Sunset: 21:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-18T09:58:00.000+0000</id>
-    <published>2021-07-18T15:21:01Z</published>
-    <updated>2021-07-18T15:21:01Z</updated>
+    <published>2021-07-18T16:02:59Z</published>
+    <updated>2021-07-18T16:02:59Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEC0JUsMgPVpQs8TwWNefrkkqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-15T10:39:03.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/entertainment/15072021-south-london-sisters-publish-novel-after-20-year-collaboration/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/entertainment/15072021-south-london-sisters-publish-novel-after-20-year-collaboration/" target="_blank"&gt;South London sisters publish novel together after 20-year collaboration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vZmFuY3ktYS1jb3ZpZC1qYWItaGVyZS1hcmUtYWxsLXRoZS13YWxrLWluLXZhY2NpbmUtc2l0ZXMtb3Blbi1pbi1sb25kb24tdGhpcy1tb250aC0yL9IBcGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vZmFuY3ktYS1jb3ZpZC1qYWItaGVyZS1hcmUtYWxsLXRoZS13YWxrLWluLXZhY2NpbmUtc2l0ZXMtb3Blbi1pbi1sb25kb24tdGhpcy1tb250aC0yL2FtcC8?oc=5</id>
-    <title type="html">Fancy a Covid jab? Here are all the free walk-in vaccine sites open in London this month - City A.M.</title>
-    <updated>2021-07-14T15:06:00.000000000Z</updated>
-    <link href="https://www.cityam.com/fancy-a-covid-jab-here-are-all-the-walk-in-vaccine-sites-open-in-london-this-month-2/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cityam.com/fancy-a-covid-jab-here-are-all-the-walk-in-vaccine-sites-open-in-london-this-month-2/" target="_blank"&gt;Fancy a Covid jab? Here are all the free walk-in vaccine sites open in London this month&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
