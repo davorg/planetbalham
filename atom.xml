@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-20T06:15:30Z</updated>
+  <updated>2021-07-20T06:55:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Thundery Showers, Minimum Temperature: 17°C (62°F) Maximum Temperature: 29°C (85°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 16°C (61°F) Maximum Temperature: 29°C (83°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (85°F), Minimum Temperature: 17°C (62°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 64%, UV Risk: 7, Pollution: Moderate, Sunrise: 05:07 BST, Sunset: 21:06 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (83°F), Minimum Temperature: 16°C (61°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 64%, UV Risk: 7, Pollution: Moderate, Sunrise: 05:07 BST, Sunset: 21:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-19T21:54:00.000+0000</id>
-    <published>2021-07-20T06:01:37Z</published>
-    <updated>2021-07-20T06:01:37Z</updated>
+    <published>2021-07-20T06:45:34Z</published>
+    <updated>2021-07-20T06:45:34Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 16°C (60°F) Maximum Temperature: 27°C (81°F)</title>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 16°C (60°F) Maximum Temperature: 28°C (83°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 70%, UV Risk: 6, Pollution: Moderate, Sunrise: 05:08 BST, Sunset: 21:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (83°F), Minimum Temperature: 16°C (60°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 65%, UV Risk: 6, Pollution: Moderate, Sunrise: 05:08 BST, Sunset: 21:05 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-19T21:54:00.000+0000</id>
-    <published>2021-07-20T06:01:37Z</published>
-    <updated>2021-07-20T06:01:37Z</updated>
+    <published>2021-07-20T06:45:34Z</published>
+    <updated>2021-07-20T06:45:34Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 26°C (79°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 67%, UV Risk: 6, Pollution: Moderate, Sunrise: 05:10 BST, Sunset: 21:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-19T21:54:00.000+0000</id>
-    <published>2021-07-20T06:01:37Z</published>
-    <updated>2021-07-20T06:01:37Z</updated>
+    <published>2021-07-20T06:45:34Z</published>
+    <updated>2021-07-20T06:45:34Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jcnlzdGFsLXBhbGFjZS1jbGluY2gtZGVhbC1mb3IteW91bmctcGV0ZXJib3JvdWdoLXN0cmlrZXIv0gEA?oc=5</id>
+    <title type="html">Crystal Palace clinch deal for young Peterborough striker - London News Online</title>
+    <updated>2021-07-20T06:38:38.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/crystal-palace-clinch-deal-for-young-peterborough-striker/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/crystal-palace-clinch-deal-for-young-peterborough-striker/" target="_blank"&gt;Crystal Palace clinch deal for young Peterborough striker&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NDU0MDI0LmJhbGhhbS1oaWdoZXN0LWNvdmlkLWluZmVjdGlvbi1yYXRlcy1sb25kb24v0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-19T12:03:32.000000000Z</updated>
     <link href="https://www.railmagazine.com/news/network/2021/07/15/transpennine-upgrade-to-start" type="text/html"/>
     <content type="html">&lt;a href="https://www.railmagazine.com/news/network/2021/07/15/transpennine-upgrade-to-start" target="_blank"&gt;Transpennine upgrade to start&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RAIL magazine&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3lhcmQtc2FsZS1pcy1vcGVuaW5nLWEtbmV3LXBpenphLXBhcmxvdXItaW4tY3J5c3RhbC1wYWxhY2UtMDcxOTIx0gEA?oc=5</id>
-    <title type="html">Yard Sale is opening a new pizza parlour in south London - Time Out London</title>
-    <updated>2021-07-19T11:51:16.000000000Z</updated>
-    <link href="https://www.timeout.com/london/news/yard-sale-is-opening-a-new-pizza-parlour-in-crystal-palace-071921" type="text/html"/>
-    <content type="html">&lt;a href="https://www.timeout.com/london/news/yard-sale-is-opening-a-new-pizza-parlour-in-crystal-palace-071921" target="_blank"&gt;Yard Sale is opening a new pizza parlour in south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
