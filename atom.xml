@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-20T19:50:45Z</updated>
+  <updated>2021-07-20T20:15:55Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 79%, UV Risk: 2, Pollution: Moderate, Sunset: 21:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-20T09:57:00.000+0000</id>
-    <published>2021-07-20T19:02:23Z</published>
-    <updated>2021-07-20T19:02:23Z</updated>
+    <published>2021-07-20T20:03:35Z</published>
+    <updated>2021-07-20T20:03:35Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 16°C (61°F) Maximum Temperature: 28°C (83°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (83°F), Minimum Temperature: 16°C (61°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 64%, UV Risk: 7, Pollution: Moderate, Sunrise: 05:08 BST, Sunset: 21:05 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-20T09:57:00.000+0000</id>
-    <published>2021-07-20T19:02:23Z</published>
-    <updated>2021-07-20T19:02:23Z</updated>
+    <published>2021-07-20T20:03:35Z</published>
+    <updated>2021-07-20T20:03:35Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: 14°C (57°F) Maximum Temperature: 26°C (79°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 14°C (57°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 65%, UV Risk: 7, Pollution: Moderate, Sunrise: 05:10 BST, Sunset: 21:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-20T09:57:00.000+0000</id>
-    <published>2021-07-20T19:02:23Z</published>
-    <updated>2021-07-20T19:02:23Z</updated>
+    <published>2021-07-20T20:03:35Z</published>
+    <updated>2021-07-20T20:03:35Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMWkOuKNHh0Mu0KE5ZfuF7EqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2021/07/20/Yard-Sale-Pizza-heads-to-Crystal-Palace-for-eighth-London-site" target="_blank"&gt;Yard Sale Pizza heads to Crystal Palace for eighth London site&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnJhaWxtYWdhemluZS5jb20vbmV3cy9uZXR3b3JrLzIwMjEvMDcvMTUvaHMyLWFwcHJlbnRpY2UtbWlsZXN0b25lLXJlYWNoZWTSAQA?oc=5</id>
-    <title type="html">HS2 apprentice milestone reached - RAIL magazine - RAIL magazine</title>
-    <updated>2021-07-20T08:14:15.000000000Z</updated>
-    <link href="https://www.railmagazine.com/news/network/2021/07/15/hs2-apprentice-milestone-reached" type="text/html"/>
-    <content type="html">&lt;a href="https://www.railmagazine.com/news/network/2021/07/15/hs2-apprentice-milestone-reached" target="_blank"&gt;HS2 apprentice milestone reached - RAIL magazine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RAIL magazine&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMib2h0dHBzOi8vY2FsaWZvcm5pYW5ld3N0aW1lcy5jb20vaXNpcy1jbGFpbXMtcmVzcG9uc2liaWxpdHktZm9yLWlyYXEtYmxhc3QtdGhhdC1sZWZ0LWRvemVucy1kZWFkLWtpb241NDYvNDQ2ODE4L9IBAA?oc=5</id>
     <title type="html">ISIS claims responsibility for Iraq blast that left dozens dead – KION546 - California News Times</title>
     <updated>2021-07-20T07:26:18.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2021-07-20T06:38:38.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/crystal-palace-clinch-deal-for-young-peterborough-striker/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/crystal-palace-clinch-deal-for-young-peterborough-striker/" target="_blank"&gt;Crystal Palace clinch deal for young Peterborough striker&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NDU0MDI0LmJhbGhhbS1oaWdoZXN0LWNvdmlkLWluZmVjdGlvbi1yYXRlcy1sb25kb24v0gEA?oc=5</id>
+    <title type="html">Balham has highest Covid infection rates in London - Wandsworth Guardian</title>
+    <updated>2021-07-20T04:00:00.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19454024.balham-highest-covid-infection-rates-london/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19454024.balham-highest-covid-infection-rates-london/" target="_blank"&gt;Balham has highest Covid infection rates in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
