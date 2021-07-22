@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-22T04:55:18Z</updated>
+  <updated>2021-07-22T05:15:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 15°C (58°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 62%, UV Risk: 7, Pollution: Low, Sunrise: 05:10 BST, Sunset: 21:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-21T21:55:00.000+0000</id>
-    <published>2021-07-22T04:20:17Z</published>
-    <updated>2021-07-22T04:20:17Z</updated>
+    <published>2021-07-22T05:01:50Z</published>
+    <updated>2021-07-22T05:01:50Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 15°C (60°F) Maximum Temperature: 23°C (74°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 15°C (60°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 69%, UV Risk: 6, Pollution: Low, Sunrise: 05:11 BST, Sunset: 21:02 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-21T21:55:00.000+0000</id>
-    <published>2021-07-22T04:20:17Z</published>
-    <updated>2021-07-22T04:20:17Z</updated>
+    <published>2021-07-22T05:01:50Z</published>
+    <updated>2021-07-22T05:01:50Z</updated>
   </entry>
   <entry>
     <title>Saturday: Thundery Showers, Minimum Temperature: 15°C (60°F) Maximum Temperature: 22°C (72°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (60°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1010mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 05:12 BST, Sunset: 21:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-21T21:55:00.000+0000</id>
-    <published>2021-07-22T04:20:17Z</published>
-    <updated>2021-07-22T04:20:17Z</updated>
+    <published>2021-07-22T05:01:50Z</published>
+    <updated>2021-07-22T05:01:50Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvaGVybmUtYmF5L25ld3Mvc2hvY2stYXQtZGVhdGgtb2YtbXVjaC1sb3ZlZC1sYW5kbGFkeS1hZ2VkLTUyLTI1MTA0Mi_SAWVodHRwczovL3d3dy5rZW50b25saW5lLmNvLnVrL2hlcm5lLWJheS9uZXdzL2FtcC9zaG9jay1hdC1kZWF0aC1vZi1tdWNoLWxvdmVkLWxhbmRsYWR5LWFnZWQtNTItMjUxMDQyLw?oc=5</id>
+    <title type="html">Shock at death of much-loved landlady aged 52 - Kent Online</title>
+    <updated>2021-07-22T05:00:00.000000000Z</updated>
+    <link href="https://www.kentonline.co.uk/herne-bay/news/shock-at-death-of-much-loved-landlady-aged-52-251042/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.kentonline.co.uk/herne-bay/news/shock-at-death-of-much-loved-landlady-aged-52-251042/" target="_blank"&gt;Shock at death of much-loved landlady aged 52&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmtlZXB0aGVmYWl0aC5jby51ay8yMDIxLzA3LzIxL25ldy10ZXN0YW1lbnQtYXNzZW1ibHktNjB0aC1hbm5pdmVyc2FyeS_SAVZodHRwczovL3d3dy5rZWVwdGhlZmFpdGguY28udWsvMjAyMS8wNy8yMS9uZXctdGVzdGFtZW50LWFzc2VtYmx5LTYwdGgtYW5uaXZlcnNhcnkvYW1wLw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-20T07:26:18.000000000Z</updated>
     <link href="https://californianewstimes.com/isis-claims-responsibility-for-iraq-blast-that-left-dozens-dead-kion546/446818/" type="text/html"/>
     <content type="html">&lt;a href="https://californianewstimes.com/isis-claims-responsibility-for-iraq-blast-that-left-dozens-dead-kion546/446818/" target="_blank"&gt;ISIS claims responsibility for Iraq blast that left dozens dead – KION546&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;California News Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jcnlzdGFsLXBhbGFjZS1jbGluY2gtZGVhbC1mb3IteW91bmctcGV0ZXJib3JvdWdoLXN0cmlrZXIv0gEA?oc=5</id>
-    <title type="html">Crystal Palace clinch deal for young Peterborough striker - London News Online</title>
-    <updated>2021-07-20T06:38:38.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/crystal-palace-clinch-deal-for-young-peterborough-striker/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/crystal-palace-clinch-deal-for-young-peterborough-striker/" target="_blank"&gt;Crystal Palace clinch deal for young Peterborough striker&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
@@ -202,40 +202,6 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267990066/"/>
-    <id>tag:flickr.com,2005:/photo/51267990066</id>
-    <published>2021-06-24T15:04:07Z</published>
-    <updated>2021-06-24T15:04:07Z</updated>
-    <flickr:date_taken>2021-06-20T17:31:04-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-20T17:31:04-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51267990066/" title="Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52"&gt;&lt;img src="https://live.staticflickr.com/65535/51267990066_232a88d561_m.jpg" width="240" height="160" alt="Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51267990066_232a88d561_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="211" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="909a52" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighrd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hamiltonhouse" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-9a-61</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267989821/"/>
     <id>tag:flickr.com,2005:/photo/51267989821</id>
@@ -299,6 +265,67 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
     <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>crayon</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/chrysis/51258697616/"/>
+    <id>tag:flickr.com,2005:/photo/51258697616</id>
+    <published>2021-06-20T08:32:00Z</published>
+    <updated>2021-06-20T08:32:00Z</updated>
+    <flickr:date_taken>2009-05-24T15:24:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2009-05-24T15:24:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/chrysis/"&gt;chrysisignita&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/chrysis/51258697616/" title="crayon"&gt;&lt;img src="https://live.staticflickr.com/65535/51258697616_1b215e01e9_m.jpg" width="180" height="240" alt="crayon" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Posted to &lt;a href="https://www.flickr.com/groups/guesswherelondon/"&gt;Guess Where London&lt;/a&gt; on 20-06-21.&lt;br /&gt;
+&lt;br /&gt;
+GWL137: Balham Mosque, Balham High Road, Wandsworth SW12.&lt;/p&gt;</content>
+    <author>
+      <name>chrysisignita</name>
+      <uri>https://www.flickr.com/people/chrysis/</uri>
+      <flickr:nsid>168193068@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/168193068@N08.jpg?1623085645#168193068@N08</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51258697616_1b215e01e9_b.jpg"/>
+    <category term="chrysis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yersinia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postedbychrysis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guesswherelondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postedbyyersinia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl101" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="geotagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guessed" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ygm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwlgeotagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guessedbysimonwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southoftheriver" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northorsouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="minaret" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="islamic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="crenellations" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="placeofworship" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammasjidtootingislamiccentre" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postcoded" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="swpostcode" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="travelcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="zone3" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fullytagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2009" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yearset" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
