@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-24T09:50:49Z</updated>
+  <updated>2021-07-24T10:15:36Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Thundery Showers, Minimum Temperature: 16°C (60°F) Maximum Temperature: 23°C (73°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 16°C (60°F) Maximum Temperature: 22°C (72°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 05:12 BST, Sunset: 21:01 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1008mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 05:12 BST, Sunset: 21:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-24T07:58:00.000+0000</id>
-    <published>2021-07-24T09:00:25Z</published>
-    <updated>2021-07-24T09:00:25Z</updated>
+    <published>2021-07-24T10:01:23Z</published>
+    <updated>2021-07-24T10:01:23Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thundery Showers, Minimum Temperature: 16°C (60°F) Maximum Temperature: 21°C (70°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 16°C (60°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 82%, UV Risk: 2, Pollution: Low, Sunrise: 05:14 BST, Sunset: 21:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-24T07:58:00.000+0000</id>
-    <published>2021-07-24T09:00:25Z</published>
-    <updated>2021-07-24T09:00:25Z</updated>
+    <published>2021-07-24T10:01:23Z</published>
+    <updated>2021-07-24T10:01:23Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain Showers, Minimum Temperature: 16°C (61°F) Maximum Temperature: 24°C (75°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (61°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 71%, UV Risk: 5, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-24T07:58:00.000+0000</id>
-    <published>2021-07-24T09:00:25Z</published>
-    <updated>2021-07-24T09:00:25Z</updated>
+    <published>2021-07-24T10:01:23Z</published>
+    <updated>2021-07-24T10:01:23Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEDGWoIyakJRWqwx97XJQ0LcqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -55,7 +55,7 @@
     <content type="html">&lt;a href="https://www.thedrinksbusiness.com/2021/07/the-week-in-pictures-413/" target="_blank"&gt;The week in pictures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Drinks Business&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEPilzh0nr7-0xK-Xfg3rqkIqMwgEKioIACIQmfPn5zH9uVJnQGAdz2xSayoUCAoiEJnz5-cx_blSZ0BgHc9sUmsw_5CEBw?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEPilzh0nr7-0xK-Xfg3rqkIqMwgEKioIACIQmfPn5zH9uVJnQGAdz2xSayoUCAoiEJnz5-cx_blSZ0BgHc9sUmswoJKEBw?oc=5</id>
     <title type="html">The Mailbox reassesses its view on Arsenal as title contenders... - Football365</title>
     <updated>2021-07-23T07:52:48.000000000Z</updated>
     <link href="https://www.football365.com/news/mailbox-arsenal-arteta-white-ramsdale-marcus-rashford" type="text/html"/>
@@ -202,40 +202,6 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267990066/"/>
-    <id>tag:flickr.com,2005:/photo/51267990066</id>
-    <published>2021-06-24T15:04:07Z</published>
-    <updated>2021-06-24T15:04:07Z</updated>
-    <flickr:date_taken>2021-06-20T17:31:04-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-20T17:31:04-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51267990066/" title="Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52"&gt;&lt;img src="https://live.staticflickr.com/65535/51267990066_232a88d561_m.jpg" width="240" height="160" alt="Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51267990066_232a88d561_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="211" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="909a52" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighrd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hamiltonhouse" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-9a-61</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267989821/"/>
     <id>tag:flickr.com,2005:/photo/51267989821</id>
@@ -299,6 +265,67 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
     <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>crayon</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/chrysis/51258697616/"/>
+    <id>tag:flickr.com,2005:/photo/51258697616</id>
+    <published>2021-06-20T08:32:00Z</published>
+    <updated>2021-06-20T08:32:00Z</updated>
+    <flickr:date_taken>2009-05-24T15:24:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2009-05-24T15:24:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/chrysis/"&gt;chrysisignita&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/chrysis/51258697616/" title="crayon"&gt;&lt;img src="https://live.staticflickr.com/65535/51258697616_1b215e01e9_m.jpg" width="180" height="240" alt="crayon" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Posted to &lt;a href="https://www.flickr.com/groups/guesswherelondon/"&gt;Guess Where London&lt;/a&gt; on 20-06-21.&lt;br /&gt;
+&lt;br /&gt;
+GWL137: Balham Mosque, Balham High Road, Wandsworth SW12.&lt;/p&gt;</content>
+    <author>
+      <name>chrysisignita</name>
+      <uri>https://www.flickr.com/people/chrysis/</uri>
+      <flickr:nsid>168193068@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/168193068@N08.jpg?1623085645#168193068@N08</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51258697616_1b215e01e9_b.jpg"/>
+    <category term="chrysis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yersinia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postedbychrysis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guesswherelondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postedbyyersinia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl101" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="geotagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guessed" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ygm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwlgeotagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guessedbysimonwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southoftheriver" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northorsouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="minaret" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="islamic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="crenellations" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="placeofworship" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammasjidtootingislamiccentre" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postcoded" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="swpostcode" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="travelcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="zone3" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fullytagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2009" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yearset" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
