@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-25T03:51:37Z</updated>
+  <updated>2021-07-25T04:15:50Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 17°C (62°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 15°C (60°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 17°C (62°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 21:00 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 15°C (60°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 80%, UV Risk: 3, Pollution: Low, Sunrise: 05:14 BST, Sunset: 21:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-24T21:59:00.000+0000</id>
-    <published>2021-07-25T03:07:54Z</published>
-    <updated>2021-07-25T03:07:54Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Thundery Showers, Minimum Temperature: 15°C (60°F) Maximum Temperature: 21°C (71°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 15°C (60°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 80%, UV Risk: 3, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-24T21:59:00.000+0000</id>
-    <published>2021-07-25T03:07:54Z</published>
-    <updated>2021-07-25T03:07:54Z</updated>
+    <published>2021-07-25T04:09:15Z</published>
+    <updated>2021-07-25T04:09:15Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 16°C (61°F) Maximum Temperature: 24°C (75°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (61°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1010mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-24T21:59:00.000+0000</id>
+    <published>2021-07-25T04:09:15Z</published>
+    <updated>2021-07-25T04:09:15Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (61°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1010mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 05:17 BST, Sunset: 20:57 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 05:17 BST, Sunset: 20:57 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-24T21:59:00.000+0000</id>
-    <published>2021-07-25T03:07:54Z</published>
-    <updated>2021-07-25T03:07:54Z</updated>
+    <published>2021-07-25T04:09:15Z</published>
+    <updated>2021-07-25T04:09:15Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmRhaWx5ZWNoby5jby51ay9uZXdzLzE5NDY2MDE4LmFyZWEtc291dGhhbXB0b24tY292aWQtcmF0ZS1zaW1pbGFyLXBhcnRzLWxvbmRvbi_SAS5odHRwczovL3d3dy5kYWlseWVjaG8uY28udWsvbmV3cy8xOTQ2NjAxOC5hbXAv?oc=5</id>
+    <title type="html">Area of Southampton has Covid rate similar to parts of London - Daily Echo</title>
+    <updated>2021-07-25T04:00:00.000000000Z</updated>
+    <link href="https://www.dailyecho.co.uk/news/19466018.area-southampton-covid-rate-similar-parts-london/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailyecho.co.uk/news/19466018.area-southampton-covid-rate-similar-parts-london/" target="_blank"&gt;Area of Southampton has Covid rate similar to parts of London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Echo&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3Lm1vZGVybmdoYW5hLmNvbS9uZXdzLzEwOTQ4MzgvaS1hbS1lbGF0ZWQuaHRtbNIBPWh0dHBzOi8vd3d3Lm1vZGVybmdoYW5hLmNvbS9hbXAvbmV3cy8xMDk0ODM4L2ktYW0tZWxhdGVkLmh0bWw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-23T07:52:48.000000000Z</updated>
     <link href="https://www.football365.com/news/mailbox-arsenal-arteta-white-ramsdale-marcus-rashford" type="text/html"/>
     <content type="html">&lt;a href="https://www.football365.com/news/mailbox-arsenal-arteta-white-ramsdale-marcus-rashford" target="_blank"&gt;The Mailbox reassesses its view on Arsenal as title contenders...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Football365&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEDrMVlCsDmz10MEwRmXQxyAqGQgEKhAIACoHCAow1d6WCzCYha4DMJbMjQc?oc=5</id>
-    <title type="html">Zia Lucia opens sixth London site in Balham... - The Caterer</title>
-    <updated>2021-07-23T06:01:42.000000000Z</updated>
-    <link href="https://www.thecaterer.com/business/profiles/motc-gianluca-dangelo-zia-lucia" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thecaterer.com/business/profiles/motc-gianluca-dangelo-zia-lucia" target="_blank"&gt;Zia Lucia opens sixth London site in Balham...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Caterer&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
