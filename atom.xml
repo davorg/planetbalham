@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-30T02:53:17Z</updated>
+  <updated>2021-07-30T03:15:16Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (59°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1005mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 20:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-29T21:58:00.000+0000</id>
-    <published>2021-07-30T02:31:19Z</published>
-    <updated>2021-07-30T02:31:19Z</updated>
+    <published>2021-07-30T03:02:29Z</published>
+    <updated>2021-07-30T03:02:29Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1000mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-29T21:58:00.000+0000</id>
-    <published>2021-07-30T02:31:19Z</published>
-    <updated>2021-07-30T02:31:19Z</updated>
+    <published>2021-07-30T03:02:29Z</published>
+    <updated>2021-07-30T03:02:29Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1008mb, Humidity: 76%, UV Risk: 4, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-29T21:58:00.000+0000</id>
-    <published>2021-07-30T02:31:19Z</published>
-    <updated>2021-07-30T02:31:19Z</updated>
+    <published>2021-07-30T03:02:29Z</published>
+    <updated>2021-07-30T03:02:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy5sZXR0aW5nYWdlbnR0b2RheS5jby51ay9icmVha2luZy1uZXdzLzIwMjEvNy9sb25kb24tcmVudGFsLXJlY292ZXJ5LWRlbWFuZC1waWNrcy11cC1hdC1sYXN0LWluLXRoZS1jYXBpdGFsP3NvdXJjZT1uZXdzdGlja2Vy0gEA?oc=5</id>
@@ -202,6 +202,40 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267990066/"/>
+    <id>tag:flickr.com,2005:/photo/51267990066</id>
+    <published>2021-06-24T15:04:07Z</published>
+    <updated>2021-06-24T15:04:07Z</updated>
+    <flickr:date_taken>2021-06-20T17:31:04-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-20T17:31:04-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51267990066/" title="Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52"&gt;&lt;img src="https://live.staticflickr.com/65535/51267990066_232a88d561_m.jpg" width="240" height="160" alt="Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51267990066_232a88d561_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="211" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="909a52" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighrd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hamiltonhouse" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Market, Bedford Hill, Balham, Wandsworth, 1990, 90-9a-61</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267989821/"/>
     <id>tag:flickr.com,2005:/photo/51267989821</id>
@@ -265,36 +299,6 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
     <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Street game, Balham, Wandsworth, 90-817-65</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51257139486/"/>
-    <id>tag:flickr.com,2005:/photo/51257139486</id>
-    <published>2021-06-19T15:40:20Z</published>
-    <updated>2021-06-19T15:40:20Z</updated>
-    <flickr:date_taken>2021-06-17T15:31:32-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-17T15:31:32-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51257139486/" title="Street game, Balham, Wandsworth, 90-817-65"&gt;&lt;img src="https://live.staticflickr.com/65535/51257139486_c1d116e71c_m.jpg" width="240" height="157" alt="Street game, Balham, Wandsworth, 90-817-65" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Street game, Balham, Wandsworth, 90-817-65&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51257139486_c1d116e71c_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="9081765" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streetgame" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
