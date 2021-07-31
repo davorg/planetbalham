@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-31T02:52:38Z</updated>
+  <updated>2021-07-31T03:15:23Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1008mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-30T21:55:00.000+0000</id>
-    <published>2021-07-31T02:51:42Z</published>
-    <updated>2021-07-31T02:51:42Z</updated>
+    <published>2021-07-31T03:01:44Z</published>
+    <updated>2021-07-31T03:01:44Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1009mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-30T21:55:00.000+0000</id>
-    <published>2021-07-31T02:51:42Z</published>
-    <updated>2021-07-31T02:51:42Z</updated>
+    <published>2021-07-31T03:01:44Z</published>
+    <updated>2021-07-31T03:01:44Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 78%, UV Risk: 4, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-30T21:55:00.000+0000</id>
-    <published>2021-07-31T02:51:42Z</published>
-    <updated>2021-07-31T02:51:42Z</updated>
+    <published>2021-07-31T03:01:44Z</published>
+    <updated>2021-07-31T03:01:44Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc2FyYWgtZW5uaXMtcGlucy1ob3Blcy1vbi1zdHJvbmctY3Jvc3MtY291bnRyeS1wZXJmb3JtYW5jZXMtYWZ0ZXItaXJlbGFuZC1sYWctYmVoaW5kLWluLWRyZXNzYWdlLTc1NTk1NtIBkAFodHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc2FyYWgtZW5uaXMtcGlucy1ob3Blcy1vbi1zdHJvbmctY3Jvc3MtY291bnRyeS1wZXJmb3JtYW5jZXMtYWZ0ZXItaXJlbGFuZC1sYWctYmVoaW5kLWluLWRyZXNzYWdlLTc1NTk1Ni9hbXA?oc=5</id>
+    <title type="html">‘It won’t be a dressage competition’: Sarah Ennis pins hopes on strong cross-country rides after Ireland lag behind in dressage - Horse &amp; Hound</title>
+    <updated>2021-07-31T02:01:59.000000000Z</updated>
+    <link href="https://www.horseandhound.co.uk/news/sarah-ennis-pins-hopes-on-strong-cross-country-performances-after-ireland-lag-behind-in-dressage-755956" type="text/html"/>
+    <content type="html">&lt;a href="https://www.horseandhound.co.uk/news/sarah-ennis-pins-hopes-on-strong-cross-country-performances-after-ireland-lag-behind-in-dressage-755956" target="_blank"&gt;‘It won’t be a dressage competition’: Sarah Ennis pins hopes on strong cross-country rides after Ireland lag behind in dressage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Horse &amp; Hound&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEC2hDpBOeSoXAk4u-pXTMYcqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-07-29T18:54:00.000000000Z</updated>
     <link href="https://www.portsmouth.co.uk/news/people/trains-from-portsmouth-cancelled-tonight-after-person-is-hit-by-a-train-3328547" type="text/html"/>
     <content type="html">&lt;a href="https://www.portsmouth.co.uk/news/people/trains-from-portsmouth-cancelled-tonight-after-person-is-hit-by-a-train-3328547" target="_blank"&gt;Trains from Portsmouth cancelled tonight after person is hit by a train&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Portsmouth News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEMgmO49SOlj8ZrQS8Ncwo48qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">Person dies after being hit by a train at Wandsworth Common train station - My London</title>
-    <updated>2021-07-29T14:35:44.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/person-dies-after-being-hit-21177287" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/person-dies-after-being-hit-21177287" target="_blank"&gt;Person dies after being hit by a train at Wandsworth Common train station&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>8327 YX10EBK 315</title>
