@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-31T06:16:15Z</updated>
+  <updated>2021-07-31T06:55:03Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1009mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 76%, UV Risk: 3, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-07-30T21:55:00.000+0000</id>
-    <published>2021-07-31T06:02:52Z</published>
-    <updated>2021-07-31T06:02:52Z</updated>
+    <published>2021-07-31T06:53:49Z</published>
+    <updated>2021-07-31T06:53:49Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 78%, UV Risk: 4, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1010mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-07-30T21:55:00.000+0000</id>
-    <published>2021-07-31T06:02:52Z</published>
-    <updated>2021-07-31T06:02:52Z</updated>
+    <published>2021-07-31T06:53:49Z</published>
+    <updated>2021-07-31T06:53:49Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 12°C (54°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1014mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-07-30T21:55:00.000+0000</id>
-    <published>2021-07-31T06:02:52Z</published>
-    <updated>2021-07-31T06:02:52Z</updated>
+    <published>2021-07-31T06:53:49Z</published>
+    <updated>2021-07-31T06:53:49Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc2FyYWgtZW5uaXMtcGlucy1ob3Blcy1vbi1zdHJvbmctY3Jvc3MtY291bnRyeS1wZXJmb3JtYW5jZXMtYWZ0ZXItaXJlbGFuZC1sYWctYmVoaW5kLWluLWRyZXNzYWdlLTc1NTk1NtIBkAFodHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc2FyYWgtZW5uaXMtcGlucy1ob3Blcy1vbi1zdHJvbmctY3Jvc3MtY291bnRyeS1wZXJmb3JtYW5jZXMtYWZ0ZXItaXJlbGFuZC1sYWctYmVoaW5kLWluLWRyZXNzYWdlLTc1NTk1Ni9hbXA?oc=5</id>
@@ -75,132 +75,6 @@
     <link href="https://www.portsmouth.co.uk/news/people/trains-from-portsmouth-cancelled-tonight-after-person-is-hit-by-a-train-3328547" type="text/html"/>
     <content type="html">&lt;a href="https://www.portsmouth.co.uk/news/people/trains-from-portsmouth-cancelled-tonight-after-person-is-hit-by-a-train-3328547" target="_blank"&gt;Trains from Portsmouth cancelled tonight after person is hit by a train&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Portsmouth News&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>8327 YX10EBK 315</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/157564904@N03/51279989045/"/>
-    <id>tag:flickr.com,2005:/photo/51279989045</id>
-    <published>2021-06-29T16:44:56Z</published>
-    <updated>2021-06-29T16:44:56Z</updated>
-    <flickr:date_taken>2021-05-14T10:46:09-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-14T10:46:09-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/157564904@N03/"&gt;Fake A2&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/157564904@N03/51279989045/" title="8327 YX10EBK 315"&gt;&lt;img src="https://live.staticflickr.com/65535/51279989045_a360e4b5ab_m.jpg" width="240" height="162" alt="8327 YX10EBK 315" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This was a long due photoshop since I have the necessary material to do so yet I've waited until I got a genuine photo of an Abellio 315 which I've finally set my sights on since it's diversion away from the town of West Norwood and I really couldn't be asked to head to it's stand. Much to my dismay this bizarrely dead running E200 had itself blurred in the eyes of my phone, worked well for this use case though.&lt;br /&gt;
-&lt;br /&gt;
-9.3-9.6m 315 has never been done before. Will that change?&lt;br /&gt;
-Probably not, for all I care 367 464 S4 can all see them whilst 315 which casually had LDPs (10.2m) and DPs (10.7m) on it for several years longer can stay stuck with 13reg if not the now-stale 64reg classic and 16reg/17reg MMC strays.&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="https://www.flickr.com/photos/londonbuses2/"&gt;Check out my main photostream.&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.youtube.com/channel/UCu_xUPPbbMjeTuBi-KDTjPQ" rel="noreferrer nofollow"&gt;My YouTube channel&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://unormlondonbusblog.blogspot.com/" rel="noreferrer nofollow"&gt;Read my blog posts.&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Fake A2</name>
-      <uri>https://www.flickr.com/people/157564904@N03/</uri>
-      <flickr:nsid>157564904@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/157564904@N03.jpg?1608051288#157564904@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51279989045_a360e4b5ab_b.jpg"/>
-    <category term="photoshop" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx10ebk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx10" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ebk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="8327" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="315" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dual" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="door" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abellio" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="west" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="norwood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Knokke-Zoute - Le Sablon Hôtel</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51269471871/"/>
-    <id>tag:flickr.com,2005:/photo/51269471871</id>
-    <published>2021-06-25T07:56:09Z</published>
-    <updated>2021-06-25T07:56:09Z</updated>
-    <flickr:date_taken>2021-06-25T08:50:46-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-25T08:50:46-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/november_song/"&gt;pepandtim&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/november_song/51269471871/" title="Knokke-Zoute - Le Sablon Hôtel"&gt;&lt;img src="https://live.staticflickr.com/65535/51269471871_433a3ea100_m.jpg" width="240" height="157" alt="Knokke-Zoute - Le Sablon Hôtel" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;The Postcard&lt;/u&gt;&lt;br /&gt;
-&lt;br /&gt;
-A Star Series carte postale that was published by Hélio.art.Bichrome - De Graeve Gand.&lt;br /&gt;
-&lt;br /&gt;
-The card was posted in Kingston-upon-Thames, although the date of posting cannot be determined as the stamp on the back is missing.&lt;br /&gt;
-&lt;br /&gt;
-The card was posted to:&lt;br /&gt;
-&lt;br /&gt;
-Miss H. Sears,&lt;br /&gt;
-8, Station Parade,&lt;br /&gt;
-Balham,&lt;br /&gt;
-London S.W.&lt;br /&gt;
-&lt;br /&gt;
-The message on the divided back of the card was as follows:&lt;br /&gt;
-&lt;br /&gt;
-&amp;quot;Linger Longer.&lt;br /&gt;
-My Dearest Hilda,&lt;br /&gt;
-I am at home, Dear - I&lt;br /&gt;
-arrived last evening quite&lt;br /&gt;
-safely after a good journey.&lt;br /&gt;
-I am going to stay at&lt;br /&gt;
-Grandma's while Mum is&lt;br /&gt;
-away.&lt;br /&gt;
-The house is sold (last&lt;br /&gt;
-night).&lt;br /&gt;
-Am longing to see you.&lt;br /&gt;
-Will you be able to come&lt;br /&gt;
-to Kingston when you are&lt;br /&gt;
-free?&lt;br /&gt;
-Write to me Dear at&lt;br /&gt;
-24, Cobham Road.&lt;br /&gt;
-Much love,&lt;br /&gt;
-Eileen xxx&amp;quot;&lt;/p&gt;</content>
-    <author>
-      <name>pepandtim</name>
-      <uri>https://www.flickr.com/people/november_song/</uri>
-      <flickr:nsid>38123425@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7813/buddyicons/38123425@N08.jpg?1555527514#38123425@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51269471871_433a3ea100_b.jpg"/>
-    <category term="postcard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="early" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="knokke" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="zoute" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sablon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hotel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="star" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="series" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="kingston" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="upon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thames" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sears" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="parade" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="linger" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="longer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hilda" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="eileen" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="33kzl35" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hamilton House, 211, Balham High Rd, Balham, Wandsworth, 1990, 90-9a-52</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51267990066/"/>
@@ -299,6 +173,97 @@ Eileen xxx&amp;quot;&lt;/p&gt;</content>
     <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>crayon</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/chrysis/51258697616/"/>
+    <id>tag:flickr.com,2005:/photo/51258697616</id>
+    <published>2021-06-20T08:32:00Z</published>
+    <updated>2021-06-20T08:32:00Z</updated>
+    <flickr:date_taken>2009-05-24T15:24:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2009-05-24T15:24:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/chrysis/"&gt;chrysisignita&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/chrysis/51258697616/" title="crayon"&gt;&lt;img src="https://live.staticflickr.com/65535/51258697616_1b215e01e9_m.jpg" width="180" height="240" alt="crayon" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Posted to &lt;a href="https://www.flickr.com/groups/guesswherelondon/"&gt;Guess Where London&lt;/a&gt; on 20-06-21.&lt;br /&gt;
+&lt;br /&gt;
+GWL137: Balham Mosque, Balham High Road, Wandsworth SW12.&lt;/p&gt;</content>
+    <author>
+      <name>chrysisignita</name>
+      <uri>https://www.flickr.com/people/chrysis/</uri>
+      <flickr:nsid>168193068@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/168193068@N08.jpg?1623085645#168193068@N08</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51258697616_1b215e01e9_b.jpg"/>
+    <category term="chrysis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yersinia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postedbychrysis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guesswherelondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postedbyyersinia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl101" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwl2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="geotagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guessed" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ygm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gwlgeotagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guessedbysimonwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southoftheriver" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northorsouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="minaret" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="islamic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="crenellations" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="placeofworship" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammasjidtootingislamiccentre" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhammosque" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="postcoded" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="swpostcode" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="travelcard" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="zone3" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fullytagged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2009" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yearset" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Street game, Balham, Wandsworth, 90-817-65</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/51257139486/"/>
+    <id>tag:flickr.com,2005:/photo/51257139486</id>
+    <published>2021-06-19T15:40:20Z</published>
+    <updated>2021-06-19T15:40:20Z</updated>
+    <flickr:date_taken>2021-06-17T15:31:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-17T15:31:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/51257139486/" title="Street game, Balham, Wandsworth, 90-817-65"&gt;&lt;img src="https://live.staticflickr.com/65535/51257139486_c1d116e71c_m.jpg" width="240" height="157" alt="Street game, Balham, Wandsworth, 90-817-65" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Street game, Balham, Wandsworth, 90-817-65&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51257139486_c1d116e71c_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="9081765" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streetgame" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
