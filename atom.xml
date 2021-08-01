@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-01T02:11:59Z</updated>
+  <updated>2021-08-01T02:53:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -104,34 +104,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Walton &amp; Hersham v Balham (80)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51347588302/"/>
-    <id>tag:flickr.com,2005:/photo/51347588302</id>
-    <published>2021-07-31T21:02:40Z</published>
-    <updated>2021-07-31T21:02:40Z</updated>
-    <flickr:date_taken>2021-07-31T16:19:59-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-07-31T16:19:59-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51347588302/" title="Walton &amp;amp; Hersham v Balham (80)"&gt;&lt;img src="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_m.jpg" width="240" height="160" alt="Walton &amp;amp; Hersham v Balham (80)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>saltergate81</name>
-      <uri>https://www.flickr.com/people/saltergate81/</uri>
-      <flickr:nsid>75343425@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_b.jpg"/>
-    <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nonleague" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Walton &amp; Hersham v Balham (81)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51348542888/"/>
     <id>tag:flickr.com,2005:/photo/51348542888</id>
@@ -187,19 +159,40 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Walton &amp; Hersham v Balham (80)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51347588302/"/>
+    <id>tag:flickr.com,2005:/photo/51347588302</id>
+    <published>2021-07-31T21:02:40Z</published>
+    <updated>2021-07-31T21:02:40Z</updated>
+    <flickr:date_taken>2021-07-31T16:19:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-31T16:19:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51347588302/" title="Walton &amp;amp; Hersham v Balham (80)"&gt;&lt;img src="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_m.jpg" width="240" height="160" alt="Walton &amp;amp; Hersham v Balham (80)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>saltergate81</name>
+      <uri>https://www.flickr.com/people/saltergate81/</uri>
+      <flickr:nsid>75343425@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_b.jpg"/>
+    <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nonleague" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc2FyYWgtZW5uaXMtcGlucy1ob3Blcy1vbi1zdHJvbmctY3Jvc3MtY291bnRyeS1wZXJmb3JtYW5jZXMtYWZ0ZXItaXJlbGFuZC1sYWctYmVoaW5kLWluLWRyZXNzYWdlLTc1NTk1NtIBkAFodHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc2FyYWgtZW5uaXMtcGlucy1ob3Blcy1vbi1zdHJvbmctY3Jvc3MtY291bnRyeS1wZXJmb3JtYW5jZXMtYWZ0ZXItaXJlbGFuZC1sYWctYmVoaW5kLWluLWRyZXNzYWdlLTc1NTk1Ni9hbXA?oc=5</id>
     <title type="html">‘It won’t be a dressage competition’: Sarah Ennis pins hopes on strong cross-country rides after Ireland lag behind in dressage - Horse &amp; Hound</title>
     <updated>2021-07-31T02:01:59.000000000Z</updated>
     <link href="https://www.horseandhound.co.uk/news/sarah-ennis-pins-hopes-on-strong-cross-country-performances-after-ireland-lag-behind-in-dressage-755956" type="text/html"/>
     <content type="html">&lt;a href="https://www.horseandhound.co.uk/news/sarah-ennis-pins-hopes-on-strong-cross-country-performances-after-ireland-lag-behind-in-dressage-755956" target="_blank"&gt;‘It won’t be a dressage competition’: Sarah Ennis pins hopes on strong cross-country rides after Ireland lag behind in dressage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Horse &amp; Hound&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEC2hDpBOeSoXAk4u-pXTMYcqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Over 100 people attend XR Wandsworth's March For Life - South West Londoner</title>
-    <updated>2021-07-30T15:24:04.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/30072021-over-100-people-attend-xr-wandsworths-march-for-life/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/30072021-over-100-people-attend-xr-wandsworths-march-for-life/" target="_blank"&gt;Over 100 people attend XR Wandsworth's March For Life&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wNy8zMC9mb290YmFsbHMtY29taW5nLWhvbWUtZm9yLWNyb3lkb25zLW5vbi1sZWFndWUtc2lkZXMv0gFdaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIxLzA3LzMwL2Zvb3RiYWxscy1jb21pbmctaG9tZS1mb3ItY3JveWRvbnMtbm9uLWxlYWd1ZS1zaWRlcy9hbXAv?oc=5</id>
@@ -214,6 +207,13 @@
     <updated>2021-07-29T18:54:00.000000000Z</updated>
     <link href="https://www.portsmouth.co.uk/news/people/trains-from-portsmouth-cancelled-tonight-after-person-is-hit-by-a-train-3328547" type="text/html"/>
     <content type="html">&lt;a href="https://www.portsmouth.co.uk/news/people/trains-from-portsmouth-cancelled-tonight-after-person-is-hit-by-a-train-3328547" target="_blank"&gt;Trains from Portsmouth cancelled tonight after person is hit by a train&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Portsmouth News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NDc3MTU1LmJhbGhhbS1jbGFwaGFtLWp1bmN0aW9uLWRlbGF5cy1wZXJzb24taGl0LXRyYWluL9IBAA?oc=5</id>
+    <title type="html">Balham and Clapham Junction delays as person hit by train - Wandsworth Guardian</title>
+    <updated>2021-07-29T10:12:22.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19477155.balham-clapham-junction-delays-person-hit-train/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19477155.balham-clapham-junction-delays-person-hit-train/" target="_blank"&gt;Balham and Clapham Junction delays as person hit by train&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
