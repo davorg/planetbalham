@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-02T09:50:43Z</updated>
+  <updated>2021-08-02T10:15:56Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (67°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1015mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1015mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-02T07:59:00.000+0000</id>
-    <published>2021-08-02T09:25:59Z</published>
-    <updated>2021-08-02T09:25:59Z</updated>
+    <published>2021-08-02T10:02:07Z</published>
+    <updated>2021-08-02T10:02:07Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 12°C (53°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1013mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-02T07:59:00.000+0000</id>
-    <published>2021-08-02T09:25:59Z</published>
-    <updated>2021-08-02T09:25:59Z</updated>
+    <published>2021-08-02T10:02:07Z</published>
+    <updated>2021-08-02T10:02:07Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-02T07:59:00.000+0000</id>
-    <published>2021-08-02T09:25:59Z</published>
-    <updated>2021-08-02T09:25:59Z</updated>
+    <published>2021-08-02T10:02:07Z</published>
+    <updated>2021-08-02T10:02:07Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiiAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvYmFsaGFtcy1oZXJuZS1oaWxsLWhhcnJpZXIta2F0aWUtc25vd2Rlbi10aHJvdWdoLXRvLTE1MDBtLW9seW1waWMtc2VtaS1maW5hbC13aXRoLXBlcnNvbmFsLWJlc3QtaW4tdG9reW8v0gEA?oc=5</id>
+    <title type="html">Balham's Herne Hill Harrier Katie Snowden through to 1500m Olympic semi-final with personal best in Tokyo - London News Online</title>
+    <updated>2021-08-02T09:57:26.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/balhams-herne-hill-harrier-katie-snowden-through-to-1500m-olympic-semi-final-with-personal-best-in-tokyo/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balhams-herne-hill-harrier-katie-snowden-through-to-1500m-olympic-semi-final-with-personal-best-in-tokyo/" target="_blank"&gt;Balham's Herne Hill Harrier Katie Snowden through to 1500m Olympic semi-final with personal best in Tokyo&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmhvcnNlYW5kaG91bmQuY28udWsvbmV3cy9vbHltcGljLWV2ZW50aW5nLWZpbmFsLXRyb3QtdXAtNzU2MjM20gFOaHR0cHM6Ly93d3cuaG9yc2VhbmRob3VuZC5jby51ay9uZXdzL29seW1waWMtZXZlbnRpbmctZmluYWwtdHJvdC11cC03NTYyMzYvYW1w?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-01T05:28:00.000000000Z</updated>
     <link href="https://www.essentiallysports.com/olympics-news-swedish-equestrian-team-suffers-massive-blow-after-pulling-off-a-risky-substitution-at-the-tokyo-olympics-2020/" type="text/html"/>
     <content type="html">&lt;a href="https://www.essentiallysports.com/olympics-news-swedish-equestrian-team-suffers-massive-blow-after-pulling-off-a-risky-substitution-at-the-tokyo-olympics-2020/" target="_blank"&gt;Swedish Equestrian Team Suffers Massive Blow After Pulling Off a Risky Substitution at the Tokyo Olympics 2020&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;EssentiallySports&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmhvcnNlYW5kaG91bmQuY28udWsvbmV3cy9zdWJzdGl0dXRpb24taW4tZXZlbnRpbmctYWhlYWQtb2YtY3Jvc3MtY291bnRyeS1hdC10b2t5by1nYW1lcy03NTYwODfSAW5odHRwczovL3d3dy5ob3JzZWFuZGhvdW5kLmNvLnVrL25ld3Mvc3Vic3RpdHV0aW9uLWluLWV2ZW50aW5nLWFoZWFkLW9mLWNyb3NzLWNvdW50cnktYXQtdG9reW8tZ2FtZXMtNzU2MDg3L2FtcA?oc=5</id>
-    <title type="html">Last-minute team substitution ahead of the cross-country in the eventing at the Tokyo Olympics - Horse &amp; Hound</title>
-    <updated>2021-07-31T22:20:14.000000000Z</updated>
-    <link href="https://www.horseandhound.co.uk/news/substitution-in-eventing-ahead-of-cross-country-at-tokyo-games-756087" type="text/html"/>
-    <content type="html">&lt;a href="https://www.horseandhound.co.uk/news/substitution-in-eventing-ahead-of-cross-country-at-tokyo-games-756087" target="_blank"&gt;Last-minute team substitution ahead of the cross-country in the eventing at the Tokyo Olympics&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Horse &amp; Hound&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Walton and Hersham 2021.22 (12)</title>
