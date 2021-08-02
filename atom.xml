@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-02T15:53:11Z</updated>
+  <updated>2021-08-02T16:17:34Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 12°C (54°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1014mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1014mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-02T09:56:00.000+0000</id>
-    <published>2021-08-02T15:29:25Z</published>
-    <updated>2021-08-02T15:29:25Z</updated>
+    <published>2021-08-02T16:01:42Z</published>
+    <updated>2021-08-02T16:01:42Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 12°C (53°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1013mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-02T09:56:00.000+0000</id>
-    <published>2021-08-02T15:29:25Z</published>
-    <updated>2021-08-02T15:29:25Z</updated>
+    <published>2021-08-02T16:01:42Z</published>
+    <updated>2021-08-02T16:01:42Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-02T09:56:00.000+0000</id>
-    <published>2021-08-02T15:29:25Z</published>
-    <updated>2021-08-02T15:29:25Z</updated>
+    <published>2021-08-02T16:01:42Z</published>
+    <updated>2021-08-02T16:01:42Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW1zLW9seW1waWFuLW1pZGRsZS1kaXN0YW5jZS1ydW5uZXItc25vd2Rlbi10aHJpbGxlZC10by1wcm92ZS1oZXItc3VwcG9ydGVycy1yaWdodC_SAQA?oc=5</id>
+    <title type="html">Balham's Olympian middle-distance runner Snowden thrilled to prove her supporters right - London News Online</title>
+    <updated>2021-08-02T16:01:13.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/balhams-olympian-middle-distance-runner-snowden-thrilled-to-prove-her-supporters-right/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balhams-olympian-middle-distance-runner-snowden-thrilled-to-prove-her-supporters-right/" target="_blank"&gt;Balham's Olympian middle-distance runner Snowden thrilled to prove her supporters right&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9leC1wYWxhY2Utc3Rhci1tY2NhcnRoeS1saW5lZC11cC1mb3ItbW92ZS10by1ib3lob29kLWNsdWItY2VsdGljL9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-01T23:00:35.000000000Z</updated>
     <link href="https://www.propertyinvestortoday.co.uk/breaking-news/2021/7/insight-is-the-tide-turning-for-londons-rental-market?source=newsticker" type="text/html"/>
     <content type="html">&lt;a href="https://www.propertyinvestortoday.co.uk/breaking-news/2021/7/insight-is-the-tide-turning-for-londons-rental-market?source=newsticker" target="_blank"&gt;Insight: Is the tide turning for London's rental market?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Property Investor Today&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnJ0ZS5pZS9jdWx0dXJlLzIwMjEvMDcxOS8xMjM2MDU5LWkta25vdy1pLXNhdy1oZXItYnktZS1kLXRob21wc29uLXJlYWQtYW4tZXh0cmFjdC_SAR9odHRwczovL2FtcC5ydGUuaWUvYW1wLzEyMzYwNTkv?oc=5</id>
-    <title type="html">I Know I Saw Her by E.D. Thompson - read an extract - RTE.ie</title>
-    <updated>2021-08-01T06:00:07.000000000Z</updated>
-    <link href="https://www.rte.ie/culture/2021/0719/1236059-i-know-i-saw-her-by-e-d-thompson-read-an-extract/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.rte.ie/culture/2021/0719/1236059-i-know-i-saw-her-by-e-d-thompson-read-an-extract/" target="_blank"&gt;I Know I Saw Her by E.D. Thompson - read an extract&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RTE.ie&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Walton and Hersham 2021.22 (12)</title>
