@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-03T10:51:21Z</updated>
+  <updated>2021-08-03T11:14:27Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 12°C (53°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1012mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-03T09:54:00.000+0000</id>
-    <published>2021-08-03T10:39:15Z</published>
-    <updated>2021-08-03T10:39:15Z</updated>
+    <published>2021-08-03T11:00:00Z</published>
+    <updated>2021-08-03T11:00:00Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (71°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-03T09:54:00.000+0000</id>
-    <published>2021-08-03T10:39:15Z</published>
-    <updated>2021-08-03T10:39:15Z</updated>
+    <published>2021-08-03T11:00:00Z</published>
+    <updated>2021-08-03T11:00:00Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 14°C (58°F) Maximum Temperature: 20°C (67°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 14°C (58°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1007mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-03T09:54:00.000+0000</id>
-    <published>2021-08-03T10:39:15Z</published>
-    <updated>2021-08-03T10:39:15Z</updated>
+    <published>2021-08-03T11:00:00Z</published>
+    <updated>2021-08-03T11:00:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYmlsbC1iYWlsZXktcmV2aWV3LXR3by1ob3Vycy1vZi1tdXNpYy1hbmQtbGF1Z2hzLWZyb20tdGhlLW1hc3Rlci1zdGFuZC11cC1tcWNzcDdzZzPSAQA?oc=5</id>
+    <title type="html">Bill Bailey review — two hours of music and laughs from the master stand-up - The Times</title>
+    <updated>2021-08-03T11:00:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/bill-bailey-review-two-hours-of-music-and-laughs-from-the-master-stand-up-mqcsp7sg3" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/bill-bailey-review-two-hours-of-music-and-laughs-from-the-master-stand-up-mqcsp7sg3" target="_blank"&gt;Bill Bailey review — two hours of music and laughs from the master stand-up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LnRob3JudG9uaGVhdGhjaHJvbmljbGUuY28udWsvcmFtcy1qdW5pb3ItdGVhbXMtZ29sZC1ydXNoL9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-02T09:57:26.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/balhams-herne-hill-harrier-katie-snowden-through-to-1500m-olympic-semi-final-with-personal-best-in-tokyo/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balhams-herne-hill-harrier-katie-snowden-through-to-1500m-olympic-semi-final-with-personal-best-in-tokyo/" target="_blank"&gt;Balham's Herne Hill Harrier Katie Snowden through to 1500m Olympic semi-final with personal best in Tokyo&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmhvcnNlYW5kaG91bmQuY28udWsvbmV3cy9vbHltcGljLWV2ZW50aW5nLWZpbmFsLXRyb3QtdXAtNzU2MjM20gFOaHR0cHM6Ly93d3cuaG9yc2VhbmRob3VuZC5jby51ay9uZXdzL29seW1waWMtZXZlbnRpbmctZmluYWwtdHJvdC11cC03NTYyMzYvYW1w?oc=5</id>
-    <title type="html">One horse eliminated at Olympic eventing final trot-up, plus two teams substitute horses - Horse &amp; Hound</title>
-    <updated>2021-08-02T01:22:04.000000000Z</updated>
-    <link href="https://www.horseandhound.co.uk/news/olympic-eventing-final-trot-up-756236" type="text/html"/>
-    <content type="html">&lt;a href="https://www.horseandhound.co.uk/news/olympic-eventing-final-trot-up-756236" target="_blank"&gt;One horse eliminated at Olympic eventing final trot-up, plus two teams substitute horses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Horse &amp; Hound&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Walton and Hersham 2021.22 (12)</title>
@@ -160,34 +160,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Walton &amp; Hersham v Balham (80)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51347588302/"/>
-    <id>tag:flickr.com,2005:/photo/51347588302</id>
-    <published>2021-07-31T21:02:40Z</published>
-    <updated>2021-07-31T21:02:40Z</updated>
-    <flickr:date_taken>2021-07-31T16:19:59-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-07-31T16:19:59-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51347588302/" title="Walton &amp;amp; Hersham v Balham (80)"&gt;&lt;img src="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_m.jpg" width="240" height="160" alt="Walton &amp;amp; Hersham v Balham (80)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>saltergate81</name>
-      <uri>https://www.flickr.com/people/saltergate81/</uri>
-      <flickr:nsid>75343425@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_b.jpg"/>
-    <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nonleague" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Walton &amp; Hersham v Balham (82)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51348543938/"/>
     <id>tag:flickr.com,2005:/photo/51348543938</id>
@@ -207,6 +179,34 @@
       <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51348543938_a4af83b810_b.jpg"/>
+    <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nonleague" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Walton and Hersham 2021.22 (3)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51349341665/"/>
+    <id>tag:flickr.com,2005:/photo/51349341665</id>
+    <published>2021-07-31T21:02:40Z</published>
+    <updated>2021-07-31T21:02:40Z</updated>
+    <flickr:date_taken>2021-07-31T16:50:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-31T16:50:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51349341665/" title="Walton and Hersham 2021.22 (3)"&gt;&lt;img src="https://live.staticflickr.com/65535/51349341665_6b3e4c6637_m.jpg" width="240" height="160" alt="Walton and Hersham 2021.22 (3)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>saltergate81</name>
+      <uri>https://www.flickr.com/people/saltergate81/</uri>
+      <flickr:nsid>75343425@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51349341665_6b3e4c6637_b.jpg"/>
     <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
