@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-06T04:16:51Z</updated>
+  <updated>2021-08-06T04:55:32Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 16°C (61°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 996mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:41 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 998mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-05T21:57:00.000+0000</id>
-    <published>2021-08-06T04:00:41Z</published>
-    <updated>2021-08-06T04:00:41Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Thundery Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 998mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:39 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-05T21:57:00.000+0000</id>
-    <published>2021-08-06T04:00:41Z</published>
-    <updated>2021-08-06T04:00:41Z</updated>
+    <published>2021-08-06T04:27:38Z</published>
+    <updated>2021-08-06T04:27:38Z</updated>
   </entry>
   <entry>
     <title>Saturday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 19°C (66°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 998mb, Humidity: 83%, UV Risk: 3, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:39 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-05T21:57:00.000+0000</id>
+    <published>2021-08-06T04:27:38Z</published>
+    <updated>2021-08-06T04:27:38Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 998mb, Humidity: 83%, UV Risk: 3, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:37 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1004mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:37 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-05T21:57:00.000+0000</id>
-    <published>2021-08-06T04:00:41Z</published>
-    <updated>2021-08-06T04:00:41Z</updated>
+    <published>2021-08-06T04:27:38Z</published>
+    <updated>2021-08-06T04:27:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnllbGxvd2FkLmNvLnVrL2VtaXJhdGVzLWZhLWN1cC1leHRyYS1wcmVsaW1pbmFyeS1yb3VuZC1maXh0dXJlcy1mcmlkYXktc2F0dXJkYXktc3VuZGF5LWF1Z3VzdC02LTctOC_SAQA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-08-04T23:00:00.000000000Z</updated>
     <link href="https://www.yellowad.co.uk/emirates-fa-cup-extra-preliminary-round-fixtures-friday-saturday-sunday-august-6-7-8/" type="text/html"/>
     <content type="html">&lt;a href="https://www.yellowad.co.uk/emirates-fa-cup-extra-preliminary-round-fixtures-friday-saturday-sunday-august-6-7-8/" target="_blank"&gt;Emirates FA Cup Extra Preliminary Round - Fixtures - Friday/Saturday/Sunday, August 6/7/8&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yellow Advertiser&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEJEaxo6onT44s06cwkoaXj0qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">Balham Railway Bridge to be restored by Network Rail after petition - South West Londoner</title>
+    <updated>2021-08-04T12:53:03.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/news/04082021-balham-railway-bridge-to-be-restored-by-network-rail-after-petition/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/04082021-balham-railway-bridge-to-be-restored-by-network-rail-after-petition/" target="_blank"&gt;Balham Railway Bridge to be restored by Network Rail after petition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYmlsbC1iYWlsZXktcmV2aWV3LXR3by1ob3Vycy1vZi1tdXNpYy1hbmQtbGF1Z2hzLWZyb20tdGhlLW1hc3Rlci1zdGFuZC11cC1tcWNzcDdzZzPSAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-02T10:06:16.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/ex-palace-star-mccarthy-lined-up-for-move-to-boyhood-club-celtic/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/ex-palace-star-mccarthy-lined-up-for-move-to-boyhood-club-celtic/" target="_blank"&gt;Ex-Palace star McCarthy lined up for move to boyhood club Celtic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiiAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvYmFsaGFtcy1oZXJuZS1oaWxsLWhhcnJpZXIta2F0aWUtc25vd2Rlbi10aHJvdWdoLXRvLTE1MDBtLW9seW1waWMtc2VtaS1maW5hbC13aXRoLXBlcnNvbmFsLWJlc3QtaW4tdG9reW8v0gEA?oc=5</id>
-    <title type="html">Balham's Herne Hill Harrier Katie Snowden through to 1500m Olympic semi-final with personal best in Tokyo - London News Online</title>
-    <updated>2021-08-02T09:57:26.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/balhams-herne-hill-harrier-katie-snowden-through-to-1500m-olympic-semi-final-with-personal-best-in-tokyo/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balhams-herne-hill-harrier-katie-snowden-through-to-1500m-olympic-semi-final-with-personal-best-in-tokyo/" target="_blank"&gt;Balham's Herne Hill Harrier Katie Snowden through to 1500m Olympic semi-final with personal best in Tokyo&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Walton and Hersham 2021.22 (12)</title>
