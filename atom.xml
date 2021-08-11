@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-11T18:54:56Z</updated>
+  <updated>2021-08-11T19:14:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 15°C (58°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1019mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunset: 20:31 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunset: 20:31 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-11T09:59:00.000+0000</id>
-    <published>2021-08-11T18:09:23Z</published>
-    <updated>2021-08-11T18:09:23Z</updated>
+    <published>2021-08-11T19:11:34Z</published>
+    <updated>2021-08-11T19:11:34Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (72°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-11T09:59:00.000+0000</id>
-    <published>2021-08-11T18:09:23Z</published>
-    <updated>2021-08-11T18:09:23Z</updated>
+    <published>2021-08-11T19:11:34Z</published>
+    <updated>2021-08-11T19:11:34Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1021mb, Humidity: 74%, UV Risk: 4, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-11T09:59:00.000+0000</id>
-    <published>2021-08-11T18:09:23Z</published>
-    <updated>2021-08-11T18:09:23Z</updated>
+    <published>2021-08-11T19:11:34Z</published>
+    <updated>2021-08-11T19:11:34Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmJpa2ViaXouY29tL3NvdXRoZWFzdC1sb25kb24tY3ljbGV3YXktY29uc3RydWN0aW9uLW1vdmVzLW9udG8tbmV4dC1zdGFnZS_SAQA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.leeds-live.co.uk/sport/leeds-united/fabio-carvalho-profiled-leeds-united-21265584" target="_blank"&gt;Who is Fabio Carvalho? Fulham prodigy profiled amid reported transfer interest from Leeds United&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Leeds Live&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEF3DqHeFrMY_ss8dlZDDQF8qGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
+    <title type="html">Undercover cops tell of snap decision to open fire on Streatham terrorist Sudesh Amman - Daily Mail</title>
+    <updated>2021-08-10T11:56:23.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9879941/CCTV-footage-Streatham-terrorist-s-final-moments-shown-inquest.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9879941/CCTV-footage-Streatham-terrorist-s-final-moments-shown-inquest.html" target="_blank"&gt;Undercover cops tell of snap decision to open fire on Streatham terrorist Sudesh Amman&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiogFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L2Zvb3RiYWxsL2xlZWRzLXNldC1zaWdodHMtb24tc2lnbmluZy1pbi1kZW1hbmQtJUUyJTgwJTlDcmVhbGx5LWJyaWdodCVFMiU4MCU5RC1lZmwtc3RhcmxldC1hbWlkLWNvbnRyYWN0LWltcGFzc2UtcmVwb3J0L2FyLUFBTjZVTTnSAQA?oc=5</id>
     <title type="html">Leeds set sights on signing in-demand “really bright” EFL starlet amid contract impasse - report - MSN UK</title>
     <updated>2021-08-09T14:15:52.000000000Z</updated>
     <link href="https://www.msn.com/en-gb/sport/football/leeds-set-sights-on-signing-in-demand-%E2%80%9Creally-bright%E2%80%9D-efl-starlet-amid-contract-impasse-report/ar-AAN6UM9" type="text/html"/>
     <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/leeds-set-sights-on-signing-in-demand-%E2%80%9Creally-bright%E2%80%9D-efl-starlet-amid-contract-impasse-report/ar-AAN6UM9" target="_blank"&gt;Leeds set sights on signing in-demand “really bright” EFL starlet amid contract impasse - report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJk2S2M3NpD9Fkyf_c9-oI8qMwgEKioIACIQ3i1ZZTc1zGUxfNyG4k1LyioUCAoiEN4tWWU3NcxlMXzchuJNS8owuNCABw?oc=5</id>
-    <title type="html">A dog-friendly restaurant is coming to Marlow High Street - Bucks Free Press</title>
-    <updated>2021-08-08T10:39:40.000000000Z</updated>
-    <link href="https://www.bucksfreepress.co.uk/news/19499316.dog-friendly-megans-restaurant-coming-marlow-high-street/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bucksfreepress.co.uk/news/19499316.dog-friendly-megans-restaurant-coming-marlow-high-street/" target="_blank"&gt;A dog-friendly restaurant is coming to Marlow High Street&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bucks Free Press&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Thunderstorm In Balham</title>
