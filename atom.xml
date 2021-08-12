@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-12T14:15:26Z</updated>
+  <updated>2021-08-12T14:50:51Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-12T09:54:00.000+0000</id>
-    <published>2021-08-12T14:01:29Z</published>
-    <updated>2021-08-12T14:01:29Z</updated>
+    <published>2021-08-12T14:19:19Z</published>
+    <updated>2021-08-12T14:19:19Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-12T09:54:00.000+0000</id>
-    <published>2021-08-12T14:01:29Z</published>
-    <updated>2021-08-12T14:01:29Z</updated>
+    <published>2021-08-12T14:19:19Z</published>
+    <updated>2021-08-12T14:19:19Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 15°C (58°F) Maximum Temperature: 22°C (71°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:44 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-12T09:54:00.000+0000</id>
-    <published>2021-08-12T14:01:29Z</published>
-    <updated>2021-08-12T14:01:29Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiPGh0dHA6Ly9sb25kb25uZXdzb25saW5lLmNvLnVrL3B1YmxpYy1ub3RpY2VzLWVsZW1lbnRvci10ZXN0L9IBAA?oc=5</id>
-    <title type="html">Public Notices ELEMENTOR TEST – South London News - London News Online</title>
-    <updated>2021-08-12T07:08:47.000000000Z</updated>
-    <link href="http://londonnewsonline.co.uk/public-notices-elementor-test/" type="text/html"/>
-    <content type="html">&lt;a href="http://londonnewsonline.co.uk/public-notices-elementor-test/" target="_blank"&gt;Public Notices ELEMENTOR TEST – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <published>2021-08-12T14:19:19Z</published>
+    <updated>2021-08-12T14:19:19Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTA3MTI3Lm9kZGJveC1sb25kb25zLXdvbmt5LWZydWl0LXZlZy1zY2hlbWUv0gEA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-08-10T13:00:00.000000000Z</updated>
     <link href="https://www.leeds-live.co.uk/sport/leeds-united/fabio-carvalho-profiled-leeds-united-21265584" type="text/html"/>
     <content type="html">&lt;a href="https://www.leeds-live.co.uk/sport/leeds-united/fabio-carvalho-profiled-leeds-united-21265584" target="_blank"&gt;Who is Fabio Carvalho? Fulham prodigy profiled amid reported transfer interest from Leeds United&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Leeds Live&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiogFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L2Zvb3RiYWxsL2xlZWRzLXNldC1zaWdodHMtb24tc2lnbmluZy1pbi1kZW1hbmQtJUUyJTgwJTlDcmVhbGx5LWJyaWdodCVFMiU4MCU5RC1lZmwtc3RhcmxldC1hbWlkLWNvbnRyYWN0LWltcGFzc2UtcmVwb3J0L2FyLUFBTjZVTTnSAQA?oc=5</id>
+    <title type="html">Leeds set sights on signing in-demand “really bright” EFL starlet amid contract impasse - report - MSN UK</title>
+    <updated>2021-08-09T14:15:52.000000000Z</updated>
+    <link href="https://www.msn.com/en-gb/sport/football/leeds-set-sights-on-signing-in-demand-%E2%80%9Creally-bright%E2%80%9D-efl-starlet-amid-contract-impasse-report/ar-AAN6UM9" type="text/html"/>
+    <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/leeds-set-sights-on-signing-in-demand-%E2%80%9Creally-bright%E2%80%9D-efl-starlet-amid-contract-impasse-report/ar-AAN6UM9" target="_blank"&gt;Leeds set sights on signing in-demand “really bright” EFL starlet amid contract impasse - report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Thunderstorm In Balham</title>
@@ -131,16 +131,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Walton &amp; Hersham v Balham (82)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51348543938/"/>
-    <id>tag:flickr.com,2005:/photo/51348543938</id>
-    <published>2021-07-31T21:02:40Z</published>
-    <updated>2021-07-31T21:02:40Z</updated>
-    <flickr:date_taken>2021-07-31T16:33:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-07-31T16:33:49-08:00</dc:date.Taken>
+    <title>Walton and Hersham 2021.22 (7)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51347587197/"/>
+    <id>tag:flickr.com,2005:/photo/51347587197</id>
+    <published>2021-07-31T21:02:41Z</published>
+    <updated>2021-07-31T21:02:41Z</updated>
+    <flickr:date_taken>2021-07-31T14:37:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-31T14:37:30-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51348543938/" title="Walton &amp;amp; Hersham v Balham (82)"&gt;&lt;img src="https://live.staticflickr.com/65535/51348543938_a4af83b810_m.jpg" width="240" height="160" alt="Walton &amp;amp; Hersham v Balham (82)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51347587197/" title="Walton and Hersham 2021.22 (7)"&gt;&lt;img src="https://live.staticflickr.com/65535/51347587197_7d7f97f724_m.jpg" width="240" height="160" alt="Walton and Hersham 2021.22 (7)" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -149,7 +149,7 @@
       <flickr:nsid>75343425@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51348543938_a4af83b810_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51347587197_7d7f97f724_b.jpg"/>
     <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
