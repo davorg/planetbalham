@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-12T03:50:58Z</updated>
+  <updated>2021-08-12T04:15:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 16°C (61°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1018mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 20:29 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-11T21:56:00.000+0000</id>
-    <published>2021-08-12T03:15:23Z</published>
-    <updated>2021-08-12T03:15:23Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (74°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-11T21:56:00.000+0000</id>
-    <published>2021-08-12T03:15:23Z</published>
-    <updated>2021-08-12T03:15:23Z</updated>
+    <published>2021-08-12T04:02:11Z</published>
+    <updated>2021-08-12T04:02:11Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (56°F) Maximum Temperature: 21°C (70°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (56°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-11T21:56:00.000+0000</id>
+    <published>2021-08-12T04:02:11Z</published>
+    <updated>2021-08-12T04:02:11Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Cloud, Minimum Temperature: 15°C (58°F) Maximum Temperature: 22°C (72°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (56°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:44 BST, Sunset: 20:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1021mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:44 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-11T21:56:00.000+0000</id>
-    <published>2021-08-12T03:15:23Z</published>
-    <updated>2021-08-12T03:15:23Z</updated>
+    <published>2021-08-12T04:02:11Z</published>
+    <updated>2021-08-12T04:02:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTA3MTI3Lm9kZGJveC1sb25kb25zLXdvbmt5LWZydWl0LXZlZy1zY2hlbWUv0gEA?oc=5</id>
+    <title type="html">Oddbox: London's wonky fruit &amp; veg scheme - Wandsworth Guardian</title>
+    <updated>2021-08-12T04:00:00.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19507127.oddbox-londons-wonky-fruit-veg-scheme/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19507127.oddbox-londons-wonky-fruit-veg-scheme/" target="_blank"&gt;Oddbox: London's wonky fruit &amp; veg scheme&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmJpa2ViaXouY29tL3NvdXRoZWFzdC1sb25kb24tY3ljbGV3YXktY29uc3RydWN0aW9uLW1vdmVzLW9udG8tbmV4dC1zdGFnZS_SAQA?oc=5</id>
@@ -68,13 +75,6 @@
     <link href="https://www.msn.com/en-gb/sport/football/leeds-set-sights-on-signing-in-demand-%E2%80%9Creally-bright%E2%80%9D-efl-starlet-amid-contract-impasse-report/ar-AAN6UM9" type="text/html"/>
     <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/leeds-set-sights-on-signing-in-demand-%E2%80%9Creally-bright%E2%80%9D-efl-starlet-amid-contract-impasse-report/ar-AAN6UM9" target="_blank"&gt;Leeds set sights on signing in-demand “really bright” EFL starlet amid contract impasse - report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJk2S2M3NpD9Fkyf_c9-oI8qMwgEKioIACIQ3i1ZZTc1zGUxfNyG4k1LyioUCAoiEN4tWWU3NcxlMXzchuJNS8owuNCABw?oc=5</id>
-    <title type="html">A dog-friendly restaurant is coming to Marlow High Street - Bucks Free Press</title>
-    <updated>2021-08-08T10:39:40.000000000Z</updated>
-    <link href="https://www.bucksfreepress.co.uk/news/19499316.dog-friendly-megans-restaurant-coming-marlow-high-street/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bucksfreepress.co.uk/news/19499316.dog-friendly-megans-restaurant-coming-marlow-high-street/" target="_blank"&gt;A dog-friendly restaurant is coming to Marlow High Street&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bucks Free Press&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Thunderstorm In Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/99383989@N06/51365148264/"/>
@@ -99,6 +99,34 @@
     <category term="monochrome" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="olympusepl9" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Walton and Hersham 2021.22 (12)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51349340535/"/>
+    <id>tag:flickr.com,2005:/photo/51349340535</id>
+    <published>2021-07-31T21:02:41Z</published>
+    <updated>2021-07-31T21:02:41Z</updated>
+    <flickr:date_taken>2021-07-31T14:39:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-31T14:39:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51349340535/" title="Walton and Hersham 2021.22 (12)"&gt;&lt;img src="https://live.staticflickr.com/65535/51349340535_fef2704da2_m.jpg" width="240" height="94" alt="Walton and Hersham 2021.22 (12)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>saltergate81</name>
+      <uri>https://www.flickr.com/people/saltergate81/</uri>
+      <flickr:nsid>75343425@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51349340535_fef2704da2_b.jpg"/>
+    <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nonleague" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -178,34 +206,6 @@
       <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51347588302_1d937fb7d5_b.jpg"/>
-    <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nonleague" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Walton &amp; Hersham v Balham (82)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/saltergate81/51348543938/"/>
-    <id>tag:flickr.com,2005:/photo/51348543938</id>
-    <published>2021-07-31T21:02:40Z</published>
-    <updated>2021-07-31T21:02:40Z</updated>
-    <flickr:date_taken>2021-07-31T16:33:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-07-31T16:33:49-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/saltergate81/"&gt;saltergate81&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/saltergate81/51348543938/" title="Walton &amp;amp; Hersham v Balham (82)"&gt;&lt;img src="https://live.staticflickr.com/65535/51348543938_a4af83b810_m.jpg" width="240" height="160" alt="Walton &amp;amp; Hersham v Balham (82)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>saltergate81</name>
-      <uri>https://www.flickr.com/people/saltergate81/</uri>
-      <flickr:nsid>75343425@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/93/buddyicons/75343425@N00.jpg?1157986893#75343425@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51348543938_a4af83b810_b.jpg"/>
     <category term="waltonhersham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="combinedcountiesleague" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="nonleaguefootball" scheme="https://www.flickr.com/photos/tags/"/>
