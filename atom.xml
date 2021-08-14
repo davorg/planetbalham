@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-14T13:51:00Z</updated>
+  <updated>2021-08-14T14:15:13Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1019mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 05:44 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-14T09:58:00.000+0000</id>
-    <published>2021-08-14T13:00:57Z</published>
-    <updated>2021-08-14T13:00:57Z</updated>
+    <published>2021-08-14T14:01:28Z</published>
+    <updated>2021-08-14T14:01:28Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1014mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:46 BST, Sunset: 20:24 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-14T09:58:00.000+0000</id>
-    <published>2021-08-14T13:00:57Z</published>
-    <updated>2021-08-14T13:00:57Z</updated>
+    <published>2021-08-14T14:01:28Z</published>
+    <updated>2021-08-14T14:01:28Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 12°C (53°F), Wind Direction: North Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-14T09:58:00.000+0000</id>
-    <published>2021-08-14T13:00:57Z</published>
-    <updated>2021-08-14T13:00:57Z</updated>
+    <published>2021-08-14T14:01:28Z</published>
+    <updated>2021-08-14T14:01:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wcmluY2Vzc2VzLWhlYWQtdG8tYmFsaGFtLWFuZC10b290aW5nLWNvbW1vbi10by1icmluZy1qb3ktdG8tY2hpbGRyZW4tdGhpcy1zdW1tZXIv0gEA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-08-14T11:30:35.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/princesses-head-to-balham-and-tooting-common-to-bring-joy-to-children-this-summer/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/princesses-head-to-balham-and-tooting-common-to-bring-joy-to-children-this-summer/" target="_blank"&gt;Princesses head to Balham and Tooting Common to bring joy to children this summer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEP1aCX_mdMDfpa0G6xjPxuwqMwgEKioIACIQONkvy9n-nN-jn7judVkbTioUCAoiEDjZL8vZ_pzfo5-47nVZG04wh_fFBg?oc=5</id>
+    <title type="html">Championship starlet urged to sign new deal with Leeds United, West Ham, Norwich City lurking - The 72 - We Love the Football League</title>
+    <updated>2021-08-14T07:57:16.000000000Z</updated>
+    <link href="https://the72.co.uk/245100/fulham-boss-urges-fabio-carvalho-to-sign-new-deal-with-leeds-united-west-ham-united-lurking/" type="text/html"/>
+    <content type="html">&lt;a href="https://the72.co.uk/245100/fulham-boss-urges-fabio-carvalho-to-sign-new-deal-with-leeds-united-west-ham-united-lurking/" target="_blank"&gt;Championship starlet urged to sign new deal with Leeds United, West Ham, Norwich City lurking&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The 72 - We Love the Football League&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvY2VsZWJzLXR2L3RydWUtc3RvcnktYmVoaW5kLWNoYW5uZWwtNHMtNTczNTI3MdIBVWh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvY2VsZWJzLXR2L3RydWUtc3RvcnktYmVoaW5kLWNoYW5uZWwtNHMtNTczNTI3MS5hbXA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-12T04:00:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19507127.oddbox-londons-wonky-fruit-veg-scheme/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19507127.oddbox-londons-wonky-fruit-veg-scheme/" target="_blank"&gt;Oddbox: London's wonky fruit &amp; veg scheme&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmJpa2ViaXouY29tL3NvdXRoZWFzdC1sb25kb24tY3ljbGV3YXktY29uc3RydWN0aW9uLW1vdmVzLW9udG8tbmV4dC1zdGFnZS_SAQA?oc=5</id>
-    <title type="html">Southeast London cycleway construction moving onto next stage | Landscape - Bike Biz</title>
-    <updated>2021-08-11T10:41:15.000000000Z</updated>
-    <link href="https://www.bikebiz.com/southeast-london-cycleway-construction-moves-onto-next-stage/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bikebiz.com/southeast-london-cycleway-construction-moves-onto-next-stage/" target="_blank"&gt;Southeast London cycleway construction moving onto next stage | Landscape&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bike Biz&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Thunderstorm In Balham</title>
