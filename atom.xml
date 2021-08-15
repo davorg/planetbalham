@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-15T19:51:02Z</updated>
+  <updated>2021-08-15T20:15:11Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Light Cloud, Minimum Temperature: 14°C (57°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1012mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunset: 20:24 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-15T09:55:00.000+0000</id>
+    <published>2021-08-15T20:04:15Z</published>
+    <updated>2021-08-15T20:04:15Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (65°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:22 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-15T09:55:00.000+0000</id>
+    <published>2021-08-15T20:04:15Z</published>
+    <updated>2021-08-15T20:04:15Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 14°C (58°F) Maximum Temperature: 19°C (67°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 14°C (58°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:20 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-15T09:55:00.000+0000</id>
+    <published>2021-08-15T20:04:15Z</published>
+    <updated>2021-08-15T20:04:15Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Near Balham - Golden Retriever ?</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380598323/"/>
@@ -111,43 +141,6 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Balham - Du Cane Court</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51379581962/"/>
-    <id>tag:flickr.com,2005:/photo/51379581962</id>
-    <published>2021-08-15T19:46:53Z</published>
-    <updated>2021-08-15T19:46:53Z</updated>
-    <flickr:date_taken>2021-08-15T11:17:32-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-08-15T11:17:32-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51379581962/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51379581962_cd71e97d24_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;August 2021.&lt;br /&gt;
-Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
-Du Cane Court is an Art Deco apartment block. It is possibly the largest privately owned block of flats under one roof in Europe. It has been used as a location for the TV series Poirot.&lt;/p&gt;</content>
-    <author>
-      <name>JulesFoto</name>
-      <uri>https://www.flickr.com/people/julesfoto/</uri>
-      <flickr:nsid>55578087@N08</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51379581962_cd71e97d24_b.jpg"/>
-    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="apartmentblock" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>UK - London - Balham - Du Cane Court</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380345541/"/>
     <id>tag:flickr.com,2005:/photo/51380345541</id>
     <published>2021-08-15T19:46:53Z</published>
@@ -183,6 +176,43 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>UK - London - Balham - Du Cane Court</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380345921/"/>
+    <id>tag:flickr.com,2005:/photo/51380345921</id>
+    <published>2021-08-15T19:46:52Z</published>
+    <updated>2021-08-15T19:46:52Z</updated>
+    <flickr:date_taken>2021-08-15T11:17:26-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:17:26-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51380345921/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51380345921_684b76b870_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;August 2021.&lt;br /&gt;
+Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
+Du Cane Court is an Art Deco apartment block. It is possibly the largest privately owned block of flats under one roof in Europe. It has been used as a location for the TV series Poirot.&lt;/p&gt;</content>
+    <author>
+      <name>JulesFoto</name>
+      <uri>https://www.flickr.com/people/julesfoto/</uri>
+      <flickr:nsid>55578087@N08</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51380345921_684b76b870_b.jpg"/>
+    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="apartmentblock" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wOC8xNS90aGFtZXNsaW5rLWNhbnQtYmxhbWUtY292aWQtZm9yLXNlcnZpY2UtY3V0cy1zYXlzLXBpZGdlb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIxLzA4LzE1L3RoYW1lc2xpbmstY2FudC1ibGFtZS1jb3ZpZC1mb3Itc2VydmljZS1jdXRzLXNheXMtcGlkZ2Vvbi9hbXAv?oc=5</id>
     <title type="html">Thameslink can’t blame covid for service cuts, says Pidgeon - Inside Croydon</title>
@@ -196,36 +226,6 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
     <updated>2021-08-15T19:32:06.000000000Z</updated>
     <link href="https://www.mylondon.news/news/celebs/harry-potter-half-blood-prince-21284346" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/celebs/harry-potter-half-blood-prince-21284346" target="_blank"&gt;Harry Potter and the Half Blood Prince star who appeared in 12 episodes of EastEnders back in the day&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 14°C (57°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1012mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunset: 20:24 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-15T09:55:00.000+0000</id>
-    <published>2021-08-15T19:15:26Z</published>
-    <updated>2021-08-15T19:15:26Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (65°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:22 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-15T09:55:00.000+0000</id>
-    <published>2021-08-15T19:15:26Z</published>
-    <updated>2021-08-15T19:15:26Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Light Cloud, Minimum Temperature: 14°C (58°F) Maximum Temperature: 19°C (67°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 14°C (58°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:20 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-15T09:55:00.000+0000</id>
-    <published>2021-08-15T19:15:26Z</published>
-    <updated>2021-08-15T19:15:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHOL5sqvAfKiQv1M83L1h4IqGQgEKhAIACoHCAowzuOICzCZ4ocDMPvTpwY?oc=5</id>
