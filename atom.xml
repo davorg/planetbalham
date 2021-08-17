@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-17T03:15:35Z</updated>
+  <updated>2021-08-17T03:50:47Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 20:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-16T21:58:00.000+0000</id>
-    <published>2021-08-17T03:00:25Z</published>
-    <updated>2021-08-17T03:00:25Z</updated>
+    <published>2021-08-17T03:38:37Z</published>
+    <updated>2021-08-17T03:38:37Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 15°C (59°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 05:50 BST, Sunset: 20:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 05:50 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-16T21:58:00.000+0000</id>
-    <published>2021-08-17T03:00:25Z</published>
-    <updated>2021-08-17T03:00:25Z</updated>
+    <published>2021-08-17T03:38:37Z</published>
+    <updated>2021-08-17T03:38:37Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-16T21:58:00.000+0000</id>
-    <published>2021-08-17T03:00:25Z</published>
-    <updated>2021-08-17T03:00:25Z</updated>
+    <published>2021-08-17T03:38:37Z</published>
+    <updated>2021-08-17T03:38:37Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Near Balham - Golden Retriever ?</title>
