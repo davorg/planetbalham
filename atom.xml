@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-18T11:15:03Z</updated>
+  <updated>2021-08-18T11:51:15Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTIxMDgxLm5hbmRvcy1zaHV0cy1yZXN0YXVyYW50cy1zb3V0aC1sb25kb24tZHVlLXNob3J0YWdlcy_SAQA?oc=5</id>
+    <title type="html">Nando's shuts restaurants in south London due to shortages - Wandsworth Guardian</title>
+    <updated>2021-08-18T11:10:57.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19521081.nandos-shuts-restaurants-south-london-due-shortages/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19521081.nandos-shuts-restaurants-south-london-due-shortages/" target="_blank"&gt;Nando's shuts restaurants in south London due to shortages&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 15°C (58°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -241,13 +248,6 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8wOC8xNS90aGFtZXNsaW5rLWNhbnQtYmxhbWUtY292aWQtZm9yLXNlcnZpY2UtY3V0cy1zYXlzLXBpZGdlb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIxLzA4LzE1L3RoYW1lc2xpbmstY2FudC1ibGFtZS1jb3ZpZC1mb3Itc2VydmljZS1jdXRzLXNheXMtcGlkZ2Vvbi9hbXAv?oc=5</id>
-    <title type="html">Thameslink can’t blame covid for service cuts, says Pidgeon - Inside Croydon</title>
-    <updated>2021-08-15T18:19:51.000000000Z</updated>
-    <link href="https://insidecroydon.com/2021/08/15/thameslink-cant-blame-covid-for-service-cuts-says-pidgeon/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidecroydon.com/2021/08/15/thameslink-cant-blame-covid-for-service-cuts-says-pidgeon/" target="_blank"&gt;Thameslink can’t blame covid for service cuts, says Pidgeon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>2020 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html" type="text/html"/>
