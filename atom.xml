@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-19T12:16:12Z</updated>
+  <updated>2021-08-19T12:58:23Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTk1MjQ0MTUubmFuZG9zLWV4cGVjdHMtc2h1dC1yZXN0YXVyYW50cy1yZW9wZW4tc2F0dXJkYXkv0gEA?oc=5</id>
-    <title type="html">Nandos expects shut restaurants to reopen Saturday | This Is Local London - This is Local London</title>
-    <updated>2021-08-19T12:10:12.000000000Z</updated>
-    <link href="https://www.thisislocallondon.co.uk/news/19524415.nandos-expects-shut-restaurants-reopen-saturday/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19524415.nandos-expects-shut-restaurants-reopen-saturday/" target="_blank"&gt;Nandos expects shut restaurants to reopen Saturday | This Is Local London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-19T09:55:00.000+0000</id>
-    <published>2021-08-19T12:01:23Z</published>
-    <updated>2021-08-19T12:01:23Z</updated>
+    <published>2021-08-19T12:23:00Z</published>
+    <updated>2021-08-19T12:23:00Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (72°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 BST, Sunset: 20:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-19T09:55:00.000+0000</id>
-    <published>2021-08-19T12:01:23Z</published>
-    <updated>2021-08-19T12:01:23Z</updated>
+    <published>2021-08-19T12:23:00Z</published>
+    <updated>2021-08-19T12:23:00Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 15°C (58°F) Maximum Temperature: 23°C (73°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-19T09:55:00.000+0000</id>
-    <published>2021-08-19T12:01:23Z</published>
-    <updated>2021-08-19T12:01:23Z</updated>
+    <published>2021-08-19T12:23:00Z</published>
+    <updated>2021-08-19T12:23:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMTk1MjQ0MTUubmFuZG9zLWV4cGVjdHMtc2h1dC1yZXN0YXVyYW50cy1yZW9wZW4tc2F0dXJkYXkv0gEA?oc=5</id>
+    <title type="html">Nandos expects shut restaurants to reopen Saturday - News Shopper</title>
+    <updated>2021-08-19T12:10:12.000000000Z</updated>
+    <link href="https://www.newsshopper.co.uk/news/19524415.nandos-expects-shut-restaurants-reopen-saturday/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.newsshopper.co.uk/news/19524415.nandos-expects-shut-restaurants-reopen-saturday/" target="_blank"&gt;Nandos expects shut restaurants to reopen Saturday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wcmluY2Vzc2VzLWhlYWQtdG8tYmFsaGFtLWFuZC10b290aW5nLWNvbW1vbi10by1icmluZy1qb3ktdG8tY2hpbGRyZW4tdGhpcy1zdW1tZXItMi_SAQA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.morningadvertiser.co.uk/Article/2021/08/19/Property-round-up-Beavertown-s-first-pub-Inn-Collection-expansion-latest-site-for-Livelyhood-and-much-more" target="_blank"&gt;Property round-up: Beavertown's first pub, Livelyhood new venue, Inn Collection expansion, Lunar Pub Company and Peckham Levels&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MorningAdvertiser.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTIxMDgxLm5hbmRvcy1zaHV0cy1yZXN0YXVyYW50cy1zb3V0aC1sb25kb24tZHVlLXNob3J0YWdlcy_SAQA?oc=5</id>
-    <title type="html">Nando's shuts restaurants in south London due to shortages - Wandsworth Guardian</title>
-    <updated>2021-08-18T11:10:57.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19521081.nandos-shuts-restaurants-south-london-due-shortages/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19521081.nandos-shuts-restaurants-south-london-due-shortages/" target="_blank"&gt;Nando's shuts restaurants in south London due to shortages&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEPU0bAqbploQuhoNXAPiwRIqGQgEKhAIACoHCAowzrekCzCRwrwDMIXdhwc?oc=5</id>
     <title type="html">The Cost Of Renting Is Driven To A Record High As A Lack Of Properties To Buy Sparks Bidding Wars - - Todayuknews</title>
     <updated>2021-08-18T05:21:10.000000000Z</updated>
     <link href="https://todayuknews.com/banking/the-cost-of-renting-is-driven-to-a-record-high-as-a-lack-of-properties-to-buy-sparks-bidding-wars/" type="text/html"/>
     <content type="html">&lt;a href="https://todayuknews.com/banking/the-cost-of-renting-is-driven-to-a-record-high-as-a-lack-of-properties-to-buy-sparks-bidding-wars/" target="_blank"&gt;The Cost Of Renting Is Driven To A Record High As A Lack Of Properties To Buy Sparks Bidding Wars -&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Todayuknews&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3Lm5hdGlvbi5say9vbmxpbmUvbWlsbHdhbGwtMS0yLWZ1bGhhbS1hbGVrc2FuZGFyLW1pdHJvdmljLWFuZC1mYWJpby1jYXJ2YWxoby1zdHJpa2UtdG8tc2VhbC12aWN0b3J5LTExMTc1MS5odG1s0gEA?oc=5</id>
+    <title type="html">Millwall 1-2 Fulham: Aleksandar Mitrovic and Fabio Carvalho strike to seal victory - nation.lk - The Nation Newspaper</title>
+    <updated>2021-08-17T20:42:00.000000000Z</updated>
+    <link href="https://www.nation.lk/online/millwall-1-2-fulham-aleksandar-mitrovic-and-fabio-carvalho-strike-to-seal-victory-111751.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.nation.lk/online/millwall-1-2-fulham-aleksandar-mitrovic-and-fabio-carvalho-strike-to-seal-victory-111751.html" target="_blank"&gt;Millwall 1-2 Fulham: Aleksandar Mitrovic and Fabio Carvalho strike to seal victory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nation.lk - The Nation Newspaper&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Near Balham - Golden Retriever ?</title>
@@ -139,43 +139,6 @@ Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;/
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Balham - Du Cane Court</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51379581617/"/>
-    <id>tag:flickr.com,2005:/photo/51379581617</id>
-    <published>2021-08-15T19:46:54Z</published>
-    <updated>2021-08-15T19:46:54Z</updated>
-    <flickr:date_taken>2021-08-15T11:19:55-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-08-15T11:19:55-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51379581617/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51379581617_50563b9189_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;August 2021.&lt;br /&gt;
-Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
-Du Cane Court is an Art Deco apartment block. It is possibly the largest privately owned block of flats under one roof in Europe. It has been used as a location for the TV series Poirot.&lt;/p&gt;</content>
-    <author>
-      <name>JulesFoto</name>
-      <uri>https://www.flickr.com/people/julesfoto/</uri>
-      <flickr:nsid>55578087@N08</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51379581617_50563b9189_b.jpg"/>
-    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="apartmentblock" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>UK - London - Balham - Du Cane Court</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51379581962/"/>
     <id>tag:flickr.com,2005:/photo/51379581962</id>
     <published>2021-08-15T19:46:53Z</published>
@@ -233,6 +196,43 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51380345541_976187ae9d_b.jpg"/>
+    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="apartmentblock" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>UK - London - Balham - Du Cane Court</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380345921/"/>
+    <id>tag:flickr.com,2005:/photo/51380345921</id>
+    <published>2021-08-15T19:46:52Z</published>
+    <updated>2021-08-15T19:46:52Z</updated>
+    <flickr:date_taken>2021-08-15T11:17:26-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:17:26-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51380345921/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51380345921_684b76b870_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;August 2021.&lt;br /&gt;
+Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
+Du Cane Court is an Art Deco apartment block. It is possibly the largest privately owned block of flats under one roof in Europe. It has been used as a location for the TV series Poirot.&lt;/p&gt;</content>
+    <author>
+      <name>JulesFoto</name>
+      <uri>https://www.flickr.com/people/julesfoto/</uri>
+      <flickr:nsid>55578087@N08</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51380345921_684b76b870_b.jpg"/>
     <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
