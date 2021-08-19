@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-19T10:50:56Z</updated>
+  <updated>2021-08-19T11:15:19Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wcmluY2Vzc2VzLWhlYWQtdG8tYmFsaGFtLWFuZC10b290aW5nLWNvbW1vbi10by1icmluZy1qb3ktdG8tY2hpbGRyZW4tdGhpcy1zdW1tZXItMi_SAQA?oc=5</id>
-    <title type="html">Princesses head to Balham and Tooting Common to bring joy to children this summer - London News Online</title>
-    <updated>2021-08-19T10:30:10.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/princesses-head-to-balham-and-tooting-common-to-bring-joy-to-children-this-summer-2/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/princesses-head-to-balham-and-tooting-common-to-bring-joy-to-children-this-summer-2/" target="_blank"&gt;Princesses head to Balham and Tooting Common to bring joy to children this summer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-19T09:55:00.000+0000</id>
-    <published>2021-08-19T10:21:38Z</published>
-    <updated>2021-08-19T10:21:38Z</updated>
+    <published>2021-08-19T11:03:52Z</published>
+    <updated>2021-08-19T11:03:52Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (72°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 BST, Sunset: 20:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-19T09:55:00.000+0000</id>
-    <published>2021-08-19T10:21:38Z</published>
-    <updated>2021-08-19T10:21:38Z</updated>
+    <published>2021-08-19T11:03:52Z</published>
+    <updated>2021-08-19T11:03:52Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 15°C (58°F) Maximum Temperature: 23°C (73°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-19T09:55:00.000+0000</id>
-    <published>2021-08-19T10:21:38Z</published>
-    <updated>2021-08-19T10:21:38Z</updated>
+    <published>2021-08-19T11:03:52Z</published>
+    <updated>2021-08-19T11:03:52Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wcmluY2Vzc2VzLWhlYWQtdG8tYmFsaGFtLWFuZC10b290aW5nLWNvbW1vbi10by1icmluZy1qb3ktdG8tY2hpbGRyZW4tdGhpcy1zdW1tZXItMi_SAQA?oc=5</id>
+    <title type="html">Princesses head to Balham and Tooting Common to bring joy to children this summer - London News Online</title>
+    <updated>2021-08-19T10:30:10.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/princesses-head-to-balham-and-tooting-common-to-bring-joy-to-children-this-summer-2/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/princesses-head-to-balham-and-tooting-common-to-bring-joy-to-children-this-summer-2/" target="_blank"&gt;Princesses head to Balham and Tooting Common to bring joy to children this summer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMioQFodHRwczovL3d3dy5tb3JuaW5nYWR2ZXJ0aXNlci5jby51ay9BcnRpY2xlLzIwMjEvMDgvMTkvUHJvcGVydHktcm91bmQtdXAtQmVhdmVydG93bi1zLWZpcnN0LXB1Yi1Jbm4tQ29sbGVjdGlvbi1leHBhbnNpb24tbGF0ZXN0LXNpdGUtZm9yLUxpdmVseWhvb2QtYW5kLW11Y2gtbW9yZdIBAA?oc=5</id>
