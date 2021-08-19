@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-19T21:14:40Z</updated>
+  <updated>2021-08-19T21:51:00Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Rain Showers, Minimum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-19T19:59:00.000+0000</id>
-    <published>2021-08-19T21:02:01Z</published>
-    <updated>2021-08-19T21:02:01Z</updated>
+    <published>2021-08-19T21:31:40Z</published>
+    <updated>2021-08-19T21:31:40Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 BST, Sunset: 20:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-19T19:59:00.000+0000</id>
-    <published>2021-08-19T21:02:01Z</published>
-    <updated>2021-08-19T21:02:01Z</updated>
+    <published>2021-08-19T21:31:40Z</published>
+    <updated>2021-08-19T21:31:40Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 15°C (58°F) Maximum Temperature: 23°C (73°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-19T19:59:00.000+0000</id>
-    <published>2021-08-19T21:02:01Z</published>
-    <updated>2021-08-19T21:02:01Z</updated>
+    <published>2021-08-19T21:31:40Z</published>
+    <updated>2021-08-19T21:31:40Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
