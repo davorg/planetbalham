@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-22T13:16:27Z</updated>
+  <updated>2021-08-22T13:50:48Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (57°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1020mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (57°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1020mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-22T09:55:00.000+0000</id>
-    <published>2021-08-22T13:00:55Z</published>
-    <updated>2021-08-22T13:00:55Z</updated>
+    <published>2021-08-22T13:23:19Z</published>
+    <updated>2021-08-22T13:23:19Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 12°C (54°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 12°C (54°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 05:58 BST, Sunset: 20:07 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-22T09:55:00.000+0000</id>
-    <published>2021-08-22T13:00:55Z</published>
-    <updated>2021-08-22T13:00:55Z</updated>
+    <published>2021-08-22T13:23:19Z</published>
+    <updated>2021-08-22T13:23:19Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (71°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 12°C (54°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 06:00 BST, Sunset: 20:05 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-22T09:55:00.000+0000</id>
-    <published>2021-08-22T13:00:55Z</published>
-    <updated>2021-08-22T13:00:55Z</updated>
+    <published>2021-08-22T13:23:19Z</published>
+    <updated>2021-08-22T13:23:19Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIqMpvX_Ha6V4s4HLGl618MqMwgEKioIACIQRJjtI_FXZlsdOcT1rBcrRSoUCAoiEESY7SPxV2ZbHTnE9awXK0UwpcKKBw?oc=5</id>
@@ -48,11 +48,11 @@
     <content type="html">&lt;a href="https://www.kentonline.co.uk/ashford/sport/fa-cup-preliminary-round-round-up-252716/" target="_blank"&gt;FA Cup Preliminary Round round-up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnRoZW5vbmxlYWd1ZWZvb3RiYWxscGFwZXIuY29tL2xhdGVzdC1uZXdzL25vbi1sZWFndWUtcGFwZXIvMzk1ODQwL3N0ZXAtNS02LWFjdGlvbi03My_SAQA?oc=5</id>
-    <title type="html">STEP 5 &amp; 6 ACTION | The Non-League Football Paper - The Non-League Football Paper</title>
-    <updated>2021-08-21T23:00:00.000000000Z</updated>
-    <link href="https://www.thenonleaguefootballpaper.com/latest-news/non-league-paper/395840/step-5-6-action-73/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thenonleaguefootballpaper.com/latest-news/non-league-paper/395840/step-5-6-action-73/" target="_blank"&gt;STEP 5 &amp; 6 ACTION | The Non-League Football Paper&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Non-League Football Paper&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiigFodHRwczovL3d3dy50aGVub25sZWFndWVmb290YmFsbHBhcGVyLmNvbS9sYXRlc3QtbmV3cy9ub24tbGVhZ3VlLXBhcGVyLzM5NTg0MC9zdGVwLTUtYW5kLTYtcmV2aWV3LW5vcnRoLWdyZWVuZm9yZC1naXZlbi1sZXNzb24tYnktdGlsYnVyeS_SAQA?oc=5</id>
+    <title type="html">Step 5 and 6 review: North Greenford given lesson by Tilbury | The Non-League Football Paper - The Non-League Football Paper</title>
+    <updated>2021-08-22T00:00:00.000000000Z</updated>
+    <link href="https://www.thenonleaguefootballpaper.com/latest-news/non-league-paper/395840/step-5-and-6-review-north-greenford-given-lesson-by-tilbury/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thenonleaguefootballpaper.com/latest-news/non-league-paper/395840/step-5-and-6-review-north-greenford-given-lesson-by-tilbury/" target="_blank"&gt;Step 5 and 6 review: North Greenford given lesson by Tilbury | The Non-League Football Paper&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Non-League Football Paper&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvdGhlLWFtYXRldXItaW52ZXN0b3JzLXRha2luZy1vbi13YWxsLXN0cmVldC10cmFkZXJzLXBnbm5oNjJka9IBAA?oc=5</id>
