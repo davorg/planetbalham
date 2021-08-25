@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-25T17:16:18Z</updated>
+  <updated>2021-08-25T17:50:59Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (60°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunset: 20:03 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-25T09:53:00.000+0000</id>
-    <published>2021-08-25T17:03:08Z</published>
-    <updated>2021-08-25T17:03:08Z</updated>
+    <published>2021-08-25T17:19:20Z</published>
+    <updated>2021-08-25T17:19:20Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 18°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:03 BST, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-25T09:53:00.000+0000</id>
-    <published>2021-08-25T17:03:08Z</published>
-    <updated>2021-08-25T17:03:08Z</updated>
+    <published>2021-08-25T17:19:20Z</published>
+    <updated>2021-08-25T17:19:20Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (69°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 12°C (53°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-25T09:53:00.000+0000</id>
-    <published>2021-08-25T17:03:08Z</published>
-    <updated>2021-08-25T17:03:08Z</updated>
+    <published>2021-08-25T17:19:20Z</published>
+    <updated>2021-08-25T17:19:20Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJJPLG_ROuCIYfKXLIo_NksqGQgEKhAIACoHCAowms-ICzDyxYcDMKi-gAc?oc=5</id>
@@ -48,11 +48,11 @@
     <content type="html">&lt;a href="https://www.taxi-point.co.uk/post/tfl-hackney-council-set-out-plans-for-london-s-latest-cycleway" target="_blank"&gt;TfL &amp; Hackney Council set out plans for London's latest Cycleway&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TaxiPoint Taxi News&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMTk1MzcwNTQubWFuLXN0YWJiZWQtb3V0c2lkZS1iYWxoYW0tdW5kZXJncm91bmQv0gEA?oc=5</id>
-    <title type="html">Man stabbed outside Balham underground - News Shopper</title>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTM3MDU0Lm1hbi1zdGFiYmVkLW91dHNpZGUtYmFsaGFtLXVuZGVyZ3JvdW5kL9IBAA?oc=5</id>
+    <title type="html">Man stabbed outside Balham underground - Wandsworth Guardian</title>
     <updated>2021-08-25T14:38:35.000000000Z</updated>
-    <link href="https://www.newsshopper.co.uk/news/19537054.man-stabbed-outside-balham-underground/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.newsshopper.co.uk/news/19537054.man-stabbed-outside-balham-underground/" target="_blank"&gt;Man stabbed outside Balham underground&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
+    <link href="https://www.wandsworthguardian.co.uk/news/19537054.man-stabbed-outside-balham-underground/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19537054.man-stabbed-outside-balham-underground/" target="_blank"&gt;Man stabbed outside Balham underground&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGQhFixFwzpvDaTp6Lddq2gqGQgEKhAIACoHCAowxsaVCzCXq6sDMPXkxgY?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/food-drink/the-charlotte-southwark-best-pub-21396861" target="_blank"&gt;The London bar hoping to be named the 'best place to watch sport' in the UK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEKXYQxT2QLTTKDtV0VBAp2UqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
-    <title type="html">Man, 27, stabbed in Balham High Road robbery - Evening Standard</title>
-    <updated>2021-08-25T09:16:13.000000000Z</updated>
-    <link href="https://www.standard.co.uk/news/crime/balham-high-road-stabbing-robbery-police-man-london-b952226.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/news/crime/balham-high-road-stabbing-robbery-police-man-london-b952226.html" target="_blank"&gt;Man, 27, stabbed in Balham High Road robbery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmhvdHByZXNzLmNvbS9tdXNpYy90YWRoZy1kYWx5LXNoYXJlcy1tdXNpYy12aWRlby1mb3ItZm9yZXZlci15b3VuZy0yMjg2NzkwONIBAA?oc=5</id>
+    <title type="html">Tadhg Daly shares music video for 'Forever Young' - hotpress.com</title>
+    <updated>2021-08-24T16:36:35.000000000Z</updated>
+    <link href="https://www.hotpress.com/music/tadhg-daly-shares-music-video-for-forever-young-22867908" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hotpress.com/music/tadhg-daly-shares-music-video-for-forever-young-22867908" target="_blank"&gt;Tadhg Daly shares music video for 'Forever Young'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;hotpress.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
