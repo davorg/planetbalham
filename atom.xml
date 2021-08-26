@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-26T20:50:57Z</updated>
+  <updated>2021-08-26T21:15:16Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-26T19:57:00.000+0000</id>
-    <published>2021-08-26T20:35:01Z</published>
-    <updated>2021-08-26T20:35:01Z</updated>
+    <published>2021-08-26T21:04:08Z</published>
+    <updated>2021-08-26T21:04:08Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 20°C (67°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-26T19:57:00.000+0000</id>
-    <published>2021-08-26T20:35:01Z</published>
-    <updated>2021-08-26T20:35:01Z</updated>
+    <published>2021-08-26T21:04:08Z</published>
+    <updated>2021-08-26T21:04:08Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:57 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-26T19:57:00.000+0000</id>
-    <published>2021-08-26T20:35:01Z</published>
-    <updated>2021-08-26T20:35:01Z</updated>
+    <published>2021-08-26T21:04:08Z</published>
+    <updated>2021-08-26T21:04:08Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTQwMzYyLm1lc3MtZHVtcGVkLW5vLWZseS10aXBwaW5nLXNpZ24tYmFsaGFtL9IBAA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-08-26T15:10:23.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" target="_blank"&gt;Mess dumped under 'no fly-tipping' sign in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTk1NDAzNjIubWVzcy1kdW1wZWQtbm8tZmx5LXRpcHBpbmctc2lnbi1iYWxoYW0v0gEA?oc=5</id>
+    <title type="html">Mess dumped under 'no fly-tipping' sign in Balham | This Is Local London - This is Local London</title>
+    <updated>2021-08-26T15:10:23.000000000Z</updated>
+    <link href="https://www.thisislocallondon.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" target="_blank"&gt;Mess dumped under 'no fly-tipping' sign in Balham | This Is Local London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTM5MjY2LmJhbGhhbS1jb3VuY2lsbG9yLXJlc2lnbnMtbGFib3VyLXBhcnR5L9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-25T15:57:39.000000000Z</updated>
     <link href="https://www.taxi-point.co.uk/post/tfl-hackney-council-set-out-plans-for-london-s-latest-cycleway" type="text/html"/>
     <content type="html">&lt;a href="https://www.taxi-point.co.uk/post/tfl-hackney-council-set-out-plans-for-london-s-latest-cycleway" target="_blank"&gt;TfL &amp; Hackney Council set out plans for London's latest Cycleway&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TaxiPoint Taxi News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTM3MDU0Lm1hbi1zdGFiYmVkLW91dHNpZGUtYmFsaGFtLXVuZGVyZ3JvdW5kL9IBAA?oc=5</id>
-    <title type="html">Man stabbed outside Balham underground - Wandsworth Guardian</title>
-    <updated>2021-08-25T14:38:35.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19537054.man-stabbed-outside-balham-underground/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19537054.man-stabbed-outside-balham-underground/" target="_blank"&gt;Man stabbed outside Balham underground&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
