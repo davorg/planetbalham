@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-26T10:15:34Z</updated>
+  <updated>2021-08-26T10:51:41Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTM5MjY2LmJhbGhhbS1jb3VuY2lsbG9yLXJlc2lnbnMtbGFib3VyLXBhcnR5L9IBAA?oc=5</id>
+    <title type="html">Balham councillor resigns from Labour party - Wandsworth Guardian</title>
+    <updated>2021-08-26T10:35:57.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19539266.balham-councillor-resigns-labour-party/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19539266.balham-councillor-resigns-labour-party/" target="_blank"&gt;Balham councillor resigns from Labour party&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1022mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 06:03 BST, Sunset: 20:01 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-26T07:00:00.000+0000</id>
-    <published>2021-08-26T10:01:58Z</published>
-    <updated>2021-08-26T10:01:58Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-26T09:53:00.000+0000</id>
+    <published>2021-08-26T10:28:46Z</published>
+    <updated>2021-08-26T10:28:46Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 11°C (53°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-26T07:00:00.000+0000</id>
-    <published>2021-08-26T10:01:58Z</published>
-    <updated>2021-08-26T10:01:58Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-26T09:53:00.000+0000</id>
+    <published>2021-08-26T10:28:46Z</published>
+    <updated>2021-08-26T10:28:46Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:57 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:57 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-26T07:00:00.000+0000</id>
-    <published>2021-08-26T10:01:58Z</published>
-    <updated>2021-08-26T10:01:58Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-26T09:53:00.000+0000</id>
+    <published>2021-08-26T10:28:46Z</published>
+    <updated>2021-08-26T10:28:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEAzgVMi7WE2vvO_zuIkWdooqGQgEKhAIACoHCAowzc-JCzDQ5psDML6GogY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-25T13:25:00.000000000Z</updated>
     <link href="https://www.the-sun.com/news/3537730/boozed-beauty-therapist-glassed-woman/" type="text/html"/>
     <content type="html">&lt;a href="https://www.the-sun.com/news/3537730/boozed-beauty-therapist-glassed-woman/" target="_blank"&gt;‘Boozed-up’ beauty therapist, 35, ‘glassed woman in the EYE because of her “overtly sexual” dancing in club...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEDQyM1EyNVVwY4mpKqqaXxsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">The London bar hoping to be named the 'best place to watch sport' in the UK - My London</title>
-    <updated>2021-08-25T12:26:29.000000000Z</updated>
-    <link href="https://www.mylondon.news/lifestyle/food-drink/the-charlotte-southwark-best-pub-21396861" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/food-drink/the-charlotte-southwark-best-pub-21396861" target="_blank"&gt;The London bar hoping to be named the 'best place to watch sport' in the UK&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
