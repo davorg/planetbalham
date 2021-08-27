@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-27T12:16:27Z</updated>
+  <updated>2021-08-27T12:58:07Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 59%, UV Risk: 3, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-27T09:53:00.000+0000</id>
-    <published>2021-08-27T12:02:22Z</published>
-    <updated>2021-08-27T12:02:22Z</updated>
+    <published>2021-08-27T12:49:50Z</published>
+    <updated>2021-08-27T12:49:50Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (70°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:57 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-27T09:53:00.000+0000</id>
-    <published>2021-08-27T12:02:22Z</published>
-    <updated>2021-08-27T12:02:22Z</updated>
+    <published>2021-08-27T12:49:50Z</published>
+    <updated>2021-08-27T12:49:50Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-27T09:53:00.000+0000</id>
-    <published>2021-08-27T12:02:22Z</published>
-    <updated>2021-08-27T12:02:22Z</updated>
+    <published>2021-08-27T12:49:50Z</published>
+    <updated>2021-08-27T12:49:50Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvY2hlZWt5LWJhbGhhbS1mbHktdGlwcGVycy1zdHJpa2UtYWdhaW4tYnV0LXJlc2lkZW50cy13aWxsLW5vdC1maW5kLXJvdHRpbmctZm9vZC1hbmQtcnViYmlzaC1mdW5ueS_SAQA?oc=5</id>
+    <title type="html">Cheeky Balham fly-tippers strike again – but residents will not find rotting food and rubbish funny - London News Online</title>
+    <updated>2021-08-27T12:26:42.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/cheeky-balham-fly-tippers-strike-again-but-residents-will-not-find-rotting-food-and-rubbish-funny/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/cheeky-balham-fly-tippers-strike-again-but-residents-will-not-find-rotting-food-and-rubbish-funny/" target="_blank"&gt;Cheeky Balham fly-tippers strike again – but residents will not find rotting food and rubbish funny&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEN4tVWD_NurXb19Y7vkcFOYqGQgEKhAIACoHCAowzrekCzCRwrwDMIXdhwc?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-26T15:10:23.000000000Z</updated>
     <link href="https://www.thisislocallondon.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" target="_blank"&gt;Mess dumped under 'no fly-tipping' sign in Balham | This Is Local London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTM5MjY2LmJhbGhhbS1jb3VuY2lsbG9yLXJlc2lnbnMtbGFib3VyLXBhcnR5L9IBAA?oc=5</id>
-    <title type="html">Balham councillor resigns from Labour party - Wandsworth Guardian</title>
-    <updated>2021-08-26T10:35:57.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19539266.balham-councillor-resigns-labour-party/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19539266.balham-councillor-resigns-labour-party/" target="_blank"&gt;Balham councillor resigns from Labour party&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
@@ -209,15 +209,15 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Balham - Du Cane Court</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380345541/"/>
-    <id>tag:flickr.com,2005:/photo/51380345541</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51379581962/"/>
+    <id>tag:flickr.com,2005:/photo/51379581962</id>
     <published>2021-08-15T19:46:53Z</published>
     <updated>2021-08-15T19:46:53Z</updated>
-    <flickr:date_taken>2021-08-15T11:18:09-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-08-15T11:18:09-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-08-15T11:17:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:17:32-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51380345541/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51380345541_976187ae9d_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51379581962/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51379581962_cd71e97d24_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;August 2021.&lt;br /&gt;
 Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
@@ -228,7 +228,7 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
       <flickr:nsid>55578087@N08</flickr:nsid>
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51380345541_976187ae9d_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51379581962_cd71e97d24_b.jpg"/>
     <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
