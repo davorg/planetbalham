@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-27T14:50:26Z</updated>
+  <updated>2021-08-27T15:15:52Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 57%, UV Risk: 3, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 57%, UV Risk: 2, Pollution: Low, Sunrise: 06:05 BST, Sunset: 19:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-27T09:53:00.000+0000</id>
-    <published>2021-08-27T14:00:45Z</published>
-    <updated>2021-08-27T14:00:45Z</updated>
+    <published>2021-08-27T15:01:37Z</published>
+    <updated>2021-08-27T15:01:37Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (70°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (52°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:57 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-27T09:53:00.000+0000</id>
-    <published>2021-08-27T14:00:45Z</published>
-    <updated>2021-08-27T14:00:45Z</updated>
+    <published>2021-08-27T15:01:37Z</published>
+    <updated>2021-08-27T15:01:37Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-27T09:53:00.000+0000</id>
-    <published>2021-08-27T14:00:45Z</published>
-    <updated>2021-08-27T14:00:45Z</updated>
+    <published>2021-08-27T15:01:37Z</published>
+    <updated>2021-08-27T15:01:37Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEL-auRzZ__omTyvJvHXBiuEqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
+    <title type="html">Drunken beauty therapist, 35, jailed for glassing teacher after 'overly sexual' dance floor moves - Daily Mail</title>
+    <updated>2021-08-27T14:46:00.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9933247/Drunken-beauty-therapist-35-jailed-glassing-teacher-overly-sexual-dance-floor-moves.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9933247/Drunken-beauty-therapist-35-jailed-glassing-teacher-overly-sexual-dance-floor-moves.html" target="_blank"&gt;Drunken beauty therapist, 35, jailed for glassing teacher after 'overly sexual' dance floor moves&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvY2hlZWt5LWJhbGhhbS1mbHktdGlwcGVycy1zdHJpa2UtYWdhaW4tYnV0LXJlc2lkZW50cy13aWxsLW5vdC1maW5kLXJvdHRpbmctZm9vZC1hbmQtcnViYmlzaC1mdW5ueS_SAQA?oc=5</id>
@@ -64,16 +71,9 @@
   <entry>
     <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LndhbGxwYXBlci5jb20vYXJjaGl0ZWN0dXJlL25pZ2h0aW5nYWxlLXRyaWFuZ2xlLWJsYWtlcy1sb25kb24tbWFzY290LWJlc3Bva2UtamFhbS1sb25kb24tdWvSAWtodHRwczovL3d3dy53YWxscGFwZXIuY29tL2FyY2hpdGVjdHVyZS9uaWdodGluZ2FsZS10cmlhbmdsZS1ibGFrZXMtbG9uZG9uLW1hc2NvdC1iZXNwb2tlLWphYW0tbG9uZG9uLXVrL2FtcA?oc=5</id>
     <title type="html">This Balham family home sports a sculptural wood clad extension - Wallpaper*</title>
-    <updated>2021-08-27T06:02:14.000000000Z</updated>
+    <updated>2021-08-27T06:01:30.000000000Z</updated>
     <link href="https://www.wallpaper.com/architecture/nightingale-triangle-blakes-london-mascot-bespoke-jaam-london-uk" type="text/html"/>
     <content type="html">&lt;a href="https://www.wallpaper.com/architecture/nightingale-triangle-blakes-london-mascot-bespoke-jaam-london-uk" target="_blank"&gt;This Balham family home sports a sculptural wood clad extension&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wallpaper*&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTk1NDAzNjIubWVzcy1kdW1wZWQtbm8tZmx5LXRpcHBpbmctc2lnbi1iYWxoYW0v0gEA?oc=5</id>
-    <title type="html">Mess dumped under 'no fly-tipping' sign in Balham | This Is Local London - This is Local London</title>
-    <updated>2021-08-26T15:10:23.000000000Z</updated>
-    <link href="https://www.thisislocallondon.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19540362.mess-dumped-no-fly-tipping-sign-balham/" target="_blank"&gt;Mess dumped under 'no fly-tipping' sign in Balham | This Is Local London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
