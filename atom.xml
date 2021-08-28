@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-28T02:51:55Z</updated>
+  <updated>2021-08-28T03:15:54Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1025mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 19:57 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (53°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1025mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 19:57 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-27T21:55:00.000+0000</id>
-    <published>2021-08-28T02:00:23Z</published>
-    <updated>2021-08-28T02:00:23Z</updated>
+    <published>2021-08-28T03:02:23Z</published>
+    <updated>2021-08-28T03:02:23Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-27T21:55:00.000+0000</id>
-    <published>2021-08-28T02:00:23Z</published>
-    <updated>2021-08-28T02:00:23Z</updated>
+    <published>2021-08-28T03:02:23Z</published>
+    <updated>2021-08-28T03:02:23Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 06:09 BST, Sunset: 19:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-27T21:55:00.000+0000</id>
-    <published>2021-08-28T02:00:23Z</published>
-    <updated>2021-08-28T02:00:23Z</updated>
+    <published>2021-08-28T03:02:23Z</published>
+    <updated>2021-08-28T03:02:23Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMq5wiIPmYoOkLMCdqQr45QqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
