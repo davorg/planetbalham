@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-29T03:50:49Z</updated>
+  <updated>2021-08-29T04:16:18Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (53°F)</title>
+    <title>Tonight: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (53°F), Wind Direction: North Westerly, Wind Speed: 4mph, Visibility: Good, Pressure: 1026mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 19:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 11°C (53°F), Wind Direction: North Westerly, Wind Speed: 4mph, Visibility: Good, Pressure: 1026mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-08-28T21:54:00.000+0000</id>
-    <published>2021-08-29T03:20:24Z</published>
-    <updated>2021-08-29T03:20:24Z</updated>
+    <published>2021-08-29T04:00:16Z</published>
+    <updated>2021-08-29T04:00:16Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:09 BST, Sunset: 19:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-08-28T21:54:00.000+0000</id>
-    <published>2021-08-29T03:20:24Z</published>
-    <updated>2021-08-29T03:20:24Z</updated>
+    <published>2021-08-29T04:00:16Z</published>
+    <updated>2021-08-29T04:00:16Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (55°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 06:11 BST, Sunset: 19:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-08-28T21:54:00.000+0000</id>
-    <published>2021-08-29T03:20:24Z</published>
-    <updated>2021-08-29T03:20:24Z</updated>
+    <published>2021-08-29T04:00:16Z</published>
+    <updated>2021-08-29T04:00:16Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTQyNzAwLndvcnN0LWh5Z2llbmUtcmF0ZWQtcmVzdGF1cmFudHMtd2FuZHN3b3J0aC_SAQA?oc=5</id>
+    <title type="html">The worst hygiene-rated restaurants in Wandsworth - Wandsworth Guardian</title>
+    <updated>2021-08-29T04:00:00.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19542700.worst-hygiene-rated-restaurants-wandsworth/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19542700.worst-hygiene-rated-restaurants-wandsworth/" target="_blank"&gt;The worst hygiene-rated restaurants in Wandsworth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMq5wiIPmYoOkLMCdqQr45QqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-08-27T10:23:25.000000000Z</updated>
     <link href="https://todayuknews.com/entertainment/hundreds-more-bike-storage-units-planned-in-wandsworth-residential-streets/" type="text/html"/>
     <content type="html">&lt;a href="https://todayuknews.com/entertainment/hundreds-more-bike-storage-units-planned-in-wandsworth-residential-streets/" target="_blank"&gt;Hundreds More Bike Storage Units Planned In Wandsworth Residential Streets - Todayuknews&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Todayuknews&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LndhbGxwYXBlci5jb20vYXJjaGl0ZWN0dXJlL25pZ2h0aW5nYWxlLXRyaWFuZ2xlLWJsYWtlcy1sb25kb24tbWFzY290LWJlc3Bva2UtamFhbS1sb25kb24tdWvSAWtodHRwczovL3d3dy53YWxscGFwZXIuY29tL2FyY2hpdGVjdHVyZS9uaWdodGluZ2FsZS10cmlhbmdsZS1ibGFrZXMtbG9uZG9uLW1hc2NvdC1iZXNwb2tlLWphYW0tbG9uZG9uLXVrL2FtcA?oc=5</id>
-    <title type="html">This Balham family home sports a sculptural wood clad extension - Wallpaper*</title>
-    <updated>2021-08-27T06:04:28.000000000Z</updated>
-    <link href="https://www.wallpaper.com/architecture/nightingale-triangle-blakes-london-mascot-bespoke-jaam-london-uk" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wallpaper.com/architecture/nightingale-triangle-blakes-london-mascot-bespoke-jaam-london-uk" target="_blank"&gt;This Balham family home sports a sculptural wood clad extension&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wallpaper*&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
