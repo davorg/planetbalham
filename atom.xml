@@ -7,260 +7,276 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-08T14:40:01Z</updated>
+  <updated>2021-09-01T15:51:31Z</updated>
   <link rel="self" href="http://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>http://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Mist, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (39°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 2°C (36°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1005mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 06:13 BST, Sunset: 19:48 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2020-12-08T09:54:00.000+0000</id>
-    <published>2020-12-08T14:03:58Z</published>
-    <updated>2020-12-08T14:03:58Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-01T09:55:00.000+0000</id>
+    <published>2021-09-01T15:26:16Z</published>
+    <updated>2021-09-01T15:26:16Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (40°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1006mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1028mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 06:14 BST, Sunset: 19:46 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2020-12-08T09:54:00.000+0000</id>
-    <published>2020-12-08T14:03:58Z</published>
-    <updated>2020-12-08T14:03:58Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-01T09:55:00.000+0000</id>
+    <published>2021-09-01T15:26:16Z</published>
+    <updated>2021-09-01T15:26:16Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Thick Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (42°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 06:16 BST, Sunset: 19:43 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2020-12-08T09:54:00.000+0000</id>
-    <published>2020-12-08T14:03:58Z</published>
-    <updated>2020-12-08T14:03:58Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-01T09:55:00.000+0000</id>
+    <published>2021-09-01T15:26:16Z</published>
+    <updated>2021-09-01T15:26:16Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMC8xMi8wNy90cmFtcy1tYXJrLWFycml2YWwtYXQtY3J5c3RhbC1wYWxhY2Utd2l0aC1tZW1vcmFibGUtY29tZWJhY2sv0gFmaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIwLzEyLzA3L3RyYW1zLW1hcmstYXJyaXZhbC1hdC1jcnlzdGFsLXBhbGFjZS13aXRoLW1lbW9yYWJsZS1jb21lYmFjay9hbXAv?oc=5</id>
-    <title type="html">Trams mark arrival at Crystal Palace with memorable comeback - Inside Croydon</title>
-    <updated>2020-12-07T11:37:22.000000000Z</updated>
-    <link href="https://insidecroydon.com/2020/12/07/trams-mark-arrival-at-crystal-palace-with-memorable-comeback/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidecroydon.com/2020/12/07/trams-mark-arrival-at-crystal-palace-with-memorable-comeback/" target="_blank"&gt;Trams mark arrival at Crystal Palace with memorable comeback&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEIAyn7luK5vdhP2aFzcC9xYqGQgEKhAIACoHCAowy4KeCzDcjLYDMNfl6QY?oc=5</id>
+    <title type="html">Balham Olympian Katie Snowden launches community running club - South West Londoner</title>
+    <updated>2021-09-01T11:46:02.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/sport/01092021-balham-olympian-katie-snowden-launches-community-running-club/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/01092021-balham-olympian-katie-snowden-launches-community-running-club/" target="_blank"&gt;Balham Olympian Katie Snowden launches community running club&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>DSC_0072_POST2</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sfeest/50685637358/"/>
-    <id>tag:flickr.com,2005:/photo/50685637358</id>
-    <published>2020-12-06T12:45:03Z</published>
-    <updated>2020-12-06T12:45:03Z</updated>
-    <flickr:date_taken>2009-12-12T21:33:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2009-12-12T21:33:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/sfeest/"&gt;stephen.feest&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title> </title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/193675627@N04/51414525774/"/>
+    <id>tag:flickr.com,2005:/photo/51414525774</id>
+    <published>2021-08-30T21:35:17Z</published>
+    <updated>2021-08-30T21:35:17Z</updated>
+    <flickr:date_taken>2021-08-30T12:48:02-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-30T12:48:02-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/193675627@N04/"&gt;atqavism28&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/sfeest/50685637358/" title="DSC_0072_POST2"&gt;&lt;img src="https://live.staticflickr.com/65535/50685637358_206f42f16d_m.jpg" width="160" height="240" alt="DSC_0072_POST2" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/193675627@N04/51414525774/" title=" "&gt;&lt;img src="https://live.staticflickr.com/65535/51414525774_2b20ec014d_m.jpg" width="192" height="240" alt=" " /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham Underground Station, London SW12&lt;/p&gt;</content>
+</content>
     <author>
-      <name>stephen.feest</name>
-      <uri>https://www.flickr.com/people/sfeest/</uri>
-      <flickr:nsid>33187409@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1741/buddyicons/33187409@N00.jpg?1528670497#33187409@N00</flickr:buddyicon>
+      <name>atqavism28</name>
+      <uri>https://www.flickr.com/people/193675627@N04/</uri>
+      <flickr:nsid>193675627@N04</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#193675627@N04</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50685637358_206f42f16d_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51414525774_2b20ec014d_b.jpg"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stainedglass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="undergoundstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE4OTIyMTU1LnNob3ctc3VwcG9ydC1zbWFsbC1idXNpbmVzcy1zYXR1cmRheS_SAQA?oc=5</id>
-    <title type="html">Show your support on Small Business Saturday - Wandsworth Guardian</title>
-    <updated>2020-12-04T16:50:00.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/18922155.show-support-small-business-saturday/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/18922155.show-support-small-business-saturday/" target="_blank"&gt;Show your support on Small Business Saturday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTQyNzAwLndvcnN0LWh5Z2llbmUtcmF0ZWQtcmVzdGF1cmFudHMtd2FuZHN3b3J0aC_SAQA?oc=5</id>
+    <title type="html">The worst hygiene-rated restaurants in Wandsworth - Wandsworth Guardian</title>
+    <updated>2021-08-29T04:00:00.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19542700.worst-hygiene-rated-restaurants-wandsworth/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19542700.worst-hygiene-rated-restaurants-wandsworth/" target="_blank"&gt;The worst hygiene-rated restaurants in Wandsworth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoZWdyb2Nlci5jby51ay9zdG9yZS1kZXNpZ24vYXNkYS1sYXVuY2hlcy1uZXctY2FmZS1jb25jZXB0LXdpdGgtdHdpc3RlZC1sb25kb24vNjUwOTMzLmFydGljbGXSAQA?oc=5</id>
-    <title type="html">Asda launches new café concept with Twisted London - The Grocer</title>
-    <updated>2020-12-03T13:01:34.000000000Z</updated>
-    <link href="https://www.thegrocer.co.uk/store-design/asda-launches-new-cafe-concept-with-twisted-london/650933.article" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thegrocer.co.uk/store-design/asda-launches-new-cafe-concept-with-twisted-london/650933.article" target="_blank"&gt;Asda launches new café concept with Twisted London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Grocer&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEL-auRzZ__omTyvJvHXBiuEqGQgEKhAIACoHCAowzuOICzCZ4ocDMN6YowY?oc=5</id>
+    <title type="html">Drunken beauty therapist, 35, jailed for glassing teacher after 'overly sexual' dance floor moves - Daily Mail</title>
+    <updated>2021-08-27T14:46:00.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9933247/Drunken-beauty-therapist-35-jailed-glassing-teacher-overly-sexual-dance-floor-moves.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9933247/Drunken-beauty-therapist-35-jailed-glassing-teacher-overly-sexual-dance-floor-moves.html" target="_blank"&gt;Drunken beauty therapist, 35, jailed for glassing teacher after 'overly sexual' dance floor moves&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxldHRpbmdhZ2VudHRvZGF5LmNvLnVrL2JyZWFraW5nLW5ld3MvMjAyMC8xMi9sb25kb24tYWdlbmN5LWFjcXVpcmVzLXRoaXJkLWluZGVwZW5kZW50LWluLXVuZGVyLTEyLW1vbnRoc9IBAA?oc=5</id>
-    <title type="html">London agency acquires third independent in under 12 ... - Letting Agent Today</title>
-    <updated>2020-12-03T00:10:13.000000000Z</updated>
-    <link href="https://www.lettingagenttoday.co.uk/breaking-news/2020/12/london-agency-acquires-third-independent-in-under-12-months" type="text/html"/>
-    <content type="html">&lt;a href="https://www.lettingagenttoday.co.uk/breaking-news/2020/12/london-agency-acquires-third-independent-in-under-12-months" target="_blank"&gt;London agency acquires third independent in under 12 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Letting Agent Today&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvY2hlZWt5LWJhbGhhbS1mbHktdGlwcGVycy1zdHJpa2UtYWdhaW4tYnV0LXJlc2lkZW50cy13aWxsLW5vdC1maW5kLXJvdHRpbmctZm9vZC1hbmQtcnViYmlzaC1mdW5ueS_SAQA?oc=5</id>
+    <title type="html">Cheeky Balham fly-tippers strike again – but residents will not find rotting food and rubbish funny - London News Online</title>
+    <updated>2021-08-27T12:26:42.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/cheeky-balham-fly-tippers-strike-again-but-residents-will-not-find-rotting-food-and-rubbish-funny/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/cheeky-balham-fly-tippers-strike-again-but-residents-will-not-find-rotting-food-and-rubbish-funny/" target="_blank"&gt;Cheeky Balham fly-tippers strike again – but residents will not find rotting food and rubbish funny&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMikQFodHRwczovL3d3dy5iZWRmb3JkdG9kYXkuY28udWsvbGlmZXN0eWxlL2NocmlzdG1hcy9iZWRmb3JkLXNpc3RlcnMtd2hvLWNyZWF0ZWQtYnVzaW5lc3MtZHVyaW5nLWZpcnN0LWxvY2tkb3duLWxhdW5jaC1mZXN0aXZlLWNhbmRsZS1yYW5nZS0zMDU0MDA20gGVAWh0dHBzOi8vd3d3LmJlZGZvcmR0b2RheS5jby51ay9saWZlc3R5bGUvY2hyaXN0bWFzL2JlZGZvcmQtc2lzdGVycy13aG8tY3JlYXRlZC1idXNpbmVzcy1kdXJpbmctZmlyc3QtbG9ja2Rvd24tbGF1bmNoLWZlc3RpdmUtY2FuZGxlLXJhbmdlLTMwNTQwMDY_YW1w?oc=5</id>
-    <title type="html">Bedford sisters who created business during first lockdown launch festive candle range - Bedford Today</title>
-    <updated>2020-12-01T16:02:00.000000000Z</updated>
-    <link href="https://www.bedfordtoday.co.uk/lifestyle/christmas/bedford-sisters-who-created-business-during-first-lockdown-launch-festive-candle-range-3054006" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bedfordtoday.co.uk/lifestyle/christmas/bedford-sisters-who-created-business-during-first-lockdown-launch-festive-candle-range-3054006" target="_blank"&gt;Bedford sisters who created business during first lockdown launch festive candle range&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bedford Today&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiggFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvbm9uLWxlYWd1ZS1yb3VuZC11cC1icm9tbGV5cy1iZWxhdGVkLW5hdGlvbmFsLWxlYWd1ZS1raWNrLW9mZi1hcy10ZXJyb3JzLXN1ZmZlci1vcGVuaW5nLWRheS1kZWZlYXQv0gEA?oc=5</id>
+    <title type="html">Non-league round-up: Bromley's belated National League kick off as Terrors suffer opening day defeat - London News Online</title>
+    <updated>2021-08-27T08:30:18.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/non-league-round-up-bromleys-belated-national-league-kick-off-as-terrors-suffer-opening-day-defeat/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/non-league-round-up-bromleys-belated-national-league-kick-off-as-terrors-suffer-opening-day-defeat/" target="_blank"&gt;Non-league round-up: Bromley's belated National League kick off as Terrors suffer opening day defeat&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Girl In The Garden #2</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50622451452/"/>
-    <id>tag:flickr.com,2005:/photo/50622451452</id>
-    <published>2020-11-19T22:55:25Z</published>
-    <updated>2020-11-19T22:55:25Z</updated>
-    <flickr:date_taken>2020-07-31T00:38:12-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-07-31T00:38:12-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/31514768@N05/51388798886/"/>
+    <id>tag:flickr.com,2005:/photo/51388798886</id>
+    <published>2021-08-19T19:14:16Z</published>
+    <updated>2021-08-19T19:14:16Z</updated>
+    <flickr:date_taken>2021-08-08T11:15:15-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-08T11:15:15-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/31514768@N05/"&gt;pondhopper1&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50622451452/" title="Girl In The Garden #2"&gt;&lt;img src="https://live.staticflickr.com/65535/50622451452_0d67390320_m.jpg" width="240" height="159" alt="Girl In The Garden #2" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/31514768@N05/51388798886/" title="LBSCR B4 62 MAFEKING passing Balham Intermediate"&gt;&lt;img src="https://live.staticflickr.com/65535/51388798886_e5a0928e2d_m.jpg" width="240" height="150" alt="LBSCR B4 62 MAFEKING passing Balham Intermediate" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-</content>
+&lt;p&gt;Taken from a print in my collection, no further details known.&lt;br /&gt;
+LBSCR B4 class, built by Sharp Stewart entering service August 1901. Became SR B62, later 2062 after the 1923 amalgamation. Withdrawn May 1951 without receiving allocated number 32062.&lt;/p&gt;</content>
     <author>
-      <name>The_Kevster</name>
-      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
-      <flickr:nsid>64151671@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+      <name>pondhopper1</name>
+      <uri>https://www.flickr.com/people/31514768@N05/</uri>
+      <flickr:nsid>31514768@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3271/buddyicons/31514768@N05.jpg?1250273316#31514768@N05</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50622451452_0d67390320_b.jpg"/>
-    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sunshine" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trees" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="seated" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="smile" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="happy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51388798886_e5a0928e2d_b.jpg"/>
+    <category term="lbscr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbrightonandsouthcoastrailway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southernrailway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="relaxation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="440" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="monochrome" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="steam" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Girl in the Garden</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kevinwhitlock/50611812501/"/>
-    <id>tag:flickr.com,2005:/photo/50611812501</id>
-    <published>2020-11-17T01:13:31Z</published>
-    <updated>2020-11-17T01:13:31Z</updated>
-    <flickr:date_taken>2020-07-31T00:43:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-07-31T00:43:39-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kevinwhitlock/"&gt;The_Kevster&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>UK - London - Near Balham - Golden Retriever ?</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380598323/"/>
+    <id>tag:flickr.com,2005:/photo/51380598323</id>
+    <published>2021-08-15T19:50:31Z</published>
+    <updated>2021-08-15T19:50:31Z</updated>
+    <flickr:date_taken>2021-08-15T11:25:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:25:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kevinwhitlock/50611812501/" title="Girl in the Garden"&gt;&lt;img src="https://live.staticflickr.com/65535/50611812501_b09806da52_m.jpg" width="171" height="240" alt="Girl in the Garden" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51380598323/" title="UK - London - Near Balham - Golden Retriever ?"&gt;&lt;img src="https://live.staticflickr.com/65535/51380598323_193b18ac5d_m.jpg" width="240" height="180" alt="UK - London - Near Balham - Golden Retriever ?" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-</content>
+&lt;p&gt;August 2021.&lt;br /&gt;
+Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;/p&gt;</content>
     <author>
-      <name>The_Kevster</name>
-      <uri>https://www.flickr.com/people/kevinwhitlock/</uri>
-      <flickr:nsid>64151671@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3812/buddyicons/64151671@N06.jpg?1383160048#64151671@N06</flickr:buddyicon>
+      <name>JulesFoto</name>
+      <uri>https://www.flickr.com/people/julesfoto/</uri>
+      <flickr:nsid>55578087@N08</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50611812501_b09806da52_b.jpg"/>
-    <category term="girl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="woman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="person" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gaze" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jewellery" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="headscarf" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nigerian" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nikond7000" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dslr" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51380598323_193b18ac5d_b.jpg"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="garden" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="green" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="light" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="closeup" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="quadrafon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="quadrafonmusicindustries" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mercury" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mercuryinretrograde" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sunlight" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="eseokorodudu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="esethevooduupeople" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dog" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Providing Best Curry In Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/190686906@N05/50543320106/"/>
-    <id>tag:flickr.com,2005:/photo/50543320106</id>
-    <published>2020-10-29T07:59:08Z</published>
-    <updated>2020-10-29T07:59:08Z</updated>
-    <flickr:date_taken>2020-10-29T00:58:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-10-29T00:58:10-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/190686906@N05/"&gt;camilablythe822&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>UK - London - Near Balham - Big house</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51381370225/"/>
+    <id>tag:flickr.com,2005:/photo/51381370225</id>
+    <published>2021-08-15T19:50:30Z</published>
+    <updated>2021-08-15T19:50:30Z</updated>
+    <flickr:date_taken>2021-08-15T11:24:50-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:24:50-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/190686906@N05/50543320106/" title="Providing Best Curry In Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/50543320106_99dc9128a8_m.jpg" width="170" height="240" alt="Providing Best Curry In Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51381370225/" title="UK - London - Near Balham - Big house"&gt;&lt;img src="https://live.staticflickr.com/65535/51381370225_716f523459_m.jpg" width="240" height="180" alt="UK - London - Near Balham - Big house" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Our curry is one of the nicest food in Balham. We have such the best Decor. Our service is friendly and helpful. We are providing the best curry in Balham at a reasonable price. &lt;br /&gt;
-&lt;a href="https://www.thaliandpickles.co.uk/" rel="noreferrer nofollow"&gt;www.thaliandpickles.co.uk/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;August 2021.&lt;br /&gt;
+Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;/p&gt;</content>
     <author>
-      <name>camilablythe822</name>
-      <uri>https://www.flickr.com/people/190686906@N05/</uri>
-      <flickr:nsid>190686906@N05</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon06.png#190686906@N05</flickr:buddyicon>
+      <name>JulesFoto</name>
+      <uri>https://www.flickr.com/people/julesfoto/</uri>
+      <flickr:nsid>55578087@N08</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50543320106_99dc9128a8_b.jpg"/>
-    <category term="best" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="curry" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="in" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51381370225_716f523459_b.jpg"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="house" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/28083135@N06/50495804107/"/>
-    <id>tag:flickr.com,2005:/photo/50495804107</id>
-    <published>2020-10-16T21:52:41Z</published>
-    <updated>2020-10-16T21:52:41Z</updated>
-    <flickr:date_taken>1976-12-20T12:26:07-08:00</flickr:date_taken>
-    <dc:date.Taken>1976-12-20T12:26:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/28083135@N06/"&gt;Lost-Albion&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>UK - London - Balham - Du Cane Court</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51379581617/"/>
+    <id>tag:flickr.com,2005:/photo/51379581617</id>
+    <published>2021-08-15T19:46:54Z</published>
+    <updated>2021-08-15T19:46:54Z</updated>
+    <flickr:date_taken>2021-08-15T11:19:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:19:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/28083135@N06/50495804107/" title="Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/50495804107_dc030f0ab1_m.jpg" width="240" height="105" alt="Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51379581617/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51379581617_50563b9189_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;4-SUB 4706 at Balham, working between Victoria and Epsom Downs on 20 December 1976.&lt;br /&gt;
-&lt;br /&gt;
-Pentax SP1000/55mm&lt;br /&gt;
-Ilford FP4&lt;/p&gt;</content>
+&lt;p&gt;August 2021.&lt;br /&gt;
+Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
+Du Cane Court is an Art Deco apartment block. It is possibly the largest privately owned block of flats under one roof in Europe. It has been used as a location for the TV series Poirot.&lt;/p&gt;</content>
     <author>
-      <name>Lost-Albion</name>
-      <uri>https://www.flickr.com/people/28083135@N06/</uri>
-      <flickr:nsid>28083135@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1845/buddyicons/28083135@N06.jpg?1537728162#28083135@N06</flickr:buddyicon>
+      <name>JulesFoto</name>
+      <uri>https://www.flickr.com/people/julesfoto/</uri>
+      <flickr:nsid>55578087@N08</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50495804107_dc030f0ab1_b.jpg"/>
-    <category term="4sub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class405" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51379581617_50563b9189_b.jpg"/>
+    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pentax" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1976" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="apartmentblock" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <title>2020 in Gigs</title>
+    <link rel="alternate" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>At about this time of the year, I usually write an overview of the gigs I’ve seen in the year. The post always starts with me saying how many gigs I’ve seen during the year. This is the tenth year I’ve been writing these posts and in that time I’ve seen between 35 (<a href="https://blog.dave.org.uk/2018/12/2018-in-gigs.html">2018</a>) and 60 (<a href="https://blog.dave.org.uk/2013/12/2013-gigs.html">2013</a>) gigs in a year.</p>
+<p>This year, I’ve seen four gigs.</p>
+<p>I’m going to add in a strange gig-cum-lecture that I saw a couple of weeks ago in order to list the top five gigs I saw this year. Here they are in chronological order.</p>
+<ul>
+<li><strong><a href="https://www.songkick.com/concerts/39231390-john-grant-at-roundhouse">John Grant at the Roundhouse</a></strong><br/>
+This is the second time I’ve seen John Grant live. The first time (at the Hammersmith Apollo a few years ago) he had a full band with him, but this time it was just him and a pianist. It was a great start to my gig-going year. I also had a ticket to see him at Alexandra Palace later in the year, but that show has already been postponed twice.</li>
+<li><strong><a href="https://www.songkick.com/concerts/39134185-hate-moss-at-old-blue-last">Hate Moss at the Old Blue Last</a></strong><br/>
+I don’t go to the Old Blue Last enough. It’s a tiny room above a pub in Shoreditch and every time I go there I have a really good time. This time I was drawn there because one of the support acts (<a href="https://m-orchestra.com/">M-orchestra</a>) is an old colleague from the BBC who had just started gigging again after a long hiatus. He was great (check out his streams on Facebook) and the fact that the other two acts on the bill were also very good was a bonus.</li>
+<li><strong><a href="https://www.songkick.com/concerts/38135579-ladytron-at-heaven">Ladytron at Heaven</a></strong><br/>
+Another show I went to because of the support act. I try to see <a href="https://stealingsheep.net/">Stealing Sheep</a> whenever I can so I bought a ticket for this just knowing they were on the bill. If you know anything about my musical taste then you’ll probably be surprised that I had never listened to Ladytron before buying the ticket. I investigated them before the gig and found an amazing band who I’ve been listening to a lot ever since. That’s Ladytron in the photo at the top of the page.</li>
+<li><strong><a href="https://www.songkick.com/concerts/39140946-tove-lo-at-o2-forum-kentish-town">Tove Lo at the Forum</a></strong><br/>
+I saw Tove Lo at <a href="https://mightyhoopla.com/">Mighty Hoopla</a> in Brockwell Park in 2019. I’m not much of a festival fan but I enjoyed her and added her to my list of people to see indoors as soon as possible. This was that show and it was pretty enjoyable stuff, but subsequent events mean it has taken on rather more importance than it might otherwise have enjoyed.</li>
+</ul>
+<p>I saw Tove Lo on March 12. Eleven days later, Boris Johnson put us in lockdown and my inbox turned into a sea of cancellations and postponements. I had a full schedule of upcoming gigs booked, but they’ve all been either cancelled or postponed until next year (or, in a couple of cases, 2022). I watched a couple of streamed gigs, but it’s really not the same at all. I have, however, sneaked in one more kind of gig in between London lockdowns.</p>
+<ul>
+<li><strong><a href="https://www.barbican.org.uk/whats-on/2020/event/the-cosmos-with-professor-brian-cox-live-from-the-barbican">Brian Cox and the BBC Symphony Orchestra at the Barbican</a></strong><br/>
+I don’t usually include classical shows in these lists. To be honest, I don’t go to a lot of classical concerts as it’s mostly not my thing at all. But this was a bit different. Brian Cox gave some brief “mini-lectures” between classical pieces that had been chosen to tie in with the questions that he raised. It was a strange show. Probably about a quarter of the seats at the Barbican were used (they sold online tickets too), walking around the venue was very tightly controlled and there was no interval. They even expanded the stage into the stalls in order for the orchestra to be socially distanced. The <a href="https://www.bbc.co.uk/programmes/m000qkl5">concert is available on the BBC web site</a> for a few weeks if you’d like to hear it.</li>
+</ul>
+<p>So what does 2021 hold? Well, it’s hard to be sure. I’ve got a fistful of tickets for shows that were postponed from 2020 but, at this point, I wouldn’t like to guess which ones I’ll actually get to see.</p>
+<p>What about you? What did you get to see before the venues all closed down? What are your predictions for how things will go next year?</p>
+<p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html">2020 in Gigs</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
+</div>
+    </content>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>At about this time of the year, I usually write an overview of the gigs I’ve seen in the year. The post always starts with me saying how many gigs I’ve seen during the year. This is the tenth year I’ve been writing these posts and in that time I’ve seen between 35 (2018) and… <a class="more-link" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html">Continue reading <span class="screen-reader-text">2020 in Gigs</span></a></p>
+<p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html">2020 in Gigs</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
+</div>
+    </summary>
+    <author>
+      <name>Dave Cross</name>
+    </author>
+    <id>https://blog.dave.org.uk/?p=3794</id>
+    <published>2020-12-29T16:41:52Z</published>
+    <updated>2020-12-29T16:41:52Z</updated>
+    <category term="music"/>
+    <category term="2020"/>
+    <category term="gigs"/>
+    <category term="review"/>
+    <category term="year in gigs"/>
+  </entry>
   <entry>
     <title>Consuming Culture: 16-31 Jan 2020</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/02/consuming-culture-16-31-jan-2020.html" type="text/html"/>
@@ -284,7 +300,7 @@ Ilford FP4&lt;/p&gt;</content>
 </div>
     </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>Here are brief descriptions of the various cultural things I did in the second half of January 2020. Food: 12:51 (Islington, 2020-01-18) Our second visit to 12:51, but the first time we tried the tasting menu. It’s a bit pricy (£75 a head, I think) but it’s well worth it. The food was wonderful. And […]</p>
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Here are brief descriptions of the various cultural things I did in the second half of January 2020. Food: 12:51 (Islington, 2020-01-18) Our second visit to 12:51, but the first time we tried the tasting menu. It’s a bit pricy (£75 a head, I think) but it’s well worth it. The food was wonderful. And… <a class="more-link" href="https://blog.dave.org.uk/2020/02/consuming-culture-16-31-jan-2020.html">Continue reading <span class="screen-reader-text">Consuming Culture: 16-31 Jan 2020</span></a></p>
 <p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2020/02/consuming-culture-16-31-jan-2020.html">Consuming Culture: 16-31 Jan 2020</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
 </div>
     </summary>
@@ -335,7 +351,7 @@ Ilford FP4&lt;/p&gt;</content>
 </div>
     </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>I want to do more blogging this year. So one thing I’m going to do is to write about the cultural experiences that I have. My plan is to write short reviews of any films, plays, exhibitions and lectures that I go to. To start us off, here’s what I did in the first half […]</p>
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>I want to do more blogging this year. So one thing I’m going to do is to write about the cultural experiences that I have. My plan is to write short reviews of any films, plays, exhibitions and lectures that I go to. To start us off, here’s what I did in the first half… <a class="more-link" href="https://blog.dave.org.uk/2020/01/consuming-culture-1-15-jan-2020.html">Continue reading <span class="screen-reader-text">Consuming Culture: 1-15 Jan 2020</span></a></p>
 <p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2020/01/consuming-culture-1-15-jan-2020.html">Consuming Culture: 1-15 Jan 2020</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
 </div>
     </summary>
@@ -387,7 +403,7 @@ Ilford FP4&lt;/p&gt;</content>
 </div>
     </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>It’s time that I wrote my now-traditional review of the gigs I saw last year. It felt like I didn’t see so many gigs this year, but Songkick tells me I saw 43 which was more than the previous year (but still some considerable way short of the 60 I saw in 2013). I’ll get […]</p>
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>It’s time that I wrote my now-traditional review of the gigs I saw last year. It felt like I didn’t see so many gigs this year, but Songkick tells me I saw 43 which was more than the previous year (but still some considerable way short of the 60 I saw in 2013). I’ll get… <a class="more-link" href="https://blog.dave.org.uk/2020/01/2019-in-gigs.html">Continue reading <span class="screen-reader-text">2019 in Gigs</span></a></p>
 <p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2020/01/2019-in-gigs.html">2019 in Gigs</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
 </div>
     </summary>
@@ -419,7 +435,7 @@ Ilford FP4&lt;/p&gt;</content>
 </div>
     </content>
     <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>I’ve been working in this industry for a long time – over thirty years. For most of that time, I’ve been working as a freelancer, but it’s always been working for someone else. When I set up Magnum Solutions (my freelancing company) in 1995 I always had a vague desire to grow it into a […]</p>
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>I’ve been working in this industry for a long time – over thirty years. For most of that time, I’ve been working as a freelancer, but it’s always been working for someone else. When I set up Magnum Solutions (my freelancing company) in 1995 I always had a vague desire to grow it into a… <a class="more-link" href="https://blog.dave.org.uk/2019/12/2020-vision.html">Continue reading <span class="screen-reader-text">2020 Vision</span></a></p>
 <p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2019/12/2020-vision.html">2020 Vision</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
 </div>
     </summary>
@@ -433,197 +449,6 @@ Ilford FP4&lt;/p&gt;</content>
     <category term="2020vision"/>
     <category term="plans"/>
     <category term="tech"/>
-  </entry>
-  <entry>
-    <title>2018 in Gigs</title>
-    <link rel="alternate" href="https://blog.dave.org.uk/2018/12/2018-in-gigs.html" type="text/html"/>
-    <content type="html">&lt;p&gt;It&amp;#8217;s the last day of 2018, and I know I&amp;#8217;m not going to a gig tonight, so that sounds like a very good time for my annual review of the gigs I&amp;#8217;ve seen this year.&lt;/p&gt;
-&lt;p&gt;Songkick tells me that I saw 35 gigs in 2018. That&amp;#8217;s the lowest number since I&amp;#8217;ve been counting them. It&amp;#8217;s even one fewer than 2012 when I had the excuse of having my leg in plaster for six months. I&amp;#8217;m not sure why the number is so low. Perhaps I&amp;#8217;m getting pickier about what I see.&lt;/p&gt;
-&lt;p&gt;Let&amp;#8217;s start by talking about a few of the disappointments. I don&amp;#8217;t know what I was expecting when I booked to see Kristin Hersh, but she didn&amp;#8217;t deliver and I left just after she sang &amp;#8220;Your Ghost&amp;#8221;. I was similarly disappointed by The Primitives &amp;#8211; I left after a few songs and didn&amp;#8217;t even wait to hear &amp;#8220;Crash&amp;#8221;. But easily the worst show I saw this year was Tiffany. Yes, I know. I admit it was a bit of a gamble. But when I wondered aloud on Twitter about seeing the show, Tiffany replied, so I felt it was rude not to go. I lasted three songs before leaving.&lt;/p&gt;
-&lt;p&gt;On the other hand, here (in chronological order) are my ten favourite gigs of the year.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Superorganism at Oval Space. If there&amp;#8217;s any justice in the world, this will be one of those gigs that people claim to have been at. But only a few hundred of us were. If you haven&amp;#8217;t heard Superorganism&amp;#8217;s album, then I suggest you give it a listen. And then try to see them live as soon as you can.&lt;/li&gt;
-&lt;li&gt;Lily Allen at the Dome. I&amp;#8217;ve seen Lily Allen at the Brixton Academy before and she was pretty good. But I wasn&amp;#8217;t going to miss the chance to see her in a small venue like this. It didn&amp;#8217;t matter that most of the set was made up of her new album &amp;#8211; she was great.&lt;/li&gt;
-&lt;li&gt;Arcade Fire at Wembley Arena. Not many bands can persuade me to visit the soulless box that is Wembley Arena. But I&amp;#8217;m glad I made an exception for Arcade Fire. They were (as always) sensational.&lt;/li&gt;
-&lt;li&gt;Florence + the Machine at the Royal Festival Hall. I&amp;#8217;m not a huge Florence fan but when she announced this sudden gig at the South Bank, I jumped at the chance to see her again. Through the magic of my South Bank membership, I got a front-row seat and loved every minute of the show.&lt;/li&gt;
-&lt;li&gt;Pale Waves at Heaven. I saw Pale Waves twice this year, but I think the smaller show at Heaven just trumped the bigger show I saw later in the year at the Shepherd&amp;#8217;s Bush Empire. I&amp;#8217;m looking forward to seeing them again soon.&lt;/li&gt;
-&lt;li&gt;David Byrne at the Hammersmith Odeon. It&amp;#8217;s one of my great disappointments that I never saw Talking Heads live. This was my second time seeing David Byrne (the first time, he was playing with St Vincent) and this show was absolutely amazing. He did it again later in the year at the O2 Arena, so I&amp;#8217;m glad I saw it in a smaller venue.&lt;/li&gt;
-&lt;li&gt;The Cure at the Royal Festival Hall. This wasn&amp;#8217;t billed as the Cure (for contractual reasons, I think) but everyone knew that&amp;#8217;s what Robert Smith was planning. This was an incredible, chronological journey through the band&amp;#8217;s music.&lt;/li&gt;
-&lt;li&gt;Amanda Palmer at the Queen&amp;#8217;s Hall. It&amp;#8217;s been a couple of years since Amanda Palmer made this list and it&amp;#8217;s great to report she&amp;#8217;s back on top form. These shows at the Edinburgh Festival were a prototype for a tour she&amp;#8217;s planning to take around the world over the next two years. I suggest you try really hard not to miss it. (I&amp;#8217;ve just remembered that I saw her earlier in the year too &amp;#8211; but that show is not on Songkick as it was a private event for her Patreon supporters. That was awesome too.)&lt;/li&gt;
-&lt;li&gt;Soft Cell at the O2 Arena. I never saw Soft Cell when they were first around and I walked out of a Marc Almond show a couple of years ago. But there was no chance I&amp;#8217;d miss this. Even the O2 couldn&amp;#8217;t suck the life out of a Soft Cell show.&lt;/li&gt;
-&lt;li&gt;All Saints at the Hammersmith Odeon. A little bit of cheese to end the year. All Saints were a bit of a guilty pleasure twenty years ago and they&amp;#8217;re still a lot of fun these days.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Although I saw fewer shows this year, they must have been of higher quality than usual. I can&amp;#8217;t believe that Sunflower Bean (who I saw twice), the Art of Noise, Belle and Sebastian or Heaven 17 didn&amp;#8217;t make the top ten. Even Yes were far better than I&amp;#8217;ve ever seen them before.&lt;/p&gt;
-&lt;p&gt;So that was 2018. I already have some interesting things lined up for 2019 &amp;#8211; a Tears For Fears show that was postponed from this year, Chvrches (for what seems the first time for far too long), ABC and Nick Mason playing some old Pink Floyd numbers are among the tickets I&amp;#8217;ve already bought. I also have ticket to see the Buzzcocks for the first time, but I&amp;#8217;m not sure if that will still go ahead following the death of Pete Shelley.&lt;/p&gt;
-&lt;p&gt;What about you? What did you enjoy seeing live this year?&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://blog.dave.org.uk/2018/12/2018-in-gigs.html"&gt;2018 in Gigs&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://blog.dave.org.uk"&gt;Davblog&lt;/a&gt;.&lt;/p&gt;
-</content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>It’s the last day of 2018, and I know I’m not going to a gig tonight, so that sounds like a very good time for my annual review of the gigs I’ve seen this year. Songkick tells me that I saw 35 gigs in 2018. That’s the lowest number since I’ve been counting them. It’s […]</p>
-<p>The post <a rel="nofollow" href="https://blog.dave.org.uk/2018/12/2018-in-gigs.html">2018 in Gigs</a> appeared first on <a rel="nofollow" href="https://blog.dave.org.uk">Davblog</a>.</p>
-</div>
-    </summary>
-    <author>
-      <name>Dave Cross</name>
-    </author>
-    <id>https://blog.dave.org.uk/?p=3710</id>
-    <published>2018-12-31T17:37:19Z</published>
-    <updated>2018-12-31T17:37:19Z</updated>
-    <category term="music"/>
-    <category term="2018"/>
-    <category term="gigs"/>
-    <category term="review"/>
-    <category term="year in gigs"/>
-  </entry>
-  <entry>
-    <title>Lent – why I’m never gonna give you up</title>
-    <link rel="alternate" href="https://theurbanpastor.wordpress.com/2017/03/05/lent-why-im-never-gonna-give-you-up/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p>It’s <a href="https://twitter.com/ChrchCurmudgeon/status/837016471863635969/photo/1">Lent</a>. Started last Wednesday. The Prime Minister, Theresa May, is providing a strong lead and giving up crisps. Salt and vinegar being her weakness. So, I’m guessing the thought of giving something up for the next forty days has crossed your mind. Because that’s what Lent’s about, right? Honestly, I have very little idea what Lent is about. I’ve never been very good at paying attention to things that hold no interest for me. Don’t get me wrong, I’m really interested in Jesus’ death and his resurrection. But no so much the religiously inserted rigmarole that so often accompanies it in church tradition. After all, the Bible doesn’t talk about Lent. And so, it can’t be that important. It’s certainly not crucial to our Christian life. It might be useful but it’s not essential. We don’t have to observe it. A younger version of me would have railed against the imposition of any perceived religious ritual and flaunted my freedom in the gospel to ignore something I assumed was the re-imposition of Roman Catholicism. Aren’t you glad you didn’t know me at university?! There are valuable things that are part and parcel of Lent; meditation – by which I mean the prayerful consideration of the scriptures, perhaps especially focussing on the death of Christ and fasting. Fasting has value. But neither of those things need to be limited to this time of year. And neither of them is compulsory. So let’s keep this thing in perspective.</p>
-<p>The single most important thing about Lent is freedom. You’re free to observe it if you want. And you’re free not to. It’s your call. But you don’t have to. Whether it’s a good thing for us to observe will likely be determined by what’s going on in our hearts. If you do please don’t look down on those of us that decide not to join you. Don’t judge us or condemn us. Don’t think you’re better or superior than us and that somehow you’ve attained a higher spiritual state. You haven’t. And be careful not to use your freedom to give it a go to lead a weaker brother into sin and cause them stumble. There may be some among us who’ve been saved from a Roman Catholic background who are constantly tempted back to putting our confidence in our fleshly observance of the religious traditions from which Christ came to set us free. Having you press that onto our conscience won’t help us to trust Christ alone for our salvation. Of course, if you don’t observe any Lenten habits then please don’t assume that those of us who do have turned Catholic. We probably haven’t. We probably just recognise the value of some of these things for our own Christians lives and that this time of year has provided the much-needed stimulus to arouse us from our spiritual lethargy and actually employ God’s means of grace. Obviously, I think there’s some value in observing Lent. But I’m not planning to. I’m just going to keep ploughing on with the same old, same old. Not because I can’t be improved upon. I can. And I probably should. But I don’t have to. So, I’m not going to. Not this time, it’s crept up on me unawares and I haven’t really prepared anything for it. But that’s OK because Christ’s death is all about forgiveness.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It’s Lent. Started last Wednesday. The Prime Minister, Theresa May, is providing a strong lead and giving up crisps. Salt and vinegar being her weakness. So, I’m guessing the thought of giving something up for the next forty days has…  <p class="more-link"><a href="https://theurbanpastor.wordpress.com/2017/03/05/lent-why-im-never-gonna-give-you-up/">Continue reading <span class="meta-nav">→</span></a></p></div>
-    </summary>
-    <author>
-      <name>theurbanpastor</name>
-    </author>
-    <id>http://theurbanpastor.wordpress.com/?p=3521</id>
-    <published>2017-03-05T20:12:53Z</published>
-    <updated>2017-03-05T20:12:53Z</updated>
-    <category term="Uncategorized"/>
-  </entry>
-  <entry>
-    <title>Runs on the Board</title>
-    <link rel="alternate" href="https://theurbanpastor.wordpress.com/2017/01/20/runs-on-the-board/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img data-attachment-id="3481" data-permalink="https://theurbanpastor.wordpress.com/2017/01/20/runs-on-the-board/athers/" data-orig-file="https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg" data-orig-size="864,864" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="athers" data-image-description="" data-medium-file="https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=300" data-large-file="https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=636" class="aligncenter size-full wp-image-3481" src="https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=636" alt="athers" srcset="https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=636 636w, https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=150 150w, https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=300 300w, https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg?w=768 768w, https://theurbanpastor.files.wordpress.com/2017/01/athers.jpg 864w" sizes="(max-width: 636px) 100vw, 636px"/>Writing in Thursday’s Times (19<sup>th</sup> January 2017), Mike Atherton (above), their cricket correspondent and ex-England Captain wrote a piece about leadership. It’s worth a read if you can get behind their pay wall. Apparently the English Cricket Board (ECB) has enlisted the help of an ex-Army Officer now Management Consultant, Gemma Morgan to help them develop new leaders.</p>
-<p>In doing so, they assess potential leadership candidates in four areas;</p>
-<ol>
-<li>their impact within a group,</li>
-<li>their ability to make things happen,</li>
-<li>their interpersonal skills and</li>
-<li>their thinking skills.</li>
-</ol>
-<p>That’s not surprising. It’s what you might expect. But what’s striking in the article is her insistence on character being key. The overriding message at the Royal Military Academy, Sandhurst is that leadership is service. Their motto ‘serve to lead’ is everywhere. Now that’s remarkable. It’s almost the polar opposite of how things ordinarily work in the world of sport. Normally captaincy is about having ‘runs on the board’. As  Morgan, an ex-international lacrosse player, observes,</p>
-<blockquote><p>‘Coming from the sports field initially this turned leadership on its head for me, because until then I understood leadership as hero-based: am I the best player, the leading goal scorer, the go-to player that kind of thing’.</p></blockquote>
-<p>Many of us in church planting and  pastoring resonate with that kind of thinking. But our competencies have to do with preaching, evangelistic effectiveness, theological knowledge and strategic thinking and so on. But, she goes on,</p>
-<blockquote><p>‘At Sandhurst I came to understand that it was not about me but about duty and service to others. It opened my eyes. Before they teach you any technical stuff, they underpin everything with values that are uncompromising. Integrity, for example, if you breach integrity you’re gone and you won’t be invited back. Once you’ve got these anchors in place, they add on the technical bits. In sport and business it is the other way around. In the army, they will not take a risk on character’.</p></blockquote>
-<p>In recent months, the England One Day Captain Eoin Morgan decided not to tour Bangladesh citing security risks as his issue. He copped a fair amount of flak for that. This was interpreted as a leader choosing to abandon his men when faced with hardship. It looked self-interested. It may not have been if he was making that decision in such a way that it gave implicit permission for others to follow suit. Interestingly Alex Hales decided not to tour as well. When pushed for her verdict on this decision Gemma Morgan would not be drawn because she simply didn’t know the rationale and motive behind Eoin Morgan’s decision. But she did say this, ‘You have to lead by example and my experience is that people will follow if you think you have their best interests at heart’.</p>
-<p>It turns out that leadership is not so much about having ‘runs on the board’. And England’s own history bears that out because one of the most respected and most successful Captains was a man who arguably wasn’t good enough to get in the 2<sup>nd</sup> XI. He was the man who got the best out of Bob Willis and Ian Botham in the 1981 Ashes series. His name is Mike Brierley and he’s written a book called ‘The Art of Captaincy’. It’s on my Amazon wish list!</p>
-<p>For those of us who suffer under the delusion that we might still be the hero every church needs, Morgan did close with this encouragement,</p>
-<blockquote><p>‘There is a time for autocratic and direct leadership but to get people to follow unquestioningly you have to have invested a lot of time in the relationships. If you’re selfish you will get found out. If you get a combination of a brilliant player, a charismatic leader, and someone with the interests of others at heart? Then, great. But they don’t come along very often’.</p></blockquote>
-<p>The odds are that most ofus are not in that category. And neither are our leaders. And so character really matters. And self sacrificial service is paramount. Who’d have thought it?!</p>
-<p>In Mark’s Gospel Chapter 10 verse 45, we read this, ‘the Son of Man came not to be served but to serve and to give his life as a ransom for many’. That’s leadership. And it’s runs on the board. Just in a different kind of a way.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Writing in Thursday’s Times (19th January 2017), Mike Atherton (above), their cricket correspondent and ex-England Captain wrote a piece about leadership. It’s worth a read if you can get behind their pay wall. Apparently the English Cricket Board (ECB) has…  <p class="more-link"><a href="https://theurbanpastor.wordpress.com/2017/01/20/runs-on-the-board/">Continue reading <span class="meta-nav">→</span></a></p></div>
-    </summary>
-    <author>
-      <name>theurbanpastor</name>
-    </author>
-    <id>http://theurbanpastor.wordpress.com/?p=3477</id>
-    <published>2017-01-20T12:04:48Z</published>
-    <updated>2017-01-20T12:04:48Z</updated>
-    <category term="Antioch Plan"/>
-    <category term="Christian Life"/>
-    <category term="Church Life"/>
-    <category term="Church Planting"/>
-    <category term="leadership"/>
-    <category term="Training"/>
-    <category term="religion"/>
-  </entry>
-  <entry>
-    <title>Three Benefits of our Co-Mission Network</title>
-    <link rel="alternate" href="https://theurbanpastor.wordpress.com/2017/01/12/three-benefits-of-our-co-mission-network/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img data-attachment-id="3446" data-permalink="https://theurbanpastor.wordpress.com/2017/01/12/three-benefits-of-our-co-mission-network/ccm/" data-orig-file="https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg" data-orig-size="933,367" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ccm" data-image-description="" data-medium-file="https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=300" data-large-file="https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=636" class=" size-full wp-image-3446 aligncenter" src="https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=636" alt="ccm" srcset="https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=636 636w, https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=150 150w, https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=300 300w, https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg?w=768 768w, https://theurbanpastor.files.wordpress.com/2017/01/ccm.jpg 933w" sizes="(max-width: 636px) 100vw, 636px"/>I was at <a href="http://www.christchurchmayfair.org/">Christ Church Mayfair</a> on Sunday morning for <a href="https://co-mission.org/">Co-Mission</a> Sunday (that’s not yet a regular feature in the Church of England’s liturgical calendar, but give it time). Before he got me up to preach, Matt Fuller got me up to be interviewed. I hate thinking on my feet almost as much as I hate realising afterwards what I should have said. And so Matt warned me what he was going to ask, which gave me a few moments to formulate a useful answer. He asked me what the benefits of belonging to a network of churches were.</p>
-<p>That’s a bit like asking what are the benefits of belonging to a family. It all depends on your experience of family. And for the record (in case my Mother ever reads this) my experience of my actual family has been uniformly wonderful. And in case the Director of Co-Mission ever reads this, my experience of my metaphorical family has been similarly positive.</p>
-<p>But I think the family metaphor works. I like it that we’re (<a href="http://www.christchurchbalham.org.uk/">CCB</a>) a part of a family of churches; a network of like-minded congregations trying to help one another do the same thing. For my money there are three obvious benefits that we’ve experienced in the last 14 years.</p>
-<p><strong>1. Co-Mission has provided us with a network of relationships</strong>. In my wider family I have aunts and uncles, brothers and sisters, nephews and nieces and so on. It’s good for me to have so many different people in my life like that. It’s relationally rich.  But there are a lot of lonely Ministers out there and a lot of isolated churches. But that’s never been true of me or CCB. We’ve always belonged, partly because we were the first plant from Dundonald in 2002 and they looked after us. But that’s what happens in families. Those of us on the staff and the ministry trainees experience the relational aspect perhaps more than most because we’re involved in training together with others in Co-Mission. Those relationships are so helpful in terms of personal support, ministry encouragement and godly challenge. And the elders of our churches are part of the Co-Mission Partnership and we meet together several times throughout the year as we reflect on and prepare for our joint ministry activity. And wonderfully because of things like <a href="https://co-mission.org/events/revive/">Revive</a>, or the forthcoming <a href="https://co-mission.org/events/co-mission-womens-day/">Co-Mission Women’s Day</a> or Children’s Ministry training there are ample opportunities for congregational members to support one another in other churches. It’s been our great privilege to receive people over the years from other Co-Mission congregations who know what they’re going to get with us and want to remain part of the Co-Mission family. And we’ve been able to send people off to other Co-Mission churches to serve there. And the odds are that they already know people when they get there. It’s so encouraging to be part of a family of churches.</p>
-<p><strong>2. Co-Mission has provided us with a wealth of resources</strong>. When we were planted we were like the typical teenage kid going off to university or married couple starting out together. We were sent with our hands full of everything that we might need for those early days. We had people, we had finance and we had training and support. There’s no way that we could have got going on our own. It just wouldn’t have happened because we didn’t have what we needed on our own. But wonderfully we didn’t need to have it all because others in the wider Co-Mission family (not that it was called that then because it didn’t formally come into existence till 2005) wanted to be generous and share their resources to help get us off the ground. We continue to share the resources God has entrusted to us. New church plants benefit from people sent from other churches. Money moves from one church account into another in order to finance a worker or two in an economically deprived area. And we share training because there’s diversity of gospel ministers in Co-Mission; men and women with different expertise and experience. And at things like the Ministry Training Workshop everyone benefits. We’ve tried to be intentional about resource rich congregations supporting resource poor congregations, especially in the early days of planting and especially if (humanly speaking) there’s likelihood of some of those ministries ever being self-sufficient. That tends to happen through local geographical clusters. And it’s a good thing to be generous and sacrificial as we steward the resources that God has entrusted to us.</p>
-<p><strong>3. Co-Mission has provided us with a reminder of our responsibilities</strong>. The issues of training people for ministry, reaching the lost with the gospel and planting churches are rarely off the agenda in this family of churches. It’s really helpful to be reminded of our responsibilities as churches. When teenagers grow up they have to accept that with great privilege comes great responsibility. I’m not sure we would have planted <a href="http://streathamcentralchurch.org.uk/">Streatham Central</a>, contemplated training up Jay as a church planter and encouraged <a href="http://www.bloc.london/">BLoC</a> to hibernate with us without being part of a family that regularly reminded one another that we’re trying to reach London for Christ through pioneering church planting. There’s a great danger in our personal lives to strive for, succeed and then settle for comfort. And that’s no different in our churches. But being part of a church family where we’re often talking about planting, about places without a gospel witness and about areas of London that aren’t being reached means that there’s a godly dissatisfaction that drives us on. We’re not happy to settle for comfort because even if we’re going well in our patch, 90% of London doesn’t believe the gospel. That’s a lot of people. And so, even if any of us runs a numerically successful ministry, we’re barely scratching the surface in this great city. Theer’s work to be done. And we have responsibilities. I love being part of a network that keeps reminding us of that.</p>
-<p>Co-Mission isn’t the best family. I’m not saying that. But it’s ours. And I’m really grateful for it. It’s helped us be church. And it’s helped me serve church. There are real benefits to our network. And I praise God for it.</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I was at Christ Church Mayfair on Sunday morning for Co-Mission Sunday (that’s not yet a regular feature in the Church of England’s liturgical calendar, but give it time). Before he got me up to preach, Matt Fuller got me…  <p class="more-link"><a href="https://theurbanpastor.wordpress.com/2017/01/12/three-benefits-of-our-co-mission-network/">Continue reading <span class="meta-nav">→</span></a></p></div>
-    </summary>
-    <author>
-      <name>theurbanpastor</name>
-    </author>
-    <id>http://theurbanpastor.wordpress.com/?p=3435</id>
-    <published>2017-01-12T17:42:03Z</published>
-    <updated>2017-01-12T17:42:03Z</updated>
-    <category term="Christian Life"/>
-    <category term="Church Life"/>
-    <category term="Church Meetings"/>
-    <category term="Church Planting"/>
-    <category term="Co Mission"/>
-    <category term="Uncategorized"/>
-    <category term="CCB"/>
-    <category term="Co-Mission"/>
-  </entry>
-  <entry>
-    <title>Unsung Heroes</title>
-    <link rel="alternate" href="https://theurbanpastor.wordpress.com/2017/01/10/unsung-heroes/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img data-attachment-id="3417" data-permalink="https://theurbanpastor.wordpress.com/2017/01/10/unsung-heroes/kirkby-stadium/" data-orig-file="https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg" data-orig-size="500,335" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kirkby-stadium" data-image-description="" data-medium-file="https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg?w=300" data-large-file="https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg?w=500" class=" size-full wp-image-3417 aligncenter" src="https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg?w=636" alt="kirkby-stadium" srcset="https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg 500w, https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg?w=150 150w, https://theurbanpastor.files.wordpress.com/2017/01/kirkby-stadium.jpg?w=300 300w" sizes="(max-width: 500px) 100vw, 500px"/>I’m reasonably confident that you’ve never heard of John and Doreen Mallinson, Ginger Hewitt or John Geddis. Am I right? I hadn’t until I read Chris Boardman’s autobiography over Christmas. They were stalwart members of a group of volunteers at the Kirkby Stadium, a cycling velodrome near the Wirral (<a href="http://www.liverpoolecho.co.uk/sport/other-sport/cycling-farewell-to-kirkby-track-3506902">now closed down</a>). It’s where Boardman learnt to compete. He went on to become very accomplished at going round in circles very quickly.</p>
-<p>You can trace the contemporary supremacy of British Cyclists and the growing popularity of recreational cycling to this man. He won individual pursuit gold at the 1992 Barcelona Olympics. He was the first man in the Yellow Jersey at the Tour de France since Tom Simpson in the early 1960s. After him came the household names of Bradley Wiggins, Sarah Storey, Chris Froome, Laura Kenny (nee Trott), Chris Hoy, Victoria Pendleton, Jason Kenny and may others. Boardman is partly responsible for the success of British Cycling, having worked quietly behind the scenes fuelling the research and development to give cyclists a technical edge as well as implementing recruitment systems and training processes and raising up and developing coaches. He’s responsible for the affordable range of bikes that bear his name sold at high street retailer Halfords. They’re very, very good bikes evidenced by the fact that the Brownlee brothers, Alastair and Jonathan, use them in triathlon. And Boardman has become an outspoken advocate and vocal campaigner for the social benefits of cycling.</p>
-<p>But without John, Doreen, Ginger or John none of this would have happened. And Boardman knows it. They are the unsung heroes so beloved by Sports Personality of the Year. It’s the bit in the show that makes me well up. That phenomenon causes extreme embarrassment to my children and great amusement to my wife. But for me it’s fast becoming the sole reason to sit through SPOTY. But that’s a gripe for another day. But hear what Chris Boardman has to say about these volunteers,</p>
-<blockquote><p>‘Just a handful of individuals presiding over a low key activity on the outskirts of Liverpool helping people take their firsts steps in the sport. What they didn’t realise was that they were the true pioneers of the Olympic success to come, quietly preparing the ground for Britain’s cycling revolution’.</p></blockquote>
-<p>I couldn’t help but spot some parallels with our own situation at <a href="http://www.christchurchbalham.org.uk">CCB</a>. Nearly fifteen years ago people like Gordon, Phoebe, Christian, Helen, Jenni, Rosslyn and Rufus were part of small group of twenty who were planted into Balham to start a new church. None of us imagined that we’d be where we are now. It’s a wonderful work of God’s grace. I’m not going to claim that we were quietly preparing the ground for London’s evangelical revolution. But it’s great testimony to God’s goodness that he’s caused us to grow, enabled us to plant both <a href="http://streathamcentralchurch.org.uk/">Streatham Central Church</a> (SCC) and <a href="http://www.bloc.london/">Brixton Local Church</a> (BLoC) and participated in the training of individuals for full time gospel ministry. That’s not nothing. At my last count we’d trained twelve people as ministry apprentices. And we have three currently ‘in the system’. That’s an average of one per year. I think we can and should do more. But that’s also for another time. And we haven’t even mentioned the conversion of individuals wo’ve come to trust in Christ, people who’ve been maintained in their faith, who’ve have grown in maturity and been equipped for the works of service that God has prepared for them to carry out in their homes, among their friends, at work and in the community.</p>
-<p>I suspect that few of us in churches think much about what our participation in our local church will produce. We’re pretty short sighted. Church is part of the routine of life. Like work on a Monday morning. But take heart. Lift your eyes to the future. It is your very great privilege to be a participant in a divinely instituted organisation through whom God is building something significant for the future. One day we will be able to trace the value of our contribution into eternity. And it’ll be amazing to see how God has sued what we’ve down as He brings all things together under the saving reign of His Son, Jesus Christ. And in all likelihood we’ll probably even now have some inkling of what He’s doing in the present. But many of us don’t feel that we’re doing anything that important. Our name might appear regularly on a rota. We might be part of a team that runs a small ministry. But what we do just keeps things ticking along and the show on the road. But presumably that’s what the Mallinsons, Ginger and John thought.</p>
-<p>In 1 Corinthians 15:58 the Apostle Paul wrote this, ‘Always give yourself fully to the work of the Lord, because you know that your labour in the Lord is not in vain’. None of it is wasted. It all counts. The Lord will see to that. And who knows, your church may be somewhere from where the evangelical equivalent of a Chris Boardman develops!</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I’m reasonably confident that you’ve never heard of John and Doreen Mallinson, Ginger Hewitt or John Geddis. Am I right? I hadn’t until I read Chris Boardman’s autobiography over Christmas. They were stalwart members of a group of volunteers at…  <p class="more-link"><a href="https://theurbanpastor.wordpress.com/2017/01/10/unsung-heroes/">Continue reading <span class="meta-nav">→</span></a></p></div>
-    </summary>
-    <author>
-      <name>theurbanpastor</name>
-    </author>
-    <id>http://theurbanpastor.wordpress.com/?p=3400</id>
-    <published>2017-01-10T19:02:35Z</published>
-    <updated>2017-01-10T19:02:35Z</updated>
-    <category term="Christian Life"/>
-    <category term="Church Life"/>
-    <category term="Ministry"/>
-  </entry>
-  <entry>
-    <title>When Chris met Brad</title>
-    <link rel="alternate" href="https://theurbanpastor.wordpress.com/2017/01/07/when-chris-met-brad/" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml"><p><img data-attachment-id="3388" data-permalink="https://theurbanpastor.wordpress.com/2017/01/07/when-chris-met-brad/chris-boardman-autobiography/" data-orig-file="https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg" data-orig-size="1200,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chris-boardman-autobiography" data-image-description="" data-medium-file="https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=300" data-large-file="https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=636" class=" size-full wp-image-3388 aligncenter" src="https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=636" alt="chris-boardman-autobiography" srcset="https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=636 636w, https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=150 150w, https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=300 300w, https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=768 768w, https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg?w=1024 1024w, https://theurbanpastor.files.wordpress.com/2017/01/chris-boardman-autobiography.jpg 1200w" sizes="(max-width: 636px) 100vw, 636px"/></p>
-<p>In 2002 Chris Boardman sat down in the canteen of the Manchester Velodrome with the British Cycling Head Endurance Coach Simon Jones and a talented but frustrated cyclist on the brink of throwing in the towel. His name was Bradley Wiggins.</p>
-<p>Chris Boardman was someone who’d done it before. To steal a cricketing metaphor, he had runs on the board. He was an Olympic champion and a two time wearer of the Tour de France Yellow Jersey. The idea was that Wiggins might be willing to listen to someone who’d known success.</p>
-<p>In that canteen Boardman simply asked Wiggins three questions.</p>
-<p>1.    What do you want to achieve?<br/>
-2.    What do you think that requires?<br/>
-3.    How does what you’re planning get you those things?</p>
-<p>Those are three great questions. It won’t surprise many to learn that as I read Boardman’s autobiography over the Christmas period, my arm instinctively reached for the notebook and pen. These questions are not entirely unfamiliar to those of us in the <a href="http://www.theantiochplan.org.uk/">Antioch Plan</a>, at least in broad outline. They’re scratching at the issues of vision, strategy and tactics. I’ve already warned the Antioch Planters that I may be quoting liberally from this book in the coming term. The man who was the vanguard of Britain’s cycling revolution may unwittingly be contributing to the coaching of our church planters!</p>
-<p>But think briefly about those three questions for a moment in the context of church growth.</p>
-<p><strong>What do you want to achieve?</strong> I imagine the answer of our planters will be a variation on something like this, ‘I want to see the establishment of a flourishing church plant that’s heading towards sustainability as people hear the gospel, place their trust in Christ, grow in their knowledge and understanding of God’s word and use their ability, opportunity and capacity to bring about the growth of his kingdom in our local context’. Their version of that answer will be better.</p>
-<p><strong>What do you think that requires?</strong> Again, I imagine they’ll answer something like this, ‘It’ll take servant leadership from me and other leaders and it’ll require sacrificial participation from everyone in the church plant. Everyone will need to be involved in reaching our neighbours with the gospel, providing a church family for them to belong and training one another so that we grow in our biblical convictions, our godly character and our ministry competency’.</p>
-<p><strong>How does what you’re planning get you those things?</strong> If what they’re planning is an aggressive door knocking strategy, and by that I don’t mean door knocking in an aggressive manner (one would assume that would be counter-productive) but instead a determined and insistent approach to making sure that everyone in your neighbourhood has the opportunity to know of your church plant’s existence and pursue any line of spiritual enquiry that they might have, then they need to be able to examine the wisdom of said tactic especially as it comes under sceptical scrutiny from those they’re trying to persuade them in such a venture! For the record, I think it’s hard to think of reasons why our planters wouldn’t do this. It’s a good tactic, though not without potential cost.</p>
-<p>As you’ll no doubt know, Wiggins went on to notable success, even if his efforts on the road are currently under some suspicion since they were accomplished with the addition of permissible but lamentable medical assistance. For those who are not following the story, Wiggins applied for and received a Therapeutic Use Exemption (TUE) that allowed him to receive medication for a pre-existing medical issue. That medication also probably helped him go further and faster. For my money that’s the kind of thing that Paul has in mind in 2 Timothy 2 when he talks about the athlete receiving the victor’s crown competing according to the rules. Wiggins may have received a crown but only he knows whether he really competed according to the rules. But what’s more interesting to me than Bradley’s dodgoire TUE is that at that moment in 2002 in a canteen in Manchester, he didn’t quit. The conversation and the probing questions kept him in the game.</p>
-<p>In the book Boardman reflected on that exchange and Wiggins’ subsequent response. The initial answers he gave were vague and unconvincing. And so Boardman sent him away and told him to e-mail him a plan once he’d thought it through. Wiggins did that a week later. But what convinced Boardman that Wiggins was now serious were his responses when pressed. Boardman writes, ‘I wasn’t directly critical, never said what was right and wrong, but I did drill down into his reasoning, asking him to explain what made him believe each particular step of his plan would work. What were his beliefs based on? How would he measure progress? Where he waffled and evaded I demanded evidence and clarity’. You might imagine that Boardman would make a persistent but productive church planting coach. But if you were planting a church you’d be glad of that kind of input, wouldn’t you? If you could survive that type of questioning you’d be certain that you were on the right path. That only leaves doing what you’ve planned to concentrate on!</p>
-<p>It seems to me, to plan for success, our church planters and church pastors need to be willing to put our church growth plans under the same degree of scrutiny. We’ve got to have answers to those questions. God may give growth irrespective of how well we’re thought through. But it’ll be accidental. And we’ll take that, of course! But how much better to be deliberate? And plan. After all, are we not encouraged to anticipate that the Lord will work through means rather than despite them?</p>
-</div>
-    </content>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">In 2002 Chris Boardman sat down in the canteen of the Manchester Velodrome with the British Cycling Head Endurance Coach Simon Jones and a talented but frustrated cyclist on the brink of throwing in the towel. His name was Bradley…  <p class="more-link"><a href="https://theurbanpastor.wordpress.com/2017/01/07/when-chris-met-brad/">Continue reading <span class="meta-nav">→</span></a></p></div>
-    </summary>
-    <author>
-      <name>theurbanpastor</name>
-    </author>
-    <id>http://theurbanpastor.wordpress.com/?p=3356</id>
-    <published>2017-01-07T17:17:30Z</published>
-    <updated>2017-01-07T17:17:30Z</updated>
-    <category term="Uncategorized"/>
   </entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
     <id>tag:blogger.com,1999:blog-38903334.post-7469221085631967798</id>
@@ -757,5 +582,334 @@ Ilford FP4&lt;/p&gt;</content>
       <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="24" height="32" src="http://3.bp.blogspot.com/__BA2itbhQbQ/S_wjdsLK1uI/AAAAAAAAAAM/xNHTWr0W8cY/S220/Photo004.jpg"/>
     </author>
     <thr:total>1</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-2520155091800184.post-6108583448071745790</id>
+    <published>2012-03-07T05:46:00.000+00:00</published>
+    <updated>2012-03-07T05:46:28.280+00:00</updated>
+    <title type="text">If hostel systems work,why do so many end up back on the streets.</title>
+    <content type="html">My apologies for ranting about time spent in the&amp;nbsp; hostel system but in my opinion it was 6yrs of my life wasted.6 years where I had to have a keywork session with a moron every week and awnser the same questions over and over again.FFS how long does it take to asses someone and see if they are suitable for housing.Im of the opinion its a deliberate conspiracy to prove to society how essential they are in the rehabilitation of poor unfortunates like myself.Only thing is Ive never thought of&amp;nbsp; myself as unfortunate no matter what apart from the times I had to sit and listen to all their fucking crap.I put up with it because I wanted a permanent place of my own without them having acsess to my room or supported housing unit so the nosey fuckers could snoop while I was out.I often used toleave little notes for them to find but only offensive ones.They couldnt say anything about this as they shouldn have been snooping .Its a fact if I had a key to their houses and did to them what they do to their residents I would probably be branded a pervert and locked up for a long time.In a nutshell hostels dont work as most residents end up back on the streets or are kicked out for raising hell about their draconian rules.</content>
+    <link rel="replies" type="application/atom+xml" href="http://vendazero.blogspot.com/feeds/6108583448071745790/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2520155091800184&amp;postID=6108583448071745790" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/6108583448071745790"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/6108583448071745790"/>
+    <link rel="alternate" type="text/html" href="http://vendazero.blogspot.com/2012/03/if-hostel-systems-workwhy-do-so-many.html" title="If hostel systems work,why do so many end up back on the streets."/>
+    <author>
+      <name>vendazero</name>
+      <uri>http://www.blogger.com/profile/04433190367635601740</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="24" height="32" src="http://3.bp.blogspot.com/__BA2itbhQbQ/S_wjdsLK1uI/AAAAAAAAAAM/xNHTWr0W8cY/S220/Photo004.jpg"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-2520155091800184.post-3761671694906136916</id>
+    <published>2012-03-07T00:25:00.001+00:00</published>
+    <updated>2012-03-07T00:29:21.589+00:00</updated>
+    <title type="text">The Drugworker</title>
+    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
+    <link rel="replies" type="application/atom+xml" href="http://vendazero.blogspot.com/feeds/3761671694906136916/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2520155091800184&amp;postID=3761671694906136916" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3761671694906136916"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3761671694906136916"/>
+    <link rel="alternate" type="text/html" href="http://vendazero.blogspot.com/2012/03/not-all-of-people-working-for-homeless.html" title="The Drugworker"/>
+    <author>
+      <name>vendazero</name>
+      <uri>http://www.blogger.com/profile/04433190367635601740</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="24" height="32" src="http://3.bp.blogspot.com/__BA2itbhQbQ/S_wjdsLK1uI/AAAAAAAAAAM/xNHTWr0W8cY/S220/Photo004.jpg"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-2520155091800184.post-3990819463452658387</id>
+    <published>2012-03-06T23:55:00.000+00:00</published>
+    <updated>2012-03-06T23:55:16.655+00:00</updated>
+    <title type="text"/>
+    <content type="html">&amp;nbsp; So it been established that rough sleepers have a pretty rough time,one night a outreach worker eventually finds them hidden in some out of the way place,they say I can get you a hostel place,meet me tomorrow.Let me tell you it feels like finding the pot of gold at the end of the rainbow.So you meet you go through all the procedures you think peace,safety ,escape from alcholuism ,petty crime,drug addiction&amp;nbsp; and all its related baggage,you feel exstatic but that soon wears off when you are in your cell like room ,it begins to dawn on you that what you are holding in your arms like a new born baby is not as you envisaged a pot of gold but in reality its a bucket of shit.You are so run down tired you dont care anymore so you sleep.You awake to the sound of footsteps in the coridor,keys getting pushed intolocks door slamming obcenities being shouted,youre half asleep thinking shit slop out already,you rush to get dressed looking for the bucket there is none.The door opens you have one leg in your trousers a voice booms room check ,it then dawns on you again you are not in the Holiday Inn ,but a hostel ,you dont yet know youve been sentenced to 6yrs.</content>
+    <link rel="replies" type="application/atom+xml" href="http://vendazero.blogspot.com/feeds/3990819463452658387/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2520155091800184&amp;postID=3990819463452658387" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3990819463452658387"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3990819463452658387"/>
+    <link rel="alternate" type="text/html" href="http://vendazero.blogspot.com/2012/03/so-it-been-established-that-rough.html" title=""/>
+    <author>
+      <name>vendazero</name>
+      <uri>http://www.blogger.com/profile/04433190367635601740</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="24" height="32" src="http://3.bp.blogspot.com/__BA2itbhQbQ/S_wjdsLK1uI/AAAAAAAAAAM/xNHTWr0W8cY/S220/Photo004.jpg"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-7971543.post-7531594750365858516</id>
+    <published>2011-08-03T11:41:00.000+01:00</published>
+    <updated>2011-08-03T11:41:38.027+01:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="General Stupidity"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Life Lessons"/>
+    <title type="text">Winky Face!</title>
+    <content type="html">I'm just going to come right out and say it. &amp;nbsp;I am not a huge fan of &lt;a href="http://en.wikipedia.org/wiki/Emoticon"&gt;emoticons&lt;/a&gt;. &amp;nbsp;I do not use a happy face to indicate happiness, or a sad face to indicate sadness. &amp;nbsp;I don't even use LOL when texting or IMing, as I prefer a simple "ha!" to get the idea of laughter accross.&lt;br /&gt;&lt;br /&gt;However, I will acknowledge that I am in the minority. &amp;nbsp;If there was a battle, I lost. &amp;nbsp;Emoticons have won, and I accept their place in the world. &amp;nbsp;I will even admit that they can make the tone of an email or text or whatever clear if the words themselves don't convey the proper meaning. &amp;nbsp;I don't use them myself, but if someone sends me a frowny face or a confused face, I understand their meaning and move on with my life.&lt;br /&gt;&lt;br /&gt;Except!&lt;br /&gt;&lt;br /&gt;The winky face. &amp;nbsp;If there is one emoticon I cannot stand, it is the winky face. &amp;nbsp;You know the one I mean:&lt;br /&gt;&lt;br /&gt;;)&lt;br /&gt;&lt;br /&gt;The intended meaning, as far as I'm aware, is to convey cheekiness or sassiness. &amp;nbsp;And it drives me up the freaking wall. &amp;nbsp;Because here is the thing. &amp;nbsp;In real life, people smile at each other, or frown, or have big smiles, or stick out their tongues (which, ugh), or look surprised. &amp;nbsp;All of which have a corresponding emoticon to convey these expressions.&lt;br /&gt;&lt;br /&gt;Do you know what people don't do? &amp;nbsp;Wink at each other. &amp;nbsp;Constantly wink at each other. &amp;nbsp;And if they do, they should stop, because I'm sure they'll just develop a twitch of some kind.&lt;br /&gt;&lt;br /&gt;There only two contexts I can think of where winking is appropriate in real life. &lt;br /&gt;&lt;br /&gt;One: &amp;nbsp;If you are playing a joke on someone and want to let someone they are with in on the joke subtly. &amp;nbsp;A wink at that person while continuing the joking will get that message across, and then hopefully they'll get in on the joke and you'll all have some fun times.&lt;br /&gt;&lt;br /&gt;Two: &amp;nbsp;A pickup wink, done in jest. &amp;nbsp;Possibly accompanied by finger guns. &amp;nbsp;This works in almost any circumstance in life, and is generally delightful.&lt;br /&gt;&lt;br /&gt;That's it! &amp;nbsp;Those are the only two situations in which you should be winking! &amp;nbsp;Or maybe if you're trying to get a contact back in place. &amp;nbsp;But blinking would also accomplish this, so let's forget that one.&lt;br /&gt;&lt;br /&gt;Two!&lt;br /&gt;&lt;br /&gt;So, when I see people (and god help me, so many people do this) use the winky face after a comment they mean to be funny, all I can think is STOP STOP STOP! &amp;nbsp;If you need to use an emoticon (and I really must stress that no one &lt;i&gt;needs &lt;/i&gt;to use an emoticon) in that case, will the smiley face not do? &amp;nbsp;What is wrong with the good old smiley face? &amp;nbsp;Are you too good for the smiley face??&lt;br /&gt;&lt;br /&gt;Your cheekiness comes across as far less cheeky if you have to tell me you're being cheeky! &amp;nbsp;(Also, the work cheeky looks funny when you write it too many times. Cheeky.)&amp;nbsp;Would you really wink in real life after you said whatever you just said? &amp;nbsp;I thought not.&amp;nbsp;It's just dumb. &amp;nbsp;Stop it. &lt;br /&gt;&lt;br /&gt;However, if someone develops an emoticon for the double finger guns, I will have to bow to their genius and gladly allow all winky face/double finger gun emoticon combos, as they will be hilarious.</content>
+    <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/7531594750365858516/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=7531594750365858516&amp;isPopup=true" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7531594750365858516"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7531594750365858516"/>
+    <link rel="alternate" type="text/html" href="http://aliceworld.blogspot.com/2011/08/winky-face.html" title="Winky Face!"/>
+    <author>
+      <name>Alice</name>
+      <uri>http://www.blogger.com/profile/09349066685963927931</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-7971543.post-554161128779465532</id>
+    <published>2011-08-03T11:17:00.000+01:00</published>
+    <updated>2011-08-03T11:17:10.742+01:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
+    <title type="text">Mug of the Day - 3 August</title>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s1600/P1020138.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s320/P1020138.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Cuba!</content>
+    <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/554161128779465532/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=554161128779465532&amp;isPopup=true" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/554161128779465532"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/554161128779465532"/>
+    <link rel="alternate" type="text/html" href="http://aliceworld.blogspot.com/2011/08/mug-of-day-3-august.html" title="Mug of the Day - 3 August"/>
+    <author>
+      <name>Alice</name>
+      <uri>http://www.blogger.com/profile/09349066685963927931</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s72-c/P1020138.JPG" height="72" width="72"/>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-7971543.post-7216084118869459974</id>
+    <published>2011-08-02T11:10:00.000+01:00</published>
+    <updated>2011-08-03T11:15:23.739+01:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
+    <title type="text">Mug of the Day - 2 August</title>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s1600/P1020137.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s320/P1020137.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Bruges! It's my most multi-lingual mug, as it also says "Bruges" and "Brujas".</content>
+    <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/7216084118869459974/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=7216084118869459974&amp;isPopup=true" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7216084118869459974"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7216084118869459974"/>
+    <link rel="alternate" type="text/html" href="http://aliceworld.blogspot.com/2011/08/mug-of-day-2-august.html" title="Mug of the Day - 2 August"/>
+    <author>
+      <name>Alice</name>
+      <uri>http://www.blogger.com/profile/09349066685963927931</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s72-c/P1020137.JPG" height="72" width="72"/>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-7971543.post-1387705541157207842</id>
+    <published>2011-07-29T10:59:00.000+01:00</published>
+    <updated>2011-07-29T10:59:05.965+01:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
+    <title type="text">Mug of the Day - 29 July</title>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s1600/P1020131.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s320/P1020131.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;The kings and queens of Scotland. &amp;nbsp;Educational!</content>
+    <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/1387705541157207842/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=1387705541157207842&amp;isPopup=true" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/1387705541157207842"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/1387705541157207842"/>
+    <link rel="alternate" type="text/html" href="http://aliceworld.blogspot.com/2011/07/mug-of-day-29-july.html" title="Mug of the Day - 29 July"/>
+    <author>
+      <name>Alice</name>
+      <uri>http://www.blogger.com/profile/09349066685963927931</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s72-c/P1020131.JPG" height="72" width="72"/>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-7971543.post-6270089895786412367</id>
+    <published>2011-07-28T09:43:00.000+01:00</published>
+    <updated>2011-07-28T09:43:39.189+01:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
+    <title type="text">Mug of the Day - 28 July</title>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s1600/P1020126.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s320/P1020126.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Barcelona is one of my favourite mugs. I think it's so pretty.</content>
+    <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/6270089895786412367/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=6270089895786412367&amp;isPopup=true" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/6270089895786412367"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/6270089895786412367"/>
+    <link rel="alternate" type="text/html" href="http://aliceworld.blogspot.com/2011/07/mug-of-day-28-july.html" title="Mug of the Day - 28 July"/>
+    <author>
+      <name>Alice</name>
+      <uri>http://www.blogger.com/profile/09349066685963927931</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s72-c/P1020126.JPG" height="72" width="72"/>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-20522956.post-3932975710373834200</id>
+    <published>2009-05-21T23:46:00.000+00:00</published>
+    <updated>2009-05-21T23:48:53.046+00:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="politics"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="spun figures"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="statistics"/>
+    <title type="text">Politicians and journalists, put the statistic down and step away.</title>
+    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;A person with a little bit of information is usually a danger to themselves and possibly society.  This is particularly the case at a time when &lt;b&gt;something must be done&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;A good example of this is the present scandal on MPs' expenses (does it have an official name yet - "Duck-gate").  A number of people have jumped on some analysis by &lt;a href='http://markreckons.blogspot.com/'&gt;Mark Reckons&lt;/a&gt;, a LibDem blogger, that seems to indicate there is a &lt;a href='http://markreckons.blogspot.com/2009/05/mps-expenses-and-safe-seats-correlation.html'&gt;positive correlation between the size of an MP's electoral majority and the chances that they will abuse the expenses system&lt;/a&gt;.  In essence, the more safe an MP feels, the more likely they are to be a crook.&lt;br/&gt;&lt;br/&gt;This apparent correlation has led Mark and a number of other people (such as &lt;a href='http://www.guardian.co.uk/commentisfree/2009/may/18/mps-expenses-constitution-electoral-reform'&gt;Polly Toynbee &lt;/a&gt;and &lt;a href='http://www.guardian.co.uk/commentisfree/2009/may/18/mps-expenses-constitution-electoral-reform'&gt;Ben Bradshaw&lt;/a&gt;) to suggest that we move away from the &lt;a href='http://en.wikipedia.org/wiki/First_pass_the_post'&gt;First-Pass-The-Post &lt;/a&gt;election system.  Their reasoning is that a &lt;a href='http://en.wikipedia.org/wiki/Proportional_representation'&gt;PR&lt;/a&gt; election system would lead to lower majorities for MPs', and according to this correlation, more honest MPs.&lt;br/&gt;&lt;br/&gt;Now, the first problem with this is that (I think) the analysis doesn't stand up to scrunity (details of my concerns are &lt;a href='http://markreckons.blogspot.com/2009/05/mps-expenses-and-safe-seats-correlation.html?showComment=1242939618750#c485085803594386952'&gt;here&lt;/a&gt;).  Mark has been careful to caveat his statistical conclusions, though I don't think his caveats go far enough.  The caveats, of course, have been ignored by everyone else.&lt;br/&gt;&lt;br/&gt;Secondly, even if there is a correlation, it does not mean there is any real or useful link between majorities and honest MPs.  A classic example is the correlation that areas with high level of policing having a high level of crime, leading to the policy conclusion that policing should be reduced as it causes crime.&lt;br/&gt;&lt;br/&gt;And finally, what no-one seems to have tried to show is how PR will help, even if the correlation holds.  Though there may be many reasons for PR, tackling MPs expense dodgies seems the flimsest.  Consider:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;While PR will change the majorities of some MPs, it needn't necessarily lead to the fall in the majorities overall.  You could have some MPs, which after first and second votes, have a larger majority.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Some forms of PR can lead to more corruption.  For instance, voters have little ability of getting rid of a hated MP in some forms of close list systems, where that MP heads the list.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;It would seem from the evidence of the unseating of &lt;a href='http://en.wikipedia.org/wiki/Neil_Hamilton_%28politician%29'&gt;Neil Hamilton&lt;/a&gt; in the 1997 election, and the current mass sacking of tarnished MPs, that the current system can act to get rid of sleazy MPs when the voters have the facts.&lt;/li&gt;&lt;/ul&gt;So please, before advocating constitutional reform, can we stop and think for one moment.&lt;br/&gt;&lt;/div&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/3932975710373834200/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=3932975710373834200" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/3932975710373834200"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/3932975710373834200"/>
+    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2009/05/politicians-and-journalists-put.html" title="Politicians and journalists, put the statistic down and step away."/>
+    <author>
+      <name>Frank</name>
+      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-20522956.post-4161310746933996918</id>
+    <published>2009-04-16T21:32:00.000+00:00</published>
+    <updated>2009-04-16T22:36:21.027+00:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Gordon Brown"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="labour"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="politics"/>
+    <title type="text">Sorry is the hardest word, but I can do regret</title>
+    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;&lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/8002085.stm'&gt;What I can't get is why Gordon says sorry so badly.&lt;/a&gt; The secret of political apologies to so say sorry quickly and completely, to close the story down (you may also want to say sorry because you mean it, that works too). Brown's apologies are slow and grudging.&lt;br/&gt;&lt;br/&gt;Gordon has waited five days before apologizing about Smeargate.  By waiting and then saying sorry, he's guaranteed further damaging coverage of the story as the morning paper report his apology and analysis it. If he had said sorry straight away when McBride had resigned, the story would have been over already (assuming there's no further emails).&lt;br/&gt;&lt;br/&gt;Also, his apology is so mealy mouthed.&lt;br/&gt;&lt;blockquote&gt;I take full responsibility for what happened. That's why the person who was responsible went immediately.&lt;br/&gt;&lt;/blockquote&gt;If you take full responsibility, you take full responsibility. You can't say I take full responsibility, but in the same breath say I'm not the responsible person. And I'm sure that Gordon is "sorry for what happened", but is sorry that people in his office considered smearing people.&lt;br/&gt;&lt;br/&gt;&lt;div class='zemanta-pixie'&gt;&lt;img src='http://img.zemanta.com/pixy.gif?x-id=39618892-3a48-8a1e-8630-ba710abd75a1' class='zemanta-pixie-img'/&gt;&lt;/div&gt;&lt;/div&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/4161310746933996918/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=4161310746933996918" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/4161310746933996918"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/4161310746933996918"/>
+    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2009/04/sorry-is-hardest-word-but-i-can-do.html" title="Sorry is the hardest word, but I can do regret"/>
+    <author>
+      <name>Frank</name>
+      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-20522956.post-8343979821783077394</id>
+    <published>2009-02-22T21:21:00.000+00:00</published>
+    <updated>2009-02-22T21:23:14.621+00:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="labour"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="migration"/>
+    <title type="text">Tail wagging the migration dog</title>
+    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;&lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/7904393.stm'&gt;Is the Home Office insane&lt;/a&gt;, listening to a BNP dog whistle?&lt;br/&gt;&lt;br/&gt;Jacqui Smith is proposing that skilled work must first be advertised in the Job Centre before it may be given to a migrant, so that British workers have a chance. Non-EU migrants need a master's degree before coming to the UK for skilled work; EU migrants can come as they please unless they're a &lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/7904393.stm'&gt;Dutch Parliamentarian&lt;/a&gt;.  How many master-level jobs are advertised in Job Centres at the moment? How many master-level British workers look for jobs in Job Centres? Pure posturing.&lt;br/&gt;&lt;br/&gt;&lt;div class='zemanta-pixie'&gt;&lt;img src='http://img.zemanta.com/pixy.gif?x-id=7b92d664-f712-4da7-844c-d797cc2ce234' class='zemanta-pixie-img'/&gt;&lt;/div&gt;&lt;/div&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/8343979821783077394/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=8343979821783077394" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/8343979821783077394"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/8343979821783077394"/>
+    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2009/02/tail-wagging-migration-dog.html" title="Tail wagging the migration dog"/>
+    <author>
+      <name>Frank</name>
+      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-2071381975246815633.post-2130666721831404624</id>
+    <published>2008-05-24T10:35:00.000-07:00</published>
+    <updated>2008-12-09T08:35:26.751-08:00</updated>
+    <title type="text">Welcome to Balham Bou's Style Blog</title>
+    <content type="html">&lt;a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_2JKbCXnri5Y/SDhUjIiY9lI/AAAAAAAAAAM/fTq4Ft8Eztg/s1600-h/Balham+bou+Logo.gif"&gt;&lt;img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://3.bp.blogspot.com/_2JKbCXnri5Y/SDhUjIiY9lI/AAAAAAAAAAM/fTq4Ft8Eztg/s320/Balham+bou+Logo.gif" alt="" id="BLOGGER_PHOTO_ID_5204002331990488658" border="0" /&gt;&lt;/a&gt;&lt;span style="font-family:arial;"&gt;&lt;br /&gt;We would like to welcome you to Balham Bou's first post on our style blog. We hope to inspire you with our ideas and fashion advice. &lt;/span&gt;  &lt;span style="font-family:arial;"&gt;We would like to generate a on going discussion between Balham Bou and you! :-)&lt;/span&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambou.blogspot.com/feeds/2130666721831404624/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2071381975246815633&amp;postID=2130666721831404624" title="1 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2071381975246815633/posts/default/2130666721831404624"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/2071381975246815633/posts/default/2130666721831404624"/>
+    <link rel="alternate" type="text/html" href="http://balhambou.blogspot.com/2008/05/welcome-to-balham-bous-stlye-blog.html" title="Welcome to Balham Bou's Style Blog"/>
+    <author>
+      <name>Balham Bou</name>
+      <uri>http://www.blogger.com/profile/14886312042424144564</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="22" src="http://4.bp.blogspot.com/_2JKbCXnri5Y/SYnAFBP89VI/AAAAAAAAAA4/F9jfCFpWeI0/S220/Balham+Bou+logo.jpg"/>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://3.bp.blogspot.com/_2JKbCXnri5Y/SDhUjIiY9lI/AAAAAAAAAAM/fTq4Ft8Eztg/s72-c/Balham+bou+Logo.gif" height="72" width="72"/>
+    <thr:total>1</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-2071381975246815633.post-5282793619399079552</id>
+    <published>2008-06-12T06:58:00.000-07:00</published>
+    <updated>2008-12-09T08:35:26.498-08:00</updated>
+    <title type="text">balham bou on bbc2 "Mary queen of shops"@9pm</title>
+    <content type="html">&lt;a href="http://1.bp.blogspot.com/_2JKbCXnri5Y/SFEzMqB_8cI/AAAAAAAAAAY/rNsJ8S6otKQ/s1600-h/01.jpg"&gt;&lt;img id="BLOGGER_PHOTO_ID_5211002536378495426" style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="http://1.bp.blogspot.com/_2JKbCXnri5Y/SFEzMqB_8cI/AAAAAAAAAAY/rNsJ8S6otKQ/s400/01.jpg" border="0" /&gt;&lt;/a&gt;&lt;br /&gt;thank you for all the surpport you have showed in the passed and hope you enjoy the futrue at balham bou&lt;br /&gt;working with mary portas was priceless&lt;br /&gt;30 june one to watch"mary queen of shop"bbc2@ 9pm</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambou.blogspot.com/feeds/5282793619399079552/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2071381975246815633&amp;postID=5282793619399079552" title="4 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2071381975246815633/posts/default/5282793619399079552"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/2071381975246815633/posts/default/5282793619399079552"/>
+    <link rel="alternate" type="text/html" href="http://balhambou.blogspot.com/2008/06/balham-bou-on-bbc2-mary-queen-of.html" title="balham bou on bbc2 &quot;Mary queen of shops&quot;@9pm"/>
+    <author>
+      <name>Balham Bou</name>
+      <uri>http://www.blogger.com/profile/14886312042424144564</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="22" src="http://4.bp.blogspot.com/_2JKbCXnri5Y/SYnAFBP89VI/AAAAAAAAAA4/F9jfCFpWeI0/S220/Balham+Bou+logo.jpg"/>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://1.bp.blogspot.com/_2JKbCXnri5Y/SFEzMqB_8cI/AAAAAAAAAAY/rNsJ8S6otKQ/s72-c/01.jpg" height="72" width="72"/>
+    <thr:total>4</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-20522956.post-1248224244608944979</id>
+    <published>2008-12-01T22:29:00.000+00:00</published>
+    <updated>2008-12-01T22:34:16.315+00:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="labour"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="politics"/>
+    <title type="text">Taking a leak</title>
+    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;The Government has just sprung another leak.  As reported by &lt;a href='http://iaindale.blogspot.com/2008/12/leaked-email-from-harman-no-tories-or.html'&gt;Iain Dale&lt;/a&gt;, an email has just been leaked showing that Harriet Harman is to have a meeting with the Speaker's Office and the Serjeant at Arms to discuss the Speakers statement to MPs on Wednesday about allowing Police to search Damian Green's Parliamentary Office.  Other invitees to Harman's meeting include Gus O'Donnell, Jacqui Smith and Jack Straw.&lt;br /&gt;&lt;br /&gt;However, apart from the irony of another leak (and the desperation of Labour's news management), the best bit about this story is Harman's office attempt to wriggle out.  According to the &lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/7759629.stm'&gt;BBC&lt;/a&gt;, her spoken has said:&lt;br /&gt;&lt;br /&gt;&lt;blockquote&gt;"The purpose of the meeting is to discuss the parliamentary business and handling of issues that arise from the fact that the speaker's statement and the Queen's Speech will be happening on the same day."&lt;br /&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;Yes, if you are going to have a meeting about Parliamentary procedure,&lt;br /&gt;you invite the Head of the Civil Service, the Justice Secretary and the&lt;br /&gt;Home Secretary (as well as the Labour Chief Whip) at less than 24 hours&lt;br /&gt;notice; they are busy people, who enjoy nothing more than talking about&lt;br /&gt;seating arrangements.&lt;/div&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/1248224244608944979/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=1248224244608944979" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1248224244608944979"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1248224244608944979"/>
+    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2008/12/taking-leak.html" title="Taking a leak"/>
+    <author>
+      <name>Frank</name>
+      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-20522956.post-1448308660611783912</id>
+    <published>2008-11-29T23:06:00.000+00:00</published>
+    <updated>2008-11-29T23:08:29.665+00:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="bbc"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="environment"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="spun figures"/>
+    <title type="text">Putting destruction in context</title>
+    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;The third headline on the BBC news website was "&lt;a href='http://news.bbc.co.uk/1/hi/world/americas/7756241.stm'&gt;Amazon deforestation accelerates&lt;/a&gt;".  The article, in doom laden tones, usually consider appropriate by the BBC for environmental stories, states that:&lt;br/&gt;&lt;blockquote&gt;The destruction of the Amazon rainforest in Brazil has accelerated for the first time in four years, Brazilian officials say. Satellite images show 11,968 sq km of land was cleared in the year to July, nearly 4% higher than the year before...&lt;br/&gt;&lt;br/&gt;In recent years the Brazilian government has been able to celebrate three successive falls in deforestation. But the latest estimate from the National Institute for Space Research, known as INPE, shows that this trend has come to a halt. &lt;br/&gt;&lt;/blockquote&gt;Now, at a time that the world seems to be falling apart, with the terror attacks in Mumbai, protests in Thailand, the end of Western capitalism, and the assault by the Met police on Parliamentary sovereignty, you would think the ordering of BBC stories is strange. But the biggest sin, is the poverty of the story.&lt;br/&gt;&lt;br/&gt;The lesser error is the suggestion that one year data can signal an end of a trend. To be honest, I wouldn't be sure that three years of downward data shows there is a downward trend; but there there is no way to tell whether this year's rise was a new trend or a blip.&lt;br/&gt;&lt;br/&gt;But the howler is saying the 12,000 sq km were destroyed (as opposed to trees just being cut down) without any context.  How big is 12,000 sq km?&lt;br/&gt;&lt;br/&gt;Using what seems to have been the international benchmark of choice when discussion Amazon destruction, 12,000 sq km is around half of Wales; that seems big.  A more appropriate comparison is that 12,000 sq km is but 0.2 per cent of the total &lt;a href='http://en.wikipedia.org/wiki/Amazon_rain_forest'&gt;rainforest&lt;/a&gt; area of 5,500,000 sq km.  Or put it another way, this rate of loss would have to continue for 50 years for the present rainforest to fall by 10 per cent; hardly disastrous.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;em&gt;So the bottom line of the story is there is no evidence that the slowdown of a already very slow fall in the Amazon rainforest has stopped.  A good news story.&lt;/em&gt;&lt;/b&gt; &lt;br/&gt;&lt;/div&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/1448308660611783912/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=1448308660611783912" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1448308660611783912"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1448308660611783912"/>
+    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2008/11/putting-destruction-in-context.html" title="Putting destruction in context"/>
+    <author>
+      <name>Frank</name>
+      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <id>tag:blogger.com,1999:blog-2071381975246815633.post-2498692981080842637</id>
+    <published>2008-07-03T05:02:00.000-07:00</published>
+    <updated>2008-07-03T05:06:03.334-07:00</updated>
+    <title type="text">Balham Bou on BBC 2 'Mary Queen of Shops'</title>
+    <content type="html">If you missed the show you can check it out on BBC IPlayer!&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.bbc.co.uk/iplayer/page/item/b00ccg5m.shtml"&gt;http://www.bbc.co.uk/iplayer/page/item/b00ccg5m.shtml&lt;/a&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://balhambou.blogspot.com/feeds/2498692981080842637/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2071381975246815633&amp;postID=2498692981080842637" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2071381975246815633/posts/default/2498692981080842637"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/2071381975246815633/posts/default/2498692981080842637"/>
+    <link rel="alternate" type="text/html" href="http://balhambou.blogspot.com/2008/07/balham-bou-on-bbc-2-mary-queen-of-shops.html" title="Balham Bou on BBC 2 'Mary Queen of Shops'"/>
+    <author>
+      <name>Balham Bou</name>
+      <uri>http://www.blogger.com/profile/14886312042424144564</uri>
+      <email>noreply@blogger.com</email>
+      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="22" src="http://4.bp.blogspot.com/_2JKbCXnri5Y/SYnAFBP89VI/AAAAAAAAAA4/F9jfCFpWeI0/S220/Balham+Bou+logo.jpg"/>
+    </author>
+    <thr:total>0</thr:total>
   </entry>
 </feed>
