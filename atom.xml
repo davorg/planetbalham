@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-01T15:55:12Z</updated>
+  <updated>2021-09-01T20:15:02Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 06:13 BST, Sunset: 19:48 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1030mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunset: 19:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-01T09:55:00.000+0000</id>
-    <published>2021-09-01T15:26:16Z</published>
-    <updated>2021-09-01T15:26:16Z</updated>
+    <published>2021-09-01T20:01:48Z</published>
+    <updated>2021-09-01T20:01:48Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1028mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 06:14 BST, Sunset: 19:46 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1028mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunrise: 06:14 BST, Sunset: 19:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-01T09:55:00.000+0000</id>
-    <published>2021-09-01T15:26:16Z</published>
-    <updated>2021-09-01T15:26:16Z</updated>
+    <published>2021-09-01T20:01:48Z</published>
+    <updated>2021-09-01T20:01:48Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 06:16 BST, Sunset: 19:43 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 06:16 BST, Sunset: 19:43 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-01T09:55:00.000+0000</id>
-    <published>2021-09-01T15:26:16Z</published>
-    <updated>2021-09-01T15:26:16Z</updated>
+    <published>2021-09-01T20:01:48Z</published>
+    <updated>2021-09-01T20:01:48Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihwFodHRwczovL3d3dy50aGVyYWlsd2F5aHViLmNvLnVrLzYxMTI3L292ZXItMS04LWJpbGxpb24tc3BlbnQtYWNyb3NzLXRoZS1zb3V0aC1vbi1pbXByb3ZlbWVudHMtd2l0aC1wYXNzZW5nZXJzLXJldHVybmluZy10by10aGUtcmFpbHdheS_SAYsBaHR0cHM6Ly93d3cudGhlcmFpbHdheWh1Yi5jby51ay82MTEyNy9vdmVyLTEtOC1iaWxsaW9uLXNwZW50LWFjcm9zcy10aGUtc291dGgtb24taW1wcm92ZW1lbnRzLXdpdGgtcGFzc2VuZ2Vycy1yZXR1cm5pbmctdG8tdGhlLXJhaWx3YXkvYW1wLw?oc=5</id>
+    <title type="html">Over £1.8 billion spent across the south on improvements with passengers returning to the railway - The Railway Hub</title>
+    <updated>2021-09-01T11:49:27.000000000Z</updated>
+    <link href="https://www.therailwayhub.co.uk/61127/over-1-8-billion-spent-across-the-south-on-improvements-with-passengers-returning-to-the-railway/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.therailwayhub.co.uk/61127/over-1-8-billion-spent-across-the-south-on-improvements-with-passengers-returning-to-the-railway/" target="_blank"&gt;Over £1.8 billion spent across the south on improvements with passengers returning to the railway&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Railway Hub&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIAyn7luK5vdhP2aFzcC9xYqGQgEKhAIACoHCAowy4KeCzDcjLYDMNfl6QY?oc=5</id>
@@ -46,6 +53,13 @@
     <updated>2021-09-01T11:46:02.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/sport/01092021-balham-olympian-katie-snowden-launches-community-running-club/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/01092021-balham-olympian-katie-snowden-launches-community-running-club/" target="_blank"&gt;Balham Olympian Katie Snowden launches community running club&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm1vcm5pbmdhZHZlcnRpc2VyLmNvLnVrL0FydGljbGUvMjAyMS8wOS8wMS9XaGF0LWlzLWhhcHBlbmluZy1hdC1VcmJhbi1QdWJzLUJhcnPSAQA?oc=5</id>
+    <title type="html">What is happening at Urban Pubs &amp; Bars? - MorningAdvertiser.co.uk</title>
+    <updated>2021-09-01T08:40:00.000000000Z</updated>
+    <link href="https://www.morningadvertiser.co.uk/Article/2021/09/01/What-is-happening-at-Urban-Pubs-Bars" type="text/html"/>
+    <content type="html">&lt;a href="https://www.morningadvertiser.co.uk/Article/2021/09/01/What-is-happening-at-Urban-Pubs-Bars" target="_blank"&gt;What is happening at Urban Pubs &amp; Bars?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MorningAdvertiser.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title> </title>
@@ -86,20 +100,6 @@
     <updated>2021-08-27T14:46:00.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/news/article-9933247/Drunken-beauty-therapist-35-jailed-glassing-teacher-overly-sexual-dance-floor-moves.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9933247/Drunken-beauty-therapist-35-jailed-glassing-teacher-overly-sexual-dance-floor-moves.html" target="_blank"&gt;Drunken beauty therapist, 35, jailed for glassing teacher after 'overly sexual' dance floor moves&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMigQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvY2hlZWt5LWJhbGhhbS1mbHktdGlwcGVycy1zdHJpa2UtYWdhaW4tYnV0LXJlc2lkZW50cy13aWxsLW5vdC1maW5kLXJvdHRpbmctZm9vZC1hbmQtcnViYmlzaC1mdW5ueS_SAQA?oc=5</id>
-    <title type="html">Cheeky Balham fly-tippers strike again – but residents will not find rotting food and rubbish funny - London News Online</title>
-    <updated>2021-08-27T12:26:42.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/cheeky-balham-fly-tippers-strike-again-but-residents-will-not-find-rotting-food-and-rubbish-funny/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/cheeky-balham-fly-tippers-strike-again-but-residents-will-not-find-rotting-food-and-rubbish-funny/" target="_blank"&gt;Cheeky Balham fly-tippers strike again – but residents will not find rotting food and rubbish funny&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiggFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvbm9uLWxlYWd1ZS1yb3VuZC11cC1icm9tbGV5cy1iZWxhdGVkLW5hdGlvbmFsLWxlYWd1ZS1raWNrLW9mZi1hcy10ZXJyb3JzLXN1ZmZlci1vcGVuaW5nLWRheS1kZWZlYXQv0gEA?oc=5</id>
-    <title type="html">Non-league round-up: Bromley's belated National League kick off as Terrors suffer opening day defeat - London News Online</title>
-    <updated>2021-08-27T08:30:18.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/non-league-round-up-bromleys-belated-national-league-kick-off-as-terrors-suffer-opening-day-defeat/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/non-league-round-up-bromleys-belated-national-league-kick-off-as-terrors-suffer-opening-day-defeat/" target="_blank"&gt;Non-league round-up: Bromley's belated National League kick off as Terrors suffer opening day defeat&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 62 MAFEKING passing Balham Intermediate</title>
