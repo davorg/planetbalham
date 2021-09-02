@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-02T21:51:05Z</updated>
+  <updated>2021-09-02T22:15:32Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
+    <id>https://news.google.com/articles/CAIiEOMi3hZWXroEqEeZZ9fRLE4qFwgEKg8IACoHCAowiPqGAjCFkSsw9qcX?oc=5</id>
+    <title type="html">How gung-ho are the Brits about cutting their carbon emissions? - Marketplace</title>
+    <updated>2021-09-02T22:01:59.000000000Z</updated>
+    <link href="https://www.marketplace.org/2021/09/02/how-gung-ho-are-the-brits-about-cutting-their-carbon-emissions/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.marketplace.org/2021/09/02/how-gung-ho-are-the-brits-about-cutting-their-carbon-emissions/" target="_blank"&gt;How gung-ho are the Brits about cutting their carbon emissions?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Marketplace&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Light Cloud, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunset: 19:46 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1024mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 19:43 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-02T19:00:00.000+0000</id>
-    <published>2021-09-02T21:46:40Z</published>
-    <updated>2021-09-02T21:46:40Z</updated>
+    <published>2021-09-02T22:01:35Z</published>
+    <updated>2021-09-02T22:01:35Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 06:16 BST, Sunset: 19:43 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 06:17 BST, Sunset: 19:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-02T19:00:00.000+0000</id>
-    <published>2021-09-02T21:46:40Z</published>
-    <updated>2021-09-02T21:46:40Z</updated>
+    <published>2021-09-02T22:01:35Z</published>
+    <updated>2021-09-02T22:01:35Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 06:17 BST, Sunset: 19:41 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-02T19:00:00.000+0000</id>
-    <published>2021-09-02T21:46:40Z</published>
-    <updated>2021-09-02T21:46:40Z</updated>
+    <published>2021-09-02T22:01:35Z</published>
+    <updated>2021-09-02T22:01:35Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijwFodHRwczovL3d3dy53b3J0aGluZ2hlcmFsZC5jby51ay9uZXdzL3RyYW5zcG9ydC9zdXNzZXgtcmFpbC1ib3NzLXByYWlzZXMtc3RhZmYtYW5kLXBhc3NlbmdlcnMtYWZ0ZXItcHM2NDNtLWludmVzdG1lbnQtaW4taW5mcmFzdHJ1Y3R1cmUtMzM2OTAyONIBkwFodHRwczovL3d3dy53b3J0aGluZ2hlcmFsZC5jby51ay9uZXdzL3RyYW5zcG9ydC9zdXNzZXgtcmFpbC1ib3NzLXByYWlzZXMtc3RhZmYtYW5kLXBhc3NlbmdlcnMtYWZ0ZXItcHM2NDNtLWludmVzdG1lbnQtaW4taW5mcmFzdHJ1Y3R1cmUtMzM2OTAyOD9hbXA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-09-02T08:46:16.000000000Z</updated>
     <link href="https://todayuknews.com/entertainment/herne-hill-harriers-round-up-katie-snowden-polishing-off-a-diamond-season-in-switzerland/" type="text/html"/>
     <content type="html">&lt;a href="https://todayuknews.com/entertainment/herne-hill-harriers-round-up-katie-snowden-polishing-off-a-diamond-season-in-switzerland/" target="_blank"&gt;Herne Hill Harriers Round-up: Katie Snowden Polishing Off A Diamond Season In Switzerland - Todayuknews&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Todayuknews&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMihwFodHRwczovL3d3dy50aGVyYWlsd2F5aHViLmNvLnVrLzYxMTI3L292ZXItMS04LWJpbGxpb24tc3BlbnQtYWNyb3NzLXRoZS1zb3V0aC1vbi1pbXByb3ZlbWVudHMtd2l0aC1wYXNzZW5nZXJzLXJldHVybmluZy10by10aGUtcmFpbHdheS_SAYsBaHR0cHM6Ly93d3cudGhlcmFpbHdheWh1Yi5jby51ay82MTEyNy9vdmVyLTEtOC1iaWxsaW9uLXNwZW50LWFjcm9zcy10aGUtc291dGgtb24taW1wcm92ZW1lbnRzLXdpdGgtcGFzc2VuZ2Vycy1yZXR1cm5pbmctdG8tdGhlLXJhaWx3YXkvYW1wLw?oc=5</id>
-    <title type="html">Over £1.8 billion spent across the south on improvements with passengers returning to the railway - The Railway Hub</title>
-    <updated>2021-09-01T11:49:27.000000000Z</updated>
-    <link href="https://www.therailwayhub.co.uk/61127/over-1-8-billion-spent-across-the-south-on-improvements-with-passengers-returning-to-the-railway/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.therailwayhub.co.uk/61127/over-1-8-billion-spent-across-the-south-on-improvements-with-passengers-returning-to-the-railway/" target="_blank"&gt;Over £1.8 billion spent across the south on improvements with passengers returning to the railway&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Railway Hub&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title> </title>
