@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-05T10:15:30Z</updated>
+  <updated>2021-09-05T10:51:02Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 63%, UV Risk: 3, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:39 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:39 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-05T07:01:00.000+0000</id>
-    <published>2021-09-05T10:02:26Z</published>
-    <updated>2021-09-05T10:02:26Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-05T09:56:00.000+0000</id>
+    <published>2021-09-05T10:36:14Z</published>
+    <updated>2021-09-05T10:36:14Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 15°C (58°F) Maximum Temperature: 27°C (80°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 15°C (59°F) Maximum Temperature: 27°C (80°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (80°F), Minimum Temperature: 15°C (58°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1024mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:21 BST, Sunset: 19:37 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (80°F), Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1024mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:21 BST, Sunset: 19:37 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-05T07:01:00.000+0000</id>
-    <published>2021-09-05T10:02:26Z</published>
-    <updated>2021-09-05T10:02:26Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-05T09:56:00.000+0000</id>
+    <published>2021-09-05T10:36:14Z</published>
+    <updated>2021-09-05T10:36:14Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 15°C (59°F) Maximum Temperature: 28°C (82°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (59°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 06:22 BST, Sunset: 19:34 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (59°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 06:22 BST, Sunset: 19:34 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-05T07:01:00.000+0000</id>
-    <published>2021-09-05T10:02:26Z</published>
-    <updated>2021-09-05T10:02:26Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-05T09:56:00.000+0000</id>
+    <published>2021-09-05T10:36:14Z</published>
+    <updated>2021-09-05T10:36:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGQ5EG0H60P5sCE0Ia-GW7MqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
@@ -135,37 +135,6 @@ LBSCR B4 class, built by Sharp Stewart entering service August 1901. Became SR B
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>UK - London - Near Balham - Golden Retriever ?</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51380598323/"/>
-    <id>tag:flickr.com,2005:/photo/51380598323</id>
-    <published>2021-08-15T19:50:31Z</published>
-    <updated>2021-08-15T19:50:31Z</updated>
-    <flickr:date_taken>2021-08-15T11:25:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-08-15T11:25:39-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51380598323/" title="UK - London - Near Balham - Golden Retriever ?"&gt;&lt;img src="https://live.staticflickr.com/65535/51380598323_193b18ac5d_m.jpg" width="240" height="180" alt="UK - London - Near Balham - Golden Retriever ?" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;August 2021.&lt;br /&gt;
-Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;/p&gt;</content>
-    <author>
-      <name>JulesFoto</name>
-      <uri>https://www.flickr.com/people/julesfoto/</uri>
-      <flickr:nsid>55578087@N08</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51380598323_193b18ac5d_b.jpg"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dog" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>UK - London - Near Balham - Big house</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51381370225/"/>
     <id>tag:flickr.com,2005:/photo/51381370225</id>
@@ -218,6 +187,43 @@ Du Cane Court is an Art Deco apartment block. It is possibly the largest private
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51379581617_50563b9189_b.jpg"/>
+    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="centrallondonoutdoorgroup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="apartmentblock" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>UK - London - Balham - Du Cane Court</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/julesfoto/51379581962/"/>
+    <id>tag:flickr.com,2005:/photo/51379581962</id>
+    <published>2021-08-15T19:46:53Z</published>
+    <updated>2021-08-15T19:46:53Z</updated>
+    <flickr:date_taken>2021-08-15T11:17:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-15T11:17:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/julesfoto/"&gt;JulesFoto&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/julesfoto/51379581962/" title="UK - London - Balham - Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/51379581962_cd71e97d24_m.jpg" width="240" height="180" alt="UK - London - Balham - Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;August 2021.&lt;br /&gt;
+Central London Outdoor Group (CLOG) walk from Streatham Common to Richmond.&lt;br /&gt;
+Du Cane Court is an Art Deco apartment block. It is possibly the largest privately owned block of flats under one roof in Europe. It has been used as a location for the TV series Poirot.&lt;/p&gt;</content>
+    <author>
+      <name>JulesFoto</name>
+      <uri>https://www.flickr.com/people/julesfoto/</uri>
+      <flickr:nsid>55578087@N08</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon03.png#55578087@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51379581962_cd71e97d24_b.jpg"/>
     <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
