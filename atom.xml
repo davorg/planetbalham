@@ -7,45 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-09T21:51:14Z</updated>
+  <updated>2021-09-09T22:15:28Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Light Cloud, Minimum Temperature: 17°C (63°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 17°C (63°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1009mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 19:27 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-09T21:53:00.000+0000</id>
+    <published>2021-09-09T22:04:49Z</published>
+    <updated>2021-09-09T22:04:49Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (72°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1010mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:25 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-09T21:53:00.000+0000</id>
+    <published>2021-09-09T22:04:49Z</published>
+    <updated>2021-09-09T22:04:49Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 22°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (56°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:23 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-09T21:53:00.000+0000</id>
+    <published>2021-09-09T22:04:49Z</published>
+    <updated>2021-09-09T22:04:49Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0taGVybmUtaGlsbC1oYXJyaWVyLWJhZ3MtbmludGgtaW4tZGlhbW9uZC1sZWFndWUtZmluYWwtaW4tenVyaWNoL9IBAA?oc=5</id>
     <title type="html">Balham Herne Hill Harrier bags ninth in Diamond League final in Zurich - London News Online</title>
     <updated>2021-09-09T21:32:40.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/balham-herne-hill-harrier-bags-ninth-in-diamond-league-final-in-zurich/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-herne-hill-harrier-bags-ninth-in-diamond-league-final-in-zurich/" target="_blank"&gt;Balham Herne Hill Harrier bags ninth in Diamond League final in Zurich&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 16°C (61°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunset: 19:30 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-09T19:59:00.000+0000</id>
-    <published>2021-09-09T21:03:08Z</published>
-    <updated>2021-09-09T21:03:08Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 15°C (60°F) Maximum Temperature: 22°C (72°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1010mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunrise: 06:27 BST, Sunset: 19:27 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-09T19:59:00.000+0000</id>
-    <published>2021-09-09T21:03:08Z</published>
-    <updated>2021-09-09T21:03:08Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (71°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:25 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-09T19:59:00.000+0000</id>
-    <published>2021-09-09T21:03:08Z</published>
-    <updated>2021-09-09T21:03:08Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>#fagbreak</title>
@@ -141,37 +141,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>"Oh!"</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51439427137/"/>
-    <id>tag:flickr.com,2005:/photo/51439427137</id>
-    <published>2021-09-09T18:17:26Z</published>
-    <updated>2021-09-09T18:17:26Z</updated>
-    <flickr:date_taken>2021-09-09T16:32:15-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:32:15-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51439427137/" title="&amp;quot;Oh!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51439427137_ecbccfa302_m.jpg" width="240" height="192" alt="&amp;quot;Oh!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51439427137_ecbccfa302_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Latte artist</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440431483/"/>
     <id>tag:flickr.com,2005:/photo/51440431483</id>
@@ -191,6 +160,37 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440431483_1a05b076cb_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"What?!"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440925874/"/>
+    <id>tag:flickr.com,2005:/photo/51440925874</id>
+    <published>2021-09-09T18:17:25Z</published>
+    <updated>2021-09-09T18:17:25Z</updated>
+    <flickr:date_taken>2021-09-09T16:32:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:32:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440925874/" title="&amp;quot;What?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51440925874_1267bfc8a7_m.jpg" width="240" height="192" alt="&amp;quot;What?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440925874_1267bfc8a7_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
@@ -224,11 +224,11 @@
     <content type="html">&lt;a href="https://www.thenorthernecho.co.uk/news/national/uk-today/19566302.9-11-attack-remember-67-uk-victims-20-years/" target="_blank"&gt;9/11 attack: Remember the 67 UK victims 20 years on&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Northern Echo&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnBiY3RvZGF5LmNvLnVrL25ld3MvcGxhbm5pbmctY29uc3RydWN0aW9uLW5ld3MvYnVpbGRpbmctYmV0dGVyLWhvbWVzLWxhbWJldGgvOTg3OTQv0gEA?oc=5</id>
-    <title type="html">A new model for building better homes in Lambeth - Planning, BIM &amp; Construction Today</title>
-    <updated>2021-09-07T08:43:29.000000000Z</updated>
-    <link href="https://www.pbctoday.co.uk/news/planning-construction-news/building-better-homes-lambeth/98794/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.pbctoday.co.uk/news/planning-construction-news/building-better-homes-lambeth/98794/" target="_blank"&gt;A new model for building better homes in Lambeth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Planning, BIM &amp; Construction Today&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnN3bG9uZG9uZXIuY28udWsvc3BvcnQvMDkwNzIwMjEtc25vd2Rlbi10aHJvd3Mtc3VwcG9ydC1iZWhpbmQtdG9vdGluZy1iZWMtYXRobGV0aWNzLXRyYWNrLXBldGl0aW9uL9IBAA?oc=5</id>
+    <title type="html">Snowden throws support behind Tooting Bec Athletics Track petition - South West Londoner</title>
+    <updated>2021-09-05T16:53:16.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/sport/09072021-snowden-throws-support-behind-tooting-bec-athletics-track-petition/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/09072021-snowden-throws-support-behind-tooting-bec-athletics-track-petition/" target="_blank"&gt;Snowden throws support behind Tooting Bec Athletics Track petition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
