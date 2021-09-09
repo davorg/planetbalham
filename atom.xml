@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-09T18:52:38Z</updated>
+  <updated>2021-09-09T19:14:48Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Light Cloud, Minimum Temperature: 16°C (61°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunset: 19:30 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-09T09:55:00.000+0000</id>
+    <published>2021-09-09T19:03:25Z</published>
+    <updated>2021-09-09T19:03:25Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (72°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1010mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunrise: 06:27 BST, Sunset: 19:27 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-09T09:55:00.000+0000</id>
+    <published>2021-09-09T19:03:25Z</published>
+    <updated>2021-09-09T19:03:25Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 22°C (72°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (56°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:25 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-09T09:55:00.000+0000</id>
+    <published>2021-09-09T19:03:25Z</published>
+    <updated>2021-09-09T19:03:25Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>#fagbreak</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51439425892/"/>
@@ -165,36 +195,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 16°C (61°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1008mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunset: 19:30 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-09T09:55:00.000+0000</id>
-    <published>2021-09-09T18:02:04Z</published>
-    <updated>2021-09-09T18:02:04Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (72°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 06:27 BST, Sunset: 19:27 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-09T09:55:00.000+0000</id>
-    <published>2021-09-09T18:02:04Z</published>
-    <updated>2021-09-09T18:02:04Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 22°C (72°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (56°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:25 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-09T09:55:00.000+0000</id>
-    <published>2021-09-09T18:02:04Z</published>
-    <updated>2021-09-09T18:02:04Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vbHV4dXJ5bG9uZG9uLmNvLnVrL3Rhc3RlL2Zvb2QvYmVzdC1yZXN0YXVyYW50cy1oYW1tZXJzbWl0aC1mdWxoYW0tbG9uZG9u0gEA?oc=5</id>
     <title type="html">The best restaurants in Hammersmith and Fulham | Food | Taste - Luxury London</title>
