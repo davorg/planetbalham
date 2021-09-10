@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-10T05:15:08Z</updated>
+  <updated>2021-09-10T05:50:42Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-09T21:53:00.000+0000</id>
     <published>2021-09-10T05:07:45Z</published>
     <updated>2021-09-10T05:07:45Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYWh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vbmV3cy8yMDIxLzA5LzEwL3RyYW5zZmVyLW5ld3MtcmVhbC1tYWRyaWQtZW50ZXItZmFiaW8tY2FydmFsaG8tcmFjZS_SAQA?oc=5</id>
+    <title type="html">Transfer News: Real Madrid enter Fabio Carvalho race - The Hard Tackle</title>
+    <updated>2021-09-10T05:05:07.000000000Z</updated>
+    <link href="http://www.thehardtackle.com/news/2021/09/10/transfer-news-real-madrid-enter-fabio-carvalho-race/" type="text/html"/>
+    <content type="html">&lt;a href="http://www.thehardtackle.com/news/2021/09/10/transfer-news-real-madrid-enter-fabio-carvalho-race/" target="_blank"&gt;Transfer News: Real Madrid enter Fabio Carvalho race&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Hard Tackle&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0taGVybmUtaGlsbC1oYXJyaWVyLWJhZ3MtbmludGgtaW4tZGlhbW9uZC1sZWFndWUtZmluYWwtaW4tenVyaWNoL9IBAA?oc=5</id>
@@ -172,16 +179,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>"What?!"</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440925874/"/>
-    <id>tag:flickr.com,2005:/photo/51440925874</id>
+    <title>Latte artist</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440431483/"/>
+    <id>tag:flickr.com,2005:/photo/51440431483</id>
     <published>2021-09-09T18:17:25Z</published>
     <updated>2021-09-09T18:17:25Z</updated>
-    <flickr:date_taken>2021-09-09T16:32:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:32:14-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-09-09T16:31:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:31:48-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440925874/" title="&amp;quot;What?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51440925874_1267bfc8a7_m.jpg" width="240" height="192" alt="&amp;quot;What?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440431483/" title="Latte artist"&gt;&lt;img src="https://live.staticflickr.com/65535/51440431483_1a05b076cb_m.jpg" width="192" height="240" alt="Latte artist" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
     <author>
@@ -190,7 +197,7 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440925874_1267bfc8a7_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440431483_1a05b076cb_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
@@ -222,13 +229,6 @@
     <updated>2021-09-05T14:00:35.000000000Z</updated>
     <link href="https://www.realhomes.com/completed-projects/real-home-extended-garden-flat-is-an-architectural-gem" type="text/html"/>
     <content type="html">&lt;a href="https://www.realhomes.com/completed-projects/real-home-extended-garden-flat-is-an-architectural-gem" target="_blank"&gt;Real home: Extended garden flat is an architectural gem&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Real Homes&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9nZXQtZml0LWluLWJhbGhhbS1hdC1uZXctZGFuY2Utc2Nob29sL9IBAA?oc=5</id>
-    <title type="html">Get fit in Balham at new dance school - London News Online</title>
-    <updated>2021-09-03T11:00:38.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/get-fit-in-balham-at-new-dance-school/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/get-fit-in-balham-at-new-dance-school/" target="_blank"&gt;Get fit in Balham at new dance school&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
