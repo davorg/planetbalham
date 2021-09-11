@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-11T01:37:45Z</updated>
+  <updated>2021-09-11T02:05:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 19:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-10T21:56:00.000+0000</id>
-    <published>2021-09-11T01:24:08Z</published>
-    <updated>2021-09-11T01:24:08Z</updated>
+    <published>2021-09-11T02:02:29Z</published>
+    <updated>2021-09-11T02:02:29Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-10T21:56:00.000+0000</id>
-    <published>2021-09-11T01:24:08Z</published>
-    <updated>2021-09-11T01:24:08Z</updated>
+    <published>2021-09-11T02:02:29Z</published>
+    <updated>2021-09-11T02:02:29Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1018mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 06:32 BST, Sunset: 19:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-10T21:56:00.000+0000</id>
-    <published>2021-09-11T01:24:08Z</published>
-    <updated>2021-09-11T01:24:08Z</updated>
+    <published>2021-09-11T02:02:29Z</published>
+    <updated>2021-09-11T02:02:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9ob3VzZS1pbi1kdXJoYW0tc2VsbHMtZm9yLXNhbWUv0gFFaHR0cHM6Ly93d3cuaW55b3VyYXJlYS5jby51ay9uZXdzL2hvdXNlLWluLWR1cmhhbS1zZWxscy1mb3Itc2FtZS9hbXAv?oc=5</id>
@@ -62,6 +62,39 @@
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-herne-hill-harrier-bags-ninth-in-diamond-league-final-in-zurich/" target="_blank"&gt;Balham Herne Hill Harrier bags ninth in Diamond League final in Zurich&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>#fagbreak</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51439425892/"/>
+    <id>tag:flickr.com,2005:/photo/51439425892</id>
+    <published>2021-09-09T18:17:27Z</published>
+    <updated>2021-09-09T18:17:27Z</updated>
+    <flickr:date_taken>2021-09-09T16:44:29-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:44:29-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51439425892/" title="#fagbreak"&gt;&lt;img src="https://live.staticflickr.com/65535/51439425892_5cb2b270ee_m.jpg" width="240" height="150" alt="#fagbreak" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51439425892_5cb2b270ee_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bleachbypass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colorefexpro4" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nik" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"Ugh"</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440426673/"/>
     <id>tag:flickr.com,2005:/photo/51440426673</id>
@@ -84,6 +117,36 @@
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Expressive</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440428618/"/>
+    <id>tag:flickr.com,2005:/photo/51440428618</id>
+    <published>2021-09-09T18:17:26Z</published>
+    <updated>2021-09-09T18:17:26Z</updated>
+    <flickr:date_taken>2021-09-09T16:43:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:43:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440428618/" title="Expressive"&gt;&lt;img src="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_m.jpg" width="240" height="150" alt="Expressive" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
@@ -145,68 +208,6 @@
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Floral espresso?</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440179301/"/>
-    <id>tag:flickr.com,2005:/photo/51440179301</id>
-    <published>2021-09-09T18:17:25Z</published>
-    <updated>2021-09-09T18:17:25Z</updated>
-    <flickr:date_taken>2021-09-09T16:31:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:31:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440179301/" title="Floral espresso?"&gt;&lt;img src="https://live.staticflickr.com/65535/51440179301_df1e66a7fe_m.jpg" width="240" height="160" alt="Floral espresso?" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440179301_df1e66a7fe_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Coffee with Im</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51441142530/"/>
-    <id>tag:flickr.com,2005:/photo/51441142530</id>
-    <published>2021-09-09T18:17:24Z</published>
-    <updated>2021-09-09T18:17:24Z</updated>
-    <flickr:date_taken>2021-09-09T16:31:09-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:31:09-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51441142530/" title="Coffee with Im"&gt;&lt;img src="https://live.staticflickr.com/65535/51441142530_44e3529871_m.jpg" width="240" height="160" alt="Coffee with Im" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51441142530_44e3529871_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="reflections" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
