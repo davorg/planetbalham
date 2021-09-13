@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-13T10:15:53Z</updated>
+  <updated>2021-09-13T10:50:31Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -196,16 +196,16 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Expressive</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440428618/"/>
-    <id>tag:flickr.com,2005:/photo/51440428618</id>
-    <published>2021-09-09T18:17:26Z</published>
-    <updated>2021-09-09T18:17:26Z</updated>
-    <flickr:date_taken>2021-09-09T16:43:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:43:52-08:00</dc:date.Taken>
+    <title>Latte artist</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440431483/"/>
+    <id>tag:flickr.com,2005:/photo/51440431483</id>
+    <published>2021-09-09T18:17:25Z</published>
+    <updated>2021-09-09T18:17:25Z</updated>
+    <flickr:date_taken>2021-09-09T16:31:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:31:48-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440428618/" title="Expressive"&gt;&lt;img src="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_m.jpg" width="240" height="150" alt="Expressive" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440431483/" title="Latte artist"&gt;&lt;img src="https://live.staticflickr.com/65535/51440431483_1a05b076cb_m.jpg" width="192" height="240" alt="Latte artist" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
     <author>
@@ -214,11 +214,12 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440431483_1a05b076cb_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
