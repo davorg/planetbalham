@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-14T08:16:55Z</updated>
+  <updated>2021-09-14T08:51:32Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiMGh0dHBzOi8vd3d3Lmxld2VzZmMuY29tL2FydGljbGUvcHJldmlldy1tZXJzdGhhbdIBAA?oc=5</id>
+    <title type="html">Preview - Merstham - lewesfc.com</title>
+    <updated>2021-09-14T08:22:37.000000000Z</updated>
+    <link href="https://www.lewesfc.com/article/preview-merstham" type="text/html"/>
+    <content type="html">&lt;a href="https://www.lewesfc.com/article/preview-merstham" target="_blank"&gt;Preview - Merstham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;lewesfc.com&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Thundery Showers, Minimum Temperature: 14°C (58°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -100,13 +107,6 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
     <updated>2021-09-11T07:56:53.000000000Z</updated>
     <link href="https://www.readingchronicle.co.uk/news/19574401.9-11-attack-remember-67-uk-victims-20-years/" type="text/html"/>
     <content type="html">&lt;a href="https://www.readingchronicle.co.uk/news/19574401.9-11-attack-remember-67-uk-victims-20-years/" target="_blank"&gt;9/11 attack: Remember the 67 UK victims 20 years on&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Reading Chronicle&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTczMDMwLnRocmVlLXNvdXRoLWxvbmRvbi12aWN0aW1zLTktMTEtdGVycm9yLWF0dGFja3Mv0gEA?oc=5</id>
-    <title type="html">Revealed: The three south London victims of the 9/11 terror attacks - Wandsworth Guardian</title>
-    <updated>2021-09-11T05:00:00.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19573030.three-south-london-victims-9-11-terror-attacks/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19573030.three-south-london-victims-9-11-terror-attacks/" target="_blank"&gt;Revealed: The three south London victims of the 9/11 terror attacks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>#fagbreak</title>
