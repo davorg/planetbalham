@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-16T14:51:11Z</updated>
+  <updated>2021-09-16T15:15:18Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMigwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTk5OTgxNzEvTmV3LVR1YmUtbWFwLXVudmVpbGVkLXNob3dpbmctTmluZS1FbG1zLUJhdHRlcnNlYS1Qb3dlci1TdGF0aW9uLU5vcnRoZXJuLUxpbmUuaHRtbNIBhwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTk5OTgxNzEvYW1wL05ldy1UdWJlLW1hcC11bnZlaWxlZC1zaG93aW5nLU5pbmUtRWxtcy1CYXR0ZXJzZWEtUG93ZXItU3RhdGlvbi1Ob3J0aGVybi1MaW5lLmh0bWw?oc=5</id>
+    <title type="html">New Tube map is unveiled showing Nine Elms and Battersea Power Station on the Northern Line - Daily Mail</title>
+    <updated>2021-09-16T15:09:45.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-9998171/New-Tube-map-unveiled-showing-Nine-Elms-Battersea-Power-Station-Northern-Line.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-9998171/New-Tube-map-unveiled-showing-Nine-Elms-Battersea-Power-Station-Northern-Line.html" target="_blank"&gt;New Tube map is unveiled showing Nine Elms and Battersea Power Station on the Northern Line&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:36 BST, Sunset: 19:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-16T09:54:00.000+0000</id>
-    <published>2021-09-16T14:50:31Z</published>
-    <updated>2021-09-16T14:50:31Z</updated>
+    <published>2021-09-16T15:00:43Z</published>
+    <updated>2021-09-16T15:00:43Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 06:38 BST, Sunset: 19:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-16T09:54:00.000+0000</id>
-    <published>2021-09-16T14:50:31Z</published>
-    <updated>2021-09-16T14:50:31Z</updated>
+    <published>2021-09-16T15:00:43Z</published>
+    <updated>2021-09-16T15:00:43Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (72°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:40 BST, Sunset: 19:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-16T09:54:00.000+0000</id>
-    <published>2021-09-16T14:50:31Z</published>
-    <updated>2021-09-16T14:50:31Z</updated>
+    <published>2021-09-16T15:00:43Z</published>
+    <updated>2021-09-16T15:00:43Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHDkyIdP7LxtAhf2CzLwDgUqGQgEKhAIACoHCAowiM_7CjDeyfQCMIzk0wU?oc=5</id>
@@ -100,13 +107,6 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
     <updated>2021-09-11T05:00:00.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19573030.three-south-london-victims-9-11-terror-attacks/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19573030.three-south-london-victims-9-11-terror-attacks/" target="_blank"&gt;Revealed: The three south London victims of the 9/11 terror attacks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3Lm11c2V1bXNhc3NvY2lhdGlvbi5vcmcvbXVzZXVtcy1qb3VybmFsL3Jldmlld3MvMjAyMS8wOS9hLWN1dC1hYm92ZS_SAQA?oc=5</id>
-    <title type="html">A cut above - Museums Association</title>
-    <updated>2021-09-10T07:56:16.000000000Z</updated>
-    <link href="https://www.museumsassociation.org/museums-journal/reviews/2021/09/a-cut-above/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.museumsassociation.org/museums-journal/reviews/2021/09/a-cut-above/" target="_blank"&gt;A cut above&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Museums Association&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>#fagbreak</title>
@@ -172,6 +172,36 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Expressive</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440428618/"/>
+    <id>tag:flickr.com,2005:/photo/51440428618</id>
+    <published>2021-09-09T18:17:26Z</published>
+    <updated>2021-09-09T18:17:26Z</updated>
+    <flickr:date_taken>2021-09-09T16:43:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:43:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440428618/" title="Expressive"&gt;&lt;img src="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_m.jpg" width="240" height="150" alt="Expressive" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"Oh!"</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51439427137/"/>
     <id>tag:flickr.com,2005:/photo/51439427137</id>
@@ -196,36 +226,6 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Expressive</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440428618/"/>
-    <id>tag:flickr.com,2005:/photo/51440428618</id>
-    <published>2021-09-09T18:17:26Z</published>
-    <updated>2021-09-09T18:17:26Z</updated>
-    <flickr:date_taken>2021-09-09T16:43:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:43:52-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440428618/" title="Expressive"&gt;&lt;img src="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_m.jpg" width="240" height="150" alt="Expressive" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
