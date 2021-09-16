@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-16T11:50:36Z</updated>
+  <updated>2021-09-16T12:16:38Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 06:36 BST, Sunset: 19:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-16T09:54:00.000+0000</id>
-    <published>2021-09-16T11:49:50Z</published>
-    <updated>2021-09-16T11:49:50Z</updated>
+    <published>2021-09-16T12:03:33Z</published>
+    <updated>2021-09-16T12:03:33Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 06:38 BST, Sunset: 19:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-16T09:54:00.000+0000</id>
-    <published>2021-09-16T11:49:50Z</published>
-    <updated>2021-09-16T11:49:50Z</updated>
+    <published>2021-09-16T12:03:33Z</published>
+    <updated>2021-09-16T12:03:33Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (72°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:40 BST, Sunset: 19:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-16T09:54:00.000+0000</id>
-    <published>2021-09-16T11:49:50Z</published>
-    <updated>2021-09-16T11:49:50Z</updated>
+    <published>2021-09-16T12:03:33Z</published>
+    <updated>2021-09-16T12:03:33Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHDkyIdP7LxtAhf2CzLwDgUqGQgEKhAIACoHCAowiM_7CjDeyfQCMIzk0wU?oc=5</id>
@@ -53,13 +53,6 @@
     <updated>2021-09-14T16:29:20.000000000Z</updated>
     <link href="https://todayuknews.com/entertainment/threats-and-claims-of-playing-the-race-card-in-a-battle-over-greenhouses-at-dulwich-allotments/" type="text/html"/>
     <content type="html">&lt;a href="https://todayuknews.com/entertainment/threats-and-claims-of-playing-the-race-card-in-a-battle-over-greenhouses-at-dulwich-allotments/" target="_blank"&gt;Threats And Claims Of “playing The Race Card” In A Battle Over Greenhouses At Dulwich Allotments - Todayuknews&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Todayuknews&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEL-mxIZPJejH0kxPMKDbB98qGQgEKhAIACoHCAow8KiRCzCh9qUDMKLOtwY?oc=5</id>
-    <title type="html">Leeds and Real Madrid target Fabio Carvalho wins EFL award - HITC - Football, Gaming, Movies, TV, Music</title>
-    <updated>2021-09-14T12:30:43.000000000Z</updated>
-    <link href="https://www.hitc.com/en-gb/2021/09/14/leeds-and-real-madrid-target-fabio-carvalho-wins-efl-award/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hitc.com/en-gb/2021/09/14/leeds-and-real-madrid-target-fabio-carvalho-wins-efl-award/" target="_blank"&gt;Leeds and Real Madrid target Fabio Carvalho wins EFL award&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HITC - Football, Gaming, Movies, TV, Music&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTc3MjgzLmJhbGhhbS1zdGF0aW9uLWxvcnJ5LXN0cmlrZXMtcmFpbHdheS1icmlkZ2Uv0gEA?oc=5</id>
@@ -108,6 +101,13 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NTczMDMwLnRocmVlLXNvdXRoLWxvbmRvbi12aWN0aW1zLTktMTEtdGVycm9yLWF0dGFja3Mv0gEA?oc=5</id>
+    <title type="html">Revealed: The three south London victims of the 9/11 terror attacks - Wandsworth Guardian</title>
+    <updated>2021-09-11T05:00:00.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19573030.three-south-london-victims-9-11-terror-attacks/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19573030.three-south-london-victims-9-11-terror-attacks/" target="_blank"&gt;Revealed: The three south London victims of the 9/11 terror attacks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>#fagbreak</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51439425892/"/>
