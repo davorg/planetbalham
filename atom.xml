@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-20T10:50:28Z</updated>
+  <updated>2021-09-20T11:15:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 10°C (50°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:43 BST, Sunset: 19:04 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 10°C (50°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1023mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 06:43 BST, Sunset: 19:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-20T09:53:00.000+0000</id>
-    <published>2021-09-20T10:11:23Z</published>
-    <updated>2021-09-20T10:11:23Z</updated>
+    <published>2021-09-20T11:12:28Z</published>
+    <updated>2021-09-20T11:12:28Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:02 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-20T09:53:00.000+0000</id>
-    <published>2021-09-20T10:11:23Z</published>
-    <updated>2021-09-20T10:11:23Z</updated>
+    <published>2021-09-20T11:12:28Z</published>
+    <updated>2021-09-20T11:12:28Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (71°F)</title>
@@ -37,11 +37,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:46 BST, Sunset: 19:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-20T09:53:00.000+0000</id>
-    <published>2021-09-20T10:11:23Z</published>
-    <updated>2021-09-20T10:11:23Z</updated>
+    <published>2021-09-20T11:12:28Z</published>
+    <updated>2021-09-20T11:12:28Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEC_TGjgBOaZ5wYAcLoh1fHYqGQgEKhAIACoHCAowzuOICzCZ4ocDMJ3joAY?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEC_TGjgBOaZ5wYAcLoh1fHYqGQgEKhAIACoHCAowzuOICzCZ4ocDMPy1pwY?oc=5</id>
     <title type="html">First new London Tube line in 22 years opens as £1.1bn Northern line extension carries passengers - Daily Mail</title>
     <updated>2021-09-20T09:44:14.000000000Z</updated>
     <link href="https://www.dailymail.co.uk/news/article-10008543/First-new-London-Tube-line-22-years-opens-1-1bn-Northern-line-extension-carries-passengers.html" type="text/html"/>
@@ -142,16 +142,16 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Expressive</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440428618/"/>
-    <id>tag:flickr.com,2005:/photo/51440428618</id>
-    <published>2021-09-09T18:17:26Z</published>
-    <updated>2021-09-09T18:17:26Z</updated>
-    <flickr:date_taken>2021-09-09T16:43:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:43:52-08:00</dc:date.Taken>
+    <title>"Ugh"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440426673/"/>
+    <id>tag:flickr.com,2005:/photo/51440426673</id>
+    <published>2021-09-09T18:17:27Z</published>
+    <updated>2021-09-09T18:17:27Z</updated>
+    <flickr:date_taken>2021-09-09T16:50:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:50:16-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440428618/" title="Expressive"&gt;&lt;img src="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_m.jpg" width="240" height="150" alt="Expressive" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440426673/" title="&amp;quot;Ugh&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51440426673_bc83c66d54_m.jpg" width="240" height="150" alt="&amp;quot;Ugh&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
     <author>
@@ -160,10 +160,10 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440428618_3416e0a5eb_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440426673_bc83c66d54_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
