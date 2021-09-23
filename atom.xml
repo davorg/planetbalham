@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-23T02:53:35Z</updated>
+  <updated>2021-09-23T03:15:35Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 13°C (55°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 18:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 18:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-22T21:52:00.000+0000</id>
-    <published>2021-09-23T02:00:01Z</published>
-    <updated>2021-09-23T02:00:01Z</updated>
+    <published>2021-09-23T03:02:15Z</published>
+    <updated>2021-09-23T03:02:15Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1020mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 06:49 BST, Sunset: 18:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-22T21:52:00.000+0000</id>
-    <published>2021-09-23T02:00:01Z</published>
-    <updated>2021-09-23T02:00:01Z</updated>
+    <published>2021-09-23T03:02:15Z</published>
+    <updated>2021-09-23T03:02:15Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 15°C (58°F) Maximum Temperature: 23°C (74°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:51 BST, Sunset: 18:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-22T21:52:00.000+0000</id>
-    <published>2021-09-23T02:00:01Z</published>
-    <updated>2021-09-23T02:00:01Z</updated>
+    <published>2021-09-23T03:02:15Z</published>
+    <updated>2021-09-23T03:02:15Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vYnJpeHRvbmJsb2cuY29tLzIwMjEvMDkvYmVsbGVmaWVsZHMtc2VhZm9vZC1zaW1wbGljaXR5LWFuZC1zdGFydHVwLWNvdXR1cmUtaW4tdGhlLWhlYXJ0LW9mLWJyaXh0b24v0gEA?oc=5</id>
+    <title type="html">Bellefields: Seafood, Simplicity and Startup couture in the heart of Brixton - Brixton Blog</title>
+    <updated>2021-09-22T09:01:00.000000000Z</updated>
+    <link href="https://brixtonblog.com/2021/09/bellefields-seafood-simplicity-and-startup-couture-in-the-heart-of-brixton/" type="text/html"/>
+    <content type="html">&lt;a href="https://brixtonblog.com/2021/09/bellefields-seafood-simplicity-and-startup-couture-in-the-heart-of-brixton/" target="_blank"&gt;Bellefields: Seafood, Simplicity and Startup couture in the heart of Brixton&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Brixton Blog&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJj-PCkZsK1oL_sRaqqb5LoqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-09-17T06:00:51.000000000Z</updated>
     <link href="https://www.ianvisits.co.uk/blog/2021/09/17/londons-weekly-railway-news-163/" type="text/html"/>
     <content type="html">&lt;a href="https://www.ianvisits.co.uk/blog/2021/09/17/londons-weekly-railway-news-163/" target="_blank"&gt;London's weekly railway news&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IanVisits&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90cmluaXR5LWFjYWRlbXktYWNhZGVtaWMtcmlnb3VyLWFuZC1lZHVjYXRpb25hbC1leGNlbGxlbmNlL9IBAA?oc=5</id>
-    <title type="html">Trinity Academy – Academic rigour and educational excellence – South London News - London News Online</title>
-    <updated>2021-09-16T22:59:26.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/trinity-academy-academic-rigour-and-educational-excellence/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/trinity-academy-academic-rigour-and-educational-excellence/" target="_blank"&gt;Trinity Academy – Academic rigour and educational excellence – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>LBSCR B4 53 RICHMOND at Balham Intermediate with a Hove and Worthing Pullman express</title>
