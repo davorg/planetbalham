@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-23T22:50:59Z</updated>
+  <updated>2021-09-23T23:15:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1018mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 18:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-23T21:00:00.000+0000</id>
-    <published>2021-09-23T22:12:31Z</published>
-    <updated>2021-09-23T22:12:31Z</updated>
+    <published>2021-09-23T23:12:58Z</published>
+    <updated>2021-09-23T23:12:58Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 23°C (73°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 06:51 BST, Sunset: 18:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-23T21:00:00.000+0000</id>
-    <published>2021-09-23T22:12:31Z</published>
-    <updated>2021-09-23T22:12:31Z</updated>
+    <published>2021-09-23T23:12:58Z</published>
+    <updated>2021-09-23T23:12:58Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:52 BST, Sunset: 18:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-23T21:00:00.000+0000</id>
-    <published>2021-09-23T22:12:31Z</published>
-    <updated>2021-09-23T22:12:31Z</updated>
+    <published>2021-09-23T23:12:58Z</published>
+    <updated>2021-09-23T23:12:58Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd2hvLXdhbnRzLXRvLWJlLWEtbWlsbGlvbmFpcmUtY29tcG9zZXItbWF0dGhldy1zdHJhY2hhbi1kaWVzLWFnZWQtNTAtandiZHc1bnI40gEA?oc=5</id>
-    <title type="html">Who Wants to be a Millionaire? composer Matthew Strachan dies aged 50 - The Times</title>
-    <updated>2021-09-23T11:10:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/who-wants-to-be-a-millionaire-composer-matthew-strachan-dies-aged-50-jwbdw5nr8" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/who-wants-to-be-a-millionaire-composer-matthew-strachan-dies-aged-50-jwbdw5nr8" target="_blank"&gt;Who Wants to be a Millionaire? composer Matthew Strachan dies aged 50&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWF0dGhldy1zdHJhY2hhbi1vYml0dWFyeS1wc21tOXBuM2zSAQA?oc=5</id>
+    <title type="html">Matthew Strachan obituary | Register - The Times</title>
+    <updated>2021-09-23T23:01:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/matthew-strachan-obituary-psmm9pn3l" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/matthew-strachan-obituary-psmm9pn3l" target="_blank"&gt;Matthew Strachan obituary | Register&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJj-PCkZsK1oL_sRaqqb5LoqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -105,39 +105,6 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
     <category term="monochrome" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="steam" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>#fagbreak</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51439425892/"/>
-    <id>tag:flickr.com,2005:/photo/51439425892</id>
-    <published>2021-09-09T18:17:27Z</published>
-    <updated>2021-09-09T18:17:27Z</updated>
-    <flickr:date_taken>2021-09-09T16:44:29-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-09T16:44:29-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51439425892/" title="#fagbreak"&gt;&lt;img src="https://live.staticflickr.com/65535/51439425892_5cb2b270ee_m.jpg" width="240" height="150" alt="#fagbreak" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51439425892_5cb2b270ee_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bleachbypass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colorefexpro4" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nik" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -221,6 +188,37 @@ Built at Brighton entering service January 1900 named SIRDAR. Renamed RICHMOND N
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51439427137_ecbccfa302_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="espresso" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="joice" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Latte artist</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51440431483/"/>
+    <id>tag:flickr.com,2005:/photo/51440431483</id>
+    <published>2021-09-09T18:17:25Z</published>
+    <updated>2021-09-09T18:17:25Z</updated>
+    <flickr:date_taken>2021-09-09T16:31:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-09T16:31:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51440431483/" title="Latte artist"&gt;&lt;img src="https://live.staticflickr.com/65535/51440431483_1a05b076cb_m.jpg" width="192" height="240" alt="Latte artist" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Joice Cafe, nr. Tooting Bec, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51440431483_1a05b076cb_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
