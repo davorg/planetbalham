@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-26T17:16:35Z</updated>
+  <updated>2021-09-26T17:50:46Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -200,6 +200,13 @@
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEHRcwF2kKpVvrfW1UlvjT-kqGQgEKhAIACoHCAowy4KeCzDcjLYDMNrl6QY?oc=5</id>
+    <title type="html">Quirky spots for a drink in London - South West Londoner</title>
+    <updated>2021-09-24T12:09:13.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/food-drink/24092021-quirky-spots-for-a-drink-in-london/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/food-drink/24092021-quirky-spots-for-a-drink-in-london/" target="_blank"&gt;Quirky spots for a drink in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEP03k1StFU5itJyg8tXK71IqGQgEKhAIACoHCAow3aOfCzDqrbcDMMK17wY?oc=5</id>
     <title type="html">Female leader speaking at the UN General Assembly - Texasnewstoday.com</title>
     <updated>2021-09-24T09:59:38.000000000Z</updated>
@@ -212,13 +219,6 @@
     <updated>2021-09-24T01:53:48.000000000Z</updated>
     <link href="https://texasnewstoday.com/united-nations-spotlight-needs-to-produce-healthy-food-for-everyone/473878/" type="text/html"/>
     <content type="html">&lt;a href="https://texasnewstoday.com/united-nations-spotlight-needs-to-produce-healthy-food-for-everyone/473878/" target="_blank"&gt;United Nations spotlight needs to produce healthy food for everyone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Texasnewstoday.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL2JlYXZlcnRvd24taXMtZ2l2aW5nLWF3YXktOC0wMDAtZnJlZS1waW50cy10aGlzLXdlZWtlbmQtMDkyMzIx0gEA?oc=5</id>
-    <title type="html">Beavertown is giving away 8,000 free pints this weekend - Time Out London</title>
-    <updated>2021-09-23T16:36:00.000000000Z</updated>
-    <link href="https://www.timeout.com/london/news/beavertown-is-giving-away-8-000-free-pints-this-weekend-092321" type="text/html"/>
-    <content type="html">&lt;a href="https://www.timeout.com/london/news/beavertown-is-giving-away-8-000-free-pints-this-weekend-092321" target="_blank"&gt;Beavertown is giving away 8,000 free pints this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
