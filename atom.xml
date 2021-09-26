@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-26T05:51:21Z</updated>
+  <updated>2021-09-26T06:15:58Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 06:52 BST, Sunset: 18:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-25T21:55:00.000+0000</id>
-    <published>2021-09-26T05:46:50Z</published>
-    <updated>2021-09-26T05:46:50Z</updated>
+    <published>2021-09-26T06:03:12Z</published>
+    <updated>2021-09-26T06:03:12Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1010mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:54 BST, Sunset: 18:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-25T21:55:00.000+0000</id>
-    <published>2021-09-26T05:46:50Z</published>
-    <updated>2021-09-26T05:46:50Z</updated>
+    <published>2021-09-26T06:03:12Z</published>
+    <updated>2021-09-26T06:03:12Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 06:56 BST, Sunset: 18:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-25T21:55:00.000+0000</id>
-    <published>2021-09-26T05:46:50Z</published>
-    <updated>2021-09-26T05:46:50Z</updated>
+    <published>2021-09-26T06:03:12Z</published>
+    <updated>2021-09-26T06:03:12Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJ1Qeq3xJX8W9PAkRc_85hIqGAgEKg8IACoHCAow-4fWBzD4z0gw_fCpBg?oc=5</id>
@@ -74,6 +74,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019376_76ef7f1240_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Bold</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019601/"/>
+    <id>tag:flickr.com,2005:/photo/51515019601</id>
+    <published>2021-09-25T14:57:37Z</published>
+    <updated>2021-09-25T14:57:37Z</updated>
+    <flickr:date_taken>2021-09-25T12:09:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:09:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515019601/" title="Bold"&gt;&lt;img src="https://live.staticflickr.com/65535/51515019601_089e35b51b_m.jpg" width="240" height="160" alt="Bold" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019601_089e35b51b_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
@@ -161,35 +190,6 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>"Is she still there?"</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735839/"/>
-    <id>tag:flickr.com,2005:/photo/51515735839</id>
-    <published>2021-09-25T14:57:35Z</published>
-    <updated>2021-09-25T14:57:35Z</updated>
-    <flickr:date_taken>2021-09-25T12:05:32-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:05:32-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735839/" title="&amp;quot;Is she still there?&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735839_509339f577_m.jpg" width="240" height="150" alt="&amp;quot;Is she still there?&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735839_509339f577_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
