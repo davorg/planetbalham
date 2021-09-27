@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-27T09:16:04Z</updated>
+  <updated>2021-09-27T09:51:34Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy91LWstdGFrZXMtZW1lcmdlbmN5LXN0ZXBzLTA1NTk0NDkwNy5odG1s0gFSaHR0cHM6Ly91ay5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvdS1rLXRha2VzLWVtZXJnZW5jeS1zdGVwcy0wNTU5NDQ5MDcuaHRtbA?oc=5</id>
+    <title type="html">U.K. Takes Emergency Steps as Fuel Panic Spreads: Energy Update - Yahoo Finance UK</title>
+    <updated>2021-09-27T09:38:23.000000000Z</updated>
+    <link href="https://uk.finance.yahoo.com/news/u-k-takes-emergency-steps-055944907.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.finance.yahoo.com/news/u-k-takes-emergency-steps-055944907.html" target="_blank"&gt;U.K. Takes Emergency Steps as Fuel Panic Spreads: Energy Update&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -46,13 +53,6 @@
     <updated>2021-09-25T16:49:15.000000000Z</updated>
     <link href="https://www.ft.com/content/1bf02628-3b06-4935-aab3-907acf4bc3ea" type="text/html"/>
     <content type="html">&lt;a href="https://www.ft.com/content/1bf02628-3b06-4935-aab3-907acf4bc3ea" target="_blank"&gt;UK motorists face queues and closures at petrol stations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Financial Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy01ODY4NzAyNtIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy01ODY4NzAyNi5hbXA?oc=5</id>
-    <title type="html">Lorry driver shortage: Temporary visa scheme to run until Christmas Eve - BBC News</title>
-    <updated>2021-09-25T16:30:33.000000000Z</updated>
-    <link href="https://www.bbc.com/news/business-58687026" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bbc.com/news/business-58687026" target="_blank"&gt;Lorry driver shortage: Temporary visa scheme to run until Christmas Eve&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
@@ -113,35 +113,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Slow and speedy</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
-    <id>tag:flickr.com,2005:/photo/51514223132</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Disapproving</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
     <id>tag:flickr.com,2005:/photo/51515735314</id>
@@ -190,6 +161,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Is she still there?"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735839/"/>
+    <id>tag:flickr.com,2005:/photo/51515735839</id>
+    <published>2021-09-25T14:57:35Z</published>
+    <updated>2021-09-25T14:57:35Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735839/" title="&amp;quot;Is she still there?&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735839_509339f577_m.jpg" width="240" height="150" alt="&amp;quot;Is she still there?&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735839_509339f577_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
