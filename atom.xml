@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-28T14:50:42Z</updated>
+  <updated>2021-09-28T15:15:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmNvbW11bml0eWFkdm9jYXRlLmNvbS8yMDIxLzA5LzI4L2plYW4tdi1iZWRkb3ctYXJudGgtOTYtb2YtaHVkc29uL9IBAA?oc=5</id>
-    <title type="html">Jean V. Beddow-Arnth, 96, of Hudson - Community Advocate</title>
-    <updated>2021-09-28T14:28:53.000000000Z</updated>
-    <link href="https://www.communityadvocate.com/2021/09/28/jean-v-beddow-arnth-96-of-hudson/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.communityadvocate.com/2021/09/28/jean-v-beddow-arnth-96-of-hudson/" target="_blank"&gt;Jean V. Beddow-Arnth, 96, of Hudson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Community Advocate&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 10°C (49°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (49°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1014mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 06:56 BST, Sunset: 18:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-28T09:57:00.000+0000</id>
-    <published>2021-09-28T14:27:06Z</published>
-    <updated>2021-09-28T14:27:06Z</updated>
+    <published>2021-09-28T15:00:13Z</published>
+    <updated>2021-09-28T15:00:13Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (60°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:57 BST, Sunset: 18:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-28T09:57:00.000+0000</id>
-    <published>2021-09-28T14:27:06Z</published>
-    <updated>2021-09-28T14:27:06Z</updated>
+    <published>2021-09-28T15:00:13Z</published>
+    <updated>2021-09-28T15:00:13Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 16°C (61°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1020mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:59 BST, Sunset: 18:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-28T09:57:00.000+0000</id>
-    <published>2021-09-28T14:27:06Z</published>
-    <updated>2021-09-28T14:27:06Z</updated>
+    <published>2021-09-28T15:00:13Z</published>
+    <updated>2021-09-28T15:00:13Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmNvbW11bml0eWFkdm9jYXRlLmNvbS8yMDIxLzA5LzI4L2plYW4tdi1iZWRkb3ctYXJudGgtOTYtb2YtaHVkc29uL9IBAA?oc=5</id>
+    <title type="html">Jean V. Beddow-Arnth, 96, of Hudson - Community Advocate</title>
+    <updated>2021-09-28T14:28:53.000000000Z</updated>
+    <link href="https://www.communityadvocate.com/2021/09/28/jean-v-beddow-arnth-96-of-hudson/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.communityadvocate.com/2021/09/28/jean-v-beddow-arnth-96-of-hudson/" target="_blank"&gt;Jean V. Beddow-Arnth, 96, of Hudson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Community Advocate&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJZq7C1IHrscL3DfoOyp8ZgqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
@@ -62,7 +62,7 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/zone-1-news/what-newest-london-underground-line-21693425" target="_blank"&gt;What the newest London Underground line will be called&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEBh1j3lZOXMSbIOdPCSuq8EqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEBh1j3lZOXMSbIOdPCSuq8EqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
     <title type="html">Driver 'verbally abused twice in 5 minutes' while passing petrol queue in London - My London</title>
     <updated>2021-09-28T09:49:06.000000000Z</updated>
     <link href="https://www.mylondon.news/news/zone-1-news/driver-verbally-abused-twice-5-21695442" type="text/html"/>
@@ -76,16 +76,16 @@
     <content type="html">&lt;a href="https://finance.yahoo.com/news/u-k-fuel-panic-deepens-142720762.html" target="_blank"&gt;U.K. Fuel Panic Deepens the Pain in Crisis-Prone Economy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Unamused</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
-    <id>tag:flickr.com,2005:/photo/51515019376</id>
-    <published>2021-09-25T14:57:38Z</published>
-    <updated>2021-09-25T14:57:38Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:41-08:00</dc:date.Taken>
+    <title>Disapproving</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
+    <id>tag:flickr.com,2005:/photo/51515735314</id>
+    <published>2021-09-25T14:57:37Z</published>
+    <updated>2021-09-25T14:57:37Z</updated>
+    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515019376/" title="Unamused"&gt;&lt;img src="https://live.staticflickr.com/65535/51515019376_76ef7f1240_m.jpg" width="240" height="160" alt="Unamused" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
     <author>
@@ -94,7 +94,7 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019376_76ef7f1240_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
@@ -163,35 +163,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Disapproving</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
-    <id>tag:flickr.com,2005:/photo/51515735314</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"Enough?!"</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
     <id>tag:flickr.com,2005:/photo/51514223237</id>
@@ -211,6 +182,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Is she still there?"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735839/"/>
+    <id>tag:flickr.com,2005:/photo/51515735839</id>
+    <published>2021-09-25T14:57:35Z</published>
+    <updated>2021-09-25T14:57:35Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735839/" title="&amp;quot;Is she still there?&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735839_509339f577_m.jpg" width="240" height="150" alt="&amp;quot;Is she still there?&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735839_509339f577_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
