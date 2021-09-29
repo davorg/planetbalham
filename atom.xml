@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-29T17:17:03Z</updated>
+  <updated>2021-09-29T17:50:34Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 72%, UV Risk: 0, Pollution: Low, Sunset: 18:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-29T09:54:00.000+0000</id>
-    <published>2021-09-29T17:01:37Z</published>
-    <updated>2021-09-29T17:01:37Z</updated>
+    <published>2021-09-29T17:45:14Z</published>
+    <updated>2021-09-29T17:45:14Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1021mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:59 BST, Sunset: 18:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-29T09:54:00.000+0000</id>
-    <published>2021-09-29T17:01:37Z</published>
-    <updated>2021-09-29T17:01:37Z</updated>
+    <published>2021-09-29T17:45:14Z</published>
+    <updated>2021-09-29T17:45:14Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1010mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 07:00 BST, Sunset: 18:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-29T09:54:00.000+0000</id>
-    <published>2021-09-29T17:01:37Z</published>
-    <updated>2021-09-29T17:01:37Z</updated>
+    <published>2021-09-29T17:45:14Z</published>
+    <updated>2021-09-29T17:45:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPZ6en8Rpa0V4_Vdk6IrBTIqGQgEKhAIACoHCAowy4KeCzDcjLYDMNfl6QY?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-09-29T15:04:43.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/sport/29092021-balham-fc-backing-youth-despite-rocky-start-to-the-season/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/29092021-balham-fc-backing-youth-despite-rocky-start-to-the-season/" target="_blank"&gt;Balham FC backing youth despite rocky start to the season&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMTA4OS9qYWNraWUtd2VhdmVyLXBhbmVsLXNob3fSAQA?oc=5</id>
+    <title type="html">Jackie Weaver To Host Comedy Panel Show - Beyond The Joke</title>
+    <updated>2021-09-29T09:50:05.000000000Z</updated>
+    <link href="https://www.beyondthejoke.co.uk/content/11089/jackie-weaver-panel-show" type="text/html"/>
+    <content type="html">&lt;a href="https://www.beyondthejoke.co.uk/content/11089/jackie-weaver-panel-show" target="_blank"&gt;Jackie Weaver To Host Comedy Panel Show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LmxlaXRyaW1vYnNlcnZlci5pZS9uZXdzL3JlY2VudC1kZWF0aHMvNjcwODQ1L2RlYXRocy1pbi1sZWl0cmltLXdlZG5lc2RheS1zZXB0ZW1iZXItMjktMjAyMS5odG1s0gEA?oc=5</id>
@@ -68,42 +75,6 @@
     <link href="https://www.communityadvocate.com/2021/09/28/jean-v-beddow-arnth-96-of-hudson/" type="text/html"/>
     <content type="html">&lt;a href="https://www.communityadvocate.com/2021/09/28/jean-v-beddow-arnth-96-of-hudson/" target="_blank"&gt;Jean V. Beddow-Arnth, 96, of Hudson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Community Advocate&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJZq7C1IHrscL3DfoOyp8ZgqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
-    <title type="html">Tooting is becoming one of London's hottest property spots - Metro.co.uk</title>
-    <updated>2021-09-28T12:04:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2021/09/28/tooting-is-becoming-one-of-londons-hottest-property-spots-15326757/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2021/09/28/tooting-is-becoming-one-of-londons-hottest-property-spots-15326757/" target="_blank"&gt;Tooting is becoming one of London's hottest property spots&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Unamused</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
-    <id>tag:flickr.com,2005:/photo/51515019376</id>
-    <published>2021-09-25T14:57:38Z</published>
-    <updated>2021-09-25T14:57:38Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515019376/" title="Unamused"&gt;&lt;img src="https://live.staticflickr.com/65535/51515019376_76ef7f1240_m.jpg" width="240" height="160" alt="Unamused" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019376_76ef7f1240_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bold</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019601/"/>
@@ -211,6 +182,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Is she still there?"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735839/"/>
+    <id>tag:flickr.com,2005:/photo/51515735839</id>
+    <published>2021-09-25T14:57:35Z</published>
+    <updated>2021-09-25T14:57:35Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735839/" title="&amp;quot;Is she still there?&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735839_509339f577_m.jpg" width="240" height="150" alt="&amp;quot;Is she still there?&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735839_509339f577_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
