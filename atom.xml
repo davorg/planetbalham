@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-29T08:50:44Z</updated>
+  <updated>2021-09-29T09:16:16Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:57 BST, Sunset: 18:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-29T07:59:00.000+0000</id>
-    <published>2021-09-29T08:39:29Z</published>
-    <updated>2021-09-29T08:39:29Z</updated>
+    <published>2021-09-29T09:00:15Z</published>
+    <updated>2021-09-29T09:00:15Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1021mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:59 BST, Sunset: 18:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-29T07:59:00.000+0000</id>
-    <published>2021-09-29T08:39:29Z</published>
-    <updated>2021-09-29T08:39:29Z</updated>
+    <published>2021-09-29T09:00:15Z</published>
+    <updated>2021-09-29T09:00:15Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 17°C (62°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1010mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:00 BST, Sunset: 18:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-29T07:59:00.000+0000</id>
-    <published>2021-09-29T08:39:29Z</published>
-    <updated>2021-09-29T08:39:29Z</updated>
+    <published>2021-09-29T09:00:15Z</published>
+    <updated>2021-09-29T09:00:15Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LmxlaXRyaW1vYnNlcnZlci5pZS9uZXdzL3JlY2VudC1kZWF0aHMvNjcwODQ1L2RlYXRocy1pbi1sZWl0cmltLXdlZG5lc2RheS1zZXB0ZW1iZXItMjktMjAyMS5odG1s0gEA?oc=5</id>
+    <title type="html">Deaths in Leitrim - Wednesday September 29, 2021 - Leitrim Observer</title>
+    <updated>2021-09-29T08:57:05.000000000Z</updated>
+    <link href="https://www.leitrimobserver.ie/news/recent-deaths/670845/deaths-in-leitrim-wednesday-september-29-2021.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.leitrimobserver.ie/news/recent-deaths/670845/deaths-in-leitrim-wednesday-september-29-2021.html" target="_blank"&gt;Deaths in Leitrim - Wednesday September 29, 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Leitrim Observer&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIxLzA5LzI4LzQ5MzUwL2phY2tpZV93ZWF2ZXJfdG9faG9zdF9saXZlX2NvbWVkeV9naWdz0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-09-28T10:58:12.000000000Z</updated>
     <link href="https://www.mylondon.news/news/zone-1-news/what-newest-london-underground-line-21693425" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/zone-1-news/what-newest-london-underground-line-21693425" target="_blank"&gt;What the newest London Underground line will be called&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBh1j3lZOXMSbIOdPCSuq8EqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
-    <title type="html">Driver 'verbally abused twice in 5 minutes' while passing petrol queue in London - My London</title>
-    <updated>2021-09-28T09:49:06.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/zone-1-news/driver-verbally-abused-twice-5-21695442" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/zone-1-news/driver-verbally-abused-twice-5-21695442" target="_blank"&gt;Driver 'verbally abused twice in 5 minutes' while passing petrol queue in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
