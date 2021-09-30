@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-30T13:51:15Z</updated>
+  <updated>2021-09-30T14:15:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1017mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 06:59 BST, Sunset: 18:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-09-30T07:03:00.000+0000</id>
-    <published>2021-09-30T13:02:47Z</published>
-    <updated>2021-09-30T13:02:47Z</updated>
+    <published>2021-09-30T14:01:46Z</published>
+    <updated>2021-09-30T14:01:46Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 8°C (47°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1009mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:00 BST, Sunset: 18:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-09-30T07:03:00.000+0000</id>
-    <published>2021-09-30T13:02:47Z</published>
-    <updated>2021-09-30T13:02:47Z</updated>
+    <published>2021-09-30T14:01:46Z</published>
+    <updated>2021-09-30T14:01:46Z</updated>
   </entry>
   <entry>
     <title>Saturday: Heavy Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 16°C (60°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1001mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:02 BST, Sunset: 18:37 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-09-30T07:03:00.000+0000</id>
-    <published>2021-09-30T13:02:47Z</published>
-    <updated>2021-09-30T13:02:47Z</updated>
+    <published>2021-09-30T14:01:46Z</published>
+    <updated>2021-09-30T14:01:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmNwcy5nb3YudWsvY3BzL25ld3Mvd2F5bmUtY291emVucy1zZW50ZW5jZWQtd2hvbGUtbGlmZS10ZXJtLWtpZG5hcC1yYXBlLWFuZC1tdXJkZXItc2FyYWgtZXZlcmFyZNIBAA?oc=5</id>
@@ -134,35 +134,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Disapproving</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
-    <id>tag:flickr.com,2005:/photo/51515735314</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Slow and speedy</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
     <id>tag:flickr.com,2005:/photo/51514223132</id>
@@ -182,6 +153,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Disapproving</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
+    <id>tag:flickr.com,2005:/photo/51515735314</id>
+    <published>2021-09-25T14:57:37Z</published>
+    <updated>2021-09-25T14:57:37Z</updated>
+    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
