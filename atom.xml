@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-04T01:11:42Z</updated>
+  <updated>2021-10-04T02:11:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1007mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 18:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-03T21:53:00.000+0000</id>
-    <published>2021-10-04T01:11:20Z</published>
-    <updated>2021-10-04T01:11:20Z</updated>
+    <published>2021-10-04T02:11:34Z</published>
+    <updated>2021-10-04T02:11:34Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 12°C (53°F) Maximum Temperature: 16°C (61°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 07:07 BST, Sunset: 18:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-03T21:53:00.000+0000</id>
-    <published>2021-10-04T01:11:20Z</published>
-    <updated>2021-10-04T01:11:20Z</updated>
+    <published>2021-10-04T02:11:34Z</published>
+    <updated>2021-10-04T02:11:34Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (58°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1000mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 BST, Sunset: 18:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-03T21:53:00.000+0000</id>
-    <published>2021-10-04T01:11:20Z</published>
-    <updated>2021-10-04T01:11:20Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmxlaXRyaW1vYnNlcnZlci5pZS9uZXdzL2hvbWUvNjcyNzgyL2RlYXRocy1mb3ItdGhlLWxlaXRyaW0tYXJlYS1zdW5kYXktb2N0b2Jlci0zLmh0bWzSAQA?oc=5</id>
-    <title type="html">Deaths for the Leitrim area - Sunday, October 3 - Leitrim Observer</title>
-    <updated>2021-10-03T08:08:46.000000000Z</updated>
-    <link href="https://www.leitrimobserver.ie/news/home/672782/deaths-for-the-leitrim-area-sunday-october-3.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.leitrimobserver.ie/news/home/672782/deaths-for-the-leitrim-area-sunday-october-3.html" target="_blank"&gt;Deaths for the Leitrim area - Sunday, October 3&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Leitrim Observer&lt;/font&gt;</content>
+    <published>2021-10-04T02:11:34Z</published>
+    <updated>2021-10-04T02:11:34Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiKWh0dHBzOi8vd3d3LnRoZWFydGljbGUuY29tL21hZ25ldGljLXBvbGVz0gEA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-10-01T15:31:08.000000000Z</updated>
     <link href="https://www.mirror.co.uk/money/mum-who-lost-job-lockdown-25118331" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/money/mum-who-lost-job-lockdown-25118331" target="_blank"&gt;Mum who lost job in lockdown starts children's food firm - with big celeb fans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmNwcy5nb3YudWsvY3BzL25ld3Mvd2F5bmUtY291emVucy1zZW50ZW5jZWQtd2hvbGUtbGlmZS10ZXJtLWtpZG5hcC1yYXBlLWFuZC1tdXJkZXItc2FyYWgtZXZlcmFyZNIBAA?oc=5</id>
+    <title type="html">Wayne Couzens sentenced to whole life term for the kidnap, rape and murder of Sarah Everard - The Crown Prosecution Service</title>
+    <updated>2021-09-30T12:00:00.000000000Z</updated>
+    <link href="https://www.cps.gov.uk/cps/news/wayne-couzens-sentenced-whole-life-term-kidnap-rape-and-murder-sarah-everard" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cps.gov.uk/cps/news/wayne-couzens-sentenced-whole-life-term-kidnap-rape-and-murder-sarah-everard" target="_blank"&gt;Wayne Couzens sentenced to whole life term for the kidnap, rape and murder of Sarah Everard&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Crown Prosecution Service&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
@@ -163,35 +163,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Disapproving</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
-    <id>tag:flickr.com,2005:/photo/51515735314</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"Enough?!"</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
     <id>tag:flickr.com,2005:/photo/51514223237</id>
@@ -211,6 +182,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Is she still there?"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735839/"/>
+    <id>tag:flickr.com,2005:/photo/51515735839</id>
+    <published>2021-09-25T14:57:35Z</published>
+    <updated>2021-09-25T14:57:35Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735839/" title="&amp;quot;Is she still there?&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735839_509339f577_m.jpg" width="240" height="150" alt="&amp;quot;Is she still there?&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735839_509339f577_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
