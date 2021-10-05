@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-05T16:58:57Z</updated>
+  <updated>2021-10-05T17:18:44Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunset: 18:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T16:44:12Z</published>
-    <updated>2021-10-05T16:44:12Z</updated>
+    <published>2021-10-05T17:04:04Z</published>
+    <updated>2021-10-05T17:04:04Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:09 BST, Sunset: 18:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T16:44:12Z</published>
-    <updated>2021-10-05T16:44:12Z</updated>
+    <published>2021-10-05T17:04:04Z</published>
+    <updated>2021-10-05T17:04:04Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T16:44:12Z</published>
-    <updated>2021-10-05T16:44:12Z</updated>
+    <published>2021-10-05T17:04:04Z</published>
+    <updated>2021-10-05T17:04:04Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
@@ -160,35 +160,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Slow and speedy</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
-    <id>tag:flickr.com,2005:/photo/51514223132</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Disapproving</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
     <id>tag:flickr.com,2005:/photo/51515735314</id>
@@ -208,6 +179,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Enough?!"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
+    <id>tag:flickr.com,2005:/photo/51514223237</id>
+    <published>2021-09-25T14:57:36Z</published>
+    <updated>2021-09-25T14:57:36Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223237/" title="&amp;quot;Enough?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223237_d17b5596d1_m.jpg" width="240" height="150" alt="&amp;quot;Enough?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
