@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-05T15:55:51Z</updated>
+  <updated>2021-10-05T16:17:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 14°C (58°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1003mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 07:07 BST, Sunset: 18:30 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1009mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunset: 18:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T15:43:57Z</published>
-    <updated>2021-10-05T15:43:57Z</updated>
+    <published>2021-10-05T16:02:12Z</published>
+    <updated>2021-10-05T16:02:12Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:09 BST, Sunset: 18:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T15:43:57Z</published>
-    <updated>2021-10-05T15:43:57Z</updated>
+    <published>2021-10-05T16:02:12Z</published>
+    <updated>2021-10-05T16:02:12Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T15:43:57Z</published>
-    <updated>2021-10-05T15:43:57Z</updated>
+    <published>2021-10-05T16:02:12Z</published>
+    <updated>2021-10-05T16:02:12Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
