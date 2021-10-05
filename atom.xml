@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-05T14:35:50Z</updated>
+  <updated>2021-10-05T15:07:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1003mb, Humidity: 65%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 BST, Sunset: 18:30 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1003mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 07:07 BST, Sunset: 18:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T14:00:15Z</published>
-    <updated>2021-10-05T14:00:15Z</updated>
+    <published>2021-10-05T15:04:56Z</published>
+    <updated>2021-10-05T15:04:56Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:09 BST, Sunset: 18:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T14:00:15Z</published>
-    <updated>2021-10-05T14:00:15Z</updated>
+    <published>2021-10-05T15:04:56Z</published>
+    <updated>2021-10-05T15:04:56Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,9 +37,35 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T14:00:15Z</published>
-    <updated>2021-10-05T14:00:15Z</updated>
+    <published>2021-10-05T15:04:56Z</published>
+    <updated>2021-10-05T15:04:56Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>387215 20211005 Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/steam60163/51554447964/"/>
+    <id>tag:flickr.com,2005:/photo/51554447964</id>
+    <published>2021-10-05T14:38:41Z</published>
+    <updated>2021-10-05T14:38:41Z</updated>
+    <flickr:date_taken>2021-10-02T10:36:38-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-02T10:36:38-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/steam60163/"&gt;steam60163&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/steam60163/51554447964/" title="387215 20211005 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51554447964_0c550a90b3_m.jpg" width="240" height="160" alt="387215 20211005 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;London Victoria - Brighton service, formed of 3 x Class 387/2s&lt;/p&gt;</content>
+    <author>
+      <name>steam60163</name>
+      <uri>https://www.flickr.com/people/steam60163/</uri>
+      <flickr:nsid>33425015@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8408/buddyicons/33425015@N07.jpg?1369112389#33425015@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51554447964_0c550a90b3_b.jpg"/>
+    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vZ2V0aW5kaWFuZXdzLmNvbS9jbGFwaGFtLXNvdXRoLWFjY2lkZW50LW1vcGVkLXJpZGVyLXJ1c2hlZC10by1ob3NwaXRhbC1mb2xsb3dpbmctY29sbGlzaW9uLXdpdGgtY2FyL9IBAA?oc=5</id>
     <title type="html">Clapham South Accident: Moped Rider Rushed To Hospital Following Collision With Car - Get India News</title>
@@ -182,35 +208,6 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>"Enough?!"</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
-    <id>tag:flickr.com,2005:/photo/51514223237</id>
-    <published>2021-09-25T14:57:36Z</published>
-    <updated>2021-09-25T14:57:36Z</updated>
-    <flickr:date_taken>2021-09-25T12:05:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:05:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223237/" title="&amp;quot;Enough?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223237_d17b5596d1_m.jpg" width="240" height="150" alt="&amp;quot;Enough?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
