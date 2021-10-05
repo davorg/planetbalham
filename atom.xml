@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-05T10:51:15Z</updated>
+  <updated>2021-10-05T11:14:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1002mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 07:07 BST, Sunset: 18:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T10:41:08Z</published>
-    <updated>2021-10-05T10:41:08Z</updated>
+    <published>2021-10-05T11:04:31Z</published>
+    <updated>2021-10-05T11:04:31Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:09 BST, Sunset: 18:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T10:41:08Z</published>
-    <updated>2021-10-05T10:41:08Z</updated>
+    <published>2021-10-05T11:04:31Z</published>
+    <updated>2021-10-05T11:04:31Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-05T09:59:00.000+0000</id>
-    <published>2021-10-05T10:41:08Z</published>
-    <updated>2021-10-05T10:41:08Z</updated>
+    <published>2021-10-05T11:04:31Z</published>
+    <updated>2021-10-05T11:04:31Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wcm9wZXJ0eS91ay9idXktNTAway1ob21lLW5lYXItYmVzdC1ncmFtbWFyLXNjaG9vbHMtbG9uZG9uLWhvbWUtY291bnRpZXMv0gFpaHR0cHM6Ly93d3cudGVsZWdyYXBoLmNvLnVrL3Byb3BlcnR5L3VrL2J1eS01MDBrLWhvbWUtbmVhci1iZXN0LWdyYW1tYXItc2Nob29scy1sb25kb24taG9tZS1jb3VudGllcy9hbXAv?oc=5</id>
+    <title type="html">Where to buy a £500k home near the best grammar schools in London and the Home Counties - Telegraph.co.uk</title>
+    <updated>2021-10-05T11:00:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/property/uk/buy-500k-home-near-best-grammar-schools-london-home-counties/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/property/uk/buy-500k-home-near-best-grammar-schools-london-home-counties/" target="_blank"&gt;Where to buy a £500k home near the best grammar schools in London and the Home Counties&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjIzMTU2LmJhbGhhbS1oaWxsLW1vcGVkLXJpZGVyLXRha2VuLWhvc3BpdGFsLWNhci1jcmFzaC_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-01T17:26:46.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/london-underground-trees-would-crush-21733564" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-underground-trees-would-crush-21733564" target="_blank"&gt;London Underground: Trees would crush the Northern line according to London Assembly Member&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEM-5FZGqabMZgpLq_TSTUkUqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Balham primary school gets response from No.10 for viral petition - South West Londoner</title>
-    <updated>2021-10-01T15:59:34.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/01102021-balham-primary-school-gets-response-from-no-10-for-viral-petition/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/01102021-balham-primary-school-gets-response-from-no-10-for-viral-petition/" target="_blank"&gt;Balham primary school gets response from No.10 for viral petition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
