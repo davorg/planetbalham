@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-06T11:14:59Z</updated>
+  <updated>2021-10-06T11:50:52Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CAIiENjc3R7P6p5R57z4hIAu1fQqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <title type="html">Cyclist dies after Balham cycle lane crash - Evening Standard</title>
+    <updated>2021-10-06T11:05:30.000000000Z</updated>
+    <link href="https://www.standard.co.uk/news/london/balham-high-road-crash-cyclist-lane-b959039.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/balham-high-road-crash-cyclist-lane-b959039.html" target="_blank"&gt;Cyclist dies after Balham cycle lane crash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -46,20 +53,6 @@
     <updated>2021-10-06T10:45:51.000000000Z</updated>
     <link href="https://uk.finance.yahoo.com/news/mega-mansion-london-most-expensive-104551329.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.finance.yahoo.com/news/mega-mansion-london-most-expensive-104551329.html" target="_blank"&gt;Mega mansion on London’s most expensive street listed for sale for first time in 63 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0taGlnaC1yb2FkLWxpdmUtdXBkYXRlcy0yMTc3NDk4N9IBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0taGlnaC1yb2FkLWxpdmUtdXBkYXRlcy0yMTc3NDk4Ny5hbXA?oc=5</id>
-    <title type="html">Balham High Road crash: Cyclist dies in major crash near London Underground station - MyLondon</title>
-    <updated>2021-10-06T09:22:30.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/balham-high-road-live-updates-21774987" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/balham-high-road-live-updates-21774987" target="_blank"&gt;Balham High Road crash: Cyclist dies in major crash near London Underground station&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2NsaW1hdGUtYWN0aXZpc3RzLWJsb2NrYWRlLW9pbC1yaWctMDcxMzUyMDY4Lmh0bWzSAVpodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2NsaW1hdGUtYWN0aXZpc3RzLWJsb2NrYWRlLW9pbC1yaWctMDcxMzUyMDY4Lmh0bWw?oc=5</id>
-    <title type="html">Climate activists blockade oil rig maintenance facility - Yahoo Eurosport UK</title>
-    <updated>2021-10-06T08:42:30.000000000Z</updated>
-    <link href="https://uk.sports.yahoo.com/news/climate-activists-blockade-oil-rig-071352068.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/climate-activists-blockade-oil-rig-071352068.html" target="_blank"&gt;Climate activists blockade oil rig maintenance facility&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMTk2MjY2ODYuaG1yYy1sYXRlc3Qtc291dGgtbG9uZG9uLWZpcm1zLW5hbWVkLXVucGFpZC10YXgv0gEA?oc=5</id>
@@ -101,6 +94,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjIzMTU2LmJhbGhhbS1oaWxsLW1vcGVkLXJpZGVyLXRha2VuLWhvc3BpdGFsLWNhci1jcmFzaC_SAQA?oc=5</id>
+    <title type="html">Moped rider taken to hospital after crash with car - Wandsworth Guardian</title>
+    <updated>2021-10-04T10:27:10.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19623156.balham-hill-moped-rider-taken-hospital-car-crash/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19623156.balham-hill-moped-rider-taken-hospital-car-crash/" target="_blank"&gt;Moped rider taken to hospital after crash with car&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
