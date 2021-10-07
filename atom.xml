@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-07T14:51:40Z</updated>
+  <updated>2021-10-07T15:16:27Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (54°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1026mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T14:17:00Z</published>
-    <updated>2021-10-07T14:17:00Z</updated>
+    <published>2021-10-07T15:01:21Z</published>
+    <updated>2021-10-07T15:01:21Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 10°C (49°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T14:17:00Z</published>
-    <updated>2021-10-07T14:17:00Z</updated>
+    <published>2021-10-07T15:01:21Z</published>
+    <updated>2021-10-07T15:01:21Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1029mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T14:17:00Z</published>
-    <updated>2021-10-07T14:17:00Z</updated>
+    <published>2021-10-07T15:01:21Z</published>
+    <updated>2021-10-07T15:01:21Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYmFycnktZGlsbGVycy1pYWMtYnV5aW5nLW1hZ2F6aW5lLTE0NTExMTkwOC5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2JhcnJ5LWRpbGxlcnMtaWFjLWJ1eWluZy1tYWdhemluZS0xNDUxMTE5MDguaHRtbA?oc=5</id>
+    <title type="html">Barry Diller's IAC buying magazine publisher Meredith - Yahoo News UK</title>
+    <updated>2021-10-07T14:51:11.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/barry-dillers-iac-buying-magazine-145111908.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/barry-dillers-iac-buying-magazine-145111908.html" target="_blank"&gt;Barry Diller's IAC buying magazine publisher Meredith&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjMyMzk3LmJhbGhhbS1taXNzaW5nLWdpcmwtY2FsbC05OTktc2VlLXRpbGx5L9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-07T12:36:45.000000000Z</updated>
     <link href="https://uk.sports.yahoo.com/news/gas-prices-ease-expert-warns-104500732.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/gas-prices-ease-expert-warns-104500732.html" target="_blank"&gt;Putin pledge helps gas prices ease but expert warns: ‘This isn’t over’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3Jldm9sdXRpb24tYmFycy10b2FzdHMtc2FsZXMtanVtcC0wODIzMzg5NjguaHRtbNIBWWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcmV2b2x1dGlvbi1iYXJzLXRvYXN0cy1zYWxlcy1qdW1wLTA4MjMzODk2OC5odG1s?oc=5</id>
-    <title type="html">Revolution Bars toasts sales jump as customers embrace post-lockdown socialising - Yahoo Eurosport UK</title>
-    <updated>2021-10-07T08:23:38.000000000Z</updated>
-    <link href="https://uk.sports.yahoo.com/news/revolution-bars-toasts-sales-jump-082338968.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/revolution-bars-toasts-sales-jump-082338968.html" target="_blank"&gt;Revolution Bars toasts sales jump as customers embrace post-lockdown socialising&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
