@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-07T15:16:27Z</updated>
+  <updated>2021-10-07T15:50:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 13°C (54°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (54°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1026mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1026mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T15:01:21Z</published>
-    <updated>2021-10-07T15:01:21Z</updated>
+    <published>2021-10-07T15:17:37Z</published>
+    <updated>2021-10-07T15:17:37Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 10°C (49°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T15:01:21Z</published>
-    <updated>2021-10-07T15:01:21Z</updated>
+    <published>2021-10-07T15:17:37Z</published>
+    <updated>2021-10-07T15:17:37Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1029mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T15:01:21Z</published>
-    <updated>2021-10-07T15:01:21Z</updated>
+    <published>2021-10-07T15:17:37Z</published>
+    <updated>2021-10-07T15:17:37Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibmh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vbmV3cy8yMDIxLzEwLzA3L3RyYW5zZmVyLW5ld3Mtc291dGhhbXB0b24tZXllaW5nLWphbnVhcnktbW92ZS1mb3ItZmFiaW8tY2FydmFsaG8v0gEA?oc=5</id>
+    <title type="html">Transfer News: Southampton eyeing January move for Fabio Carvalho - The Hard Tackle</title>
+    <updated>2021-10-07T15:14:00.000000000Z</updated>
+    <link href="http://www.thehardtackle.com/news/2021/10/07/transfer-news-southampton-eyeing-january-move-for-fabio-carvalho/" type="text/html"/>
+    <content type="html">&lt;a href="http://www.thehardtackle.com/news/2021/10/07/transfer-news-southampton-eyeing-january-move-for-fabio-carvalho/" target="_blank"&gt;Transfer News: Southampton eyeing January move for Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Hard Tackle&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYmFycnktZGlsbGVycy1pYWMtYnV5aW5nLW1hZ2F6aW5lLTE0NTExMTkwOC5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2JhcnJ5LWRpbGxlcnMtaWFjLWJ1eWluZy1tYWdhemluZS0xNDUxMTE5MDguaHRtbA?oc=5</id>
@@ -55,13 +62,6 @@
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19632397.balham-missing-girl-call-999-see-tilly/" target="_blank"&gt;Balham missing girl: Call 999 if you see Tilly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEHIjLfdqSgqwhfsI1c8rhukqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
-    <title type="html">Tilly: Police search for missing schoolgirl, 15, from Balham - Evening Standard</title>
-    <updated>2021-10-07T14:03:33.000000000Z</updated>
-    <link href="https://www.standard.co.uk/news/london/tilly-missing-girls-balham-police-b959350.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/tilly-missing-girls-balham-police-b959350.html" target="_blank"&gt;Tilly: Police search for missing schoolgirl, 15, from Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiQ2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vd2h5LWdhcy1wcmljZXMtcmlzaW5nLW1lYW4tMTQwMDAwNTAyLmh0bWzSAUtodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvd2h5LWdhcy1wcmljZXMtcmlzaW5nLW1lYW4tMTQwMDAwNTAyLmh0bWw?oc=5</id>
     <title type="html">Why are gas prices rising and what will it mean for households and energy firms? - Yahoo News UK</title>
     <updated>2021-10-07T14:00:00.000000000Z</updated>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/why-gas-prices-rising-mean-140000502.html" target="_blank"&gt;Why are gas prices rising and what will it mean for households and energy firms?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2dhcy1wcmljZXMtZWFzZS1leHBlcnQtd2FybnMtMTA0NTAwNzMyLmh0bWzSAVRodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2dhcy1wcmljZXMtZWFzZS1leHBlcnQtd2FybnMtMTA0NTAwNzMyLmh0bWw?oc=5</id>
-    <title type="html">Putin pledge helps gas prices ease but expert warns: ‘This isn’t over’ - Yahoo Eurosport UK</title>
-    <updated>2021-10-07T12:36:45.000000000Z</updated>
-    <link href="https://uk.sports.yahoo.com/news/gas-prices-ease-expert-warns-104500732.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/gas-prices-ease-expert-warns-104500732.html" target="_blank"&gt;Putin pledge helps gas prices ease but expert warns: ‘This isn’t over’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3Jldm9sdXRpb24tYmFycy10b2FzdHMtc2FsZXMtanVtcC0wODIzMzg5NjguaHRtbNIBWWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcmV2b2x1dGlvbi1iYXJzLXRvYXN0cy1zYWxlcy1qdW1wLTA4MjMzODk2OC5odG1s?oc=5</id>
+    <title type="html">Revolution Bars toasts sales jump as customers embrace post-lockdown socialising - Yahoo Eurosport UK</title>
+    <updated>2021-10-07T08:23:38.000000000Z</updated>
+    <link href="https://uk.sports.yahoo.com/news/revolution-bars-toasts-sales-jump-082338968.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/revolution-bars-toasts-sales-jump-082338968.html" target="_blank"&gt;Revolution Bars toasts sales jump as customers embrace post-lockdown socialising&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
