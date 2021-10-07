@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-07T02:25:09Z</updated>
+  <updated>2021-10-07T02:54:00Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -41,11 +41,25 @@
     <updated>2021-10-07T02:10:16Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5wcmVzc2FuZGpvdXJuYWwuY28udWsvZnAvbmV3cy9hYmVyZGVlbi1hYmVyZGVlbnNoaXJlLzM1MTkyOTcvd2lmZXMtZmlyc3QtcmVzcG9uZGVyLXBsZWEtYWZ0ZXItaHVzYmFuZC1kaWVzLWR1cmluZy1iZWVyLWRlbGl2ZXJ5L9IBAA?oc=5</id>
-    <title type="html">Martin Procter: Strathbraan Brewery director dies delivering beer in Tarland - Press and Journal</title>
-    <updated>2021-10-06T16:05:00.000000000Z</updated>
-    <link href="https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/3519297/wifes-first-responder-plea-after-husband-dies-during-beer-delivery/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/3519297/wifes-first-responder-plea-after-husband-dies-during-beer-delivery/" target="_blank"&gt;Martin Procter: Strathbraan Brewery director dies delivering beer in Tarland&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Press and Journal&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEPGaRNOMyeAw1TIkXWC4zu4qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">'I fear for my own life': women reveal impact of Sarah Everard case - South West Londoner</title>
+    <updated>2021-10-06T16:24:58.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/news/06102021-i-fear-for-my-own-life-women-reveal-impact-of-sarah-everard-case/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06102021-i-fear-for-my-own-life-women-reveal-impact-of-sarah-everard-case/" target="_blank"&gt;'I fear for my own life': women reveal impact of Sarah Everard case&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRoZWNvdXJpZXIuY28udWsvZnAvb2JpdHVhcmllcy8yNjQzNjk5L21hcnRpbi1wcm9jdGVyLXN0cmF0aGJyYWFuLWJyZXdlcnktZGlyZWN0b3ItZnJvbS1kdW5rZWxkLWRpZXMtYWdlZC02OC_SAQA?oc=5</id>
+    <title type="html">Martin Procter: Strathbraan Brewery director from Dunkeld dies aged 68 - The Courier</title>
+    <updated>2021-10-06T16:00:00.000000000Z</updated>
+    <link href="https://www.thecourier.co.uk/fp/obituaries/2643699/martin-procter-strathbraan-brewery-director-from-dunkeld-dies-aged-68/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thecourier.co.uk/fp/obituaries/2643699/martin-procter-strathbraan-brewery-director-from-dunkeld-dies-aged-68/" target="_blank"&gt;Martin Procter: Strathbraan Brewery director from Dunkeld dies aged 68&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Courier&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiENjc3R7P6p5R57z4hIAu1fQqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <title type="html">Cyclist dies after Balham cycle lane crash - Evening Standard</title>
+    <updated>2021-10-06T11:05:30.000000000Z</updated>
+    <link href="https://www.standard.co.uk/news/london/balham-high-road-crash-cyclist-lane-b959039.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/balham-high-road-crash-cyclist-lane-b959039.html" target="_blank"&gt;Cyclist dies after Balham cycle lane crash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMTk2MjY2ODYuaG1yYy1sYXRlc3Qtc291dGgtbG9uZG9uLWZpcm1zLW5hbWVkLXVucGFpZC10YXgv0gEA?oc=5</id>
@@ -87,20 +101,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjIzMTU2LmJhbGhhbS1oaWxsLW1vcGVkLXJpZGVyLXRha2VuLWhvc3BpdGFsLWNhci1jcmFzaC_SAQA?oc=5</id>
-    <title type="html">Moped rider taken to hospital after crash with car - Wandsworth Guardian</title>
-    <updated>2021-10-04T10:27:10.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19623156.balham-hill-moped-rider-taken-hospital-car-crash/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19623156.balham-hill-moped-rider-taken-hospital-car-crash/" target="_blank"&gt;Moped rider taken to hospital after crash with car&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEM3Mm2ihvuEndB7L1UeO5swqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">London Underground: Trees would crush the Northern line according to London Assembly Member - My London</title>
-    <updated>2021-10-01T17:26:46.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/london-underground-trees-would-crush-21733564" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-underground-trees-would-crush-21733564" target="_blank"&gt;London Underground: Trees would crush the Northern line according to London Assembly Member&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
