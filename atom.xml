@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-07T15:50:49Z</updated>
+  <updated>2021-10-07T16:15:55Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1026mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T15:17:37Z</published>
-    <updated>2021-10-07T15:17:37Z</updated>
+    <published>2021-10-07T16:01:01Z</published>
+    <updated>2021-10-07T16:01:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 10°C (49°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T15:17:37Z</published>
-    <updated>2021-10-07T15:17:37Z</updated>
+    <published>2021-10-07T16:01:01Z</published>
+    <updated>2021-10-07T16:01:01Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1029mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T09:53:00.000+0000</id>
-    <published>2021-10-07T15:17:37Z</published>
-    <updated>2021-10-07T15:17:37Z</updated>
+    <published>2021-10-07T16:01:01Z</published>
+    <updated>2021-10-07T16:01:01Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3BpdC1iaXRlLWd1YXJkcy1jaGlsZHJlbi1wcm9oaWJpdGVkLTE1NTQzMzk3OC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NwaXQtYml0ZS1ndWFyZHMtY2hpbGRyZW4tcHJvaGliaXRlZC0xNTU0MzM5NzguaHRtbA?oc=5</id>
+    <title type="html">Use of spit and bite guards on children should be prohibited – Police Ombudsman - Yahoo News UK</title>
+    <updated>2021-10-07T15:54:33.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/spit-bite-guards-children-prohibited-155433978.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/spit-bite-guards-children-prohibited-155433978.html" target="_blank"&gt;Use of spit and bite guards on children should be prohibited – Police Ombudsman&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vbmV3cy8yMDIxLzEwLzA3L3RyYW5zZmVyLW5ld3Mtc291dGhhbXB0b24tZXllaW5nLWphbnVhcnktbW92ZS1mb3ItZmFiaW8tY2FydmFsaG8v0gEA?oc=5</id>
@@ -68,13 +75,6 @@
     <link href="https://uk.news.yahoo.com/why-gas-prices-rising-mean-140000502.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/why-gas-prices-rising-mean-140000502.html" target="_blank"&gt;Why are gas prices rising and what will it mean for households and energy firms?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3Jldm9sdXRpb24tYmFycy10b2FzdHMtc2FsZXMtanVtcC0wODIzMzg5NjguaHRtbNIBWWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcmV2b2x1dGlvbi1iYXJzLXRvYXN0cy1zYWxlcy1qdW1wLTA4MjMzODk2OC5odG1s?oc=5</id>
-    <title type="html">Revolution Bars toasts sales jump as customers embrace post-lockdown socialising - Yahoo Eurosport UK</title>
-    <updated>2021-10-07T08:23:38.000000000Z</updated>
-    <link href="https://uk.sports.yahoo.com/news/revolution-bars-toasts-sales-jump-082338968.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/revolution-bars-toasts-sales-jump-082338968.html" target="_blank"&gt;Revolution Bars toasts sales jump as customers embrace post-lockdown socialising&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/steam60163/51554447964/"/>
@@ -97,35 +97,6 @@
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51554447964_0c550a90b3_b.jpg"/>
     <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Unamused</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
-    <id>tag:flickr.com,2005:/photo/51515019376</id>
-    <published>2021-09-25T14:57:38Z</published>
-    <updated>2021-09-25T14:57:38Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515019376/" title="Unamused"&gt;&lt;img src="https://live.staticflickr.com/65535/51515019376_76ef7f1240_m.jpg" width="240" height="160" alt="Unamused" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019376_76ef7f1240_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
@@ -208,6 +179,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Enough?!"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
+    <id>tag:flickr.com,2005:/photo/51514223237</id>
+    <published>2021-09-25T14:57:36Z</published>
+    <updated>2021-09-25T14:57:36Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223237/" title="&amp;quot;Enough?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223237_d17b5596d1_m.jpg" width="240" height="150" alt="&amp;quot;Enough?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
