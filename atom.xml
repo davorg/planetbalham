@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-07T07:51:30Z</updated>
+  <updated>2021-10-07T08:15:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-06T21:54:00.000+0000</id>
-    <published>2021-10-07T07:14:02Z</published>
-    <updated>2021-10-07T07:14:02Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T07:01:00.000+0000</id>
+    <published>2021-10-07T08:14:13Z</published>
+    <updated>2021-10-07T08:14:13Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 20°C (68°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 10°C (49°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-06T21:54:00.000+0000</id>
-    <published>2021-10-07T07:14:02Z</published>
-    <updated>2021-10-07T07:14:02Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T07:01:00.000+0000</id>
+    <published>2021-10-07T08:14:13Z</published>
+    <updated>2021-10-07T08:14:13Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 19°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (51°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (51°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1029mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-06T21:54:00.000+0000</id>
-    <published>2021-10-07T07:14:02Z</published>
-    <updated>2021-10-07T07:14:02Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T07:01:00.000+0000</id>
+    <published>2021-10-07T08:14:13Z</published>
+    <updated>2021-10-07T08:14:13Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWV0LXBvbGljZS1kcm9wcGVkLXByb2JlLWR1YmFpLTIwMzgwMDgyMS5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21ldC1wb2xpY2UtZHJvcHBlZC1wcm9iZS1kdWJhaS0yMDM4MDA4MjEuaHRtbA?oc=5</id>
@@ -55,11 +55,18 @@
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06102021-i-fear-for-my-own-life-women-reveal-impact-of-sarah-everard-case/" target="_blank"&gt;'I fear for my own life': women reveal impact of Sarah Everard case&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRoZWNvdXJpZXIuY28udWsvZnAvb2JpdHVhcmllcy8yNjQzNjk5L21hcnRpbi1wcm9jdGVyLXN0cmF0aGJyYWFuLWJyZXdlcnktZGlyZWN0b3ItZnJvbS1kdW5rZWxkLWRpZXMtYWdlZC02OC_SAQA?oc=5</id>
-    <title type="html">Martin Procter: Strathbraan Brewery director from Dunkeld dies aged 68 - The Courier</title>
-    <updated>2021-10-06T16:00:00.000000000Z</updated>
-    <link href="https://www.thecourier.co.uk/fp/obituaries/2643699/martin-procter-strathbraan-brewery-director-from-dunkeld-dies-aged-68/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thecourier.co.uk/fp/obituaries/2643699/martin-procter-strathbraan-brewery-director-from-dunkeld-dies-aged-68/" target="_blank"&gt;Martin Procter: Strathbraan Brewery director from Dunkeld dies aged 68&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Courier&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5wcmVzc2FuZGpvdXJuYWwuY28udWsvZnAvbmV3cy9hYmVyZGVlbi1hYmVyZGVlbnNoaXJlLzM1MTkyOTcvd2lmZXMtZmlyc3QtcmVzcG9uZGVyLXBsZWEtYWZ0ZXItaHVzYmFuZC1kaWVzLWR1cmluZy1iZWVyLWRlbGl2ZXJ5L9IBAA?oc=5</id>
+    <title type="html">Martin Procter: Strathbraan Brewery director dies delivering beer in Tarland - Press and Journal</title>
+    <updated>2021-10-06T16:05:00.000000000Z</updated>
+    <link href="https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/3519297/wifes-first-responder-plea-after-husband-dies-during-beer-delivery/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/3519297/wifes-first-responder-plea-after-husband-dies-during-beer-delivery/" target="_blank"&gt;Martin Procter: Strathbraan Brewery director dies delivering beer in Tarland&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Press and Journal&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0taGlnaC1yb2FkLWxpdmUtdXBkYXRlcy0yMTc3NDk4N9IBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0taGlnaC1yb2FkLWxpdmUtdXBkYXRlcy0yMTc3NDk4Ny5hbXA?oc=5</id>
+    <title type="html">Balham High Road crash: Cyclist dies in major crash near London Underground station - MyLondon</title>
+    <updated>2021-10-06T10:29:46.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/balham-high-road-live-updates-21774987" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/balham-high-road-live-updates-21774987" target="_blank"&gt;Balham High Road crash: Cyclist dies in major crash near London Underground station&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMTk2MjY2ODYuaG1yYy1sYXRlc3Qtc291dGgtbG9uZG9uLWZpcm1zLW5hbWVkLXVucGFpZC10YXgv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-06T04:00:00.000000000Z</updated>
     <link href="https://www.newsshopper.co.uk/news/19626686.hmrc-latest-south-london-firms-named-unpaid-tax/" type="text/html"/>
     <content type="html">&lt;a href="https://www.newsshopper.co.uk/news/19626686.hmrc-latest-south-london-firms-named-unpaid-tax/" target="_blank"&gt;Latest south London firms named by HMRC for unpaid tax&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vZ2V0aW5kaWFuZXdzLmNvbS9jbGFwaGFtLXNvdXRoLWFjY2lkZW50LW1vcGVkLXJpZGVyLXJ1c2hlZC10by1ob3NwaXRhbC1mb2xsb3dpbmctY29sbGlzaW9uLXdpdGgtY2FyL9IBAA?oc=5</id>
-    <title type="html">Clapham South Accident: Moped Rider Rushed To Hospital Following Collision With Car - Get India News</title>
-    <updated>2021-10-05T17:03:11.000000000Z</updated>
-    <link href="https://getindianews.com/clapham-south-accident-moped-rider-rushed-to-hospital-following-collision-with-car/" type="text/html"/>
-    <content type="html">&lt;a href="https://getindianews.com/clapham-south-accident-moped-rider-rushed-to-hospital-following-collision-with-car/" target="_blank"&gt;Clapham South Accident: Moped Rider Rushed To Hospital Following Collision With Car&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Get India News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
@@ -160,35 +160,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Slow and speedy</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
-    <id>tag:flickr.com,2005:/photo/51514223132</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Disapproving</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
     <id>tag:flickr.com,2005:/photo/51515735314</id>
@@ -208,6 +179,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Enough?!"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
+    <id>tag:flickr.com,2005:/photo/51514223237</id>
+    <published>2021-09-25T14:57:36Z</published>
+    <updated>2021-09-25T14:57:36Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223237/" title="&amp;quot;Enough?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223237_d17b5596d1_m.jpg" width="240" height="150" alt="&amp;quot;Enough?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
