@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-07T23:50:37Z</updated>
+  <updated>2021-10-08T00:17:17Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 95%, UV Risk: 0, Pollution: Low, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-07T23:22:08Z</published>
-    <updated>2021-10-07T23:22:08Z</updated>
+    <published>2021-10-08T00:03:01Z</published>
+    <updated>2021-10-08T00:03:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-07T23:22:08Z</published>
-    <updated>2021-10-07T23:22:08Z</updated>
+    <published>2021-10-08T00:03:01Z</published>
+    <updated>2021-10-08T00:03:01Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (65°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1028mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-07T23:22:08Z</published>
-    <updated>2021-10-07T23:22:08Z</updated>
+    <published>2021-10-08T00:03:01Z</published>
+    <updated>2021-10-08T00:03:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigwFodHRwczovL3VrLm5ld3MueWFob28uY29tL2t5cmllLWlydmluZy10by1taXNzLWZyaWRheXMtcHJlc2Vhc29uLWdhbWUtYWdhaW5zdC1idWNrcy1kdWUtdG8tbmV3LXlvcmtzLWNvdmlkLTE5LXBvbGljeS0yMTUyMDA1NDEuaHRtbNIBiwFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwva3lyaWUtaXJ2aW5nLXRvLW1pc3MtZnJpZGF5cy1wcmVzZWFzb24tZ2FtZS1hZ2FpbnN0LWJ1Y2tzLWR1ZS10by1uZXcteW9ya3MtY292aWQtMTktcG9saWN5LTIxNTIwMDU0MS5odG1s?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/british-businesses-deserve-better-conservatives-213556676.html" target="_blank"&gt;British businesses deserve better than the Conservatives – Starmer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmRhaWx5ZXhjZWxzaW9yLmNvbS9hZ3MteGktamstZm9yZXN0LXhpLXNjcmlwdC13aW5zL9IBAA?oc=5</id>
+    <title type="html">AG's XI, J&amp;K Forest XI script wins - Daily Excelsior</title>
+    <updated>2021-10-07T21:32:51.000000000Z</updated>
+    <link href="https://www.dailyexcelsior.com/ags-xi-jk-forest-xi-script-wins/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailyexcelsior.com/ags-xi-jk-forest-xi-script-wins/" target="_blank"&gt;AG's XI, J&amp;K Forest XI script wins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Excelsior&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS90Yy1zZXNzaW9ucy1zcGFjZS0yMDIxLW9mZmVycy0xODA2NTEwMDUuaHRtbNIBUGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL3RjLXNlc3Npb25zLXNwYWNlLTIwMjEtb2ZmZXJzLTE4MDY1MTAwNS5odG1s?oc=5</id>
     <title type="html">TC Sessions: Space 2021 offers unmatched visibility for space startups - Yahoo Movies UK</title>
     <updated>2021-10-07T18:06:51.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2021-10-07T18:00:00.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/gut-bugs-drive-prostate-cancer-180000347.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/gut-bugs-drive-prostate-cancer-180000347.html" target="_blank"&gt;Gut bugs can drive prostate cancer growth and treatment resistance – study&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vbmV3cy8yMDIxLzEwLzA3L3RyYW5zZmVyLW5ld3Mtc291dGhhbXB0b24tZXllaW5nLWphbnVhcnktbW92ZS1mb3ItZmFiaW8tY2FydmFsaG8v0gEA?oc=5</id>
-    <title type="html">Transfer News: Southampton eyeing January move for Fabio Carvalho - The Hard Tackle</title>
-    <updated>2021-10-07T15:14:00.000000000Z</updated>
-    <link href="http://www.thehardtackle.com/news/2021/10/07/transfer-news-southampton-eyeing-january-move-for-fabio-carvalho/" type="text/html"/>
-    <content type="html">&lt;a href="http://www.thehardtackle.com/news/2021/10/07/transfer-news-southampton-eyeing-january-move-for-fabio-carvalho/" target="_blank"&gt;Transfer News: Southampton eyeing January move for Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Hard Tackle&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
