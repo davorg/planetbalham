@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-08T06:15:59Z</updated>
+  <updated>2021-10-08T06:52:48Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-08T06:06:15Z</published>
-    <updated>2021-10-08T06:06:15Z</updated>
+    <published>2021-10-08T06:28:15Z</published>
+    <updated>2021-10-08T06:28:15Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1028mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-08T06:06:15Z</published>
-    <updated>2021-10-08T06:06:15Z</updated>
+    <published>2021-10-08T06:28:15Z</published>
+    <updated>2021-10-08T06:28:15Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 18°C (65°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-08T06:06:15Z</published>
-    <updated>2021-10-08T06:06:15Z</updated>
+    <published>2021-10-08T06:28:15Z</published>
+    <updated>2021-10-08T06:28:15Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZXVyb3dhZy1zZXRzLWxpc3RpbmctcHJpY2UtYmVsb3ctMDYxNzI4MjkyLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZXVyb3dhZy1zZXRzLWxpc3RpbmctcHJpY2UtYmVsb3ctMDYxNzI4MjkyLmh0bWw?oc=5</id>
+    <title type="html">Eurowag sets listing price below range as it makes London debut - Yahoo News UK</title>
+    <updated>2021-10-08T06:17:28.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/eurowag-sets-listing-price-below-061728292.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/eurowag-sets-listing-price-below-061728292.html" target="_blank"&gt;Eurowag sets listing price below range as it makes London debut&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2Ftc3VuZy1lbGVjdHJvbmljcy1zYXlzLXEzLXByb2ZpdC0wMDE4NTM4OTEuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9zYW1zdW5nLWVsZWN0cm9uaWNzLXNheXMtcTMtcHJvZml0LTAwMTg1Mzg5MS5odG1s?oc=5</id>
+    <title type="html">Rising chip prices fuel Samsung's best quarterly profit in 3 years - Yahoo News UK</title>
+    <updated>2021-10-08T00:18:53.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/samsung-electronics-says-q3-profit-001853891.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/samsung-electronics-says-q3-profit-001853891.html" target="_blank"&gt;Rising chip prices fuel Samsung's best quarterly profit in 3 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYnJpdGlzaC1idXNpbmVzc2VzLWRlc2VydmUtYmV0dGVyLWNvbnNlcnZhdGl2ZXMtMjEzMzMwNjA3Lmh0bWzSAWBodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYnJpdGlzaC1idXNpbmVzc2VzLWRlc2VydmUtYmV0dGVyLWNvbnNlcnZhdGl2ZXMtMjEzMzMwNjA3Lmh0bWw?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2021-10-07T15:48:22.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/lyft-now-lets-pay-tinder-154822054.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/lyft-now-lets-pay-tinder-154822054.html" target="_blank"&gt;Lyft now lets you pay for your Tinder date's ride&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vbmV3cy8yMDIxLzEwLzA3L3RyYW5zZmVyLW5ld3Mtc291dGhhbXB0b24tZXllaW5nLWphbnVhcnktbW92ZS1mb3ItZmFiaW8tY2FydmFsaG8v0gEA?oc=5</id>
-    <title type="html">Transfer News: Southampton eyeing January move for Fabio Carvalho - The Hard Tackle</title>
-    <updated>2021-10-07T15:14:00.000000000Z</updated>
-    <link href="http://www.thehardtackle.com/news/2021/10/07/transfer-news-southampton-eyeing-january-move-for-fabio-carvalho/" type="text/html"/>
-    <content type="html">&lt;a href="http://www.thehardtackle.com/news/2021/10/07/transfer-news-southampton-eyeing-january-move-for-fabio-carvalho/" target="_blank"&gt;Transfer News: Southampton eyeing January move for Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Hard Tackle&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjMyMzk3LmJhbGhhbS1taXNzaW5nLWdpcmwtY2FsbC05OTktc2VlLXRpbGx5L9IBAA?oc=5</id>
-    <title type="html">Balham missing girl: Call 999 if you see Tilly - Wandsworth Guardian</title>
-    <updated>2021-10-07T14:04:07.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/19632397.balham-missing-girl-call-999-see-tilly/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19632397.balham-missing-girl-call-999-see-tilly/" target="_blank"&gt;Balham missing girl: Call 999 if you see Tilly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
