@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-08T10:15:40Z</updated>
+  <updated>2021-10-08T10:50:28Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -16,29 +16,36 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1030mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-08T07:01:00.000+0000</id>
-    <published>2021-10-08T10:02:20Z</published>
-    <updated>2021-10-08T10:02:20Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-08T09:56:00.000+0000</id>
+    <published>2021-10-08T10:32:52Z</published>
+    <updated>2021-10-08T10:32:52Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-08T07:01:00.000+0000</id>
-    <published>2021-10-08T10:02:20Z</published>
-    <updated>2021-10-08T10:02:20Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-08T09:56:00.000+0000</id>
+    <published>2021-10-08T10:32:52Z</published>
+    <updated>2021-10-08T10:32:52Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-08T07:01:00.000+0000</id>
-    <published>2021-10-08T10:02:20Z</published>
-    <updated>2021-10-08T10:02:20Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-08T09:56:00.000+0000</id>
+    <published>2021-10-08T10:32:52Z</published>
+    <updated>2021-10-08T10:32:52Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2RlYXRoLXNlcmlhbC1raWxsZXItc3RlcGhlbi1wb3J0LTA3MzE1MTk1Ny5odG1s0gFYaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9kZWF0aC1zZXJpYWwta2lsbGVyLXN0ZXBoZW4tcG9ydC0wNzMxNTE5NTcuaHRtbA?oc=5</id>
+    <title type="html">Death of serial killer Stephen Port’s first victim deemed ‘probably non-suspicious’ - Yahoo Eurosport UK</title>
+    <updated>2021-10-08T08:22:05.000000000Z</updated>
+    <link href="https://uk.sports.yahoo.com/news/death-serial-killer-stephen-port-073151957.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/death-serial-killer-stephen-port-073151957.html" target="_blank"&gt;Death of serial killer Stephen Port’s first victim deemed ‘probably non-suspicious’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20va2ltLWthcmRhc2hpYW4td2VzdC1qb2tlcy1zYXR1cmRheS0wNzE1MzUzNzMuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9raW0ta2FyZGFzaGlhbi13ZXN0LWpva2VzLXNhdHVyZGF5LTA3MTUzNTM3My5odG1s?oc=5</id>
@@ -68,39 +75,6 @@
     <link href="https://uk.news.yahoo.com/eurowag-sets-listing-price-below-061728292.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/eurowag-sets-listing-price-below-061728292.html" target="_blank"&gt;Eurowag sets listing price below range as it makes London debut&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2Ftc3VuZy1lbGVjdHJvbmljcy1zYXlzLXEzLXByb2ZpdC0wMDE4NTM4OTEuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9zYW1zdW5nLWVsZWN0cm9uaWNzLXNheXMtcTMtcHJvZml0LTAwMTg1Mzg5MS5odG1s?oc=5</id>
-    <title type="html">Rising chip prices fuel Samsung's best quarterly profit in 3 years - Yahoo News UK</title>
-    <updated>2021-10-08T00:18:53.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/samsung-electronics-says-q3-profit-001853891.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/samsung-electronics-says-q3-profit-001853891.html" target="_blank"&gt;Rising chip prices fuel Samsung's best quarterly profit in 3 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>387215 20211005 Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/steam60163/51554447964/"/>
-    <id>tag:flickr.com,2005:/photo/51554447964</id>
-    <published>2021-10-05T14:38:41Z</published>
-    <updated>2021-10-05T14:38:41Z</updated>
-    <flickr:date_taken>2021-10-02T10:36:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-10-02T10:36:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/steam60163/"&gt;steam60163&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/steam60163/51554447964/" title="387215 20211005 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51554447964_0c550a90b3_m.jpg" width="240" height="160" alt="387215 20211005 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;London Victoria - Brighton service, formed of 3 x Class 387/2s&lt;/p&gt;</content>
-    <author>
-      <name>steam60163</name>
-      <uri>https://www.flickr.com/people/steam60163/</uri>
-      <flickr:nsid>33425015@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8408/buddyicons/33425015@N07.jpg?1369112389#33425015@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51554447964_0c550a90b3_b.jpg"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
@@ -150,6 +124,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019601_089e35b51b_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Slow and speedy</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
+    <id>tag:flickr.com,2005:/photo/51514223132</id>
+    <published>2021-09-25T14:57:37Z</published>
+    <updated>2021-09-25T14:57:37Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
