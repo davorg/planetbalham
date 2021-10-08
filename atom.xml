@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-08T06:52:48Z</updated>
+  <updated>2021-10-08T07:15:48Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1030mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-08T06:28:15Z</published>
-    <updated>2021-10-08T06:28:15Z</updated>
+    <published>2021-10-08T07:03:45Z</published>
+    <updated>2021-10-08T07:03:45Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1028mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-08T06:28:15Z</published>
-    <updated>2021-10-08T06:28:15Z</updated>
+    <published>2021-10-08T07:03:45Z</published>
+    <updated>2021-10-08T07:03:45Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 18°C (65°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-07T21:56:00.000+0000</id>
-    <published>2021-10-08T06:28:15Z</published>
-    <updated>2021-10-08T06:28:15Z</updated>
+    <published>2021-10-08T07:03:45Z</published>
+    <updated>2021-10-08T07:03:45Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEPjuktiEgwBJC6AqPsMpUEwqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
+    <title type="html">Move over Brixton! Five lesser-known areas near hipster hotspots with homes a fraction of the price - Evening Standard</title>
+    <updated>2021-10-08T06:45:00.000000000Z</updated>
+    <link href="https://www.standard.co.uk/homesandproperty/where-to-live/hipster-london-neighbourhoods-home-buyers-b959337.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/where-to-live/hipster-london-neighbourhoods-home-buyers-b959337.html" target="_blank"&gt;Move over Brixton! Five lesser-known areas near hipster hotspots with homes a fraction of the price&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZXVyb3dhZy1zZXRzLWxpc3RpbmctcHJpY2UtYmVsb3ctMDYxNzI4MjkyLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZXVyb3dhZy1zZXRzLWxpc3RpbmctcHJpY2UtYmVsb3ctMDYxNzI4MjkyLmh0bWw?oc=5</id>
@@ -68,39 +75,6 @@
     <link href="https://www.dailyexcelsior.com/ags-xi-jk-forest-xi-script-wins/" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailyexcelsior.com/ags-xi-jk-forest-xi-script-wins/" target="_blank"&gt;AG's XI, J&amp;K Forest XI script wins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Excelsior&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbHlmdC1ub3ctbGV0cy1wYXktdGluZGVyLTE1NDgyMjA1NC5odG1s0gFJaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2x5ZnQtbm93LWxldHMtcGF5LXRpbmRlci0xNTQ4MjIwNTQuaHRtbA?oc=5</id>
-    <title type="html">Lyft now lets you pay for your Tinder date's ride - Yahoo News UK</title>
-    <updated>2021-10-07T15:48:22.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/lyft-now-lets-pay-tinder-154822054.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/lyft-now-lets-pay-tinder-154822054.html" target="_blank"&gt;Lyft now lets you pay for your Tinder date's ride&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>387215 20211005 Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/steam60163/51554447964/"/>
-    <id>tag:flickr.com,2005:/photo/51554447964</id>
-    <published>2021-10-05T14:38:41Z</published>
-    <updated>2021-10-05T14:38:41Z</updated>
-    <flickr:date_taken>2021-10-02T10:36:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-10-02T10:36:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/steam60163/"&gt;steam60163&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/steam60163/51554447964/" title="387215 20211005 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51554447964_0c550a90b3_m.jpg" width="240" height="160" alt="387215 20211005 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;London Victoria - Brighton service, formed of 3 x Class 387/2s&lt;/p&gt;</content>
-    <author>
-      <name>steam60163</name>
-      <uri>https://www.flickr.com/people/steam60163/</uri>
-      <flickr:nsid>33425015@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8408/buddyicons/33425015@N07.jpg?1369112389#33425015@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51554447964_0c550a90b3_b.jpg"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
@@ -208,6 +182,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Is she still there?"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735839/"/>
+    <id>tag:flickr.com,2005:/photo/51515735839</id>
+    <published>2021-09-25T14:57:35Z</published>
+    <updated>2021-09-25T14:57:35Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735839/" title="&amp;quot;Is she still there?&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735839_509339f577_m.jpg" width="240" height="150" alt="&amp;quot;Is she still there?&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735839_509339f577_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
