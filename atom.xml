@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-08T15:16:10Z</updated>
+  <updated>2021-10-08T15:51:48Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1029mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1029mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-08T09:56:00.000+0000</id>
-    <published>2021-10-08T15:02:45Z</published>
-    <updated>2021-10-08T15:02:45Z</updated>
+    <published>2021-10-08T15:36:09Z</published>
+    <updated>2021-10-08T15:36:09Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-08T09:56:00.000+0000</id>
-    <published>2021-10-08T15:02:45Z</published>
-    <updated>2021-10-08T15:02:45Z</updated>
+    <published>2021-10-08T15:36:09Z</published>
+    <updated>2021-10-08T15:36:09Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-08T09:56:00.000+0000</id>
-    <published>2021-10-08T15:02:45Z</published>
-    <updated>2021-10-08T15:02:45Z</updated>
+    <published>2021-10-08T15:36:09Z</published>
+    <updated>2021-10-08T15:36:09Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9wYW50aGVycy1jYXB0YWluLWFsZWtzYW5kZXItYmFya292LXNpZ25zLW1heGltdW0tdGVybS1leHRlbnNpb24tMTUyNTUzODI5Lmh0bWzSAXJodHRwczovL3VrLm1vdmllcy55YWhvby5jb20vYW1waHRtbC9wYW50aGVycy1jYXB0YWluLWFsZWtzYW5kZXItYmFya292LXNpZ25zLW1heGltdW0tdGVybS1leHRlbnNpb24tMTUyNTUzODI5Lmh0bWw?oc=5</id>
+    <title type="html">Panthers captain Aleksander Barkov signs maximum-term extension - Yahoo Movies UK</title>
+    <updated>2021-10-08T15:25:53.000000000Z</updated>
+    <link href="https://uk.movies.yahoo.com/panthers-captain-aleksander-barkov-signs-maximum-term-extension-152553829.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.movies.yahoo.com/panthers-captain-aleksander-barkov-signs-maximum-term-extension-152553829.html" target="_blank"&gt;Panthers captain Aleksander Barkov signs maximum-term extension&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Movies UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdHJpYnV0ZXMtYWNyb3NzLW5vcnRoZXJuLWlyZWxhbmQtcG9saXRpY2FsLTE1MDAzNzY2OS5odG1s0gFbaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3RyaWJ1dGVzLWFjcm9zcy1ub3J0aGVybi1pcmVsYW5kLXBvbGl0aWNhbC0xNTAwMzc2NjkuaHRtbA?oc=5</id>
+    <title type="html">Tributes across Northern Ireland’s political spectrum for ex-secretary of state - Yahoo News UK</title>
+    <updated>2021-10-08T15:00:37.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/tributes-across-northern-ireland-political-150037669.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/tributes-across-northern-ireland-political-150037669.html" target="_blank"&gt;Tributes across Northern Ireland’s political spectrum for ex-secretary of state&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdWstbGlmdC10cmF2ZWwtYWR2aWNlLTUxLTE0MjAwMzM3OS5odG1s0gFJaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3VrLWxpZnQtdHJhdmVsLWFkdmljZS01MS0xNDIwMDMzNzkuaHRtbA?oc=5</id>
@@ -55,25 +69,11 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/adorable-little-chicken-hardly-contain-134124405.html" target="_blank"&gt;Adorable little chicken can hardly contain her Halloween excitement: 'The noises coming from her are priceless'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdWstcG0tdGFrZXMtZm9ybWVyLXRlc2NvLTEyNTkwMTkwMS5odG1s0gFJaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3VrLXBtLXRha2VzLWZvcm1lci10ZXNjby0xMjU5MDE5MDEuaHRtbA?oc=5</id>
-    <title type="html">UK PM appoints former Tesco CEO Lewis to fix supply chain problems - Yahoo News UK</title>
-    <updated>2021-10-08T12:59:01.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/uk-pm-takes-former-tesco-125901901.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/uk-pm-takes-former-tesco-125901901.html" target="_blank"&gt;UK PM appoints former Tesco CEO Lewis to fix supply chain problems&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vamVzeS1uZWxzb24taGFwcGllc3QtdmUtZXZlci0xMjMwNDY0MjAuaHRtbNIBTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9qZXN5LW5lbHNvbi1oYXBwaWVzdC12ZS1ldmVyLTEyMzA0NjQyMC5odG1s?oc=5</id>
     <title type="html">Jesy Nelson: This is the happiest I’ve ever been - Yahoo News UK</title>
     <updated>2021-10-08T12:30:46.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/jesy-nelson-happiest-ve-ever-123046420.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/jesy-nelson-happiest-ve-ever-123046420.html" target="_blank"&gt;Jesy Nelson: This is the happiest I’ve ever been&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW0taW5ub2NlbnQtZXgtbmF6aS1ndWFyZC0xMTAzMzY4NDUuaHRtbNIBSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9hbS1pbm5vY2VudC1leC1uYXppLWd1YXJkLTExMDMzNjg0NS5odG1s?oc=5</id>
-    <title type="html">'I am innocent': ex-Nazi guard, 100, tells German court - Yahoo News UK</title>
-    <updated>2021-10-08T11:03:36.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/am-innocent-ex-nazi-guard-110336845.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/am-innocent-ex-nazi-guard-110336845.html" target="_blank"&gt;'I am innocent': ex-Nazi guard, 100, tells German court&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
@@ -97,35 +97,6 @@
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51554447964_0c550a90b3_b.jpg"/>
     <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Unamused</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
-    <id>tag:flickr.com,2005:/photo/51515019376</id>
-    <published>2021-09-25T14:57:38Z</published>
-    <updated>2021-09-25T14:57:38Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515019376/" title="Unamused"&gt;&lt;img src="https://live.staticflickr.com/65535/51515019376_76ef7f1240_m.jpg" width="240" height="160" alt="Unamused" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019376_76ef7f1240_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
@@ -208,6 +179,35 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>"Enough?!"</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223237/"/>
+    <id>tag:flickr.com,2005:/photo/51514223237</id>
+    <published>2021-09-25T14:57:36Z</published>
+    <updated>2021-09-25T14:57:36Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223237/" title="&amp;quot;Enough?!&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223237_d17b5596d1_m.jpg" width="240" height="150" alt="&amp;quot;Enough?!&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223237_d17b5596d1_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
