@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-09T04:16:19Z</updated>
+  <updated>2021-10-09T04:54:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 10°C (51°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-08T21:57:00.000+0000</id>
-    <published>2021-10-09T04:02:39Z</published>
-    <updated>2021-10-09T04:02:39Z</updated>
+    <published>2021-10-09T04:45:39Z</published>
+    <updated>2021-10-09T04:45:39Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-08T21:57:00.000+0000</id>
-    <published>2021-10-09T04:02:39Z</published>
-    <updated>2021-10-09T04:02:39Z</updated>
+    <published>2021-10-09T04:45:39Z</published>
+    <updated>2021-10-09T04:45:39Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-08T21:57:00.000+0000</id>
-    <published>2021-10-09T04:02:39Z</published>
-    <updated>2021-10-09T04:02:39Z</updated>
+    <published>2021-10-09T04:45:39Z</published>
+    <updated>2021-10-09T04:45:39Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMinQFodHRwczovL3d3dy5zdW5uZXdzb25saW5lLmNvbS9yZXYtbW90aGVyLWFkZWpvYmktd2lmZS1vZi1sYXRlLXByaW1hdGUtY2h1cmNoLW9mLXRoZS1sb3JkLWFsYWR1cmEtd2hhdC1nb2QtdG9sZC1teS1odXNiYW5kLWFzLXNvbHV0aW9uLXRvLW5pZ2VyaWFzLWNoYWxsZW5nZXMv0gEA?oc=5</id>
+    <title type="html">Rev. Mother Adejobi, wife of late Primate, Church of the Lord (Aladura): What God told my husband as solution to Nigeria's challenges - Daily Sun</title>
+    <updated>2021-10-09T04:28:06.000000000Z</updated>
+    <link href="https://www.sunnewsonline.com/rev-mother-adejobi-wife-of-late-primate-church-of-the-lord-aladura-what-god-told-my-husband-as-solution-to-nigerias-challenges/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.sunnewsonline.com/rev-mother-adejobi-wife-of-late-primate-church-of-the-lord-aladura-what-god-told-my-husband-as-solution-to-nigerias-challenges/" target="_blank"&gt;Rev. Mother Adejobi, wife of late Primate, Church of the Lord (Aladura): What God told my husband as solution to Nigeria's challenges&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaW5zdWxhdGUtYnJpdGFpbi10cmFuc3BvcnQtbG9uZG9uLWdyYW50ZWQtMjIzNzIwNDU1Lmh0bWzSAVpodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvaW5zdWxhdGUtYnJpdGFpbi10cmFuc3BvcnQtbG9uZG9uLWdyYW50ZWQtMjIzNzIwNDU1Lmh0bWw?oc=5</id>
@@ -98,13 +105,6 @@ Balham, London&lt;br /&gt;
     <updated>2021-10-07T23:49:21.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/alexandria-ocasio-cortez-slams-joe-231112283.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/alexandria-ocasio-cortez-slams-joe-231112283.html" target="_blank"&gt;Alexandria Ocasio-Cortez slams Joe Manchin's demands to cut working family policies from final spending bill&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL2NvbWUtaW5pdGlhbC10aW5kZXItbWVzc2FnZS1iZWNhdXNlLTIxNDY0OTI0Ny5odG1s0gFVaHR0cHM6Ly91ay5zdHlsZS55YWhvby5jb20vYW1waHRtbC9jb21lLWluaXRpYWwtdGluZGVyLW1lc3NhZ2UtYmVjYXVzZS0yMTQ2NDkyNDcuaHRtbA?oc=5</id>
-    <title type="html">How to Come Up With That Initial Tinder Message, Because We Know It's Low-Key Stressful - Yahoo Lifestyle UK</title>
-    <updated>2021-10-07T21:46:49.000000000Z</updated>
-    <link href="https://uk.style.yahoo.com/come-initial-tinder-message-because-214649247.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.style.yahoo.com/come-initial-tinder-message-because-214649247.html" target="_blank"&gt;How to Come Up With That Initial Tinder Message, Because We Know It's Low-Key Stressful&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Lifestyle UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>387215 20211005 Balham</title>
