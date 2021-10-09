@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-09T03:15:35Z</updated>
+  <updated>2021-10-09T03:50:53Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunset: 18:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 97%, UV Risk: 0, Pollution: Low, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-08T21:57:00.000+0000</id>
-    <published>2021-10-09T03:00:51Z</published>
-    <updated>2021-10-09T03:00:51Z</updated>
+    <published>2021-10-09T03:45:38Z</published>
+    <updated>2021-10-09T03:45:38Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 18°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 10°C (51°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-08T21:57:00.000+0000</id>
-    <published>2021-10-09T03:00:51Z</published>
-    <updated>2021-10-09T03:00:51Z</updated>
+    <published>2021-10-09T03:45:38Z</published>
+    <updated>2021-10-09T03:45:38Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-08T21:57:00.000+0000</id>
-    <published>2021-10-09T03:00:51Z</published>
-    <updated>2021-10-09T03:00:51Z</updated>
+    <published>2021-10-09T03:45:38Z</published>
+    <updated>2021-10-09T03:45:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaW5zdWxhdGUtYnJpdGFpbi10cmFuc3BvcnQtbG9uZG9uLWdyYW50ZWQtMjIzNzIwNDU1Lmh0bWzSAVpodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvaW5zdWxhdGUtYnJpdGFpbi10cmFuc3BvcnQtbG9uZG9uLWdyYW50ZWQtMjIzNzIwNDU1Lmh0bWw?oc=5</id>
@@ -86,13 +86,6 @@ Balham, London&lt;br /&gt;
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcHJvLWN5Y2xpc3QtYWxleC1yaWNoYXJkc29uLWNoYXNlZC0wODQwMzM3MjAuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9wcm8tY3ljbGlzdC1hbGV4LXJpY2hhcmRzb24tY2hhc2VkLTA4NDAzMzcyMC5odG1s?oc=5</id>
-    <title type="html">Pro cyclist Alex Richardson chased by machete-wielding thugs in London’s Richmond Park - Yahoo News UK</title>
-    <updated>2021-10-08T10:12:15.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/pro-cyclist-alex-richardson-chased-084033720.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/pro-cyclist-alex-richardson-chased-084033720.html" target="_blank"&gt;Pro cyclist Alex Richardson chased by machete-wielding thugs in London’s Richmond Park&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbGV3aXMtaGFtaWx0b24tZXhwZXJpZW5jZS1naXZlcy1oaW0tMDk0ODAxNjIwLmh0bWzSAVRodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvbGV3aXMtaGFtaWx0b24tZXhwZXJpZW5jZS1naXZlcy1oaW0tMDk0ODAxNjIwLmh0bWw?oc=5</id>
     <title type="html">Lewis Hamilton’s experience gives him the edge over Max Verstappen for title No8, says George Russell - Yahoo News UK</title>
     <updated>2021-10-08T09:48:01.000000000Z</updated>
@@ -106,6 +99,39 @@ Balham, London&lt;br /&gt;
     <link href="https://www.standard.co.uk/homesandproperty/where-to-live/hipster-london-neighbourhoods-home-buyers-b959337.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/where-to-live/hipster-london-neighbourhoods-home-buyers-b959337.html" target="_blank"&gt;Move over Brixton! Five lesser-known areas near hipster hotspots with homes a fraction of the price&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYWxleGFuZHJpYS1vY2FzaW8tY29ydGV6LXNsYW1zLWpvZS0yMzExMTIyODMuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9hbGV4YW5kcmlhLW9jYXNpby1jb3J0ZXotc2xhbXMtam9lLTIzMTExMjI4My5odG1s?oc=5</id>
+    <title type="html">Alexandria Ocasio-Cortez slams Joe Manchin's demands to cut working family policies from final spending bill - Yahoo News UK</title>
+    <updated>2021-10-07T23:49:21.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/alexandria-ocasio-cortez-slams-joe-231112283.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/alexandria-ocasio-cortez-slams-joe-231112283.html" target="_blank"&gt;Alexandria Ocasio-Cortez slams Joe Manchin's demands to cut working family policies from final spending bill&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>387215 20211005 Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/steam60163/51554447964/"/>
+    <id>tag:flickr.com,2005:/photo/51554447964</id>
+    <published>2021-10-05T14:38:41Z</published>
+    <updated>2021-10-05T14:38:41Z</updated>
+    <flickr:date_taken>2021-10-02T10:36:38-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-02T10:36:38-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/steam60163/"&gt;steam60163&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/steam60163/51554447964/" title="387215 20211005 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51554447964_0c550a90b3_m.jpg" width="240" height="160" alt="387215 20211005 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;London Victoria - Brighton service, formed of 3 x Class 387/2s&lt;/p&gt;</content>
+    <author>
+      <name>steam60163</name>
+      <uri>https://www.flickr.com/people/steam60163/</uri>
+      <flickr:nsid>33425015@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8408/buddyicons/33425015@N07.jpg?1369112389#33425015@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51554447964_0c550a90b3_b.jpg"/>
+    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Unamused</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019376/"/>
@@ -184,35 +210,6 @@ Balham, London&lt;br /&gt;
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Disapproving</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
-    <id>tag:flickr.com,2005:/photo/51515735314</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
