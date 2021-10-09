@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-09T19:14:27Z</updated>
+  <updated>2021-10-09T19:51:06Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -48,13 +48,6 @@
     <content type="html">&lt;a href="https://www.theguardian.com/tv-and-radio/2021/oct/09/radio-4-arts-reshuffle-front-row-the-film-programme-add-to-playlist-this-cultural-life-white-mischief-a-home-of-our-own" target="_blank"&gt;The week in audio: Front Row; Add to Playlist; This Cultural Life; White Mischief; A Home of Our Own&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdGV4YXMtZXhlY3V0aW9ucy1mYWNlLWRlbGF5cy1vdmVyLTEzMjUxOTIzNS5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3RleGFzLWV4ZWN1dGlvbnMtZmFjZS1kZWxheXMtb3Zlci0xMzI1MTkyMzUuaHRtbA?oc=5</id>
-    <title type="html">Texas executions face delays over religious rights claims - Yahoo News UK</title>
-    <updated>2021-10-09T13:25:19.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/texas-executions-face-delays-over-132519235.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/texas-executions-face-delays-over-132519235.html" target="_blank"&gt;Texas executions face delays over religious rights claims&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaHVuZHJlZHMtY292aWQtY2FzZXMtbGlua2VkLXRybnNtdC0xMjIwNTY5MjguaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9odW5kcmVkcy1jb3ZpZC1jYXNlcy1saW5rZWQtdHJuc210LTEyMjA1NjkyOC5odG1s?oc=5</id>
     <title type="html">Hundreds of Covid cases linked to TRNSMT music festival - Yahoo News UK</title>
     <updated>2021-10-09T12:20:56.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2021-10-08T22:44:13.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/nursing-home-owner-appeals-7-224413164.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/nursing-home-owner-appeals-7-224413164.html" target="_blank"&gt;Nursing home owner appeals 7 license revocations after Ida&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdXMtbWFyc2hhbHMtZmFuLTIwMTYtZG9kZ2Vycy1nYW1lLW1vc3Qtd2FudGVkLW1sYi0xOTE0MTQ2NzkuaHRtbNIBYmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC91cy1tYXJzaGFscy1mYW4tMjAxNi1kb2RnZXJzLWdhbWUtbW9zdC13YW50ZWQtbWxiLTE5MTQxNDY3OS5odG1s?oc=5</id>
+    <title type="html">U.S. Marshals say fan at 2016 Dodgers game was actually not one of the most wanted men in America - Yahoo News UK</title>
+    <updated>2021-10-08T19:14:14.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/us-marshals-fan-2016-dodgers-game-most-wanted-mlb-191414679.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/us-marshals-fan-2016-dodgers-game-most-wanted-mlb-191414679.html" target="_blank"&gt;U.S. Marshals say fan at 2016 Dodgers game was actually not one of the most wanted men in America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
@@ -191,16 +191,16 @@ Balham, London&lt;br /&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Disapproving</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
-    <id>tag:flickr.com,2005:/photo/51515735314</id>
+    <title>Slow and speedy</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
+    <id>tag:flickr.com,2005:/photo/51514223132</id>
     <published>2021-09-25T14:57:37Z</published>
     <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
     <author>
@@ -209,7 +209,7 @@ Balham, London&lt;br /&gt;
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
