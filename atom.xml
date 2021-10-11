@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-11T02:10:11Z</updated>
+  <updated>2021-10-11T02:24:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (47°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1030mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 18:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (47°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1030mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 18:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-10T21:59:00.000+0000</id>
-    <published>2021-10-11T02:02:14Z</published>
-    <updated>2021-10-11T02:02:14Z</updated>
+    <published>2021-10-11T02:17:29Z</published>
+    <updated>2021-10-11T02:17:29Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1031mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 07:19 BST, Sunset: 18:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-10T21:59:00.000+0000</id>
-    <published>2021-10-11T02:02:14Z</published>
-    <updated>2021-10-11T02:02:14Z</updated>
+    <published>2021-10-11T02:17:29Z</published>
+    <updated>2021-10-11T02:17:29Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 10°C (50°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1026mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:20 BST, Sunset: 18:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-10T21:59:00.000+0000</id>
-    <published>2021-10-11T02:02:14Z</published>
-    <updated>2021-10-11T02:02:14Z</updated>
+    <published>2021-10-11T02:17:29Z</published>
+    <updated>2021-10-11T02:17:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPC4pBZREheyMAJ3e7xJoA0qGQgEKhAIACoHCAow3aOfCzDqrbcDMMK17wY?oc=5</id>
