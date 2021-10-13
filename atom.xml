@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-13T22:51:10Z</updated>
+  <updated>2021-10-13T23:16:12Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 18:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 18:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-13T21:55:00.000+0000</id>
-    <published>2021-10-13T22:14:15Z</published>
-    <updated>2021-10-13T22:14:15Z</updated>
+    <published>2021-10-13T23:15:00Z</published>
+    <updated>2021-10-13T23:15:00Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 12°C (53°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-13T21:55:00.000+0000</id>
-    <published>2021-10-13T22:14:15Z</published>
-    <updated>2021-10-13T22:14:15Z</updated>
+    <published>2021-10-13T23:15:00Z</published>
+    <updated>2021-10-13T23:15:00Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1020mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-13T21:55:00.000+0000</id>
-    <published>2021-10-13T22:14:15Z</published>
-    <updated>2021-10-13T22:14:15Z</updated>
+    <published>2021-10-13T23:15:00Z</published>
+    <updated>2021-10-13T23:15:00Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LnllbGxvd2FkLmNvLnVrL2l0LWhhcHBlbmVkLXRvZGF5LXRoaXMtZGF5LWluLWhpc3Rvcnktb2N0b2Jlci0xNC0zL9IBAA?oc=5</id>
+    <title type="html">It happened today - this day in history - October 14 - Yellow Advertiser</title>
+    <updated>2021-10-13T23:06:39.000000000Z</updated>
+    <link href="https://www.yellowad.co.uk/it-happened-today-this-day-in-history-october-14-3/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.yellowad.co.uk/it-happened-today-this-day-in-history-october-14-3/" target="_blank"&gt;It happened today - this day in history - October 14&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yellow Advertiser&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd2hhdC1saXotdHJ1c3MtYW5kLWRvbWluaWMtcmFhYi1uZWVkLXRvLWtub3ctYWJvdXQtc2hhcmluZy1hLWhvdXNlLXQzajJ6amhybNIBAA?oc=5</id>
+    <title type="html">What Liz Truss and Dominic Raab need to know about sharing a house - The Times</title>
+    <updated>2021-10-13T23:01:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/what-liz-truss-and-dominic-raab-need-to-know-about-sharing-a-house-t3j2zjhrl" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/what-liz-truss-and-dominic-raab-need-to-know-about-sharing-a-house-t3j2zjhrl" target="_blank"&gt;What Liz Truss and Dominic Raab need to know about sharing a house&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LnJhaWxseW5ld3MuY29tLzIwMjEvMTAvdGFyaWh0ZS1idWd1bi10dXJrLWFza2VyaS1iaXJsaWdpLWtvcmV5ZS11bGFzdGkv0gFjaHR0cHM6Ly93d3cucmFpbGx5bmV3cy5jb20vMjAyMS8xMC90b2RheS1pbi1oaXN0b3J5JTJDLXRoZS10dXJraXNoLW1pbGl0YXJ5LXVuaXQtcmVhY2hlZC1rb3JlYS9hbXAv?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2021-10-13T06:00:48.000000000Z</updated>
     <link href="https://www.inyourarea.co.uk/news/redhill-unbeaten-in-six-league-games-after-win-over-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://www.inyourarea.co.uk/news/redhill-unbeaten-in-six-league-games-after-win-over-balham/" target="_blank"&gt;Redhill unbeaten in six league games after win over Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;In Your Area&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmVzdGF0ZWFnZW50dG9kYXkuY28udWsvYnJlYWtpbmctbmV3cy8yMDIxLzEwL2xvbmRvbnMtY2hhbmdpbmctbWFya2V0LXdoYXRzLWhvdC1hbmQtd2hhdHMtbm900gEA?oc=5</id>
-    <title type="html">London's Changing Market: What's hot and what's... - Estate Agent Today</title>
-    <updated>2021-10-12T23:04:13.000000000Z</updated>
-    <link href="https://www.estateagenttoday.co.uk/breaking-news/2021/10/londons-changing-market-whats-hot-and-whats-not" type="text/html"/>
-    <content type="html">&lt;a href="https://www.estateagenttoday.co.uk/breaking-news/2021/10/londons-changing-market-whats-hot-and-whats-not" target="_blank"&gt;London's Changing Market: What's hot and what's...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Estate Agent Today&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTEvY2FuLWplcnNleS1idWxscy10YWtlLW5pbmUtcG9pbnRzLWluLWEtd2Vlay_SAQA?oc=5</id>
-    <title type="html">Can Jersey Bulls take nine points in a week? - Jersey Evening Post</title>
-    <updated>2021-10-11T13:47:00.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2021/10/11/can-jersey-bulls-take-nine-points-in-a-week/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/11/can-jersey-bulls-take-nine-points-in-a-week/" target="_blank"&gt;Can Jersey Bulls take nine points in a week?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
