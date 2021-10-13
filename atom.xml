@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-13T08:50:55Z</updated>
+  <updated>2021-10-13T09:15:30Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1028mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:20 BST, Sunset: 18:12 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-12T21:53:00.000+0000</id>
-    <published>2021-10-13T08:03:29Z</published>
-    <updated>2021-10-13T08:03:29Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-13T07:03:00.000+0000</id>
+    <published>2021-10-13T09:03:46Z</published>
+    <updated>2021-10-13T09:03:46Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 12°C (53°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:22 BST, Sunset: 18:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:22 BST, Sunset: 18:10 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-12T21:53:00.000+0000</id>
-    <published>2021-10-13T08:03:29Z</published>
-    <updated>2021-10-13T08:03:29Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-13T07:03:00.000+0000</id>
+    <published>2021-10-13T09:03:46Z</published>
+    <updated>2021-10-13T09:03:46Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1020mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-12T21:53:00.000+0000</id>
-    <published>2021-10-13T08:03:29Z</published>
-    <updated>2021-10-13T08:03:29Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-13T07:03:00.000+0000</id>
+    <published>2021-10-13T09:03:46Z</published>
+    <updated>2021-10-13T09:03:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9yZWRoaWxsLXVuYmVhdGVuLWluLXNpeC1sZWFndWUtZ2FtZXMtYWZ0ZXItd2luLW92ZXItYmFsaGFtL9IBYWh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9yZWRoaWxsLXVuYmVhdGVuLWluLXNpeC1sZWFndWUtZ2FtZXMtYWZ0ZXItd2luLW92ZXItYmFsaGFtL2FtcC8?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://www.estateagenttoday.co.uk/breaking-news/2021/10/londons-changing-market-whats-hot-and-whats-not?source=newsticker" target="_blank"&gt;London's Changing Market: What's hot and what's...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Estate Agent Today&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy9odWxsLWNpdHktY291bmNpbC1wbGFubmluZy1hcHBsaWNhdGlvbnMtc3VibWl0dGVkLXdlZWstZW5kaW5nLW9jdG9iZXItMTUv0gFvaHR0cHM6Ly93d3cuaW55b3VyYXJlYS5jby51ay9uZXdzL2h1bGwtY2l0eS1jb3VuY2lsLXBsYW5uaW5nLWFwcGxpY2F0aW9ucy1zdWJtaXR0ZWQtd2Vlay1lbmRpbmctb2N0b2Jlci0xNS9hbXAv?oc=5</id>
+    <title type="html">Hull City Council planning applications submitted week ending October 15 - In Your Area</title>
+    <updated>2021-10-12T11:25:03.000000000Z</updated>
+    <link href="https://www.inyourarea.co.uk/news/hull-city-council-planning-applications-submitted-week-ending-october-15/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.inyourarea.co.uk/news/hull-city-council-planning-applications-submitted-week-ending-october-15/" target="_blank"&gt;Hull City Council planning applications submitted week ending October 15&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;In Your Area&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTEvY2FuLWplcnNleS1idWxscy10YWtlLW5pbmUtcG9pbnRzLWluLWEtd2Vlay_SAQA?oc=5</id>
     <title type="html">Can Jersey Bulls take nine points in a week? - Jersey Evening Post</title>
     <updated>2021-10-11T13:47:00.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2021-10-10T06:35:12.000000000Z</updated>
     <link href="https://texasnewstoday.com/iraqi-voting-in-general-elections-a-trial-of-democracy/493667/" type="text/html"/>
     <content type="html">&lt;a href="https://texasnewstoday.com/iraqi-voting-in-general-elections-a-trial-of-democracy/493667/" target="_blank"&gt;Iraqi Voting in General Elections, a Trial of Democracy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Texasnewstoday.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdXMtbWFyc2hhbHMtZmFuLTIwMTYtZG9kZ2Vycy1nYW1lLW1vc3Qtd2FudGVkLW1sYi0xOTE0MTQ2NzkuaHRtbNIBYmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC91cy1tYXJzaGFscy1mYW4tMjAxNi1kb2RnZXJzLWdhbWUtbW9zdC13YW50ZWQtbWxiLTE5MTQxNDY3OS5odG1s?oc=5</id>
-    <title type="html">U.S. Marshals say fan at 2016 Dodgers game was actually not one of the most wanted men in America - Yahoo News UK</title>
-    <updated>2021-10-08T19:14:14.000000000Z</updated>
-    <link href="https://uk.news.yahoo.com/us-marshals-fan-2016-dodgers-game-most-wanted-mlb-191414679.html" type="text/html"/>
-    <content type="html">&lt;a href="https://uk.news.yahoo.com/us-marshals-fan-2016-dodgers-game-most-wanted-mlb-191414679.html" target="_blank"&gt;U.S. Marshals say fan at 2016 Dodgers game was actually not one of the most wanted men in America&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
@@ -162,35 +162,6 @@ Balham, London&lt;br /&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Disapproving</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
-    <id>tag:flickr.com,2005:/photo/51515735314</id>
-    <published>2021-09-25T14:57:37Z</published>
-    <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bold</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515019601/"/>
     <id>tag:flickr.com,2005:/photo/51515019601</id>
@@ -210,6 +181,35 @@ Balham, London&lt;br /&gt;
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515019601_089e35b51b_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Slow and speedy</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
+    <id>tag:flickr.com,2005:/photo/51514223132</id>
+    <published>2021-09-25T14:57:37Z</published>
+    <updated>2021-09-25T14:57:37Z</updated>
+    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
