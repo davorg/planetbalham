@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-14T13:51:03Z</updated>
+  <updated>2021-10-14T14:15:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1022mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 07:22 BST, Sunset: 18:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-14T09:57:00.000+0000</id>
-    <published>2021-10-14T13:26:20Z</published>
-    <updated>2021-10-14T13:26:20Z</updated>
+    <published>2021-10-14T14:01:05Z</published>
+    <updated>2021-10-14T14:01:05Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1020mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-14T09:57:00.000+0000</id>
-    <published>2021-10-14T13:26:20Z</published>
-    <updated>2021-10-14T13:26:20Z</updated>
+    <published>2021-10-14T14:01:05Z</published>
+    <updated>2021-10-14T14:01:05Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 11°C (53°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-14T09:57:00.000+0000</id>
-    <published>2021-10-14T13:26:20Z</published>
-    <updated>2021-10-14T13:26:20Z</updated>
+    <published>2021-10-14T14:01:05Z</published>
+    <updated>2021-10-14T14:01:05Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMTk2NDgwMTMubm8tdHJhaW5zLWxvbmRvbi12aWN0b3JpYS1lYXN0LWNyb3lkb24td2Vla2VuZC_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzE5NjQ4MDEzLmFtcC8?oc=5</id>
+    <title type="html">No trains between London Victoria and East Croydon this weekend - The Argus</title>
+    <updated>2021-10-14T13:58:51.000000000Z</updated>
+    <link href="https://www.theargus.co.uk/news/19648013.no-trains-london-victoria-east-croydon-weekend/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theargus.co.uk/news/19648013.no-trains-london-victoria-east-croydon-weekend/" target="_blank"&gt;No trains between London Victoria and East Croydon this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Argus&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGLER5dzbEYrPDxw-v3xtjEqGQgEKhAIACoHCAow5fmdCzD2g7YDMPP_6AY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-13T23:01:00.000000000Z</updated>
     <link href="https://www.thetimes.co.uk/article/what-liz-truss-and-dominic-raab-need-to-know-about-sharing-a-house-t3j2zjhrl" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/what-liz-truss-and-dominic-raab-need-to-know-about-sharing-a-house-t3j2zjhrl" target="_blank"&gt;What Liz Truss and Dominic Raab need to know about sharing a house&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LnJhaWxseW5ld3MuY29tLzIwMjEvMTAvdGFyaWh0ZS1idWd1bi10dXJrLWFza2VyaS1iaXJsaWdpLWtvcmV5ZS11bGFzdGkv0gFjaHR0cHM6Ly93d3cucmFpbGx5bmV3cy5jb20vMjAyMS8xMC90b2RheS1pbi1oaXN0b3J5JTJDLXRoZS10dXJraXNoLW1pbGl0YXJ5LXVuaXQtcmVhY2hlZC1rb3JlYS9hbXAv?oc=5</id>
-    <title type="html">Tarihte Bugün : Türk Askeri Birliği Kore’ye Ulaştı - RaillyNews</title>
-    <updated>2021-10-13T21:23:42.000000000Z</updated>
-    <link href="https://www.raillynews.com/2021/10/tarihte-bugun-turk-askeri-birligi-koreye-ulasti/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.raillynews.com/2021/10/tarihte-bugun-turk-askeri-birligi-koreye-ulasti/" target="_blank"&gt;Tarihte Bugün : Türk Askeri Birliği Kore’ye Ulaştı&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RaillyNews&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
