@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-15T09:16:07Z</updated>
+  <updated>2021-10-15T09:51:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-15T07:54:00.000+0000</id>
-    <published>2021-10-15T09:03:44Z</published>
-    <updated>2021-10-15T09:03:44Z</updated>
+    <published>2021-10-15T09:39:45Z</published>
+    <updated>2021-10-15T09:39:45Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1021mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-15T07:54:00.000+0000</id>
-    <published>2021-10-15T09:03:44Z</published>
-    <updated>2021-10-15T09:03:44Z</updated>
+    <published>2021-10-15T09:39:45Z</published>
+    <updated>2021-10-15T09:39:45Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (53°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 07:27 BST, Sunset: 18:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-15T07:54:00.000+0000</id>
-    <published>2021-10-15T09:03:44Z</published>
-    <updated>2021-10-15T09:03:44Z</updated>
+    <published>2021-10-15T09:39:45Z</published>
+    <updated>2021-10-15T09:39:45Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jaGFyaXR5LXJlZnVnZWUtc3VwcG9ydC1zdGFnZXMtdGhlLWRpZ25pZnktZmVzdGl2YWwtZnVuZHJhaXNlci1pbi1iYWxoYW0tbm92LTMv0gEA?oc=5</id>
+    <title type="html">Charity Refugee Support stages the Dignify Festival fundraiser in Balham Nov 3 - London News Online</title>
+    <updated>2021-10-15T09:23:00.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/charity-refugee-support-stages-the-dignify-festival-fundraiser-in-balham-nov-3/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/charity-refugee-support-stages-the-dignify-festival-fundraiser-in-balham-nov-3/" target="_blank"&gt;Charity Refugee Support stages the Dignify Festival fundraiser in Balham Nov 3&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEDOz2AS8e0iID45HxlBjN-kqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-14T13:58:51.000000000Z</updated>
     <link href="https://www.theargus.co.uk/news/19648013.no-trains-london-victoria-east-croydon-weekend/" type="text/html"/>
     <content type="html">&lt;a href="https://www.theargus.co.uk/news/19648013.no-trains-london-victoria-east-croydon-weekend/" target="_blank"&gt;No trains between London Victoria and East Croydon this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Argus&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEGLER5dzbEYrPDxw-v3xtjEqGQgEKhAIACoHCAow5fmdCzD2g7YDMPP_6AY?oc=5</id>
-    <title type="html">London Underground weekend closures: Tube and Overground changes on October 16 and 17 - Herts Live</title>
-    <updated>2021-10-14T12:26:25.000000000Z</updated>
-    <link href="https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/london-underground-weekend-closures-tube-6058478" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hertfordshiremercury.co.uk/news/hertfordshire-news/london-underground-weekend-closures-tube-6058478" target="_blank"&gt;London Underground weekend closures: Tube and Overground changes on October 16 and 17&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Herts Live&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
