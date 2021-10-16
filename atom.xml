@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-16T08:50:50Z</updated>
+  <updated>2021-10-16T09:15:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-15T21:55:00.000+0000</id>
-    <published>2021-10-16T08:00:39Z</published>
-    <updated>2021-10-16T08:00:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-16T07:59:00.000+0000</id>
+    <published>2021-10-16T09:00:33Z</published>
+    <updated>2021-10-16T09:00:33Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunrise: 07:27 BST, Sunset: 18:04 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunrise: 07:27 BST, Sunset: 18:04 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-15T21:55:00.000+0000</id>
-    <published>2021-10-16T08:00:39Z</published>
-    <updated>2021-10-16T08:00:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-16T07:59:00.000+0000</id>
+    <published>2021-10-16T09:00:33Z</published>
+    <updated>2021-10-16T09:00:33Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: 15°C (59°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1017mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-15T21:55:00.000+0000</id>
-    <published>2021-10-16T08:00:39Z</published>
-    <updated>2021-10-16T08:00:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-16T07:59:00.000+0000</id>
+    <published>2021-10-16T09:00:33Z</published>
+    <updated>2021-10-16T09:00:33Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiELBiSMCB9TVdnHBGttWOQDsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
+    <title type="html">London trains: No trains running between London Victoria and East Croydon this weekend - My London</title>
+    <updated>2021-10-16T03:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/london-trains-no-trains-running-21860512" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-trains-no-trains-running-21860512" target="_blank"&gt;London trains: No trains running between London Victoria and East Croydon this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBqbS1ZZkOrJOM-M0vZkftMqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-15T08:06:28.000000000Z</updated>
     <link href="https://www.railadvent.co.uk/2021/10/no-trains-saturday-16th-and-sunday-17th-october-between-london-victoria-and-east-croydon.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2021/10/no-trains-saturday-16th-and-sunday-17th-october-between-london-victoria-and-east-croydon.html" target="_blank"&gt;No trains Saturday 16th and Sunday 17th October between London Victoria and East Croydon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIxMTAxNTEwOTU2L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvZ2F6ZXR0ZS1jaGFuY2VyeS1sYW5lLWZyZW5jaC1yZXN0YXVyYW50LWxvbmRvbtIBAA?oc=5</id>
-    <title type="html">Gazette Chancery is a new trad French brasserie for Chancery Lane - Hot Dinners</title>
-    <updated>2021-10-15T07:55:14.000000000Z</updated>
-    <link href="https://www.hot-dinners.com/2021101510956/Gastroblog/Latest-news/gazette-chancery-lane-french-restaurant-london" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hot-dinners.com/2021101510956/Gastroblog/Latest-news/gazette-chancery-lane-french-restaurant-london" target="_blank"&gt;Gazette Chancery is a new trad French brasserie for Chancery Lane&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
