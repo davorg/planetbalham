@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-18T12:17:17Z</updated>
+  <updated>2021-10-18T12:58:27Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Heavy Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Today: Heavy Rain, Minimum Temperature: 15°C (59°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-18T09:54:00.000+0000</id>
-    <published>2021-10-18T12:01:40Z</published>
-    <updated>2021-10-18T12:01:40Z</updated>
+    <published>2021-10-18T12:30:20Z</published>
+    <updated>2021-10-18T12:30:20Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 16°C (60°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 BST, Sunset: 18:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-18T09:54:00.000+0000</id>
-    <published>2021-10-18T12:01:40Z</published>
-    <updated>2021-10-18T12:01:40Z</updated>
+    <published>2021-10-18T12:30:20Z</published>
+    <updated>2021-10-18T12:30:20Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thundery Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (62°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1003mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:32 BST, Sunset: 17:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-18T09:54:00.000+0000</id>
-    <published>2021-10-18T12:01:40Z</published>
-    <updated>2021-10-18T12:01:40Z</updated>
+    <published>2021-10-18T12:30:20Z</published>
+    <updated>2021-10-18T12:30:20Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEF2hxZF2SJ6NPuPEd1U-sP0qFwgEKg4IACoGCAowis8wMLmCBjCfodQD?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-underground-northern-line-commuters-21869530" target="_blank"&gt;London Underground: Northern line commuters fume as they miss out on Night Tube&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTIyL9IBAA?oc=5</id>
-    <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
-    <updated>2021-10-15T13:30:10.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/this-week-10-20-30-years-ago-22/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/this-week-10-20-30-years-ago-22/" target="_blank"&gt;This week 10, 20, 30 years ago – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jaGFyaXR5LXJlZnVnZWUtc3VwcG9ydC1zdGFnZXMtdGhlLWRpZ25pZnktZmVzdGl2YWwtZnVuZHJhaXNlci1pbi1iYWxoYW0tbm92LTMv0gEA?oc=5</id>
+    <title type="html">Charity Refugee Support stages the Dignify Festival fundraiser in Balham Nov 3 - London News Online</title>
+    <updated>2021-10-15T09:23:00.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/charity-refugee-support-stages-the-dignify-festival-fundraiser-in-balham-nov-3/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/charity-refugee-support-stages-the-dignify-festival-fundraiser-in-balham-nov-3/" target="_blank"&gt;Charity Refugee Support stages the Dignify Festival fundraiser in Balham Nov 3&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
