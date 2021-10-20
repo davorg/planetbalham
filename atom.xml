@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-20T11:15:12Z</updated>
+  <updated>2021-10-20T11:50:46Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CAIiECha1AyfpYTAAbQ7mq76rLwqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
+    <title type="html">Lloyds and Halifax to close 48 branches at a loss of 178 jobs - see full list - The Mirror</title>
+    <updated>2021-10-20T11:05:32.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/money/breaking-lloyds-halifax-close-another-25257833" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/money/breaking-lloyds-halifax-close-another-25257833" target="_blank"&gt;Lloyds and Halifax to close 48 branches at a loss of 178 jobs - see full list&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2021-10-16T16:52:32.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" target="_blank"&gt;Best London restaurants barely anyone knows about yet from Japanese hideaways to delicious ceviche&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTYvamVyc2V5LWJ1bGxzLWNsaW1iLWFnYWluLWZvbGxvd2luZy1sZXN0ZXItYnJhY2Uv0gEA?oc=5</id>
-    <title type="html">Jersey Bulls climb again following Lester brace - Jersey Evening Post</title>
-    <updated>2021-10-16T14:40:00.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" target="_blank"&gt;Jersey Bulls climb again following Lester brace&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
