@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-20T10:51:01Z</updated>
+  <updated>2021-10-20T11:15:12Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 999mb, Humidity: 69%, UV Risk: 1, Pollution: Low, Sunrise: 07:32 BST, Sunset: 17:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 999mb, Humidity: 69%, UV Risk: 1, Pollution: Low, Sunrise: 07:32 BST, Sunset: 17:58 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-20T07:59:00.000+0000</id>
-    <published>2021-10-20T10:05:07Z</published>
-    <updated>2021-10-20T10:05:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-20T09:57:00.000+0000</id>
+    <published>2021-10-20T11:05:31Z</published>
+    <updated>2021-10-20T11:05:31Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (56°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-20T07:59:00.000+0000</id>
-    <published>2021-10-20T10:05:07Z</published>
-    <updated>2021-10-20T10:05:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-20T09:57:00.000+0000</id>
+    <published>2021-10-20T11:05:31Z</published>
+    <updated>2021-10-20T11:05:31Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 14°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (56°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-20T07:59:00.000+0000</id>
-    <published>2021-10-20T10:05:07Z</published>
-    <updated>2021-10-20T10:05:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-20T09:57:00.000+0000</id>
+    <published>2021-10-20T11:05:31Z</published>
+    <updated>2021-10-20T11:05:31Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zcG90bGlnaHQtb24tbXVzaWMtc3VwcG9ydGluZy1yZWZ1Z2Vlcy10aHJvdWdoLW11c2ljL9IBAA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" target="_blank"&gt;Lester enjoys giving Jersey Bulls boss 'a headache'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnZpY2UuY29tL2VuX3VzL2FydGljbGUvazc4NDl4L2dyb3dpbmctdXAtZ2hhbmFpYW4tYnJpdGlzaC03MHMtZW5nbGFuZD_SAVJodHRwczovL3d3dy52aWNlLmNvbS9hbXAvZW4vYXJ0aWNsZS9rNzg0OXgvZ3Jvd2luZy11cC1naGFuYWlhbi1icml0aXNoLTcwcy1lbmdsYW5k?oc=5</id>
-    <title type="html">'Born Under Siege' – Growing Up Ghanaian-British in 70s England - VICE</title>
-    <updated>2021-10-18T08:45:00.000000000Z</updated>
-    <link href="https://www.vice.com/en_us/article/k7849x/growing-up-ghanaian-british-70s-england?" type="text/html"/>
-    <content type="html">&lt;a href="https://www.vice.com/en_us/article/k7849x/growing-up-ghanaian-british-70s-england?" target="_blank"&gt;'Born Under Siege' – Growing Up Ghanaian-British in 70s England&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;VICE&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiELtCT3N07phOPP9Oh_5PnC8qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">Best London restaurants barely anyone knows about yet from Japanese hideaways to delicious ceviche - My London</title>
     <updated>2021-10-16T16:52:32.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" target="_blank"&gt;Best London restaurants barely anyone knows about yet from Japanese hideaways to delicious ceviche&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTYvamVyc2V5LWJ1bGxzLWNsaW1iLWFnYWluLWZvbGxvd2luZy1sZXN0ZXItYnJhY2Uv0gEA?oc=5</id>
+    <title type="html">Jersey Bulls climb again following Lester brace - Jersey Evening Post</title>
+    <updated>2021-10-16T14:40:00.000000000Z</updated>
+    <link href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" type="text/html"/>
+    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" target="_blank"&gt;Jersey Bulls climb again following Lester brace&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
