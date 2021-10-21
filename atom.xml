@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-21T14:51:03Z</updated>
+  <updated>2021-10-21T15:17:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1014mb, Humidity: 52%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 54%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-21T09:58:00.000+0000</id>
-    <published>2021-10-21T14:16:37Z</published>
-    <updated>2021-10-21T14:16:37Z</updated>
+    <published>2021-10-21T15:16:53Z</published>
+    <updated>2021-10-21T15:16:53Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-21T09:58:00.000+0000</id>
-    <published>2021-10-21T14:16:37Z</published>
-    <updated>2021-10-21T14:16:37Z</updated>
+    <published>2021-10-21T15:16:53Z</published>
+    <updated>2021-10-21T15:16:53Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-21T09:58:00.000+0000</id>
-    <published>2021-10-21T14:16:37Z</published>
-    <updated>2021-10-21T14:16:37Z</updated>
+    <published>2021-10-21T15:16:53Z</published>
+    <updated>2021-10-21T15:16:53Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zYWluc2J1cnlzLWNhci1idXJuZWQtb3V0LXNvdXRoLTIxOTMwMDc10gFdaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NhaW5zYnVyeXMtY2FyLWJ1cm5lZC1vdXQtc291dGgtMjE5MzAwNzUuYW1w?oc=5</id>
+    <title type="html">Sainsbury's: Car burned out at South London supermarket with 3 more vehicles damaged - MyLondon</title>
+    <updated>2021-10-21T15:01:37.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/sainsburys-car-burned-out-south-21930075" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/sainsburys-car-burned-out-south-21930075" target="_blank"&gt;Sainsbury's: Car burned out at South London supermarket with 3 more vehicles damaged&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy80OC1tb3JlLWxsb3lkcy1iYW5rLWFuZC1oYWxpZmF4LWJyYW5jaGVzLXRvLWNsb3NlL9IBWGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy80OC1tb3JlLWxsb3lkcy1iYW5rLWFuZC1oYWxpZmF4LWJyYW5jaGVzLXRvLWNsb3NlL2FtcC8?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-20T14:33:09.000000000Z</updated>
     <link href="https://www.standard.co.uk/business/lloyds-halifax-branch-closures-48-sites-london-b961557.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/business/lloyds-halifax-branch-closures-48-sites-london-b961557.html" target="_blank"&gt;Lloyds and Halifax bank branch closures: The 48 sites to go, with some London areas impacted&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zcG90bGlnaHQtb24tbXVzaWMtc3VwcG9ydGluZy1yZWZ1Z2Vlcy10aHJvdWdoLW11c2ljL9IBAA?oc=5</id>
-    <title type="html">Spotlight on Music – Supporting refugees through music – South London News - London News Online</title>
-    <updated>2021-10-20T10:01:26.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/spotlight-on-music-supporting-refugees-through-music/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/spotlight-on-music-supporting-refugees-through-music/" target="_blank"&gt;Spotlight on Music – Supporting refugees through music – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
