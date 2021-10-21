@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-21T09:51:07Z</updated>
+  <updated>2021-10-21T10:16:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Westerly, Wind Speed: 19mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 53%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-21T07:59:00.000+0000</id>
-    <published>2021-10-21T09:15:27Z</published>
-    <updated>2021-10-21T09:15:27Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-21T09:58:00.000+0000</id>
+    <published>2021-10-21T10:15:38Z</published>
+    <updated>2021-10-21T10:15:38Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 14°C (57°F)</title>
@@ -26,19 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-21T07:59:00.000+0000</id>
-    <published>2021-10-21T09:15:27Z</published>
-    <updated>2021-10-21T09:15:27Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-21T09:58:00.000+0000</id>
+    <published>2021-10-21T10:15:38Z</published>
+    <updated>2021-10-21T10:15:38Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-21T07:59:00.000+0000</id>
-    <published>2021-10-21T09:15:27Z</published>
-    <updated>2021-10-21T09:15:27Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-21T09:58:00.000+0000</id>
+    <published>2021-10-21T10:15:38Z</published>
+    <updated>2021-10-21T10:15:38Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy80OC1tb3JlLWxsb3lkcy1iYW5rLWFuZC1oYWxpZmF4LWJyYW5jaGVzLXRvLWNsb3NlL9IBWGh0dHBzOi8vd3d3LmlueW91cmFyZWEuY28udWsvbmV3cy80OC1tb3JlLWxsb3lkcy1iYW5rLWFuZC1oYWxpZmF4LWJyYW5jaGVzLXRvLWNsb3NlL2FtcC8?oc=5</id>
+    <title type="html">48 more Lloyds Bank and Halifax branches to close - In Your Area</title>
+    <updated>2021-10-21T10:00:13.000000000Z</updated>
+    <link href="https://www.inyourarea.co.uk/news/48-more-lloyds-bank-and-halifax-branches-to-close/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.inyourarea.co.uk/news/48-more-lloyds-bank-and-halifax-branches-to-close/" target="_blank"&gt;48 more Lloyds Bank and Halifax branches to close&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;In Your Area&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigwFodHRwczovL3d3dy5icmlnaHRvbmFuZGhvdmVpbmRlcGVuZGVudC5jby51ay9yZWFkLXRoaXMvbGxveWRzLWFuZC1oYWxpZmF4LXRvLWNsb3NlLTQ4LWJyYW5jaGVzLWZ1bGwtbGlzdC1vZi1pbXBhY3RlZC1zdG9yZXMtMzQyNzIxMdIBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-20T10:01:26.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/spotlight-on-music-supporting-refugees-through-music/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/spotlight-on-music-supporting-refugees-through-music/" target="_blank"&gt;Spotlight on Music – Supporting refugees through music – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTgvbGVzdGVyLWVuam95cy1naXZpbmctamVyc2V5LWJ1bGxzLWJvc3MtYS1oZWFkYWNoZS_SAQA?oc=5</id>
-    <title type="html">Lester enjoys giving Jersey Bulls boss 'a headache' - Jersey Evening Post</title>
-    <updated>2021-10-18T14:00:00.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" target="_blank"&gt;Lester enjoys giving Jersey Bulls boss 'a headache'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
@@ -191,16 +191,16 @@ Balham, London&lt;br /&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Slow and speedy</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51514223132/"/>
-    <id>tag:flickr.com,2005:/photo/51514223132</id>
+    <title>Disapproving</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51515735314/"/>
+    <id>tag:flickr.com,2005:/photo/51515735314</id>
     <published>2021-09-25T14:57:37Z</published>
     <updated>2021-09-25T14:57:37Z</updated>
-    <flickr:date_taken>2021-09-25T12:05:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-25T12:05:45-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-09-25T12:09:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-25T12:09:37-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51514223132/" title="Slow and speedy"&gt;&lt;img src="https://live.staticflickr.com/65535/51514223132_1f0300b060_m.jpg" width="240" height="160" alt="Slow and speedy" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51515735314/" title="Disapproving"&gt;&lt;img src="https://live.staticflickr.com/65535/51515735314_17a6895d58_m.jpg" width="240" height="160" alt="Disapproving" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Taro, Balham, London&lt;/p&gt;</content>
     <author>
@@ -209,7 +209,7 @@ Balham, London&lt;br /&gt;
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51514223132_1f0300b060_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51515735314_17a6895d58_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="menu" scheme="https://www.flickr.com/photos/tags/"/>
