@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-21T05:15:55Z</updated>
+  <updated>2021-10-21T05:51:08Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2021-10-21T05:13:49Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEIvKMAmi405_Wsz8_BmLejIqFggEKg4IACoGCAowqvB9MMTRCTCl9RU?oc=5</id>
-    <title type="html">FTSE 100 Live: Facebook fined £50m, Burberry names Jonathan Akeroyd as new CEO, inflation dips to 3.1% - Evening Standard</title>
-    <updated>2021-10-20T14:35:57.000000000Z</updated>
-    <link href="https://www.standard.co.uk/business/ftse-100-live-20-october-inflation-rate-interest-rates-bank-of-england-netflix-earnings-squid-game-china-markets-coal-price-london-market-b961412.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/business/ftse-100-live-20-october-inflation-rate-interest-rates-bank-of-england-netflix-earnings-squid-game-china-markets-coal-price-london-market-b961412.html" target="_blank"&gt;FTSE 100 Live: Facebook fined £50m, Burberry names Jonathan Akeroyd as new CEO, inflation dips to 3.1%&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEJbbFfOpq7-1jg4Vrvfa_Q0qFggEKg4IACoGCAowqvB9MMTRCTCl9RU?oc=5</id>
     <title type="html">Lloyds and Halifax bank branch closures: The 48 sites to go, with some London areas impacted - Evening Standard</title>
     <updated>2021-10-20T14:33:09.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2021-10-16T16:52:32.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" target="_blank"&gt;Best London restaurants barely anyone knows about yet from Japanese hideaways to delicious ceviche&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTYvamVyc2V5LWJ1bGxzLWNsaW1iLWFnYWluLWZvbGxvd2luZy1sZXN0ZXItYnJhY2Uv0gEA?oc=5</id>
+    <title type="html">Jersey Bulls climb again following Lester brace - Jersey Evening Post</title>
+    <updated>2021-10-16T14:40:00.000000000Z</updated>
+    <link href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" type="text/html"/>
+    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" target="_blank"&gt;Jersey Bulls climb again following Lester brace&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
