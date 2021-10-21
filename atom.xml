@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-21T05:51:08Z</updated>
+  <updated>2021-10-21T06:15:44Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1009mb, Humidity: 63%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1009mb, Humidity: 63%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-20T21:53:00.000+0000</id>
-    <published>2021-10-21T05:13:49Z</published>
-    <updated>2021-10-21T05:13:49Z</updated>
+    <published>2021-10-21T06:13:53Z</published>
+    <updated>2021-10-21T06:13:53Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-20T21:53:00.000+0000</id>
-    <published>2021-10-21T05:13:49Z</published>
-    <updated>2021-10-21T05:13:49Z</updated>
+    <published>2021-10-21T06:13:53Z</published>
+    <updated>2021-10-21T06:13:53Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1024mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-20T21:53:00.000+0000</id>
-    <published>2021-10-21T05:13:49Z</published>
-    <updated>2021-10-21T05:13:49Z</updated>
+    <published>2021-10-21T06:13:53Z</published>
+    <updated>2021-10-21T06:13:53Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pLW1vdmVkLW5vcnRoLWxvbmRvbi1zb3V0aC0yMTkxMzk2ONIBWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pLW1vdmVkLW5vcnRoLWxvbmRvbi1zb3V0aC0yMTkxMzk2OC5hbXA?oc=5</id>
+    <title type="html">'I moved from North London to South and there are some big differences nobody tells you about' - MyLondon</title>
+    <updated>2021-10-21T06:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/i-moved-north-london-south-21913968" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/i-moved-north-london-south-21913968" target="_blank"&gt;'I moved from North London to South and there are some big differences nobody tells you about'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJbbFfOpq7-1jg4Vrvfa_Q0qFggEKg4IACoGCAowqvB9MMTRCTCl9RU?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-10-16T16:52:32.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/favourite-restaurant-hiddem-gems-mylondon-21880553" target="_blank"&gt;Best London restaurants barely anyone knows about yet from Japanese hideaways to delicious ceviche&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTYvamVyc2V5LWJ1bGxzLWNsaW1iLWFnYWluLWZvbGxvd2luZy1sZXN0ZXItYnJhY2Uv0gEA?oc=5</id>
-    <title type="html">Jersey Bulls climb again following Lester brace - Jersey Evening Post</title>
-    <updated>2021-10-16T14:40:00.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/16/jersey-bulls-climb-again-following-lester-brace/" target="_blank"&gt;Jersey Bulls climb again following Lester brace&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
