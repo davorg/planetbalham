@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-22T07:16:11Z</updated>
+  <updated>2021-10-22T07:51:29Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-21T21:55:00.000+0000</id>
-    <published>2021-10-22T07:02:22Z</published>
-    <updated>2021-10-22T07:02:22Z</updated>
+    <published>2021-10-22T07:29:19Z</published>
+    <updated>2021-10-22T07:29:19Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (58°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-21T21:55:00.000+0000</id>
-    <published>2021-10-22T07:02:22Z</published>
-    <updated>2021-10-22T07:02:22Z</updated>
+    <published>2021-10-22T07:29:19Z</published>
+    <updated>2021-10-22T07:29:19Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-21T21:55:00.000+0000</id>
-    <published>2021-10-22T07:02:22Z</published>
-    <updated>2021-10-22T07:02:22Z</updated>
+    <published>2021-10-22T07:29:19Z</published>
+    <updated>2021-10-22T07:29:19Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJOuu5BKeWlDJjuIBeDRJtkqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.standard.co.uk/business/lloyds-halifax-branch-closures-48-sites-london-b961557.html" target="_blank"&gt;Lloyds and Halifax bank branch closures: The 48 sites to go, with some London areas impacted&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEKX6IIaPuJcMvOuSUTcB_zEqGQgEKhAIACoHCAowzrekCzCRwrwDMIXdhwc?oc=5</id>
-    <title type="html">Spotlight On Music – Supporting Refugees Through Music - Todayuknews - Todayuknews</title>
-    <updated>2021-10-20T10:17:02.000000000Z</updated>
-    <link href="https://todayuknews.com/entertainment/spotlight-on-music-supporting-refugees-through-music/" type="text/html"/>
-    <content type="html">&lt;a href="https://todayuknews.com/entertainment/spotlight-on-music-supporting-refugees-through-music/" target="_blank"&gt;Spotlight On Music – Supporting Refugees Through Music - Todayuknews&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Todayuknews&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTgvbGVzdGVyLWVuam95cy1naXZpbmctamVyc2V5LWJ1bGxzLWJvc3MtYS1oZWFkYWNoZS_SAQA?oc=5</id>
+    <title type="html">Lester enjoys giving Jersey Bulls boss 'a headache' - Jersey Evening Post</title>
+    <updated>2021-10-18T14:00:00.000000000Z</updated>
+    <link href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" type="text/html"/>
+    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" target="_blank"&gt;Lester enjoys giving Jersey Bulls boss 'a headache'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
