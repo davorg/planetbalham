@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-22T10:16:23Z</updated>
+  <updated>2021-10-22T10:50:54Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmNhdGVyaW5ndG9kYXkuY28udWsvbmV3cy9jcnVzdC1icm9zLWNvbmZpcm1zLXRoaXJkLXNpdGUtaW4tYmFsaGFtLW5leHQteWVhci_SAVxodHRwczovL3d3dy5jYXRlcmluZ3RvZGF5LmNvLnVrL25ld3MvY3J1c3QtYnJvcy1jb25maXJtcy10aGlyZC1zaXRlLWluLWJhbGhhbS1uZXh0LXllYXIvYW1wLw?oc=5</id>
+    <title type="html">Crust Bros confirms third site in Balham next year - Catering Today</title>
+    <updated>2021-10-22T10:37:08.000000000Z</updated>
+    <link href="https://www.cateringtoday.co.uk/news/crust-bros-confirms-third-site-in-balham-next-year/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cateringtoday.co.uk/news/crust-bros-confirms-third-site-in-balham-next-year/" target="_blank"&gt;Crust Bros confirms third site in Balham next year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Catering Today&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-22T07:03:00.000+0000</id>
-    <published>2021-10-22T10:05:09Z</published>
-    <updated>2021-10-22T10:05:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-22T09:54:00.000+0000</id>
+    <published>2021-10-22T10:30:14Z</published>
+    <updated>2021-10-22T10:30:14Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
@@ -26,19 +33,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-22T07:03:00.000+0000</id>
-    <published>2021-10-22T10:05:09Z</published>
-    <updated>2021-10-22T10:05:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-22T09:54:00.000+0000</id>
+    <published>2021-10-22T10:30:14Z</published>
+    <updated>2021-10-22T10:30:14Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-22T07:03:00.000+0000</id>
-    <published>2021-10-22T10:05:09Z</published>
-    <updated>2021-10-22T10:05:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-22T09:54:00.000+0000</id>
+    <published>2021-10-22T10:30:14Z</published>
+    <updated>2021-10-22T10:30:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3NwYWNlLXJvY2stbGVnZW5kcy1oYXdrd2luZC1jZWxlYnJhdGVkLWluLXRoZS1uZXctaXNzdWUtb2YtcHJvZy1vbi1zYWxlLW5vd9IBcGh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9hbXAvbmV3cy9zcGFjZS1yb2NrLWxlZ2VuZHMtaGF3a3dpbmQtY2VsZWJyYXRlZC1pbi10aGUtbmV3LWlzc3VlLW9mLXByb2ctb24tc2FsZS1ub3c?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2021-10-22T09:40:02.000000000Z</updated>
     <link href="https://www.loudersound.com/news/space-rock-legends-hawkwind-celebrated-in-the-new-issue-of-prog-on-sale-now" type="text/html"/>
     <content type="html">&lt;a href="https://www.loudersound.com/news/space-rock-legends-hawkwind-celebrated-in-the-new-issue-of-prog-on-sale-now" target="_blank"&gt;Space rock legends Hawkwind celebrated in the new issue of Prog, on sale now&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Louder&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMS8xMC8yMi9DcnVzdC1Ccm9zLXRvLW9wZW4tdGhpcmQtcGl6emVyaWEtZWFybHktbmV4dC15ZWFy0gEA?oc=5</id>
-    <title type="html">Crust Bros to open third pizzeria early next year - BigHospitality.co.uk</title>
-    <updated>2021-10-22T09:28:00.000000000Z</updated>
-    <link href="https://www.bighospitality.co.uk/Article/2021/10/22/Crust-Bros-to-open-third-pizzeria-early-next-year" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2021/10/22/Crust-Bros-to-open-third-pizzeria-early-next-year" target="_blank"&gt;Crust Bros to open third pizzeria early next year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjY1NTQ5LnNhaW5zYnVyeXMtY2FyLXBhcmstYmFsaGFtLWh1Z2UtY2FyLWZpcmUv0gEA?oc=5</id>
