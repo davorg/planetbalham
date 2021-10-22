@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-22T07:51:29Z</updated>
+  <updated>2021-10-22T08:16:24Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjY1NTQ5LnNhaW5zYnVyeXMtY2FyLXBhcmstYmFsaGFtLWh1Z2UtY2FyLWZpcmUv0gEA?oc=5</id>
+    <title type="html">Sainsbury's car park Balham: Huge car fire - Wandsworth Guardian</title>
+    <updated>2021-10-22T08:06:36.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19665549.sainsburys-car-park-balham-huge-car-fire/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19665549.sainsburys-car-park-balham-huge-car-fire/" target="_blank"&gt;Sainsbury's car park Balham: Huge car fire&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-21T21:55:00.000+0000</id>
-    <published>2021-10-22T07:29:19Z</published>
-    <updated>2021-10-22T07:29:19Z</updated>
+    <published>2021-10-22T08:01:54Z</published>
+    <updated>2021-10-22T08:01:54Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-21T21:55:00.000+0000</id>
-    <published>2021-10-22T07:29:19Z</published>
-    <updated>2021-10-22T07:29:19Z</updated>
+    <published>2021-10-22T08:01:54Z</published>
+    <updated>2021-10-22T08:01:54Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +44,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-21T21:55:00.000+0000</id>
-    <published>2021-10-22T07:29:19Z</published>
-    <updated>2021-10-22T07:29:19Z</updated>
+    <published>2021-10-22T08:01:54Z</published>
+    <updated>2021-10-22T08:01:54Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTIzL9IBAA?oc=5</id>
+    <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
+    <updated>2021-10-22T07:00:16.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/this-week-10-20-30-years-ago-23/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/this-week-10-20-30-years-ago-23/" target="_blank"&gt;This week 10, 20, 30 years ago – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJOuu5BKeWlDJjuIBeDRJtkqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2021-10-21T06:00:00.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/i-moved-north-london-south-21913968" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/i-moved-north-london-south-21913968" target="_blank"&gt;'I moved from North London to South and there are some big differences nobody tells you about'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJbbFfOpq7-1jg4Vrvfa_Q0qFggEKg4IACoGCAowqvB9MMTRCTCl9RU?oc=5</id>
-    <title type="html">Lloyds and Halifax bank branch closures: The 48 sites to go, with some London areas impacted - Evening Standard</title>
-    <updated>2021-10-20T14:33:09.000000000Z</updated>
-    <link href="https://www.standard.co.uk/business/lloyds-halifax-branch-closures-48-sites-london-b961557.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/business/lloyds-halifax-branch-closures-48-sites-london-b961557.html" target="_blank"&gt;Lloyds and Halifax bank branch closures: The 48 sites to go, with some London areas impacted&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTAvMTgvbGVzdGVyLWVuam95cy1naXZpbmctamVyc2V5LWJ1bGxzLWJvc3MtYS1oZWFkYWNoZS_SAQA?oc=5</id>
-    <title type="html">Lester enjoys giving Jersey Bulls boss 'a headache' - Jersey Evening Post</title>
-    <updated>2021-10-18T14:00:00.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2021/10/18/lester-enjoys-giving-jersey-bulls-boss-a-headache/" target="_blank"&gt;Lester enjoys giving Jersey Bulls boss 'a headache'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Bright Lights of Balham</title>
