@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-23T08:15:31Z</updated>
+  <updated>2021-10-23T08:51:13Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-22T21:55:00.000+0000</id>
-    <published>2021-10-23T08:00:40Z</published>
-    <updated>2021-10-23T08:00:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-23T07:56:00.000+0000</id>
+    <published>2021-10-23T08:48:31Z</published>
+    <updated>2021-10-23T08:48:31Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-22T21:55:00.000+0000</id>
-    <published>2021-10-23T08:00:40Z</published>
-    <updated>2021-10-23T08:00:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-23T07:56:00.000+0000</id>
+    <published>2021-10-23T08:48:31Z</published>
+    <updated>2021-10-23T08:48:31Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 BST, Sunset: 17:48 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 BST, Sunset: 17:48 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-22T21:55:00.000+0000</id>
-    <published>2021-10-23T08:00:40Z</published>
-    <updated>2021-10-23T08:00:40Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-23T07:56:00.000+0000</id>
+    <published>2021-10-23T08:48:31Z</published>
+    <updated>2021-10-23T08:48:31Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455811 at Balham</title>
@@ -60,35 +60,6 @@
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617925487_3641970054_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>455820 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51619626940/"/>
-    <id>tag:flickr.com,2005:/photo/51619626940</id>
-    <published>2021-10-22T17:47:38Z</published>
-    <updated>2021-10-22T17:47:38Z</updated>
-    <flickr:date_taken>2021-04-17T14:52:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T14:52:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51619626940/" title="455820 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51619626940_5974f791ab_m.jpg" width="240" height="160" alt="455820 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2B71, Epsom Downs to Victoria, 17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51619626940_5974f791ab_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
@@ -176,6 +147,35 @@
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617932752_0444a83771_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>377606 at Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617932977/"/>
+    <id>tag:flickr.com,2005:/photo/51617932977</id>
+    <published>2021-10-22T17:47:18Z</published>
+    <updated>2021-10-22T17:47:18Z</updated>
+    <flickr:date_taken>2021-04-17T14:47:42-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-17T14:47:42-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617932977/" title="377606 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617932977_88ccc8577c_m.jpg" width="240" height="160" alt="377606 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1L35 Dorking to Victoria,17th April 2021.&lt;/p&gt;</content>
+    <author>
+      <name>LGRail Photography</name>
+      <uri>https://www.flickr.com/people/189856276@N04/</uri>
+      <flickr:nsid>189856276@N04</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617932977_88ccc8577c_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
