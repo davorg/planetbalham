@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-24T04:54:51Z</updated>
+  <updated>2021-10-24T05:14:58Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-23T21:53:00.000+0000</id>
-    <published>2021-10-24T04:06:46Z</published>
-    <updated>2021-10-24T04:06:46Z</updated>
+    <published>2021-10-24T05:07:11Z</published>
+    <updated>2021-10-24T05:07:11Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1015mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 BST, Sunset: 17:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-23T21:53:00.000+0000</id>
-    <published>2021-10-24T04:06:46Z</published>
-    <updated>2021-10-24T04:06:46Z</updated>
+    <published>2021-10-24T05:07:11Z</published>
+    <updated>2021-10-24T05:07:11Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:43 BST, Sunset: 17:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-23T21:53:00.000+0000</id>
-    <published>2021-10-24T04:06:46Z</published>
-    <updated>2021-10-24T04:06:46Z</updated>
+    <published>2021-10-24T05:07:11Z</published>
+    <updated>2021-10-24T05:07:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmNoYXJkYW5kaWxtaW5zdGVybmV3cy5jby51ay9uZXdzLzE5NjU1MzY0LnBsYW5uaW5nLWFwcGxpY2F0aW9ucy1zb3V0aC1zb21lcnNldC_SAQA?oc=5</id>
+    <title type="html">Planning applications in South Somerset | Chard &amp; Ilminster News - Chard &amp; Ilminster News</title>
+    <updated>2021-10-24T04:50:00.000000000Z</updated>
+    <link href="https://www.chardandilminsternews.co.uk/news/19655364.planning-applications-south-somerset/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.chardandilminsternews.co.uk/news/19655364.planning-applications-south-somerset/" target="_blank"&gt;Planning applications in South Somerset | Chard &amp; Ilminster News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chard &amp; Ilminster News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmV4YW1pbmVyLWVudGVycHJpc2UuY29tL3N0b3J5L3Nwb3J0cy9sb2NhbC8yMDIxLzEwLzIzL2FyZWEtZ3JpZC1nYW1lLXN1bW1hcmllcy82MTYzNDA4MDAxL9IBMmh0dHBzOi8vYW1wLmV4YW1pbmVyLWVudGVycHJpc2UuY29tL2FtcC82MTYzNDA4MDAx?oc=5</id>
@@ -212,13 +219,6 @@
     <updated>2021-10-22T14:51:53.000000000Z</updated>
     <link href="https://bdaily.co.uk/articles/2021/10/22/balham-to-welcome-expansion-of-sustainable-pizza-chain" type="text/html"/>
     <content type="html">&lt;a href="https://bdaily.co.uk/articles/2021/10/22/balham-to-welcome-expansion-of-sustainable-pizza-chain" target="_blank"&gt;Balham to welcome expansion of 'sustainable' pizza chain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bdaily&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEFG-76kHA0PbTNxT_A88qfAqMwgEKioIACIQqYUaeIF9cbeKJU848qivlioUCAoiEKmFGniBfXG3iiVPOPKor5YworLKBg?oc=5</id>
-    <title type="html">Space rock legends Hawkwind celebrated in the new issue of Prog, on sale now - Louder</title>
-    <updated>2021-10-22T09:40:02.000000000Z</updated>
-    <link href="https://www.loudersound.com/news/space-rock-legends-hawkwind-celebrated-in-the-new-issue-of-prog-on-sale-now" type="text/html"/>
-    <content type="html">&lt;a href="https://www.loudersound.com/news/space-rock-legends-hawkwind-celebrated-in-the-new-issue-of-prog-on-sale-now" target="_blank"&gt;Space rock legends Hawkwind celebrated in the new issue of Prog, on sale now&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Louder&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
