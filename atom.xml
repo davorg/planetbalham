@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-23T23:50:52Z</updated>
+  <updated>2021-10-24T00:17:34Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 17:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-23T21:53:00.000+0000</id>
-    <published>2021-10-23T23:00:20Z</published>
-    <updated>2021-10-23T23:00:20Z</updated>
+    <published>2021-10-24T00:00:37Z</published>
+    <updated>2021-10-24T00:00:37Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 BST, Sunset: 17:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-23T21:53:00.000+0000</id>
-    <published>2021-10-23T23:00:20Z</published>
-    <updated>2021-10-23T23:00:20Z</updated>
+    <published>2021-10-24T00:00:37Z</published>
+    <updated>2021-10-24T00:00:37Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (60°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1015mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:43 BST, Sunset: 17:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-23T21:53:00.000+0000</id>
-    <published>2021-10-23T23:00:20Z</published>
-    <updated>2021-10-23T23:00:20Z</updated>
+    <published>2021-10-24T00:00:37Z</published>
+    <updated>2021-10-24T00:00:37Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8xMC8yMy9hbmdyeS1naWxlcy1ibG93cy10aGUtd2hpc3RsZS1vdmVyLWRvZGd5LXBlbmFsdHktZGVjaXNpb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIxLzEwLzIzL2FuZ3J5LWdpbGVzLWJsb3dzLXRoZS13aGlzdGxlLW92ZXItZG9kZ3ktcGVuYWx0eS1kZWNpc2lvbi9hbXAv?oc=5</id>
@@ -193,13 +193,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMisgFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9hcnRpY2xlLmNmbT9pZD0xNDExMTImaGVhZGxpbmU9RmFybmhhbSUyMFRvd24lMjBob3BpbmclMjB0byUyMHRha2UlMjBiYXR0bGluZyUyMGN1cCUyMHNwaXJpdCUyMGludG8lMjBsZWFndWUlMjBjbGFzaCZzZWN0aW9uSXM9c3BvcnQmc2VhcmNoeWVhcj0yMDIx0gEA?oc=5</id>
-    <title type="html">Farnham Town hoping to take battling cup spirit into league clash - Farnham Herald</title>
-    <updated>2021-10-22T15:15:58.000000000Z</updated>
-    <link href="https://www.farnhamherald.com/article.cfm?id=141112&amp;headline=Farnham%20Town%20hoping%20to%20take%20battling%20cup%20spirit%20into%20league%20clash&amp;sectionIs=sport&amp;searchyear=2021" type="text/html"/>
-    <content type="html">&lt;a href="https://www.farnhamherald.com/article.cfm?id=141112&amp;headline=Farnham%20Town%20hoping%20to%20take%20battling%20cup%20spirit%20into%20league%20clash&amp;sectionIs=sport&amp;searchyear=2021" target="_blank"&gt;Farnham Town hoping to take battling cup spirit into league clash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Farnham Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vYmRhaWx5LmNvLnVrL2FydGljbGVzLzIwMjEvMTAvMjIvYmFsaGFtLXRvLXdlbGNvbWUtZXhwYW5zaW9uLW9mLXN1c3RhaW5hYmxlLXBpenphLWNoYWlu0gEA?oc=5</id>
     <title type="html">Balham to welcome expansion of 'sustainable' pizza chain - Bdaily</title>
     <updated>2021-10-22T14:51:53.000000000Z</updated>
@@ -219,6 +212,13 @@
     <updated>2021-10-22T08:06:36.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/19665549.sainsburys-car-park-balham-huge-car-fire/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19665549.sainsburys-car-park-balham-huge-car-fire/" target="_blank"&gt;Sainsbury's car park Balham: Huge car fire&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTk2NjU1NDkuc2FpbnNidXJ5cy1jYXItcGFyay1iYWxoYW0taHVnZS1jYXItZmlyZS_SAQA?oc=5</id>
+    <title type="html">Sainsbury's car park Balham: Huge car fire | This Is Local London - This is Local London</title>
+    <updated>2021-10-22T08:06:36.000000000Z</updated>
+    <link href="https://www.thisislocallondon.co.uk/news/19665549.sainsburys-car-park-balham-huge-car-fire/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/19665549.sainsburys-car-park-balham-huge-car-fire/" target="_blank"&gt;Sainsbury's car park Balham: Huge car fire | This Is Local London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
