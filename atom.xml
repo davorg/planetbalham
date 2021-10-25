@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-25T16:58:27Z</updated>
+  <updated>2021-10-25T17:16:44Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 17:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-25T09:55:00.000+0000</id>
-    <published>2021-10-25T16:33:02Z</published>
-    <updated>2021-10-25T16:33:02Z</updated>
+    <published>2021-10-25T17:02:44Z</published>
+    <updated>2021-10-25T17:02:44Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:43 BST, Sunset: 17:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-25T09:55:00.000+0000</id>
-    <published>2021-10-25T16:33:02Z</published>
-    <updated>2021-10-25T16:33:02Z</updated>
+    <published>2021-10-25T17:02:44Z</published>
+    <updated>2021-10-25T17:02:44Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1019mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 BST, Sunset: 17:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-25T09:55:00.000+0000</id>
-    <published>2021-10-25T16:33:02Z</published>
-    <updated>2021-10-25T16:33:02Z</updated>
+    <published>2021-10-25T17:02:44Z</published>
+    <updated>2021-10-25T17:02:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMi1gFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9hcnRpY2xlLmNmbT9pZD0xNDExMjQmaGVhZGxpbmU9TWFuYWdlciUyMENvbGluJTIwTWlsbGFyZCUyMHJ1ZXMlMjBGYXJuaGFtJTIwVG93biUyN3MlMjBpbmNvbnNpc3RlbnQlMjBkaXNwbGF5cyUyMGFzJTIwdGhleSUyMHNsaXAlMjB0byUyMGxlYWd1ZSUyMGRlZmVhdCZzZWN0aW9uSXM9c3BvcnQmc2VhcmNoeWVhcj0yMDIx0gEA?oc=5</id>
@@ -105,6 +105,35 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>455820 at Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51619626940/"/>
+    <id>tag:flickr.com,2005:/photo/51619626940</id>
+    <published>2021-10-22T17:47:38Z</published>
+    <updated>2021-10-22T17:47:38Z</updated>
+    <flickr:date_taken>2021-04-17T14:52:54-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-17T14:52:54-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51619626940/" title="455820 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51619626940_5974f791ab_m.jpg" width="240" height="160" alt="455820 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2B71, Epsom Downs to Victoria, 17th April 2021.&lt;/p&gt;</content>
+    <author>
+      <name>LGRail Photography</name>
+      <uri>https://www.flickr.com/people/189856276@N04/</uri>
+      <flickr:nsid>189856276@N04</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51619626940_5974f791ab_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455804 at Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617925717/"/>
     <id>tag:flickr.com,2005:/photo/51617925717</id>
@@ -128,35 +157,6 @@
     <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>387215 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51619413294/"/>
-    <id>tag:flickr.com,2005:/photo/51619413294</id>
-    <published>2021-10-22T17:47:33Z</published>
-    <updated>2021-10-22T17:47:33Z</updated>
-    <flickr:date_taken>2021-04-17T15:06:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T15:06:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51619413294/" title="387215 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51619413294_d6feb6df0d_m.jpg" width="240" height="160" alt="387215 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;1W80, Victoria to Brighton, 17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51619413294_d6feb6df0d_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
