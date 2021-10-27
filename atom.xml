@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-27T04:54:50Z</updated>
+  <updated>2021-10-27T05:15:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 15°C (59°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:44 BST, Sunset: 17:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 BST, Sunset: 17:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-26T21:56:00.000+0000</id>
-    <published>2021-10-27T04:00:25Z</published>
-    <updated>2021-10-27T04:00:25Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (64°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1018mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:46 BST, Sunset: 17:42 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-26T21:56:00.000+0000</id>
-    <published>2021-10-27T04:00:25Z</published>
-    <updated>2021-10-27T04:00:25Z</updated>
+    <published>2021-10-27T05:02:01Z</published>
+    <updated>2021-10-27T05:02:01Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 17°C (63°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1009mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:46 BST, Sunset: 17:42 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-26T21:56:00.000+0000</id>
+    <published>2021-10-27T05:02:01Z</published>
+    <updated>2021-10-27T05:02:01Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Light Rain Showers, Minimum Temperature: 10°C (49°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1009mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (49°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 998mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-26T21:56:00.000+0000</id>
-    <published>2021-10-27T04:00:25Z</published>
-    <updated>2021-10-27T04:00:25Z</updated>
+    <published>2021-10-27T05:02:01Z</published>
+    <updated>2021-10-27T05:02:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiENMVW6ayKWgigTPqkwwvo-oqGQgEKhAIACoHCAow-c_7CjDgzfQCMIHn0wU?oc=5</id>
