@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-27T16:59:05Z</updated>
+  <updated>2021-10-27T17:17:10Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1015mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 17:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1015mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 17:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-27T09:56:00.000+0000</id>
-    <published>2021-10-27T16:09:53Z</published>
-    <updated>2021-10-27T16:09:53Z</updated>
+    <published>2021-10-27T17:10:00Z</published>
+    <updated>2021-10-27T17:10:00Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:46 BST, Sunset: 17:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-27T09:56:00.000+0000</id>
-    <published>2021-10-27T16:09:53Z</published>
-    <updated>2021-10-27T16:09:53Z</updated>
+    <published>2021-10-27T17:10:00Z</published>
+    <updated>2021-10-27T17:10:00Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 999mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-27T09:56:00.000+0000</id>
-    <published>2021-10-27T16:09:53Z</published>
-    <updated>2021-10-27T16:09:53Z</updated>
+    <published>2021-10-27T17:10:00Z</published>
+    <updated>2021-10-27T17:10:00Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3Lm5ld3NsZXR0ZXIuY28udWsvcmVhZC10aGlzL3NhcmFoLWV2ZXJhcmQtbXVyZGVyZXItd2F5bmUtY291emVucy1zZWVrcy10by1hcHBlYWwtd2hvbGUtbGlmZS1zZW50ZW5jZS0zNDMzOTQ30gEA?oc=5</id>
-    <title type="html">Sarah Everard murderer Wayne Couzens seeks to appeal whole-life sentence - Belfast Newsletter</title>
+    <id>https://news.google.com/articles/CBMimgFodHRwczovL3d3dy5icmlnaHRvbmFuZGhvdmVpbmRlcGVuZGVudC5jby51ay9yZWFkLXRoaXMvc2FyYWgtZXZlcmFyZC1tZXQtcG9saWNlLW9mZmljZXItbXVyZGVyZXItd2F5bmUtY291emVucy1zZWVrcy10by1hcHBlYWwtd2hvbGUtbGlmZS1zZW50ZW5jZS0zNDMzOTQ30gEA?oc=5</id>
+    <title type="html">Sarah Everard murderer Wayne Couzens seeks to appeal whole-life sentence - Brighton &amp; Hove Independent</title>
     <updated>2021-10-27T07:22:00.000000000Z</updated>
-    <link href="https://www.newsletter.co.uk/read-this/sarah-everard-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" type="text/html"/>
-    <content type="html">&lt;a href="https://www.newsletter.co.uk/read-this/sarah-everard-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" target="_blank"&gt;Sarah Everard murderer Wayne Couzens seeks to appeal whole-life sentence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Belfast Newsletter&lt;/font&gt;</content>
+    <link href="https://www.brightonandhoveindependent.co.uk/read-this/sarah-everard-met-police-officer-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" type="text/html"/>
+    <content type="html">&lt;a href="https://www.brightonandhoveindependent.co.uk/read-this/sarah-everard-met-police-officer-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" target="_blank"&gt;Sarah Everard murderer Wayne Couzens seeks to appeal whole-life sentence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Brighton &amp; Hove Independent&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiENMVW6ayKWgigTPqkwwvo-oqGQgEKhAIACoHCAow-c_7CjDgzfQCMIHn0wU?oc=5</id>
