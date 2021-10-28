@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-28T04:15:53Z</updated>
+  <updated>2021-10-28T04:54:55Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:46 BST, Sunset: 17:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-27T21:57:00.000+0000</id>
-    <published>2021-10-28T04:03:13Z</published>
-    <updated>2021-10-28T04:03:13Z</updated>
+    <published>2021-10-28T04:17:59Z</published>
+    <updated>2021-10-28T04:17:59Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 998mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-27T21:57:00.000+0000</id>
-    <published>2021-10-28T04:03:13Z</published>
-    <updated>2021-10-28T04:03:13Z</updated>
+    <published>2021-10-28T04:17:59Z</published>
+    <updated>2021-10-28T04:17:59Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 999mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 BST, Sunset: 17:38 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-27T21:57:00.000+0000</id>
-    <published>2021-10-28T04:03:13Z</published>
-    <updated>2021-10-28T04:03:13Z</updated>
+    <published>2021-10-28T04:17:59Z</published>
+    <updated>2021-10-28T04:17:59Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3Lm5ld3NsZXR0ZXIuY28udWsvcmVhZC10aGlzL3NhcmFoLWV2ZXJhcmQtbXVyZGVyZXItd2F5bmUtY291emVucy1zZWVrcy10by1hcHBlYWwtd2hvbGUtbGlmZS1zZW50ZW5jZS0zNDMzOTQ30gEA?oc=5</id>
-    <title type="html">Sarah Everard murderer Wayne Couzens seeks to appeal whole-life sentence - Belfast Newsletter</title>
+    <id>https://news.google.com/articles/CBMilQFodHRwczovL3d3dy5ub3J0aHVtYmVybGFuZGdhemV0dGUuY28udWsvcmVhZC10aGlzL3NhcmFoLWV2ZXJhcmQtbWV0LXBvbGljZS1vZmZpY2VyLW11cmRlcmVyLXdheW5lLWNvdXplbnMtc2Vla3MtdG8tYXBwZWFsLXdob2xlLWxpZmUtc2VudGVuY2UtMzQzMzk0N9IBAA?oc=5</id>
+    <title type="html">Sarah Everard: Met Police officer murderer Wayne Couzens seeks to appeal whole-life sentence - Northumberland Gazette</title>
     <updated>2021-10-27T07:22:00.000000000Z</updated>
-    <link href="https://www.newsletter.co.uk/read-this/sarah-everard-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" type="text/html"/>
-    <content type="html">&lt;a href="https://www.newsletter.co.uk/read-this/sarah-everard-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" target="_blank"&gt;Sarah Everard murderer Wayne Couzens seeks to appeal whole-life sentence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Belfast Newsletter&lt;/font&gt;</content>
+    <link href="https://www.northumberlandgazette.co.uk/read-this/sarah-everard-met-police-officer-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" type="text/html"/>
+    <content type="html">&lt;a href="https://www.northumberlandgazette.co.uk/read-this/sarah-everard-met-police-officer-murderer-wayne-couzens-seeks-to-appeal-whole-life-sentence-3433947" target="_blank"&gt;Sarah Everard: Met Police officer murderer Wayne Couzens seeks to appeal whole-life sentence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Northumberland Gazette&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90b290aW5nLWJ1c2luZXNzZXMtdXJnZWQtdG8tc2lnbi11cC10by1iZWNvbWUtYS1zYWZlLXNwYWNlLWZvci13b21lbi1hbmQtZ2lybHMv0gEA?oc=5</id>
