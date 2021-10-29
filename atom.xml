@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-29T12:16:37Z</updated>
+  <updated>2021-10-29T12:58:23Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 998mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 998mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-10-29T09:59:00.000+0000</id>
-    <published>2021-10-29T12:00:35Z</published>
-    <updated>2021-10-29T12:00:35Z</updated>
+    <published>2021-10-29T12:42:41Z</published>
+    <updated>2021-10-29T12:42:41Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 15°C (58°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 996mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 BST, Sunset: 17:38 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-10-29T09:59:00.000+0000</id>
-    <published>2021-10-29T12:00:35Z</published>
-    <updated>2021-10-29T12:00:35Z</updated>
+    <published>2021-10-29T12:42:41Z</published>
+    <updated>2021-10-29T12:42:41Z</updated>
   </entry>
   <entry>
     <title>Sunday: Heavy Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 993mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 17:36 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-10-29T09:59:00.000+0000</id>
-    <published>2021-10-29T12:00:35Z</published>
-    <updated>2021-10-29T12:00:35Z</updated>
+    <published>2021-10-29T12:42:41Z</published>
+    <updated>2021-10-29T12:42:41Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzE5NjgxOTY4LndvbWFuLWphaWxlZC1mb2xsb3dpbmctZmF0YWwtY3Jhc2gtYmF0dGVyc2VhL9IBAA?oc=5</id>
+    <title type="html">Woman jailed following fatal crash in Battersea - Wandsworth Guardian</title>
+    <updated>2021-10-29T12:29:01.000000000Z</updated>
+    <link href="https://www.wandsworthguardian.co.uk/news/19681968.woman-jailed-following-fatal-crash-battersea/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/19681968.woman-jailed-following-fatal-crash-battersea/" target="_blank"&gt;Woman jailed following fatal crash in Battersea&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTI0L9IBAA?oc=5</id>
@@ -55,18 +62,18 @@
     <content type="html">&lt;a href="https://www.thisismoney.co.uk/money/markets/article-10139593/Lloyds-Banking-Group-sees-profits-nearly-double.html" target="_blank"&gt;Lloyds Banking Group sees profits nearly double&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Money&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90b290aW5nLWJ1c2luZXNzZXMtdXJnZWQtdG8tc2lnbi11cC10by1iZWNvbWUtYS1zYWZlLXNwYWNlLWZvci13b21lbi1hbmQtZ2lybHMv0gEA?oc=5</id>
+    <title type="html">Tooting businesses urged to sign up to become a 'safe space' for women and girls - London News Online</title>
+    <updated>2021-10-26T09:25:35.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/tooting-businesses-urged-to-sign-up-to-become-a-safe-space-for-women-and-girls/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/tooting-businesses-urged-to-sign-up-to-become-a-safe-space-for-women-and-girls/" target="_blank"&gt;Tooting businesses urged to sign up to become a 'safe space' for women and girls&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMi1gFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9hcnRpY2xlLmNmbT9pZD0xNDExMjQmaGVhZGxpbmU9TWFuYWdlciUyMENvbGluJTIwTWlsbGFyZCUyMHJ1ZXMlMjBGYXJuaGFtJTIwVG93biUyN3MlMjBpbmNvbnNpc3RlbnQlMjBkaXNwbGF5cyUyMGFzJTIwdGhleSUyMHNsaXAlMjB0byUyMGxlYWd1ZSUyMGRlZmVhdCZzZWN0aW9uSXM9c3BvcnQmc2VhcmNoeWVhcj0yMDIx0gEA?oc=5</id>
     <title type="html">Manager Colin Millard rues Farnham Town's inconsistent displays as they slip to league defeat - Farnham Herald</title>
     <updated>2021-10-25T16:00:31.000000000Z</updated>
     <link href="https://www.farnhamherald.com/article.cfm?id=141124&amp;headline=Manager%20Colin%20Millard%20rues%20Farnham%20Town%27s%20inconsistent%20displays%20as%20they%20slip%20to%20league%20defeat&amp;sectionIs=sport&amp;searchyear=2021" type="text/html"/>
     <content type="html">&lt;a href="https://www.farnhamherald.com/article.cfm?id=141124&amp;headline=Manager%20Colin%20Millard%20rues%20Farnham%20Town%27s%20inconsistent%20displays%20as%20they%20slip%20to%20league%20defeat&amp;sectionIs=sport&amp;searchyear=2021" target="_blank"&gt;Manager Colin Millard rues Farnham Town's inconsistent displays as they slip to league defeat&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Farnham Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEGqvaqzEsR2A3oProFy_tswqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">Woman found dead following house fire in South London - My London</title>
-    <updated>2021-10-25T10:01:48.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/woman-found-dead-following-house-21959540" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/woman-found-dead-following-house-21959540" target="_blank"&gt;Woman found dead following house fire in South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455811 at Balham</title>
@@ -213,13 +220,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vYmRhaWx5LmNvLnVrL2FydGljbGVzLzIwMjEvMTAvMjIvYmFsaGFtLXRvLXdlbGNvbWUtZXhwYW5zaW9uLW9mLXN1c3RhaW5hYmxlLXBpenphLWNoYWlu0gEA?oc=5</id>
-    <title type="html">Balham to welcome expansion of 'sustainable' pizza chain - Bdaily</title>
-    <updated>2021-10-22T14:51:53.000000000Z</updated>
-    <link href="https://bdaily.co.uk/articles/2021/10/22/balham-to-welcome-expansion-of-sustainable-pizza-chain" type="text/html"/>
-    <content type="html">&lt;a href="https://bdaily.co.uk/articles/2021/10/22/balham-to-welcome-expansion-of-sustainable-pizza-chain" target="_blank"&gt;Balham to welcome expansion of 'sustainable' pizza chain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bdaily&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>2020 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html" type="text/html"/>
