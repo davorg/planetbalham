@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-08T16:59:43Z</updated>
+  <updated>2021-11-08T17:16:57Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunrise: 07:06 GMT, Sunset: 16:22 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-08T09:53:00.000+0000</id>
-    <published>2021-11-08T16:55:39Z</published>
-    <updated>2021-11-08T16:55:39Z</updated>
+    <published>2021-11-08T17:03:18Z</published>
+    <updated>2021-11-08T17:03:18Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-08T09:53:00.000+0000</id>
-    <published>2021-11-08T16:55:39Z</published>
-    <updated>2021-11-08T16:55:39Z</updated>
+    <published>2021-11-08T17:03:18Z</published>
+    <updated>2021-11-08T17:03:18Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1023mb, Humidity: 92%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-08T09:53:00.000+0000</id>
-    <published>2021-11-08T16:55:39Z</published>
-    <updated>2021-11-08T16:55:39Z</updated>
+    <published>2021-11-08T17:03:18Z</published>
+    <updated>2021-11-08T17:03:18Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL3dvcnN0LXBsYWNlcy1sb25kb24tYmVlbi1yZXZlYWxlZC0yMjEwMjc3NtIBWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL3dvcnN0LXBsYWNlcy1sb25kb24tYmVlbi1yZXZlYWxlZC0yMjEwMjc3Ni5hbXA?oc=5</id>
+    <title type="html">The 'worst places in London' have been revealed by those that live there - MyLondon</title>
+    <updated>2021-11-08T16:47:28.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" target="_blank"&gt;The 'worst places in London' have been revealed by those that live there&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIxL25vdi8wOC9hbGxhbi13aWxtb3Qtb2JpdHVhcnnSAUNodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyMS9ub3YvMDgvYWxsYW4td2lsbW90LW9iaXR1YXJ5?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-11-03T13:40:40.000000000Z</updated>
     <link href="https://www.msn.com/en-gb/sport/football/this-is-peak-tony-khan-many-fulham-fans-fume-as-disappointing-news-emerges/ar-AAQhfG2" type="text/html"/>
     <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/this-is-peak-tony-khan-many-fulham-fans-fume-as-disappointing-news-emerges/ar-AAQhfG2" target="_blank"&gt;'This is peak Tony Khan' - Many Fulham fans fume as 'disappointing' news emerges&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEDapLCR2Dec0fQbi7HUbeRIqGQgEKhAIACoHCAowxNuGCzDy34QDMN_HjQY?oc=5</id>
-    <title type="html">Berkshire men's football fixtures - Tuesday 2nd November 2021 - Football in Berkshire</title>
-    <updated>2021-11-02T15:00:17.000000000Z</updated>
-    <link href="https://www.footballinbracknell.co.uk/news/fixtures/59030/berkshire-mens-football-fixtures-tuesday-2nd-november-2021/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.footballinbracknell.co.uk/news/fixtures/59030/berkshire-mens-football-fixtures-tuesday-2nd-november-2021/" target="_blank"&gt;Berkshire men's football fixtures - Tuesday 2nd November 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Football in Berkshire&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455811 at Balham</title>
