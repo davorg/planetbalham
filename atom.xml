@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-08T18:15:40Z</updated>
+  <updated>2021-11-08T18:53:36Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -41,11 +41,11 @@
     <updated>2021-11-08T18:00:50Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL3dvcnN0LXBsYWNlcy1sb25kb24tYmVlbi1yZXZlYWxlZC0yMjEwMjc3NtIBWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL3dvcnN0LXBsYWNlcy1sb25kb24tYmVlbi1yZXZlYWxlZC0yMjEwMjc3Ni5hbXA?oc=5</id>
-    <title type="html">The 'worst places in London' have been revealed by those that live there - MyLondon</title>
+    <id>https://news.google.com/articles/CAIiEPxUBBH6mYb9-RA2Sv_yAugqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">The 'worst places in London' have been revealed by those that live there - My London</title>
     <updated>2021-11-08T16:47:28.000000000Z</updated>
     <link href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" target="_blank"&gt;The 'worst places in London' have been revealed by those that live there&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" target="_blank"&gt;The 'worst places in London' have been revealed by those that live there&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEEZqpbf1DJuDS1a5J3ukHbsqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
@@ -75,6 +75,35 @@
     <link href="https://www.footballinbracknell.co.uk/news/fixtures/59030/berkshire-mens-football-fixtures-tuesday-2nd-november-2021/" type="text/html"/>
     <content type="html">&lt;a href="https://www.footballinbracknell.co.uk/news/fixtures/59030/berkshire-mens-football-fixtures-tuesday-2nd-november-2021/" target="_blank"&gt;Berkshire men's football fixtures - Tuesday 2nd November 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Football in Berkshire&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>455811 at Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617925487/"/>
+    <id>tag:flickr.com,2005:/photo/51617925487</id>
+    <published>2021-10-22T17:47:38Z</published>
+    <updated>2021-10-22T17:47:38Z</updated>
+    <flickr:date_taken>2021-04-17T14:44:54-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-17T14:44:54-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617925487/" title="455811 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617925487_3641970054_m.jpg" width="240" height="160" alt="455811 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2B72, Victoria to Epsom Downs, 17th April 2021.&lt;/p&gt;</content>
+    <author>
+      <name>LGRail Photography</name>
+      <uri>https://www.flickr.com/people/189856276@N04/</uri>
+      <flickr:nsid>189856276@N04</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617925487_3641970054_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455820 at Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51619626940/"/>
@@ -182,35 +211,6 @@
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617932752_0444a83771_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>377606 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617932977/"/>
-    <id>tag:flickr.com,2005:/photo/51617932977</id>
-    <published>2021-10-22T17:47:18Z</published>
-    <updated>2021-10-22T17:47:18Z</updated>
-    <flickr:date_taken>2021-04-17T14:47:42-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T14:47:42-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617932977/" title="377606 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617932977_88ccc8577c_m.jpg" width="240" height="160" alt="377606 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;1L35 Dorking to Victoria,17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617932977_88ccc8577c_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
