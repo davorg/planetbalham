@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-09T06:53:14Z</updated>
+  <updated>2021-11-09T07:15:47Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-08T21:54:00.000+0000</id>
-    <published>2021-11-09T06:08:50Z</published>
-    <updated>2021-11-09T06:08:50Z</updated>
+    <published>2021-11-09T07:09:29Z</published>
+    <updated>2021-11-09T07:09:29Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Thick Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Wednesday: Thick Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-08T21:54:00.000+0000</id>
-    <published>2021-11-09T06:08:50Z</published>
-    <updated>2021-11-09T06:08:50Z</updated>
+    <published>2021-11-09T07:09:29Z</published>
+    <updated>2021-11-09T07:09:29Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1023mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 16:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-08T21:54:00.000+0000</id>
-    <published>2021-11-09T06:08:50Z</published>
-    <updated>2021-11-09T06:08:50Z</updated>
+    <published>2021-11-09T07:09:29Z</published>
+    <updated>2021-11-09T07:09:29Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPxUBBH6mYb9-RA2Sv_yAugqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2021-11-08T16:47:28.000000000Z</updated>
     <link href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/local-news/worst-places-london-been-revealed-22102776" target="_blank"&gt;The 'worst places in London' have been revealed by those that live there&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIxL25vdi8wOC9hbGxhbi13aWxtb3Qtb2JpdHVhcnnSAUNodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvMjAyMS9ub3YvMDgvYWxsYW4td2lsbW90LW9iaXR1YXJ5?oc=5</id>
+    <title type="html">Allan Wilmot obituary - The Guardian</title>
+    <updated>2021-11-08T12:24:00.000000000Z</updated>
+    <link href="https://www.theguardian.com/world/2021/nov/08/allan-wilmot-obituary" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theguardian.com/world/2021/nov/08/allan-wilmot-obituary" target="_blank"&gt;Allan Wilmot obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJPaFMiR_PvT3AEjYyUWJd0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-11-03T18:32:49.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/food-drink-news/south-london-restaurant-londoners-travel-22060237" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/south-london-restaurant-londoners-travel-22060237" target="_blank"&gt;The South London restaurant that Londoners travel miles for with the 'best naan bread you've ever tasted'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2Ivc3BvcnQvZm9vdGJhbGwvdGhpcy1pcy1wZWFrLXRvbnkta2hhbi1tYW55LWZ1bGhhbS1mYW5zLWZ1bWUtYXMtZGlzYXBwb2ludGluZy1uZXdzLWVtZXJnZXMvYXItQUFRaGZHMtIBAA?oc=5</id>
-    <title type="html">'This is peak Tony Khan' - Many Fulham fans fume as 'disappointing' news emerges - MSN UK</title>
-    <updated>2021-11-03T13:40:40.000000000Z</updated>
-    <link href="https://www.msn.com/en-gb/sport/football/this-is-peak-tony-khan-many-fulham-fans-fume-as-disappointing-news-emerges/ar-AAQhfG2" type="text/html"/>
-    <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/this-is-peak-tony-khan-many-fulham-fans-fume-as-disappointing-news-emerges/ar-AAQhfG2" target="_blank"&gt;'This is peak Tony Khan' - Many Fulham fans fume as 'disappointing' news emerges&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455811 at Balham</title>
