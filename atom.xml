@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-15T12:57:56Z</updated>
+  <updated>2021-11-15T13:16:58Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMTEvMTUvZ292ZXJubWVudC1maW5hbGx5LXdha2luZy1mYXRhbC13ZWFrbmVzc2VzLWhzMi_SAQA?oc=5</id>
-    <title type="html">The government is finally waking up to the fatal weaknesses of HS2 - Telegraph.co.uk</title>
-    <updated>2021-11-15T12:15:00.000000000Z</updated>
-    <link href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" target="_blank"&gt;The government is finally waking up to the fatal weaknesses of HS2&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:18 GMT, Sunset: 16:12 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (43°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:18 GMT, Sunset: 16:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-15T09:53:00.000+0000</id>
-    <published>2021-11-15T12:03:21Z</published>
-    <updated>2021-11-15T12:03:21Z</updated>
+    <published>2021-11-15T13:03:14Z</published>
+    <updated>2021-11-15T13:03:14Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (52°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 16:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-15T09:53:00.000+0000</id>
-    <published>2021-11-15T12:03:21Z</published>
-    <updated>2021-11-15T12:03:21Z</updated>
+    <published>2021-11-15T13:03:14Z</published>
+    <updated>2021-11-15T13:03:14Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (52°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1025mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:21 GMT, Sunset: 16:09 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-15T09:53:00.000+0000</id>
-    <published>2021-11-15T12:03:21Z</published>
-    <updated>2021-11-15T12:03:21Z</updated>
+    <published>2021-11-15T13:03:14Z</published>
+    <updated>2021-11-15T13:03:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMTEvMTUvZ292ZXJubWVudC1maW5hbGx5LXdha2luZy1mYXRhbC13ZWFrbmVzc2VzLWhzMi_SAQA?oc=5</id>
+    <title type="html">The government is finally waking up to the fatal weaknesses of HS2 - Telegraph.co.uk</title>
+    <updated>2021-11-15T12:15:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" target="_blank"&gt;The government is finally waking up to the fatal weaknesses of HS2&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5uYXRpb24ubGsvb25saW5lL3dva2UtY2h1cmNoLWxlYWRlcnMtYXJlLWF0LW9kZHMtd2l0aC10aGVpci1jb25ncmVnYXRpb25zLW9uLWtleS1wb2xpdGljYWwtaXNzdWVzLXN1Y2gtYXMtdGF4LTE0MjA3Ny5odG1s0gEA?oc=5</id>
@@ -53,13 +53,6 @@
     <updated>2021-11-14T01:31:00.000000000Z</updated>
     <link href="https://www.nation.lk/online/woke-church-leaders-are-at-odds-with-their-congregations-on-key-political-issues-such-as-tax-142077.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.nation.lk/online/woke-church-leaders-are-at-odds-with-their-congregations-on-key-political-issues-such-as-tax-142077.html" target="_blank"&gt;'Woke' church leaders are at odds with their congregations on key political issues such as tax&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nation.lk - The Nation Newspaper&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy93b21hbi13aG8tZmVsdC1zZWxmLWNvbnNjaW91cy02MTk5MzU50gEA?oc=5</id>
-    <title type="html">Woman who felt self-conscious 'all the time' loses 10 stone and explains how - Bristol Live</title>
-    <updated>2021-11-13T07:00:00.000000000Z</updated>
-    <link href="https://www.bristolpost.co.uk/news/uk-world-news/woman-who-felt-self-conscious-6199359" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bristolpost.co.uk/news/uk-world-news/woman-who-felt-self-conscious-6199359" target="_blank"&gt;Woman who felt self-conscious 'all the time' loses 10 stone and explains how&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bristol Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECedSyK0OOfavnO41AxEjvUqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2021-11-12T07:00:58.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/former-palace-forward-fulhams-mitrovic-will-score-more-than-40-goals-this-season/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-palace-forward-fulhams-mitrovic-will-score-more-than-40-goals-this-season/" target="_blank"&gt;Former Palace forward: Fulham's Mitrovic will score more than 40 goals this season&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL29wdGltaXN0L3RoZS1zdXN0YWluYWJsZXMvYmVzdC1yZWZpbGwtc3RvcmVzLWxvbmRvbi1wbGFzdGljLWZyZWUtZ3JvY2VyaWVzLWJlZXItd2luZS1iOTY0MTc4Lmh0bWzSAYABaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvb3B0aW1pc3QvdGhlLXN1c3RhaW5hYmxlcy9iZXN0LXJlZmlsbC1zdG9yZXMtbG9uZG9uLXBsYXN0aWMtZnJlZS1ncm9jZXJpZXMtYmVlci13aW5lLWI5NjQxNzguaHRtbD9hbXA?oc=5</id>
+    <title type="html">Fill your boots (and jars): Ten of the best refill stores in London - Evening Standard</title>
+    <updated>2021-11-11T18:09:04.000000000Z</updated>
+    <link href="https://www.standard.co.uk/optimist/the-sustainables/best-refill-stores-london-plastic-free-groceries-beer-wine-b964178.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/optimist/the-sustainables/best-refill-stores-london-plastic-free-groceries-beer-wine-b964178.html" target="_blank"&gt;Fill your boots (and jars): Ten of the best refill stores in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455811 at Balham</title>
@@ -192,25 +192,25 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>377606 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617932977/"/>
-    <id>tag:flickr.com,2005:/photo/51617932977</id>
-    <published>2021-10-22T17:47:18Z</published>
-    <updated>2021-10-22T17:47:18Z</updated>
-    <flickr:date_taken>2021-04-17T14:47:42-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T14:47:42-08:00</dc:date.Taken>
+    <title>377705 at Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617932752/"/>
+    <id>tag:flickr.com,2005:/photo/51617932752</id>
+    <published>2021-10-22T17:47:19Z</published>
+    <updated>2021-10-22T17:47:19Z</updated>
+    <flickr:date_taken>2021-04-17T14:54:18-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-17T14:54:18-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617932977/" title="377606 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617932977_88ccc8577c_m.jpg" width="240" height="160" alt="377606 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617932752/" title="377705 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617932752_0444a83771_m.jpg" width="240" height="160" alt="377705 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;1L35 Dorking to Victoria,17th April 2021.&lt;/p&gt;</content>
+&lt;p&gt;2L36, Victoria to Epsom Downs, 17th April 2021.&lt;/p&gt;</content>
     <author>
       <name>LGRail Photography</name>
       <uri>https://www.flickr.com/people/189856276@N04/</uri>
       <flickr:nsid>189856276@N04</flickr:nsid>
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617932977_88ccc8577c_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617932752_0444a83771_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
