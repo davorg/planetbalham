@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-17T01:11:53Z</updated>
+  <updated>2021-11-17T01:38:05Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (46°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1021mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 16:09 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1021mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 16:09 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-16T21:58:00.000+0000</id>
-    <published>2021-11-17T01:02:45Z</published>
-    <updated>2021-11-17T01:02:45Z</updated>
+    <published>2021-11-17T01:34:51Z</published>
+    <updated>2021-11-17T01:34:51Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 11°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1025mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-16T21:58:00.000+0000</id>
-    <published>2021-11-17T01:02:45Z</published>
-    <updated>2021-11-17T01:02:45Z</updated>
+    <published>2021-11-17T01:34:51Z</published>
+    <updated>2021-11-17T01:34:51Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 10°C (51°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (51°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1029mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-16T21:58:00.000+0000</id>
-    <published>2021-11-17T01:02:45Z</published>
-    <updated>2021-11-17T01:02:45Z</updated>
+    <published>2021-11-17T01:34:51Z</published>
+    <updated>2021-11-17T01:34:51Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYmVybmllLWNvbGVtYW4tb2JpdHVhcnkta3FyMDl3Y3Iw0gEA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" target="_blank"&gt;The government is finally waking up to the fatal weaknesses of HS2&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy93b21hbi13aG8tZmVsdC1zZWxmLWNvbnNjaW91cy02MTk5MzU50gEA?oc=5</id>
+    <title type="html">Woman who felt self-conscious 'all the time' loses 10 stone and explains how - Bristol Live</title>
+    <updated>2021-11-13T07:00:00.000000000Z</updated>
+    <link href="https://www.bristolpost.co.uk/news/uk-world-news/woman-who-felt-self-conscious-6199359" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bristolpost.co.uk/news/uk-world-news/woman-who-felt-self-conscious-6199359" target="_blank"&gt;Woman who felt self-conscious 'all the time' loses 10 stone and explains how&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bristol Live&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMS8xMS90b3JuYWRvLXN0ZWFtLWxvY29tb3RpdmUtdG8tZG91YmxlLWhlYWQtdG91ci13aXRoLTM1MDI4LWNsYW4tbGluZS5odG1s0gFvaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIxLzExL3Rvcm5hZG8tc3RlYW0tbG9jb21vdGl2ZS10by1kb3VibGUtaGVhZC10b3VyLXdpdGgtMzUwMjgtY2xhbi1saW5lLmh0bWwvYW1w?oc=5</id>
     <title type="html">Tornado steam locomotive to double head tour with 35028 Clan Line - RailAdvent</title>
     <updated>2021-11-12T19:22:24.000000000Z</updated>
     <link href="https://www.railadvent.co.uk/2021/11/tornado-steam-locomotive-to-double-head-tour-with-35028-clan-line.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2021/11/tornado-steam-locomotive-to-double-head-tour-with-35028-clan-line.html" target="_blank"&gt;Tornado steam locomotive to double head tour with 35028 Clan Line&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9mb3JtZXItcGFsYWNlLWZvcndhcmQtZnVsaGFtcy1taXRyb3ZpYy13aWxsLXNjb3JlLW1vcmUtdGhhbi00MC1nb2Fscy10aGlzLXNlYXNvbi_SAQA?oc=5</id>
-    <title type="html">Former Palace forward: Fulham's Mitrovic will score more than 40 goals this season - London News Online</title>
-    <updated>2021-11-12T07:00:58.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/former-palace-forward-fulhams-mitrovic-will-score-more-than-40-goals-this-season/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-palace-forward-fulhams-mitrovic-will-score-more-than-40-goals-this-season/" target="_blank"&gt;Former Palace forward: Fulham's Mitrovic will score more than 40 goals this season&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455811 at Balham</title>
