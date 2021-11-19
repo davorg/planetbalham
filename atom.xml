@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-19T14:50:31Z</updated>
+  <updated>2021-11-19T15:15:32Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1030mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-19T09:56:00.000+0000</id>
-    <published>2021-11-19T14:23:11Z</published>
-    <updated>2021-11-19T14:23:11Z</updated>
+    <published>2021-11-19T15:04:18Z</published>
+    <updated>2021-11-19T15:04:18Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-19T09:56:00.000+0000</id>
-    <published>2021-11-19T14:23:11Z</published>
-    <updated>2021-11-19T14:23:11Z</updated>
+    <published>2021-11-19T15:04:18Z</published>
+    <updated>2021-11-19T15:04:18Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,160 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 16:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-19T09:56:00.000+0000</id>
-    <published>2021-11-19T14:23:11Z</published>
-    <updated>2021-11-19T14:23:11Z</updated>
+    <published>2021-11-19T15:04:18Z</published>
+    <updated>2021-11-19T15:04:18Z</updated>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Surveying the scene</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51691250359/"/>
+    <id>tag:flickr.com,2005:/photo/51691250359</id>
+    <published>2021-11-19T14:51:18Z</published>
+    <updated>2021-11-19T14:51:18Z</updated>
+    <flickr:date_taken>2021-11-19T13:16:17-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-19T13:16:17-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51691250359/" title="Surveying the scene"&gt;&lt;img src="https://live.staticflickr.com/65535/51691250359_916556710c_m.jpg" width="240" height="150" alt="Surveying the scene" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Brickwood, Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51691250359_916556710c_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brickwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Picking from the menu</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51690572941/"/>
+    <id>tag:flickr.com,2005:/photo/51690572941</id>
+    <published>2021-11-19T14:51:18Z</published>
+    <updated>2021-11-19T14:51:18Z</updated>
+    <flickr:date_taken>2021-11-19T13:15:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-19T13:15:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51690572941/" title="Picking from the menu"&gt;&lt;img src="https://live.staticflickr.com/65535/51690572941_988d536d65_m.jpg" width="240" height="150" alt="Picking from the menu" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Brickwood, Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51690572941_988d536d65_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brickwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Brickwood</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51690573186/"/>
+    <id>tag:flickr.com,2005:/photo/51690573186</id>
+    <published>2021-11-19T14:51:17Z</published>
+    <updated>2021-11-19T14:51:17Z</updated>
+    <flickr:date_taken>2021-11-19T13:09:23-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-19T13:09:23-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51690573186/" title="Brickwood"&gt;&lt;img src="https://live.staticflickr.com/65535/51690573186_f0d89bcc30_m.jpg" width="240" height="150" alt="Brickwood" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Brickwood, Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51690573186_f0d89bcc30_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brickwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>To-and-fro</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51690840473/"/>
+    <id>tag:flickr.com,2005:/photo/51690840473</id>
+    <published>2021-11-19T14:51:16Z</published>
+    <updated>2021-11-19T14:51:16Z</updated>
+    <flickr:date_taken>2021-11-19T13:05:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-19T13:05:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51690840473/" title="To-and-fro"&gt;&lt;img src="https://live.staticflickr.com/65535/51690840473_3aa776102a_m.jpg" width="240" height="135" alt="To-and-fro" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51690840473_3aa776102a_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="market" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Comings and goings</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51689779002/"/>
+    <id>tag:flickr.com,2005:/photo/51689779002</id>
+    <published>2021-11-19T14:51:15Z</published>
+    <updated>2021-11-19T14:51:15Z</updated>
+    <flickr:date_taken>2021-11-19T13:03:08-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-19T13:03:08-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51689779002/" title="Comings and goings"&gt;&lt;img src="https://live.staticflickr.com/65535/51689779002_52a5b2d3ec_m.jpg" width="240" height="150" alt="Comings and goings" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51689779002_52a5b2d3ec_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="market" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiED28UfNGzd3eDTN8OY8e-8oqGQgEKhAIACoHCAowy4KeCzDcjLYDMNfl6QY?oc=5</id>
+    <title type="html">Streatham boxer Chris Bourke determined to make his 2022 punch perfect - South West Londoner</title>
+    <updated>2021-11-19T14:32:21.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/sport/19112021-streatham-boxer-chris-bourke-determined-to-make-his-2022-punch-perfect/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/19112021-streatham-boxer-chris-bourke-determined-to-make-his-2022-punch-perfect/" target="_blank"&gt;Streatham boxer Chris Bourke determined to make his 2022 punch perfect&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL2Fkb3JhYmxlLWRhY2hzaHVuZC1wdXBweS1kb2VzbnQtdW5kZXJzdGFuZC0yMjIwNjQxMdIBYWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL2Fkb3JhYmxlLWRhY2hzaHVuZC1wdXBweS1kb2VzbnQtdW5kZXJzdGFuZC0yMjIwNjQxMS5hbXA?oc=5</id>
@@ -54,51 +206,6 @@
     <link href="https://spectator.com.au/2021/11/the-vaccine-cheer-is-gone/" type="text/html"/>
     <content type="html">&lt;a href="https://spectator.com.au/2021/11/the-vaccine-cheer-is-gone/" target="_blank"&gt;The vaccine cheer is gone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Spectator Australia&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Du Cane Court, Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonlesstravelled/51687285587/"/>
-    <id>tag:flickr.com,2005:/photo/51687285587</id>
-    <published>2021-11-18T09:58:32Z</published>
-    <updated>2021-11-18T09:58:32Z</updated>
-    <flickr:date_taken>2021-11-16T14:02:03-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-11-16T14:02:03-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonlesstravelled/"&gt;London Less Travelled&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonlesstravelled/51687285587/" title="Du Cane Court, Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51687285587_6acd47c950_m.jpg" width="240" height="160" alt="Du Cane Court, Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>London Less Travelled</name>
-      <uri>https://www.flickr.com/people/londonlesstravelled/</uri>
-      <flickr:nsid>44079668@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7905/buddyicons/44079668@N07.jpg?1545814230#44079668@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51687285587_6acd47c950_b.jpg"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="suburban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="suburb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="suburbs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="suburbia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bicycle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyclist" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="court" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ducane" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9hbmdyeS1sb25kb25lcnMtd29yay1vdXQtYWx0ZXJuYXRpdmUtMjIxODkzNzDSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvem9uZS0xLW5ld3MvYW5ncnktbG9uZG9uZXJzLXdvcmstb3V0LWFsdGVybmF0aXZlLTIyMTg5MzcwLmFtcA?oc=5</id>
     <title type="html">Angry Londoners discuss which alternative London Underground route is best before Northern line closure - MyLondon</title>
@@ -113,129 +220,6 @@
     <link href="https://mixmag.net/feature/fred-again-cover-feature-interview" type="text/html"/>
     <content type="html">&lt;a href="https://mixmag.net/feature/fred-again-cover-feature-interview" target="_blank"&gt;How Fred again.. hit the big time by turning his life into a symphony&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mixmag&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjEvMTEvMTUvZ292ZXJubWVudC1maW5hbGx5LXdha2luZy1mYXRhbC13ZWFrbmVzc2VzLWhzMi_SAQA?oc=5</id>
-    <title type="html">The government is finally waking up to the fatal weaknesses of HS2 - Telegraph.co.uk</title>
-    <updated>2021-11-15T12:15:00.000000000Z</updated>
-    <link href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.telegraph.co.uk/news/2021/11/15/government-finally-waking-fatal-weaknesses-hs2/" target="_blank"&gt;The government is finally waking up to the fatal weaknesses of HS2&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>455811 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617925487/"/>
-    <id>tag:flickr.com,2005:/photo/51617925487</id>
-    <published>2021-10-22T17:47:38Z</published>
-    <updated>2021-10-22T17:47:38Z</updated>
-    <flickr:date_taken>2021-04-17T14:44:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T14:44:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617925487/" title="455811 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617925487_3641970054_m.jpg" width="240" height="160" alt="455811 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2B72, Victoria to Epsom Downs, 17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617925487_3641970054_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>455820 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51619626940/"/>
-    <id>tag:flickr.com,2005:/photo/51619626940</id>
-    <published>2021-10-22T17:47:38Z</published>
-    <updated>2021-10-22T17:47:38Z</updated>
-    <flickr:date_taken>2021-04-17T14:52:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T14:52:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51619626940/" title="455820 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51619626940_5974f791ab_m.jpg" width="240" height="160" alt="455820 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2B71, Epsom Downs to Victoria, 17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51619626940_5974f791ab_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>455804 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51617925717/"/>
-    <id>tag:flickr.com,2005:/photo/51617925717</id>
-    <published>2021-10-22T17:47:37Z</published>
-    <updated>2021-10-22T17:47:37Z</updated>
-    <flickr:date_taken>2021-04-17T14:50:05-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T14:50:05-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51617925717/" title="455804 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51617925717_c99bd503e8_m.jpg" width="240" height="160" alt="455804 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2K37, West Croydon to Victoria, 17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51617925717_c99bd503e8_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>387215 at Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189856276@N04/51619413294/"/>
-    <id>tag:flickr.com,2005:/photo/51619413294</id>
-    <published>2021-10-22T17:47:33Z</published>
-    <updated>2021-10-22T17:47:33Z</updated>
-    <flickr:date_taken>2021-04-17T15:06:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-04-17T15:06:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189856276@N04/"&gt;LGRail Photography&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189856276@N04/51619413294/" title="387215 at Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51619413294_d6feb6df0d_m.jpg" width="240" height="160" alt="387215 at Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;1W80, Victoria to Brighton, 17th April 2021.&lt;/p&gt;</content>
-    <author>
-      <name>LGRail Photography</name>
-      <uri>https://www.flickr.com/people/189856276@N04/</uri>
-      <flickr:nsid>189856276@N04</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon04.png#189856276@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51619413294_d6feb6df0d_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class387" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>2020 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html" type="text/html"/>
