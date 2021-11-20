@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-20T02:21:44Z</updated>
+  <updated>2021-11-20T02:55:55Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Thick Cloud, Minimum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-19T21:55:00.000+0000</id>
-    <published>2021-11-20T02:00:46Z</published>
-    <updated>2021-11-20T02:00:46Z</updated>
+    <published>2021-11-20T02:31:46Z</published>
+    <updated>2021-11-20T02:31:46Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 16:04 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 16:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-19T21:55:00.000+0000</id>
-    <published>2021-11-20T02:00:46Z</published>
-    <updated>2021-11-20T02:00:46Z</updated>
+    <published>2021-11-20T02:31:46Z</published>
+    <updated>2021-11-20T02:31:46Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-19T21:55:00.000+0000</id>
-    <published>2021-11-20T02:00:46Z</published>
-    <updated>2021-11-20T02:00:46Z</updated>
+    <published>2021-11-20T02:31:46Z</published>
+    <updated>2021-11-20T02:31:46Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Surveying the scene</title>
@@ -200,11 +200,11 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/local-news/adorable-dachshund-puppy-doesnt-understand-22206411" target="_blank"&gt;Adorable dachshund puppy doesn't understand why Balham owner can't play with him&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiO2h0dHBzOi8vc3BlY3RhdG9yLmNvbS5hdS8yMDIxLzExL3RoZS12YWNjaW5lLWNoZWVyLWlzLWdvbmUv0gEA?oc=5</id>
-    <title type="html">The vaccine cheer is gone - The Spectator Australia</title>
-    <updated>2021-11-18T22:40:44.000000000Z</updated>
-    <link href="https://spectator.com.au/2021/11/the-vaccine-cheer-is-gone/" type="text/html"/>
-    <content type="html">&lt;a href="https://spectator.com.au/2021/11/the-vaccine-cheer-is-gone/" target="_blank"&gt;The vaccine cheer is gone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Spectator Australia&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS12YWNjaW5lLWNoZWVyLWlzLWdvbmXSAQA?oc=5</id>
+    <title type="html">The vaccine cheer is gone - Spectator.co.uk</title>
+    <updated>2021-11-18T00:25:00.000000000Z</updated>
+    <link href="https://www.spectator.co.uk/article/the-vaccine-cheer-is-gone" type="text/html"/>
+    <content type="html">&lt;a href="https://www.spectator.co.uk/article/the-vaccine-cheer-is-gone" target="_blank"&gt;The vaccine cheer is gone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Spectator.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9hbmdyeS1sb25kb25lcnMtd29yay1vdXQtYWx0ZXJuYXRpdmUtMjIxODkzNzDSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvem9uZS0xLW5ld3MvYW5ncnktbG9uZG9uZXJzLXdvcmstb3V0LWFsdGVybmF0aXZlLTIyMTg5MzcwLmFtcA?oc=5</id>
