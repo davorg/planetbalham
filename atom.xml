@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-22T10:16:20Z</updated>
+  <updated>2021-11-22T10:51:28Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1030mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1030mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-22T07:02:00.000+0000</id>
-    <published>2021-11-22T10:02:55Z</published>
-    <updated>2021-11-22T10:02:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-22T09:56:00.000+0000</id>
+    <published>2021-11-22T10:17:21Z</published>
+    <updated>2021-11-22T10:17:21Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 3°C (38°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-22T07:02:00.000+0000</id>
-    <published>2021-11-22T10:02:55Z</published>
-    <updated>2021-11-22T10:02:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-22T09:56:00.000+0000</id>
+    <published>2021-11-22T10:17:21Z</published>
+    <updated>2021-11-22T10:17:21Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Thick Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Wednesday: Thick Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (40°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:01 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (40°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:01 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-22T07:02:00.000+0000</id>
-    <published>2021-11-22T10:02:55Z</published>
-    <updated>2021-11-22T10:02:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-22T09:56:00.000+0000</id>
+    <published>2021-11-22T10:17:21Z</published>
+    <updated>2021-11-22T10:17:21Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k0d0txeEJCRXd4RFdEb3p1S25pZ0FQAQ?oc=5</id>
