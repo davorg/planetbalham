@@ -7,45 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-22T05:15:34Z</updated>
+  <updated>2021-11-22T05:51:19Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Sunny, Minimum Temperature: 4°C (40°F) Maximum Temperature: 10°C (50°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 4°C (40°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1030mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-21T21:54:00.000+0000</id>
-    <published>2021-11-22T05:00:19Z</published>
-    <updated>2021-11-22T05:00:19Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 10°C (50°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 1°C (33°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1030mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-21T21:54:00.000+0000</id>
-    <published>2021-11-22T05:00:19Z</published>
-    <updated>2021-11-22T05:00:19Z</updated>
+    <published>2021-11-22T05:15:32Z</published>
+    <updated>2021-11-22T05:15:32Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (47°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1032mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:01 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1032mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-21T21:54:00.000+0000</id>
-    <published>2021-11-22T05:00:19Z</published>
-    <updated>2021-11-22T05:00:19Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-21T21:54:00.000+0000</id>
+    <published>2021-11-22T05:15:32Z</published>
+    <updated>2021-11-22T05:15:32Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmhpbGxpbmdkb250aW1lcy5jby51ay9sZWlzdXJlL25hdGlvbmFsLzE5NzMyMDg1LmRhbWUtZW1tYS10aG9tcHNvbi1kYW5jZXMtbmlnaHQtYXdheS1hZGVsZXMtc3BlY2lhbC1jb25jZXJ0L9IBAA?oc=5</id>
-    <title type="html">Dame Emma Thompson dances the night away during Adele's special concert - Hillingdon Times</title>
-    <updated>2021-11-21T21:19:17.000000000Z</updated>
-    <link href="https://www.hillingdontimes.co.uk/leisure/national/19732085.dame-emma-thompson-dances-night-away-adeles-special-concert/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hillingdontimes.co.uk/leisure/national/19732085.dame-emma-thompson-dances-night-away-adeles-special-concert/" target="_blank"&gt;Dame Emma Thompson dances the night away during Adele's special concert&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hillingdon Times&lt;/font&gt;</content>
+    <title>Wednesday: Thick Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 7°C (46°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (46°F), Minimum Temperature: 5°C (40°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:01 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-21T21:54:00.000+0000</id>
+    <published>2021-11-22T05:15:32Z</published>
+    <updated>2021-11-22T05:15:32Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Jesus says</title>
@@ -220,6 +213,13 @@
     <updated>2021-11-19T14:32:21.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/sport/19112021-streatham-boxer-chris-bourke-determined-to-make-his-2022-punch-perfect/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/19112021-streatham-boxer-chris-bourke-determined-to-make-his-2022-punch-perfect/" target="_blank"&gt;Streatham boxer Chris Bourke determined to make his 2022 punch perfect&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL2Fkb3JhYmxlLWRhY2hzaHVuZC1wdXBweS1kb2VzbnQtdW5kZXJzdGFuZC0yMjIwNjQxMdIBYWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9sb2NhbC1uZXdzL2Fkb3JhYmxlLWRhY2hzaHVuZC1wdXBweS1kb2VzbnQtdW5kZXJzdGFuZC0yMjIwNjQxMS5hbXA?oc=5</id>
+    <title type="html">Adorable dachshund puppy doesn't understand why Balham owner can't play with him - MyLondon</title>
+    <updated>2021-11-19T11:56:15.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/local-news/adorable-dachshund-puppy-doesnt-understand-22206411" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/local-news/adorable-dachshund-puppy-doesnt-understand-22206411" target="_blank"&gt;Adorable dachshund puppy doesn't understand why Balham owner can't play with him&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
