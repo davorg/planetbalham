@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-25T06:53:45Z</updated>
+  <updated>2021-11-25T07:16:17Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 7°C (44°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1017mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunrise: 07:34 GMT, Sunset: 16:00 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1017mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 07:34 GMT, Sunset: 16:00 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-24T21:56:00.000+0000</id>
-    <published>2021-11-25T06:01:30Z</published>
-    <updated>2021-11-25T06:01:30Z</updated>
+    <published>2021-11-25T07:00:21Z</published>
+    <updated>2021-11-25T07:00:21Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain Showers, Minimum Temperature: 2°C (36°F) Maximum Temperature: 8°C (46°F)</title>
+    <title>Friday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 996mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 15:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 995mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 15:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-24T21:56:00.000+0000</id>
-    <published>2021-11-25T06:01:30Z</published>
-    <updated>2021-11-25T06:01:30Z</updated>
+    <published>2021-11-25T07:00:21Z</published>
+    <updated>2021-11-25T07:00:21Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 5°C (41°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 995mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 07:37 GMT, Sunset: 15:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-24T21:56:00.000+0000</id>
-    <published>2021-11-25T06:01:30Z</published>
-    <updated>2021-11-25T06:01:30Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2FydHMtZW50ZXJ0YWlubWVudC90aGVhdHJlLWRhbmNlL3Jldmlld3MvbWFub3ItcmV2aWV3LW5hdGlvbmFsLXRoZWF0cmUtYjE5NjM0MzEuaHRtbNIBdmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2FydHMtZW50ZXJ0YWlubWVudC90aGVhdHJlLWRhbmNlL3Jldmlld3MvbWFub3ItcmV2aWV3LW5hdGlvbmFsLXRoZWF0cmUtYjE5NjM0MzEuaHRtbD9hbXA?oc=5</id>
-    <title type="html">Manor review: A damp squib that never ignites - The Independent</title>
-    <updated>2021-11-24T17:56:41.000000000Z</updated>
-    <link href="https://www.independent.co.uk/arts-entertainment/theatre-dance/reviews/manor-review-national-theatre-b1963431.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.independent.co.uk/arts-entertainment/theatre-dance/reviews/manor-review-national-theatre-b1963431.html" target="_blank"&gt;Manor review: A damp squib that never ignites&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Independent&lt;/font&gt;</content>
+    <published>2021-11-25T07:00:21Z</published>
+    <updated>2021-11-25T07:00:21Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBwEPio0ErvnCO2bRdyMs8AqGQgEKhAIACoHCAowhd6oCzD36MADMOz0qgc?oc=5</id>
@@ -53,6 +46,13 @@
     <updated>2021-11-24T14:54:51.000000000Z</updated>
     <link href="https://www.southwarknews.co.uk/sport/harris-sealy-stars-and-academy-product-scores-on-debut-as-dulwich-hamlet-clip-welling-uniteds-wings/" type="text/html"/>
     <content type="html">&lt;a href="https://www.southwarknews.co.uk/sport/harris-sealy-stars-and-academy-product-scores-on-debut-as-dulwich-hamlet-clip-welling-uniteds-wings/" target="_blank"&gt;Harris-Sealy stars and academy product scores on debut as Dulwich Hamlet clip Welling United's Wings&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvdGhlYXRyZS9tYW5vci1yZXZpZXctbmF0aW9uYWwtdGhlYXRyZS1iOTY3OTkyLmh0bWzSAVlodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9jdWx0dXJlL3RoZWF0cmUvbWFub3ItcmV2aWV3LW5hdGlvbmFsLXRoZWF0cmUtYjk2Nzk5Mi5odG1sP2FtcA?oc=5</id>
+    <title type="html">Manor review: a Twitter thread set in a National Trust property - Evening Standard</title>
+    <updated>2021-11-24T11:59:58.000000000Z</updated>
+    <link href="https://www.standard.co.uk/culture/theatre/manor-review-national-theatre-b967992.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/culture/theatre/manor-review-national-theatre-b967992.html" target="_blank"&gt;Manor review: a Twitter thread set in a National Trust property&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnByaW1hLmNvLnVrL2xlaXN1cmUvYTM4MzI5MzM1L2hvbGx5LXdpbGxvdWdoYnktZHlzbGV4aWEv0gEA?oc=5</id>
