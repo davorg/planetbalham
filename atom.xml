@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-27T02:06:21Z</updated>
+  <updated>2021-11-27T02:22:25Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -47,6 +47,36 @@
     <link href="https://www.thetimes.co.uk/article/we-always-plan-our-next-adventure-q9fsmzrrg" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/we-always-plan-our-next-adventure-q9fsmzrrg" target="_blank"&gt;'We always plan our next adventure' | Readers' Lives&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Inside Taro (Studio Artist version)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51705693397/"/>
+    <id>tag:flickr.com,2005:/photo/51705693397</id>
+    <published>2021-11-26T18:28:22Z</published>
+    <updated>2021-11-26T18:28:22Z</updated>
+    <flickr:date_taken>2021-11-26T18:25:44-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-26T18:25:44-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51705693397/" title="Inside Taro (Studio Artist version)"&gt;&lt;img src="https://live.staticflickr.com/65535/51705693397_25b663b332_m.jpg" width="240" height="150" alt="Inside Taro (Studio Artist version)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, nr. Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51705693397_25b663b332_b.jpg"/>
+    <category term="studioartist55" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="japanese" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="taro" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Making and serving</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51706761973/"/>
@@ -102,36 +132,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="taro" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Shopfront (Studio Artist version)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51706762023/"/>
-    <id>tag:flickr.com,2005:/photo/51706762023</id>
-    <published>2021-11-26T18:28:20Z</published>
-    <updated>2021-11-26T18:28:20Z</updated>
-    <flickr:date_taken>2021-11-26T18:25:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-11-26T18:25:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51706762023/" title="Shopfront (Studio Artist version)"&gt;&lt;img src="https://live.staticflickr.com/65535/51706762023_b3fe600a6d_m.jpg" width="240" height="160" alt="Shopfront (Studio Artist version)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, nr. Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51706762023_b3fe600a6d_b.jpg"/>
-    <category term="studioartist55" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="japanese" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="taro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="awning" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
