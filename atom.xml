@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-28T05:15:15Z</updated>
+  <updated>2021-11-28T05:50:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -41,6 +41,13 @@
     <updated>2021-11-28T05:04:58Z</updated>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jaHJpc3RtYXMtZmlsbXMtYmVpbmctc2NyZWVuZWQtYmVhdXRpZnVsLTIyMjYxNTU00gFmaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NocmlzdG1hcy1maWxtcy1iZWluZy1zY3JlZW5lZC1iZWF1dGlmdWwtMjIyNjE1NTQuYW1w?oc=5</id>
+    <title type="html">Christmas films are being screened at beautiful locations in London - MyLondon</title>
+    <updated>2021-11-28T05:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/whats-on-news/christmas-films-being-screened-beautiful-22261554" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/whats-on-news/christmas-films-being-screened-beautiful-22261554" target="_blank"&gt;Christmas films are being screened at beautiful locations in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMipAFodHRwczovL3d3dy5jb3VudHJ5bGlmZS5jby51ay9wcm9wZXJ0eS9yb3NpZS1hbmQtamltLWEtd2luZG93bGVzcy1wcmlzb24tY2VsbC15b3Vycy10by1yZW50LWF0LWp1c3QtMjAwMC1hLW1vbnRoLWFuZC1vdGhlci1qb3lzLW9mLXRoZS1sb25kb24tcHJvcGVydHktbWFya2V0LTIzNTkzNdIBqAFodHRwczovL3d3dy5jb3VudHJ5bGlmZS5jby51ay9wcm9wZXJ0eS9yb3NpZS1hbmQtamltLWEtd2luZG93bGVzcy1wcmlzb24tY2VsbC15b3Vycy10by1yZW50LWF0LWp1c3QtMjAwMC1hLW1vbnRoLWFuZC1vdGhlci1qb3lzLW9mLXRoZS1sb25kb24tcHJvcGVydHktbWFya2V0LTIzNTkzNS9hbXA?oc=5</id>
     <title type="html">Rosie and Jim: A windowless prison cell, yours to rent at just £2,000 a month, and other joys of the London property market - Country Life</title>
     <updated>2021-11-27T07:00:42.000000000Z</updated>
@@ -53,13 +60,6 @@
     <updated>2021-11-27T00:01:00.000000000Z</updated>
     <link href="https://www.thetimes.co.uk/article/we-always-plan-our-next-adventure-q9fsmzrrg" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/we-always-plan-our-next-adventure-q9fsmzrrg" target="_blank"&gt;'We always plan our next adventure' | Readers' Lives&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmdheXRpbWVzLmNvLnVrL2N1bHR1cmUvbnRzLW1hbm9yLWhhcy1zb21lLWdyZWF0LWFjdGluZy1idXQtYS1tdWRkbGVkLXN0b3J5LXJldmlldy_SAQA?oc=5</id>
-    <title type="html">NT's Manor has some great acting but a muddled story - review - Gay Times Magazine</title>
-    <updated>2021-11-26T18:29:20.000000000Z</updated>
-    <link href="https://www.gaytimes.co.uk/culture/nts-manor-has-some-great-acting-but-a-muddled-story-review/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.gaytimes.co.uk/culture/nts-manor-has-some-great-acting-but-a-muddled-story-review/" target="_blank"&gt;NT's Manor has some great acting but a muddled story - review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Gay Times Magazine&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Inside Taro (Studio Artist version)</title>
@@ -209,18 +209,18 @@
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmdheXRpbWVzLmNvLnVrL2N1bHR1cmUvbnRzLW1hbm9yLWhhcy1zb21lLWdyZWF0LWFjdGluZy1idXQtYS1tdWRkbGVkLXN0b3J5LXJldmlldy_SAQA?oc=5</id>
+    <title type="html">NT's Manor has some great acting but a muddled story - review - Gay Times Magazine</title>
+    <updated>2021-11-26T18:13:42.000000000Z</updated>
+    <link href="https://www.gaytimes.co.uk/culture/nts-manor-has-some-great-acting-but-a-muddled-story-review/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.gaytimes.co.uk/culture/nts-manor-has-some-great-acting-but-a-muddled-story-review/" target="_blank"&gt;NT's Manor has some great acting but a muddled story - review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Gay Times Magazine&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEKCKWUGben0a1451Y0oSVQ4qGQgEKhAIACoHCAowy4KeCzDcjLYDMNnl6QY?oc=5</id>
     <title type="html">Wandsworth's best Christmas light switch-on events - South West Londoner</title>
     <updated>2021-11-26T17:44:49.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/entertainment/26112021-wandsworths-best-christmas-light-switch-on-events/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/entertainment/26112021-wandsworths-best-christmas-light-switch-on-events/" target="_blank"&gt;Wandsworth's best Christmas light switch-on events&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2xld2lzLWJhc3Rvbi1vbmUtdm90ZS1ieS1lbGVjdGlvbi13aW4taXMtYS1ibG93LXRvLWxhYm91cnMtaG9wZXMtb2Ytd2lubmluZy10b3J5LXdhbmRzd29ydGgtY291bmNpbC_SAYMBaHR0cHM6Ly93d3cub25sb25kb24uY28udWsvbGV3aXMtYmFzdG9uLW9uZS12b3RlLWJ5LWVsZWN0aW9uLXdpbi1pcy1hLWJsb3ctdG8tbGFib3Vycy1ob3Blcy1vZi13aW5uaW5nLXRvcnktd2FuZHN3b3J0aC1jb3VuY2lsL2FtcC8?oc=5</id>
-    <title type="html">Lewis Baston: One-vote by-election win is blow to Labour hopes of winning Tory Wandsworth Council - onlondon.co.uk</title>
-    <updated>2021-11-26T16:00:10.000000000Z</updated>
-    <link href="https://www.onlondon.co.uk/lewis-baston-one-vote-by-election-win-is-a-blow-to-labours-hopes-of-winning-tory-wandsworth-council/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.onlondon.co.uk/lewis-baston-one-vote-by-election-win-is-a-blow-to-labours-hopes-of-winning-tory-wandsworth-council/" target="_blank"&gt;Lewis Baston: One-vote by-election win is blow to Labour hopes of winning Tory Wandsworth Council&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;onlondon.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
