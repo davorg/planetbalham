@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-29T10:50:50Z</updated>
+  <updated>2021-11-29T11:15:03Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (40°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 07:40 GMT, Sunset: 15:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:40 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-11-29T09:58:00.000+0000</id>
-    <published>2021-11-29T10:22:05Z</published>
-    <updated>2021-11-29T10:22:05Z</updated>
+    <published>2021-11-29T11:02:07Z</published>
+    <updated>2021-11-29T11:02:07Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Thick Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1013mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-11-29T09:58:00.000+0000</id>
-    <published>2021-11-29T10:22:05Z</published>
-    <updated>2021-11-29T10:22:05Z</updated>
+    <published>2021-11-29T11:02:07Z</published>
+    <updated>2021-11-29T11:02:07Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 10°C (49°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 998mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 07:43 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-11-29T09:58:00.000+0000</id>
-    <published>2021-11-29T10:22:05Z</published>
-    <updated>2021-11-29T10:22:05Z</updated>
+    <published>2021-11-29T11:02:07Z</published>
+    <updated>2021-11-29T11:02:07Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJpOKphQjO7zAVLuv7Zb5toqGQgEKhAIACoHCAowhd6oCzD36MADMOv0qgc?oc=5</id>
@@ -68,6 +68,36 @@
     <link href="https://www.thetimes.co.uk/article/we-always-plan-our-next-adventure-q9fsmzrrg" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/we-always-plan-our-next-adventure-q9fsmzrrg" target="_blank"&gt;'We always plan our next adventure' | Readers' Lives&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Inside Taro (Studio Artist version)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51705693397/"/>
+    <id>tag:flickr.com,2005:/photo/51705693397</id>
+    <published>2021-11-26T18:28:22Z</published>
+    <updated>2021-11-26T18:28:22Z</updated>
+    <flickr:date_taken>2021-11-26T18:25:44-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-26T18:25:44-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51705693397/" title="Inside Taro (Studio Artist version)"&gt;&lt;img src="https://live.staticflickr.com/65535/51705693397_25b663b332_m.jpg" width="240" height="150" alt="Inside Taro (Studio Artist version)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Taro, nr. Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51705693397_25b663b332_b.jpg"/>
+    <category term="studioartist55" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="indoors" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="japanese" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="taro" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Making and serving</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51706761973/"/>
@@ -176,35 +206,6 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51705693817_1e534b5bf9_b.jpg"/>
-    <category term="awning" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="japanese" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="restaurant" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="taro" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Shopfront</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51706762308/"/>
-    <id>tag:flickr.com,2005:/photo/51706762308</id>
-    <published>2021-11-26T18:28:19Z</published>
-    <updated>2021-11-26T18:28:19Z</updated>
-    <flickr:date_taken>2021-11-26T13:31:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-11-26T13:31:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51706762308/" title="Shopfront"&gt;&lt;img src="https://live.staticflickr.com/65535/51706762308_777382f948_m.jpg" width="240" height="160" alt="Shopfront" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Taro, nr. Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51706762308_777382f948_b.jpg"/>
     <category term="awning" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="japanese" scheme="https://www.flickr.com/photos/tags/"/>
