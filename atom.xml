@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-02T20:15:53Z</updated>
+  <updated>2021-12-02T20:52:58Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 0°C (32°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 0°C (33°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (32°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1013mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (33°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1012mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-02T09:54:00.000+0000</id>
-    <published>2021-12-02T20:02:00Z</published>
-    <updated>2021-12-02T20:02:00Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-02T19:59:00.000+0000</id>
+    <published>2021-12-02T20:16:54Z</published>
+    <updated>2021-12-02T20:16:54Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 6°C (42°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Friday: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Very Poor, Pressure: 1003mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:46 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Very Poor, Pressure: 1003mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:46 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-02T09:54:00.000+0000</id>
-    <published>2021-12-02T20:02:00Z</published>
-    <updated>2021-12-02T20:02:00Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-02T19:59:00.000+0000</id>
+    <published>2021-12-02T20:16:54Z</published>
+    <updated>2021-12-02T20:16:54Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Saturday: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 999mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 999mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-02T09:54:00.000+0000</id>
-    <published>2021-12-02T20:02:00Z</published>
-    <updated>2021-12-02T20:02:00Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-02T19:59:00.000+0000</id>
+    <published>2021-12-02T20:16:54Z</published>
+    <updated>2021-12-02T20:16:54Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9mb3JtZXItYmFsaGFtLWJsYXplcnMteW91bmdzdGVyLWZhYmlvLWNhcnZhbGhvLXdpbnMtam9obm55LWhheW5lcy10cm9waHkv0gEA?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.ft.com/content/cdb1d2e5-47ab-46e1-9462-d41b47fd58bd" target="_blank"&gt;British-Caribbean art at Tate Britain — a bright, buzzy and rowdy mess&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Financial Times&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMS8xMS8zMC9QaXp6ZXJpYS1aaWEtTHVjaWEtdG8tb3Blbi1CYWxoYW0tcmVzdGF1cmFudNIBAA?oc=5</id>
+    <title type="html">Pizzeria Zia Lucia to open Balham restaurant - BigHospitality.co.uk</title>
+    <updated>2021-11-30T10:49:18.000000000Z</updated>
+    <link href="https://www.bighospitality.co.uk/Article/2021/11/30/Pizzeria-Zia-Lucia-to-open-Balham-restaurant" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2021/11/30/Pizzeria-Zia-Lucia-to-open-Balham-restaurant" target="_blank"&gt;Pizzeria Zia Lucia to open Balham restaurant&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS9GZWF0dXJlcy9Ib3QtRGlubmVycy1yZWNvbW1lbmRzL25ldy1sb25kb24tcmVzdGF1cmFudHMtZGVjZW1iZXItMjAyMS1vcGVuaW5n0gEA?oc=5</id>
     <title type="html">New London restaurants opening in December 2021 | Hot Dinners recommends - Hot Dinners</title>
     <updated>2021-11-30T01:01:11.000000000Z</updated>
     <link href="https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-december-2021-opening" type="text/html"/>
     <content type="html">&lt;a href="https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-december-2021-opening" target="_blank"&gt;New London restaurants opening in December 2021 | Hot Dinners recommends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9ub3N0YWxnaWEvZGV2YXN0YXRpbmctZGF5LXd3Mi1ib21iLWhpdC0yMjI1OTY3MtIBUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9ub3N0YWxnaWEvZGV2YXN0YXRpbmctZGF5LXd3Mi1ib21iLWhpdC0yMjI1OTY3Mi5hbXA?oc=5</id>
-    <title type="html">The devastating day a WW2 bomb hit Balham and dragged a bus into the London Underground - MyLondon</title>
-    <updated>2021-11-28T07:00:00.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/nostalgia/devastating-day-ww2-bomb-hit-22259672" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/nostalgia/devastating-day-ww2-bomb-hit-22259672" target="_blank"&gt;The devastating day a WW2 bomb hit Balham and dragged a bus into the London Underground&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Inside Taro (Studio Artist version)</title>
@@ -194,16 +194,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Shopfront</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51706762308/"/>
-    <id>tag:flickr.com,2005:/photo/51706762308</id>
+    <title>Taro</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51705693817/"/>
+    <id>tag:flickr.com,2005:/photo/51705693817</id>
     <published>2021-11-26T18:28:19Z</published>
     <updated>2021-11-26T18:28:19Z</updated>
-    <flickr:date_taken>2021-11-26T13:31:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-11-26T13:31:45-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-11-26T13:31:43-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-11-26T13:31:43-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51706762308/" title="Shopfront"&gt;&lt;img src="https://live.staticflickr.com/65535/51706762308_777382f948_m.jpg" width="240" height="160" alt="Shopfront" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51705693817/" title="Taro"&gt;&lt;img src="https://live.staticflickr.com/65535/51705693817_1e534b5bf9_m.jpg" width="240" height="192" alt="Taro" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Taro, nr. Balham, London&lt;/p&gt;</content>
     <author>
@@ -212,7 +212,7 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51706762308_777382f948_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51705693817_1e534b5bf9_b.jpg"/>
     <category term="awning" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="japanese" scheme="https://www.flickr.com/photos/tags/"/>
