@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-02T11:14:58Z</updated>
+  <updated>2021-12-02T11:50:56Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9mb3JtZXItYmFsaGFtLWJsYXplcnMteW91bmdzdGVyLWZhYmlvLWNhcnZhbGhvLXdpbnMtam9obm55LWhheW5lcy10cm9waHkv0gEA?oc=5</id>
+    <title type="html">Former Balham Blazers youngster Fabio Carvalho wins Johnny Haynes Trophy - London News Online</title>
+    <updated>2021-12-02T11:17:48.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-fabio-carvalho-wins-johnny-haynes-trophy/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-fabio-carvalho-wins-johnny-haynes-trophy/" target="_blank"&gt;Former Balham Blazers youngster Fabio Carvalho wins Johnny Haynes Trophy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 0°C (32°F) Maximum Temperature: 4°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2021-11-30T12:00:00.000000000Z</updated>
     <link href="https://www.telegraph.co.uk/property/uk/want-buy-first-home-property-hotspots-offer-best-value/" type="text/html"/>
     <content type="html">&lt;a href="https://www.telegraph.co.uk/property/uk/want-buy-first-home-property-hotspots-offer-best-value/" target="_blank"&gt;Want to buy your first home? These property hotspots offer the best value&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMS8xMS8zMC9QaXp6ZXJpYS1aaWEtTHVjaWEtdG8tb3Blbi1CYWxoYW0tcmVzdGF1cmFudNIBAA?oc=5</id>
-    <title type="html">Pizzeria Zia Lucia to open Balham restaurant - BigHospitality.co.uk</title>
-    <updated>2021-11-30T10:49:18.000000000Z</updated>
-    <link href="https://www.bighospitality.co.uk/Article/2021/11/30/Pizzeria-Zia-Lucia-to-open-Balham-restaurant" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2021/11/30/Pizzeria-Zia-Lucia-to-open-Balham-restaurant" target="_blank"&gt;Pizzeria Zia Lucia to open Balham restaurant&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Inside Taro (Studio Artist version)</title>
