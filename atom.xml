@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-02T08:16:27Z</updated>
+  <updated>2021-12-02T08:52:11Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS1uYXRpb25hbC1oYXMtYmVjb21lLXRoZS1ncmF2ZXlhcmQtb2YtdGFsZW50LW1hbm9yLWF0LXRoZS1seXR0ZWx0b24tcmV2aWV3ZWTSAQA?oc=5</id>
+    <title type="html">The National has become the graveyard of talent: Manor, at the Lyttelton, reviewed - Spectator.co.uk</title>
+    <updated>2021-12-02T08:22:02.000000000Z</updated>
+    <link href="https://www.spectator.co.uk/article/the-national-has-become-the-graveyard-of-talent-manor-at-the-lyttelton-reviewed" type="text/html"/>
+    <content type="html">&lt;a href="https://www.spectator.co.uk/article/the-national-has-become-the-graveyard-of-talent-manor-at-the-lyttelton-reviewed" target="_blank"&gt;The National has become the graveyard of talent: Manor, at the Lyttelton, reviewed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Spectator.co.uk&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2021-11-30T10:49:18.000000000Z</updated>
     <link href="https://www.bighospitality.co.uk/Article/2021/11/30/Pizzeria-Zia-Lucia-to-open-Balham-restaurant" type="text/html"/>
     <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2021/11/30/Pizzeria-Zia-Lucia-to-open-Balham-restaurant" target="_blank"&gt;Pizzeria Zia Lucia to open Balham restaurant&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS9GZWF0dXJlcy9Ib3QtRGlubmVycy1yZWNvbW1lbmRzL25ldy1sb25kb24tcmVzdGF1cmFudHMtZGVjZW1iZXItMjAyMS1vcGVuaW5n0gEA?oc=5</id>
-    <title type="html">New London restaurants opening in December 2021 | Hot Dinners recommends - Hot Dinners</title>
-    <updated>2021-11-30T01:01:11.000000000Z</updated>
-    <link href="https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-december-2021-opening" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-december-2021-opening" target="_blank"&gt;New London restaurants opening in December 2021 | Hot Dinners recommends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Inside Taro (Studio Artist version)</title>
