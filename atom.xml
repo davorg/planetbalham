@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-05T04:55:57Z</updated>
+  <updated>2021-12-05T05:15:16Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 5°C (41°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 1°C (35°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1000mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-04T21:55:00.000+0000</id>
-    <published>2021-12-05T04:02:24Z</published>
-    <updated>2021-12-05T04:02:24Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 1°C (35°F) Maximum Temperature: 7°C (45°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 15:53 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-04T21:55:00.000+0000</id>
-    <published>2021-12-05T04:02:24Z</published>
-    <updated>2021-12-05T04:02:24Z</updated>
+    <published>2021-12-05T05:02:08Z</published>
+    <updated>2021-12-05T05:02:08Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain Showers, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (46°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 15:53 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-04T21:55:00.000+0000</id>
+    <published>2021-12-05T05:02:08Z</published>
+    <updated>2021-12-05T05:02:08Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Heavy Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 4°C (39°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1003mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-04T21:55:00.000+0000</id>
-    <published>2021-12-05T04:02:24Z</published>
-    <updated>2021-12-05T04:02:24Z</updated>
+    <published>2021-12-05T05:02:08Z</published>
+    <updated>2021-12-05T05:02:08Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmhlcnRmb3Jkc2hpcmVtZXJjdXJ5LmNvLnVrL3doYXRzLW9uL2luYmV0d2VlbmVycy1jYXN0LW5vdy13aGF0LWhhcHBlbmVkLTYyOTQ5MDbSAV9odHRwczovL3d3dy5oZXJ0Zm9yZHNoaXJlbWVyY3VyeS5jby51ay93aGF0cy1vbi9pbmJldHdlZW5lcnMtY2FzdC1ub3ctd2hhdC1oYXBwZW5lZC02Mjk0OTA2LmFtcA?oc=5</id>
+    <title type="html">The Inbetweeners cast: Where are they now? What happened to Joe Thomas, Simon Bird, Emily Atack, and more - Hertfordshire Mercury</title>
+    <updated>2021-12-05T05:00:00.000000000Z</updated>
+    <link href="https://www.hertfordshiremercury.co.uk/whats-on/inbetweeners-cast-now-what-happened-6294906" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hertfordshiremercury.co.uk/whats-on/inbetweeners-cast-now-what-happened-6294906" target="_blank"&gt;The Inbetweeners cast: Where are they now? What happened to Joe Thomas, Simon Bird, Emily Atack, and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hertfordshire Mercury&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3MvcGFpbmZ1bC10cnV0aC1iZWhpbmQtZW1tYS10aG9tcHNvbnMtMjU1ODExMDfSAVxodHRwczovL3d3dy5taXJyb3IuY28udWsvM2FtL2NlbGVicml0eS1uZXdzL3BhaW5mdWwtdHJ1dGgtYmVoaW5kLWVtbWEtdGhvbXBzb25zLTI1NTgxMTA3LmFtcA?oc=5</id>
@@ -48,41 +55,19 @@
     <content type="html">&lt;a href="https://www.mirror.co.uk/3am/celebrity-news/painful-truth-behind-emma-thompsons-25581107" target="_blank"&gt;Painful truth behind Emma Thompson's Love Actually scene inspired by real life heartbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9wcm9wZXJ0eS91ay9kaXRjaGluZy1jb3VudHJ5c2lkZS15ZWFyLWNpdGllcy1qdXN0LWJldHRlci_SAQA?oc=5</id>
+    <title type="html">'I'm ditching the countryside after a year – cities are just better' - Telegraph.co.uk</title>
+    <updated>2021-12-04T05:00:00.000000000Z</updated>
+    <link href="https://www.telegraph.co.uk/property/uk/ditching-countryside-year-cities-just-better/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/property/uk/ditching-countryside-year-cities-just-better/" target="_blank"&gt;'I'm ditching the countryside after a year – cities are just better'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LnByb3BlcnR5MTE4LmNvbS91bmRlcm9jY3VwaWVkLXByb3BlcnR5L9IBAA?oc=5</id>
     <title type="html">Underoccupied property? - Property118 - Property118</title>
     <updated>2021-12-03T16:27:33.000000000Z</updated>
     <link href="https://www.property118.com/underoccupied-property/" type="text/html"/>
     <content type="html">&lt;a href="https://www.property118.com/underoccupied-property/" target="_blank"&gt;Underoccupied property? - Property118&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Property118&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bustling cafe</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
-    <id>tag:flickr.com,2005:/photo/51722267449</id>
-    <published>2021-12-03T14:50:25Z</published>
-    <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:10:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:10:20-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267449/" title="Bustling cafe"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_m.jpg" width="240" height="150" alt="Bustling cafe" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_b.jpg"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484105/"/>
@@ -110,6 +95,35 @@
     <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Bustling cafe</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
+    <id>tag:flickr.com,2005:/photo/51722267449</id>
+    <published>2021-12-03T14:50:25Z</published>
+    <updated>2021-12-03T14:50:25Z</updated>
+    <flickr:date_taken>2021-12-03T14:10:20-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T14:10:20-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267449/" title="Bustling cafe"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_m.jpg" width="240" height="150" alt="Bustling cafe" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_b.jpg"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -175,16 +189,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Coffee with Tom (1/2)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267624/"/>
-    <id>tag:flickr.com,2005:/photo/51722267624</id>
+    <title>Fruit &amp; Veg.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51720799702/"/>
+    <id>tag:flickr.com,2005:/photo/51720799702</id>
     <published>2021-12-03T14:50:23Z</published>
     <updated>2021-12-03T14:50:23Z</updated>
-    <flickr:date_taken>2021-12-03T13:41:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T13:41:35-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-12-03T12:45:20-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T12:45:20-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267624/" title="Coffee with Tom (1/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267624_d206568d16_m.jpg" width="240" height="160" alt="Coffee with Tom (1/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51720799702/" title="Fruit &amp;amp; Veg."&gt;&lt;img src="https://live.staticflickr.com/65535/51720799702_9f4531741e_m.jpg" width="240" height="150" alt="Fruit &amp;amp; Veg." /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -193,16 +207,13 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267624_d206568d16_b.jpg"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51720799702_9f4531741e_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="grocers" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -212,20 +223,6 @@
     <updated>2021-12-03T11:07:53.000000000Z</updated>
     <link href="https://road.cc/content/news/cycling-live-blog-3-december-2021-288347" type="text/html"/>
     <content type="html">&lt;a href="https://road.cc/content/news/cycling-live-blog-3-december-2021-288347" target="_blank"&gt;Mr Loophole doubles down on two abreast rant (+ Jeremy Vine gets involved); More Surrey cops zingers; Valtteri Bottas: I’m getting more podiums in cycling than F1; Van der Poel eyes green jersey; LTN news; But cyclists + more on the live blog&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;road.cc&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMihAFodHRwczovL2thc2htaXJhZ2UubmV0LzIwMjEvMTIvMDMvaWxsZWdhbC1lYXJ0aC1maWxsaW5nLW9mLXdldGxhbmQtYWdyaWN1bHR1cmUtbGFuZC1yYW1wYW50LWluLXBhbXBvcmUtaW4tbmV4dXMtd2l0aC1hZG1pbmlzdHJhdGlvbi_SAQA?oc=5</id>
-    <title type="html">Illegal earth filling of wetland, agriculture land rampant in Pampore in nexus with administration - Kashmir Age Newspaper</title>
-    <updated>2021-12-03T07:53:48.000000000Z</updated>
-    <link href="https://kashmirage.net/2021/12/03/illegal-earth-filling-of-wetland-agriculture-land-rampant-in-pampore-in-nexus-with-administration/" type="text/html"/>
-    <content type="html">&lt;a href="https://kashmirage.net/2021/12/03/illegal-earth-filling-of-wetland-agriculture-land-rampant-in-pampore-in-nexus-with-administration/" target="_blank"&gt;Illegal earth filling of wetland, agriculture land rampant in Pampore in nexus with administration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kashmir Age Newspaper&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9mb3JtZXItYmFsaGFtLWJsYXplcnMteW91bmdzdGVyLWZhYmlvLWNhcnZhbGhvLXdpbnMtam9obm55LWhheW5lcy10cm9waHkv0gEA?oc=5</id>
-    <title type="html">Former Balham Blazers youngster Fabio Carvalho wins Johnny Haynes Trophy - London News Online</title>
-    <updated>2021-12-02T11:17:48.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-fabio-carvalho-wins-johnny-haynes-trophy/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-fabio-carvalho-wins-johnny-haynes-trophy/" target="_blank"&gt;Former Balham Blazers youngster Fabio Carvalho wins Johnny Haynes Trophy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2020 in Gigs</title>
