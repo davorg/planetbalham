@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-05T19:15:19Z</updated>
+  <updated>2021-12-05T19:50:25Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -153,35 +153,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Milk figures</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51721609106/"/>
-    <id>tag:flickr.com,2005:/photo/51721609106</id>
-    <published>2021-12-03T14:50:23Z</published>
-    <updated>2021-12-03T14:50:23Z</updated>
-    <flickr:date_taken>2021-12-03T12:52:27-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T12:52:27-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51721609106/" title="Milk figures"&gt;&lt;img src="https://live.staticflickr.com/65535/51721609106_f814a78344_m.jpg" width="240" height="135" alt="Milk figures" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51721609106_f814a78344_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Fruit &amp; Veg.</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51720799702/"/>
     <id>tag:flickr.com,2005:/photo/51720799702</id>
@@ -207,6 +178,38 @@
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Coffee with Tom (1/2)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267624/"/>
+    <id>tag:flickr.com,2005:/photo/51722267624</id>
+    <published>2021-12-03T14:50:23Z</published>
+    <updated>2021-12-03T14:50:23Z</updated>
+    <flickr:date_taken>2021-12-03T13:41:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T13:41:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267624/" title="Coffee with Tom (1/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267624_d206568d16_m.jpg" width="240" height="160" alt="Coffee with Tom (1/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267624_d206568d16_b.jpg"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
