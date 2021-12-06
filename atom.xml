@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-06T08:51:44Z</updated>
+  <updated>2021-12-06T09:15:44Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (33°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-06T07:57:00.000+0000</id>
-    <published>2021-12-06T08:19:08Z</published>
-    <updated>2021-12-06T08:19:08Z</updated>
+    <published>2021-12-06T09:03:33Z</published>
+    <updated>2021-12-06T09:03:33Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Heavy Rain Showers, Minimum Temperature: 4°C (40°F) Maximum Temperature: 8°C (46°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Easterly, Wind Speed: 16mph, Visibility: Good, Pressure: 999mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-06T07:57:00.000+0000</id>
-    <published>2021-12-06T08:19:08Z</published>
-    <updated>2021-12-06T08:19:08Z</updated>
+    <published>2021-12-06T09:03:33Z</published>
+    <updated>2021-12-06T09:03:33Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 987mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-06T07:57:00.000+0000</id>
-    <published>2021-12-06T08:19:08Z</published>
-    <updated>2021-12-06T08:19:08Z</updated>
+    <published>2021-12-06T09:03:33Z</published>
+    <updated>2021-12-06T09:03:33Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmhlcnRmb3Jkc2hpcmVtZXJjdXJ5LmNvLnVrL3doYXRzLW9uL2luYmV0d2VlbmVycy1jYXN0LW5vdy13aGF0LWhhcHBlbmVkLTYyOTQ5MDbSAV9odHRwczovL3d3dy5oZXJ0Zm9yZHNoaXJlbWVyY3VyeS5jby51ay93aGF0cy1vbi9pbmJldHdlZW5lcnMtY2FzdC1ub3ctd2hhdC1oYXBwZW5lZC02Mjk0OTA2LmFtcA?oc=5</id>
@@ -88,67 +88,6 @@
     <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bustling cafe</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
-    <id>tag:flickr.com,2005:/photo/51722267449</id>
-    <published>2021-12-03T14:50:25Z</published>
-    <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:10:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:10:20-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267449/" title="Bustling cafe"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_m.jpg" width="240" height="150" alt="Bustling cafe" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_b.jpg"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Coffee with Tom (2/2)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267544/"/>
-    <id>tag:flickr.com,2005:/photo/51722267544</id>
-    <published>2021-12-03T14:50:24Z</published>
-    <updated>2021-12-03T14:50:24Z</updated>
-    <flickr:date_taken>2021-12-03T13:41:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T13:41:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267544/" title="Coffee with Tom (2/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267544_4e27711ac7_m.jpg" width="240" height="160" alt="Coffee with Tom (2/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267544_4e27711ac7_b.jpg"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -207,6 +146,68 @@
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Coffee with Tom (1/2)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267624/"/>
+    <id>tag:flickr.com,2005:/photo/51722267624</id>
+    <published>2021-12-03T14:50:23Z</published>
+    <updated>2021-12-03T14:50:23Z</updated>
+    <flickr:date_taken>2021-12-03T13:41:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T13:41:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267624/" title="Coffee with Tom (1/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267624_d206568d16_m.jpg" width="240" height="160" alt="Coffee with Tom (1/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267624_d206568d16_b.jpg"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Sci-fi?!</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484580/"/>
+    <id>tag:flickr.com,2005:/photo/51722484580</id>
+    <published>2021-12-03T14:50:22Z</published>
+    <updated>2021-12-03T14:50:22Z</updated>
+    <flickr:date_taken>2021-12-03T12:40:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T12:40:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484580/" title="Sci-fi?!"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484580_edb2d7bbfd_m.jpg" width="240" height="135" alt="Sci-fi?!" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484580_edb2d7bbfd_b.jpg"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="motion" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="panning" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
