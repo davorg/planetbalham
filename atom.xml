@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-06T15:53:23Z</updated>
+  <updated>2021-12-06T16:16:03Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (30°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1005mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-06T09:55:00.000+0000</id>
-    <published>2021-12-06T15:23:34Z</published>
-    <updated>2021-12-06T15:23:34Z</updated>
+    <published>2021-12-06T16:03:30Z</published>
+    <updated>2021-12-06T16:03:30Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Heavy Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (46°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Easterly, Wind Speed: 16mph, Visibility: Good, Pressure: 999mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-06T09:55:00.000+0000</id>
-    <published>2021-12-06T15:23:34Z</published>
-    <updated>2021-12-06T15:23:34Z</updated>
+    <published>2021-12-06T16:03:30Z</published>
+    <updated>2021-12-06T16:03:30Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 987mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-06T09:55:00.000+0000</id>
-    <published>2021-12-06T15:23:34Z</published>
-    <updated>2021-12-06T15:23:34Z</updated>
+    <published>2021-12-06T16:03:30Z</published>
+    <updated>2021-12-06T16:03:30Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS83LW5ldy1yZXN0YXVyYW50cy1vcGVuaW5nLXVwLXRoaXMtZGVjZW1iZXIv0gEA?oc=5</id>
@@ -94,36 +94,6 @@
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>'tis the season</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484105/"/>
-    <id>tag:flickr.com,2005:/photo/51722484105</id>
-    <published>2021-12-03T14:50:25Z</published>
-    <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:25:30-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:25:30-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484105/" title="&amp;#039;tis the season"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_m.jpg" width="240" height="150" alt="&amp;#039;tis the season" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_b.jpg"/>
-    <category term="christmastree" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -184,6 +154,35 @@
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Fruit &amp; Veg.</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51720799702/"/>
+    <id>tag:flickr.com,2005:/photo/51720799702</id>
+    <published>2021-12-03T14:50:23Z</published>
+    <updated>2021-12-03T14:50:23Z</updated>
+    <flickr:date_taken>2021-12-03T12:45:20-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T12:45:20-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51720799702/" title="Fruit &amp;amp; Veg."&gt;&lt;img src="https://live.staticflickr.com/65535/51720799702_9f4531741e_m.jpg" width="240" height="150" alt="Fruit &amp;amp; Veg." /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51720799702_9f4531741e_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="grocers" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
