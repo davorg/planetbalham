@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-08T09:50:36Z</updated>
+  <updated>2021-12-08T10:16:02Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 992mb, Humidity: 68%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-08T07:58:00.000+0000</id>
-    <published>2021-12-08T09:02:23Z</published>
-    <updated>2021-12-08T09:02:23Z</updated>
+    <published>2021-12-08T10:03:14Z</published>
+    <updated>2021-12-08T10:03:14Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1002mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-08T07:58:00.000+0000</id>
-    <published>2021-12-08T09:02:23Z</published>
-    <updated>2021-12-08T09:02:23Z</updated>
+    <published>2021-12-08T10:03:14Z</published>
+    <updated>2021-12-08T10:03:14Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 3°C (36°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (36°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1001mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-08T07:58:00.000+0000</id>
-    <published>2021-12-08T09:02:23Z</published>
-    <updated>2021-12-08T09:02:23Z</updated>
+    <published>2021-12-08T10:03:14Z</published>
+    <updated>2021-12-08T10:03:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vbWVkaWF0ZWwuY28udWsvbmV3cy8yMDIxLzEyLzA4L3JlZHVjaW5nLXRoZS13YXN0ZWZ1bG5lc3Mtb2Ytb3VyLWdpZnRz0gEA?oc=5</id>
+    <title type="html">Mediatel News: Reducing the wastefulness of our gifts - Mediatel News</title>
+    <updated>2021-12-08T10:01:38.000000000Z</updated>
+    <link href="https://mediatel.co.uk/news/2021/12/08/reducing-the-wastefulness-of-our-gifts" type="text/html"/>
+    <content type="html">&lt;a href="https://mediatel.co.uk/news/2021/12/08/reducing-the-wastefulness-of-our-gifts" target="_blank"&gt;Mediatel News: Reducing the wastefulness of our gifts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mediatel News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vc3BvcnRzbGVucy5jb20vbmV3cy9jaGVsc2VhLW5ld3MtYmx1ZXMta2VlcGluZy1hLWNsb3NlLWV5ZS1vbi1mYWJpby1jYXJ2YWxoby_SAQA?oc=5</id>
+    <title type="html">Chelsea news: Blues keeping a close eye on Fabio Carvalho - Sportslens.com</title>
+    <updated>2021-12-08T09:52:00.000000000Z</updated>
+    <link href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" type="text/html"/>
+    <content type="html">&lt;a href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" target="_blank"&gt;Chelsea news: Blues keeping a close eye on Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sportslens.com&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3Lm5tZS5jb20vZmVhdHVyZXMvbm1lLWJlc3QtdHYtc2hvd3Mtb2YtdGhlLXllYXItMjAyMS0zMTEzNjM20gGZAWh0dHBzOi8vd3d3Lm5tZS5jb20vZmVhdHVyZXMvbm1lLWJlc3QtdHYtc2hvd3Mtb2YtdGhlLXllYXItMjAyMS0zMTEzNjM2P3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1ubWUtYmVzdC10di1zaG93cy1vZi10aGUteWVhci0yMDIxJmFtcA?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2021-12-06T16:23:14.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/06122021-small-business-saturday-supporting-local-enterprise-in-south-london/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/06122021-small-business-saturday-supporting-local-enterprise-in-south-london/" target="_blank"&gt;Small Business Saturday: Supporting local enterprise in South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS83LW5ldy1yZXN0YXVyYW50cy1vcGVuaW5nLXVwLXRoaXMtZGVjZW1iZXIv0gEA?oc=5</id>
-    <title type="html">7 New Restaurants Opening Up This December - The Handbook</title>
-    <updated>2021-12-06T09:20:14.000000000Z</updated>
-    <link href="https://www.thehandbook.com/7-new-restaurants-opening-up-this-december/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thehandbook.com/7-new-restaurants-opening-up-this-december/" target="_blank"&gt;7 New Restaurants Opening Up This December&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Handbook&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS1uYXRpb25hbC1oYXMtYmVjb21lLXRoZS1ncmF2ZXlhcmQtb2YtdGFsZW50LW1hbm9yLWF0LXRoZS1seXR0ZWx0b24tcmV2aWV3ZWTSAQA?oc=5</id>
-    <title type="html">The National has become the graveyard of talent: Manor, at the Lyttelton, reviewed - Spectator.co.uk</title>
-    <updated>2021-12-04T08:00:00.000000000Z</updated>
-    <link href="https://www.spectator.co.uk/article/the-national-has-become-the-graveyard-of-talent-manor-at-the-lyttelton-reviewed" type="text/html"/>
-    <content type="html">&lt;a href="https://www.spectator.co.uk/article/the-national-has-become-the-graveyard-of-talent-manor-at-the-lyttelton-reviewed" target="_blank"&gt;The National has become the graveyard of talent: Manor, at the Lyttelton, reviewed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Spectator.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
