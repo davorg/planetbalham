@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-08T05:15:31Z</updated>
+  <updated>2021-12-08T05:51:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 8°C (47°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 986mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 991mb, Humidity: 72%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-07T21:56:00.000+0000</id>
-    <published>2021-12-08T05:00:22Z</published>
-    <updated>2021-12-08T05:00:22Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 8°C (47°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 991mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-07T21:56:00.000+0000</id>
-    <published>2021-12-08T05:00:22Z</published>
-    <updated>2021-12-08T05:00:22Z</updated>
+    <published>2021-12-08T05:49:05Z</published>
+    <updated>2021-12-08T05:49:05Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (47°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1001mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-07T21:56:00.000+0000</id>
+    <published>2021-12-08T05:49:05Z</published>
+    <updated>2021-12-08T05:49:05Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1001mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1000mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-07T21:56:00.000+0000</id>
-    <published>2021-12-08T05:00:22Z</published>
-    <updated>2021-12-08T05:00:22Z</updated>
+    <published>2021-12-08T05:49:05Z</published>
+    <updated>2021-12-08T05:49:05Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEG9ifh-JDefe_V3ohyo65PcqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
+    <title type="html">Christmas wreaths: how to make your own, London’s best wreath-making workshops, plus expert tips and trends - Evening Standard</title>
+    <updated>2021-12-08T05:43:00.000000000Z</updated>
+    <link href="https://www.standard.co.uk/homesandproperty/interiors/christmas-wreaths-2021-london-workshops-make-your-own-b968948.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/interiors/christmas-wreaths-2021-london-workshops-make-your-own-b968948.html" target="_blank"&gt;Christmas wreaths: how to make your own, London’s best wreath-making workshops, plus expert tips and trends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMkPuBKDIAqtJ1QAwwngbI0qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-12-04T07:45:00.000000000Z</updated>
     <link href="https://www.mirror.co.uk/3am/celebrity-news/painful-truth-behind-emma-thompsons-25581107" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/3am/celebrity-news/painful-truth-behind-emma-thompsons-25581107" target="_blank"&gt;Painful truth behind Emma Thompson's Love Actually scene inspired by real life heartbreak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LnByb3BlcnR5MTE4LmNvbS91bmRlcm9jY3VwaWVkLXByb3BlcnR5L9IBAA?oc=5</id>
-    <title type="html">Underoccupied property? - Property118 - Property118</title>
-    <updated>2021-12-03T16:27:33.000000000Z</updated>
-    <link href="https://www.property118.com/underoccupied-property/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.property118.com/underoccupied-property/" target="_blank"&gt;Underoccupied property? - Property118&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Property118&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
