@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-09T03:16:45Z</updated>
+  <updated>2021-12-09T03:50:55Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -196,16 +196,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Fruit &amp; Veg.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51720799702/"/>
-    <id>tag:flickr.com,2005:/photo/51720799702</id>
-    <published>2021-12-03T14:50:23Z</published>
-    <updated>2021-12-03T14:50:23Z</updated>
-    <flickr:date_taken>2021-12-03T12:45:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T12:45:20-08:00</dc:date.Taken>
+    <title>Sci-fi?!</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484580/"/>
+    <id>tag:flickr.com,2005:/photo/51722484580</id>
+    <published>2021-12-03T14:50:22Z</published>
+    <updated>2021-12-03T14:50:22Z</updated>
+    <flickr:date_taken>2021-12-03T12:40:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T12:40:39-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51720799702/" title="Fruit &amp;amp; Veg."&gt;&lt;img src="https://live.staticflickr.com/65535/51720799702_9f4531741e_m.jpg" width="240" height="150" alt="Fruit &amp;amp; Veg." /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484580/" title="Sci-fi?!"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484580_edb2d7bbfd_m.jpg" width="240" height="135" alt="Sci-fi?!" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -214,13 +214,14 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51720799702_9f4531741e_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484580_edb2d7bbfd_b.jpg"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="grocers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="motion" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="panning" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
