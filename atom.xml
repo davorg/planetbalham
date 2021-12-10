@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-10T13:17:59Z</updated>
+  <updated>2021-12-10T13:50:35Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 0°C (31°F) Maximum Temperature: 7°C (45°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (31°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1002mb, Humidity: 70%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1002mb, Humidity: 69%, UV Risk: 0, Pollution: Low, Sunrise: 07:54 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-10T09:54:00.000+0000</id>
-    <published>2021-12-10T13:02:10Z</published>
-    <updated>2021-12-10T13:02:10Z</updated>
+    <published>2021-12-10T13:37:17Z</published>
+    <updated>2021-12-10T13:37:17Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 8°C (47°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-10T09:54:00.000+0000</id>
-    <published>2021-12-10T13:02:10Z</published>
-    <updated>2021-12-10T13:02:10Z</updated>
+    <published>2021-12-10T13:37:17Z</published>
+    <updated>2021-12-10T13:37:17Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thick Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-10T09:54:00.000+0000</id>
-    <published>2021-12-10T13:02:10Z</published>
-    <updated>2021-12-10T13:02:10Z</updated>
+    <published>2021-12-10T13:37:17Z</published>
+    <updated>2021-12-10T13:37:17Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWRyaW5rc2J1c2luZXNzLmNvbS8yMDIxLzEyL2xvbmRvbnMtaG90dGVzdC1yZXN0YXVyYW50LW9wZW5pbmdzLWRlY2VtYmVyL9IBAA?oc=5</id>
+    <title type="html">London's hottest restaurant openings: December - The Drinks Business</title>
+    <updated>2021-12-10T12:08:50.000000000Z</updated>
+    <link href="https://www.thedrinksbusiness.com/2021/12/londons-hottest-restaurant-openings-december/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thedrinksbusiness.com/2021/12/londons-hottest-restaurant-openings-december/" target="_blank"&gt;London's hottest restaurant openings: December&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Drinks Business&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMBAD_BpB47WygFleay9U2MqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-12-08T09:52:00.000000000Z</updated>
     <link href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" type="text/html"/>
     <content type="html">&lt;a href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" target="_blank"&gt;Chelsea news: Blues keeping a close eye on Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sportslens.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJBVRFxn4x2XHYAHeg0boo4qFwgEKg4IACoGCAow_598MLC1CTC36dIG?oc=5</id>
-    <title type="html">The 20 best TV shows of 2021 - NME</title>
-    <updated>2021-12-08T09:00:10.000000000Z</updated>
-    <link href="https://www.nme.com/features/nme-best-tv-shows-of-the-year-2021-3113636" type="text/html"/>
-    <content type="html">&lt;a href="https://www.nme.com/features/nme-best-tv-shows-of-the-year-2021-3113636" target="_blank"&gt;The 20 best TV shows of 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NME&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
