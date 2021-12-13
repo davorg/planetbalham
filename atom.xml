@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-13T19:50:46Z</updated>
+  <updated>2021-12-13T20:15:36Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-13T09:58:00.000+0000</id>
-    <published>2021-12-13T19:43:39Z</published>
-    <updated>2021-12-13T19:43:39Z</updated>
+    <published>2021-12-13T20:00:59Z</published>
+    <updated>2021-12-13T20:00:59Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-13T09:58:00.000+0000</id>
-    <published>2021-12-13T19:43:39Z</published>
-    <updated>2021-12-13T19:43:39Z</updated>
+    <published>2021-12-13T20:00:59Z</published>
+    <updated>2021-12-13T20:00:59Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1031mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 07:59 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-13T09:58:00.000+0000</id>
-    <published>2021-12-13T19:43:39Z</published>
-    <updated>2021-12-13T19:43:39Z</updated>
+    <published>2021-12-13T20:00:59Z</published>
+    <updated>2021-12-13T20:00:59Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZnJhbmNpcy1yb3NzaS10aGV5LXNhaWQtaS1zcGVudC0ybS1vbi1kcnVncy1uby13YXktaXRzLWp1c3QtYS1yb2NrbnJvbGwtbXl0aC1rZG04OGd4ZGrSAQA?oc=5</id>
@@ -93,18 +93,18 @@
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/09122021-olympian-katie-snowden-praises-council-decision-to-fund-athletics-track-resurfacing/" target="_blank"&gt;Olympian Katie Snowden praises council decision to fund athletics track resurfacing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEGs_86LHHtWz_hSZbuSEbk0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">ITV Heartbeat star's marriage to Blue Peter presenter, actor son and tragic death - My London</title>
+    <updated>2021-12-08T18:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/tv/heartbeat-derek-fowlds-marriage-sons-22398864" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/tv/heartbeat-derek-fowlds-marriage-sons-22398864" target="_blank"&gt;ITV Heartbeat star's marriage to Blue Peter presenter, actor son and tragic death&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vc3BvcnRzbGVucy5jb20vbmV3cy9jaGVsc2VhLW5ld3MtYmx1ZXMta2VlcGluZy1hLWNsb3NlLWV5ZS1vbi1mYWJpby1jYXJ2YWxoby_SAQA?oc=5</id>
     <title type="html">Chelsea news: Blues keeping a close eye on Fabio Carvalho - Sportslens.com</title>
     <updated>2021-12-08T09:52:00.000000000Z</updated>
     <link href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" type="text/html"/>
     <content type="html">&lt;a href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" target="_blank"&gt;Chelsea news: Blues keeping a close eye on Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sportslens.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJBVRFxn4x2XHYAHeg0boo4qFwgEKg4IACoGCAow_598MLC1CTC36dIG?oc=5</id>
-    <title type="html">The 20 best TV shows of 2021 - NME</title>
-    <updated>2021-12-08T09:00:10.000000000Z</updated>
-    <link href="https://www.nme.com/features/nme-best-tv-shows-of-the-year-2021-3113636" type="text/html"/>
-    <content type="html">&lt;a href="https://www.nme.com/features/nme-best-tv-shows-of-the-year-2021-3113636" target="_blank"&gt;The 20 best TV shows of 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NME&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
