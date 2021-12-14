@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-14T19:16:06Z</updated>
+  <updated>2021-12-14T19:51:20Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -86,13 +86,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEMBAD_BpB47WygFleay9U2MqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
-    <title type="html">London’s best Christmas wreaths: five spectacular door wreaths with fast delivery or collection - Evening Standard</title>
-    <updated>2021-12-09T17:53:46.000000000Z</updated>
-    <link href="https://www.standard.co.uk/homesandproperty/interiors/best-christmas-wreaths-london-fast-delivery-collection-b970548.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/interiors/best-christmas-wreaths-london-fast-delivery-collection-b970548.html" target="_blank"&gt;London’s best Christmas wreaths: five spectacular door wreaths with fast delivery or collection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CAIiEGs_86LHHtWz_hSZbuSEbk0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">ITV Heartbeat star's marriage to Blue Peter presenter, actor son and tragic death - My London</title>
     <updated>2021-12-08T18:00:00.000000000Z</updated>
@@ -105,6 +98,13 @@
     <updated>2021-12-08T13:12:59.000000000Z</updated>
     <link href="https://www.eta.co.uk/2021/12/08/our-children-deserve-safer-streets/" type="text/html"/>
     <content type="html">&lt;a href="https://www.eta.co.uk/2021/12/08/our-children-deserve-safer-streets/" target="_blank"&gt;Our children deserve safer streets | ETA&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Environmental Transport Association&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vc3BvcnRzbGVucy5jb20vbmV3cy9jaGVsc2VhLW5ld3MtYmx1ZXMta2VlcGluZy1hLWNsb3NlLWV5ZS1vbi1mYWJpby1jYXJ2YWxoby_SAQA?oc=5</id>
+    <title type="html">Chelsea news: Blues keeping a close eye on Fabio Carvalho - Sportslens.com</title>
+    <updated>2021-12-08T09:52:00.000000000Z</updated>
+    <link href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" type="text/html"/>
+    <content type="html">&lt;a href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" target="_blank"&gt;Chelsea news: Blues keeping a close eye on Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sportslens.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
