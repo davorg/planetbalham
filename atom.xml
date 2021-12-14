@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-14T06:53:02Z</updated>
+  <updated>2021-12-14T07:16:06Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-13T21:55:00.000+0000</id>
-    <published>2021-12-14T06:00:27Z</published>
-    <updated>2021-12-14T06:00:27Z</updated>
+    <published>2021-12-14T07:03:27Z</published>
+    <updated>2021-12-14T07:03:27Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1031mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:59 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1031mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 07:59 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-13T21:55:00.000+0000</id>
-    <published>2021-12-14T06:00:27Z</published>
-    <updated>2021-12-14T06:00:27Z</updated>
+    <published>2021-12-14T07:03:27Z</published>
+    <updated>2021-12-14T07:03:27Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1039mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-13T21:55:00.000+0000</id>
-    <published>2021-12-14T06:00:27Z</published>
-    <updated>2021-12-14T06:00:27Z</updated>
+    <published>2021-12-14T07:03:27Z</published>
+    <updated>2021-12-14T07:03:27Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZnJhbmNpcy1yb3NzaS10aGV5LXNhaWQtaS1zcGVudC0ybS1vbi1kcnVncy1uby13YXktaXRzLWp1c3QtYS1yb2NrbnJvbGwtbXl0aC1rZG04OGd4ZGrSAQA?oc=5</id>
+    <title type="html">Francis Rossi: 'They said I spent £2m on drugs. No way. It's just a rock'n'roll myth' - The Times</title>
+    <updated>2021-12-12T00:01:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/francis-rossi-they-said-i-spent-2m-on-drugs-no-way-its-just-a-rocknroll-myth-kdm88gxdj" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/francis-rossi-they-said-i-spent-2m-on-drugs-no-way-its-just-a-rocknroll-myth-kdm88gxdj" target="_blank"&gt;Francis Rossi: 'They said I spent £2m on drugs. No way. It's just a rock'n'roll myth'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Stay Apart</title>
@@ -98,13 +105,6 @@
     <updated>2021-12-08T09:52:00.000000000Z</updated>
     <link href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" type="text/html"/>
     <content type="html">&lt;a href="https://sportslens.com/news/chelsea-news-blues-keeping-a-close-eye-on-fabio-carvalho/" target="_blank"&gt;Chelsea news: Blues keeping a close eye on Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sportslens.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJBVRFxn4x2XHYAHeg0boo4qFwgEKg4IACoGCAow_598MLC1CTC36dIG?oc=5</id>
-    <title type="html">The 20 best TV shows of 2021 - NME</title>
-    <updated>2021-12-08T09:00:10.000000000Z</updated>
-    <link href="https://www.nme.com/features/nme-best-tv-shows-of-the-year-2021-3113636" type="text/html"/>
-    <content type="html">&lt;a href="https://www.nme.com/features/nme-best-tv-shows-of-the-year-2021-3113636" target="_blank"&gt;The 20 best TV shows of 2021&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NME&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>'tis the season</title>
