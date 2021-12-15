@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-15T01:11:41Z</updated>
+  <updated>2021-12-15T02:08:45Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-14T19:59:00.000+0000</id>
-    <published>2021-12-15T01:10:59Z</published>
-    <updated>2021-12-15T01:10:59Z</updated>
+    <published>2021-12-15T02:02:06Z</published>
+    <updated>2021-12-15T02:02:06Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (47°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1031mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-14T19:59:00.000+0000</id>
-    <published>2021-12-15T01:10:59Z</published>
-    <updated>2021-12-15T01:10:59Z</updated>
+    <published>2021-12-15T02:02:06Z</published>
+    <updated>2021-12-15T02:02:06Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-14T19:59:00.000+0000</id>
-    <published>2021-12-15T01:10:59Z</published>
-    <updated>2021-12-15T01:10:59Z</updated>
+    <published>2021-12-15T02:02:06Z</published>
+    <updated>2021-12-15T02:02:06Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2NoYXJsZXMtY2FtaWxsYS1oZWFyLXN0b3JpZXMtZmFtaWxpZXMtMTg0MzE3NTMyLmh0bWzSAV1odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2NoYXJsZXMtY2FtaWxsYS1oZWFyLXN0b3JpZXMtZmFtaWxpZXMtMTg0MzE3NTMyLmh0bWw?oc=5</id>
+    <title type="html">Charles and Camilla hear stories of families in need during foodbank visit - Yahoo Eurosport UK</title>
+    <updated>2021-12-14T18:43:17.000000000Z</updated>
+    <link href="https://uk.sports.yahoo.com/news/charles-camilla-hear-stories-families-184317532.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.sports.yahoo.com/news/charles-camilla-hear-stories-families-184317532.html" target="_blank"&gt;Charles and Camilla hear stories of families in need during foodbank visit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMoMFNN_mNZZ5jADj-JZS2IqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2021-12-14T18:29:37.000000000Z</updated>
     <link href="https://www.mylondon.news/news/tv/bbc-celebrity-antiques-road-trip-22462354" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/tv/bbc-celebrity-antiques-road-trip-22462354" target="_blank"&gt;Chris McCausland's net worth, EastEnders stint and winning Countdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmJpZ2lzc3VlLmNvbS9uZXdzL3NvY2lhbC1qdXN0aWNlL3ByaW5jZS1jaGFybGVzLWFuZC1jYW1pbGxhLXZpc2l0LXNvdXRoLWxvbmRvbi1mb29kLWJhbmstYWhlYWQtb2YtY2hyaXN0bWFzL9IBAA?oc=5</id>
-    <title type="html">Prince Charles and Camilla visit south London food bank ahead of Christmas - Big Issue</title>
-    <updated>2021-12-14T17:47:13.000000000Z</updated>
-    <link href="https://www.bigissue.com/news/social-justice/prince-charles-and-camilla-visit-south-london-food-bank-ahead-of-christmas/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bigissue.com/news/social-justice/prince-charles-and-camilla-visit-south-london-food-bank-ahead-of-christmas/" target="_blank"&gt;Prince Charles and Camilla visit south London food bank ahead of Christmas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Big Issue&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Stay Apart</title>
