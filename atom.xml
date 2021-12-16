@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-16T22:51:11Z</updated>
+  <updated>2021-12-16T23:16:31Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 7°C (44°F)</title>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-16T21:55:00.000+0000</id>
-    <published>2021-12-16T22:18:18Z</published>
-    <updated>2021-12-16T22:18:18Z</updated>
+    <published>2021-12-16T23:03:47Z</published>
+    <updated>2021-12-16T23:03:47Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-16T21:55:00.000+0000</id>
-    <published>2021-12-16T22:18:18Z</published>
-    <updated>2021-12-16T22:18:18Z</updated>
+    <published>2021-12-16T23:03:47Z</published>
+    <updated>2021-12-16T23:03:47Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1040mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1040mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-16T21:55:00.000+0000</id>
-    <published>2021-12-16T22:18:18Z</published>
-    <updated>2021-12-16T22:18:18Z</updated>
+    <published>2021-12-16T23:03:47Z</published>
+    <updated>2021-12-16T23:03:47Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELCFKeoyCfahWRa1Rsda4EcqGQgEKhAIACoHCAow1d6WCzCYha4DMJbMjQc?oc=5</id>
@@ -48,18 +48,18 @@
     <content type="html">&lt;a href="https://www.thecaterer.com/news/restaurant/openings-lussmanns-zia-lucia-alberts-schloss" target="_blank"&gt;Openings Lussmanns Zia Lucia Alberts Schloss...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Caterer&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiECJyvqCVxZobp3VbwZGrcfoqGQgEKhAIACoHCAow0Ij8CjCRwIgDMMnWiAc?oc=5</id>
+    <title type="html">Celebrity Antiques Road Trip star Christopher McCausland is worth a fortune – and even had a role on E... - The Sun</title>
+    <updated>2021-12-15T15:39:00.000000000Z</updated>
+    <link href="https://www.thesun.co.uk/tv/17048163/celebrity-antiques-road-trip-christopher-mccausland-fortune-eastenders/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/tv/17048163/celebrity-antiques-road-trip-christopher-mccausland-fortune-eastenders/" target="_blank"&gt;Celebrity Antiques Road Trip star Christopher McCausland is worth a fortune – and even had a role on E...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEMBAD_BpB47WygFleay9U2MqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
     <title type="html">London’s best Christmas wreaths: spectacular door wreaths with fast delivery or collection - Evening Standard</title>
     <updated>2021-12-15T11:06:12.000000000Z</updated>
     <link href="https://www.standard.co.uk/homesandproperty/interiors/best-christmas-wreaths-london-fast-delivery-collection-b970548.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/interiors/best-christmas-wreaths-london-fast-delivery-collection-b970548.html" target="_blank"&gt;London’s best Christmas wreaths: spectacular door wreaths with fast delivery or collection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEMoMFNN_mNZZ5jADj-JZS2IqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">Chris McCausland's net worth, EastEnders stint and winning Countdown - My London</title>
-    <updated>2021-12-14T18:29:37.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/tv/bbc-celebrity-antiques-road-trip-22462354" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/tv/bbc-celebrity-antiques-road-trip-22462354" target="_blank"&gt;Chris McCausland's net worth, EastEnders stint and winning Countdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmJpZ2lzc3VlLmNvbS9uZXdzL3NvY2lhbC1qdXN0aWNlL3ByaW5jZS1jaGFybGVzLWFuZC1jYW1pbGxhLXZpc2l0LXNvdXRoLWxvbmRvbi1mb29kLWJhbmstYWhlYWQtb2YtY2hyaXN0bWFzL9IBAA?oc=5</id>
