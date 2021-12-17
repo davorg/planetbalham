@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-17T16:59:18Z</updated>
+  <updated>2021-12-17T17:16:36Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
+    <id>https://news.google.com/articles/CAIiELMiKKOD7MzP9Nppim8BdsIqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
+    <title type="html">St George's Hospital festive fundraiser auction helped by local businesses - South West Londoner</title>
+    <updated>2021-12-17T17:13:15.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/news/17122021-st-georges-hospital-festive-fundraiser-auction-helped-by-south-west-london-businesses/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/17122021-st-georges-hospital-festive-fundraiser-auction-helped-by-south-west-london-businesses/" target="_blank"&gt;St George's Hospital festive fundraiser auction helped by local businesses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1040mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-17T09:53:00.000+0000</id>
-    <published>2021-12-17T16:29:09Z</published>
-    <updated>2021-12-17T16:29:09Z</updated>
+    <published>2021-12-17T17:02:42Z</published>
+    <updated>2021-12-17T17:02:42Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 10°C (51°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1040mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-17T09:53:00.000+0000</id>
-    <published>2021-12-17T16:29:09Z</published>
-    <updated>2021-12-17T16:29:09Z</updated>
+    <published>2021-12-17T17:02:42Z</published>
+    <updated>2021-12-17T17:02:42Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1035mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-17T09:53:00.000+0000</id>
-    <published>2021-12-17T16:29:09Z</published>
-    <updated>2021-12-17T16:29:09Z</updated>
+    <published>2021-12-17T17:02:42Z</published>
+    <updated>2021-12-17T17:02:42Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjEvMTIvMTcvZnJlZW1hbi1mZWVsaW5nLWJ1bGxpc2gv0gEA?oc=5</id>
@@ -55,13 +62,6 @@
     <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/interiors/best-christmas-wreaths-london-fast-delivery-collection-b970548.html" target="_blank"&gt;London’s best Christmas wreaths: spectacular door wreaths with fast delivery or collection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiECJyvqCVxZobp3VbwZGrcfoqGQgEKhAIACoHCAow0Ij8CjCRwIgDMMnWiAc?oc=5</id>
-    <title type="html">Celebrity Antiques Road Trip star Christopher McCausland is worth a fortune – and even had a role on E... - The Sun</title>
-    <updated>2021-12-15T15:39:00.000000000Z</updated>
-    <link href="https://www.thesun.co.uk/tv/17048163/celebrity-antiques-road-trip-christopher-mccausland-fortune-eastenders/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thesun.co.uk/tv/17048163/celebrity-antiques-road-trip-christopher-mccausland-fortune-eastenders/" target="_blank"&gt;Celebrity Antiques Road Trip star Christopher McCausland is worth a fortune – and even had a role on E...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jaHJpc3RvcGhlci13YWxrZXItcmV2aWV3cy1tYW5vci1hdC10aGUtbmF0aW9uYWwtdGhlYXRyZS_SAQA?oc=5</id>
     <title type="html">Christopher Walker reviews Manor at the National Theatre - London News Online</title>
     <updated>2021-12-15T12:41:19.000000000Z</updated>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/christopher-walker-reviews-manor-at-the-national-theatre/" target="_blank"&gt;Christopher Walker reviews Manor at the National Theatre&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmJpZ2lzc3VlLmNvbS9uZXdzL3NvY2lhbC1qdXN0aWNlL3ByaW5jZS1jaGFybGVzLWFuZC1jYW1pbGxhLXZpc2l0LXNvdXRoLWxvbmRvbi1mb29kLWJhbmstYWhlYWQtb2YtY2hyaXN0bWFzL9IBAA?oc=5</id>
-    <title type="html">Prince Charles and Camilla visit south London food bank ahead of Christmas - Big Issue</title>
-    <updated>2021-12-14T17:47:13.000000000Z</updated>
-    <link href="https://www.bigissue.com/news/social-justice/prince-charles-and-camilla-visit-south-london-food-bank-ahead-of-christmas/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bigissue.com/news/social-justice/prince-charles-and-camilla-visit-south-london-food-bank-ahead-of-christmas/" target="_blank"&gt;Prince Charles and Camilla visit south London food bank ahead of Christmas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Big Issue&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEMoMFNN_mNZZ5jADj-JZS2IqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">Chris McCausland's net worth, EastEnders stint and winning Countdown - My London</title>
+    <updated>2021-12-14T18:29:37.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/tv/bbc-celebrity-antiques-road-trip-22462354" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/tv/bbc-celebrity-antiques-road-trip-22462354" target="_blank"&gt;Chris McCausland's net worth, EastEnders stint and winning Countdown&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Stay Apart</title>
