@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-23T22:15:28Z</updated>
+  <updated>2021-12-23T22:50:54Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-23T19:00:00.000+0000</id>
-    <published>2021-12-23T22:00:37Z</published>
-    <updated>2021-12-23T22:00:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-23T21:56:00.000+0000</id>
+    <published>2021-12-23T22:31:30Z</published>
+    <updated>2021-12-23T22:31:30Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Friday: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-23T19:00:00.000+0000</id>
-    <published>2021-12-23T22:00:37Z</published>
-    <updated>2021-12-23T22:00:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-23T21:56:00.000+0000</id>
+    <published>2021-12-23T22:31:30Z</published>
+    <updated>2021-12-23T22:31:30Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Thick Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Saturday: Thick Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-23T19:00:00.000+0000</id>
-    <published>2021-12-23T22:00:37Z</published>
-    <updated>2021-12-23T22:00:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-23T21:56:00.000+0000</id>
+    <published>2021-12-23T22:31:30Z</published>
+    <updated>2021-12-23T22:31:30Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay93b21lbi9saWZlL3VucGlja2luZy1teXN0ZXJ5LWJlaGluZC15YXJuYm9tYmluZy1jcmF6ZS_SAQA?oc=5</id>
