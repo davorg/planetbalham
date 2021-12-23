@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-23T15:16:35Z</updated>
+  <updated>2021-12-23T15:52:19Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdG9wLWNvdmlkLWhvdHNwb3RzLW9uZS0xMC0yNTc3Mzc3MtIBTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdG9wLWNvdmlkLWhvdHNwb3RzLW9uZS0xMC0yNTc3Mzc3Mi5hbXA?oc=5</id>
+    <title type="html">Top Covid hotspots with one in 10 people testing positive - see cases in your area - Mirror.co.uk</title>
+    <updated>2021-12-23T15:47:11.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/news/uk-news/top-covid-hotspots-one-10-25773772" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/top-covid-hotspots-one-10-25773772" target="_blank"&gt;Top Covid hotspots with one in 10 people testing positive - see cases in your area&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror.co.uk&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-23T09:56:00.000+0000</id>
-    <published>2021-12-23T15:00:41Z</published>
-    <updated>2021-12-23T15:00:41Z</updated>
+    <published>2021-12-23T15:26:30Z</published>
+    <updated>2021-12-23T15:26:30Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-23T09:56:00.000+0000</id>
-    <published>2021-12-23T15:00:41Z</published>
-    <updated>2021-12-23T15:00:41Z</updated>
+    <published>2021-12-23T15:26:30Z</published>
+    <updated>2021-12-23T15:26:30Z</updated>
   </entry>
   <entry>
     <title>Saturday: Thick Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 8°C (46°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1002mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-23T09:56:00.000+0000</id>
-    <published>2021-12-23T15:00:41Z</published>
-    <updated>2021-12-23T15:00:41Z</updated>
+    <published>2021-12-23T15:26:30Z</published>
+    <updated>2021-12-23T15:26:30Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvcmV2aWV3LTIwMjEtYnJlZWRpbmctYnJlYXRoaW5nLWxpZmUtaW50by10aGUtZ2FtZS02Njk1OTPSAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-12-21T15:42:08.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/craft-group-encourages-residents-to-donate-to-food-banks-with-christmas-themes-post-box-toppers/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/craft-group-encourages-residents-to-donate-to-food-banks-with-christmas-themes-post-box-toppers/" target="_blank"&gt;Craft group encourages residents to donate to food banks with Christmas-themes post box toppers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvMS0yMDAtZm9yLWEtd2Vla3MtY2FyLWhpcmUtanVzdC1ib3Jyb3ctb25lLWluc3RlYWQtYnRtZ3hkbTU20gEA?oc=5</id>
-    <title type="html">£1200 for a week's car hire? Just borrow one instead . . . - The Times</title>
-    <updated>2021-12-19T00:01:00.000000000Z</updated>
-    <link href="https://www.thetimes.co.uk/article/1-200-for-a-weeks-car-hire-just-borrow-one-instead-btmgxdm56" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/1-200-for-a-weeks-car-hire-just-borrow-one-instead-btmgxdm56" target="_blank"&gt;£1200 for a week's car hire? Just borrow one instead . . .&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Stay Apart</title>
@@ -137,16 +137,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Milk figures</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51721609106/"/>
-    <id>tag:flickr.com,2005:/photo/51721609106</id>
-    <published>2021-12-03T14:50:23Z</published>
-    <updated>2021-12-03T14:50:23Z</updated>
-    <flickr:date_taken>2021-12-03T12:52:27-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T12:52:27-08:00</dc:date.Taken>
+    <title>Bustling cafe</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
+    <id>tag:flickr.com,2005:/photo/51722267449</id>
+    <published>2021-12-03T14:50:25Z</published>
+    <updated>2021-12-03T14:50:25Z</updated>
+    <flickr:date_taken>2021-12-03T14:10:20-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T14:10:20-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51721609106/" title="Milk figures"&gt;&lt;img src="https://live.staticflickr.com/65535/51721609106_f814a78344_m.jpg" width="240" height="135" alt="Milk figures" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267449/" title="Bustling cafe"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_m.jpg" width="240" height="150" alt="Bustling cafe" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -155,27 +155,27 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51721609106_f814a78344_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_b.jpg"/>
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Fruit &amp; Veg.</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51720799702/"/>
-    <id>tag:flickr.com,2005:/photo/51720799702</id>
-    <published>2021-12-03T14:50:23Z</published>
-    <updated>2021-12-03T14:50:23Z</updated>
-    <flickr:date_taken>2021-12-03T12:45:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T12:45:20-08:00</dc:date.Taken>
+    <title>Coffee with Tom (2/2)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267544/"/>
+    <id>tag:flickr.com,2005:/photo/51722267544</id>
+    <published>2021-12-03T14:50:24Z</published>
+    <updated>2021-12-03T14:50:24Z</updated>
+    <flickr:date_taken>2021-12-03T13:41:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T13:41:37-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51720799702/" title="Fruit &amp;amp; Veg."&gt;&lt;img src="https://live.staticflickr.com/65535/51720799702_9f4531741e_m.jpg" width="240" height="150" alt="Fruit &amp;amp; Veg." /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267544/" title="Coffee with Tom (2/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267544_4e27711ac7_m.jpg" width="240" height="160" alt="Coffee with Tom (2/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -184,13 +184,16 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51720799702_9f4531741e_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267544_4e27711ac7_b.jpg"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="grocers" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
