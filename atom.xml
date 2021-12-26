@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-26T04:16:03Z</updated>
+  <updated>2021-12-26T04:55:39Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2021-12-26T04:12:32Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMTk4MDc4NDMubm8tdHJhaW5zLXJ1bi1lYXN0LWNyb3lkb24tbG9uZG9uLXZpY3RvcmlhLXBhcnQtdXBncmFkZS1wcm9qZWN0L9IBLWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMTk4MDc4NDMuYW1wLw?oc=5</id>
-    <title type="html">No trains to run between East Croydon and London Victoria as part of upgrade project - The Argus</title>
-    <updated>2021-12-25T05:00:00.000000000Z</updated>
-    <link href="https://www.theargus.co.uk/news/19807843.no-trains-run-east-croydon-london-victoria-part-upgrade-project/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theargus.co.uk/news/19807843.no-trains-run-east-croydon-london-victoria-part-upgrade-project/" target="_blank"&gt;No trains to run between East Croydon and London Victoria as part of upgrade project&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Argus&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9ib29rcy8yMDIxL2RlYy8yNC90cmV2bHluLWRjcnV6LW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Jvb2tzLzIwMjEvZGVjLzI0L3RyZXZseW4tZGNydXotb2JpdHVhcnk?oc=5</id>
     <title type="html">Trevlyn D’Cruz obituary - The Guardian</title>
     <updated>2021-12-24T17:35:00.000000000Z</updated>
@@ -60,6 +53,13 @@
     <updated>2021-12-23T15:47:11.000000000Z</updated>
     <link href="https://www.mirror.co.uk/news/uk-news/top-covid-hotspots-one-10-25773772" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/top-covid-hotspots-one-10-25773772" target="_blank"&gt;Top Covid hotspots with one in 10 people testing positive - see cases in your area&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMS8xMi8yMy9uby10cmFpbi1zZXJ2aWNlcy10by12aWN0b3JpYS1zdGF0aW9uLWZvci0xMC1kYXlzLWFmdGVyLWNocmlzdG1hcy_SAbABaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIxLzEyLzIzL25vLXRyYWluLXNlcnZpY2VzLXRvLXZpY3RvcmlhLXN0YXRpb24tZm9yLTEwLWRheXMtYWZ0ZXItY2hyaXN0bWFzLz9mYmNsaWQ9SXdBUjJiWWVTZXhJdEpDaFR2VnZXUVdSTXJsN3g3a0l1bTBiN3QzRU1tOGVhTlozNnFYLXhmNVV1N1hkOCZhbXA?oc=5</id>
+    <title type="html">No train services to Victoria Station for 10 days after Christmas - Inside Croydon</title>
+    <updated>2021-12-23T11:01:53.000000000Z</updated>
+    <link href="https://insidecroydon.com/2021/12/23/no-train-services-to-victoria-station-for-10-days-after-christmas/" type="text/html"/>
+    <content type="html">&lt;a href="https://insidecroydon.com/2021/12/23/no-train-services-to-victoria-station-for-10-days-after-christmas/" target="_blank"&gt;No train services to Victoria Station for 10 days after Christmas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMif2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jcmFmdC1ncm91cC1lbmNvdXJhZ2VzLXJlc2lkZW50cy10by1kb25hdGUtdG8tZm9vZC1iYW5rcy13aXRoLWNocmlzdG1hcy10aGVtZXMtcG9zdC1ib3gtdG9wcGVycy_SAQA?oc=5</id>
