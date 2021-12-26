@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-26T04:55:39Z</updated>
+  <updated>2021-12-26T05:15:15Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 5°C (41°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1001mb, Humidity: 98%, UV Risk: 0, Pollution: Low, Sunset: 15:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-25T21:54:00.000+0000</id>
-    <published>2021-12-26T04:12:32Z</published>
-    <updated>2021-12-26T04:12:32Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 10°C (51°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:57 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-25T21:54:00.000+0000</id>
-    <published>2021-12-26T04:12:32Z</published>
-    <updated>2021-12-26T04:12:32Z</updated>
+    <published>2021-12-26T05:12:42Z</published>
+    <updated>2021-12-26T05:12:42Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 11°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 991mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:57 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-25T21:54:00.000+0000</id>
+    <published>2021-12-26T05:12:42Z</published>
+    <updated>2021-12-26T05:12:42Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 991mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:58 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 998mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-25T21:54:00.000+0000</id>
-    <published>2021-12-26T04:12:32Z</published>
-    <updated>2021-12-26T04:12:32Z</updated>
+    <published>2021-12-26T05:12:42Z</published>
+    <updated>2021-12-26T05:12:42Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9ib29rcy8yMDIxL2RlYy8yNC90cmV2bHluLWRjcnV6LW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Jvb2tzLzIwMjEvZGVjLzI0L3RyZXZseW4tZGNydXotb2JpdHVhcnk?oc=5</id>
