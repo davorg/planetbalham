@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-29T08:16:40Z</updated>
+  <updated>2021-12-29T08:52:20Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -67,13 +67,6 @@
     <updated>2021-12-21T15:42:08.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/craft-group-encourages-residents-to-donate-to-food-banks-with-christmas-themes-post-box-toppers/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/craft-group-encourages-residents-to-donate-to-food-banks-with-christmas-themes-post-box-toppers/" target="_blank"&gt;Craft group encourages residents to donate to food banks with Christmas-themes post box toppers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmJpZ2lzc3VlLmNvbS9uZXdzL3NvY2lhbC1qdXN0aWNlL3ByaW5jZS1jaGFybGVzLWFuZC1jYW1pbGxhLXZpc2l0LXNvdXRoLWxvbmRvbi1mb29kLWJhbmstYWhlYWQtb2YtY2hyaXN0bWFzL9IBAA?oc=5</id>
-    <title type="html">Prince Charles and Camilla visit south London food bank ahead of Christmas - Big Issue</title>
-    <updated>2021-12-14T08:00:00.000000000Z</updated>
-    <link href="https://www.bigissue.com/news/social-justice/prince-charles-and-camilla-visit-south-london-food-bank-ahead-of-christmas/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bigissue.com/news/social-justice/prince-charles-and-camilla-visit-south-london-food-bank-ahead-of-christmas/" target="_blank"&gt;Prince Charles and Camilla visit south London food bank ahead of Christmas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Big Issue&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham - Stay Apart</title>
@@ -226,6 +219,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9mb3JtZXItYmFsaGFtLWJsYXplcnMteW91bmdzdGVyLWZhYmlvLWNhcnZhbGhvLXdpbnMtam9obm55LWhheW5lcy10cm9waHkv0gEA?oc=5</id>
+    <title type="html">Former Balham Blazers youngster Fabio Carvalho wins Johnny Haynes Trophy - London News Online</title>
+    <updated>2021-12-02T08:00:00.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-fabio-carvalho-wins-johnny-haynes-trophy/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-fabio-carvalho-wins-johnny-haynes-trophy/" target="_blank"&gt;Former Balham Blazers youngster Fabio Carvalho wins Johnny Haynes Trophy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>2020 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2020/12/2020-in-gigs.html" type="text/html"/>
