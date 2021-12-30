@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-30T15:52:08Z</updated>
+  <updated>2021-12-30T16:16:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-30T09:54:00.000+0000</id>
-    <published>2021-12-30T15:24:59Z</published>
-    <updated>2021-12-30T15:24:59Z</updated>
+    <published>2021-12-30T16:02:29Z</published>
+    <updated>2021-12-30T16:02:29Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1016mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-30T09:54:00.000+0000</id>
-    <published>2021-12-30T15:24:59Z</published>
-    <updated>2021-12-30T15:24:59Z</updated>
+    <published>2021-12-30T16:02:29Z</published>
+    <updated>2021-12-30T16:02:29Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-30T09:54:00.000+0000</id>
-    <published>2021-12-30T15:24:59Z</published>
-    <updated>2021-12-30T15:24:59Z</updated>
+    <published>2021-12-30T16:02:29Z</published>
+    <updated>2021-12-30T16:02:29Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bathroom Installation in Balham</title>
@@ -187,6 +187,36 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>'tis the season</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484105/"/>
+    <id>tag:flickr.com,2005:/photo/51722484105</id>
+    <published>2021-12-03T14:50:25Z</published>
+    <updated>2021-12-03T14:50:25Z</updated>
+    <flickr:date_taken>2021-12-03T14:25:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T14:25:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484105/" title="&amp;#039;tis the season"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_m.jpg" width="240" height="150" alt="&amp;#039;tis the season" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_b.jpg"/>
+    <category term="christmastree" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bustling cafe</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
     <id>tag:flickr.com,2005:/photo/51722267449</id>
@@ -212,38 +242,6 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Coffee with Tom (2/2)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267544/"/>
-    <id>tag:flickr.com,2005:/photo/51722267544</id>
-    <published>2021-12-03T14:50:24Z</published>
-    <updated>2021-12-03T14:50:24Z</updated>
-    <flickr:date_taken>2021-12-03T13:41:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T13:41:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267544/" title="Coffee with Tom (2/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267544_4e27711ac7_m.jpg" width="240" height="160" alt="Coffee with Tom (2/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267544_4e27711ac7_b.jpg"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
