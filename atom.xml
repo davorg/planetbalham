@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-30T11:50:35Z</updated>
+  <updated>2021-12-30T12:16:24Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2021-12-30T09:54:00.000+0000</id>
-    <published>2021-12-30T11:23:53Z</published>
-    <updated>2021-12-30T11:23:53Z</updated>
+    <published>2021-12-30T12:00:53Z</published>
+    <updated>2021-12-30T12:00:53Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1016mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2021-12-30T09:54:00.000+0000</id>
-    <published>2021-12-30T11:23:53Z</published>
-    <updated>2021-12-30T11:23:53Z</updated>
+    <published>2021-12-30T12:00:53Z</published>
+    <updated>2021-12-30T12:00:53Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2021-12-30T09:54:00.000+0000</id>
-    <published>2021-12-30T11:23:53Z</published>
-    <updated>2021-12-30T11:23:53Z</updated>
+    <published>2021-12-30T12:00:53Z</published>
+    <updated>2021-12-30T12:00:53Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEHDxH4T93KSc4H1wKp17Vc4qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
+    <title type="html">Southern Rail cancels all trains to London Victoria for two weeks due to staff Covid isolation - My London</title>
+    <updated>2021-12-30T11:48:43.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/southern-rail-cancels-trains-london-22603588" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/southern-rail-cancels-trains-london-22603588" target="_blank"&gt;Southern Rail cancels all trains to London Victoria for two weeks due to staff Covid isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzLzUtZGVjYWRlbnQtbmV3LXllYXJzLWV2ZS10YWtlYXdheXMtZm9yLWlmLXlvdXJlLXN0YXlpbmctaW4tMTIzMDIx0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2021-12-26T19:21:14.000000000Z</updated>
     <link href="https://www.railadvent.co.uk/2021/12/work-on-160m-upgrade-to-london-victoria-to-croydon-railway-continues-until-new-year.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2021/12/work-on-160m-upgrade-to-london-victoria-to-croydon-railway-continues-until-new-year.html" target="_blank"&gt;Work on £160m upgrade to London Victoria to Croydon railway continues until new year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jcmFmdC1ncm91cC1lbmNvdXJhZ2VzLXJlc2lkZW50cy10by1kb25hdGUtdG8tZm9vZC1iYW5rcy13aXRoLWNocmlzdG1hcy10aGVtZXMtcG9zdC1ib3gtdG9wcGVycy_SAQA?oc=5</id>
-    <title type="html">Craft group encourages residents to donate to food banks with Christmas-themes post box toppers - London News Online</title>
-    <updated>2021-12-21T15:42:08.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/craft-group-encourages-residents-to-donate-to-food-banks-with-christmas-themes-post-box-toppers/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/craft-group-encourages-residents-to-donate-to-food-banks-with-christmas-themes-post-box-toppers/" target="_blank"&gt;Craft group encourages residents to donate to food banks with Christmas-themes post box toppers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl in South London</title>
