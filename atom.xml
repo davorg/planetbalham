@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-06T03:52:18Z</updated>
+  <updated>2022-01-06T04:16:03Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-05T21:52:00.000+0000</id>
-    <published>2022-01-06T03:32:12Z</published>
-    <updated>2022-01-06T03:32:12Z</updated>
+    <published>2022-01-06T04:00:14Z</published>
+    <updated>2022-01-06T04:00:14Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 6°C (44°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (44°F), Minimum Temperature: 2°C (36°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:09 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-05T21:52:00.000+0000</id>
-    <published>2022-01-06T03:32:12Z</published>
-    <updated>2022-01-06T03:32:12Z</updated>
+    <published>2022-01-06T04:00:14Z</published>
+    <updated>2022-01-06T04:00:14Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 6°C (43°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-05T21:52:00.000+0000</id>
-    <published>2022-01-06T03:32:12Z</published>
-    <updated>2022-01-06T03:32:12Z</updated>
+    <published>2022-01-06T04:00:14Z</published>
+    <updated>2022-01-06T04:00:14Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiamh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93b21hbi1kaWVzLWFmdGVyLWxpdmluZy1vbi1iZW5jaC1pbi1mcm9udC1vZi10b290aW5nLWxpYnJhcnktZm9yLXNpeC15ZWFycy_SAQA?oc=5</id>
@@ -114,11 +114,11 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEHDxH4T93KSc4H1wKp17Vc4qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">Southern Rail cancels all trains to London Victoria for two weeks due to staff Covid isolation - My London</title>
-    <updated>2021-12-30T11:48:43.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/southern-rail-cancels-trains-london-22603588" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/southern-rail-cancels-trains-london-22603588" target="_blank"&gt;Southern Rail cancels all trains to London Victoria for two weeks due to staff Covid isolation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiENmgMOAR63mRhbVpOHSj7CkqGQgEKhAIACoHCAowzc-JCzDQ5psDMPrxsgc?oc=5</id>
+    <title type="html">Southern Rail cancels trains to London Victoria for two weeks - Metro.co.uk</title>
+    <updated>2021-12-30T11:24:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2021/12/30/southern-rail-cancels-trains-to-london-victoria-for-two-weeks-15840479/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2021/12/30/southern-rail-cancels-trains-to-london-victoria-for-two-weeks-15840479/" target="_blank"&gt;Southern Rail cancels trains to London Victoria for two weeks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzLzUtZGVjYWRlbnQtbmV3LXllYXJzLWV2ZS10YWtlYXdheXMtZm9yLWlmLXlvdXJlLXN0YXlpbmctaW4tMTIzMDIx0gEA?oc=5</id>
@@ -126,6 +126,13 @@
     <updated>2021-12-30T10:00:00.000000000Z</updated>
     <link href="https://www.timeout.com/london/news/5-decadent-new-years-eve-takeaways-for-if-youre-staying-in-123021" type="text/html"/>
     <content type="html">&lt;a href="https://www.timeout.com/london/news/5-decadent-new-years-eve-takeaways-for-if-youre-staying-in-123021" target="_blank"&gt;5 decadent New Year's Eve takeaways for if you're staying in&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEIsRxVGosHvgma9BUPtCek0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
+    <title type="html">Why Balham is every brunch-lover's dream - My London</title>
+    <updated>2021-12-27T07:30:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/food-drink-news/balham-every-brunch-lovers-dream-22522690" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/balham-every-brunch-lovers-dream-22522690" target="_blank"&gt;Why Balham is every brunch-lover's dream&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl in South London</title>
