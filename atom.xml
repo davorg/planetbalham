@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-08T06:55:03Z</updated>
+  <updated>2022-01-08T07:16:01Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (36°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 999mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-07T21:47:00.000+0000</id>
-    <published>2022-01-08T06:04:44Z</published>
-    <updated>2022-01-08T06:04:44Z</updated>
+    <published>2022-01-08T07:05:43Z</published>
+    <updated>2022-01-08T07:05:43Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1004mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-07T21:47:00.000+0000</id>
-    <published>2022-01-08T06:04:44Z</published>
-    <updated>2022-01-08T06:04:44Z</updated>
+    <published>2022-01-08T07:05:43Z</published>
+    <updated>2022-01-08T07:05:43Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-07T21:47:00.000+0000</id>
-    <published>2022-01-08T06:04:44Z</published>
-    <updated>2022-01-08T06:04:44Z</updated>
+    <published>2022-01-08T07:05:43Z</published>
+    <updated>2022-01-08T07:05:43Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMilgFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL2FydGljbGUuY2ZtP2lkPTE0MTYxMiZoZWFkbGluZT1OZXclMjBGYXJuaGFtJTIwVG93biUyMG1hbmFnZXIlMjBhc3Nlc3NpbmclMjBoaXMlMjBwbGF5ZXJzJnNlY3Rpb25Jcz1zcG9ydCZzZWFyY2h5ZWFyPTIwMjLSAQA?oc=5</id>
+    <title type="html">New Farnham Town manager assessing his players - Bordon Herald</title>
+    <updated>2022-01-08T07:01:23.000000000Z</updated>
+    <link href="https://www.bordonherald.com/article.cfm?id=141612&amp;headline=New%20Farnham%20Town%20manager%20assessing%20his%20players&amp;sectionIs=sport&amp;searchyear=2022" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bordonherald.com/article.cfm?id=141612&amp;headline=New%20Farnham%20Town%20manager%20assessing%20his%20players&amp;sectionIs=sport&amp;searchyear=2022" target="_blank"&gt;New Farnham Town manager assessing his players&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bordon Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS1ob3Jyb3JzLW9mLTE5MjItaW5jbHVkZWQtYXRyb2NpdGllcy1hc3Nhc3NpbmF0aW9ucy1hbmQtdGhlLXJpc2Utb2YtbXVzc29saW5p0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-01-06T12:18:28.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/london-trains-southern-rail-return-22662515" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-trains-southern-rail-return-22662515" target="_blank"&gt;Southern Rail to return to London Victoria as Covid chaos continues&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93b21hbi1kaWVzLWFmdGVyLWxpdmluZy1vbi1iZW5jaC1pbi1mcm9udC1vZi10b290aW5nLWxpYnJhcnktZm9yLXNpeC15ZWFycy_SAQA?oc=5</id>
-    <title type="html">Mother dies after living on bench in front of Tooting Library for six years - London News Online</title>
-    <updated>2022-01-04T12:15:27.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/woman-dies-after-living-on-bench-in-front-of-tooting-library-for-six-years/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/woman-dies-after-living-on-bench-in-front-of-tooting-library-for-six-years/" target="_blank"&gt;Mother dies after living on bench in front of Tooting Library for six years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Radiator Installation in Wandsworth</title>
