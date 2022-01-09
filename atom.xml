@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-09T12:16:42Z</updated>
+  <updated>2022-01-09T12:59:12Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1004mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-09T09:56:00.000+0000</id>
-    <published>2022-01-09T12:01:34Z</published>
-    <updated>2022-01-09T12:01:34Z</updated>
+    <published>2022-01-09T12:22:25Z</published>
+    <updated>2022-01-09T12:22:25Z</updated>
   </entry>
   <entry>
     <title>Monday: Thick Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-09T09:56:00.000+0000</id>
-    <published>2022-01-09T12:01:34Z</published>
-    <updated>2022-01-09T12:01:34Z</updated>
+    <published>2022-01-09T12:22:25Z</published>
+    <updated>2022-01-09T12:22:25Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-09T09:56:00.000+0000</id>
-    <published>2022-01-09T12:01:34Z</published>
-    <updated>2022-01-09T12:01:34Z</updated>
+    <published>2022-01-09T12:22:25Z</published>
+    <updated>2022-01-09T12:22:25Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIyLzAxLzA5LzQ5OTUzL3Rvcm5hZG8td2FybmluZy1zdGV3YXJ0LWxlZXMtc2hvdy1iYWNrLW9uLXRoZS1yb2Fk0gEA?oc=5</id>
@@ -218,16 +218,16 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bustling cafe</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
-    <id>tag:flickr.com,2005:/photo/51722267449</id>
+    <title>'tis the season</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484105/"/>
+    <id>tag:flickr.com,2005:/photo/51722484105</id>
     <published>2021-12-03T14:50:25Z</published>
     <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:10:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:10:20-08:00</dc:date.Taken>
+    <flickr:date_taken>2021-12-03T14:25:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-03T14:25:30-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267449/" title="Bustling cafe"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_m.jpg" width="240" height="150" alt="Bustling cafe" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484105/" title="&amp;#039;tis the season"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_m.jpg" width="240" height="150" alt="&amp;#039;tis the season" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -236,13 +236,14 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_b.jpg"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_b.jpg"/>
+    <category term="christmastree" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pets" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
