@@ -7,39 +7,78 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-10T20:15:40Z</updated>
+  <updated>2022-01-10T20:50:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 8°C (46°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 16:14 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 16:14 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-10T09:56:00.000+0000</id>
-    <published>2022-01-10T20:04:11Z</published>
-    <updated>2022-01-10T20:04:11Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-10T19:57:00.000+0000</id>
+    <published>2022-01-10T20:44:35Z</published>
+    <updated>2022-01-10T20:44:35Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 10°C (51°F)</title>
+    <title>Tuesday: Light Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-10T09:56:00.000+0000</id>
-    <published>2022-01-10T20:04:11Z</published>
-    <updated>2022-01-10T20:04:11Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-10T19:57:00.000+0000</id>
+    <published>2022-01-10T20:44:35Z</published>
+    <updated>2022-01-10T20:44:35Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580?day=2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 16:16 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 16:16 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-10T09:56:00.000+0000</id>
-    <published>2022-01-10T20:04:11Z</published>
-    <updated>2022-01-10T20:04:11Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-10T19:57:00.000+0000</id>
+    <published>2022-01-10T20:44:35Z</published>
+    <updated>2022-01-10T20:44:35Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Route 315, Abellio London, 8126, YX13EHN</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/51812402274/"/>
+    <id>tag:flickr.com,2005:/photo/51812402274</id>
+    <published>2022-01-10T11:52:11Z</published>
+    <updated>2022-01-10T11:52:11Z</updated>
+    <flickr:date_taken>2021-12-11T16:17:23-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-11T16:17:23-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/51812402274/" title="Route 315, Abellio London, 8126, YX13EHN"&gt;&lt;img src="https://live.staticflickr.com/65535/51812402274_027247d3bb_m.jpg" width="240" height="160" alt="Route 315, Abellio London, 8126, YX13EHN" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;8126 is pictured on stand at Balham Station awaiting its next trip to West Norwood&lt;/p&gt;</content>
+    <author>
+      <name>Jack Marian</name>
+      <uri>https://www.flickr.com/people/londonbuses1/</uri>
+      <flickr:nsid>66490030@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1625093146#66490030@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51812402274_027247d3bb_b.jpg"/>
+    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="8126" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx13ehn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennisenviro200dart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEP37ok-dIFvGlntXFOHu3tQqGQgEKhAIACoHCAow1d6WCzCYha4DMJbMjQc?oc=5</id>
     <title type="html">Tortilla reports revenue of 48.1m for 2021 - The Caterer</title>
@@ -150,6 +189,34 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Bathroom Installation in Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/greenphs/51787301771/"/>
+    <id>tag:flickr.com,2005:/photo/51787301771</id>
+    <published>2021-12-30T13:37:42Z</published>
+    <updated>2021-12-30T13:37:42Z</updated>
+    <flickr:date_taken>2021-12-30T05:34:41-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-30T05:34:41-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/greenphs/"&gt;GreenPHS&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/greenphs/51787301771/" title="Bathroom Installation in Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51787301771_af6429e12c_m.jpg" width="180" height="240" alt="Bathroom Installation in Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are looking for Bathroom Installation in Balham then Green Plumbers and Heating Services Ltd also known as GPHs can solve your problems including Boiler Installation in Clapham and Wandsworth. Get in touch today 07881 277385 &amp;amp; Visit &lt;a href="https://www.greenphs.co.uk/" rel="noreferrer nofollow"&gt;www.greenphs.co.uk/&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>GreenPHS</name>
+      <uri>https://www.flickr.com/people/greenphs/</uri>
+      <flickr:nsid>193626928@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/193626928@N08.jpg?1627450307#193626928@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51787301771_af6429e12c_z.jpg"/>
+    <category term="bathroominstallationinbalham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bathroominstallation" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greenphs" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Girl in South London</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/november_song/51752376538/"/>
     <id>tag:flickr.com,2005:/photo/51752376538</id>
@@ -229,65 +296,6 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
     <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sticker" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>'tis the season</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484105/"/>
-    <id>tag:flickr.com,2005:/photo/51722484105</id>
-    <published>2021-12-03T14:50:25Z</published>
-    <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:25:30-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:25:30-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484105/" title="&amp;#039;tis the season"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_m.jpg" width="240" height="150" alt="&amp;#039;tis the season" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_b.jpg"/>
-    <category term="christmastree" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bustling cafe</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722267449/"/>
-    <id>tag:flickr.com,2005:/photo/51722267449</id>
-    <published>2021-12-03T14:50:25Z</published>
-    <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:10:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:10:20-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722267449/" title="Bustling cafe"&gt;&lt;img src="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_m.jpg" width="240" height="150" alt="Bustling cafe" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722267449_98f5ccb50b_b.jpg"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
