@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-10T13:51:41Z</updated>
+  <updated>2022-01-10T14:16:00Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 8°C (46°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-10T09:56:00.000+0000</id>
-    <published>2022-01-10T13:40:51Z</published>
-    <updated>2022-01-10T13:40:51Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 10°C (51°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-10T09:56:00.000+0000</id>
-    <published>2022-01-10T13:40:51Z</published>
-    <updated>2022-01-10T13:40:51Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (44°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 16:16 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-10T09:56:00.000+0000</id>
-    <published>2022-01-10T13:40:51Z</published>
-    <updated>2022-01-10T13:40:51Z</updated>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 315, Abellio London, 8126, YX13EHN</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/51812402274/"/>
@@ -79,6 +49,36 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-10T09:56:00.000+0000</id>
+    <published>2022-01-10T10:38:25Z</published>
+    <updated>2022-01-10T10:38:25Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 10°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-10T09:56:00.000+0000</id>
+    <published>2022-01-10T10:38:25Z</published>
+    <updated>2022-01-10T10:38:25Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (44°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 16:16 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-10T09:56:00.000+0000</id>
+    <published>2022-01-10T10:38:25Z</published>
+    <updated>2022-01-10T10:38:25Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEP37ok-dIFvGlntXFOHu3tQqGQgEKhAIACoHCAow1d6WCzCYha4DMJbMjQc?oc=5</id>
     <title type="html">Tortilla reports revenue of 48.1m for 2021 - The Caterer</title>
@@ -144,18 +144,18 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <content type="html">&lt;a href="https://londonist.com/london/things-to-do/things-to-do-in-london-this-week-10-16-january-2022" target="_blank"&gt;Things To Do In London This Week: 10-16 January 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMilwFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9hcnRpY2xlLmNmbT9pZD0xNDE2MTImaGVhZGxpbmU9TmV3JTIwRmFybmhhbSUyMFRvd24lMjBtYW5hZ2VyJTIwYXNzZXNzaW5nJTIwaGlzJTIwcGxheWVycyZzZWN0aW9uSXM9c3BvcnQmc2VhcmNoeWVhcj0yMDIy0gEA?oc=5</id>
+    <title type="html">New Farnham Town manager assessing his players - Farnham Herald</title>
+    <updated>2022-01-08T07:07:39.000000000Z</updated>
+    <link href="https://www.farnhamherald.com/article.cfm?id=141612&amp;headline=New%20Farnham%20Town%20manager%20assessing%20his%20players&amp;sectionIs=sport&amp;searchyear=2022" type="text/html"/>
+    <content type="html">&lt;a href="https://www.farnhamherald.com/article.cfm?id=141612&amp;headline=New%20Farnham%20Town%20manager%20assessing%20his%20players&amp;sectionIs=sport&amp;searchyear=2022" target="_blank"&gt;New Farnham Town manager assessing his players&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Farnham Herald&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9vYml0dWFyaWVzLzIwMjIvMDEvMDcvYmVybmllLWNvbGVtYW4tc3VjY2Vzc2Z1bC1wdWJsaWNhbi1iZWNhbWUtY29tbWl0dGVkLWJlbmVmYWN0b3Iv0gEA?oc=5</id>
     <title type="html">Bernie Coleman, successful publican who became a committed benefactor of English cricket and football – obituary - Telegraph.co.uk</title>
     <updated>2022-01-07T12:36:00.000000000Z</updated>
     <link href="https://www.telegraph.co.uk/obituaries/2022/01/07/bernie-coleman-successful-publican-became-committed-benefactor/" type="text/html"/>
     <content type="html">&lt;a href="https://www.telegraph.co.uk/obituaries/2022/01/07/bernie-coleman-successful-publican-became-committed-benefactor/" target="_blank"&gt;Bernie Coleman, successful publican who became a committed benefactor of English cricket and football – obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEEFJkLtRkE35f-7_usQP5kIqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
-    <title type="html">London Tube passenger numbers plummet to lowest level in 8 months - Evening Standard</title>
-    <updated>2022-01-07T11:29:21.000000000Z</updated>
-    <link href="https://www.standard.co.uk/news/london/london-tube-passenger-numbers-lowest-level-eight-months-pandemic-tfl-wfh-omicron-b975194.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/news/london/london-tube-passenger-numbers-lowest-level-eight-months-pandemic-tfl-wfh-omicron-b975194.html" target="_blank"&gt;London Tube passenger numbers plummet to lowest level in 8 months&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Radiator Installation in Wandsworth</title>
