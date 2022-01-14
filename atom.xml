@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-13T23:51:27Z</updated>
+  <updated>2022-01-14T00:18:11Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (32°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 86%, UV Risk: 0, Pollution: Very High, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-13T21:54:00.000+0000</id>
-    <published>2022-01-13T23:38:55Z</published>
-    <updated>2022-01-13T23:38:55Z</updated>
+    <published>2022-01-14T00:01:18Z</published>
+    <updated>2022-01-14T00:01:18Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 2°C (35°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1036mb, Humidity: 81%, UV Risk: 1, Pollution: Very High, Sunrise: 08:00 GMT, Sunset: 16:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-13T21:54:00.000+0000</id>
-    <published>2022-01-13T23:38:55Z</published>
-    <updated>2022-01-13T23:38:55Z</updated>
+    <published>2022-01-14T00:01:18Z</published>
+    <updated>2022-01-14T00:01:18Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 83%, UV Risk: 0, Pollution: Very High, Sunrise: 07:59 GMT, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-13T21:54:00.000+0000</id>
-    <published>2022-01-13T23:38:55Z</published>
-    <updated>2022-01-13T23:38:55Z</updated>
+    <published>2022-01-14T00:01:18Z</published>
+    <updated>2022-01-14T00:01:18Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBWslSEHxDGpDJDzJaPDFXYqGQgEKhAIACoHCAow5qqNCzD4q58DMNbmkAc?oc=5</id>
@@ -75,6 +75,45 @@
     <link href="https://www.tntmagazine.com/archive/restaurant-review-brother-marcus/" type="text/html"/>
     <content type="html">&lt;a href="https://www.tntmagazine.com/archive/restaurant-review-brother-marcus/" target="_blank"&gt;Restaurant Review: Brother Marcus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TNT Magazine&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Route 315, Abellio London, 8126, YX13EHN</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/51812402274/"/>
+    <id>tag:flickr.com,2005:/photo/51812402274</id>
+    <published>2022-01-10T11:52:11Z</published>
+    <updated>2022-01-10T11:52:11Z</updated>
+    <flickr:date_taken>2021-12-11T16:17:23-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-11T16:17:23-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/51812402274/" title="Route 315, Abellio London, 8126, YX13EHN"&gt;&lt;img src="https://live.staticflickr.com/65535/51812402274_027247d3bb_m.jpg" width="240" height="160" alt="Route 315, Abellio London, 8126, YX13EHN" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;8126 is pictured on stand at Balham Station awaiting its next trip to West Norwood&lt;/p&gt;</content>
+    <author>
+      <name>Jack Marian</name>
+      <uri>https://www.flickr.com/people/londonbuses1/</uri>
+      <flickr:nsid>66490030@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1625093146#66490030@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51812402274_027247d3bb_b.jpg"/>
+    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="8126" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx13ehn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennisenviro200dart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>2021 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/01/2021-in-gigs.html" type="text/html"/>
@@ -257,36 +296,6 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
     <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sticker" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>'tis the season</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51722484105/"/>
-    <id>tag:flickr.com,2005:/photo/51722484105</id>
-    <published>2021-12-03T14:50:25Z</published>
-    <updated>2021-12-03T14:50:25Z</updated>
-    <flickr:date_taken>2021-12-03T14:25:30-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-03T14:25:30-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51722484105/" title="&amp;#039;tis the season"&gt;&lt;img src="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_m.jpg" width="240" height="150" alt="&amp;#039;tis the season" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51722484105_e5d7eb1cab_b.jpg"/>
-    <category term="christmastree" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dogs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
