@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-17T08:53:19Z</updated>
+  <updated>2022-01-17T09:15:42Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 16:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-17T07:02:00.000+0000</id>
-    <published>2022-01-17T08:24:42Z</published>
-    <updated>2022-01-17T08:24:42Z</updated>
+    <published>2022-01-17T09:04:08Z</published>
+    <updated>2022-01-17T09:04:08Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 4°C (40°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1037mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-17T07:02:00.000+0000</id>
-    <published>2022-01-17T08:24:42Z</published>
-    <updated>2022-01-17T08:24:42Z</updated>
+    <published>2022-01-17T09:04:08Z</published>
+    <updated>2022-01-17T09:04:08Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-17T07:02:00.000+0000</id>
-    <published>2022-01-17T08:24:42Z</published>
-    <updated>2022-01-17T08:24:42Z</updated>
+    <published>2022-01-17T09:04:08Z</published>
+    <updated>2022-01-17T09:04:08Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMingFodHRwczovL3d3dy5lYXN0Ym91cm5laGVyYWxkLmNvLnVrL25ld3MvdHJhbnNwb3J0L3NvdXRoZXJuLXJhaWwtcmVkdWNlZC10aW1ldGFibGUtY2hhbmdlcy1mcm9tLW1vbmRheS1qYW51YXJ5LTE3LW9uLXJvdXRlcy1saW5rZWQtd2l0aC1sb25kb24tdmljdG9yaWEtMzUyOTc3M9IBAA?oc=5</id>
+    <title type="html">Starting today: Southern Rail's reduced timetable changes on routes linked with London Victoria - Eastbourne Herald</title>
+    <updated>2022-01-17T08:56:00.000000000Z</updated>
+    <link href="https://www.eastbourneherald.co.uk/news/transport/southern-rail-reduced-timetable-changes-from-monday-january-17-on-routes-linked-with-london-victoria-3529773" type="text/html"/>
+    <content type="html">&lt;a href="https://www.eastbourneherald.co.uk/news/transport/southern-rail-reduced-timetable-changes-from-monday-january-17-on-routes-linked-with-london-victoria-3529773" target="_blank"&gt;Starting today: Southern Rail's reduced timetable changes on routes linked with London Victoria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eastbourne Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOGh0dHBzOi8vd3d3LmJveGluZ25ld3NvbmxpbmUubmV0L2JyaXRpc2gtYm94ZXItcmFua2luZ3Mv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-01-14T23:44:24.000000000Z</updated>
     <link href="https://www.mylondon.news/lifestyle/travel/new-london-underground-signs-youll-22761461" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/travel/new-london-underground-signs-youll-22761461" target="_blank"&gt;New London Underground signs you'll spot as TfL gears up for Northern line closure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECKX7CfwNc6cPko9p_Vz6_QqGAgEKg8IACoHCAowqa6gCTCuoHAw2YaLAw?oc=5</id>
-    <title type="html">Tube driver brings joy to people's miserable commutes by singing to passengers - The Mirror</title>
-    <updated>2022-01-14T17:22:38.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/news/uk-news/tube-driver-brings-joy-peoples-25949484" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/tube-driver-brings-joy-peoples-25949484" target="_blank"&gt;Tube driver brings joy to people's miserable commutes by singing to passengers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 315, Abellio London, 8126, YX13EHN</title>
