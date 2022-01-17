@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-17T17:01:04Z</updated>
+  <updated>2022-01-17T17:18:04Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Mist, Minimum Temperature: 0°C (31°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (31°F), Wind Direction: South Westerly, Wind Speed: 4mph, Visibility: Very Poor, Pressure: 1039mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 16:24 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-17T09:54:00.000+0000</id>
+    <published>2022-01-17T17:01:15Z</published>
+    <updated>2022-01-17T17:01:15Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 7°C (45°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 5°C (40°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Very Poor, Pressure: 1037mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-17T09:54:00.000+0000</id>
+    <published>2022-01-17T17:01:15Z</published>
+    <updated>2022-01-17T17:01:15Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (47°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-17T09:54:00.000+0000</id>
+    <published>2022-01-17T17:01:15Z</published>
+    <updated>2022-01-17T17:01:15Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMI2WtU43XKISPUA_IRKECMqGQgEKhAIACoHCAowzuOICzCZ4ocDMN-YowY?oc=5</id>
     <title type="html">Massage therapist faces jail for sexually assaulting female patient, 25, who moaned but had sciatica - Daily Mail</title>
