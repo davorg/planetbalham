@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-23T08:16:17Z</updated>
+  <updated>2022-01-23T08:50:45Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1036mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 16:34 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-22T21:55:00.000+0000</id>
-    <published>2022-01-23T08:02:33Z</published>
-    <updated>2022-01-23T08:02:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-23T07:01:00.000+0000</id>
+    <published>2022-01-23T08:22:53Z</published>
+    <updated>2022-01-23T08:22:53Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 6°C (43°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 2°C (35°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1034mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 1°C (34°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1034mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-22T21:55:00.000+0000</id>
-    <published>2022-01-23T08:02:33Z</published>
-    <updated>2022-01-23T08:02:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-23T07:01:00.000+0000</id>
+    <published>2022-01-23T08:22:53Z</published>
+    <updated>2022-01-23T08:22:53Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 6°C (43°F)</title>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1035mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1035mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-22T21:55:00.000+0000</id>
-    <published>2022-01-23T08:02:33Z</published>
-    <updated>2022-01-23T08:02:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-23T07:01:00.000+0000</id>
+    <published>2022-01-23T08:22:53Z</published>
+    <updated>2022-01-23T08:22:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmZhcm5oYW1oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL2Zhcm5oYW0tdG93bi1ib3NzLXdlcmUtbm90LXNjYXJlZC1vZi1hbnlvbmUtNTAzMTMx0gEA?oc=5</id>
@@ -100,45 +100,6 @@
     <category term="5837" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Route 315, Abellio London, 8126, YX13EHN</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/51812402274/"/>
-    <id>tag:flickr.com,2005:/photo/51812402274</id>
-    <published>2022-01-10T11:52:11Z</published>
-    <updated>2022-01-10T11:52:11Z</updated>
-    <flickr:date_taken>2021-12-11T16:17:23-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-11T16:17:23-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/51812402274/" title="Route 315, Abellio London, 8126, YX13EHN"&gt;&lt;img src="https://live.staticflickr.com/65535/51812402274_027247d3bb_m.jpg" width="240" height="160" alt="Route 315, Abellio London, 8126, YX13EHN" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;8126 is pictured on stand at Balham Station awaiting its next trip to West Norwood&lt;/p&gt;</content>
-    <author>
-      <name>Jack Marian</name>
-      <uri>https://www.flickr.com/people/londonbuses1/</uri>
-      <flickr:nsid>66490030@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1625093146#66490030@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51812402274_027247d3bb_b.jpg"/>
-    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="8126" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx13ehn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennisenviro200dart" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -293,6 +254,37 @@ James Biggs of Bristol claimed to have invented the white cane in 1921. After an
     <category term="cane" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1921" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="82gsl45" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham - Stay Apart</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sheeprus/51738288527/"/>
+    <id>tag:flickr.com,2005:/photo/51738288527</id>
+    <published>2021-12-10T19:00:00Z</published>
+    <updated>2021-12-10T19:00:00Z</updated>
+    <flickr:date_taken>2021-12-02T15:13:22-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-02T15:13:22-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/sheeprus/"&gt;Sheep&amp;quot;R&amp;quot;Us&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/sheeprus/51738288527/" title="Balham - Stay Apart"&gt;&lt;img src="https://live.staticflickr.com/65535/51738288527_81b790bf83_m.jpg" width="240" height="240" alt="Balham - Stay Apart" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A sign on the pavement, presumably to promote social distancing, but it just reminds me of the &amp;quot;togetherness&amp;quot; posters but with completely the opposite meaning.&lt;/p&gt;</content>
+    <author>
+      <name>Sheep"R"Us</name>
+      <uri>https://www.flickr.com/people/sheeprus/</uri>
+      <flickr:nsid>29675285@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3136/buddyicons/29675285@N02.jpg?1219085747#29675285@N02</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51738288527_81b790bf83_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sticker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
