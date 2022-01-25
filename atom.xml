@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-25T07:52:23Z</updated>
+  <updated>2022-01-25T08:16:19Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1034mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-24T21:54:00.000+0000</id>
-    <published>2022-01-25T07:05:31Z</published>
-    <updated>2022-01-25T07:05:31Z</updated>
+    <published>2022-01-25T08:06:20Z</published>
+    <updated>2022-01-25T08:06:20Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (47°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1034mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-24T21:54:00.000+0000</id>
-    <published>2022-01-25T07:05:31Z</published>
-    <updated>2022-01-25T07:05:31Z</updated>
+    <published>2022-01-25T08:06:20Z</published>
+    <updated>2022-01-25T08:06:20Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1027mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-24T21:54:00.000+0000</id>
-    <published>2022-01-25T07:05:31Z</published>
-    <updated>2022-01-25T07:05:31Z</updated>
+    <published>2022-01-25T08:06:20Z</published>
+    <updated>2022-01-25T08:06:20Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMimAFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L3ByZW1pZXItbGVhZ3VlL2dzYi1tdXN0LXNhbmN0aW9uLXdlc3QtaGFtLXN3b29wLWZvci11bnBsYXlhYmxlLSVDMiVBMzVtLWdlbS1oZXMtbGFuemluaXMtcGVyZmVjdC1oZWlyLW9waW5pb24vYXItQUFUNjNlZ9IBAA?oc=5</id>
@@ -49,10 +49,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3LmZ1bGhhbXN3Ni5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbnR1YmUyMjAxMjkuaHRt0gEA?oc=5</id>
-    <title type="html">Forthcoming Disruption on Public Transport - London - Fulhamsw6.com</title>
+    <title type="html">Forthcoming Disruption on Public Transport - Fulhamsw6.com</title>
     <updated>2022-01-24T16:59:43.000000000Z</updated>
     <link href="https://www.fulhamsw6.com/page/shared/common/contube220129.htm" type="text/html"/>
-    <content type="html">&lt;a href="https://www.fulhamsw6.com/page/shared/common/contube220129.htm" target="_blank"&gt;Forthcoming Disruption on Public Transport - London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fulhamsw6.com&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://www.fulhamsw6.com/page/shared/common/contube220129.htm" target="_blank"&gt;Forthcoming Disruption on Public Transport&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fulhamsw6.com&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvaG93LWJhbGhhbS1mYy1zY2FsZWQtdXAtZnJvbS0xLXRlYW0tdG8tMjUtd2l0aC1hLWxpdHRsZS1oZWxwLWZyb20tc3BvbmQtMzAxNDY1OTExLmh0bWzSAQA?oc=5</id>
@@ -75,6 +75,34 @@
     <link href="https://www.swlondoner.co.uk/news/21012022-south-west-london-safe-space-initiative-seeks-to-protect-women-from-violence-with-help-from-local-businesses/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/21012022-south-west-london-safe-space-initiative-seeks-to-protect-women-from-violence-with-help-from-local-businesses/" target="_blank"&gt;South West London's safe space scheme to protect women from violence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>5807 BAL 0853-SUO, 5837 0827 SCY-VIC 19-1-22</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51831108494/"/>
+    <id>tag:flickr.com,2005:/photo/51831108494</id>
+    <published>2022-01-19T21:17:15Z</published>
+    <updated>2022-01-19T21:17:15Z</updated>
+    <flickr:date_taken>2022-01-19T10:10:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-01-19T10:10:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51831108494/" title="5807 BAL 0853-SUO, 5837 0827 SCY-VIC 19-1-22"&gt;&lt;img src="https://live.staticflickr.com/65535/51831108494_3b1a90fa1f_m.jpg" width="240" height="162" alt="5807 BAL 0853-SUO, 5837 0827 SCY-VIC 19-1-22" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On 19 January 2022, 5837 stops at Balham on the 0827 South Croydon - Victoria as 5807 awaits departure on the 0853 to Sutton. At present, an emergency timetable is in operation on Southern, leading to scenes such as this. The fast line island platform normally sees very little use.&lt;/p&gt;</content>
+    <author>
+      <name>6089Gardener</name>
+      <uri>https://www.flickr.com/people/60539035@N02/</uri>
+      <flickr:nsid>60539035@N02</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51831108494_3b1a90fa1f_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="5807" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="5837" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Route 315, Abellio London, 8126, YX13EHN</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/51812402274/"/>
@@ -185,34 +213,6 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bathroom Installation in Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/greenphs/51787301771/"/>
-    <id>tag:flickr.com,2005:/photo/51787301771</id>
-    <published>2021-12-30T13:37:42Z</published>
-    <updated>2021-12-30T13:37:42Z</updated>
-    <flickr:date_taken>2021-12-30T05:34:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-12-30T05:34:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/greenphs/"&gt;GreenPHS&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/greenphs/51787301771/" title="Bathroom Installation in Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/51787301771_af6429e12c_m.jpg" width="180" height="240" alt="Bathroom Installation in Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are looking for Bathroom Installation in Balham then Green Plumbers and Heating Services Ltd also known as GPHs can solve your problems including Boiler Installation in Clapham and Wandsworth. Get in touch today 07881 277385 &amp;amp; Visit &lt;a href="https://www.greenphs.co.uk/" rel="noreferrer nofollow"&gt;www.greenphs.co.uk/&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>GreenPHS</name>
-      <uri>https://www.flickr.com/people/greenphs/</uri>
-      <flickr:nsid>193626928@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/193626928@N08.jpg?1627450307#193626928@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51787301771_af6429e12c_z.jpg"/>
-    <category term="bathroominstallationinbalham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bathroominstallation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greenphs" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
