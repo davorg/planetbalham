@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-25T17:16:00Z</updated>
+  <updated>2022-01-25T17:51:31Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-25T09:54:00.000+0000</id>
     <published>2022-01-25T17:11:46Z</published>
     <updated>2022-01-25T17:11:46Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEPDt1ASB5yUGi0xUf36gr88qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">'Most dog-friendly restaurant' coming to Kingston on site of old Laura Ashley shop - My London</title>
+    <updated>2022-01-25T16:53:14.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/most-dog-friendly-restaurant-coming-22868095" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/most-dog-friendly-restaurant-coming-22868095" target="_blank"&gt;'Most dog-friendly restaurant' coming to Kingston on site of old Laura Ashley shop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"The Balham Partnership"</title>
@@ -219,13 +226,6 @@
     <updated>2022-01-24T09:00:00.000000000Z</updated>
     <link href="https://www.prnewswire.com/news-releases/how-balham-fc-scaled-up-from-1-team-to-25-with-a-little-help-from-spond-301465911.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.prnewswire.com/news-releases/how-balham-fc-scaled-up-from-1-team-to-25-with-a-little-help-from-spond-301465911.html" target="_blank"&gt;How Balham FC Scaled Up from 1 Team to 25 with A Little Help from Spond&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PRNewswire&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm5hdGlvbi5say9vbmxpbmUvcm95YWwtbWFpbC1kZWxpdmVyeS1jaGFvcy1pbXBhY3RzLW1vcmUtdGhhbi0yNTAtMDAwLWhvbWVzLTE2ODA0OS5odG1s0gEA?oc=5</id>
-    <title type="html">Royal Mail delivery chaos impacts more than 250000 homes - nation.lk - The Nation Newspaper</title>
-    <updated>2022-01-21T21:03:25.000000000Z</updated>
-    <link href="https://www.nation.lk/online/royal-mail-delivery-chaos-impacts-more-than-250-000-homes-168049.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.nation.lk/online/royal-mail-delivery-chaos-impacts-more-than-250-000-homes-168049.html" target="_blank"&gt;Royal Mail delivery chaos impacts more than 250000 homes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;nation.lk - The Nation Newspaper&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2021 in Gigs</title>
