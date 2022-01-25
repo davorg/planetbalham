@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-25T17:51:31Z</updated>
+  <updated>2022-01-25T18:16:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 2°C (36°F)</title>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 2°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1035mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1035mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-25T09:54:00.000+0000</id>
-    <published>2022-01-25T17:11:46Z</published>
-    <updated>2022-01-25T17:11:46Z</updated>
+    <published>2022-01-25T18:12:21Z</published>
+    <updated>2022-01-25T18:12:21Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (47°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1034mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-25T09:54:00.000+0000</id>
-    <published>2022-01-25T17:11:46Z</published>
-    <updated>2022-01-25T17:11:46Z</updated>
+    <published>2022-01-25T18:12:21Z</published>
+    <updated>2022-01-25T18:12:21Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-25T09:54:00.000+0000</id>
-    <published>2022-01-25T17:11:46Z</published>
-    <updated>2022-01-25T17:11:46Z</updated>
+    <published>2022-01-25T18:12:21Z</published>
+    <updated>2022-01-25T18:12:21Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L2Zvb3RiYWxsL2JpZWxzYS1jb3VsZC1maW5hbGx5LXJlcGxhY2Utc2Fpei13aXRoLWxlZWRzLXN3b29wLWZvci11bnBsYXlhYmxlLTE5LXktby1zZW5zYXRpb24tb3Bpbmlvbi9hci1BQVQ4YXl30gEA?oc=5</id>
+    <title type="html">Bielsa could finally replace Saiz with Leeds swoop for "unplayable" 19 y/o sensation - opinion - MSN UK</title>
+    <updated>2022-01-25T17:33:01.000000000Z</updated>
+    <link href="https://www.msn.com/en-gb/sport/football/bielsa-could-finally-replace-saiz-with-leeds-swoop-for-unplayable-19-y-o-sensation-opinion/ar-AAT8ayw" type="text/html"/>
+    <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/football/bielsa-could-finally-replace-saiz-with-leeds-swoop-for-unplayable-19-y-o-sensation-opinion/ar-AAT8ayw" target="_blank"&gt;Bielsa could finally replace Saiz with Leeds swoop for "unplayable" 19 y/o sensation - opinion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPDt1ASB5yUGi0xUf36gr88qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -205,13 +212,6 @@
     <updated>2022-01-25T16:09:41.000000000Z</updated>
     <link href="https://www.theargus.co.uk/news/19873719.no-trains-run-london-victoria-weekend/" type="text/html"/>
     <content type="html">&lt;a href="https://www.theargus.co.uk/news/19873719.no-trains-run-london-victoria-weekend/" target="_blank"&gt;No trains to run to or from London Victoria this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Argus&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMimAFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL3Nwb3J0L3ByZW1pZXItbGVhZ3VlL2dzYi1tdXN0LXNhbmN0aW9uLXdlc3QtaGFtLXN3b29wLWZvci11bnBsYXlhYmxlLSVDMiVBMzVtLWdlbS1oZXMtbGFuemluaXMtcGVyZmVjdC1oZWlyLW9waW5pb24vYXItQUFUNjNlZ9IBAA?oc=5</id>
-    <title type="html">GSB must sanction West Ham swoop for "unplayable" £5m gem, he's Lanzini's perfect heir - opinion - MSN UK</title>
-    <updated>2022-01-24T17:32:01.000000000Z</updated>
-    <link href="https://www.msn.com/en-gb/sport/premier-league/gsb-must-sanction-west-ham-swoop-for-unplayable-%C2%A35m-gem-hes-lanzinis-perfect-heir-opinion/ar-AAT63eg" type="text/html"/>
-    <content type="html">&lt;a href="https://www.msn.com/en-gb/sport/premier-league/gsb-must-sanction-west-ham-swoop-for-unplayable-%C2%A35m-gem-hes-lanzinis-perfect-heir-opinion/ar-AAT63eg" target="_blank"&gt;GSB must sanction West Ham swoop for "unplayable" £5m gem, he's Lanzini's perfect heir - opinion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MSN UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3LmZ1bGhhbXN3Ni5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbnR1YmUyMjAxMjkuaHRt0gEA?oc=5</id>
