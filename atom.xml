@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-27T09:15:53Z</updated>
+  <updated>2022-01-27T09:51:16Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 0°C (33°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1028mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 0°C (33°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1028mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-27T07:59:00.000+0000</id>
-    <published>2022-01-27T09:04:12Z</published>
-    <updated>2022-01-27T09:04:12Z</updated>
+    <published>2022-01-27T09:43:19Z</published>
+    <updated>2022-01-27T09:43:19Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 10°C (49°F)</title>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 10°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1035mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:45 GMT, Sunset: 16:43 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-27T07:59:00.000+0000</id>
-    <published>2022-01-27T09:04:12Z</published>
-    <updated>2022-01-27T09:04:12Z</updated>
+    <published>2022-01-27T09:43:19Z</published>
+    <updated>2022-01-27T09:43:19Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1027mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-27T07:59:00.000+0000</id>
-    <published>2022-01-27T09:04:12Z</published>
-    <updated>2022-01-27T09:04:12Z</updated>
+    <published>2022-01-27T09:43:19Z</published>
+    <updated>2022-01-27T09:43:19Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMigwFodHRwczovL2plcnNleWV2ZW5pbmdwb3N0LmNvbS9zcG9ydC9mb290YmFsbC8yMDIyLzAxLzI3L3NwcmluZ2ZpZWxkLXRvLWNsb3NlLWZvci1zaXgtd2Vla3MtYXMtY29udHJhY3RvcnMtZmFzdC10cmFjay1waXRjaC11cGdyYWRlL9IBAA?oc=5</id>
+    <title type="html">Springfield to close for six weeks as contractors fast-track pitch upgrade - Jersey Evening Post</title>
+    <updated>2022-01-27T09:18:52.000000000Z</updated>
+    <link href="https://jerseyeveningpost.com/sport/football/2022/01/27/springfield-to-close-for-six-weeks-as-contractors-fast-track-pitch-upgrade/" type="text/html"/>
+    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2022/01/27/springfield-to-close-for-six-weeks-as-contractors-fast-track-pitch-upgrade/" target="_blank"&gt;Springfield to close for six weeks as contractors fast-track pitch upgrade&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiqAFodHRwczovL2xpdmVycG9vbG9mZnNpZGUuc2JuYXRpb24uY29tL2xpdmVycG9vbC1mYy10cmFuc2Zlci1uZXdzLzIwMjIvMS8yNS8yMjkwMDU2NC9mdWxoYW0taG9wZWZ1bC1uZXctY29udHJhY3QtbGl2ZXJwb29sLWZjLXRyYW5zZmVyLXRhcmdldC1mYWJpby1jYXJ2YWxoby1jb21wZW5zYXRpb27SAbUBaHR0cHM6Ly9saXZlcnBvb2xvZmZzaWRlLnNibmF0aW9uLmNvbS9wbGF0Zm9ybS9hbXAvbGl2ZXJwb29sLWZjLXRyYW5zZmVyLW5ld3MvMjAyMi8xLzI1LzIyOTAwNTY0L2Z1bGhhbS1ob3BlZnVsLW5ldy1jb250cmFjdC1saXZlcnBvb2wtZmMtdHJhbnNmZXItdGFyZ2V0LWZhYmlvLWNhcnZhbGhvLWNvbXBlbnNhdGlvbg?oc=5</id>
@@ -105,35 +112,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Tunnel walker</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51842821964/"/>
-    <id>tag:flickr.com,2005:/photo/51842821964</id>
-    <published>2022-01-25T16:15:06Z</published>
-    <updated>2022-01-25T16:15:06Z</updated>
-    <flickr:date_taken>2022-01-25T12:46:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-01-25T12:46:20-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51842821964/" title="Tunnel walker"&gt;&lt;img src="https://live.staticflickr.com/65535/51842821964_a0de88aa05_m.jpg" width="240" height="135" alt="Tunnel walker" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Denmark Hill, Balham&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842821964_a0de88aa05_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Latte art and Tom bokeh</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51841518752/"/>
     <id>tag:flickr.com,2005:/photo/51841518752</id>
@@ -167,16 +145,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Too many pics?</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51842455536/"/>
-    <id>tag:flickr.com,2005:/photo/51842455536</id>
+    <title>Cafe pesce?</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51841519652/"/>
+    <id>tag:flickr.com,2005:/photo/51841519652</id>
     <published>2022-01-25T16:15:05Z</published>
     <updated>2022-01-25T16:15:05Z</updated>
-    <flickr:date_taken>2022-01-25T11:33:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-01-25T11:33:38-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-01-25T11:33:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-01-25T11:33:31-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51842455536/" title="Too many pics?"&gt;&lt;img src="https://live.staticflickr.com/65535/51842455536_f294a1cc8b_m.jpg" width="240" height="160" alt="Too many pics?" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51841519652/" title="Cafe pesce?"&gt;&lt;img src="https://live.staticflickr.com/65535/51841519652_97db4eb575_m.jpg" width="240" height="160" alt="Cafe pesce?" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Milk, Hildreth Street, Balham&lt;/p&gt;</content>
     <author>
@@ -185,7 +163,40 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842455536_f294a1cc8b_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51841519652_97db4eb575_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Coffee with Tom</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51842569258/"/>
+    <id>tag:flickr.com,2005:/photo/51842569258</id>
+    <published>2022-01-25T16:15:04Z</published>
+    <updated>2022-01-25T16:15:04Z</updated>
+    <flickr:date_taken>2022-01-25T11:33:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-01-25T11:33:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51842569258/" title="Coffee with Tom"&gt;&lt;img src="https://live.staticflickr.com/65535/51842569258_43aa90e6a9_m.jpg" width="240" height="160" alt="Coffee with Tom" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Milk, Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842569258_43aa90e6a9_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
@@ -219,13 +230,6 @@
     <updated>2022-01-24T09:00:00.000000000Z</updated>
     <link href="https://www.prnewswire.com/news-releases/how-balham-fc-scaled-up-from-1-team-to-25-with-a-little-help-from-spond-301465911.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.prnewswire.com/news-releases/how-balham-fc-scaled-up-from-1-team-to-25-with-a-little-help-from-spond-301465911.html" target="_blank"&gt;How Balham FC Scaled Up from 1 Team to 25 with A Little Help from Spond&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PRNewswire&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmxpcGhvb2toZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL2Zhcm5oYW0tdG93bi1ib3NzLXdlcmUtbm90LXNjYXJlZC1vZi1hbnlvbmUtNTAzMTMx0gEA?oc=5</id>
-    <title type="html">Farnham Town boss: We're not scared of anyone... - Liphook Herald</title>
-    <updated>2022-01-22T07:01:28.000000000Z</updated>
-    <link href="https://www.liphookherald.com/sport/football/farnham-town-boss-were-not-scared-of-anyone-503131" type="text/html"/>
-    <content type="html">&lt;a href="https://www.liphookherald.com/sport/football/farnham-town-boss-were-not-scared-of-anyone-503131" target="_blank"&gt;Farnham Town boss: We're not scared of anyone...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liphook Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2021 in Gigs</title>
