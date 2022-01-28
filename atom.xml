@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-28T10:16:06Z</updated>
+  <updated>2022-01-28T10:51:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2VhdGhlci9zdHVubmluZy1waWN0dXJlcy1zcGVjdGFjdWxhci1nbG93aW5nLXBpbmstMjI5MDMwOTDSAVlodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3dlYXRoZXIvc3R1bm5pbmctcGljdHVyZXMtc3BlY3RhY3VsYXItZ2xvd2luZy1waW5rLTIyOTAzMDkwLmFtcA?oc=5</id>
+    <title type="html">Stunning pictures of the spectacular glowing pink sky over London this morning - MyLondon</title>
+    <updated>2022-01-28T10:30:22.000000000Z</updated>
+    <link href="https://www.mylondon.news/weather/stunning-pictures-spectacular-glowing-pink-22903090" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/weather/stunning-pictures-spectacular-glowing-pink-22903090" target="_blank"&gt;Stunning pictures of the spectacular glowing pink sky over London this morning&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2022-01-27T20:46:15.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/food-drink-news/i-went-south-london-cafe-22896807" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/i-went-south-london-cafe-22896807" target="_blank"&gt;'I went to South London cafe Milk where people actually queue for brunch'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMigwFodHRwczovL2plcnNleWV2ZW5pbmdwb3N0LmNvbS9zcG9ydC9mb290YmFsbC8yMDIyLzAxLzI3L3NwcmluZ2ZpZWxkLXRvLWNsb3NlLWZvci1zaXgtd2Vla3MtYXMtY29udHJhY3RvcnMtZmFzdC10cmFjay1waXRjaC11cGdyYWRlL9IBAA?oc=5</id>
-    <title type="html">Springfield to close for six weeks as contractors fast-track pitch upgrade - Jersey Evening Post</title>
-    <updated>2022-01-27T09:18:52.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2022/01/27/springfield-to-close-for-six-weeks-as-contractors-fast-track-pitch-upgrade/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2022/01/27/springfield-to-close-for-six-weeks-as-contractors-fast-track-pitch-upgrade/" target="_blank"&gt;Springfield to close for six weeks as contractors fast-track pitch upgrade&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"The Balham Partnership"</title>
