@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-28T23:50:37Z</updated>
+  <updated>2022-01-29T00:17:45Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (49°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1029mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-28T21:55:00.000+0000</id>
-    <published>2022-01-28T23:43:06Z</published>
-    <updated>2022-01-28T23:43:06Z</updated>
+    <published>2022-01-29T00:02:39Z</published>
+    <updated>2022-01-29T00:02:39Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1028mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-28T21:55:00.000+0000</id>
-    <published>2022-01-28T23:43:06Z</published>
-    <updated>2022-01-28T23:43:06Z</updated>
+    <published>2022-01-29T00:02:39Z</published>
+    <updated>2022-01-29T00:02:39Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-28T21:55:00.000+0000</id>
-    <published>2022-01-28T23:43:06Z</published>
-    <updated>2022-01-28T23:43:06Z</updated>
+    <published>2022-01-29T00:02:39Z</published>
+    <updated>2022-01-29T00:02:39Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2NhcnMvYXJ0aWNsZS0xMDQ0Nzk5OS9UZW4tY2hhbmdlcy1IaWdod2F5LUNvZGUtdG9kYXktbW90b3Jpc3RzLWtub3cuaHRtbNIBcGh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2NhcnMvYXJ0aWNsZS0xMDQ0Nzk5OS9hbXAvVGVuLWNoYW5nZXMtSGlnaHdheS1Db2RlLXRvZGF5LW1vdG9yaXN0cy1rbm93Lmh0bWw?oc=5</id>
+    <title type="html">Ten changes to the Highway Code today that motorists must know - This is Money</title>
+    <updated>2022-01-29T00:01:00.000000000Z</updated>
+    <link href="https://www.thisismoney.co.uk/money/cars/article-10447999/Ten-changes-Highway-Code-today-motorists-know.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thisismoney.co.uk/money/cars/article-10447999/Ten-changes-Highway-Code-today-motorists-know.html" target="_blank"&gt;Ten changes to the Highway Code today that motorists must know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Money&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIyL2phbi8yOC9jaGFtcGlvbnNoaXAtZnV0dXJlLXN0YXJzLWFuZC1mbHVjdHVhdGluZy1mb3J0dW5lcy13ZWVrZW5kLWluLXRoZS1zdW7SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-01-28T09:30:00.000000000Z</updated>
     <link href="https://www.theregister.com/2022/01/28/bofh_2022_episode_2/" type="text/html"/>
     <content type="html">&lt;a href="https://www.theregister.com/2022/01/28/bofh_2022_episode_2/" target="_blank"&gt;BOFH: On Wednesdays, we wear gloves&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Register&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmJvcmRvbmhlcmFsZC5jb20vc3BvcnQvZm9vdGJhbGwvZmFybmhhbS10b3duLWV5ZWluZy1hLXNwZWN0YWN1bGFyLWZ1dHVyZS01MDMxNjDSAQA?oc=5</id>
-    <title type="html">Farnham Town eyeing a spectacular future - Bordon Herald</title>
-    <updated>2022-01-28T07:11:07.000000000Z</updated>
-    <link href="https://www.bordonherald.com/sport/football/farnham-town-eyeing-a-spectacular-future-503160" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bordonherald.com/sport/football/farnham-town-eyeing-a-spectacular-future-503160" target="_blank"&gt;Farnham Town eyeing a spectacular future&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bordon Herald&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"The Balham Partnership"</title>
