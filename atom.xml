@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-29T02:51:50Z</updated>
+  <updated>2022-01-29T03:15:19Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-28T21:55:00.000+0000</id>
-    <published>2022-01-29T02:45:39Z</published>
-    <updated>2022-01-29T02:45:39Z</updated>
+    <published>2022-01-29T03:00:53Z</published>
+    <updated>2022-01-29T03:00:53Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1028mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-28T21:55:00.000+0000</id>
-    <published>2022-01-29T02:45:39Z</published>
-    <updated>2022-01-29T02:45:39Z</updated>
+    <published>2022-01-29T03:00:53Z</published>
+    <updated>2022-01-29T03:00:53Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-28T21:55:00.000+0000</id>
-    <published>2022-01-29T02:45:39Z</published>
-    <updated>2022-01-29T02:45:39Z</updated>
+    <published>2022-01-29T03:00:53Z</published>
+    <updated>2022-01-29T03:00:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMGZY0J7n68adekmubAjlOUqGQgEKhAIACoHCAow4uGPCzDQpKMDMPH0rwY?oc=5</id>
@@ -98,35 +98,6 @@
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Tom in the light</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51842454236/"/>
-    <id>tag:flickr.com,2005:/photo/51842454236</id>
-    <published>2022-01-25T16:15:07Z</published>
-    <updated>2022-01-25T16:15:07Z</updated>
-    <flickr:date_taken>2022-01-25T12:46:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-01-25T12:46:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51842454236/" title="Tom in the light"&gt;&lt;img src="https://live.staticflickr.com/65535/51842454236_be5d26b22c_m.jpg" width="240" height="135" alt="Tom in the light" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Denmark Hill, Balham&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842454236_be5d26b22c_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tom" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tunnels" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
@@ -214,6 +185,39 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842455536_f294a1cc8b_b.jpg"/>
+    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Cafe pesce?</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51841519652/"/>
+    <id>tag:flickr.com,2005:/photo/51841519652</id>
+    <published>2022-01-25T16:15:05Z</published>
+    <updated>2022-01-25T16:15:05Z</updated>
+    <flickr:date_taken>2022-01-25T11:33:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-01-25T11:33:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51841519652/" title="Cafe pesce?"&gt;&lt;img src="https://live.staticflickr.com/65535/51841519652_97db4eb575_m.jpg" width="240" height="160" alt="Cafe pesce?" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Milk, Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51841519652_97db4eb575_b.jpg"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
