@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-30T06:51:09Z</updated>
+  <updated>2022-01-30T07:15:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 5°C (40°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 5°C (40°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1032mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1032mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 16:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-29T07:57:00.000+0000</id>
-    <published>2022-01-30T06:04:15Z</published>
-    <updated>2022-01-30T06:04:15Z</updated>
+    <published>2022-01-30T07:05:12Z</published>
+    <updated>2022-01-30T07:05:12Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1025mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1025mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-29T07:57:00.000+0000</id>
-    <published>2022-01-30T06:04:15Z</published>
-    <updated>2022-01-30T06:04:15Z</updated>
+    <published>2022-01-30T07:05:12Z</published>
+    <updated>2022-01-30T07:05:12Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1020mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-29T07:57:00.000+0000</id>
-    <published>2022-01-30T06:04:15Z</published>
-    <updated>2022-01-30T06:04:15Z</updated>
+    <published>2022-01-30T07:05:12Z</published>
+    <updated>2022-01-30T07:05:12Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoZW5vbmxlYWd1ZWZvb3RiYWxscGFwZXIuY29tL2xhdGVzdC1uZXdzL25vbi1sZWFndWUtcGFwZXIvNDE4MjY1L2J1bGxzLWluLWxvY2tvdXQv0gEA?oc=5</id>
