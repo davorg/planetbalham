@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-30T21:15:14Z</updated>
+  <updated>2022-01-30T21:51:05Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 4°C (39°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 16:46 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-30T07:18:00.000+0000</id>
+    <published>2022-01-30T21:19:14Z</published>
+    <updated>2022-01-30T21:19:14Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 8°C (47°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1025mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 GMT, Sunset: 16:48 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-30T07:18:00.000+0000</id>
+    <published>2022-01-30T21:19:14Z</published>
+    <updated>2022-01-30T21:19:14Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (55°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-30T07:18:00.000+0000</id>
+    <published>2022-01-30T21:19:14Z</published>
+    <updated>2022-01-30T21:19:14Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEME2ic-wOBC1kPQck6Wv9wIqGAgEKg8IACoHCAowqa6gCTCuoHAw7YqLAw?oc=5</id>
     <title type="html">Liverpool looking to follow up Luis Diaz transfer with second deal before deadline - The Mirror</title>
