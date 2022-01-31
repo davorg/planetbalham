@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-31T22:15:11Z</updated>
+  <updated>2022-01-31T22:51:02Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 4°C (39°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 4°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 16:48 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (40°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 16:48 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-31T19:01:00.000+0000</id>
-    <published>2022-01-31T22:02:42Z</published>
-    <updated>2022-01-31T22:02:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-01-31T21:58:00.000+0000</id>
+    <published>2022-01-31T22:36:21Z</published>
+    <updated>2022-01-31T22:36:21Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Thick Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 13°C (56°F)</title>
@@ -26,19 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1021mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-31T19:01:00.000+0000</id>
-    <published>2022-01-31T22:02:42Z</published>
-    <updated>2022-01-31T22:02:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-01-31T21:58:00.000+0000</id>
+    <published>2022-01-31T22:36:21Z</published>
+    <updated>2022-01-31T22:36:21Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-31T19:01:00.000+0000</id>
-    <published>2022-01-31T22:02:42Z</published>
-    <updated>2022-01-31T22:02:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-01-31T21:58:00.000+0000</id>
+    <published>2022-01-31T22:36:21Z</published>
+    <updated>2022-01-31T22:36:21Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMilgFodHRwczovL3d3dy55YXJkYmFya2VyLmNvbS9zb2NjZXIvYXJ0aWNsZXMvcmFjZV9hZ2FpbnN0X3RoZV9kZWFkbGluZV9jbG9ja19mb3JfbGl2ZXJwb29sX2FzX3RoZXlfYWdyZWVfMTBtX3RyYW5zZmVyX2ZlZV9mb3JfYXR0YWNrZXIvczFfMTU5NTNfMzcxMzM4MjjSAQA?oc=5</id>
+    <title type="html">Race against the deadline clock for Liverpool as they agree €10m transfer fee for attacker - Yardbarker</title>
+    <updated>2022-01-31T22:23:19.000000000Z</updated>
+    <link href="https://www.yardbarker.com/soccer/articles/race_against_the_deadline_clock_for_liverpool_as_they_agree_10m_transfer_fee_for_attacker/s1_15953_37133828" type="text/html"/>
+    <content type="html">&lt;a href="https://www.yardbarker.com/soccer/articles/race_against_the_deadline_clock_for_liverpool_as_they_agree_10m_transfer_fee_for_attacker/s1_15953_37133828" target="_blank"&gt;Race against the deadline clock for Liverpool as they agree €10m transfer fee for attacker&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yardbarker&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELkXwldfIJdo_jxz2zfp3OAqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwr8XbBg?oc=5</id>
@@ -60,13 +67,6 @@
     <updated>2022-01-31T08:28:39.000000000Z</updated>
     <link href="https://london-post.co.uk/9-alternative-fitness-classes-in-london-from-playground-games-to-a-silent-disco/" type="text/html"/>
     <content type="html">&lt;a href="https://london-post.co.uk/9-alternative-fitness-classes-in-london-from-playground-games-to-a-silent-disco/" target="_blank"&gt;9 alternative fitness classes in London – from playground games to a silent disco&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London Post&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEME2ic-wOBC1kPQck6Wv9wIqGAgEKg8IACoHCAowqa6gCTCuoHAw7YqLAw?oc=5</id>
-    <title type="html">Liverpool looking to follow up Luis Diaz transfer with second deal before deadline - The Mirror</title>
-    <updated>2022-01-30T14:43:24.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/sport/football/transfer-news/liverpool-luis-diaz-fabio-carvalho-26089126" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/sport/football/transfer-news/liverpool-luis-diaz-fabio-carvalho-26089126" target="_blank"&gt;Liverpool looking to follow up Luis Diaz transfer with second deal before deadline&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>350126 BAL 1413 MKC-ECR 25-7-09 (2)</title>
