@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-01T16:16:20Z</updated>
+  <updated>2022-02-01T16:58:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <title>Today: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (57°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 68%, UV Risk: 0, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 16:50 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-01T09:56:00.000+0000</id>
-    <published>2022-02-01T16:00:22Z</published>
-    <updated>2022-02-01T16:00:22Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-01T09:56:00.000+0000</id>
-    <published>2022-02-01T16:00:22Z</published>
-    <updated>2022-02-01T16:00:22Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (53°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1015mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 16:53 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-01T09:56:00.000+0000</id>
-    <published>2022-02-01T16:00:22Z</published>
-    <updated>2022-02-01T16:00:22Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELkXwldfIJdo_jxz2zfp3OAqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwr8XbBg?oc=5</id>
     <title type="html">Every London borough's best primary schools, according to their Ofsted ratings - My London</title>
@@ -177,11 +147,11 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIyL2phbi8yOC9jaGFtcGlvbnNoaXAtZnV0dXJlLXN0YXJzLWFuZC1mbHVjdHVhdGluZy1mb3J0dW5lcy13ZWVrZW5kLWluLXRoZS1zdW7SAQA?oc=5</id>
-    <title type="html">Future stars and fluctuating fortunes: enjoy Championship's weekend in sun - The Guardian</title>
-    <updated>2022-01-28T23:05:00.000000000Z</updated>
-    <link href="https://www.theguardian.com/football/2022/jan/28/championship-future-stars-and-fluctuating-fortunes-weekend-in-the-sun" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theguardian.com/football/2022/jan/28/championship-future-stars-and-fluctuating-fortunes-weekend-in-the-sun" target="_blank"&gt;Future stars and fluctuating fortunes: enjoy Championship's weekend in sun&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEDT7lx_RVG3NK_gtpjTiHBwqFwgEKg8IACoHCAow-4fWBzD4z0gwwtt6?oc=5</id>
+    <title type="html">What is drawing more homebuyers to Streatham? - Financial Times</title>
+    <updated>2022-01-28T11:00:19.000000000Z</updated>
+    <link href="https://www.ft.com/content/df2d8e07-9538-4701-9787-fbdd09af1212" type="text/html"/>
+    <content type="html">&lt;a href="https://www.ft.com/content/df2d8e07-9538-4701-9787-fbdd09af1212" target="_blank"&gt;What is drawing more homebuyers to Streatham?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Financial Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>"The Balham Partnership"</title>
