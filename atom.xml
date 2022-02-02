@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-02T03:15:26Z</updated>
+  <updated>2022-02-02T03:50:51Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (49°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 16:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-01T21:55:00.000+0000</id>
-    <published>2022-02-02T03:00:53Z</published>
-    <updated>2022-02-02T03:00:53Z</updated>
+    <published>2022-02-02T03:43:51Z</published>
+    <updated>2022-02-02T03:43:51Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 16:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-01T21:55:00.000+0000</id>
-    <published>2022-02-02T03:00:53Z</published>
-    <updated>2022-02-02T03:00:53Z</updated>
+    <published>2022-02-02T03:43:51Z</published>
+    <updated>2022-02-02T03:43:51Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (53°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1014mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-01T21:55:00.000+0000</id>
-    <published>2022-02-02T03:00:53Z</published>
-    <updated>2022-02-02T03:00:53Z</updated>
+    <published>2022-02-02T03:43:51Z</published>
+    <updated>2022-02-02T03:43:51Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS9PZmZlcnMvSG90LURpbm5lcnMtUmVzdGF1cmFudC1PZmZlcnMvbGV0cy1kby1sb25kb24tcmVzdGF1cmFudC1vZmZlcnMtZGVhbHMtc2F2aW5nc9IBAA?oc=5</id>
@@ -184,16 +184,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>"The Balham Partnership"</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51842453841/"/>
-    <id>tag:flickr.com,2005:/photo/51842453841</id>
-    <published>2022-01-25T16:15:08Z</published>
-    <updated>2022-01-25T16:15:08Z</updated>
-    <flickr:date_taken>2022-01-25T12:47:15-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-01-25T12:47:15-08:00</dc:date.Taken>
+    <title>Tom in the light</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51842454236/"/>
+    <id>tag:flickr.com,2005:/photo/51842454236</id>
+    <published>2022-01-25T16:15:07Z</published>
+    <updated>2022-01-25T16:15:07Z</updated>
+    <flickr:date_taken>2022-01-25T12:46:45-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-01-25T12:46:45-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51842453841/" title="&amp;quot;The Balham Partnership&amp;quot;"&gt;&lt;img src="https://live.staticflickr.com/65535/51842453841_26b7cf94ae_m.jpg" width="240" height="135" alt="&amp;quot;The Balham Partnership&amp;quot;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51842454236/" title="Tom in the light"&gt;&lt;img src="https://live.staticflickr.com/65535/51842454236_be5d26b22c_m.jpg" width="240" height="135" alt="Tom in the light" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Denmark Hill, Balham&lt;/p&gt;</content>
     <author>
@@ -202,10 +202,11 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842453841_26b7cf94ae_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51842454236_be5d26b22c_b.jpg"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tom" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tunnels" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
