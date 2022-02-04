@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-04T00:18:52Z</updated>
+  <updated>2022-02-04T01:11:13Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 8°C (47°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 16:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 16:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-03T21:53:00.000+0000</id>
-    <published>2022-02-04T00:09:05Z</published>
-    <updated>2022-02-04T00:09:05Z</updated>
+    <published>2022-02-04T01:09:11Z</published>
+    <updated>2022-02-04T01:09:11Z</updated>
   </entry>
   <entry>
-    <title>Friday: Heavy Rain, Minimum Temperature: 2°C (35°F) Maximum Temperature: 10°C (50°F)</title>
+    <title>Friday: Heavy Rain, Minimum Temperature: 2°C (35°F) Maximum Temperature: 10°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1010mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1010mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-03T21:53:00.000+0000</id>
-    <published>2022-02-04T00:09:05Z</published>
-    <updated>2022-02-04T00:09:05Z</updated>
+    <published>2022-02-04T01:09:11Z</published>
+    <updated>2022-02-04T01:09:11Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1020mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-03T21:53:00.000+0000</id>
-    <published>2022-02-04T00:09:05Z</published>
-    <updated>2022-02-04T00:09:05Z</updated>
+    <published>2022-02-04T01:09:11Z</published>
+    <updated>2022-02-04T01:09:11Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>73101 BAL 1200 VIC-GTW 16-9-86</title>
@@ -184,7 +184,7 @@
   <entry>
     <id>https://news.google.com/articles/CAIiEP0gBn0oDD51qYYc8WDlYaYqMwgEKioIACIQag8NPiPmYHXCTZs_iLdMcCoUCAoiEGoPDT4j5mB1wk2bP4i3THAwhvrnBg?oc=5</id>
     <title type="html">Top 20 Best MMA Gyms In London - Salon Privé Magazine</title>
-    <updated>2022-02-03T13:00:00.000000000Z</updated>
+    <updated>2022-02-03T12:56:15.000000000Z</updated>
     <link href="https://www.salonprivemag.com/top-20-best-mma-gyms-in-london/" type="text/html"/>
     <content type="html">&lt;a href="https://www.salonprivemag.com/top-20-best-mma-gyms-in-london/" target="_blank"&gt;Top 20 Best MMA Gyms In London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Salon Privé Magazine&lt;/font&gt;</content>
   </entry>
@@ -210,11 +210,11 @@
     <content type="html">&lt;a href="https://www.vanguardngr.com/2022/02/chief-jemide-farewell-to-binini/" target="_blank"&gt;Chief Jemide: Farewell to ‘Binini’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Vanguard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS9PZmZlcnMvSG90LURpbm5lcnMtUmVzdGF1cmFudC1PZmZlcnMvbGV0cy1kby1sb25kb24tcmVzdGF1cmFudC1vZmZlcnMtZGVhbHMtc2F2aW5nc9IBAA?oc=5</id>
-    <title type="html">The London Restaurant Deals Hub - food &amp; drink deals this spring - Hot Dinners</title>
-    <updated>2022-02-02T01:22:05.000000000Z</updated>
-    <link href="https://www.hot-dinners.com/Offers/Hot-Dinners-Restaurant-Offers/lets-do-london-restaurant-offers-deals-savings" type="text/html"/>
-    <content type="html">&lt;a href="https://www.hot-dinners.com/Offers/Hot-Dinners-Restaurant-Offers/lets-do-london-restaurant-offers-deals-savings" target="_blank"&gt;The London Restaurant Deals Hub - food &amp; drink deals this spring&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEDDnlPJUi52PBNMPEPa0z3MqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">What are the Chinese zodiac animals and which one are you? - My London</title>
+    <updated>2022-02-01T14:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/whats-on-news/what-chinese-zodiac-animals-one-22643797" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/whats-on-news/what-chinese-zodiac-animals-one-22643797" target="_blank"&gt;What are the Chinese zodiac animals and which one are you?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2021 in Gigs</title>
