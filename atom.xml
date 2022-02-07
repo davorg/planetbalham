@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-07T10:16:07Z</updated>
+  <updated>2022-02-07T10:50:53Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 10°C (49°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1027mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:30 GMT, Sunset: 17:01 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-07T09:56:00.000+0000</id>
+    <published>2022-02-07T10:46:02Z</published>
+    <updated>2022-02-07T10:46:02Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 13°C (56°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-07T09:56:00.000+0000</id>
+    <published>2022-02-07T10:46:02Z</published>
+    <updated>2022-02-07T10:46:02Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-07T09:56:00.000+0000</id>
+    <published>2022-02-07T10:46:02Z</published>
+    <updated>2022-02-07T10:46:02Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Tian Tsin, Balham - 6 February 2022</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/johnoram/51866471362/"/>
@@ -22,7 +52,12 @@
 	
 &lt;p&gt;&lt;a href="https://www.flickr.com/photos/johnoram/51866471362/" title="Tian Tsin, Balham - 6 February 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/51866471362_004780c69e_m.jpg" width="180" height="240" alt="Tian Tsin, Balham - 6 February 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
+&lt;p&gt;Tian Tsin Chinese Takeaway, 5 Ramsden Road, London SW12&lt;br /&gt;
+&lt;br /&gt;
+Photograph by John Oram&lt;br /&gt;
+Photoshop (blur) by Gregory Halse&lt;br /&gt;
+&lt;br /&gt;
+TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
     <author>
       <name>John Oram</name>
       <uri>https://www.flickr.com/people/johnoram/</uri>
@@ -43,36 +78,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 10°C (49°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1027mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 07:30 GMT, Sunset: 17:01 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-07T07:59:00.000+0000</id>
-    <published>2022-02-07T10:02:41Z</published>
-    <updated>2022-02-07T10:02:41Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (56°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-07T07:59:00.000+0000</id>
-    <published>2022-02-07T10:02:41Z</published>
-    <updated>2022-02-07T10:02:41Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-07T07:59:00.000+0000</id>
-    <published>2022-02-07T10:02:41Z</published>
-    <updated>2022-02-07T10:02:41Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWamVQVEJCRzAtd1BuWEFkQW9TZ0FQAQ?oc=5</id>
     <title type="html">Balham FC chief recalls Chelsea, Liverpool trying for Carvalho before Fulham move - Tribal Football</title>
