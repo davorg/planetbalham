@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-08T07:50:33Z</updated>
+  <updated>2022-02-08T08:16:03Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-07T21:55:00.000+0000</id>
-    <published>2022-02-08T07:01:26Z</published>
-    <updated>2022-02-08T07:01:26Z</updated>
+    <published>2022-02-08T08:03:27Z</published>
+    <updated>2022-02-08T08:03:27Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-07T21:55:00.000+0000</id>
-    <published>2022-02-08T07:01:26Z</published>
-    <updated>2022-02-08T07:01:26Z</updated>
+    <published>2022-02-08T08:03:27Z</published>
+    <updated>2022-02-08T08:03:27Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 0°C (33°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 0°C (33°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 67%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-07T21:55:00.000+0000</id>
-    <published>2022-02-08T07:01:26Z</published>
-    <updated>2022-02-08T07:01:26Z</updated>
+    <published>2022-02-08T08:03:27Z</published>
+    <updated>2022-02-08T08:03:27Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lWamVQVEJCRll4bmpHbEs4bmRTZ0FQAQ?oc=5</id>
@@ -93,6 +93,13 @@ TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIyLzAyLzA2LzUwMTE3L2NvdW50LW9uLWFydGh1ctIBAA?oc=5</id>
+    <title type="html">Count on Arthur... : News 2022 - Chortle</title>
+    <updated>2022-02-06T11:21:12.000000000Z</updated>
+    <link href="https://www.chortle.co.uk/news/2022/02/06/50117/count-on-arthur" type="text/html"/>
+    <content type="html">&lt;a href="https://www.chortle.co.uk/news/2022/02/06/50117/count-on-arthur" target="_blank"&gt;Count on Arthur... : News 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEOLm9tSb1OQIRF06SYC9_OAqGQgEKhAIACoHCAowzuOICzCZ4ocDMP3UoAY?oc=5</id>
     <title type="html">Manchester City through to the FA Cup fifth round after coming from behind to east past Fulham - Daily Mail</title>
     <updated>2022-02-05T16:54:01.000000000Z</updated>
@@ -105,13 +112,6 @@ TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
     <updated>2022-02-04T11:51:43.000000000Z</updated>
     <link href="https://jerseyeveningpost.com/news/2022/02/04/short-term-boost-for-bulls-springfield-pitch-will-not-close-on-14-february/" type="text/html"/>
     <content type="html">&lt;a href="https://jerseyeveningpost.com/news/2022/02/04/short-term-boost-for-bulls-springfield-pitch-will-not-close-on-14-february/" target="_blank"&gt;Short-term boost for Bulls: Springfield pitch will not close on 14 February&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmZhcm5oYW1oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL2Zhcm5oYW0tdG93bi1jcmFzaC10by1kZWZlYXQtYXQtYmFsaGFtLTUwMzMwNNIBAA?oc=5</id>
-    <title type="html">Farnham Town crash to defeat at Balham | farnhamherald.com - Farnham Herald</title>
-    <updated>2022-02-04T06:56:15.000000000Z</updated>
-    <link href="https://www.farnhamherald.com/sport/football/farnham-town-crash-to-defeat-at-balham-503304" type="text/html"/>
-    <content type="html">&lt;a href="https://www.farnhamherald.com/sport/football/farnham-town-crash-to-defeat-at-balham-503304" target="_blank"&gt;Farnham Town crash to defeat at Balham | farnhamherald.com&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Farnham Herald&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>73101 BAL 1200 VIC-GTW 16-9-86</title>
@@ -197,30 +197,28 @@ TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>9105 BAL 0950 GTW-VIC, 5810 0845 LBG-VIC 27-8-88</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51859186727/"/>
-    <id>tag:flickr.com,2005:/photo/51859186727</id>
+    <title>73206 BAL 1000 VIC-GTW 27-8-88</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51860143831/"/>
+    <id>tag:flickr.com,2005:/photo/51860143831</id>
     <published>2022-02-03T18:02:03Z</published>
     <updated>2022-02-03T18:02:03Z</updated>
-    <flickr:date_taken>2022-02-03T17:56:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-03T17:56:24-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-02-03T17:57:44-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-03T17:57:44-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51859186727/" title="9105 BAL 0950 GTW-VIC, 5810 0845 LBG-VIC 27-8-88"&gt;&lt;img src="https://live.staticflickr.com/65535/51859186727_79ba460beb_m.jpg" width="240" height="176" alt="9105 BAL 0950 GTW-VIC, 5810 0845 LBG-VIC 27-8-88" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51860143831/" title="73206 BAL 1000 VIC-GTW 27-8-88"&gt;&lt;img src="https://live.staticflickr.com/65535/51860143831_cc998af977_m.jpg" width="240" height="171" alt="73206 BAL 1000 VIC-GTW 27-8-88" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;On 27 August 1988, 9105 passes Balham on the 0950 up Gatwick Express and overtakes 5810 on the 0845 London Bridge - Wimbledon - Sutton - West Croydon - Victoria circular.&lt;/p&gt;</content>
+&lt;p&gt;On 27 August 1988, 73206 passes Balham on the 1000 down Gatwick Express.&lt;/p&gt;</content>
     <author>
       <name>6089Gardener</name>
       <uri>https://www.flickr.com/people/60539035@N02/</uri>
       <flickr:nsid>60539035@N02</flickr:nsid>
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51859186727_79ba460beb_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51860143831_cc998af977_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="9105" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5810" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="glv" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="73206" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class73" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
