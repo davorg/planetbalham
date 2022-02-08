@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-08T16:17:13Z</updated>
+  <updated>2022-02-08T16:57:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-08T09:55:00.000+0000</id>
-    <published>2022-02-08T16:03:08Z</published>
-    <updated>2022-02-08T16:03:08Z</updated>
+    <published>2022-02-08T16:53:46Z</published>
+    <updated>2022-02-08T16:53:46Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (42°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-08T09:55:00.000+0000</id>
-    <published>2022-02-08T16:03:08Z</published>
-    <updated>2022-02-08T16:03:08Z</updated>
+    <published>2022-02-08T16:53:46Z</published>
+    <updated>2022-02-08T16:53:46Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,9 +37,155 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 0°C (32°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 66%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-08T09:55:00.000+0000</id>
-    <published>2022-02-08T16:03:08Z</published>
-    <updated>2022-02-08T16:03:08Z</updated>
+    <published>2022-02-08T16:53:46Z</published>
+    <updated>2022-02-08T16:53:46Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Leaves through fence</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045402/"/>
+    <id>tag:flickr.com,2005:/photo/51869045402</id>
+    <published>2022-02-08T16:37:20Z</published>
+    <updated>2022-02-08T16:37:20Z</updated>
+    <flickr:date_taken>2022-02-08T11:54:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:54:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51869045402/" title="Leaves through fence"&gt;&lt;img src="https://live.staticflickr.com/65535/51869045402_487004213d_m.jpg" width="240" height="160" alt="Leaves through fence" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51869045402_487004213d_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fence" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Rosette</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045587/"/>
+    <id>tag:flickr.com,2005:/photo/51869045587</id>
+    <published>2022-02-08T16:37:19Z</published>
+    <updated>2022-02-08T16:37:19Z</updated>
+    <flickr:date_taken>2022-02-08T11:52:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:52:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51869045587/" title="Rosette"&gt;&lt;img src="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_m.jpg" width="240" height="160" alt="Rosette" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Extinction imminent</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870007196/"/>
+    <id>tag:flickr.com,2005:/photo/51870007196</id>
+    <published>2022-02-08T16:37:18Z</published>
+    <updated>2022-02-08T16:37:18Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870007196/" title="Extinction imminent"&gt;&lt;img src="https://live.staticflickr.com/65535/51870007196_bd51560e6c_m.jpg" width="240" height="135" alt="Extinction imminent" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870007196_bd51560e6c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Under the bridge</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659825/"/>
+    <id>tag:flickr.com,2005:/photo/51870659825</id>
+    <published>2022-02-08T16:37:17Z</published>
+    <updated>2022-02-08T16:37:17Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:17-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:17-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659825/" title="Under the bridge"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_m.jpg" width="240" height="150" alt="Under the bridge" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Cool and warm</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870660020/"/>
+    <id>tag:flickr.com,2005:/photo/51870660020</id>
+    <published>2022-02-08T16:37:16Z</published>
+    <updated>2022-02-08T16:37:16Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870660020/" title="Cool and warm"&gt;&lt;img src="https://live.staticflickr.com/65535/51870660020_acb2d1717c_m.jpg" width="240" height="150" alt="Cool and warm" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870660020_acb2d1717c_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nik" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bleachbypass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colorefexpro4" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEKZZU1GLKjiQOmdELIBowiEqGQgEKhAIACoHCAow6KD9CjDuy_QCMOvm0wU?oc=5</id>
     <title type="html">Adele's BRIT Awards journey - from determined pupil to controversial on-stage moment - Irish Mirror</title>
@@ -68,44 +214,6 @@
     <link href="https://www.mylondon.news/news/health/worst-gp-surgery-each-london-23007856" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/health/worst-gp-surgery-each-london-23007856" target="_blank"&gt;The 'worst' GP surgery in each London borough according to the CQC&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Tian Tsin, Balham - 6 February 2022</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/johnoram/51866471362/"/>
-    <id>tag:flickr.com,2005:/photo/51866471362</id>
-    <published>2022-02-07T10:15:11Z</published>
-    <updated>2022-02-07T10:15:11Z</updated>
-    <flickr:date_taken>2022-02-06T11:43:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-06T11:43:31-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/johnoram/"&gt;John Oram&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/johnoram/51866471362/" title="Tian Tsin, Balham - 6 February 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/51866471362_004780c69e_m.jpg" width="180" height="240" alt="Tian Tsin, Balham - 6 February 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tian Tsin Chinese Takeaway, 5 Ramsden Road, London SW12&lt;br /&gt;
-&lt;br /&gt;
-Photograph by John Oram&lt;br /&gt;
-Photoshop (blur) by Gregory Halse&lt;br /&gt;
-&lt;br /&gt;
-TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
-    <author>
-      <name>John Oram</name>
-      <uri>https://www.flickr.com/people/johnoram/</uri>
-      <flickr:nsid>28503813@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/28503813@N03.jpg?1637778251#28503813@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51866471362_004780c69e_b.jpg"/>
-    <category term="tiantsin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="chinesetakeaway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="planettakeout" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworthborough" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonsw12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tz702p1010365ceps" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOLm9tSb1OQIRF06SYC9_OAqGQgEKhAIACoHCAowzuOICzCZ4ocDMP3UoAY?oc=5</id>
     <title type="html">Manchester City through to the FA Cup fifth round after coming from behind to east past Fulham - Daily Mail</title>
@@ -113,119 +221,6 @@ TZ70_2_P1010365CE_PS&lt;/p&gt;</content>
     <link href="https://www.dailymail.co.uk/sport/football/article-10479591/Manchester-City-FA-Cup-fifth-round-coming-east-past-Fulham.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailymail.co.uk/sport/football/article-10479591/Manchester-City-FA-Cup-fifth-round-coming-east-past-Fulham.html" target="_blank"&gt;Manchester City through to the FA Cup fifth round after coming from behind to east past Fulham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>73101 BAL 1200 VIC-GTW 16-9-86</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51860569534/"/>
-    <id>tag:flickr.com,2005:/photo/51860569534</id>
-    <published>2022-02-03T19:00:12Z</published>
-    <updated>2022-02-03T19:00:12Z</updated>
-    <flickr:date_taken>2022-02-03T18:56:57-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-03T18:56:57-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51860569534/" title="73101 BAL 1200 VIC-GTW 16-9-86"&gt;&lt;img src="https://live.staticflickr.com/65535/51860569534_8b6422505e_m.jpg" width="240" height="163" alt="73101 BAL 1200 VIC-GTW 16-9-86" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On 16 September 1986, 73101 is seen just south of Balham on the 1200 down Gatwick Express.&lt;/p&gt;</content>
-    <author>
-      <name>6089Gardener</name>
-      <uri>https://www.flickr.com/people/60539035@N02/</uri>
-      <flickr:nsid>60539035@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51860569534_8b6422505e_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="73101" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class73" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3089 BAL 0940 VIC-HRH 27-8-88</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51860232691/"/>
-    <id>tag:flickr.com,2005:/photo/51860232691</id>
-    <published>2022-02-03T19:00:12Z</published>
-    <updated>2022-02-03T19:00:12Z</updated>
-    <flickr:date_taken>2022-02-03T18:55:26-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-03T18:55:26-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51860232691/" title="3089 BAL 0940 VIC-HRH 27-8-88"&gt;&lt;img src="https://live.staticflickr.com/65535/51860232691_684b3ce7a8_m.jpg" width="240" height="172" alt="3089 BAL 0940 VIC-HRH 27-8-88" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On 27 August 1988, 3089 passes Balham on the 0940 Victoria - Horsham.&lt;/p&gt;</content>
-    <author>
-      <name>6089Gardener</name>
-      <uri>https://www.flickr.com/people/60539035@N02/</uri>
-      <flickr:nsid>60539035@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51860232691_684b3ce7a8_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="3089" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class423" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="4vep" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>9105 BAL 0950 GTW-VIC, 5810 0845 LBG-VIC 27-8-88</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51859186727/"/>
-    <id>tag:flickr.com,2005:/photo/51859186727</id>
-    <published>2022-02-03T18:02:03Z</published>
-    <updated>2022-02-03T18:02:03Z</updated>
-    <flickr:date_taken>2022-02-03T17:56:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-03T17:56:24-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51859186727/" title="9105 BAL 0950 GTW-VIC, 5810 0845 LBG-VIC 27-8-88"&gt;&lt;img src="https://live.staticflickr.com/65535/51859186727_79ba460beb_m.jpg" width="240" height="176" alt="9105 BAL 0950 GTW-VIC, 5810 0845 LBG-VIC 27-8-88" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On 27 August 1988, 9105 passes Balham on the 0950 up Gatwick Express and overtakes 5810 on the 0845 London Bridge - Wimbledon - Sutton - West Croydon - Victoria circular.&lt;/p&gt;</content>
-    <author>
-      <name>6089Gardener</name>
-      <uri>https://www.flickr.com/people/60539035@N02/</uri>
-      <flickr:nsid>60539035@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51859186727_79ba460beb_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="9105" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5810" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="glv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>73206 BAL 1000 VIC-GTW 27-8-88</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/51860143831/"/>
-    <id>tag:flickr.com,2005:/photo/51860143831</id>
-    <published>2022-02-03T18:02:03Z</published>
-    <updated>2022-02-03T18:02:03Z</updated>
-    <flickr:date_taken>2022-02-03T17:57:44-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-03T17:57:44-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/51860143831/" title="73206 BAL 1000 VIC-GTW 27-8-88"&gt;&lt;img src="https://live.staticflickr.com/65535/51860143831_cc998af977_m.jpg" width="240" height="171" alt="73206 BAL 1000 VIC-GTW 27-8-88" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On 27 August 1988, 73206 passes Balham on the 1000 down Gatwick Express.&lt;/p&gt;</content>
-    <author>
-      <name>6089Gardener</name>
-      <uri>https://www.flickr.com/people/60539035@N02/</uri>
-      <flickr:nsid>60539035@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51860143831_cc998af977_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="73206" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class73" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatwickexpress" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>2021 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/01/2021-in-gigs.html" type="text/html"/>
