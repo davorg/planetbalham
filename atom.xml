@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-09T17:16:30Z</updated>
+  <updated>2022-02-09T17:50:41Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -39,6 +39,27 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-09T09:58:00.000+0000</id>
     <published>2022-02-09T17:05:28Z</published>
     <updated>2022-02-09T17:05:28Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEA6mTRa3qGGI3baN-fXcu6cqGQgEKhAIACoHCAow686sCzD42cQDMMjZrQc?oc=5</id>
+    <title type="html">Being Single on Valentine's Day: A Guide - Culture - Country and Town House</title>
+    <updated>2022-02-09T15:44:13.000000000Z</updated>
+    <link href="https://www.countryandtownhouse.co.uk/culture/being-single-on-valentines-day-a-guide/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.countryandtownhouse.co.uk/culture/being-single-on-valentines-day-a-guide/" target="_blank"&gt;Being Single on Valentine's Day: A Guide - Culture&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Country and Town House&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEEivpApsxD9jRz4E66L44FwqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwscXbBg?oc=5</id>
+    <title type="html">London Underground: Londoners spot Tube station worker who looks exactly like Prince William - My London</title>
+    <updated>2022-02-09T09:49:35.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/whats-on-news/london-underground-londoners-spot-tube-23033758" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/whats-on-news/london-underground-londoners-spot-tube-23033758" target="_blank"&gt;London Underground: Londoners spot Tube station worker who looks exactly like Prince William&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEFfN338z9Un4O3wpIm0Uj5MqMwgEKioIACIQaLrcC9GWqLouXme_RQo0yCoUCAoiEGi63AvRlqi6Ll5nv0UKNMgw_fH4Bg?oc=5</id>
+    <title type="html">New Homes in Tooting Bec - PropertyWire</title>
+    <updated>2022-02-09T07:20:28.000000000Z</updated>
+    <link href="https://www.propertywire.com/news/new-homes-in-tooting-bec/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.propertywire.com/news/new-homes-in-tooting-bec/" target="_blank"&gt;New Homes in Tooting Bec&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;PropertyWire&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Leaves through fence</title>
@@ -180,6 +201,20 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEP2FM2WMRP1d0Ul_NP4lJfIqGAgEKg8IACoHCAowqa6gCTCuoHAw64eLAw?oc=5</id>
+    <title type="html">Adele's BRIT Awards journey - from determined pupil to controversial on-stage moment - The Mirror</title>
+    <updated>2022-02-08T14:15:20.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/3am/celebrity-news/adeles-brit-awards-journey-determined-26171071" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/3am/celebrity-news/adeles-brit-awards-journey-determined-26171071" target="_blank"&gt;Adele's BRIT Awards journey - from determined pupil to controversial on-stage moment&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDazJ3Wh2hQ4SwSwSVpJx1QqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
+    <title type="html">What I Rent: Gemma and Josh, £1,560 a month for a flat in Balham, London - Metro.co.uk</title>
+    <updated>2022-02-08T09:45:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2022/02/08/what-i-rent-gemma-and-josh-1560-a-month-for-a-flat-in-balham-london-16044456/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2022/02/08/what-i-rent-gemma-and-josh-1560-a-month-for-a-flat-in-balham-london-16044456/" target="_blank"&gt;What I Rent: Gemma and Josh, £1,560 a month for a flat in Balham, London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>2021 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/01/2021-in-gigs.html" type="text/html"/>
