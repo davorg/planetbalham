@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-13T07:15:37Z</updated>
+  <updated>2022-02-13T07:51:31Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -46,13 +46,6 @@
     <updated>2022-02-12T00:01:00.000000000Z</updated>
     <link href="https://www.thetimes.co.uk/article/diary-of-a-covid-nurse-most-doctors-couldnt-work-a-ventilator-328z3hql7" type="text/html"/>
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/diary-of-a-covid-nurse-most-doctors-couldnt-work-a-ventilator-328z3hql7" target="_blank"&gt;Diary of a Covid nurse: 'Most doctors couldn't work a ventilator'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAK8CVtFdzjGdFlhmsjg95UqGQgEKhAIACoHCAowy4KeCzDcjLYDMNnl6QY?oc=5</id>
-    <title type="html">New South West Cabaret Brunch premieres tomorrow at The Exhibit in Balham - South West Londoner</title>
-    <updated>2022-02-11T17:08:48.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/entertainment/11022022-new-south-west-cabaret-brunch-premieres-tomorrow-at-the-exhibit-in-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/entertainment/11022022-new-south-west-cabaret-brunch-premieres-tomorrow-at-the-exhibit-in-balham/" target="_blank"&gt;New South West Cabaret Brunch premieres tomorrow at The Exhibit in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEA6mTRa3qGGI3baN-fXcu6cqGQgEKhAIACoHCAow686sCzD42cQDMMjZrQc?oc=5</id>
@@ -215,6 +208,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEHxn8LHQEizasRINB3YHXMsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">The 'worst' GP surgery in each London borough according to the CQC - My London</title>
+    <updated>2022-02-08T15:25:29.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/health/worst-gp-surgery-each-london-23007856" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/health/worst-gp-surgery-each-london-23007856" target="_blank"&gt;The 'worst' GP surgery in each London borough according to the CQC&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>2021 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/01/2021-in-gigs.html" type="text/html"/>
