@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-13T13:50:59Z</updated>
+  <updated>2022-02-13T14:15:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Heavy Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 997mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 17:12 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 18mph, Visibility: Good, Pressure: 995mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 17:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-13T09:55:00.000+0000</id>
-    <published>2022-02-13T13:01:32Z</published>
-    <updated>2022-02-13T13:01:32Z</updated>
+    <published>2022-02-13T14:02:23Z</published>
+    <updated>2022-02-13T14:02:23Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1000mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 07:17 GMT, Sunset: 17:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-13T09:55:00.000+0000</id>
-    <published>2022-02-13T13:01:32Z</published>
-    <updated>2022-02-13T13:01:32Z</updated>
+    <published>2022-02-13T14:02:23Z</published>
+    <updated>2022-02-13T14:02:23Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 9°C (47°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1009mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 GMT, Sunset: 17:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-13T09:55:00.000+0000</id>
-    <published>2022-02-13T13:01:32Z</published>
-    <updated>2022-02-13T13:01:32Z</updated>
+    <published>2022-02-13T14:02:23Z</published>
+    <updated>2022-02-13T14:02:23Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZGlhcnktb2YtYS1jb3ZpZC1udXJzZS1tb3N0LWRvY3RvcnMtY291bGRudC13b3JrLWEtdmVudGlsYXRvci0zMjh6M2hxbDfSAQA?oc=5</id>
@@ -123,6 +123,34 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Rosette</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045587/"/>
+    <id>tag:flickr.com,2005:/photo/51869045587</id>
+    <published>2022-02-08T16:37:19Z</published>
+    <updated>2022-02-08T16:37:19Z</updated>
+    <flickr:date_taken>2022-02-08T11:52:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:52:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51869045587/" title="Rosette"&gt;&lt;img src="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_m.jpg" width="240" height="160" alt="Rosette" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Extinction imminent</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870007196/"/>
     <id>tag:flickr.com,2005:/photo/51870007196</id>
@@ -152,16 +180,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>#BrexitNotCovid</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870326709/"/>
-    <id>tag:flickr.com,2005:/photo/51870326709</id>
-    <published>2022-02-08T16:37:16Z</published>
-    <updated>2022-02-08T16:37:16Z</updated>
-    <flickr:date_taken>2022-02-08T11:45:42-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:45:42-08:00</dc:date.Taken>
+    <title>Under the bridge</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659825/"/>
+    <id>tag:flickr.com,2005:/photo/51870659825</id>
+    <published>2022-02-08T16:37:17Z</published>
+    <updated>2022-02-08T16:37:17Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:17-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:17-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870326709/" title="#BrexitNotCovid"&gt;&lt;img src="https://live.staticflickr.com/65535/51870326709_ff5fe99d3e_m.jpg" width="240" height="135" alt="#BrexitNotCovid" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659825/" title="Under the bridge"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_m.jpg" width="240" height="150" alt="Under the bridge" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -170,45 +198,13 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870326709_ff5fe99d3e_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_b.jpg"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Cool and warm</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870660020/"/>
-    <id>tag:flickr.com,2005:/photo/51870660020</id>
-    <published>2022-02-08T16:37:16Z</published>
-    <updated>2022-02-08T16:37:16Z</updated>
-    <flickr:date_taken>2022-02-08T11:46:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:46:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870660020/" title="Cool and warm"&gt;&lt;img src="https://live.staticflickr.com/65535/51870660020_dbbe86ae5f_m.jpg" width="240" height="150" alt="Cool and warm" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870660020_dbbe86ae5f_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nik" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bleachbypass" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colorefexpro4" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
