@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-15T13:51:56Z</updated>
+  <updated>2022-02-15T14:15:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CAIiEKdYbC8EcLJ80NiGnhG0O6kqGQgEKhAIACoHCAowuKD9CjCCyvQCMILn0wU?oc=5</id>
-    <title type="html">Formula One aces deliver groceries to fans - Wales Online</title>
-    <updated>2022-02-15T13:23:46.000000000Z</updated>
-    <link href="https://www.walesonline.co.uk/whats-on/shopping/formula-one-aces-deliver-groceries-23103770" type="text/html"/>
-    <content type="html">&lt;a href="https://www.walesonline.co.uk/whats-on/shopping/formula-one-aces-deliver-groceries-23103770" target="_blank"&gt;Formula One aces deliver groceries to fans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 10°C (50°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 10°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1004mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 GMT, Sunset: 17:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1004mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 GMT, Sunset: 17:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-15T09:00:00.000+0000</id>
-    <published>2022-02-15T13:17:39Z</published>
-    <updated>2022-02-15T13:17:39Z</updated>
+    <published>2022-02-15T14:01:49Z</published>
+    <updated>2022-02-15T14:01:49Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (60°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 997mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 17:17 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-15T09:00:00.000+0000</id>
-    <published>2022-02-15T13:17:39Z</published>
-    <updated>2022-02-15T13:17:39Z</updated>
+    <published>2022-02-15T14:01:49Z</published>
+    <updated>2022-02-15T14:01:49Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1011mb, Humidity: 57%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 17:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-15T09:00:00.000+0000</id>
-    <published>2022-02-15T13:17:39Z</published>
-    <updated>2022-02-15T13:17:39Z</updated>
+    <published>2022-02-15T14:01:49Z</published>
+    <updated>2022-02-15T14:01:49Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEKdYbC8EcLJ80NiGnhG0O6kqGQgEKhAIACoHCAowuKD9CjCCyvQCMN_n0wU?oc=5</id>
+    <title type="html">Formula One aces deliver groceries to fans - Wales Online</title>
+    <updated>2022-02-15T13:23:46.000000000Z</updated>
+    <link href="https://www.walesonline.co.uk/whats-on/shopping/formula-one-aces-deliver-groceries-23103770" type="text/html"/>
+    <content type="html">&lt;a href="https://www.walesonline.co.uk/whats-on/shopping/formula-one-aces-deliver-groceries-23103770" target="_blank"&gt;Formula One aces deliver groceries to fans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmdheXRpbWVzLmNvLnVrL2xpZmUvZ2F5LXRpbWVzLW1hZ2F6aW5lLXRoZS1odW1hbi1mYWNlLW9mLWFpZHMtb2N0b2Jlci0xOTg0L9IBAA?oc=5</id>
