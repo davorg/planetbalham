@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-15T20:51:40Z</updated>
+  <updated>2022-02-15T21:14:59Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1000mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 17:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-15T19:56:00.000+0000</id>
-    <published>2022-02-15T20:22:43Z</published>
-    <updated>2022-02-15T20:22:43Z</updated>
+    <published>2022-02-15T21:02:09Z</published>
+    <updated>2022-02-15T21:02:09Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 997mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 17:17 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-15T19:56:00.000+0000</id>
-    <published>2022-02-15T20:22:43Z</published>
-    <updated>2022-02-15T20:22:43Z</updated>
+    <published>2022-02-15T21:02:09Z</published>
+    <updated>2022-02-15T21:02:09Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1011mb, Humidity: 57%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 17:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-15T19:56:00.000+0000</id>
-    <published>2022-02-15T20:22:43Z</published>
-    <updated>2022-02-15T20:22:43Z</updated>
+    <published>2022-02-15T21:02:09Z</published>
+    <updated>2022-02-15T21:02:09Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiOGh0dHA6Ly90b290aW5nLmxvY2FsbmV3c2llLmNvLnVrL3RhYnMvYmxvZy8yMDIyLzAyL2NvbXBz0gEA?oc=5</id>
+    <title type="html">comps - Tooting Daily PRSS</title>
+    <updated>2022-02-15T14:54:23.000000000Z</updated>
+    <link href="http://tooting.localnewsie.co.uk/tabs/blog/2022/02/comps" type="text/html"/>
+    <content type="html">&lt;a href="http://tooting.localnewsie.co.uk/tabs/blog/2022/02/comps" target="_blank"&gt;comps&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Tooting Daily PRSS&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS93aGF0cy1vbi9zaG9wcGluZy9mb3JtdWxhLW9uZS1hY2VzLWRlbGl2ZXItZ3JvY2VyaWVzLTY2NjE1NTXSAQA?oc=5</id>
@@ -122,13 +129,6 @@
     <updated>2022-02-14T11:41:22.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/14022022-long-covid-recovery-programme-launched-at-wandsworth-leisure-centres/" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/14022022-long-covid-recovery-programme-launched-at-wandsworth-leisure-centres/" target="_blank"&gt;Long Covid recovery programme launched at Wandsworth leisure centres&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAK8CVtFdzjGdFlhmsjg95UqGQgEKhAIACoHCAowy4KeCzDcjLYDMNnl6QY?oc=5</id>
-    <title type="html">New South West Cabaret Brunch premieres tomorrow at The Exhibit in Balham - South West Londoner</title>
-    <updated>2022-02-11T17:08:48.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/entertainment/11022022-new-south-west-cabaret-brunch-premieres-tomorrow-at-the-exhibit-in-balham/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/entertainment/11022022-new-south-west-cabaret-brunch-premieres-tomorrow-at-the-exhibit-in-balham/" target="_blank"&gt;New South West Cabaret Brunch premieres tomorrow at The Exhibit in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Leaves through fence</title>
