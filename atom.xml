@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-16T06:51:56Z</updated>
+  <updated>2022-02-16T07:15:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 997mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 17:17 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-15T21:55:00.000+0000</id>
-    <published>2022-02-16T06:23:49Z</published>
-    <updated>2022-02-16T06:23:49Z</updated>
+    <published>2022-02-16T07:00:36Z</published>
+    <updated>2022-02-16T07:00:36Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1011mb, Humidity: 56%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 17:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-15T21:55:00.000+0000</id>
-    <published>2022-02-16T06:23:49Z</published>
-    <updated>2022-02-16T06:23:49Z</updated>
+    <published>2022-02-16T07:00:36Z</published>
+    <updated>2022-02-16T07:00:36Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 3°C (38°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: South Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 994mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 17:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-15T21:55:00.000+0000</id>
-    <published>2022-02-16T06:23:49Z</published>
-    <updated>2022-02-16T06:23:49Z</updated>
+    <published>2022-02-16T07:00:36Z</published>
+    <updated>2022-02-16T07:00:36Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmFtZXJpY2Fuc2Fsb24uY29tL2VkdWNhdGlvbi9ueWZ3LWhvdy1pY3kta25vdNIBAA?oc=5</id>
+    <title type="html">NYFW How-To: Icy Knot - American Salon</title>
+    <updated>2022-02-16T01:12:29.000000000Z</updated>
+    <link href="https://www.americansalon.com/education/nyfw-how-icy-knot" type="text/html"/>
+    <content type="html">&lt;a href="https://www.americansalon.com/education/nyfw-how-icy-knot" target="_blank"&gt;NYFW How-To: Icy Knot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;American Salon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LnByb3BlcnR5aW52ZXN0b3J0b2RheS5jby51ay9icmVha2luZy1uZXdzLzIwMjIvMi9kZXYtcm91bmR1cC0taG9tZXMtZm9yLXRoZS1ob21lbGVzcy1hbmQtbmV3LXBoYXNlcy1iZWdpbtIBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-02-15T13:24:12.000000000Z</updated>
     <link href="https://www.nottinghampost.com/whats-on/shopping/formula-one-aces-deliver-groceries-6661555" type="text/html"/>
     <content type="html">&lt;a href="https://www.nottinghampost.com/whats-on/shopping/formula-one-aces-deliver-groceries-6661555" target="_blank"&gt;Formula One aces deliver groceries to fans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nottinghamshire Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmdheXRpbWVzLmNvLnVrL2xpZmUvZ2F5LXRpbWVzLW1hZ2F6aW5lLXRoZS1odW1hbi1mYWNlLW9mLWFpZHMtb2N0b2Jlci0xOTg0L9IBAA?oc=5</id>
-    <title type="html">The Human Face of AIDS - October 1984 - Gay Times Magazine</title>
-    <updated>2022-02-15T11:01:16.000000000Z</updated>
-    <link href="https://www.gaytimes.co.uk/life/gay-times-magazine-the-human-face-of-aids-october-1984/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.gaytimes.co.uk/life/gay-times-magazine-the-human-face-of-aids-october-1984/" target="_blank"&gt;The Human Face of AIDS - October 1984&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Gay Times Magazine&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Cool beetle</title>
