@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-16T02:55:39Z</updated>
+  <updated>2022-02-16T03:16:05Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 997mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 17:17 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-15T21:55:00.000+0000</id>
-    <published>2022-02-16T02:23:49Z</published>
-    <updated>2022-02-16T02:23:49Z</updated>
+    <published>2022-02-16T03:03:42Z</published>
+    <updated>2022-02-16T03:03:42Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 997mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 17:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-15T21:55:00.000+0000</id>
-    <published>2022-02-16T02:23:49Z</published>
-    <updated>2022-02-16T02:23:49Z</updated>
+    <published>2022-02-16T03:03:42Z</published>
+    <updated>2022-02-16T03:03:42Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1011mb, Humidity: 56%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 17:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-15T21:55:00.000+0000</id>
-    <published>2022-02-16T02:23:49Z</published>
-    <updated>2022-02-16T02:23:49Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmFtZXJpY2Fuc2Fsb24uY29tL2VkdWNhdGlvbi9ueWZ3LWhvdy1pY3kta25vdNIBAA?oc=5</id>
-    <title type="html">NYFW How-To: Icy Knot - American Salon</title>
-    <updated>2022-02-16T01:12:31.000000000Z</updated>
-    <link href="https://www.americansalon.com/education/nyfw-how-icy-knot" type="text/html"/>
-    <content type="html">&lt;a href="https://www.americansalon.com/education/nyfw-how-icy-knot" target="_blank"&gt;NYFW How-To: Icy Knot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;American Salon&lt;/font&gt;</content>
+    <published>2022-02-16T03:03:42Z</published>
+    <updated>2022-02-16T03:03:42Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LnByb3BlcnR5aW52ZXN0b3J0b2RheS5jby51ay9icmVha2luZy1uZXdzLzIwMjIvMi9kZXYtcm91bmR1cC0taG9tZXMtZm9yLXRoZS1ob21lbGVzcy1hbmQtbmV3LXBoYXNlcy1iZWdpbtIBAA?oc=5</id>
@@ -60,6 +53,13 @@
     <updated>2022-02-16T00:01:00.000000000Z</updated>
     <link href="https://www.racefans.net/2022/02/16/racefans-round-up-16-02-5/" type="text/html"/>
     <content type="html">&lt;a href="https://www.racefans.net/2022/02/16/racefans-round-up-16-02-5/" target="_blank"&gt;RaceFans Round-up: Ricciardo "confident" Australian Grand Prix will go ahead after cancellations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RaceFans&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiOGh0dHA6Ly90b290aW5nLmxvY2FsbmV3c2llLmNvLnVrL3RhYnMvYmxvZy8yMDIyLzAyL2NvbXBz0gEA?oc=5</id>
+    <title type="html">comps - Tooting Daily PRSS</title>
+    <updated>2022-02-15T14:54:23.000000000Z</updated>
+    <link href="http://tooting.localnewsie.co.uk/tabs/blog/2022/02/comps" type="text/html"/>
+    <content type="html">&lt;a href="http://tooting.localnewsie.co.uk/tabs/blog/2022/02/comps" target="_blank"&gt;comps&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Tooting Daily PRSS&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS93aGF0cy1vbi9zaG9wcGluZy9mb3JtdWxhLW9uZS1hY2VzLWRlbGl2ZXItZ3JvY2VyaWVzLTY2NjE1NTXSAQA?oc=5</id>
