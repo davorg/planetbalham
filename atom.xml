@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-19T13:15:29Z</updated>
+  <updated>2022-02-19T13:51:13Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -185,16 +185,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Rosette</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045587/"/>
-    <id>tag:flickr.com,2005:/photo/51869045587</id>
-    <published>2022-02-08T16:37:19Z</published>
-    <updated>2022-02-08T16:37:19Z</updated>
-    <flickr:date_taken>2022-02-08T11:52:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:52:39-08:00</dc:date.Taken>
+    <title>Extinction imminent</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870007196/"/>
+    <id>tag:flickr.com,2005:/photo/51870007196</id>
+    <published>2022-02-08T16:37:18Z</published>
+    <updated>2022-02-08T16:37:18Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:55-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51869045587/" title="Rosette"&gt;&lt;img src="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_m.jpg" width="240" height="160" alt="Rosette" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870007196/" title="Extinction imminent"&gt;&lt;img src="https://live.staticflickr.com/65535/51870007196_bd51560e6c_m.jpg" width="240" height="135" alt="Extinction imminent" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -203,12 +203,13 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870007196_bd51560e6c_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
