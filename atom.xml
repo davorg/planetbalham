@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-19T09:50:54Z</updated>
+  <updated>2022-02-19T10:15:31Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1009mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-19T07:01:00.000+0000</id>
-    <published>2022-02-19T09:03:33Z</published>
-    <updated>2022-02-19T09:03:33Z</updated>
+    <published>2022-02-19T10:07:59Z</published>
+    <updated>2022-02-19T10:07:59Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 21mph, Visibility: Good, Pressure: 1004mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-19T07:01:00.000+0000</id>
-    <published>2022-02-19T09:03:33Z</published>
-    <updated>2022-02-19T09:03:33Z</updated>
+    <published>2022-02-19T10:07:59Z</published>
+    <updated>2022-02-19T10:07:59Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1006mb, Humidity: 59%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-19T07:01:00.000+0000</id>
-    <published>2022-02-19T09:03:33Z</published>
-    <updated>2022-02-19T09:03:33Z</updated>
+    <published>2022-02-19T10:07:59Z</published>
+    <updated>2022-02-19T10:07:59Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wMi8xOC9hcy10aGUtcHJlc3N1cmUtbW91bnRzLXRyYW1zLWFyZS10YWtpbmctaXQtb25lLWdhbWUtYXQtYS10aW1lL9IBZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wMi8xOC9hcy10aGUtcHJlc3N1cmUtbW91bnRzLXRyYW1zLWFyZS10YWtpbmctaXQtb25lLWdhbWUtYXQtYS10aW1lL2FtcC8?oc=5</id>
@@ -46,13 +46,6 @@
     <updated>2022-02-18T16:46:50.000000000Z</updated>
     <link href="https://insidecroydon.com/2022/02/18/as-the-pressure-mounts-trams-are-taking-it-one-game-at-a-time/" type="text/html"/>
     <content type="html">&lt;a href="https://insidecroydon.com/2022/02/18/as-the-pressure-mounts-trams-are-taking-it-one-game-at-a-time/" target="_blank"&gt;As the pressure mounts, Trams are taking it one game at a time&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEFY-jZOEAbcWu-L7L6sfm0AqFwgEKg4IACoGCAowzdp7ML-3CTDv-ewG?oc=5</id>
-    <title type="html">Storm Eunice: Which trains are cancelled across the UK? - The Independent</title>
-    <updated>2022-02-18T16:02:40.000000000Z</updated>
-    <link href="https://www.independent.co.uk/travel/news-and-advice/storm-eunice-trains-updates-cancellations-b2018074.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.independent.co.uk/travel/news-and-advice/storm-eunice-trains-updates-cancellations-b2018074.html" target="_blank"&gt;Storm Eunice: Which trains are cancelled across the UK?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Independent&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBd1Z3j0Vlqb_0604FkucrIqFwgEKg4IACoGCAowqvB9MMTRCTCGn-8G?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2022-02-18T09:26:04.000000000Z</updated>
     <link href="https://ifamagazine.com/article/so-alls-fine-and-dandy-on-the-high-street-not-so-say-retailers/" type="text/html"/>
     <content type="html">&lt;a href="https://ifamagazine.com/article/so-alls-fine-and-dandy-on-the-high-street-not-so-say-retailers/" target="_blank"&gt;So all's fine and dandy on the high street? Not so, say retailers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IFA Magazine&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIyMDIxODExMjIxL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3Mvd2FnYW1hbWEtYm94LWx1bmNodGltZS1kZWxpdmVyb28tbG9uZG9u0gEA?oc=5</id>
+    <title type="html">Wagamama roll out their BOX lunchtime deliveries across London - Hot Dinners</title>
+    <updated>2022-02-18T08:50:46.000000000Z</updated>
+    <link href="https://www.hot-dinners.com/2022021811221/Gastroblog/Latest-news/wagamama-box-lunchtime-deliveroo-london" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hot-dinners.com/2022021811221/Gastroblog/Latest-news/wagamama-box-lunchtime-deliveroo-london" target="_blank"&gt;Wagamama roll out their BOX lunchtime deliveries across London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Cool beetle</title>
@@ -131,32 +131,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Buds and bloom</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659240/"/>
-    <id>tag:flickr.com,2005:/photo/51870659240</id>
-    <published>2022-02-08T16:37:20Z</published>
-    <updated>2022-02-08T16:37:20Z</updated>
-    <flickr:date_taken>2022-02-08T11:55:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:55:31-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659240/" title="Buds and bloom"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_m.jpg" width="240" height="135" alt="Buds and bloom" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Leaves through fence</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045402/"/>
     <id>tag:flickr.com,2005:/photo/51869045402</id>
@@ -179,6 +153,32 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="fence" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Buds and bloom</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659240/"/>
+    <id>tag:flickr.com,2005:/photo/51870659240</id>
+    <published>2022-02-08T16:37:20Z</published>
+    <updated>2022-02-08T16:37:20Z</updated>
+    <flickr:date_taken>2022-02-08T11:55:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:55:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659240/" title="Buds and bloom"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_m.jpg" width="240" height="135" alt="Buds and bloom" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
