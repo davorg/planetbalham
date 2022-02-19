@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-19T11:50:57Z</updated>
+  <updated>2022-02-19T12:16:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1007mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-19T09:57:00.000+0000</id>
-    <published>2022-02-19T11:02:04Z</published>
-    <updated>2022-02-19T11:02:04Z</updated>
+    <published>2022-02-19T12:02:51Z</published>
+    <updated>2022-02-19T12:02:51Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 21mph, Visibility: Good, Pressure: 1004mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-19T09:57:00.000+0000</id>
-    <published>2022-02-19T11:02:04Z</published>
-    <updated>2022-02-19T11:02:04Z</updated>
+    <published>2022-02-19T12:02:51Z</published>
+    <updated>2022-02-19T12:02:51Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (54°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1006mb, Humidity: 59%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-19T09:57:00.000+0000</id>
-    <published>2022-02-19T11:02:04Z</published>
-    <updated>2022-02-19T11:02:04Z</updated>
+    <published>2022-02-19T12:02:51Z</published>
+    <updated>2022-02-19T12:02:51Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wMi8xOC9hcy10aGUtcHJlc3N1cmUtbW91bnRzLXRyYW1zLWFyZS10YWtpbmctaXQtb25lLWdhbWUtYXQtYS10aW1lL9IBZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wMi8xOC9hcy10aGUtcHJlc3N1cmUtbW91bnRzLXRyYW1zLWFyZS10YWtpbmctaXQtb25lLWdhbWUtYXQtYS10aW1lL2FtcC8?oc=5</id>
@@ -99,6 +99,33 @@
     <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="vw" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="classiccar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Pretty pigeon</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51881776023/"/>
+    <id>tag:flickr.com,2005:/photo/51881776023</id>
+    <published>2022-02-14T16:53:29Z</published>
+    <updated>2022-02-14T16:53:29Z</updated>
+    <flickr:date_taken>2022-02-14T11:59:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-14T11:59:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51881776023/" title="Pretty pigeon"&gt;&lt;img src="https://live.staticflickr.com/65535/51881776023_7a2e81ca5f_m.jpg" width="240" height="135" alt="Pretty pigeon" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51881776023_7a2e81ca5f_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
@@ -182,35 +209,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Under the bridge</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659825/"/>
-    <id>tag:flickr.com,2005:/photo/51870659825</id>
-    <published>2022-02-08T16:37:17Z</published>
-    <updated>2022-02-08T16:37:17Z</updated>
-    <flickr:date_taken>2022-02-08T11:46:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:46:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659825/" title="Under the bridge"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_m.jpg" width="240" height="150" alt="Under the bridge" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
