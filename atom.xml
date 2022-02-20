@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-20T07:15:11Z</updated>
+  <updated>2022-02-20T07:51:18Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -76,34 +76,6 @@
     <content type="html">&lt;a href="https://ifamagazine.com/article/so-alls-fine-and-dandy-on-the-high-street-not-so-say-retailers/" target="_blank"&gt;So all's fine and dandy on the high street? Not so, say retailers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IFA Magazine&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Cool beetle</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51881698346/"/>
-    <id>tag:flickr.com,2005:/photo/51881698346</id>
-    <published>2022-02-14T16:53:30Z</published>
-    <updated>2022-02-14T16:53:30Z</updated>
-    <flickr:date_taken>2022-02-14T12:06:28-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-14T12:06:28-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51881698346/" title="Cool beetle"&gt;&lt;img src="https://live.staticflickr.com/65535/51881698346_39d1e44544_m.jpg" width="240" height="135" alt="Cool beetle" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51881698346_39d1e44544_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vw" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="classiccar" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pretty pigeon</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51881776023/"/>
     <id>tag:flickr.com,2005:/photo/51881776023</id>
@@ -127,32 +99,6 @@
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Buds and bloom</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659240/"/>
-    <id>tag:flickr.com,2005:/photo/51870659240</id>
-    <published>2022-02-08T16:37:20Z</published>
-    <updated>2022-02-08T16:37:20Z</updated>
-    <flickr:date_taken>2022-02-08T11:55:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:55:31-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659240/" title="Buds and bloom"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_m.jpg" width="240" height="135" alt="Buds and bloom" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -185,6 +131,32 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Buds and bloom</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659240/"/>
+    <id>tag:flickr.com,2005:/photo/51870659240</id>
+    <published>2022-02-08T16:37:20Z</published>
+    <updated>2022-02-08T16:37:20Z</updated>
+    <flickr:date_taken>2022-02-08T11:55:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:55:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659240/" title="Buds and bloom"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_m.jpg" width="240" height="135" alt="Buds and bloom" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659240_d591bb9e1e_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Rosette</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045587/"/>
     <id>tag:flickr.com,2005:/photo/51869045587</id>
@@ -209,6 +181,35 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Extinction imminent</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870007196/"/>
+    <id>tag:flickr.com,2005:/photo/51870007196</id>
+    <published>2022-02-08T16:37:18Z</published>
+    <updated>2022-02-08T16:37:18Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870007196/" title="Extinction imminent"&gt;&lt;img src="https://live.staticflickr.com/65535/51870007196_bd51560e6c_m.jpg" width="240" height="135" alt="Extinction imminent" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870007196_bd51560e6c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
