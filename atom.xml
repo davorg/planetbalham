@@ -7,35 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-20T20:16:20Z</updated>
+  <updated>2022-02-20T20:51:24Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvbmhzLWNyaXRpY2FsLWNhcmUtbnVyc2Utb3BlbnMtMjYyODI0NjTSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL25ocy1jcml0aWNhbC1jYXJlLW51cnNlLW9wZW5zLTI2MjgyNDY0LmFtcA?oc=5</id>
-    <title type="html">NHS critical care nurse opens up about the horrors of Covid wards - Mirror.co.uk</title>
-    <updated>2022-02-20T20:07:18.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/news/uk-news/nhs-critical-care-nurse-opens-26282464" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/nhs-critical-care-nurse-opens-26282464" target="_blank"&gt;NHS critical care nurse opens up about the horrors of Covid wards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror.co.uk&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Tonight: Light Rain Showers, Minimum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 29mph, Visibility: Good, Pressure: 1001mb, Humidity: 71%, UV Risk: 0, Pollution: Low, Sunset: 17:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 29mph, Visibility: Good, Pressure: 1001mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunset: 17:24 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-20T09:54:00.000+0000</id>
-    <published>2022-02-20T20:02:39Z</published>
-    <updated>2022-02-20T20:02:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-20T19:02:00.000+0000</id>
+    <published>2022-02-20T20:22:38Z</published>
+    <updated>2022-02-20T20:22:38Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (54°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (54°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1008mb, Humidity: 58%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1007mb, Humidity: 58%, UV Risk: 1, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-20T09:54:00.000+0000</id>
-    <published>2022-02-20T20:02:39Z</published>
-    <updated>2022-02-20T20:02:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-20T19:02:00.000+0000</id>
+    <published>2022-02-20T20:22:38Z</published>
+    <updated>2022-02-20T20:22:38Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 13°C (56°F)</title>
@@ -43,9 +36,16 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 07:01 GMT, Sunset: 17:28 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-20T09:54:00.000+0000</id>
-    <published>2022-02-20T20:02:39Z</published>
-    <updated>2022-02-20T20:02:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-20T19:02:00.000+0000</id>
+    <published>2022-02-20T20:22:38Z</published>
+    <updated>2022-02-20T20:22:38Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiENDf_i8vCVMOvm1Vui9LbwoqGAgEKg8IACoHCAowqa6gCTCuoHAw3oqLAw?oc=5</id>
+    <title type="html">NHS critical care nurse describes Covid ward horror of watching patients die alone - The Mirror</title>
+    <updated>2022-02-20T20:07:18.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/news/uk-news/nhs-critical-care-nurse-opens-26282464" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/nhs-critical-care-nurse-opens-26282464" target="_blank"&gt;NHS critical care nurse describes Covid ward horror of watching patients die alone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2VhdGhlci9zdG9ybS1ldW5pY2UtbGl2ZS11cGRhdGVzLWxvbmRvbi0yMzEzMDI4M9IBT2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2VhdGhlci9zdG9ybS1ldW5pY2UtbGl2ZS11cGRhdGVzLWxvbmRvbi0yMzEzMDI4My5hbXA?oc=5</id>
@@ -99,6 +99,33 @@
     <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="vw" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="classiccar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Pretty pigeon</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51881776023/"/>
+    <id>tag:flickr.com,2005:/photo/51881776023</id>
+    <published>2022-02-14T16:53:29Z</published>
+    <updated>2022-02-14T16:53:29Z</updated>
+    <flickr:date_taken>2022-02-14T11:59:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-14T11:59:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51881776023/" title="Pretty pigeon"&gt;&lt;img src="https://live.staticflickr.com/65535/51881776023_7a2e81ca5f_m.jpg" width="240" height="135" alt="Pretty pigeon" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51881776023_7a2e81ca5f_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
@@ -182,35 +209,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Extinction imminent</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870007196/"/>
-    <id>tag:flickr.com,2005:/photo/51870007196</id>
-    <published>2022-02-08T16:37:18Z</published>
-    <updated>2022-02-08T16:37:18Z</updated>
-    <flickr:date_taken>2022-02-08T11:46:55-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:46:55-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870007196/" title="Extinction imminent"&gt;&lt;img src="https://live.staticflickr.com/65535/51870007196_bd51560e6c_m.jpg" width="240" height="135" alt="Extinction imminent" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870007196_bd51560e6c_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
