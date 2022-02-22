@@ -7,15 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-22T19:50:59Z</updated>
+  <updated>2022-02-22T20:16:20Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: 1°C (34°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 17:28 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-22T09:56:00.000+0000</id>
+    <published>2022-02-22T20:02:18Z</published>
+    <updated>2022-02-22T20:02:18Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 06:59 GMT, Sunset: 17:30 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-22T09:56:00.000+0000</id>
+    <published>2022-02-22T20:02:18Z</published>
+    <updated>2022-02-22T20:02:18Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 4°C (39°F) Maximum Temperature: 9°C (47°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 65%, UV Risk: 1, Pollution: Low, Sunrise: 06:57 GMT, Sunset: 17:31 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-22T09:56:00.000+0000</id>
+    <published>2022-02-22T20:02:18Z</published>
+    <updated>2022-02-22T20:02:18Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBW4k5h4icsLWma8KJNGRrUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">The best kebab shops in every London borough, according to TripAdvisor ratings - My London</title>
     <updated>2022-02-22T16:00:22.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/food-drink-news/best-kebab-shops-every-london-23179913" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/best-kebab-shops-every-london-23179913" target="_blank"&gt;The best kebab shops in every London borough, according to TripAdvisor ratings&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMijAFodHRwczovL2JyZWFraW5ndGhlbGluZXMuY29tL3BsYXllci1hbmFseXNpcy9mYWJpby1jYXJ2YWxoby1saXZlcnBvb2xzLWRlYWRsaW5lLWRheS10YXJnZXQtZGV2YXN0YXRpbmdseS1lZmZlY3RpdmUtZm9yLXRhYmxlLXRvcHBpbmctZnVsaGFtL9IBAA?oc=5</id>
+    <title type="html">Fabio Carvalho: Liverpool's Deadline Day Target Devastatingly Effective For Table-Topping Fulham - Breaking The Lines</title>
+    <updated>2022-02-22T14:13:15.000000000Z</updated>
+    <link href="https://breakingthelines.com/player-analysis/fabio-carvalho-liverpools-deadline-day-target-devastatingly-effective-for-table-topping-fulham/" type="text/html"/>
+    <content type="html">&lt;a href="https://breakingthelines.com/player-analysis/fabio-carvalho-liverpools-deadline-day-target-devastatingly-effective-for-table-topping-fulham/" target="_blank"&gt;Fabio Carvalho: Liverpool's Deadline Day Target Devastatingly Effective For Table-Topping Fulham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Breaking The Lines&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBgD-B1Puz_i7R9Os2DlpUkqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
@@ -37,13 +74,6 @@
     <updated>2022-02-21T15:24:00.000000000Z</updated>
     <link href="https://www.theguardian.com/culture/2022/feb/21/mark-thomas-comedy-product-how-we-made" type="text/html"/>
     <content type="html">&lt;a href="https://www.theguardian.com/culture/2022/feb/21/mark-thomas-comedy-product-how-we-made" target="_blank"&gt;‘I phoned the president of Ghana onstage in a pub’: how we made The Mark Thomas Comedy Product&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2VhdGhlci9zdG9ybS1ldW5pY2UtbGl2ZS11cGRhdGVzLWxvbmRvbi0yMzEzMDI4M9IBT2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2VhdGhlci9zdG9ybS1ldW5pY2UtbGl2ZS11cGRhdGVzLWxvbmRvbi0yMzEzMDI4My5hbXA?oc=5</id>
-    <title type="html">Storm Eunice live updates as rare red warning in force across all of London - MyLondon</title>
-    <updated>2022-02-18T12:18:24.000000000Z</updated>
-    <link href="https://www.mylondon.news/weather/storm-eunice-live-updates-london-23130283" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/weather/storm-eunice-live-updates-london-23130283" target="_blank"&gt;Storm Eunice live updates as rare red warning in force across all of London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Cool beetle</title>
