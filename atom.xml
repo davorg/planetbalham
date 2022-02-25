@@ -7,28 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-25T09:15:25Z</updated>
+  <updated>2022-02-25T09:50:47Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 1°C (33°F) Maximum Temperature: 11°C (52°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-25T07:02:00.000+0000</id>
-    <published>2022-02-25T09:03:13Z</published>
-    <updated>2022-02-25T09:03:13Z</updated>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjIvMDIvMjUvamVyc2V5LWJ1bGxzLWJhY2staG9tZS1mb3ItYmFsaGFtL9IBAA?oc=5</id>
+    <title type="html">Jersey Bulls back home for Balham - Jersey Evening Post</title>
+    <updated>2022-02-25T09:31:50.000000000Z</updated>
+    <link href="https://jerseyeveningpost.com/sport/football/2022/02/25/jersey-bulls-back-home-for-balham/" type="text/html"/>
+    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2022/02/25/jersey-bulls-back-home-for-balham/" target="_blank"&gt;Jersey Bulls back home for Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Today: Sunny, Minimum Temperature: -1°C (31°F) Maximum Temperature: 11°C (52°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-25T07:02:00.000+0000</id>
+    <published>2022-02-25T09:25:03Z</published>
+    <updated>2022-02-25T09:25:03Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Sunny, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1030mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-25T07:02:00.000+0000</id>
-    <published>2022-02-25T09:03:13Z</published>
-    <updated>2022-02-25T09:03:13Z</updated>
+    <published>2022-02-25T09:25:03Z</published>
+    <updated>2022-02-25T09:25:03Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1025mb, Humidity: 66%, UV Risk: 1, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-25T07:02:00.000+0000</id>
-    <published>2022-02-25T09:03:13Z</published>
-    <updated>2022-02-25T09:03:13Z</updated>
+    <published>2022-02-25T09:25:03Z</published>
+    <updated>2022-02-25T09:25:03Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LmZhcm5oYW1oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL2JhZHNob3QtbGVhLWFuZC1mYXJuaGFtLXRvd24tdG8tcmV0dXJuLXRvLWxlYWd1ZS1hY3Rpb24tNTEwODM40gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-02-22T11:24:52.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/london-nhs-nurse-who-worked-23173982" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-nhs-nurse-who-worked-23173982" target="_blank"&gt;London NHS nurse who worked in Covid 'ward of horror' watched patients die alone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEFoXGAmqQiGpLu7HqvkdCXoqFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
-    <title type="html">‘I phoned the president of Ghana onstage in a pub’: how we made The Mark Thomas Comedy Product - The Guardian</title>
-    <updated>2022-02-21T15:24:00.000000000Z</updated>
-    <link href="https://www.theguardian.com/culture/2022/feb/21/mark-thomas-comedy-product-how-we-made" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theguardian.com/culture/2022/feb/21/mark-thomas-comedy-product-how-we-made" target="_blank"&gt;‘I phoned the president of Ghana onstage in a pub’: how we made The Mark Thomas Comedy Product&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Cool beetle</title>
@@ -185,16 +185,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Rosette</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51869045587/"/>
-    <id>tag:flickr.com,2005:/photo/51869045587</id>
-    <published>2022-02-08T16:37:19Z</published>
-    <updated>2022-02-08T16:37:19Z</updated>
-    <flickr:date_taken>2022-02-08T11:52:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:52:39-08:00</dc:date.Taken>
+    <title>Extinction imminent</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870007196/"/>
+    <id>tag:flickr.com,2005:/photo/51870007196</id>
+    <published>2022-02-08T16:37:18Z</published>
+    <updated>2022-02-08T16:37:18Z</updated>
+    <flickr:date_taken>2022-02-08T11:46:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-08T11:46:55-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51869045587/" title="Rosette"&gt;&lt;img src="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_m.jpg" width="240" height="160" alt="Rosette" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870007196/" title="Extinction imminent"&gt;&lt;img src="https://live.staticflickr.com/65535/51870007196_bd51560e6c_m.jpg" width="240" height="135" alt="Extinction imminent" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -203,12 +203,13 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51869045587_66fcd4b25c_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870007196_bd51560e6c_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
