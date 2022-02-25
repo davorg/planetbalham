@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-25T11:15:08Z</updated>
+  <updated>2022-02-25T11:50:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: -1°C (31°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Today: Sunny, Minimum Temperature: -1°C (31°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1028mb, Humidity: 53%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-25T09:56:00.000+0000</id>
-    <published>2022-02-25T11:00:24Z</published>
-    <updated>2022-02-25T11:00:24Z</updated>
+    <published>2022-02-25T11:26:01Z</published>
+    <updated>2022-02-25T11:26:01Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 1°C (35°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (35°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1030mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-25T09:56:00.000+0000</id>
-    <published>2022-02-25T11:00:24Z</published>
-    <updated>2022-02-25T11:00:24Z</updated>
+    <published>2022-02-25T11:26:01Z</published>
+    <updated>2022-02-25T11:26:01Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 10°C (50°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1025mb, Humidity: 66%, UV Risk: 1, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-25T09:56:00.000+0000</id>
-    <published>2022-02-25T11:00:24Z</published>
-    <updated>2022-02-25T11:00:24Z</updated>
+    <published>2022-02-25T11:26:01Z</published>
+    <updated>2022-02-25T11:26:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjIvMDIvMjUvamVyc2V5LWJ1bGxzLWJhY2staG9tZS1mb3ItYmFsaGFtL9IBAA?oc=5</id>
@@ -75,6 +75,34 @@
     <link href="https://www.mylondon.news/news/south-london-news/london-nhs-nurse-who-worked-23173982" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-nhs-nurse-who-worked-23173982" target="_blank"&gt;London NHS nurse who worked in Covid 'ward of horror' watched patients die alone&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Cool beetle</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51881698346/"/>
+    <id>tag:flickr.com,2005:/photo/51881698346</id>
+    <published>2022-02-14T16:53:30Z</published>
+    <updated>2022-02-14T16:53:30Z</updated>
+    <flickr:date_taken>2022-02-14T12:06:28-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-14T12:06:28-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51881698346/" title="Cool beetle"&gt;&lt;img src="https://live.staticflickr.com/65535/51881698346_39d1e44544_m.jpg" width="240" height="135" alt="Cool beetle" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51881698346_39d1e44544_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classiccar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pretty pigeon</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51881776023/"/>
@@ -181,35 +209,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="leaves" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="buds" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Under the bridge</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51870659825/"/>
-    <id>tag:flickr.com,2005:/photo/51870659825</id>
-    <published>2022-02-08T16:37:17Z</published>
-    <updated>2022-02-08T16:37:17Z</updated>
-    <flickr:date_taken>2022-02-08T11:46:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-08T11:46:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51870659825/" title="Under the bridge"&gt;&lt;img src="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_m.jpg" width="240" height="150" alt="Under the bridge" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51870659825_2169fe4cd0_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tunnel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railwaybridge" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
