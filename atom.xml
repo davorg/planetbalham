@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-27T22:50:29Z</updated>
+  <updated>2022-02-27T23:16:12Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunset: 17:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 17:37 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-27T19:01:00.000+0000</id>
-    <published>2022-02-27T22:02:41Z</published>
-    <updated>2022-02-27T22:02:41Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-27T21:58:00.000+0000</id>
+    <published>2022-02-27T23:00:21Z</published>
+    <updated>2022-02-27T23:00:21Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-27T19:01:00.000+0000</id>
-    <published>2022-02-27T22:02:41Z</published>
-    <updated>2022-02-27T22:02:41Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-27T21:58:00.000+0000</id>
+    <published>2022-02-27T23:00:21Z</published>
+    <updated>2022-02-27T23:00:21Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 10°C (49°F)</title>
+    <title>Tuesday: Light Rain, Minimum Temperature: 8°C (47°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-27T19:01:00.000+0000</id>
-    <published>2022-02-27T22:02:41Z</published>
-    <updated>2022-02-27T22:02:41Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-27T21:58:00.000+0000</id>
+    <published>2022-02-27T23:00:21Z</published>
+    <updated>2022-02-27T23:00:21Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay93b3JsZC1uZXdzLzIwMjIvMDIvMjcvcnVzc2lhLXVrcmFpbmUtbmV3cy13YXItcHV0aW4temVsZW5za3ktbmF0by1sYXRlc3QtdXBkYXRlcy_SAQA?oc=5</id>
