@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-27T16:56:06Z</updated>
+  <updated>2022-02-27T17:15:54Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 3°C (38°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 48%, UV Risk: 1, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 17:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-27T09:56:00.000+0000</id>
-    <published>2022-02-27T16:54:40Z</published>
-    <updated>2022-02-27T16:54:40Z</updated>
+    <published>2022-02-27T17:02:06Z</published>
+    <updated>2022-02-27T17:02:06Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-27T09:56:00.000+0000</id>
-    <published>2022-02-27T16:54:40Z</published>
-    <updated>2022-02-27T16:54:40Z</updated>
+    <published>2022-02-27T17:02:06Z</published>
+    <updated>2022-02-27T17:02:06Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-27T09:56:00.000+0000</id>
-    <published>2022-02-27T16:54:40Z</published>
-    <updated>2022-02-27T16:54:40Z</updated>
+    <published>2022-02-27T17:02:06Z</published>
+    <updated>2022-02-27T17:02:06Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEOEW-lXrCBU4TbPDWIlkj_EqFggEKg4IACoGCAowzdp7ML-3CTCtyxU?oc=5</id>
-    <title type="html">Donations made to Ukraine humanitarian efforts as refugee numbers increase - The Independent</title>
+    <id>https://news.google.com/articles/CAIiEKLnWXDKD44zTRMCXV_NmjkqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <title type="html">Donations made to Ukraine humanitarian efforts as refugee numbers increase - Evening Standard</title>
     <updated>2022-02-27T14:08:51.000000000Z</updated>
-    <link href="https://www.independent.co.uk/news/uk/ukraine-people-balham-london-polish-b2024386.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.independent.co.uk/news/uk/ukraine-people-balham-london-polish-b2024386.html" target="_blank"&gt;Donations made to Ukraine humanitarian efforts as refugee numbers increase&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Independent&lt;/font&gt;</content>
+    <link href="https://www.standard.co.uk/news/uk/ukraine-people-balham-london-english-b984919.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/uk/ukraine-people-balham-london-english-b984919.html" target="_blank"&gt;Donations made to Ukraine humanitarian efforts as refugee numbers increase&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEKcSAPLZ_9gTX0wR0PbIkZ0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
