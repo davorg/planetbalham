@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-27T11:15:47Z</updated>
+  <updated>2022-02-27T11:51:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -48,11 +48,11 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/im-scared-baby-shops-customers-23189414" target="_blank"&gt;'I'm scared for my baby shop's customers when both free Covid tests and isolation are scrapped'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEATq_0U0I_7hAZDLjmb-98gqGQgEKhAIACoHCAowxsaVCzCXq6sDMPXkxgY?oc=5</id>
-    <title type="html">I was targeted by an internet creep after he spotted clue on my TikTok video – it’s terrifying... - The US Sun</title>
+    <id>https://news.google.com/articles/CAIiEIZ71lBZPUs4RSNyQ69P2FgqGQgEKhAIACoHCAow0Ij8CjCRwIgDMOSMzAU?oc=5</id>
+    <title type="html">I was targeted by an internet creep after he spotted clue on my TikTok video – it’s terrifying... - The Sun</title>
     <updated>2022-02-25T19:01:00.000000000Z</updated>
-    <link href="https://www.the-sun.com/news/4773614/targeted-internet-creep-clue-tiktok-video/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.the-sun.com/news/4773614/targeted-internet-creep-clue-tiktok-video/" target="_blank"&gt;I was targeted by an internet creep after he spotted clue on my TikTok video – it’s terrifying...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
+    <link href="https://www.thesun.co.uk/news/17774167/targeted-internet-creep-clue-tiktok-video/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/news/17774167/targeted-internet-creep-clue-tiktok-video/" target="_blank"&gt;I was targeted by an internet creep after he spotted clue on my TikTok video – it’s terrifying...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Latte art</title>
@@ -82,6 +82,37 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Tent coffee</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51903391619/"/>
+    <id>tag:flickr.com,2005:/photo/51903391619</id>
+    <published>2022-02-25T13:37:06Z</published>
+    <updated>2022-02-25T13:37:06Z</updated>
+    <flickr:date_taken>2022-02-25T10:20:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-25T10:20:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51903391619/" title="Tent coffee"&gt;&lt;img src="https://live.staticflickr.com/65535/51903391619_7d424929c7_m.jpg" width="240" height="160" alt="Tent coffee" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Milk, Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51903391619_7d424929c7_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -175,34 +206,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Shutter graffiti</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51903711485/"/>
-    <id>tag:flickr.com,2005:/photo/51903711485</id>
-    <published>2022-02-25T13:37:03Z</published>
-    <updated>2022-02-25T13:37:03Z</updated>
-    <flickr:date_taken>2022-02-25T10:02:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-25T10:02:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51903711485/" title="Shutter graffiti"&gt;&lt;img src="https://live.staticflickr.com/65535/51903711485_32a71a816e_m.jpg" width="240" height="150" alt="Shutter graffiti" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hildreth Street, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51903711485_32a71a816e_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shutters" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
