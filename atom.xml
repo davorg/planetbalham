@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-28T09:18:46Z</updated>
+  <updated>2022-02-28T09:52:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEB2JrTgZNWASFR8I674EWAcqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?oc=5</id>
+    <title type="html">Latest Russia-Ukraine war news: Ukraine holds Kyiv, Kharkiv; Belarus border talks due to begin - The Washington Post</title>
+    <updated>2022-02-28T09:30:30.000000000Z</updated>
+    <link href="https://www.washingtonpost.com/world/2022/02/28/russia-ukraine-war-putin-news/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.washingtonpost.com/world/2022/02/28/russia-ukraine-war-putin-news/" target="_blank"&gt;Latest Russia-Ukraine war news: Ukraine holds Kyiv, Kharkiv; Belarus border talks due to begin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -39,13 +46,6 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-28T07:02:00.000+0000</id>
     <published>2022-02-28T09:09:45Z</published>
     <updated>2022-02-28T09:09:45Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEB2JrTgZNWASFR8I674EWAcqGAgEKg8IACoHCAowjtSUCjC30XQwzqe5AQ?oc=5</id>
-    <title type="html">Latest Russia-Ukraine war news: Ukraine holds Kyiv, Kharkiv; Belarus border talks due to begin - The Washington Post</title>
-    <updated>2022-02-28T09:00:00.000000000Z</updated>
-    <link href="https://www.washingtonpost.com/world/2022/02/28/russia-ukraine-war-putin-news/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.washingtonpost.com/world/2022/02/28/russia-ukraine-war-putin-news/" target="_blank"&gt;Latest Russia-Ukraine war news: Ukraine holds Kyiv, Kharkiv; Belarus border talks due to begin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiigFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvb3RoZXIvdm9sdW50ZWVycy1zb3J0LXRocm91Z2gtZG9uYXRpb25zLWZvci11a3JhaW5pYW4tcmVmdWdlZXMtYXQtdGhlLXdoaXRlLWVhZ2xlLWNsdWItaW4tYmFsaGFtL3ZpLUFBVW95T0vSAQA?oc=5</id>
@@ -103,6 +103,37 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Tent coffee</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51903391619/"/>
+    <id>tag:flickr.com,2005:/photo/51903391619</id>
+    <published>2022-02-25T13:37:06Z</published>
+    <updated>2022-02-25T13:37:06Z</updated>
+    <flickr:date_taken>2022-02-25T10:20:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-25T10:20:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51903391619/" title="Tent coffee"&gt;&lt;img src="https://live.staticflickr.com/65535/51903391619_7d424929c7_m.jpg" width="240" height="160" alt="Tent coffee" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Milk, Hildreth Street, Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51903391619_7d424929c7_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -196,34 +227,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Shutter graffiti</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51903711485/"/>
-    <id>tag:flickr.com,2005:/photo/51903711485</id>
-    <published>2022-02-25T13:37:03Z</published>
-    <updated>2022-02-25T13:37:03Z</updated>
-    <flickr:date_taken>2022-02-25T10:02:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-25T10:02:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51903711485/" title="Shutter graffiti"&gt;&lt;img src="https://live.staticflickr.com/65535/51903711485_32a71a816e_m.jpg" width="240" height="150" alt="Shutter graffiti" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hildreth Street, Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51903711485_32a71a816e_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shutters" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
