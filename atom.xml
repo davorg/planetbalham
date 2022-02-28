@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-28T16:58:37Z</updated>
+  <updated>2022-02-28T17:17:08Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 11°C (53°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 17:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-02-28T09:56:00.000+0000</id>
-    <published>2022-02-28T16:07:08Z</published>
-    <updated>2022-02-28T16:07:08Z</updated>
+    <published>2022-02-28T17:11:46Z</published>
+    <updated>2022-02-28T17:11:46Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Heavy Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 10°C (50°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 92%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-02-28T09:56:00.000+0000</id>
-    <published>2022-02-28T16:07:08Z</published>
-    <updated>2022-02-28T16:07:08Z</updated>
+    <published>2022-02-28T17:11:46Z</published>
+    <updated>2022-02-28T17:11:46Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Drizzle, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 06:44 GMT, Sunset: 17:42 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-02-28T09:56:00.000+0000</id>
-    <published>2022-02-28T16:07:08Z</published>
-    <updated>2022-02-28T16:07:08Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECcmbEr7Wm8i2aJFIvf_PAcqGQgEKhAIACoHCAownKyACzD_r4wDMOHC8wY?oc=5</id>
-    <title type="html">'It's all we can do': Donations pile high as hundreds of Londoners rally round Ukraine - LBC</title>
-    <updated>2022-02-28T15:28:00.000000000Z</updated>
-    <link href="https://www.lbc.co.uk/news/ukrainian-refugees-uk-home-secretary/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.lbc.co.uk/news/ukrainian-refugees-uk-home-secretary/" target="_blank"&gt;'It's all we can do': Donations pile high as hundreds of Londoners rally round Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LBC&lt;/font&gt;</content>
+    <published>2022-02-28T17:11:46Z</published>
+    <updated>2022-02-28T17:11:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lmdvb2R0by5jb20vZmFtaWx5L2ZhbWlseS1uZXdzL3doZXJlLWRvbmF0ZS10by11a3JhaW5lLWNoYXJpdGllcy02NTI3MDfSAQA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2022-02-28T08:39:31.000000000Z</updated>
     <link href="https://www.somersetlive.co.uk/news/uk-world-news/live-russia-ukraine-invasion-war-6727377" type="text/html"/>
     <content type="html">&lt;a href="https://www.somersetlive.co.uk/news/uk-world-news/live-russia-ukraine-invasion-war-6727377" target="_blank"&gt;Live latest from Ukraine as Russia could give order to use nuclear weapons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Somerset Live&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEPi2aGzq0rK8T3LUm7jA1KEqGQgEKhAIACoHCAowzuOICzCZ4ocDMPX1qQY?oc=5</id>
+    <title type="html">RUSSIA-UKRAINE LIVE: Vladimir Putin rants over Western sanctions - Daily Mail</title>
+    <updated>2022-02-28T07:42:42.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-10559377/Russia-Ukraine-live-updates-war-invasion.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-10559377/Russia-Ukraine-live-updates-war-invasion.html" target="_blank"&gt;RUSSIA-UKRAINE LIVE: Vladimir Putin rants over Western sanctions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Latte art</title>
