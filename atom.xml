@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-01T15:17:11Z</updated>
+  <updated>2022-03-01T15:52:03Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -200,33 +200,30 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Coffee with Mum (1/2)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51903711395/"/>
-    <id>tag:flickr.com,2005:/photo/51903711395</id>
-    <published>2022-02-25T13:37:04Z</published>
-    <updated>2022-02-25T13:37:04Z</updated>
-    <flickr:date_taken>2022-02-25T10:19:05-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-02-25T10:19:05-08:00</dc:date.Taken>
+    <title>Shutter graffiti</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51903711485/"/>
+    <id>tag:flickr.com,2005:/photo/51903711485</id>
+    <published>2022-02-25T13:37:03Z</published>
+    <updated>2022-02-25T13:37:03Z</updated>
+    <flickr:date_taken>2022-02-25T10:02:41-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-25T10:02:41-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51903711395/" title="Coffee with Mum (1/2)"&gt;&lt;img src="https://live.staticflickr.com/65535/51903711395_42d194e22b_m.jpg" width="160" height="240" alt="Coffee with Mum (1/2)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51903711485/" title="Shutter graffiti"&gt;&lt;img src="https://live.staticflickr.com/65535/51903711485_32a71a816e_m.jpg" width="240" height="150" alt="Shutter graffiti" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Milk, Hildreth Street, Balham, London&lt;/p&gt;</content>
+&lt;p&gt;Hildreth Street, Balham, London&lt;/p&gt;</content>
     <author>
       <name>PChamaeleoMH</name>
       <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51903711395_42d194e22b_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="latteart" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51903711485_32a71a816e_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flatwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shutters" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
