@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-06T14:16:29Z</updated>
+  <updated>2022-03-06T14:51:35Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -46,13 +46,6 @@
     <updated>2022-03-05T09:30:00.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/food-drink-news/best-tea-coffee-cafe-london-23111820" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/best-tea-coffee-cafe-london-23111820" target="_blank"&gt;The best cafes in every London borough according to Tripadvisor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEM4luns-Czq7hf5ybQMUPdcqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
-    <title type="html">Pub owner raises £3,000 in a day to send clothes and gear to Ukrainians in need - The Mirror</title>
-    <updated>2022-03-05T07:00:00.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/money/pub-owner-raises-3000-day-26370771" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/money/pub-owner-raises-3000-day-26370771" target="_blank"&gt;Pub owner raises £3,000 in a day to send clothes and gear to Ukrainians in need&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pjc3ZUekJCR0wyTjFCeEt3dVp5Z0FQAQ?oc=5</id>
@@ -175,6 +168,41 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916381001/"/>
+    <id>tag:flickr.com,2005:/photo/51916381001</id>
+    <published>2022-03-03T21:56:21Z</published>
+    <updated>2022-03-03T21:56:21Z</updated>
+    <flickr:date_taken>2022-03-03T21:43:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:43:09-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916381001/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916381001_4043fd3e33_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916381001_4043fd3e33_b.jpg"/>
+    <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="polish" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="volunteers" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gathering" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="supplies" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="for" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ukrainian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="refugees" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51915413417/"/>
     <id>tag:flickr.com,2005:/photo/51915413417</id>
     <published>2022-03-03T21:56:20Z</published>
@@ -208,47 +236,19 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916381211/"/>
-    <id>tag:flickr.com,2005:/photo/51916381211</id>
-    <published>2022-03-03T21:56:20Z</published>
-    <updated>2022-03-03T21:56:20Z</updated>
-    <flickr:date_taken>2022-03-03T21:43:21-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:43:21-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916381211/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916381211_437cdf19cd_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916381211_437cdf19cd_b.jpg"/>
-    <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="polish" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="volunteers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gathering" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="supplies" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="for" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ukrainian" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="refugees" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECuTUMcdg9Sah2SSY5xgBzsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
     <title type="html">'This is not a free skip': Fury as people leave dirty underwear and stained duvets at Ukraine donation point - My London</title>
     <updated>2022-03-03T16:41:38.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/this-not-free-skip-fury-23278474" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/this-not-free-skip-fury-23278474" target="_blank"&gt;'This is not a free skip': Fury as people leave dirty underwear and stained duvets at Ukraine donation point&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEKqNWg5z8RlW4Es6NVZriN8qMwgEKioIACIQlW6HAfaAkmkuOiMWX6efQioUCAoiEJVuhwH2gJJpLjojFl-nn0IwmsnBBw?oc=5</id>
+    <title type="html">Ukraine crisis: Here is how the people of Crawley can donate to make a difference - SussexWorld</title>
+    <updated>2022-03-03T15:55:00.000000000Z</updated>
+    <link href="https://www.sussexexpress.co.uk/news/people/a-donation-station-for-ukraine-is-opening-in-crawley-3595563" type="text/html"/>
+    <content type="html">&lt;a href="https://www.sussexexpress.co.uk/news/people/a-donation-station-for-ukraine-is-opening-in-crawley-3595563" target="_blank"&gt;Ukraine crisis: Here is how the people of Crawley can donate to make a difference&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2021 in Gigs</title>
