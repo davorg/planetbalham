@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-06T06:52:30Z</updated>
+  <updated>2022-03-06T07:15:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1029mb, Humidity: 65%, UV Risk: 1, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-05T21:58:00.000+0000</id>
-    <published>2022-03-06T06:00:17Z</published>
-    <updated>2022-03-06T06:00:17Z</updated>
+    <published>2022-03-06T07:01:08Z</published>
+    <updated>2022-03-06T07:01:08Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 0°C (33°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (33°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-05T21:58:00.000+0000</id>
-    <published>2022-03-06T06:00:17Z</published>
-    <updated>2022-03-06T06:00:17Z</updated>
+    <published>2022-03-06T07:01:08Z</published>
+    <updated>2022-03-06T07:01:08Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-05T21:58:00.000+0000</id>
-    <published>2022-03-06T06:00:17Z</published>
-    <updated>2022-03-06T06:00:17Z</updated>
+    <published>2022-03-06T07:01:08Z</published>
+    <updated>2022-03-06T07:01:08Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMP_O1fzVKsygS35rt_cEaMqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-03-05T09:30:00.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/food-drink-news/best-tea-coffee-cafe-london-23111820" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/best-tea-coffee-cafe-london-23111820" target="_blank"&gt;The best cafes in every London borough according to Tripadvisor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEM4luns-Czq7hf5ybQMUPdcqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
+    <title type="html">Pub owner raises £3,000 in a day to send clothes and gear to Ukrainians in need - The Mirror</title>
+    <updated>2022-03-05T07:00:00.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/money/pub-owner-raises-3000-day-26370771" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/money/pub-owner-raises-3000-day-26370771" target="_blank"&gt;Pub owner raises £3,000 in a day to send clothes and gear to Ukrainians in need&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjIvMDMvMDUvYnVsbHMtbWFuYWdlci1mcmVlbWFuLW1ha2VzLWNhc2UtZm9yLXRoZS1kZWZlbmNlL9IBAA?oc=5</id>
@@ -243,13 +250,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECuTUMcdg9Sah2SSY5xgBzsqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
-    <title type="html">'This is not a free skip': Fury as people leave dirty underwear and stained duvets at Ukraine donation point - My London</title>
-    <updated>2022-03-03T16:41:38.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/this-not-free-skip-fury-23278474" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/this-not-free-skip-fury-23278474" target="_blank"&gt;'This is not a free skip': Fury as people leave dirty underwear and stained duvets at Ukraine donation point&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>2021 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/01/2021-in-gigs.html" type="text/html"/>
