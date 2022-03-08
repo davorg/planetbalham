@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-08T04:54:03Z</updated>
+  <updated>2022-03-08T05:15:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 1°C (33°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (33°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunset: 17:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1015mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-07T21:57:00.000+0000</id>
-    <published>2022-03-08T04:35:50Z</published>
-    <updated>2022-03-08T04:35:50Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (52°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1015mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-07T21:57:00.000+0000</id>
-    <published>2022-03-08T04:35:50Z</published>
-    <updated>2022-03-08T04:35:50Z</updated>
+    <published>2022-03-08T05:02:32Z</published>
+    <updated>2022-03-08T05:02:32Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1019mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-07T21:57:00.000+0000</id>
+    <published>2022-03-08T05:02:32Z</published>
+    <updated>2022-03-08T05:02:32Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1019mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (47°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-07T21:57:00.000+0000</id>
-    <published>2022-03-08T04:35:50Z</published>
-    <updated>2022-03-08T04:35:50Z</updated>
+    <published>2022-03-08T05:02:32Z</published>
+    <updated>2022-03-08T05:02:32Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPcJxVAD1cupwZTYOhEcoUoqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
