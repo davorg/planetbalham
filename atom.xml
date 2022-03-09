@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-09T16:57:11Z</updated>
+  <updated>2022-03-09T17:16:31Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Partly Cloudy, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-09T09:55:00.000+0000</id>
-    <published>2022-03-09T16:01:35Z</published>
-    <updated>2022-03-09T16:01:35Z</updated>
+    <published>2022-03-09T17:00:38Z</published>
+    <updated>2022-03-09T17:00:38Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-09T09:55:00.000+0000</id>
-    <published>2022-03-09T16:01:35Z</published>
-    <updated>2022-03-09T16:01:35Z</updated>
+    <published>2022-03-09T17:00:38Z</published>
+    <updated>2022-03-09T17:00:38Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1005mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-09T09:55:00.000+0000</id>
-    <published>2022-03-09T16:01:35Z</published>
-    <updated>2022-03-09T16:01:35Z</updated>
+    <published>2022-03-09T17:00:38Z</published>
+    <updated>2022-03-09T17:00:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEA0i-WaFjI-vQtoVdqc-CsEqMwgEKioIACIQlW6HAfaAkmkuOiMWX6efQioUCAoiEJVuhwH2gJJpLjojFl-nn0IwmsnBBw?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-03-09T13:33:00.000000000Z</updated>
     <link href="https://www.sussexexpress.co.uk/news/world/huge-response-to-ukraine-collection-in-crawley-exceeds-wildest-expectations-3603774" type="text/html"/>
     <content type="html">&lt;a href="https://www.sussexexpress.co.uk/news/world/huge-response-to-ukraine-collection-in-crawley-exceeds-wildest-expectations-3603774" target="_blank"&gt;Huge response to Ukraine collection in Crawley exceeded Polish school's 'wildest expectations'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3doZXJlLWRvbmF0ZS1pdGVtcy11a3JhaW5lLWl0ZW1zLTEzMTEyMTc2OC5odG1s0gFSaHR0cHM6Ly91ay5zdHlsZS55YWhvby5jb20vYW1waHRtbC93aGVyZS1kb25hdGUtaXRlbXMtdWtyYWluZS1pdGVtcy0xMzExMjE3NjguaHRtbA?oc=5</id>
+    <title type="html">Where can I donate items for Ukraine and which items are most needed? - Yahoo Lifestyle UK</title>
+    <updated>2022-03-09T13:11:21.000000000Z</updated>
+    <link href="https://uk.style.yahoo.com/where-donate-items-ukraine-items-131121768.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.style.yahoo.com/where-donate-items-ukraine-items-131121768.html" target="_blank"&gt;Where can I donate items for Ukraine and which items are most needed?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Lifestyle UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEF3VoemlWiUnNbNoPe4a5skqFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-03-08T17:40:47.000000000Z</updated>
     <link href="https://www.marieclaire.co.uk/news/beauty-news/5-ways-beauty-brands-are-helping-ukraine-769709" type="text/html"/>
     <content type="html">&lt;a href="https://www.marieclaire.co.uk/news/beauty-news/5-ways-beauty-brands-are-helping-ukraine-769709" target="_blank"&gt;5 ways beauty brands are helping Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Marie Claire UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vbG9uZG9uLXBvc3QuY28udWsvbWFyay1mb3N0ZXItdXJnZXMtbG9uZG9uLXN3aW1tZXJzLXRvLW1ha2UtYS1zcGxhc2gtd2l0aC1zd2ltYXRob24v0gEA?oc=5</id>
-    <title type="html">MARK FOSTER URGES LONDON SWIMMERS TO 'MAKE A SPLASH' WITH SWIMATHON - London Post</title>
-    <updated>2022-03-08T16:28:37.000000000Z</updated>
-    <link href="https://london-post.co.uk/mark-foster-urges-london-swimmers-to-make-a-splash-with-swimathon/" type="text/html"/>
-    <content type="html">&lt;a href="https://london-post.co.uk/mark-foster-urges-london-swimmers-to-make-a-splash-with-swimathon/" target="_blank"&gt;MARK FOSTER URGES LONDON SWIMMERS TO 'MAKE A SPLASH' WITH SWIMATHON&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London Post&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
