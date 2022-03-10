@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-10T12:18:29Z</updated>
+  <updated>2022-03-10T12:58:15Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-10T09:58:00.000+0000</id>
     <published>2022-03-10T12:01:24Z</published>
     <updated>2022-03-10T12:01:24Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vZm9vdGJhbGwvbGl2ZS1ibG9nLzExMDk1LzEyNTA3MjA4L2NoZWxzZWEtaW4tdHVybW9pbC1hcy1hYnJhbW92aWNoLWFzc2V0cy1mcm96ZW4tcmVhY3Rpb27SAQA?oc=5</id>
+    <title type="html">The Football News &amp; Gossip Column LIVE! - Sky Sports</title>
+    <updated>2022-03-10T11:04:02.000000000Z</updated>
+    <link href="https://www.skysports.com/football/live-blog/11095/12507208/chelsea-in-turmoil-as-abramovich-assets-frozen-reaction" type="text/html"/>
+    <content type="html">&lt;a href="https://www.skysports.com/football/live-blog/11095/12507208/chelsea-in-turmoil-as-abramovich-assets-frozen-reaction" target="_blank"&gt;The Football News &amp; Gossip Column LIVE!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky Sports&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Twenty two years old.</title>
@@ -97,13 +104,6 @@
     <updated>2022-03-08T21:29:34.000000000Z</updated>
     <link href="https://www.newsanyway.com/2022/03/08/statement-from-the-leader-of-the-council-newsroom/" type="text/html"/>
     <content type="html">&lt;a href="https://www.newsanyway.com/2022/03/08/statement-from-the-leader-of-the-council-newsroom/" target="_blank"&gt;statement from the leader of the council – Newsroom&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Anyway&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm1hcmllY2xhaXJlLmNvLnVrL25ld3MvYmVhdXR5LW5ld3MvNS13YXlzLWJlYXV0eS1icmFuZHMtYXJlLWhlbHBpbmctdWtyYWluZS03Njk3MDnSAQA?oc=5</id>
-    <title type="html">5 ways beauty brands are helping Ukraine - Marie Claire UK</title>
-    <updated>2022-03-08T17:40:47.000000000Z</updated>
-    <link href="https://www.marieclaire.co.uk/news/beauty-news/5-ways-beauty-brands-are-helping-ukraine-769709" type="text/html"/>
-    <content type="html">&lt;a href="https://www.marieclaire.co.uk/news/beauty-news/5-ways-beauty-brands-are-helping-ukraine-769709" target="_blank"&gt;5 ways beauty brands are helping Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Marie Claire UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
