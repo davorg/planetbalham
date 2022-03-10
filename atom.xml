@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-10T18:16:29Z</updated>
+  <updated>2022-03-10T18:52:29Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1011mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunset: 17:56 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1011mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-10T09:58:00.000+0000</id>
-    <published>2022-03-10T18:02:10Z</published>
-    <updated>2022-03-10T18:02:10Z</updated>
+    <published>2022-03-10T18:33:48Z</published>
+    <updated>2022-03-10T18:33:48Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Easterly, Wind Speed: 16mph, Visibility: Good, Pressure: 1004mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-10T09:58:00.000+0000</id>
-    <published>2022-03-10T18:02:10Z</published>
-    <updated>2022-03-10T18:02:10Z</updated>
+    <published>2022-03-10T18:33:48Z</published>
+    <updated>2022-03-10T18:33:48Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1011mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 06:22 GMT, Sunset: 17:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-10T09:58:00.000+0000</id>
-    <published>2022-03-10T18:02:10Z</published>
-    <updated>2022-03-10T18:02:10Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnNreXNwb3J0cy5jb20vZm9vdGJhbGwvbGl2ZS1ibG9nLzExMDk1LzEyNTA3MjA4L25ld3MtZ29zc2lwLWNoZWxzZWEtaW4tY3Jpc2lzLWFzLWFicmFtb3ZpY2gtc2FuY3Rpb25lZNIBAA?oc=5</id>
-    <title type="html">The Football News &amp; Gossip Column LIVE! - Sky Sports</title>
-    <updated>2022-03-10T16:10:34.000000000Z</updated>
-    <link href="https://www.skysports.com/football/live-blog/11095/12507208/news-gossip-chelsea-in-crisis-as-abramovich-sanctioned" type="text/html"/>
-    <content type="html">&lt;a href="https://www.skysports.com/football/live-blog/11095/12507208/news-gossip-chelsea-in-crisis-as-abramovich-sanctioned" target="_blank"&gt;The Football News &amp; Gossip Column LIVE!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky Sports&lt;/font&gt;</content>
+    <published>2022-03-10T18:33:48Z</published>
+    <updated>2022-03-10T18:33:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEAVGRM0gWGgGqmNqimi8R64qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -105,6 +98,13 @@
     <link href="https://www.sussexexpress.co.uk/news/world/huge-response-to-ukraine-collection-in-crawley-exceeds-wildest-expectations-3603774" type="text/html"/>
     <content type="html">&lt;a href="https://www.sussexexpress.co.uk/news/world/huge-response-to-ukraine-collection-in-crawley-exceeds-wildest-expectations-3603774" target="_blank"&gt;Huge response to Ukraine collection in Crawley exceeded Polish school's 'wildest expectations'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEF3VoemlWiUnNbNoPe4a5skqFggEKg4IACoGCAowl6p7MN-zCTCOvRU?oc=5</id>
+    <title type="html">Cymande: the classic British funk band you don’t know you know - The Guardian</title>
+    <updated>2022-03-09T12:41:00.000000000Z</updated>
+    <link href="https://www.theguardian.com/music/2022/mar/09/cymande-the-classic-british-funk-band-you-dont-know-you-know" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theguardian.com/music/2022/mar/09/cymande-the-classic-british-funk-band-you-dont-know-you-know" target="_blank"&gt;Cymande: the classic British funk band you don’t know you know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916379476/"/>
@@ -126,41 +126,6 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916379476_015d4054a3_b.jpg"/>
-    <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="polish" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="volunteers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gathering" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="supplies" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="for" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ukrainian" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="refugees" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916704424/"/>
-    <id>tag:flickr.com,2005:/photo/51916704424</id>
-    <published>2022-03-03T21:56:30Z</published>
-    <updated>2022-03-03T21:56:30Z</updated>
-    <flickr:date_taken>2022-03-03T21:35:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:35:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916704424/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
@@ -231,6 +196,41 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916381001_4043fd3e33_b.jpg"/>
+    <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="polish" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="volunteers" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gathering" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="supplies" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="for" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ukrainian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="refugees" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916381211/"/>
+    <id>tag:flickr.com,2005:/photo/51916381211</id>
+    <published>2022-03-03T21:56:20Z</published>
+    <updated>2022-03-03T21:56:20Z</updated>
+    <flickr:date_taken>2022-03-03T21:43:21-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:43:21-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916381211/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916381211_437cdf19cd_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916381211_437cdf19cd_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
