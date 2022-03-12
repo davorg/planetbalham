@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-12T19:50:38Z</updated>
+  <updated>2022-03-12T20:16:04Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Light Rain, Minimum Temperature: 8°C (46°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1007mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunset: 17:59 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-12T09:55:00.000+0000</id>
+    <published>2022-03-12T20:02:20Z</published>
+    <updated>2022-03-12T20:02:20Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1007mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 06:20 GMT, Sunset: 18:01 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-12T09:55:00.000+0000</id>
+    <published>2022-03-12T20:02:20Z</published>
+    <updated>2022-03-12T20:02:20Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 13°C (56°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:18 GMT, Sunset: 18:03 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-12T09:55:00.000+0000</id>
+    <published>2022-03-12T20:02:20Z</published>
+    <updated>2022-03-12T20:02:20Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECRO33zkVMak9adNcpjJG3MqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">'I visited Aldi, Sainsbury's and Waitrose to see if I could find anything Russian still on the shelves' - My London</title>
@@ -39,11 +69,11 @@
     <content type="html">&lt;a href="https://inews.co.uk/news/ukrainian-refugees-how-help-uk-take-in-house-where-donate-clothes-items-money-1511203" target="_blank"&gt;How to help Ukrainian refugees in the UK: How to take in a refugee and where to donate clothes, items or money&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEAVGRM0gWGgGqmNqimi8R64qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Labour MPs visit Tooting Market businesses for International Women's Day - South West Londoner</title>
-    <updated>2022-03-10T15:55:23.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/10032022-labour-mps-visit-tooting-market-businesses-for-international-womens-day" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/10032022-labour-mps-visit-tooting-market-businesses-for-international-womens-day" target="_blank"&gt;Labour MPs visit Tooting Market businesses for International Women's Day&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL2Znd2cvY2F0aWUtd2lsa2lucy_SAQA?oc=5</id>
+    <title type="html">Catie Wilkins - First Gig, Worst Gig - British Comedy Guide</title>
+    <updated>2022-03-11T08:42:59.000000000Z</updated>
+    <link href="https://www.comedy.co.uk/live/fgwg/catie-wilkins/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.comedy.co.uk/live/fgwg/catie-wilkins/" target="_blank"&gt;Catie Wilkins - First Gig, Worst Gig&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Twenty two years old.</title>
