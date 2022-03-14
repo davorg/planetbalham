@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-14T16:57:50Z</updated>
+  <updated>2022-03-14T17:15:45Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 3°C (38°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 67%, UV Risk: 1, Pollution: Low, Sunrise: 06:18 GMT, Sunset: 18:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 18:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-14T09:58:00.000+0000</id>
-    <published>2022-03-14T16:13:37Z</published>
-    <updated>2022-03-14T16:13:37Z</updated>
+    <published>2022-03-14T17:13:47Z</published>
+    <updated>2022-03-14T17:13:47Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 06:16 GMT, Sunset: 18:05 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-14T09:58:00.000+0000</id>
-    <published>2022-03-14T16:13:37Z</published>
-    <updated>2022-03-14T16:13:37Z</updated>
+    <published>2022-03-14T17:13:47Z</published>
+    <updated>2022-03-14T17:13:47Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (40°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 06:13 GMT, Sunset: 18:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-14T09:58:00.000+0000</id>
-    <published>2022-03-14T16:13:37Z</published>
-    <updated>2022-03-14T16:13:37Z</updated>
+    <published>2022-03-14T17:13:47Z</published>
+    <updated>2022-03-14T17:13:47Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9uLXBvc3QuY28udWsvdGhlLWJlc3QtcGxhY2VzLXRvLWVuam95LWEtZ3Vpbm5lc3MtdGhpcy1zdC1wYXRyaWNrcy1kYXktMjAyMi_SAQA?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/i-visited-aldi-sainsburys-waitrose-23363648" target="_blank"&gt;'I visited Aldi, Sainsbury's and Waitrose to see if I could find anything Russian still on the shelves'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEJjZCYQsqD3p34Oy7SlgqN4qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">Balham nanny launches charity play classes for refugee children - South West Londoner</title>
-    <updated>2022-03-11T15:01:38.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/11032022-balham-nanny-launches-charity-play-classes-for-refugee-children" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/11032022-balham-nanny-launches-charity-play-classes-for-refugee-children" target="_blank"&gt;Balham nanny launches charity play classes for refugee children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEFEeFamXxNqhZrFZGlZXLSoqGAgEKg8IACoHCAowqa6gCTCuoHAw2oCLAw?oc=5</id>
+    <title type="html">Tragedy of Only Fools and Horses cast as Ron Pember becomes latest star to die at 87 - The Mirror</title>
+    <updated>2022-03-11T11:02:53.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/3am/celebrity-news/remembering-only-fools-horses-stars-26442330" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/3am/celebrity-news/remembering-only-fools-horses-stars-26442330" target="_blank"&gt;Tragedy of Only Fools and Horses cast as Ron Pember becomes latest star to die at 87&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Twenty two years old.</title>
@@ -212,15 +212,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51915413417/"/>
-    <id>tag:flickr.com,2005:/photo/51915413417</id>
-    <published>2022-03-03T21:56:20Z</published>
-    <updated>2022-03-03T21:56:20Z</updated>
-    <flickr:date_taken>2022-03-03T21:43:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:43:38-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916381001/"/>
+    <id>tag:flickr.com,2005:/photo/51916381001</id>
+    <published>2022-03-03T21:56:21Z</published>
+    <updated>2022-03-03T21:56:21Z</updated>
+    <flickr:date_taken>2022-03-03T21:43:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:43:09-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51915413417/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51915413417_dc96992d63_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916381001/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916381001_4043fd3e33_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
     <author>
@@ -230,7 +230,7 @@
       <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51915413417_dc96992d63_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916381001_4043fd3e33_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
