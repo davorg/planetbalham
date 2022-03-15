@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-15T15:51:25Z</updated>
+  <updated>2022-03-15T16:16:47Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Sunny, Minimum Temperature: 7°C (44°F) Maximum Temperature: 15°C (59°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 06:16 GMT, Sunset: 18:05 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-15T09:54:00.000+0000</id>
+    <published>2022-03-15T16:01:29Z</published>
+    <updated>2022-03-15T16:01:29Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Heavy Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (56°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 3°C (38°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 06:13 GMT, Sunset: 18:06 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-15T09:54:00.000+0000</id>
+    <published>2022-03-15T16:01:29Z</published>
+    <updated>2022-03-15T16:01:29Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Sunny, Minimum Temperature: 3°C (38°F) Maximum Temperature: 14°C (57°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 06:11 GMT, Sunset: 18:08 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-15T09:54:00.000+0000</id>
+    <published>2022-03-15T16:01:29Z</published>
+    <updated>2022-03-15T16:01:29Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51940136708/"/>
@@ -66,36 +96,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <title>Today: Sunny, Minimum Temperature: 7°C (44°F) Maximum Temperature: 15°C (59°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunrise: 06:16 GMT, Sunset: 18:05 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-15T09:54:00.000+0000</id>
-    <published>2022-03-15T15:23:44Z</published>
-    <updated>2022-03-15T15:23:44Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Heavy Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (56°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 3°C (38°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 06:13 GMT, Sunset: 18:06 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-15T09:54:00.000+0000</id>
-    <published>2022-03-15T15:23:44Z</published>
-    <updated>2022-03-15T15:23:44Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Sunny, Minimum Temperature: 3°C (38°F) Maximum Temperature: 14°C (57°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 06:11 GMT, Sunset: 18:08 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-15T09:54:00.000+0000</id>
-    <published>2022-03-15T15:23:44Z</published>
-    <updated>2022-03-15T15:23:44Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9oZWxwLXBlb3BsZS1pbi11a3JhaW5lLWZyb20tbG9uZG9uL9IBAA?oc=5</id>
     <title type="html">How To Help The People Of Ukraine While Living In London - Secret London</title>
