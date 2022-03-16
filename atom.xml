@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-16T09:50:43Z</updated>
+  <updated>2022-03-16T10:16:41Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMikgFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3Byb3BlcnR5LW5ld3MvbG9uZG9uLWhvdXNlLXByaWNlcy1yaXNlLWZhc3Rlc3QtcmF0ZS1pbi1zZXZlbi15ZWFycy1sdXh1cnktbWFya2V0LXJlYm91bmRzLWI5ODgzMjcuaHRtbNIBlgFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3Byb3BlcnR5LW5ld3MvbG9uZG9uLWhvdXNlLXByaWNlcy1yaXNlLWZhc3Rlc3QtcmF0ZS1pbi1zZXZlbi15ZWFycy1sdXh1cnktbWFya2V0LXJlYm91bmRzLWI5ODgzMjcuaHRtbD9hbXA?oc=5</id>
+    <title type="html">Central London house prices rise at fastest rate for seven years as luxury market rebounds - Evening Standard</title>
+    <updated>2022-03-16T10:09:38.000000000Z</updated>
+    <link href="https://www.standard.co.uk/homesandproperty/property-news/london-house-prices-rise-fastest-rate-in-seven-years-luxury-market-rebounds-b988327.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/property-news/london-house-prices-rise-fastest-rate-in-seven-years-luxury-market-rebounds-b988327.html" target="_blank"&gt;Central London house prices rise at fastest rate for seven years as luxury market rebounds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Heavy Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 06:13 GMT, Sunset: 18:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-16T07:01:00.000+0000</id>
-    <published>2022-03-16T09:26:26Z</published>
-    <updated>2022-03-16T09:26:26Z</updated>
+    <published>2022-03-16T10:01:23Z</published>
+    <updated>2022-03-16T10:01:23Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: 3°C (38°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1033mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 06:11 GMT, Sunset: 18:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-16T07:01:00.000+0000</id>
-    <published>2022-03-16T09:26:26Z</published>
-    <updated>2022-03-16T09:26:26Z</updated>
+    <published>2022-03-16T10:01:23Z</published>
+    <updated>2022-03-16T10:01:23Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 5°C (41°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1043mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-16T07:01:00.000+0000</id>
-    <published>2022-03-16T09:26:26Z</published>
-    <updated>2022-03-16T09:26:26Z</updated>
+    <published>2022-03-16T10:01:23Z</published>
+    <updated>2022-03-16T10:01:23Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMTk5OTUzMzkudG9vdGluZy1tYW4tc2VuZHMtYm94ZXMtc3VwcGxpZXMtdWtyYWluaWFucy1wb2xhbmQv0gEA?oc=5</id>
@@ -123,13 +130,6 @@
     <updated>2022-03-15T01:46:00.000000000Z</updated>
     <link href="https://www.the-sun.com/news/4895005/ukraine-donors-no-rubbish-useless-items-soiled-duvets/" type="text/html"/>
     <content type="html">&lt;a href="https://www.the-sun.com/news/4895005/ukraine-donors-no-rubbish-useless-items-soiled-duvets/" target="_blank"&gt;Ukraine donors told to stop sending SOILED duvets and posh coffee pods amid influx of bizarre items...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTU4MDU2Ni9MaXZlcnBvb2wtRW5nbGFuZC1VMjEtcHJvYmxlbS1Ccml0aXNoLVBhc3Nwb3J0LVNOVNIBZ2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTU4MDU2Ni9MaXZlcnBvb2wtRW5nbGFuZC1VMjEtcHJvYmxlbS1Ccml0aXNoLVBhc3Nwb3J0LVNOVC9hbXA?oc=5</id>
-    <title type="html">Liverpool target faces England U21 call-up confusion as British passport problem emerges - Express</title>
-    <updated>2022-03-14T20:01:00.000000000Z</updated>
-    <link href="https://www.express.co.uk/sport/football/1580566/Liverpool-England-U21-problem-British-Passport-SNT" type="text/html"/>
-    <content type="html">&lt;a href="https://www.express.co.uk/sport/football/1580566/Liverpool-England-U21-problem-British-Passport-SNT" target="_blank"&gt;Liverpool target faces England U21 call-up confusion as British passport problem emerges&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Twenty two years old.</title>
