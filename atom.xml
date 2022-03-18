@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-18T04:16:05Z</updated>
+  <updated>2022-03-18T04:53:26Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1040mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 18:10 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1040mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunset: 18:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-17T21:56:00.000+0000</id>
-    <published>2022-03-18T04:01:21Z</published>
-    <updated>2022-03-18T04:01:21Z</updated>
+    <published>2022-03-18T04:43:52Z</published>
+    <updated>2022-03-18T04:43:52Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1043mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1043mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-17T21:56:00.000+0000</id>
-    <published>2022-03-18T04:01:21Z</published>
-    <updated>2022-03-18T04:01:21Z</updated>
+    <published>2022-03-18T04:43:52Z</published>
+    <updated>2022-03-18T04:43:52Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1038mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-17T21:56:00.000+0000</id>
-    <published>2022-03-18T04:01:21Z</published>
-    <updated>2022-03-18T04:01:21Z</updated>
+    <published>2022-03-18T04:43:52Z</published>
+    <updated>2022-03-18T04:43:52Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJAu-4-4DSCvnS2OzrI0W5EqGQgEKhAIACoHCAowxsaVCzCXq6sDMPjkxgY?oc=5</id>
