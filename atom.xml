@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-18T11:50:44Z</updated>
+  <updated>2022-03-18T12:16:51Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1043mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 06:09 GMT, Sunset: 18:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-18T09:55:00.000+0000</id>
-    <published>2022-03-18T11:47:25Z</published>
-    <updated>2022-03-18T11:47:25Z</updated>
+    <published>2022-03-18T12:02:28Z</published>
+    <updated>2022-03-18T12:02:28Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 3°C (37°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 3°C (37°F), Wind Direction: Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1038mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-18T09:55:00.000+0000</id>
-    <published>2022-03-18T11:47:25Z</published>
-    <updated>2022-03-18T11:47:25Z</updated>
+    <published>2022-03-18T12:02:28Z</published>
+    <updated>2022-03-18T12:02:28Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-18T09:55:00.000+0000</id>
-    <published>2022-03-18T11:47:25Z</published>
-    <updated>2022-03-18T11:47:25Z</updated>
+    <published>2022-03-18T12:02:28Z</published>
+    <updated>2022-03-18T12:02:28Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjAwMDM1MzkuY2hhcmx0b24tcGFyay1hY2FkZW15LXNlbmQtZG9uYXRpb25zLXVrcmFpbmUv0gEA?oc=5</id>
+    <title type="html">Charlton Park Academy send donations for Ukraine - News Shopper</title>
+    <updated>2022-03-18T12:01:28.000000000Z</updated>
+    <link href="https://www.newsshopper.co.uk/news/20003539.charlton-park-academy-send-donations-ukraine/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.newsshopper.co.uk/news/20003539.charlton-park-academy-send-donations-ukraine/" target="_blank"&gt;Charlton Park Academy send donations for Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJAu-4-4DSCvnS2OzrI0W5EqGQgEKhAIACoHCAowxsaVCzCXq6sDMPjkxgY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-03-16T12:58:12.000000000Z</updated>
     <link href="https://www.standard.co.uk/business/soho-house-balham-south-london-membership-collective-group-b988414.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.standard.co.uk/business/soho-house-balham-south-london-membership-collective-group-b988414.html" target="_blank"&gt;Soho House ventures into South London with new club in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEKWwAfVHR1g_zAj3-M4KvqgqFwgEKg4IACoGCAowqvB9MMTRCTCznIwH?oc=5</id>
-    <title type="html">Central London house prices rise at fastest rate for seven years as luxury market rebounds - Evening Standard</title>
-    <updated>2022-03-16T10:12:45.000000000Z</updated>
-    <link href="https://www.standard.co.uk/homesandproperty/property-news/london-house-prices-rise-fastest-rate-in-seven-years-luxury-market-rebounds-b988327.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/homesandproperty/property-news/london-house-prices-rise-fastest-rate-in-seven-years-luxury-market-rebounds-b988327.html" target="_blank"&gt;Central London house prices rise at fastest rate for seven years as luxury market rebounds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
