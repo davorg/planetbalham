@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-19T19:51:09Z</updated>
+  <updated>2022-03-19T20:15:48Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 2°C (36°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1033mb, Humidity: 66%, UV Risk: 0, Pollution: Low, Sunset: 18:11 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (36°F), Wind Direction: Easterly, Wind Speed: 17mph, Visibility: Good, Pressure: 1032mb, Humidity: 65%, UV Risk: 0, Pollution: Low, Sunset: 18:11 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-19T09:55:00.000+0000</id>
-    <published>2022-03-19T19:10:15Z</published>
-    <updated>2022-03-19T19:10:15Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-19T19:58:00.000+0000</id>
+    <published>2022-03-19T20:10:17Z</published>
+    <updated>2022-03-19T20:10:17Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 0°C (33°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 0°C (33°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1029mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 1°C (34°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-19T09:55:00.000+0000</id>
-    <published>2022-03-19T19:10:15Z</published>
-    <updated>2022-03-19T19:10:15Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-19T19:58:00.000+0000</id>
+    <published>2022-03-19T20:10:17Z</published>
+    <updated>2022-03-19T20:10:17Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-19T09:55:00.000+0000</id>
-    <published>2022-03-19T19:10:15Z</published>
-    <updated>2022-03-19T19:10:15Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-19T19:58:00.000+0000</id>
+    <published>2022-03-19T20:10:17Z</published>
+    <updated>2022-03-19T20:10:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEEn1PAnK2hSaSBQRCLPfhi4qGQgEKhAIACoHCAowra-cCzDBubQDMP7SyAc?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-03-19T09:24:29.000000000Z</updated>
     <link href="https://www.premiumtimesng.com/regional/ssouth-west/518183-man-who-was-called-to-bar-at-76-buried-in-lagos.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.premiumtimesng.com/regional/ssouth-west/518183-man-who-was-called-to-bar-at-76-buried-in-lagos.html" target="_blank"&gt;Man who was called to Bar at 76 buried in Lagos&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Premium Times&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEACMBgQ98VVE3VR_xW5KzSYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">The bizarre reason why London once functioned as the capital city of six countries - My London</title>
+    <updated>2022-03-19T08:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/uk-world-news/bizarre-reason-london-once-functioned-23411063" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/bizarre-reason-london-once-functioned-23411063" target="_blank"&gt;The bizarre reason why London once functioned as the capital city of six countries&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihwFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvcGF0cmljay12aWVpcmEtaGFzLXNvdW5kLWFkdmljZS1mb3ItdHlyaWNrLW1pdGNoZWxsLWFmdGVyLXBhbGFjZS1kZWZlbmRlci1taXNzZXMtb3V0LW9uLWVuZ2xhbmQtY2FsbC11cC_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-03-18T17:04:51.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/entertainment/18032022-balham-director-hopes-to-spark-conversation-about-uk-racism-with-new-film-on-the-other-foot" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/entertainment/18032022-balham-director-hopes-to-spark-conversation-about-uk-racism-with-new-film-on-the-other-foot" target="_blank"&gt;On the Other Foot director hopes to start conversation about racism&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL2hvdy10by1oZWxwLXRoZS1wZW9wbGUtb2YtdWtyYWluZS1pZi15b3VyZS1saXZpbmctaW4tbG9uZG9uLTAyMjUyMtIBAA?oc=5</id>
-    <title type="html">How to help the people of Ukraine if you're living in London - Time Out London</title>
-    <updated>2022-03-18T16:30:00.000000000Z</updated>
-    <link href="https://www.timeout.com/london/news/how-to-help-the-people-of-ukraine-if-youre-living-in-london-022522" type="text/html"/>
-    <content type="html">&lt;a href="https://www.timeout.com/london/news/how-to-help-the-people-of-ukraine-if-youre-living-in-london-022522" target="_blank"&gt;How to help the people of Ukraine if you're living in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
@@ -198,15 +198,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916476523/"/>
-    <id>tag:flickr.com,2005:/photo/51916476523</id>
-    <published>2022-03-03T21:56:29Z</published>
-    <updated>2022-03-03T21:56:29Z</updated>
-    <flickr:date_taken>2022-03-03T21:38:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:38:37-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916704424/"/>
+    <id>tag:flickr.com,2005:/photo/51916704424</id>
+    <published>2022-03-03T21:56:30Z</published>
+    <updated>2022-03-03T21:56:30Z</updated>
+    <flickr:date_taken>2022-03-03T21:35:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:35:16-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916476523/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916476523_03aed1576b_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916704424/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
     <author>
@@ -216,7 +216,7 @@
       <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916476523_03aed1576b_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
