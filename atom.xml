@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-21T19:51:19Z</updated>
+  <updated>2022-03-21T20:17:45Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 76%, UV Risk: 0, Pollution: Moderate, Sunset: 18:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-21T09:55:00.000+0000</id>
-    <published>2022-03-21T19:41:32Z</published>
-    <updated>2022-03-21T19:41:32Z</updated>
+    <published>2022-03-21T20:02:46Z</published>
+    <updated>2022-03-21T20:02:46Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 19°C (67°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 62%, UV Risk: 3, Pollution: Moderate, Sunrise: 06:00 GMT, Sunset: 18:16 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-21T09:55:00.000+0000</id>
-    <published>2022-03-21T19:41:32Z</published>
-    <updated>2022-03-21T19:41:32Z</updated>
+    <published>2022-03-21T20:02:46Z</published>
+    <updated>2022-03-21T20:02:46Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 3°C (38°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 54%, UV Risk: 3, Pollution: Moderate, Sunrise: 05:57 GMT, Sunset: 18:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-21T09:55:00.000+0000</id>
-    <published>2022-03-21T19:41:32Z</published>
-    <updated>2022-03-21T19:41:32Z</updated>
+    <published>2022-03-21T20:02:46Z</published>
+    <updated>2022-03-21T20:02:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL2hvdy10by1oZWxwLXRoZS1wZW9wbGUtb2YtdWtyYWluZS1pZi15b3VyZS1saXZpbmctaW4tbG9uZG9uLTAyMjUyMtIBAA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-03-21T16:30:00.000000000Z</updated>
     <link href="https://www.timeout.com/london/news/how-to-help-the-people-of-ukraine-if-youre-living-in-london-022522" type="text/html"/>
     <content type="html">&lt;a href="https://www.timeout.com/london/news/how-to-help-the-people-of-ukraine-if-youre-living-in-london-022522" target="_blank"&gt;How to help the people of Ukraine if you're living in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vbmV3cy55YWhvby5jb20vd2hlcmUtZG9uYXRlLWl0ZW1zLXVrcmFpbmUtaXRlbXMtMTM1NjAwMjQ1Lmh0bWzSAU5odHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvd2hlcmUtZG9uYXRlLWl0ZW1zLXVrcmFpbmUtaXRlbXMtMTM1NjAwMjQ1Lmh0bWw?oc=5</id>
+    <title type="html">Where can I donate items for Ukraine and which items are most needed? - Yahoo News</title>
+    <updated>2022-03-21T13:56:00.000000000Z</updated>
+    <link href="https://news.yahoo.com/where-donate-items-ukraine-items-135600245.html" type="text/html"/>
+    <content type="html">&lt;a href="https://news.yahoo.com/where-donate-items-ukraine-items-135600245.html" target="_blank"&gt;Where can I donate items for Ukraine and which items are most needed?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOi6F4kgeyASTn2LE5f-nS4qGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-03-21T11:17:00.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/21032022-extinction-rebellion-forcefully-removed-from-wandsworth-tory-campaign-launch" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/21032022-extinction-rebellion-forcefully-removed-from-wandsworth-tory-campaign-launch" target="_blank"&gt;Extinction Rebellion forcefully removed from Wandsworth Tory campaign launch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIyLzAzLzIwLzUwMzkyL3BhdWwtbWVydG9ucy1iYWNrLW9uLXRvdXItd2l0aC1oaXMtaW1wcm8tY2h1bXPSAQA?oc=5</id>
-    <title type="html">Paul Merton's back on tour with his Impro Chums : News 2022 - Chortle</title>
-    <updated>2022-03-20T11:28:32.000000000Z</updated>
-    <link href="https://www.chortle.co.uk/news/2022/03/20/50392/paul-mertons-back-on-tour-with-his-impro-chums" type="text/html"/>
-    <content type="html">&lt;a href="https://www.chortle.co.uk/news/2022/03/20/50392/paul-mertons-back-on-tour-with-his-impro-chums" target="_blank"&gt;Paul Merton's back on tour with his Impro Chums : News 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
