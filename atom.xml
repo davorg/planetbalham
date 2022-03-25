@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-25T09:15:30Z</updated>
+  <updated>2022-03-25T09:50:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <title>Today: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 17°C (63°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 56%, UV Risk: 4, Pollution: High, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-25T07:03:00.000+0000</id>
-    <published>2022-03-25T09:03:37Z</published>
-    <updated>2022-03-25T09:03:37Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (63°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1033mb, Humidity: 58%, UV Risk: 3, Pollution: High, Sunrise: 05:51 GMT, Sunset: 18:23 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-25T07:03:00.000+0000</id>
-    <published>2022-03-25T09:03:37Z</published>
-    <updated>2022-03-25T09:03:37Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 15°C (58°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 4°C (40°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 71%, UV Risk: 2, Pollution: High, Sunrise: 05:48 BST, Sunset: 18:25 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-25T07:03:00.000+0000</id>
-    <published>2022-03-25T09:03:37Z</published>
-    <updated>2022-03-25T09:03:37Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYmlydGhzLW1hcnJpYWdlcy1hbmQtZGVhdGhzLW1hcmNoLTI1LTIwMjItYmZ4MDJqczJz0gEA?oc=5</id>
     <title type="html">Births, marriages and deaths: March 25, 2022 | Register - The Times</title>
