@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-25T12:17:41Z</updated>
+  <updated>2022-03-25T13:10:42Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 3°C (37°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 3°C (37°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1032mb, Humidity: 46%, UV Risk: 4, Pollution: High, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 3°C (37°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1032mb, Humidity: 45%, UV Risk: 4, Pollution: High, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-25T09:56:00.000+0000</id>
-    <published>2022-03-25T12:03:35Z</published>
-    <updated>2022-03-25T12:03:35Z</updated>
+    <published>2022-03-25T13:01:35Z</published>
+    <updated>2022-03-25T13:01:35Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1033mb, Humidity: 58%, UV Risk: 3, Pollution: High, Sunrise: 05:51 GMT, Sunset: 18:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-25T09:56:00.000+0000</id>
-    <published>2022-03-25T12:03:35Z</published>
-    <updated>2022-03-25T12:03:35Z</updated>
+    <published>2022-03-25T13:01:35Z</published>
+    <updated>2022-03-25T13:01:35Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 15°C (58°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1033mb, Humidity: 71%, UV Risk: 2, Pollution: High, Sunrise: 05:48 BST, Sunset: 18:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-25T09:56:00.000+0000</id>
-    <published>2022-03-25T12:03:35Z</published>
-    <updated>2022-03-25T12:03:35Z</updated>
+    <published>2022-03-25T13:01:35Z</published>
+    <updated>2022-03-25T13:01:35Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wMy8yNS9iaXR0ZXItcGlsbC1mb3ItdHJhbXMtYXMtdGhleS1hcmUtY3J1ZWxseS1kZW5pZWQtc2VtaS1maW5hbC1wbGFjZS_SAWtodHRwczovL2luc2lkZWNyb3lkb24uY29tLzIwMjIvMDMvMjUvYml0dGVyLXBpbGwtZm9yLXRyYW1zLWFzLXRoZXktYXJlLWNydWVsbHktZGVuaWVkLXNlbWktZmluYWwtcGxhY2UvYW1wLw?oc=5</id>
+    <title type="html">‘Bitter pill’ for Trams as they are cruelly denied semi-final place - Inside Croydon</title>
+    <updated>2022-03-25T12:32:06.000000000Z</updated>
+    <link href="https://insidecroydon.com/2022/03/25/bitter-pill-for-trams-as-they-are-cruelly-denied-semi-final-place/" type="text/html"/>
+    <content type="html">&lt;a href="https://insidecroydon.com/2022/03/25/bitter-pill-for-trams-as-they-are-cruelly-denied-semi-final-place/" target="_blank"&gt;‘Bitter pill’ for Trams as they are cruelly denied semi-final place&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zdGFycy1hc3NlbWJsZS1pbi1iYWxoYW0tdG8taGVscC11a3JhaW5lL9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-03-24T13:00:58.000000000Z</updated>
     <link href="https://www.cpfc.co.uk/palace-tv/video/palace-u18s-visit-ukraine-humanitarian-aid-project-in-balham/2022-03-24/?id=0_svskfsg3" type="text/html"/>
     <content type="html">&lt;a href="https://www.cpfc.co.uk/palace-tv/video/palace-u18s-visit-ukraine-humanitarian-aid-project-in-balham/2022-03-24/?id=0_svskfsg3" target="_blank"&gt;Palace U18s visit Ukraine humanitarian aid project in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Crystal Palace&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAsO0C6_77pfe6SIOjzSNr0qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
-    <title type="html">Cabbies drive London Black Cabs over 2,000 miles to deliver aid to Ukraine and rescue refugees from border - My London</title>
-    <updated>2022-03-24T12:16:46.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/east-london-news/cabbies-drive-london-black-cabs-23484586" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/east-london-news/cabbies-drive-london-black-cabs-23484586" target="_blank"&gt;Cabbies drive London Black Cabs over 2,000 miles to deliver aid to Ukraine and rescue refugees from border&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
