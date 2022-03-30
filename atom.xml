@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-29T23:51:06Z</updated>
+  <updated>2022-03-30T00:23:35Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 6°C (43°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1008mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 19:30 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1008mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-29T21:54:00.000+0000</id>
-    <published>2022-03-29T23:01:51Z</published>
-    <updated>2022-03-29T23:01:51Z</updated>
+    <published>2022-03-30T00:02:26Z</published>
+    <updated>2022-03-30T00:02:26Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 11°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1006mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-29T21:54:00.000+0000</id>
-    <published>2022-03-29T23:01:51Z</published>
-    <updated>2022-03-29T23:01:51Z</updated>
+    <published>2022-03-30T00:02:26Z</published>
+    <updated>2022-03-30T00:02:26Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1009mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-29T21:54:00.000+0000</id>
-    <published>2022-03-29T23:01:51Z</published>
-    <updated>2022-03-29T23:01:51Z</updated>
+    <published>2022-03-30T00:02:26Z</published>
+    <updated>2022-03-30T00:02:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFkdRhKfnEgUqvoRTPBLBi8qFQgEKg0IACoGCAowrqkBMKBFMJGBAg?oc=5</id>
