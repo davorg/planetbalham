@@ -7,46 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-30T12:16:50Z</updated>
+  <updated>2022-03-30T12:59:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (51°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-30T09:55:00.000+0000</id>
-    <published>2022-03-30T12:09:41Z</published>
-    <updated>2022-03-30T12:09:41Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 8°C (46°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1008mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-30T09:55:00.000+0000</id>
-    <published>2022-03-30T12:09:41Z</published>
-    <updated>2022-03-30T12:09:41Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (48°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 0°C (32°F), Wind Direction: Northerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1015mb, Humidity: 57%, UV Risk: 3, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-30T09:55:00.000+0000</id>
-    <published>2022-03-30T12:09:41Z</published>
-    <updated>2022-03-30T12:09:41Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBJ_DQ5dlNpq02nXHGS3jRoqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">London property market is so insane the average Barbican flats now sells for £1 million - My London</title>
-    <updated>2022-03-30T10:34:25.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/west-london-news/london-property-market-insane-average-23534837" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/west-london-news/london-property-market-insane-average-23534837" target="_blank"&gt;London property market is so insane the average Barbican flats now sells for £1 million&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbWVkaWF0ZWwuY28udWsvbmV3cy8yMDIyLzAzLzMwL3doeS13ZS1uZWVkLXRvLWxpc3Rlbi10by1hbmQtbGVhcm4tZnJvbS1qb2huLWxld2lzcy1ncmFuZC1kYW1lLXNoYXJvbi13aGl0ZS_SAQA?oc=5</id>
     <title type="html">Why we need to listen to and learn from John Lewis's grande Dame Sharon White - Mediatel News</title>
@@ -74,6 +37,13 @@
     <updated>2022-03-29T16:00:00.000000000Z</updated>
     <link href="https://www.forbes.com/sites/zakgarnerpurkis/2022/03/29/how-liverpool-fc-target-fabio-carvalho-was-discovered-and-what-the-man-who-found-him-did-next/" type="text/html"/>
     <content type="html">&lt;a href="https://www.forbes.com/sites/zakgarnerpurkis/2022/03/29/how-liverpool-fc-target-fabio-carvalho-was-discovered-and-what-the-man-who-found-him-did-next/" target="_blank"&gt;How Liverpool FC Target Fabio Carvalho Was Discovered And What The Man Who Found Him Did Next&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Forbes&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEMVTCF7uzeWAwd5hYOwDzvgqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
+    <title type="html">London bus strike: 30 TfL bus routes brought to a halt as drivers protest for better pay - My London</title>
+    <updated>2022-03-28T16:35:36.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/london-bus-strike-30-tfl-23525323" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-bus-strike-30-tfl-23525323" target="_blank"&gt;London bus strike: 30 TfL bus routes brought to a halt as drivers protest for better pay&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
