@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-30T16:56:22Z</updated>
+  <updated>2022-03-30T17:15:53Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-30T09:55:00.000+0000</id>
-    <published>2022-03-30T16:12:08Z</published>
-    <updated>2022-03-30T16:12:08Z</updated>
+    <published>2022-03-30T17:12:54Z</published>
+    <updated>2022-03-30T17:12:54Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 1°C (33°F) Maximum Temperature: 8°C (46°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1008mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-30T09:55:00.000+0000</id>
-    <published>2022-03-30T16:12:08Z</published>
-    <updated>2022-03-30T16:12:08Z</updated>
+    <published>2022-03-30T17:12:54Z</published>
+    <updated>2022-03-30T17:12:54Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,43 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 0°C (32°F), Wind Direction: Northerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1015mb, Humidity: 57%, UV Risk: 3, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-30T09:55:00.000+0000</id>
-    <published>2022-03-30T16:12:08Z</published>
-    <updated>2022-03-30T16:12:08Z</updated>
+    <published>2022-03-30T17:12:54Z</published>
+    <updated>2022-03-30T17:12:54Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBJ_DQ5dlNpq02nXHGS3jRoqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrcXbBg?oc=5</id>
+    <title type="html">London property market is so insane the average Barbican flats now sells for £1 million - My London</title>
+    <updated>2022-03-30T10:34:25.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/west-london-news/london-property-market-insane-average-23534837" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/west-london-news/london-property-market-insane-average-23534837" target="_blank"&gt;London property market is so insane the average Barbican flats now sells for £1 million&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbWVkaWF0ZWwuY28udWsvbmV3cy8yMDIyLzAzLzMwL3doeS13ZS1uZWVkLXRvLWxpc3Rlbi10by1hbmQtbGVhcm4tZnJvbS1qb2huLWxld2lzcy1ncmFuZC1kYW1lLXNoYXJvbi13aGl0ZS_SAQA?oc=5</id>
+    <title type="html">Why we need to listen to and learn from John Lewis's grande Dame Sharon White - Mediatel News</title>
+    <updated>2022-03-30T09:54:57.000000000Z</updated>
+    <link href="https://mediatel.co.uk/news/2022/03/30/why-we-need-to-listen-to-and-learn-from-john-lewiss-grand-dame-sharon-white/" type="text/html"/>
+    <content type="html">&lt;a href="https://mediatel.co.uk/news/2022/03/30/why-we-need-to-listen-to-and-learn-from-john-lewiss-grand-dame-sharon-white/" target="_blank"&gt;Why we need to listen to and learn from John Lewis's grande Dame Sharon White&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mediatel News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9ub3J0aC1sb25kb24tbmV3cy9pa2VhLWNsb3NlLXRvdHRlbmhhbS1icmFuY2gtNDUwLTIzNTQxMDU30gEA?oc=5</id>
+    <title type="html">Ikea to close Tottenham branch with 450 jobs at risk - My London</title>
+    <updated>2022-03-30T09:53:23.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/north-london-news/ikea-close-tottenham-branch-450-23541057" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/north-london-news/ikea-close-tottenham-branch-450-23541057" target="_blank"&gt;Ikea to close Tottenham branch with 450 jobs at risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDGZKF6o7xCVT98VKKC0fYQqGQgEKhAIACoHCAow2LCYCzDvurADMI6l0AY?oc=5</id>
+    <title type="html">Anwar Uddin to make history as first assistant boss of an England men's side from a British South Asian background - Sky Sports</title>
+    <updated>2022-03-30T07:54:57.000000000Z</updated>
+    <link href="https://www.skysports.com/football/news/11095/12578010/anwar-uddin-to-make-history-as-first-assistant-boss-of-an-england-mens-side-from-a-british-south-asian-background" type="text/html"/>
+    <content type="html">&lt;a href="https://www.skysports.com/football/news/11095/12578010/anwar-uddin-to-make-history-as-first-assistant-boss-of-an-england-mens-side-from-a-british-south-asian-background" target="_blank"&gt;Anwar Uddin to make history as first assistant boss of an England men's side from a British South Asian background&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky Sports&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2luLWxlYWRzLXR2LWJhZnRhLWF3YXJkcy0wNjU1NDU0MTEuaHRtbNIBSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9zaW4tbGVhZHMtdHYtYmFmdGEtYXdhcmRzLTA2NTU0NTQxMS5odG1s?oc=5</id>
+    <title type="html">It’s A Sin leads TV Bafta Awards nominations with nods for its stars - Yahoo News UK</title>
+    <updated>2022-03-30T07:14:52.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/sin-leads-tv-bafta-awards-065545411.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/sin-leads-tv-bafta-awards-065545411.html" target="_blank"&gt;It’s A Sin leads TV Bafta Awards nominations with nods for its stars&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Shapes and shadows</title>
