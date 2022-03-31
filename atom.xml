@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-31T05:15:23Z</updated>
+  <updated>2022-03-31T05:51:22Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1008mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1008mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-30T21:54:00.000+0000</id>
-    <published>2022-03-31T05:00:10Z</published>
-    <updated>2022-03-31T05:00:10Z</updated>
+    <published>2022-03-31T05:18:41Z</published>
+    <updated>2022-03-31T05:18:41Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 0°C (32°F), Wind Direction: Northerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1016mb, Humidity: 57%, UV Risk: 3, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-30T21:54:00.000+0000</id>
-    <published>2022-03-31T05:00:10Z</published>
-    <updated>2022-03-31T05:00:10Z</updated>
+    <published>2022-03-31T05:18:41Z</published>
+    <updated>2022-03-31T05:18:41Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 06:35 BST, Sunset: 19:35 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-30T21:54:00.000+0000</id>
-    <published>2022-03-31T05:00:10Z</published>
-    <updated>2022-03-31T05:00:10Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBJ_DQ5dlNpq02nXHGS3jRoqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrcXbBg?oc=5</id>
-    <title type="html">London property market is so insane the average Barbican flats now sells for £1 million - My London</title>
-    <updated>2022-03-30T10:34:25.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/west-london-news/london-property-market-insane-average-23534837" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/west-london-news/london-property-market-insane-average-23534837" target="_blank"&gt;London property market is so insane the average Barbican flats now sells for £1 million&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <published>2022-03-31T05:18:41Z</published>
+    <updated>2022-03-31T05:18:41Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbWVkaWF0ZWwuY28udWsvbmV3cy8yMDIyLzAzLzMwL3doeS13ZS1uZWVkLXRvLWxpc3Rlbi10by1hbmQtbGVhcm4tZnJvbS1qb2huLWxld2lzcy1ncmFuZC1kYW1lLXNoYXJvbi13aGl0ZS_SAQA?oc=5</id>
@@ -75,6 +68,41 @@
     <link href="https://www.forbes.com/sites/zakgarnerpurkis/2022/03/29/how-liverpool-fc-target-fabio-carvalho-was-discovered-and-what-the-man-who-found-him-did-next/" type="text/html"/>
     <content type="html">&lt;a href="https://www.forbes.com/sites/zakgarnerpurkis/2022/03/29/how-liverpool-fc-target-fabio-carvalho-was-discovered-and-what-the-man-who-found-him-did-next/" target="_blank"&gt;How Liverpool FC Target Fabio Carvalho Was Discovered And What The Man Who Found Him Did Next&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Forbes&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEMVTCF7uzeWAwd5hYOwDzvgqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
+    <title type="html">London bus strike: 30 TfL bus routes brought to a halt as drivers protest for better pay - My London</title>
+    <updated>2022-03-28T16:35:36.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/south-london-news/london-bus-strike-30-tfl-23525323" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-bus-strike-30-tfl-23525323" target="_blank"&gt;London bus strike: 30 TfL bus routes brought to a halt as drivers protest for better pay&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Shapes and shadows</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51940136708/"/>
+    <id>tag:flickr.com,2005:/photo/51940136708</id>
+    <published>2022-03-15T15:35:21Z</published>
+    <updated>2022-03-15T15:35:21Z</updated>
+    <flickr:date_taken>2022-03-15T11:35:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-15T11:35:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51940136708/" title="Shapes and shadows"&gt;&lt;img src="https://live.staticflickr.com/65535/51940136708_262b5ffaed_m.jpg" width="240" height="160" alt="Shapes and shadows" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51940136708_262b5ffaed_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="brickwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="windows" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Parapet shadows</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51940058146/"/>
@@ -189,41 +217,6 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
-    <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="polish" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="volunteers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gathering" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="supplies" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="for" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ukrainian" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="refugees" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916476523/"/>
-    <id>tag:flickr.com,2005:/photo/51916476523</id>
-    <published>2022-03-03T21:56:29Z</published>
-    <updated>2022-03-03T21:56:29Z</updated>
-    <flickr:date_taken>2022-03-03T21:38:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:38:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916476523/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916476523_03aed1576b_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
-    <author>
-      <name>Catholic Church (England and Wales)</name>
-      <uri>https://www.flickr.com/people/catholicism/</uri>
-      <flickr:nsid>27340278@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916476523_03aed1576b_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
