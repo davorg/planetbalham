@@ -7,15 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-03-31T13:00:13Z</updated>
+  <updated>2022-03-31T13:19:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vdHJhaW5pbmdncm91bmQuZ3VydS9hcnRpY2xlcy9mb3VyLWNvYWNoZXMtb2Ytc291dGgtYXNpYW4taGVyaXRhZ2Utb24tZW5nbGFuZC1jLWNvYWNoaW5nLXN0YWZm0gEA?oc=5</id>
-    <title type="html">Four South Asian coaches on England C staff - Training Ground Guru</title>
-    <updated>2022-03-31T09:27:28.000000000Z</updated>
-    <link href="https://trainingground.guru/articles/four-coaches-of-south-asian-heritage-on-england-c-coaching-staff" type="text/html"/>
-    <content type="html">&lt;a href="https://trainingground.guru/articles/four-coaches-of-south-asian-heritage-on-england-c-coaching-staff" target="_blank"&gt;Four South Asian coaches on England C staff&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Training Ground Guru&lt;/font&gt;</content>
+    <title>Today: Sunny, Minimum Temperature: -1°C (31°F) Maximum Temperature: 7°C (45°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 20mph, Visibility: Good, Pressure: 1009mb, Humidity: 37%, UV Risk: 2, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-03-31T09:54:00.000+0000</id>
+    <published>2022-03-31T13:04:10Z</published>
+    <updated>2022-03-31T13:04:10Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny, Minimum Temperature: -2°C (29°F) Maximum Temperature: 9°C (49°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -2°C (29°F), Wind Direction: Northerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1016mb, Humidity: 54%, UV Risk: 3, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-03-31T09:54:00.000+0000</id>
+    <published>2022-03-31T13:04:10Z</published>
+    <updated>2022-03-31T13:04:10Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Rain Showers, Minimum Temperature: -1°C (30°F) Maximum Temperature: 9°C (49°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:35 BST, Sunset: 19:35 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-03-31T09:54:00.000+0000</id>
+    <published>2022-03-31T13:04:10Z</published>
+    <updated>2022-03-31T13:04:10Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbWVkaWF0ZWwuY28udWsvbmV3cy8yMDIyLzAzLzMwL3doeS13ZS1uZWVkLXRvLWxpc3Rlbi10by1hbmQtbGVhcm4tZnJvbS1qb2huLWxld2lzcy1ncmFuZC1kYW1lLXNoYXJvbi13aGl0ZS_SAQA?oc=5</id>
@@ -23,6 +46,13 @@
     <updated>2022-03-30T09:54:57.000000000Z</updated>
     <link href="https://mediatel.co.uk/news/2022/03/30/why-we-need-to-listen-to-and-learn-from-john-lewiss-grand-dame-sharon-white/" type="text/html"/>
     <content type="html">&lt;a href="https://mediatel.co.uk/news/2022/03/30/why-we-need-to-listen-to-and-learn-from-john-lewiss-grand-dame-sharon-white/" target="_blank"&gt;Why we need to listen to and learn from John Lewis's grande Dame Sharon White&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mediatel News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDGZKF6o7xCVT98VKKC0fYQqGQgEKhAIACoHCAow2LCYCzDvurADMI6l0AY?oc=5</id>
+    <title type="html">Anwar Uddin to make history as first assistant boss of an England men's side from a British South Asian background - Sky Sports</title>
+    <updated>2022-03-30T07:54:57.000000000Z</updated>
+    <link href="https://www.skysports.com/football/news/11095/12578010/anwar-uddin-to-make-history-as-first-assistant-boss-of-an-england-mens-side-from-a-british-south-asian-background" type="text/html"/>
+    <content type="html">&lt;a href="https://www.skysports.com/football/news/11095/12578010/anwar-uddin-to-make-history-as-first-assistant-boss-of-an-england-mens-side-from-a-british-south-asian-background" target="_blank"&gt;Anwar Uddin to make history as first assistant boss of an England men's side from a British South Asian background&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky Sports&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIhDTwHXly97tAyNWlFVOwkqFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
