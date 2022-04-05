@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-05T05:16:05Z</updated>
+  <updated>2022-04-05T05:51:10Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (47°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-04T21:52:00.000+0000</id>
-    <published>2022-04-05T05:04:23Z</published>
-    <updated>2022-04-05T05:04:23Z</updated>
+    <published>2022-04-05T05:46:26Z</published>
+    <updated>2022-04-05T05:46:26Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 997mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 06:26 BST, Sunset: 19:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-04T21:52:00.000+0000</id>
-    <published>2022-04-05T05:04:23Z</published>
-    <updated>2022-04-05T05:04:23Z</updated>
+    <published>2022-04-05T05:46:26Z</published>
+    <updated>2022-04-05T05:46:26Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 4°C (39°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 991mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunrise: 06:23 BST, Sunset: 19:43 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-04T21:52:00.000+0000</id>
-    <published>2022-04-05T05:04:23Z</published>
-    <updated>2022-04-05T05:04:23Z</updated>
+    <published>2022-04-05T05:46:26Z</published>
+    <updated>2022-04-05T05:46:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEPGRe_X8kXdfmE4ct8uvcMUqGQgEKhAIACoHCAow9935CjCe0eYCMNLmzAU?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-04-04T16:18:00.000000000Z</updated>
     <link href="https://www.express.co.uk/life-style/property/1591098/property-competition-hotspots-uk-solihull-town-housing-market-rightmove" type="text/html"/>
     <content type="html">&lt;a href="https://www.express.co.uk/life-style/property/1591098/property-competition-hotspots-uk-solihull-town-housing-market-rightmove" target="_blank"&gt;Solihull named as top ‘new buyer competition hotspot’ as buyers race for new homes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMilwFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvc3BlY2lhbC1zY2hvb2wtd2hlcmUtY2hpbGRyZW4td2VyZS10dWJlLWZlZC1pbi1mcm9udC1vZi1vdGhlcnMtYW5kLXRha2VuLXRvLWZhc3QtZm9vZC1yZXN0YXVyYW50cy1zbGFtbWVkLWJ5LWluc3BlY3RvcnMv0gEA?oc=5</id>
+    <title type="html">Special school where children were tube-fed in front of others and taken to fast food restaurants slammed by inspectors - London News Online</title>
+    <updated>2022-04-04T12:50:49.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/special-school-where-children-were-tube-fed-in-front-of-others-and-taken-to-fast-food-restaurants-slammed-by-inspectors/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/special-school-where-children-were-tube-fed-in-front-of-others-and-taken-to-fast-food-restaurants-slammed-by-inspectors/" target="_blank"&gt;Special school where children were tube-fed in front of others and taken to fast food restaurants slammed by inspectors&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiiwFodHRwczovL3d3dy5iZWxmYXN0dGVsZWdyYXBoLmNvLnVrL2VudGVydGFpbm1lbnQvbXVzaWMvcGFvbG8tbnV0aW5pLWFubm91bmNlcy1oZWFkbGluZS1zaG93LWF0LWN1c3RvbS1ob3VzZS1zcXVhcmUtaW4tYmVsZmFzdC00MTUxODQ1Mi5odG1s0gEA?oc=5</id>
@@ -60,13 +67,6 @@
     <updated>2022-04-03T00:45:28.000000000Z</updated>
     <link href="https://www.mylondon.news/news/zone-1-news/london-roads-closed-blog-live-23579693" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/zone-1-news/london-roads-closed-blog-live-23579693" target="_blank"&gt;Sloane Street reopens after being blocked in both directions - latest updates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEG28_B4dCgqKxqX-i-w_9KgqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">The average property price at the end of every London Underground and Overground line - My London</title>
-    <updated>2022-04-02T05:00:00.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/property/average-property-price-end-every-23535207" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/property/average-property-price-end-every-23535207" target="_blank"&gt;The average property price at the end of every London Underground and Overground line&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIJa8l4zuV7nc8Cvx6mOiOoqGQgEKhAIACoHCAowzuOICzCZ4ocDMN6YowY?oc=5</id>
