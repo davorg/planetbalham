@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-07T22:51:09Z</updated>
+  <updated>2022-04-07T23:15:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1001mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunset: 19:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-07T21:53:00.000+0000</id>
-    <published>2022-04-07T22:34:45Z</published>
-    <updated>2022-04-07T22:34:45Z</updated>
+    <published>2022-04-07T23:05:19Z</published>
+    <updated>2022-04-07T23:05:19Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 2°C (36°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 999mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-07T21:53:00.000+0000</id>
-    <published>2022-04-07T22:34:45Z</published>
-    <updated>2022-04-07T22:34:45Z</updated>
+    <published>2022-04-07T23:05:19Z</published>
+    <updated>2022-04-07T23:05:19Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,15 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1015mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 06:17 BST, Sunset: 19:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-07T21:53:00.000+0000</id>
-    <published>2022-04-07T22:34:45Z</published>
-    <updated>2022-04-07T22:34:45Z</updated>
+    <published>2022-04-07T23:05:19Z</published>
+    <updated>2022-04-07T23:05:19Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEHRDzk4iG33zzCBFo1hpbmoqMwgEKioIACIQONkvy9n-nN-jn7judVkbTioUCAoiEDjZL8vZ_pzfo5-47nVZG04wh_fFBg?oc=5</id>
-    <title type="html">Liverpool secure deal to sign Fulham's Fabio Carvalho this summer, reporter reveals - The 72 - We Love the Football League</title>
-    <updated>2022-04-07T13:40:50.000000000Z</updated>
-    <link href="https://the72.co.uk/269590/liverpool-secure-deal-to-sign-fulhams-fabio-carvalho-this-summer-reporter-reveals/" type="text/html"/>
-    <content type="html">&lt;a href="https://the72.co.uk/269590/liverpool-secure-deal-to-sign-fulhams-fabio-carvalho-this-summer-reporter-reveals/" target="_blank"&gt;Liverpool secure deal to sign Fulham's Fabio Carvalho this summer, reporter reveals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The 72 - We Love the Football League&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYmlydGhzLW1hcnJpYWdlcy1hbmQtZGVhdGhzLWFwcmlsLTctMjAyMi1rM2tzbHBteHPSAQA?oc=5</id>
+    <title type="html">Births, marriages and deaths: April 7, 2022 | Register - The Times</title>
+    <updated>2022-04-07T23:01:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/births-marriages-and-deaths-april-7-2022-k3kslpmxs" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/births-marriages-and-deaths-april-7-2022-k3kslpmxs" target="_blank"&gt;Births, marriages and deaths: April 7, 2022 | Register&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiENPwu850EAXhtLkax8BomjkqGQgEKhAIACoHCAowur-YCzDxybADMIPd0AY?oc=5</id>
+    <title type="html">Liverpool's deal for Fulham's teenage Portuguese midfielder Fabio Carvalho is 'close' - report - Eurosport COM</title>
+    <updated>2022-04-07T14:58:00.000000000Z</updated>
+    <link href="https://www.eurosport.com/football/transfers/2020-2021/liverpool-s-deal-for-fulham-s-teenage-portuguese-midfielder-fabio-carvalho-is-close-report_sto8875557/story.shtml" type="text/html"/>
+    <content type="html">&lt;a href="https://www.eurosport.com/football/transfers/2020-2021/liverpool-s-deal-for-fulham-s-teenage-portuguese-midfielder-fabio-carvalho-is-close-report_sto8875557/story.shtml" target="_blank"&gt;Liverpool's deal for Fulham's teenage Portuguese midfielder Fabio Carvalho is 'close' - report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eurosport COM&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGsZpuVVhClkwVRjbLCy6UYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-04-06T09:00:16.000000000Z</updated>
     <link href="https://www.railadvent.co.uk/2022/04/steam-locomotive-35028-clan-line-to-haul-luxury-train-out-of-london-this-friday.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2022/04/steam-locomotive-35028-clan-line-to-haul-luxury-train-out-of-london-this-friday.html" target="_blank"&gt;Steam locomotive 35028 Clan Line to haul luxury train out of London this Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5mb29kc2VydmljZWVxdWlwbWVudGpvdXJuYWwuY29tL2JyZWFraW5nLW5ld3MtdG9ydGlsbGEtZW50ZXJzLWxvbmctdGVybS1wYXJ0bmVyc2hpcC13aXRoLWZpcm0tYnVpbGRpbmctc21hcnQtc2F0ZWxsaXRlLWtpdGNoZW4tbmV0d29ya3Mv0gEA?oc=5</id>
-    <title type="html">BREAKING NEWS: Tortilla enters long-term partnership with firm building smart satellite kitchen networks - Foodservice Equipment Journal</title>
-    <updated>2022-04-05T10:46:42.000000000Z</updated>
-    <link href="https://www.foodserviceequipmentjournal.com/breaking-news-tortilla-enters-long-term-partnership-with-firm-building-smart-satellite-kitchen-networks/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.foodserviceequipmentjournal.com/breaking-news-tortilla-enters-long-term-partnership-with-firm-building-smart-satellite-kitchen-networks/" target="_blank"&gt;BREAKING NEWS: Tortilla enters long-term partnership with firm building smart satellite kitchen networks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Foodservice Equipment Journal&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
