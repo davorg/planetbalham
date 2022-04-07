@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-07T13:19:26Z</updated>
+  <updated>2022-04-07T13:51:46Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 2°C (36°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 991mb, Humidity: 48%, UV Risk: 3, Pollution: Low, Sunrise: 06:23 BST, Sunset: 19:43 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 24mph, Visibility: Good, Pressure: 991mb, Humidity: 48%, UV Risk: 2, Pollution: Low, Sunrise: 06:23 BST, Sunset: 19:43 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-07T09:56:00.000+0000</id>
-    <published>2022-04-07T13:03:11Z</published>
-    <updated>2022-04-07T13:03:11Z</updated>
+    <published>2022-04-07T13:27:18Z</published>
+    <updated>2022-04-07T13:27:18Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 2°C (35°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 2°C (35°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 999mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:21 BST, Sunset: 19:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-07T09:56:00.000+0000</id>
-    <published>2022-04-07T13:03:11Z</published>
-    <updated>2022-04-07T13:03:11Z</updated>
+    <published>2022-04-07T13:27:18Z</published>
+    <updated>2022-04-07T13:27:18Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-07T09:56:00.000+0000</id>
-    <published>2022-04-07T13:03:11Z</published>
-    <updated>2022-04-07T13:03:11Z</updated>
+    <published>2022-04-07T13:27:18Z</published>
+    <updated>2022-04-07T13:27:18Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGsZpuVVhClkwVRjbLCy6UYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2022/04/steam-locomotive-35028-clan-line-to-haul-luxury-train-out-of-london-this-friday.html" target="_blank"&gt;Steam locomotive 35028 Clan Line to haul luxury train out of London this Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEKOQf7PpeLSz2zCDfy-l6OIqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">Child dies after being found near White Cliffs of Dover - My London</title>
+    <updated>2022-04-05T15:26:40.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/uk-world-news/child-dies-after-being-found-23600673" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-world-news/child-dies-after-being-found-23600673" target="_blank"&gt;Child dies after being found near White Cliffs of Dover&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5mb29kc2VydmljZWVxdWlwbWVudGpvdXJuYWwuY29tL2JyZWFraW5nLW5ld3MtdG9ydGlsbGEtZW50ZXJzLWxvbmctdGVybS1wYXJ0bmVyc2hpcC13aXRoLWZpcm0tYnVpbGRpbmctc21hcnQtc2F0ZWxsaXRlLWtpdGNoZW4tbmV0d29ya3Mv0gEA?oc=5</id>
     <title type="html">BREAKING NEWS: Tortilla enters long-term partnership with firm building smart satellite kitchen networks - Foodservice Equipment Journal</title>
     <updated>2022-04-05T10:46:42.000000000Z</updated>
     <link href="https://www.foodserviceequipmentjournal.com/breaking-news-tortilla-enters-long-term-partnership-with-firm-building-smart-satellite-kitchen-networks/" type="text/html"/>
     <content type="html">&lt;a href="https://www.foodserviceequipmentjournal.com/breaking-news-tortilla-enters-long-term-partnership-with-firm-building-smart-satellite-kitchen-networks/" target="_blank"&gt;BREAKING NEWS: Tortilla enters long-term partnership with firm building smart satellite kitchen networks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Foodservice Equipment Journal&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEPGRe_X8kXdfmE4ct8uvcMUqGQgEKhAIACoHCAow9935CjCe0eYCMNLmzAU?oc=5</id>
-    <title type="html">Solihull named as top ‘new buyer competition hotspot’ as buyers race for new homes - Express</title>
-    <updated>2022-04-04T16:18:00.000000000Z</updated>
-    <link href="https://www.express.co.uk/life-style/property/1591098/property-competition-hotspots-uk-solihull-town-housing-market-rightmove" type="text/html"/>
-    <content type="html">&lt;a href="https://www.express.co.uk/life-style/property/1591098/property-competition-hotspots-uk-solihull-town-housing-market-rightmove" target="_blank"&gt;Solihull named as top ‘new buyer competition hotspot’ as buyers race for new homes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
@@ -141,34 +141,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Parapet shadows</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51940058146/"/>
-    <id>tag:flickr.com,2005:/photo/51940058146</id>
-    <published>2022-03-15T15:35:21Z</published>
-    <updated>2022-03-15T15:35:21Z</updated>
-    <flickr:date_taken>2022-03-15T11:35:36-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-15T11:35:36-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51940058146/" title="Parapet shadows"&gt;&lt;img src="https://live.staticflickr.com/65535/51940058146_9f61100ed7_m.jpg" width="240" height="160" alt="Parapet shadows" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51940058146_9f61100ed7_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brickwork" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="windows" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Twenty two years old.</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/79842765@N07/51929546785/"/>
     <id>tag:flickr.com,2005:/photo/51929546785</id>
@@ -219,6 +191,41 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916379476_015d4054a3_b.jpg"/>
+    <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="polish" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="volunteers" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gathering" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="supplies" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="for" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ukrainian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="refugees" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916704424/"/>
+    <id>tag:flickr.com,2005:/photo/51916704424</id>
+    <published>2022-03-03T21:56:30Z</published>
+    <updated>2022-03-03T21:56:30Z</updated>
+    <flickr:date_taken>2022-03-03T21:35:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:35:16-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916704424/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
+    <author>
+      <name>Catholic Church (England and Wales)</name>
+      <uri>https://www.flickr.com/people/catholicism/</uri>
+      <flickr:nsid>27340278@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
