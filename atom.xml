@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-08T16:16:33Z</updated>
+  <updated>2022-04-08T16:58:15Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Rain Showers, Minimum Temperature: 2°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1007mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunset: 19:45 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1007mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunset: 19:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-08T09:55:00.000+0000</id>
-    <published>2022-04-08T16:01:27Z</published>
-    <updated>2022-04-08T16:01:27Z</updated>
+    <published>2022-04-08T16:49:22Z</published>
+    <updated>2022-04-08T16:49:22Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1015mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 06:19 BST, Sunset: 19:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-08T09:55:00.000+0000</id>
-    <published>2022-04-08T16:01:27Z</published>
-    <updated>2022-04-08T16:01:27Z</updated>
+    <published>2022-04-08T16:49:22Z</published>
+    <updated>2022-04-08T16:49:22Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 6°C (42°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 06:17 BST, Sunset: 19:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-08T09:55:00.000+0000</id>
-    <published>2022-04-08T16:01:27Z</published>
-    <updated>2022-04-08T16:01:27Z</updated>
+    <published>2022-04-08T16:49:22Z</published>
+    <updated>2022-04-08T16:49:22Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEFsi4KG09Kis3gajS9kevKwqGQgEKhAIACoHCAow1aGpCzDHrMEDMNGlnAc?oc=5</id>
+    <title type="html">Liverpool tie up Fulham wonderkid deal ahead of the summer window - LiverpoolWorld</title>
+    <updated>2022-04-08T16:06:00.000000000Z</updated>
+    <link href="https://www.liverpoolworld.uk/sport/football/liverpool/liverpool-tie-up-fulham-wonderkid-attacking-midfielder-deal-ahead-of-the-summer-window-3647550" type="text/html"/>
+    <content type="html">&lt;a href="https://www.liverpoolworld.uk/sport/football/liverpool/liverpool-tie-up-fulham-wonderkid-attacking-midfielder-deal-ahead-of-the-summer-window-3647550" target="_blank"&gt;Liverpool tie up Fulham wonderkid deal ahead of the summer window&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LiverpoolWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiiwFodHRwczovL3d3dy5iZWxmYXN0dGVsZWdyYXBoLmNvLnVrL2VudGVydGFpbm1lbnQvbXVzaWMvcGFvbG8tbnV0aW5pLWFubm91bmNlcy1oZWFkbGluZS1zaG93LWF0LWN1c3RvbS1ob3VzZS1zcXVhcmUtaW4tYmVsZmFzdC00MTUxODQ1Mi5odG1s0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-04-08T10:45:31.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/full-list-bexley-candidates-standing-23633769" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/full-list-bexley-candidates-standing-23633769" target="_blank"&gt;Full list of Bexley candidates standing at the 2022 London council elections&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMi8wNC8wOC9yaWNrLXN0ZWluLXJlc3RhdXJhbnRzLWFuZC1zb2hvLWhvdXNlLXN0ZXAtdXAtdGhlaXItcmVjcnVpdG1lbnQtZHJpdmVz0gEA?oc=5</id>
-    <title type="html">Rick Stein Restaurants and Soho House step up their recruitment drives - BigHospitality.co.uk</title>
-    <updated>2022-04-08T08:57:00.000000000Z</updated>
-    <link href="https://www.bighospitality.co.uk/Article/2022/04/08/rick-stein-restaurants-and-soho-house-step-up-their-recruitment-drives" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2022/04/08/rick-stein-restaurants-and-soho-house-step-up-their-recruitment-drives" target="_blank"&gt;Rick Stein Restaurants and Soho House step up their recruitment drives&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
