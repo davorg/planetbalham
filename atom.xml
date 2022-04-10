@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-10T17:50:27Z</updated>
+  <updated>2022-04-10T18:16:44Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 64%, UV Risk: 1, Pollution: Low, Sunset: 19:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-10T09:55:00.000+0000</id>
-    <published>2022-04-10T17:23:07Z</published>
-    <updated>2022-04-10T17:23:07Z</updated>
+    <published>2022-04-10T18:01:27Z</published>
+    <updated>2022-04-10T18:01:27Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (51°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 06:15 BST, Sunset: 19:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-10T09:55:00.000+0000</id>
-    <published>2022-04-10T17:23:07Z</published>
-    <updated>2022-04-10T17:23:07Z</updated>
+    <published>2022-04-10T18:01:27Z</published>
+    <updated>2022-04-10T18:01:27Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Drizzle, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1005mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-10T09:55:00.000+0000</id>
-    <published>2022-04-10T17:23:07Z</published>
-    <updated>2022-04-10T17:23:07Z</updated>
+    <published>2022-04-10T18:01:27Z</published>
+    <updated>2022-04-10T18:01:27Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaWh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vdHJhbnNmZXItbmV3cy8yMDIyLzA0LzEwL2xpdmVycG9vbC1hZ3JlZS1maXZlLXllYXItZGVhbC13aXRoLWZhYmlvLWNhcnZhbGhvL9IBAA?oc=5</id>
+    <title type="html">Transfer News: Liverpool agree five-year deal with Fabio Carvalho - The Hard Tackle</title>
+    <updated>2022-04-10T17:55:31.000000000Z</updated>
+    <link href="http://www.thehardtackle.com/transfer-news/2022/04/10/liverpool-agree-five-year-deal-with-fabio-carvalho/" type="text/html"/>
+    <content type="html">&lt;a href="http://www.thehardtackle.com/transfer-news/2022/04/10/liverpool-agree-five-year-deal-with-fabio-carvalho/" target="_blank"&gt;Transfer News: Liverpool agree five-year deal with Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Hard Tackle&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOi3K7jYdWoQvRrhDJKLf8MqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2022-04-10T09:00:00.000000000Z</updated>
     <link href="https://www.mylondon.news/news/nostalgia/extraordinary-history-iconic-1930s-london-23570671" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/nostalgia/extraordinary-history-iconic-1930s-london-23570671" target="_blank"&gt;The extraordinary history of the iconic 1930s London tower blocks that 'Hitler wanted as his UK HQ'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMilQFodHRwczovL3d3dy5saXZlcnBvb2x3b3JsZC51ay9zcG9ydC9mb290YmFsbC9saXZlcnBvb2wvbGl2ZXJwb29sLXRpZS11cC1mdWxoYW0td29uZGVya2lkLWF0dGFja2luZy1taWRmaWVsZGVyLWRlYWwtYWhlYWQtb2YtdGhlLXN1bW1lci13aW5kb3ctMzY0NzU1MNIBAA?oc=5</id>
-    <title type="html">Liverpool tie up Fulham wonderkid deal ahead of the summer window - LiverpoolWorld</title>
-    <updated>2022-04-08T16:06:00.000000000Z</updated>
-    <link href="https://www.liverpoolworld.uk/sport/football/liverpool/liverpool-tie-up-fulham-wonderkid-attacking-midfielder-deal-ahead-of-the-summer-window-3647550" type="text/html"/>
-    <content type="html">&lt;a href="https://www.liverpoolworld.uk/sport/football/liverpool/liverpool-tie-up-fulham-wonderkid-attacking-midfielder-deal-ahead-of-the-summer-window-3647550" target="_blank"&gt;Liverpool tie up Fulham wonderkid deal ahead of the summer window&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LiverpoolWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECFk8xezm3wX-z4JVZv1EgwqGQgEKhAIACoHCAowy4KeCzDcjLYDMNjl6QY?oc=5</id>
@@ -200,15 +200,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916379476/"/>
-    <id>tag:flickr.com,2005:/photo/51916379476</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916704424/"/>
+    <id>tag:flickr.com,2005:/photo/51916704424</id>
     <published>2022-03-03T21:56:30Z</published>
     <updated>2022-03-03T21:56:30Z</updated>
-    <flickr:date_taken>2022-03-03T21:36:21-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:36:21-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-03-03T21:35:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:35:16-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916379476/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916379476_015d4054a3_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916704424/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
     <author>
@@ -218,7 +218,7 @@
       <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916379476_015d4054a3_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
