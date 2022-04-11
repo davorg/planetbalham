@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-11T04:16:21Z</updated>
+  <updated>2022-04-11T04:54:39Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 6°C (42°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1014mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunrise: 06:15 BST, Sunset: 19:50 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (49°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 06:15 BST, Sunset: 19:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-10T21:56:00.000+0000</id>
-    <published>2022-04-11T04:00:14Z</published>
-    <updated>2022-04-11T04:00:14Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (62°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (49°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-10T21:56:00.000+0000</id>
-    <published>2022-04-11T04:00:14Z</published>
-    <updated>2022-04-11T04:00:14Z</updated>
+    <published>2022-04-11T04:31:46Z</published>
+    <updated>2022-04-11T04:31:46Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (64°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (64°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1006mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 06:12 BST, Sunset: 19:51 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-10T21:56:00.000+0000</id>
+    <published>2022-04-11T04:31:46Z</published>
+    <updated>2022-04-11T04:31:46Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (64°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1006mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-10T21:56:00.000+0000</id>
-    <published>2022-04-11T04:00:14Z</published>
-    <updated>2022-04-11T04:00:14Z</updated>
+    <published>2022-04-11T04:31:46Z</published>
+    <updated>2022-04-11T04:31:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHA6Ly93d3cudGhlaGFyZHRhY2tsZS5jb20vdHJhbnNmZXItbmV3cy8yMDIyLzA0LzEwL2xpdmVycG9vbC1hZ3JlZS1maXZlLXllYXItZGVhbC13aXRoLWZhYmlvLWNhcnZhbGhvL9IBAA?oc=5</id>
@@ -200,15 +200,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916379476/"/>
-    <id>tag:flickr.com,2005:/photo/51916379476</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916704424/"/>
+    <id>tag:flickr.com,2005:/photo/51916704424</id>
     <published>2022-03-03T21:56:30Z</published>
     <updated>2022-03-03T21:56:30Z</updated>
-    <flickr:date_taken>2022-03-03T21:36:21-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:36:21-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-03-03T21:35:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:35:16-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916379476/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916379476_015d4054a3_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916704424/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
     <author>
@@ -218,7 +218,7 @@
       <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916379476_015d4054a3_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
