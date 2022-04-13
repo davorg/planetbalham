@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-13T03:56:13Z</updated>
+  <updated>2022-04-13T04:16:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (48°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 19:53 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-12T21:55:00.000+0000</id>
-    <published>2022-04-13T03:07:55Z</published>
-    <updated>2022-04-13T03:07:55Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 18°C (65°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-12T21:55:00.000+0000</id>
-    <published>2022-04-13T03:07:55Z</published>
-    <updated>2022-04-13T03:07:55Z</updated>
+    <published>2022-04-13T04:07:54Z</published>
+    <updated>2022-04-13T04:07:54Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 9°C (47°F) Maximum Temperature: 20°C (67°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-12T21:55:00.000+0000</id>
+    <published>2022-04-13T04:07:54Z</published>
+    <updated>2022-04-13T04:07:54Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (47°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 9°C (47°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-12T21:55:00.000+0000</id>
-    <published>2022-04-13T03:07:55Z</published>
-    <updated>2022-04-13T03:07:55Z</updated>
+    <published>2022-04-13T04:07:54Z</published>
+    <updated>2022-04-13T04:07:54Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pfbk9EOEJCRXBUM25uZTlBanNpZ0FQAQ?oc=5</id>
@@ -57,7 +57,7 @@
   <entry>
     <id>https://news.google.com/articles/CAIiEHmwZEtakSORNQGD1hxwIygqMwgEKioIACIQyyFzN-dWQBtyq7grSyaG0CoUCAoiEMshczfnVkAbcqu4K0smhtAw-MDJBg?oc=5</id>
     <title type="html">Ornstein: Ten Hag close to deciding on Man Utd offer, Granovskaia wanted by Chelsea bidders, three clubs lead Nunez chase - The Athletic</title>
-    <updated>2022-04-11T06:46:20.000000000Z</updated>
+    <updated>2022-04-11T06:46:43.000000000Z</updated>
     <link href="https://theathletic.com/3240965/2022/04/11/ornstein-ten-hag-close-to-deciding-on-man-utd-offer-granovskaia-wanted-by-chelsea-bidders-three-clubs-lead-nunez-chase/" type="text/html"/>
     <content type="html">&lt;a href="https://theathletic.com/3240965/2022/04/11/ornstein-ten-hag-close-to-deciding-on-man-utd-offer-granovskaia-wanted-by-chelsea-bidders-three-clubs-lead-nunez-chase/" target="_blank"&gt;Ornstein: Ten Hag close to deciding on Man Utd offer, Granovskaia wanted by Chelsea bidders, three clubs lead Nunez chase&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Athletic&lt;/font&gt;</content>
   </entry>
@@ -200,15 +200,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916379476/"/>
-    <id>tag:flickr.com,2005:/photo/51916379476</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/catholicism/51916704424/"/>
+    <id>tag:flickr.com,2005:/photo/51916704424</id>
     <published>2022-03-03T21:56:30Z</published>
     <updated>2022-03-03T21:56:30Z</updated>
-    <flickr:date_taken>2022-03-03T21:36:21-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-03T21:36:21-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-03-03T21:35:16-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-03-03T21:35:16-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/catholicism/"&gt;Catholic Church (England and Wales)&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916379476/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916379476_015d4054a3_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/catholicism/51916704424/" title="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees"&gt;&lt;img src="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_m.jpg" width="240" height="160" alt="Archbishop of Southwark visits Polish volunteers in Balham gathering supplies for Ukrainian refugees" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;© Mazur/cbcew.org.uk&lt;/p&gt;</content>
     <author>
@@ -218,7 +218,7 @@
       <flickr:buddyicon>https://farm6.staticflickr.com/5459/buddyicons/27340278@N03.jpg?1369122540#27340278@N03</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916379476_015d4054a3_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51916704424_8bb2cfcd99_b.jpg"/>
     <category term="archbishop" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southwark" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="visits" scheme="https://www.flickr.com/photos/tags/"/>
