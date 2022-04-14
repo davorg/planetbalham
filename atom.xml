@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-14T10:52:31Z</updated>
+  <updated>2022-04-14T11:15:14Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-14T09:00:00.000+0000</id>
-    <published>2022-04-14T10:20:47Z</published>
-    <updated>2022-04-14T10:20:47Z</updated>
+    <published>2022-04-14T11:03:01Z</published>
+    <updated>2022-04-14T11:03:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 20°C (68°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-14T09:00:00.000+0000</id>
-    <published>2022-04-14T10:20:47Z</published>
-    <updated>2022-04-14T10:20:47Z</updated>
+    <published>2022-04-14T11:03:01Z</published>
+    <updated>2022-04-14T11:03:01Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-14T09:00:00.000+0000</id>
-    <published>2022-04-14T10:20:47Z</published>
-    <updated>2022-04-14T10:20:47Z</updated>
+    <published>2022-04-14T11:03:01Z</published>
+    <updated>2022-04-14T11:03:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmlzcHJldmlldy5jby51ay9pbmRleC5waHAvMjAyMi8wNC9oeXBlcm9wdGljLXRvLWJ1aWxkLWZ1bGwtZmlicmUtdG8tNDAwMDAwLWV4dHJhLXVrLXByZW1pc2VzLWluLTIwMjIuaHRtbNIBAA?oc=5</id>
@@ -54,6 +54,66 @@
     <link href="https://www.fenews.co.uk/education/students-donate-toiletries-to-ukrainian-refugees/" type="text/html"/>
     <content type="html">&lt;a href="https://www.fenews.co.uk/education/students-donate-toiletries-to-ukrainian-refugees/" target="_blank"&gt;Students donate toiletries to Ukrainian refugees – FE News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;FE News&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>A distant look</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002497754/"/>
+    <id>tag:flickr.com,2005:/photo/52002497754</id>
+    <published>2022-04-13T16:26:34Z</published>
+    <updated>2022-04-13T16:26:34Z</updated>
+    <flickr:date_taken>2022-04-13T11:20:46-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:20:46-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002497754/" title="A distant look"&gt;&lt;img src="https://live.staticflickr.com/65535/52002497754_e49762efc8_m.jpg" width="240" height="150" alt="A distant look" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002497754_e49762efc8_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Coffee focus</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002497919/"/>
+    <id>tag:flickr.com,2005:/photo/52002497919</id>
+    <published>2022-04-13T16:26:33Z</published>
+    <updated>2022-04-13T16:26:33Z</updated>
+    <flickr:date_taken>2022-04-13T11:20:08-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:20:08-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002497919/" title="Coffee focus"&gt;&lt;img src="https://live.staticflickr.com/65535/52002497919_a791a29e09_m.jpg" width="240" height="150" alt="Coffee focus" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002497919_a791a29e09_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Before coffee</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002498094/"/>
@@ -164,71 +224,6 @@
     <link href="https://theathletic.com/3240965/2022/04/11/ornstein-ten-hag-close-to-deciding-on-man-utd-offer-granovskaia-wanted-by-chelsea-bidders-three-clubs-lead-nunez-chase/" type="text/html"/>
     <content type="html">&lt;a href="https://theathletic.com/3240965/2022/04/11/ornstein-ten-hag-close-to-deciding-on-man-utd-offer-granovskaia-wanted-by-chelsea-bidders-three-clubs-lead-nunez-chase/" target="_blank"&gt;Ornstein: Ten Hag close to deciding on Man Utd offer, Granovskaia wanted by Chelsea bidders, three clubs lead Nunez chase&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Athletic&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/195268893@N02/51978251767/"/>
-    <id>tag:flickr.com,2005:/photo/51978251767</id>
-    <published>2022-04-03T13:07:06Z</published>
-    <updated>2022-04-03T13:07:06Z</updated>
-    <flickr:date_taken>2022-04-03T13:06:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-03T13:06:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/195268893@N02/"&gt;NotchApple&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/195268893@N02/51978251767/" title="Arriva LJ59 LVN ENL54 255 Deadrun"&gt;&lt;img src="https://live.staticflickr.com/65535/51978251767_46f8359e18_m.jpg" width="180" height="240" alt="Arriva LJ59 LVN ENL54 255 Deadrun" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Dead run to Pollards Hill from Arriva South London Thornton Heath to become the 13:12 service to Balham on Route 255&lt;/p&gt;</content>
-    <author>
-      <name>NotchApple</name>
-      <uri>https://www.flickr.com/people/195268893@N02/</uri>
-      <flickr:nsid>195268893@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon09.png#195268893@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51978251767_46f8359e18_b.jpg"/>
-    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj59lvn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj59" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lvn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Shapes and shadows</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/51940136708/"/>
-    <id>tag:flickr.com,2005:/photo/51940136708</id>
-    <published>2022-03-15T15:35:21Z</published>
-    <updated>2022-03-15T15:35:21Z</updated>
-    <flickr:date_taken>2022-03-15T11:35:48-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-15T11:35:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/51940136708/" title="Shapes and shadows"&gt;&lt;img src="https://live.staticflickr.com/65535/51940136708_262b5ffaed_m.jpg" width="240" height="160" alt="Shapes and shadows" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51940136708_262b5ffaed_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brickwork" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="windows" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>2021 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/01/2021-in-gigs.html" type="text/html"/>
