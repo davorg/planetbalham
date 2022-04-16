@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-16T11:50:25Z</updated>
+  <updated>2022-04-16T12:16:30Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 53%, UV Risk: 4, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1030mb, Humidity: 53%, UV Risk: 4, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-16T09:55:00.000+0000</id>
-    <published>2022-04-16T11:02:23Z</published>
-    <updated>2022-04-16T11:02:23Z</updated>
+    <published>2022-04-16T12:02:39Z</published>
+    <updated>2022-04-16T12:02:39Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 19°C (67°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 56%, UV Risk: 5, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-16T09:55:00.000+0000</id>
-    <published>2022-04-16T11:02:23Z</published>
-    <updated>2022-04-16T11:02:23Z</updated>
+    <published>2022-04-16T12:02:39Z</published>
+    <updated>2022-04-16T12:02:39Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-16T09:55:00.000+0000</id>
-    <published>2022-04-16T11:02:23Z</published>
-    <updated>2022-04-16T11:02:23Z</updated>
+    <published>2022-04-16T12:02:39Z</published>
+    <updated>2022-04-16T12:02:39Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOz5u-exT3SVEDA7dMs63mcqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.mirror.co.uk/sport/football/news/championship-player-season-award-carvalho-26712031" target="_blank"&gt;Fabio Carvalho in pole position to land award ahead of transfer to Liverpool&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vYmRhaWx5LmNvLnVrL2FydGljbGVzLzIwMjIvMDQvMTQvbG9uZG9uLWludGVybmV0LXNlcnZpY2UtcHJvdmlkZXItaW52ZXN0cy0yMDBtLXRvLWFjY2VsZXJhdGUtcm9sbG91dC1hbmQtZXhwYW5kLW5ldHdvcmvSAQA?oc=5</id>
-    <title type="html">London internet service provider invests £200m to accelerate rollout and expand network - Bdaily</title>
-    <updated>2022-04-14T11:11:35.000000000Z</updated>
-    <link href="https://bdaily.co.uk/articles/2022/04/14/london-internet-service-provider-invests-200m-to-accelerate-rollout-and-expand-network" type="text/html"/>
-    <content type="html">&lt;a href="https://bdaily.co.uk/articles/2022/04/14/london-internet-service-provider-invests-200m-to-accelerate-rollout-and-expand-network" target="_blank"&gt;London internet service provider invests £200m to accelerate rollout and expand network&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bdaily&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmlzcHJldmlldy5jby51ay9pbmRleC5waHAvMjAyMi8wNC9oeXBlcm9wdGljLXRvLWJ1aWxkLWZ1bGwtZmlicmUtdG8tNDAwMDAwLWV4dHJhLXVrLXByZW1pc2VzLWluLTIwMjIuaHRtbNIBAA?oc=5</id>
+    <title type="html">Hyperoptic to Build Full Fibre to 400000 Extra UK Premises in 2022 - ISPreview.co.uk</title>
+    <updated>2022-04-14T08:32:00.000000000Z</updated>
+    <link href="https://www.ispreview.co.uk/index.php/2022/04/hyperoptic-to-build-full-fibre-to-400000-extra-uk-premises-in-2022.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.ispreview.co.uk/index.php/2022/04/hyperoptic-to-build-full-fibre-to-400000-extra-uk-premises-in-2022.html" target="_blank"&gt;Hyperoptic to Build Full Fibre to 400000 Extra UK Premises in 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ISPreview.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
@@ -196,39 +196,31 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/195268893@N02/51978251767/"/>
-    <id>tag:flickr.com,2005:/photo/51978251767</id>
-    <published>2022-04-03T13:07:06Z</published>
-    <updated>2022-04-03T13:07:06Z</updated>
-    <flickr:date_taken>2022-04-03T13:06:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-03T13:06:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/195268893@N02/"&gt;NotchApple&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Milk menu</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002305538/"/>
+    <id>tag:flickr.com,2005:/photo/52002305538</id>
+    <published>2022-04-13T16:26:31Z</published>
+    <updated>2022-04-13T16:26:31Z</updated>
+    <flickr:date_taken>2022-04-13T11:04:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:04:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/195268893@N02/51978251767/" title="Arriva LJ59 LVN ENL54 255 Deadrun"&gt;&lt;img src="https://live.staticflickr.com/65535/51978251767_46f8359e18_m.jpg" width="180" height="240" alt="Arriva LJ59 LVN ENL54 255 Deadrun" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002305538/" title="Milk menu"&gt;&lt;img src="https://live.staticflickr.com/65535/52002305538_196f3a4dba_m.jpg" width="240" height="160" alt="Milk menu" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Dead run to Pollards Hill from Arriva South London Thornton Heath to become the 13:12 service to Balham on Route 255&lt;/p&gt;</content>
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
     <author>
-      <name>NotchApple</name>
-      <uri>https://www.flickr.com/people/195268893@N02/</uri>
-      <flickr:nsid>195268893@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon09.png#195268893@N02</flickr:buddyicon>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51978251767_46f8359e18_b.jpg"/>
-    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj59lvn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj59" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lvn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002305538_196f3a4dba_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
