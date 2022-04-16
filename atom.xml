@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-16T18:53:15Z</updated>
+  <updated>2022-04-16T19:15:45Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1029mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunset: 19:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunset: 19:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-16T09:55:00.000+0000</id>
-    <published>2022-04-16T18:04:23Z</published>
-    <updated>2022-04-16T18:04:23Z</updated>
+    <published>2022-04-16T19:04:26Z</published>
+    <updated>2022-04-16T19:04:26Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 19°C (67°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 56%, UV Risk: 5, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-16T09:55:00.000+0000</id>
-    <published>2022-04-16T18:04:23Z</published>
-    <updated>2022-04-16T18:04:23Z</updated>
+    <published>2022-04-16T19:04:26Z</published>
+    <updated>2022-04-16T19:04:26Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-16T09:55:00.000+0000</id>
-    <published>2022-04-16T18:04:23Z</published>
-    <updated>2022-04-16T18:04:23Z</updated>
+    <published>2022-04-16T19:04:26Z</published>
+    <updated>2022-04-16T19:04:26Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvZWxkZXJseS1wZW9wbGUtcGFpcmVkLXlvdW5nZXItaG91c2VtYXRlcy0yNjcyNjkwMNIBW2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvZWxkZXJseS1wZW9wbGUtcGFpcmVkLXlvdW5nZXItaG91c2VtYXRlcy0yNjcyNjkwMC5hbXA?oc=5</id>
+    <title type="html">Elderly people paired with younger housemates in bid to solve care crisis - The Mirror</title>
+    <updated>2022-04-16T18:54:16.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/news/uk-news/elderly-people-paired-younger-housemates-26726900" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/elderly-people-paired-younger-housemates-26726900" target="_blank"&gt;Elderly people paired with younger housemates in bid to solve care crisis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9wcm9wZXJ0eS8xNTkzNDY2L2hvdXNlLXByaWNlcy11ay10b3AtaG90cG90cy0yMDIyLWV2Z9IBAA?oc=5</id>
@@ -56,10 +63,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vcGxhbmV0cmFkaW8uY28udWsvZ3JlYXRlc3QtaGl0cy9zdXNzZXgvbmV3cy9kaXNydXB0aW9uLWV4cGVjdGVkLWZvci1zdXNzZXgtdHJhaW5zLW92ZXItZWFzdGVyLXdlZWtlbmQv0gEA?oc=5</id>
-    <title type="html">Disruption expected for Sussex trains over Easter weekend - Greatest Hits Radio</title>
+    <title type="html">Disruption expected for Sussex trains over Easter weekend - Planetradio.co.uk</title>
     <updated>2022-04-15T05:28:49.000000000Z</updated>
     <link href="https://planetradio.co.uk/greatest-hits/sussex/news/disruption-expected-for-sussex-trains-over-easter-weekend/" type="text/html"/>
-    <content type="html">&lt;a href="https://planetradio.co.uk/greatest-hits/sussex/news/disruption-expected-for-sussex-trains-over-easter-weekend/" target="_blank"&gt;Disruption expected for Sussex trains over Easter weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Greatest Hits Radio&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://planetradio.co.uk/greatest-hits/sussex/news/disruption-expected-for-sussex-trains-over-easter-weekend/" target="_blank"&gt;Disruption expected for Sussex trains over Easter weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Planetradio.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEDQ58h2DzlDFooibHT1eSqUqGAgEKg8IACoHCAowqa6gCTCuoHAw7YqLAw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-04-14T11:40:48.000000000Z</updated>
     <link href="https://www.mirror.co.uk/sport/football/news/championship-player-season-award-carvalho-26712031" type="text/html"/>
     <content type="html">&lt;a href="https://www.mirror.co.uk/sport/football/news/championship-player-season-award-carvalho-26712031" target="_blank"&gt;Fabio Carvalho in pole position to land award ahead of transfer to Liverpool&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiPGh0dHBzOi8vdGVsZWNvbXMuY29tLzUxNDc2Ny91a3MtZnVsbC1maWJyZS1yb2xsb3V0LXJhbXBzLXVwL9IBAA?oc=5</id>
-    <title type="html">UK's full fibre rollout ramps up - Telecoms.com</title>
-    <updated>2022-04-14T10:12:13.000000000Z</updated>
-    <link href="https://telecoms.com/514767/uks-full-fibre-rollout-ramps-up/" type="text/html"/>
-    <content type="html">&lt;a href="https://telecoms.com/514767/uks-full-fibre-rollout-ramps-up/" target="_blank"&gt;UK's full fibre rollout ramps up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telecoms.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
