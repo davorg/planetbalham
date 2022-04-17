@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-17T21:15:56Z</updated>
+  <updated>2022-04-17T21:50:38Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunset: 20:00 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 62%, UV Risk: 1, Pollution: Low, Sunset: 20:00 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-17T09:59:00.000+0000</id>
-    <published>2022-04-17T21:01:51Z</published>
-    <updated>2022-04-17T21:01:51Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-17T19:58:00.000+0000</id>
+    <published>2022-04-17T21:26:09Z</published>
+    <updated>2022-04-17T21:26:09Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (62°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1018mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:59 BST, Sunset: 20:01 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-17T09:59:00.000+0000</id>
-    <published>2022-04-17T21:01:51Z</published>
-    <updated>2022-04-17T21:01:51Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-17T19:58:00.000+0000</id>
+    <published>2022-04-17T21:26:09Z</published>
+    <updated>2022-04-17T21:26:09Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Tuesday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:03 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1016mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:03 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-17T09:59:00.000+0000</id>
-    <published>2022-04-17T21:01:51Z</published>
-    <updated>2022-04-17T21:01:51Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-17T19:58:00.000+0000</id>
+    <published>2022-04-17T21:26:09Z</published>
+    <updated>2022-04-17T21:26:09Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFG9CjcYbkyD3UJV2qz3WHYqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
