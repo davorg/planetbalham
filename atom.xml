@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-20T22:16:41Z</updated>
+  <updated>2022-04-20T22:52:07Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -41,6 +41,13 @@
     <updated>2022-04-20T22:11:37Z</updated>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEORwevv79Z0Gl-3_QbrX6N4qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">Giant cruise ship leaves for Hamburg on historic first trip from London - My London</title>
+    <updated>2022-04-20T21:19:57.000000000Z</updated>
+    <link href="https://www.mylondon.news/lifestyle/travel/giant-cruise-ship-leaves-hamburg-23733936" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/travel/giant-cruise-ship-leaves-hamburg-23733936" target="_blank"&gt;Giant cruise ship leaves for Hamburg on historic first trip from London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIyL2Fwci8yMC9mdWxoYW0tcHJvbW90aW9uLXByZW1pZXItbGVhZ3VlLXN1cnZpdmFsLW1hcmNvLXNpbHZh0gFlaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjIvYXByLzIwL2Z1bGhhbS1wcm9tb3Rpb24tcHJlbWllci1sZWFndWUtc3Vydml2YWwtbWFyY28tc2lsdmE?oc=5</id>
     <title type="html">Fulham cruise to promotion but must sharpen up for Premier League survival - The Guardian</title>
     <updated>2022-04-20T07:39:37.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2022-04-18T14:10:55.000000000Z</updated>
     <link href="https://www.railway-technology.com/news/network-rail-invest-upgrade-projects/" type="text/html"/>
     <content type="html">&lt;a href="https://www.railway-technology.com/news/network-rail-invest-upgrade-projects/" target="_blank"&gt;Network Rail to invest £70m on 550 upgrade projects&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Railway Technology&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEFG9CjcYbkyD3UJV2qz3WHYqGAgEKg8IACoHCAowqa6gCTCuoHAw2faJAw?oc=5</id>
-    <title type="html">Elderly people paired with younger housemates in bid to solve care crisis - The Mirror</title>
-    <updated>2022-04-16T18:54:16.000000000Z</updated>
-    <link href="https://www.mirror.co.uk/news/uk-news/elderly-people-paired-younger-housemates-26726900" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mirror.co.uk/news/uk-news/elderly-people-paired-younger-housemates-26726900" target="_blank"&gt;Elderly people paired with younger housemates in bid to solve care crisis&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
