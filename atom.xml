@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-22T17:17:23Z</updated>
+  <updated>2022-04-22T17:52:23Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 10°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (49°F), Wind Direction: North Easterly, Wind Speed: 17mph, Visibility: Good, Pressure: 1006mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunset: 20:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (49°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunset: 20:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-22T09:57:00.000+0000</id>
-    <published>2022-04-22T17:01:55Z</published>
-    <updated>2022-04-22T17:01:55Z</updated>
+    <published>2022-04-22T17:43:52Z</published>
+    <updated>2022-04-22T17:43:52Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1003mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-22T09:57:00.000+0000</id>
-    <published>2022-04-22T17:01:55Z</published>
-    <updated>2022-04-22T17:01:55Z</updated>
+    <published>2022-04-22T17:43:52Z</published>
+    <updated>2022-04-22T17:43:52Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1008mb, Humidity: 55%, UV Risk: 4, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-22T09:57:00.000+0000</id>
-    <published>2022-04-22T17:01:55Z</published>
-    <updated>2022-04-22T17:01:55Z</updated>
+    <published>2022-04-22T17:43:52Z</published>
+    <updated>2022-04-22T17:43:52Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjAwODgwNDkuc3V0dG9uLWxvY2Fscy1zYXktZGVwYXJ0bWVudC1zdG9yZS13aWxsLWF0dHJhY3Qtc2hvcHBlcnMtYmFjay10b3duLWNlbnRyZS_SAQA?oc=5</id>
