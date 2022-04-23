@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-23T10:15:41Z</updated>
+  <updated>2022-04-23T10:51:25Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 16°C (61°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 17mph, Visibility: Good, Pressure: 1003mb, Humidity: 57%, UV Risk: 3, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-23T07:02:00.000+0000</id>
-    <published>2022-04-23T10:02:04Z</published>
-    <updated>2022-04-23T10:02:04Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 18°C (64°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1008mb, Humidity: 55%, UV Risk: 4, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:11 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-23T07:02:00.000+0000</id>
-    <published>2022-04-23T10:02:04Z</published>
-    <updated>2022-04-23T10:02:04Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 15°C (58°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 05:45 BST, Sunset: 20:13 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-23T07:02:00.000+0000</id>
-    <published>2022-04-23T10:02:04Z</published>
-    <updated>2022-04-23T10:02:04Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihwFodHRwczovL3d3dy5pY3IuYWMudWsvbmV3cy1hcmNoaXZlL2FpLXN0dWR5LSdleGNpdGluZy1maXJzdC1zdGVwJy10b3dhcmRzLWltcHJvdmluZy1wb3N0LXRyZWF0bWVudC1zdXJ2ZWlsbGFuY2Utb2YtbHVuZy1jYW5jZXItcGF0aWVudHPSAQA?oc=5</id>
     <title type="html">AI study 'exciting first step' towards improving post-treatment surveillance of lung cancer patients - The Institute of Cancer Research</title>
@@ -62,18 +32,18 @@
     <content type="html">&lt;a href="https://www.thisislocallondon.co.uk/news/20088049.sutton-locals-say-department-store-will-attract-shoppers-back-town-centre/" target="_blank"&gt;Sutton locals say department store will attract shoppers back to the town centre&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmNhbWJzdGltZXMuY28udWsvbmV3cy90cmFmZmljL21heS1iYW5rLWhvbGlkYXktdHJhaW4tZGlzcnVwdGlvbi1hdC1zdGFuc3RlZC04OTE0MzY00gEA?oc=5</id>
-    <title type="html">Stansted and King's Lynn rail disruption this May Day - Cambs Times</title>
-    <updated>2022-04-22T11:45:00.000000000Z</updated>
-    <link href="https://www.cambstimes.co.uk/news/traffic/may-bank-holiday-train-disruption-at-stansted-8914364" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cambstimes.co.uk/news/traffic/may-bank-holiday-train-disruption-at-stansted-8914364" target="_blank"&gt;Stansted and King's Lynn rail disruption this May Day&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cambs Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2Jvcm91Z2gtZWxlY3Rpb25zLTIwMjItd2FuZHN3b3J0aC10b3J5LWxlYWRlci1hbmQtbGFib3VyLWNoYWxsZW5nZXItZGViYXRlLXBvbGljaWVzLWFuZC1wcmlvcml0aWVzL9IBggFodHRwczovL3d3dy5vbmxvbmRvbi5jby51ay9ib3JvdWdoLWVsZWN0aW9ucy0yMDIyLXdhbmRzd29ydGgtdG9yeS1sZWFkZXItYW5kLWxhYm91ci1jaGFsbGVuZ2VyLWRlYmF0ZS1wb2xpY2llcy1hbmQtcHJpb3JpdGllcy9hbXAv?oc=5</id>
     <title type="html">Borough Elections 2022: Wandsworth Tory leader and Labour challenger debate policies and priorities - onlondon.co.uk</title>
     <updated>2022-04-22T10:59:05.000000000Z</updated>
     <link href="https://www.onlondon.co.uk/borough-elections-2022-wandsworth-tory-leader-and-labour-challenger-debate-policies-and-priorities/" type="text/html"/>
     <content type="html">&lt;a href="https://www.onlondon.co.uk/borough-elections-2022-wandsworth-tory-leader-and-labour-challenger-debate-policies-and-priorities/" target="_blank"&gt;Borough Elections 2022: Wandsworth Tory leader and Labour challenger debate policies and priorities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;onlondon.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L2V1c3Rvbi1zdGF0aW9uLWNsb3NlZC1tYXktYmFuay1ob2xpZGF5LTIwMjItdHJhbnNwb3J0LXRyYXZlbC10cmFpbnMtZGlzcnVwdGlvbtIBAA?oc=5</id>
+    <title type="html">Major Disruption At Euston Station This May Bank Holiday Weekend - Londonist</title>
+    <updated>2022-04-22T09:41:49.000000000Z</updated>
+    <link href="https://londonist.com/london/transport/euston-station-closed-may-bank-holiday-2022-transport-travel-trains-disruption" type="text/html"/>
+    <content type="html">&lt;a href="https://londonist.com/london/transport/euston-station-closed-may-bank-holiday-2022-transport-travel-trains-disruption" target="_blank"&gt;Major Disruption At Euston Station This May Bank Holiday Weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
@@ -196,31 +166,39 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Milk menu</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002305538/"/>
-    <id>tag:flickr.com,2005:/photo/52002305538</id>
-    <published>2022-04-13T16:26:31Z</published>
-    <updated>2022-04-13T16:26:31Z</updated>
-    <flickr:date_taken>2022-04-13T11:04:59-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-13T11:04:59-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/195268893@N02/51978251767/"/>
+    <id>tag:flickr.com,2005:/photo/51978251767</id>
+    <published>2022-04-03T13:07:06Z</published>
+    <updated>2022-04-03T13:07:06Z</updated>
+    <flickr:date_taken>2022-04-03T13:06:54-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-03T13:06:54-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/195268893@N02/"&gt;NotchApple&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002305538/" title="Milk menu"&gt;&lt;img src="https://live.staticflickr.com/65535/52002305538_196f3a4dba_m.jpg" width="240" height="160" alt="Milk menu" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/195268893@N02/51978251767/" title="Arriva LJ59 LVN ENL54 255 Deadrun"&gt;&lt;img src="https://live.staticflickr.com/65535/51978251767_46f8359e18_m.jpg" width="180" height="240" alt="Arriva LJ59 LVN ENL54 255 Deadrun" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+&lt;p&gt;Dead run to Pollards Hill from Arriva South London Thornton Heath to become the 13:12 service to Balham on Route 255&lt;/p&gt;</content>
     <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+      <name>NotchApple</name>
+      <uri>https://www.flickr.com/people/195268893@N02/</uri>
+      <flickr:nsid>195268893@N02</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon09.png#195268893@N02</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002305538_196f3a4dba_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51978251767_46f8359e18_b.jpg"/>
+    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="255" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lj59lvn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lj59" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lvn" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
