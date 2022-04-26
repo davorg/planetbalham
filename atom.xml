@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-26T07:51:10Z</updated>
+  <updated>2022-04-26T08:17:10Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 54%, UV Risk: 4, Pollution: Low, Sunrise: 05:43 BST, Sunset: 20:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-25T21:55:00.000+0000</id>
-    <published>2022-04-26T07:34:54Z</published>
-    <updated>2022-04-26T07:34:54Z</updated>
+    <published>2022-04-26T08:02:48Z</published>
+    <updated>2022-04-26T08:02:48Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-25T21:55:00.000+0000</id>
-    <published>2022-04-26T07:34:54Z</published>
-    <updated>2022-04-26T07:34:54Z</updated>
+    <published>2022-04-26T08:02:48Z</published>
+    <updated>2022-04-26T08:02:48Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-25T21:55:00.000+0000</id>
-    <published>2022-04-26T07:34:54Z</published>
-    <updated>2022-04-26T07:34:54Z</updated>
+    <published>2022-04-26T08:02:48Z</published>
+    <updated>2022-04-26T08:02:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIwMDkyNjM3LndpdG5lc3Mtc291Z2h0LXJvYmJlcnktb3V0c2lkZS1jaGVzdG51dC1ncm92ZS1hY2FkZW15L9IBAA?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://www.lightwaveonline.com/fttx/ftth-b/article/14275379/hyperoptic-sets-2022-fttp-investment-target" target="_blank"&gt;Hyperoptic sets 2022 FTTP investment target | Lightwave&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LightWave Online&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tZWRpYS8yMDIyL2Fwci8yNC9zaXItcmF5LXRpbmRsZS1vYml0dWFyedIBRWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9tZWRpYS8yMDIyL2Fwci8yNC9zaXItcmF5LXRpbmRsZS1vYml0dWFyeQ?oc=5</id>
+    <title type="html">Sir Ray Tindle obituary - The Guardian</title>
+    <updated>2022-04-24T11:37:00.000000000Z</updated>
+    <link href="https://www.theguardian.com/media/2022/apr/24/sir-ray-tindle-obituary" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theguardian.com/media/2022/apr/24/sir-ray-tindle-obituary" target="_blank"&gt;Sir Ray Tindle obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiELqO8NyOZ-UG1p2mnS0ibTMqMwgEKioIACIQyyFzN-dWQBtyq7grSyaG0CoUCAoiEMshczfnVkAbcqu4K0smhtAw-MDJBg?oc=5</id>
     <title type="html">What Fabio Carvalho will bring to Liverpool - The Athletic</title>
     <updated>2022-04-24T04:07:30.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2022-04-23T09:01:08.000000000Z</updated>
     <link href="https://www.icr.ac.uk/news-archive/ai-study-'exciting-first-step'-towards-improving-post-treatment-surveillance-of-lung-cancer-patients" type="text/html"/>
     <content type="html">&lt;a href="https://www.icr.ac.uk/news-archive/ai-study-'exciting-first-step'-towards-improving-post-treatment-surveillance-of-lung-cancer-patients" target="_blank"&gt;AI study 'exciting first step' towards improving post-treatment surveillance of lung cancer patients&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Institute of Cancer Research&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjAwODgwNDkuc3V0dG9uLWxvY2Fscy1zYXktZGVwYXJ0bWVudC1zdG9yZS13aWxsLWF0dHJhY3Qtc2hvcHBlcnMtYmFjay10b3duLWNlbnRyZS_SAQA?oc=5</id>
-    <title type="html">Sutton locals say department store will attract shoppers back to the town centre - Sutton &amp; Croydon Guardian</title>
-    <updated>2022-04-22T15:39:02.000000000Z</updated>
-    <link href="https://www.yourlocalguardian.co.uk/news/20088049.sutton-locals-say-department-store-will-attract-shoppers-back-town-centre/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.yourlocalguardian.co.uk/news/20088049.sutton-locals-say-department-store-will-attract-shoppers-back-town-centre/" target="_blank"&gt;Sutton locals say department store will attract shoppers back to the town centre&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sutton &amp; Croydon Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
