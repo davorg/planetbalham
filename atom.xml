@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-27T08:16:50Z</updated>
+  <updated>2022-04-27T08:52:19Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 60%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-26T21:55:00.000+0000</id>
-    <published>2022-04-27T08:02:39Z</published>
-    <updated>2022-04-27T08:02:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-27T07:58:00.000+0000</id>
+    <published>2022-04-27T08:51:04Z</published>
+    <updated>2022-04-27T08:51:04Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-26T21:55:00.000+0000</id>
-    <published>2022-04-27T08:02:39Z</published>
-    <updated>2022-04-27T08:02:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-27T07:58:00.000+0000</id>
+    <published>2022-04-27T08:51:04Z</published>
+    <updated>2022-04-27T08:51:04Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-26T21:55:00.000+0000</id>
-    <published>2022-04-27T08:02:39Z</published>
-    <updated>2022-04-27T08:02:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-27T07:58:00.000+0000</id>
+    <published>2022-04-27T08:51:04Z</published>
+    <updated>2022-04-27T08:51:04Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3Lmdyb2NlcnlnYXpldHRlLmNvLnVrLzIwMjIvMDQvMjcvd2FpdHJvc2UtcGFya2luZy1hcHAv0gEA?oc=5</id>
+    <title type="html">Waitrose rolls out parking payment app in 14 stores - Grocery Gazette</title>
+    <updated>2022-04-27T08:45:41.000000000Z</updated>
+    <link href="https://www.grocerygazette.co.uk/2022/04/27/waitrose-parking-app/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.grocerygazette.co.uk/2022/04/27/waitrose-parking-app/" target="_blank"&gt;Waitrose rolls out parking payment app in 14 stores&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Grocery Gazette&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3LnJhZGlva2VycnkuaWUvZGVhdGgtbm90aWNlcy9nZXJhcmQtb2Nvbm5vci0yNzk0MjTSAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-04-26T10:40:39.000000000Z</updated>
     <link href="https://www.kentlive.news/news/celebs-tv/good-morning-britain-host-susanna-6999119" type="text/html"/>
     <content type="html">&lt;a href="https://www.kentlive.news/news/celebs-tv/good-morning-britain-host-susanna-6999119" target="_blank"&gt;Good Morning Britain host Susanna Reid and her famous exes Dominic Cotton and Steve Parish&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIwMDkyNjM3LndpdG5lc3Mtc291Z2h0LXJvYmJlcnktb3V0c2lkZS1jaGVzdG51dC1ncm92ZS1hY2FkZW15L9IBAA?oc=5</id>
-    <title type="html">Witness sought after robbery outside Chestnut Grove Academy - Wandsworth Guardian</title>
-    <updated>2022-04-25T16:20:03.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/20092637.witness-sought-robbery-outside-chestnut-grove-academy/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/20092637.witness-sought-robbery-outside-chestnut-grove-academy/" target="_blank"&gt;Witness sought after robbery outside Chestnut Grove Academy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
@@ -125,6 +125,36 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002497919_a791a29e09_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Before coffee</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002498094/"/>
+    <id>tag:flickr.com,2005:/photo/52002498094</id>
+    <published>2022-04-13T16:26:32Z</published>
+    <updated>2022-04-13T16:26:32Z</updated>
+    <flickr:date_taken>2022-04-13T11:16:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:16:09-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002498094/" title="Before coffee"&gt;&lt;img src="https://live.staticflickr.com/65535/52002498094_66525c5ff4_m.jpg" width="240" height="150" alt="Before coffee" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002498094_66525c5ff4_b.jpg"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
@@ -191,43 +221,6 @@
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Arriva LJ59 LVN ENL54 255 Deadrun</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/195268893@N02/51978251767/"/>
-    <id>tag:flickr.com,2005:/photo/51978251767</id>
-    <published>2022-04-03T13:07:06Z</published>
-    <updated>2022-04-03T13:07:06Z</updated>
-    <flickr:date_taken>2022-04-03T13:06:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-03T13:06:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/195268893@N02/"&gt;NotchApple&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/195268893@N02/51978251767/" title="Arriva LJ59 LVN ENL54 255 Deadrun"&gt;&lt;img src="https://live.staticflickr.com/65535/51978251767_46f8359e18_m.jpg" width="180" height="240" alt="Arriva LJ59 LVN ENL54 255 Deadrun" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Dead run to Pollards Hill from Arriva South London Thornton Heath to become the 13:12 service to Balham on Route 255&lt;/p&gt;</content>
-    <author>
-      <name>NotchApple</name>
-      <uri>https://www.flickr.com/people/195268893@N02/</uri>
-      <flickr:nsid>195268893@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon09.png#195268893@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51978251767_46f8359e18_b.jpg"/>
-    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj59lvn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj59" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lvn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
