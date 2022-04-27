@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-27T06:16:03Z</updated>
+  <updated>2022-04-27T06:54:19Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 60%, UV Risk: 3, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-26T21:55:00.000+0000</id>
-    <published>2022-04-27T06:02:48Z</published>
-    <updated>2022-04-27T06:02:48Z</updated>
+    <published>2022-04-27T06:50:48Z</published>
+    <updated>2022-04-27T06:50:48Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-26T21:55:00.000+0000</id>
-    <published>2022-04-27T06:02:48Z</published>
-    <updated>2022-04-27T06:02:48Z</updated>
+    <published>2022-04-27T06:50:48Z</published>
+    <updated>2022-04-27T06:50:48Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 5°C (42°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-26T21:55:00.000+0000</id>
-    <published>2022-04-27T06:02:48Z</published>
-    <updated>2022-04-27T06:02:48Z</updated>
+    <published>2022-04-27T06:50:48Z</published>
+    <updated>2022-04-27T06:50:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEIeiLYk7WDI9TzMpj5LiVKkqFwgEKg8IACoHCAow-4fWBzD4z0gwwtt6?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/20092637.witness-sought-robbery-outside-chestnut-grove-academy/" target="_blank"&gt;Witness sought after robbery outside Chestnut Grove Academy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEFbeaPL-xF6czPkqgFG67foqFwgEKg8IACoHCAowu5rpAzCX-xwwj9op?oc=5</id>
-    <title type="html">AI study 'exciting first step' toward improving post-treatment surveillance of lung cancer patients - Medical Xpress</title>
-    <updated>2022-04-25T14:16:06.000000000Z</updated>
-    <link href="https://medicalxpress.com/news/2022-04-ai-post-treatment-surveillance-lung-cancer.html" type="text/html"/>
-    <content type="html">&lt;a href="https://medicalxpress.com/news/2022-04-ai-post-treatment-surveillance-lung-cancer.html" target="_blank"&gt;AI study 'exciting first step' toward improving post-treatment surveillance of lung cancer patients&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Medical Xpress&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2Jvcm91Z2gtZWxlY3Rpb25zLTIwMjItd2FuZHN3b3J0aC10b3J5LWxlYWRlci1hbmQtbGFib3VyLWNoYWxsZW5nZXItZGViYXRlLXBvbGljaWVzLWFuZC1wcmlvcml0aWVzL9IBggFodHRwczovL3d3dy5vbmxvbmRvbi5jby51ay9ib3JvdWdoLWVsZWN0aW9ucy0yMDIyLXdhbmRzd29ydGgtdG9yeS1sZWFkZXItYW5kLWxhYm91ci1jaGFsbGVuZ2VyLWRlYmF0ZS1wb2xpY2llcy1hbmQtcHJpb3JpdGllcy9hbXAv?oc=5</id>
+    <title type="html">Borough Elections 2022: Wandsworth Tory leader and Labour challenger debate policies and priorities - onlondon.co.uk</title>
+    <updated>2022-04-22T10:59:05.000000000Z</updated>
+    <link href="https://www.onlondon.co.uk/borough-elections-2022-wandsworth-tory-leader-and-labour-challenger-debate-policies-and-priorities/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.onlondon.co.uk/borough-elections-2022-wandsworth-tory-leader-and-labour-challenger-debate-policies-and-priorities/" target="_blank"&gt;Borough Elections 2022: Wandsworth Tory leader and Labour challenger debate policies and priorities&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;onlondon.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>A distant look</title>
