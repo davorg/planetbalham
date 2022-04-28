@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-28T16:58:21Z</updated>
+  <updated>2022-04-28T17:17:27Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 6°C (43°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1032mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunset: 20:18 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-04-28T09:58:00.000+0000</id>
+    <published>2022-04-28T17:14:27Z</published>
+    <updated>2022-04-28T17:14:27Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 4°C (40°F) Maximum Temperature: 13°C (56°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (40°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1032mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-04-28T09:58:00.000+0000</id>
+    <published>2022-04-28T17:14:27Z</published>
+    <updated>2022-04-28T17:14:27Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 17°C (63°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (48°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1030mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-04-28T09:58:00.000+0000</id>
+    <published>2022-04-28T17:14:27Z</published>
+    <updated>2022-04-28T17:14:27Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOGh0dHBzOi8vd3d3LnRoZWNvbnN0cnVjdGlvbmluZGV4LmNvLnVrL3RlbmRlcnMvdmlldy81MDMx0gEA?oc=5</id>
     <title type="html">BC-10734 Lambeth Primary Cluster Cleaning: | Construction Tenders | The Construction Index - Construction Index</title>
@@ -27,7 +57,7 @@
   <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmJyZWFraW5ndHJhdmVsbmV3cy5jb20vbmV3cy9hcnRpY2xlL25ldHdvcmstcmFpbC1jYXJyeWluZy1vdXQtNzBtLXVwZ3JhZGVzLW92ZXItbWF5LWJhbmstaG9saWRheS_SAQA?oc=5</id>
     <title type="html">Network Rail carrying out £70m upgrades over May bank holiday - Breaking Travel News</title>
-    <updated>2022-04-28T10:57:03.000000000Z</updated>
+    <updated>2022-04-28T11:03:30.000000000Z</updated>
     <link href="https://www.breakingtravelnews.com/news/article/network-rail-carrying-out-70m-upgrades-over-may-bank-holiday/" type="text/html"/>
     <content type="html">&lt;a href="https://www.breakingtravelnews.com/news/article/network-rail-carrying-out-70m-upgrades-over-may-bank-holiday/" target="_blank"&gt;Network Rail carrying out £70m upgrades over May bank holiday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Breaking Travel News&lt;/font&gt;</content>
   </entry>
@@ -39,11 +69,11 @@
     <content type="html">&lt;a href="https://www.grocerygazette.co.uk/2022/04/27/waitrose-parking-app/" target="_blank"&gt;Waitrose rolls out parking payment app in 14 stores&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Grocery Gazette&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3LnJhZGlva2VycnkuaWUvZGVhdGgtbm90aWNlcy9nZXJhcmQtb2Nvbm5vci0yNzk0MjTSAQA?oc=5</id>
-    <title type="html">Gerard O'Connor | RadioKerry.ie - Radio Kerry</title>
-    <updated>2022-04-27T07:42:48.000000000Z</updated>
-    <link href="https://www.radiokerry.ie/death-notices/gerard-oconnor-279424" type="text/html"/>
-    <content type="html">&lt;a href="https://www.radiokerry.ie/death-notices/gerard-oconnor-279424" target="_blank"&gt;Gerard O'Connor | RadioKerry.ie&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Kerry&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiPGh0dHBzOi8vd3d3LnRoZXRhYmxldC5jby51ay9hcnRzLzExLzIxODIzL3dvbWVuLWJld2FyZS13b21lbtIBAA?oc=5</id>
+    <title type="html">Women beware women - The Tablet</title>
+    <updated>2022-04-27T07:00:00.000000000Z</updated>
+    <link href="https://www.thetablet.co.uk/arts/11/21823/women-beware-women" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetablet.co.uk/arts/11/21823/women-beware-women" target="_blank"&gt;Women beware women&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Tablet&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>CLOSED</title>
