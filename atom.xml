@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-01T17:20:18Z</updated>
+  <updated>2022-05-01T17:50:32Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunset: 20:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-01T09:55:00.000+0000</id>
-    <published>2022-05-01T17:05:02Z</published>
-    <updated>2022-05-01T17:05:02Z</updated>
+    <published>2022-05-01T17:32:48Z</published>
+    <updated>2022-05-01T17:32:48Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1021mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-01T09:55:00.000+0000</id>
-    <published>2022-05-01T17:05:02Z</published>
-    <updated>2022-05-01T17:05:02Z</updated>
+    <published>2022-05-01T17:32:48Z</published>
+    <updated>2022-05-01T17:32:48Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 9°C (47°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-01T09:55:00.000+0000</id>
-    <published>2022-05-01T17:05:02Z</published>
-    <updated>2022-05-01T17:05:02Z</updated>
+    <published>2022-05-01T17:32:48Z</published>
+    <updated>2022-05-01T17:32:48Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEMQ7WNqEi8YVlmipFowix8MqGQgEKhAIACoHCAowxsaVCzCXq6sDMPfkxgY?oc=5</id>
+    <title type="html">I used to be a shopaholic but haven’t bought any new clothes in three years and it’s saved me £20,000... - The US Sun</title>
+    <updated>2022-05-01T16:18:00.000000000Z</updated>
+    <link href="https://www.the-sun.com/lifestyle/5241700/ex-shopaholic-saved-20k-stopped-buying-new-clothes/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.the-sun.com/lifestyle/5241700/ex-shopaholic-saved-20k-stopped-buying-new-clothes/" target="_blank"&gt;I used to be a shopaholic but haven’t bought any new clothes in three years and it’s saved me £20,000...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The US Sun&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzA1L2FsYWJhbWEtMy1saWFzLXNhb3VkaS1ibGFjay1lbHZpcy1saXZlLWF0LXNoZXBoZXJkcy1idXNoLWVtcGlyZS0zMC00LTIyL9IBcGh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzA1L2FsYWJhbWEtMy1saWFzLXNhb3VkaS1ibGFjay1lbHZpcy1saXZlLWF0LXNoZXBoZXJkcy1idXNoLWVtcGlyZS0zMC00LTIyL2FtcC8?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2022-05-01T15:22:24.000000000Z</updated>
     <link href="https://www.brixtonbuzz.com/2022/05/alabama-3-lias-saoudi-black-elvis-live-at-shepherds-bush-empire-30-4-22/" type="text/html"/>
     <content type="html">&lt;a href="https://www.brixtonbuzz.com/2022/05/alabama-3-lias-saoudi-black-elvis-live-at-shepherds-bush-empire-30-4-22/" target="_blank"&gt;Alabama 3, Lias Saoudi, Black Elvis live at Shepherd’s Bush Empire 30/4/22&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BrixtonBuzz&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJ4zrrnzI4s4COy68ceFgeUqGQgEKhAIACoHCAowzc-JCzDQ5psDMM_AoQY?oc=5</id>
-    <title type="html">Fashion-lover hasn't bought new clothes in three years - and has saved £20k - Metro.co.uk</title>
-    <updated>2022-05-01T11:45:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2022/05/01/fashion-lover-hasnt-bought-new-clothes-in-three-years-and-has-saved-20k-16566567/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2022/05/01/fashion-lover-hasnt-bought-new-clothes-in-three-years-and-has-saved-20k-16566567/" target="_blank"&gt;Fashion-lover hasn't bought new clothes in three years - and has saved £20k&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnRoZW5vbmxlYWd1ZWZvb3RiYWxscGFwZXIuY29tL2xhdGVzdC1uZXdzLzQyNDYzOC9zdGVwLTUtNi1hY3Rpb24tOTkv0gEA?oc=5</id>
