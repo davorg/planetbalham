@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-01T11:50:57Z</updated>
+  <updated>2022-05-01T12:17:24Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8wNS8wMS9mYXNoaW9uLWxvdmVyLWhhc250LWJvdWdodC1uZXctY2xvdGhlcy1pbi10aHJlZS15ZWFycy1hbmQtaGFzLXNhdmVkLTIway0xNjU2NjU2Ny_SAXRodHRwczovL21ldHJvLmNvLnVrLzIwMjIvMDUvMDEvZmFzaGlvbi1sb3Zlci1oYXNudC1ib3VnaHQtbmV3LWNsb3RoZXMtaW4tdGhyZWUteWVhcnMtYW5kLWhhcy1zYXZlZC0yMGstMTY1NjY1NjcvYW1wLw?oc=5</id>
-    <title type="html">Fashion-lover hasn't bought new clothes in three years - and has saved £20k - Metro.co.uk</title>
-    <updated>2022-05-01T11:45:00.000000000Z</updated>
-    <link href="https://metro.co.uk/2022/05/01/fashion-lover-hasnt-bought-new-clothes-in-three-years-and-has-saved-20k-16566567/" type="text/html"/>
-    <content type="html">&lt;a href="https://metro.co.uk/2022/05/01/fashion-lover-hasnt-bought-new-clothes-in-three-years-and-has-saved-20k-16566567/" target="_blank"&gt;Fashion-lover hasn't bought new clothes in three years - and has saved £20k&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 59%, UV Risk: 3, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-01T09:55:00.000+0000</id>
-    <published>2022-05-01T11:32:48Z</published>
-    <updated>2022-05-01T11:32:48Z</updated>
+    <published>2022-05-01T12:00:51Z</published>
+    <updated>2022-05-01T12:00:51Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (62°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1021mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-01T09:55:00.000+0000</id>
-    <published>2022-05-01T11:32:48Z</published>
-    <updated>2022-05-01T11:32:48Z</updated>
+    <published>2022-05-01T12:00:51Z</published>
+    <updated>2022-05-01T12:00:51Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (58°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 9°C (47°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-01T09:55:00.000+0000</id>
-    <published>2022-05-01T11:32:48Z</published>
-    <updated>2022-05-01T11:32:48Z</updated>
+    <published>2022-05-01T12:00:51Z</published>
+    <updated>2022-05-01T12:00:51Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEJ4zrrnzI4s4COy68ceFgeUqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
+    <title type="html">Fashion-lover hasn't bought new clothes in three years - and has saved £20k - Metro.co.uk</title>
+    <updated>2022-05-01T11:45:00.000000000Z</updated>
+    <link href="https://metro.co.uk/2022/05/01/fashion-lover-hasnt-bought-new-clothes-in-three-years-and-has-saved-20k-16566567/" type="text/html"/>
+    <content type="html">&lt;a href="https://metro.co.uk/2022/05/01/fashion-lover-hasnt-bought-new-clothes-in-three-years-and-has-saved-20k-16566567/" target="_blank"&gt;Fashion-lover hasn't bought new clothes in three years - and has saved £20k&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnRoZW5vbmxlYWd1ZWZvb3RiYWxscGFwZXIuY29tL2xhdGVzdC1uZXdzLzQyNDYzOC9zdGVwLTUtNi1hY3Rpb24tOTkv0gEA?oc=5</id>
