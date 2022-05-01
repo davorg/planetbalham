@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-01T22:51:03Z</updated>
+  <updated>2022-05-01T23:16:49Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 4mph, Visibility: Good, Pressure: 1022mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-01T21:54:00.000+0000</id>
-    <published>2022-05-01T22:32:48Z</published>
-    <updated>2022-05-01T22:32:48Z</updated>
+    <published>2022-05-01T23:01:51Z</published>
+    <updated>2022-05-01T23:01:51Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1021mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-01T21:54:00.000+0000</id>
-    <published>2022-05-01T22:32:48Z</published>
-    <updated>2022-05-01T22:32:48Z</updated>
+    <published>2022-05-01T23:01:51Z</published>
+    <updated>2022-05-01T23:01:51Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (60°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-01T21:54:00.000+0000</id>
-    <published>2022-05-01T22:32:48Z</published>
-    <updated>2022-05-01T22:32:48Z</updated>
+    <published>2022-05-01T23:01:51Z</published>
+    <updated>2022-05-01T23:01:51Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd2FuZHN3b3J0aC10b3RlbWljLXRvcnktY291bmNpbC1sb25kb24tcGFydGllcy1zY2FuZGFsLWxhdGVzdC03bmhnYmxsanHSAQA?oc=5</id>
+    <title type="html">Wandsworth: Totemic Tory council in London senses a shift in power - The Times</title>
+    <updated>2022-05-01T23:01:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/wandsworth-totemic-tory-council-london-parties-scandal-latest-7nhgblljq" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/wandsworth-totemic-tory-council-london-parties-scandal-latest-7nhgblljq" target="_blank"&gt;Wandsworth: Totemic Tory council in London senses a shift in power&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMQ7WNqEi8YVlmipFowix8MqGQgEKhAIACoHCAowxsaVCzCXq6sDMPfkxgY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-04-30T14:30:20.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/london-trains-cancelled-services-between-23832678" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-trains-cancelled-services-between-23832678" target="_blank"&gt;London trains: Cancelled services between London Victoria and East Croydon this bank holiday weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNC8zMC9kb3plbnMtb2Ytc291dGgtbG9uZG9uLXJvdXRlcy10by1iZS1oaXQtYnktYnVzLWRyaXZlcnMtc3RyaWtlL9IBZ2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNC8zMC9kb3plbnMtb2Ytc291dGgtbG9uZG9uLXJvdXRlcy10by1iZS1oaXQtYnktYnVzLWRyaXZlcnMtc3RyaWtlL2FtcC8?oc=5</id>
-    <title type="html">Dozens of south London routes to be hit by bus drivers’ strike - Inside Croydon</title>
-    <updated>2022-04-30T10:32:50.000000000Z</updated>
-    <link href="https://insidecroydon.com/2022/04/30/dozens-of-south-london-routes-to-be-hit-by-bus-drivers-strike/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidecroydon.com/2022/04/30/dozens-of-south-london-routes-to-be-hit-by-bus-drivers-strike/" target="_blank"&gt;Dozens of south London routes to be hit by bus drivers’ strike&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>CLOSED</title>
@@ -107,36 +107,6 @@
     <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sw17" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="guessedbychrysis" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A distant look</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002497754/"/>
-    <id>tag:flickr.com,2005:/photo/52002497754</id>
-    <published>2022-04-13T16:26:34Z</published>
-    <updated>2022-04-13T16:26:34Z</updated>
-    <flickr:date_taken>2022-04-13T11:20:46-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-13T11:20:46-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002497754/" title="A distant look"&gt;&lt;img src="https://live.staticflickr.com/65535/52002497754_e49762efc8_m.jpg" width="240" height="150" alt="A distant look" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002497754_e49762efc8_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -227,6 +197,35 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Milk menu</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002305538/"/>
+    <id>tag:flickr.com,2005:/photo/52002305538</id>
+    <published>2022-04-13T16:26:31Z</published>
+    <updated>2022-04-13T16:26:31Z</updated>
+    <flickr:date_taken>2022-04-13T11:04:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:04:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002305538/" title="Milk menu"&gt;&lt;img src="https://live.staticflickr.com/65535/52002305538_196f3a4dba_m.jpg" width="240" height="160" alt="Milk menu" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002305538_196f3a4dba_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
