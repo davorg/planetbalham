@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-04T15:55:16Z</updated>
+  <updated>2022-05-04T16:19:38Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-04T09:56:00.000+0000</id>
-    <published>2022-05-04T15:03:17Z</published>
-    <updated>2022-05-04T15:03:17Z</updated>
+    <published>2022-05-04T16:02:17Z</published>
+    <updated>2022-05-04T16:02:17Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 10°C (49°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1023mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:26 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-04T09:56:00.000+0000</id>
-    <published>2022-05-04T15:03:17Z</published>
-    <updated>2022-05-04T15:03:17Z</updated>
+    <published>2022-05-04T16:02:17Z</published>
+    <updated>2022-05-04T16:02:17Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:31 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-04T09:56:00.000+0000</id>
-    <published>2022-05-04T15:03:17Z</published>
-    <updated>2022-05-04T15:03:17Z</updated>
+    <published>2022-05-04T16:02:17Z</published>
+    <updated>2022-05-04T16:02:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9yYWRpby93aGF0LXRvLWxpc3Rlbi10by9sdWN5LXdvcnNsZXktc2Vuc2F0aW9uYWxseS11bmJ1dHRvbnMtbXVyZGVyb3VzLXNjYW5kYWxzLXZpY3Rvcmlhbi_SAQA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/former-balham-blazers-youngster-set-for-dream-move-to-liverpool/" target="_blank"&gt;Former Balham Blazers youngster set for dream move to Liverpool&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tb3JyaXMtbWVuLXVwLWVhcmx5LXRvLXNlZS1pbi10aGUtYmVnaW5uaW5nLW9mLW1heS_SAQA?oc=5</id>
-    <title type="html">Morris men up early to see in the beginning of May - London News Online</title>
-    <updated>2022-05-03T14:34:28.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/morris-men-up-early-to-see-in-the-beginning-of-may/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/morris-men-up-early-to-see-in-the-beginning-of-may/" target="_blank"&gt;Morris men up early to see in the beginning of May&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2Jvcm91Z2gtZWxlY3Rpb25zLTIwMjItdGhlLXdhcmRzLXdoZXJlLXdhbmRzd29ydGgtd2lsbC1iZS13b24tYW5kLWxvc3Qv0gFmaHR0cHM6Ly93d3cub25sb25kb24uY28udWsvYm9yb3VnaC1lbGVjdGlvbnMtMjAyMi10aGUtd2FyZHMtd2hlcmUtd2FuZHN3b3J0aC13aWxsLWJlLXdvbi1hbmQtbG9zdC9hbXAv?oc=5</id>
     <title type="html">Borough elections 2022: The wards where Wandsworth will be won and lost - onlondon.co.uk</title>
     <updated>2022-05-03T13:58:24.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2022-05-03T09:21:22.000000000Z</updated>
     <link href="https://www.scotsman.com/news/people/scotsman-obituaries-sir-ray-tindle-newspaper-and-radio-entrepreneur-3676939" type="text/html"/>
     <content type="html">&lt;a href="https://www.scotsman.com/news/people/scotsman-obituaries-sir-ray-tindle-newspaper-and-radio-entrepreneur-3676939" target="_blank"&gt;Scotsman Obituaries: Sir Ray Tindle, newspaper and radio entrepreneur&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Scotsman&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEO87qb6ru2MQe-KB23oH44IqGQgEKhAIACoHCAowzuOICzCZ4ocDMN-YowY?oc=5</id>
+    <title type="html">How Margaret Thatcher's Right to Buy scheme created 2.5million homeowners - Daily Mail</title>
+    <updated>2022-05-02T09:39:53.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-10774335/How-Margaret-Thatchers-Right-Buy-scheme-created-2-5million-homeowners.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-10774335/How-Margaret-Thatchers-Right-Buy-scheme-created-2-5million-homeowners.html" target="_blank"&gt;How Margaret Thatcher's Right to Buy scheme created 2.5million homeowners&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>CLOSED</title>
