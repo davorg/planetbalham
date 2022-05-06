@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-06T22:15:38Z</updated>
+  <updated>2022-05-06T22:50:33Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Light Rain Showers, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 20:33 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 20:33 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-06T19:59:00.000+0000</id>
-    <published>2022-05-06T22:06:11Z</published>
-    <updated>2022-05-06T22:06:11Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-06T21:54:00.000+0000</id>
+    <published>2022-05-06T22:49:13Z</published>
+    <updated>2022-05-06T22:49:13Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 9°C (47°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 9°C (48°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-06T19:59:00.000+0000</id>
-    <published>2022-05-06T22:06:11Z</published>
-    <updated>2022-05-06T22:06:11Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-06T21:54:00.000+0000</id>
+    <published>2022-05-06T22:49:13Z</published>
+    <updated>2022-05-06T22:49:13Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1029mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:36 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1029mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:36 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-06T19:59:00.000+0000</id>
-    <published>2022-05-06T22:06:11Z</published>
-    <updated>2022-05-06T22:06:11Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-06T21:54:00.000+0000</id>
+    <published>2022-05-06T22:49:13Z</published>
+    <updated>2022-05-06T22:49:13Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFYoo6BzdGaiCxAr8cU3-toqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-05-06T16:39:33.000000000Z</updated>
     <link href="https://www.mylondon.news/news/tv/susanna-reids-quiet-life-south-23885128" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/tv/susanna-reids-quiet-life-south-23885128" target="_blank"&gt;Susanna Reid's quiet life in South London, TV star schoolmate and famous ex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBMtHgJHrreLwTXUF5TH3YQqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrcXbBg?oc=5</id>
+    <title type="html">Restaurant boss trained by Gordon Ramsay gives entire £1,000 bill to waitress after 'rich' diners 'treated her like crap' - My London</title>
+    <updated>2022-05-06T09:38:58.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/zone-1-news/restaurant-boss-trained-gordon-ramsay-23880902" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/zone-1-news/restaurant-boss-trained-gordon-ramsay-23880902" target="_blank"&gt;Restaurant boss trained by Gordon Ramsay gives entire £1,000 bill to waitress after 'rich' diners 'treated her like crap'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5mb29kc2VydmljZWVxdWlwbWVudGpvdXJuYWwuY29tL3N0cmVldC1mb29kLW9wZXJhdG9yLWdhaW5zLWFjY2Vzcy10by1wcmVtaXVtLWtpdGNoZW5zLWluLWZhc3QtZ3Jvd2luZy1kZWxpdmVyeS1hcmVhcy_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-05T18:58:13.000000000Z</updated>
     <link href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" target="_blank"&gt;Steam locomotive 35028 Clan Line to pass through London and Croydon this Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9jcm95ZG9uLWxpdmUtdHJhdmVsLWRpc3J1cHRpb24tdXBkYXRlcy0yMzg2OTQ5ONIBAA?oc=5</id>
-    <title type="html">Updates as travel disruption continues at London Victoria with platforms - My London</title>
-    <updated>2022-05-05T09:45:37.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/croydon-live-travel-disruption-updates-23869498" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/croydon-live-travel-disruption-updates-23869498" target="_blank"&gt;Updates as travel disruption continues at London Victoria with platforms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>CLOSED</title>
