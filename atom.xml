@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-07T11:50:32Z</updated>
+  <updated>2022-05-07T12:16:42Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <id>https://news.google.com/articles/CAIiEHXqfFWaZKM9gcwVQZ-tqqcqGQgEKhAIACoHCAow16D9CjCOy_QCMLzn0wU?oc=5</id>
-    <title type="html">Former Gillingham and AFC Wimbledon captain reveals 'scary' wait after scans show brain cysts - Surrey Live</title>
-    <updated>2022-05-07T11:22:36.000000000Z</updated>
-    <link href="https://www.getsurrey.co.uk/sport/football/football-news/former-gillingham-afc-wimbledon-captain-23891894" type="text/html"/>
-    <content type="html">&lt;a href="https://www.getsurrey.co.uk/sport/football/football-news/former-gillingham-afc-wimbledon-captain-23891894" target="_blank"&gt;Former Gillingham and AFC Wimbledon captain reveals 'scary' wait after scans show brain cysts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1026mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:33 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1026mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-07T09:58:00.000+0000</id>
-    <published>2022-05-07T11:02:39Z</published>
-    <updated>2022-05-07T11:02:39Z</updated>
+    <published>2022-05-07T12:00:57Z</published>
+    <updated>2022-05-07T12:00:57Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 18°C (65°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1030mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-07T09:58:00.000+0000</id>
-    <published>2022-05-07T11:02:39Z</published>
-    <updated>2022-05-07T11:02:39Z</updated>
+    <published>2022-05-07T12:00:57Z</published>
+    <updated>2022-05-07T12:00:57Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (71°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1025mb, Humidity: 58%, UV Risk: 6, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:36 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-07T09:58:00.000+0000</id>
-    <published>2022-05-07T11:02:39Z</published>
-    <updated>2022-05-07T11:02:39Z</updated>
+    <published>2022-05-07T12:00:57Z</published>
+    <updated>2022-05-07T12:00:57Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEHXqfFWaZKM9gcwVQZ-tqqcqGQgEKhAIACoHCAow16D9CjCOy_QCMLzn0wU?oc=5</id>
+    <title type="html">Former Gillingham and AFC Wimbledon captain reveals 'scary' wait after scans show brain cysts - Surrey Live</title>
+    <updated>2022-05-07T11:22:36.000000000Z</updated>
+    <link href="https://www.getsurrey.co.uk/sport/football/football-news/former-gillingham-afc-wimbledon-captain-23891894" type="text/html"/>
+    <content type="html">&lt;a href="https://www.getsurrey.co.uk/sport/football/football-news/former-gillingham-afc-wimbledon-captain-23891894" target="_blank"&gt;Former Gillingham and AFC Wimbledon captain reveals 'scary' wait after scans show brain cysts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFYoo6BzdGaiCxAr8cU3-toqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -62,18 +62,18 @@
     <content type="html">&lt;a href="https://www.bighospitality.co.uk/Article/2022/05/06/Growth-Kitchen-and-The-Athenian-form-strategic-delivery-partnership" target="_blank"&gt;Growth Kitchen and The Athenian form strategic delivery partnership&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CAIiEIM3pgSSeS4Ikarc9qTifJsqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
+    <title type="html">Steam locomotive 35028 Clan Line to pass through London and Croydon this Friday - RailAdvent - Railway News</title>
+    <updated>2022-05-05T23:53:22.000000000Z</updated>
+    <link href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" target="_blank"&gt;Steam locomotive 35028 Clan Line to pass through London and Croydon this Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CAIiEJieciSSuS0ffTYAxCs_bAMqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
     <title type="html">Wandsworth local election results 2022 - South West Londoner</title>
     <updated>2022-05-05T22:28:38.000000000Z</updated>
     <link href="https://www.swlondoner.co.uk/news/05052022-wandsworth-local-election-results-2022" type="text/html"/>
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/05052022-wandsworth-local-election-results-2022" target="_blank"&gt;Wandsworth local election results 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEIM3pgSSeS4Ikarc9qTifJsqGQgEKhAIACoHCAowvL6ACzCx0IwDMI-T-wU?oc=5</id>
-    <title type="html">Steam locomotive 35028 Clan Line to pass through London and Croydon this Friday - RailAdvent - Railway News</title>
-    <updated>2022-05-05T18:58:13.000000000Z</updated>
-    <link href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" target="_blank"&gt;Steam locomotive 35028 Clan Line to pass through London and Croydon this Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>CLOSED</title>
