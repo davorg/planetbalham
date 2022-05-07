@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-07T07:50:38Z</updated>
+  <updated>2022-05-07T08:16:04Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-06T21:54:00.000+0000</id>
-    <published>2022-05-07T07:01:38Z</published>
-    <updated>2022-05-07T07:01:38Z</updated>
+    <published>2022-05-07T08:01:08Z</published>
+    <updated>2022-05-07T08:01:08Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 18°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1030mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-06T21:54:00.000+0000</id>
-    <published>2022-05-07T07:01:38Z</published>
-    <updated>2022-05-07T07:01:38Z</updated>
+    <published>2022-05-07T08:01:08Z</published>
+    <updated>2022-05-07T08:01:08Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (71°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:36 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-06T21:54:00.000+0000</id>
-    <published>2022-05-07T07:01:38Z</published>
-    <updated>2022-05-07T07:01:38Z</updated>
+    <published>2022-05-07T08:01:08Z</published>
+    <updated>2022-05-07T08:01:08Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEFYoo6BzdGaiCxAr8cU3-toqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,13 +46,6 @@
     <updated>2022-05-06T16:39:33.000000000Z</updated>
     <link href="https://www.mylondon.news/news/tv/susanna-reids-quiet-life-south-23885128" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/tv/susanna-reids-quiet-life-south-23885128" target="_blank"&gt;Susanna Reid's quiet life in South London, TV star schoolmate and famous ex&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEBMtHgJHrreLwTXUF5TH3YQqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrcXbBg?oc=5</id>
-    <title type="html">Restaurant boss trained by Gordon Ramsay gives entire £1,000 bill to waitress after 'rich' diners 'treated her like crap' - My London</title>
-    <updated>2022-05-06T09:38:58.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/zone-1-news/restaurant-boss-trained-gordon-ramsay-23880902" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/zone-1-news/restaurant-boss-trained-gordon-ramsay-23880902" target="_blank"&gt;Restaurant boss trained by Gordon Ramsay gives entire £1,000 bill to waitress after 'rich' diners 'treated her like crap'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMi8wNS8wNi9Hcm93dGgtS2l0Y2hlbi1hbmQtVGhlLUF0aGVuaWFuLWZvcm0tc3RyYXRlZ2ljLWRlbGl2ZXJ5LXBhcnRuZXJzaGlw0gEA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2022-05-05T18:58:13.000000000Z</updated>
     <link href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.railadvent.co.uk/2022/05/steam-locomotive-35028-clan-line-to-pass-through-london-and-croydon-this-friday.html" target="_blank"&gt;Steam locomotive 35028 Clan Line to pass through London and Croydon this Friday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9waWNraW5nLXVwLXBsYXN0aWMtbGl0dGVyLWlzLWEtcmVzcG9uc2liaWxpdHktZm9yLXVzLWFsbC_SAQA?oc=5</id>
+    <title type="html">Picking up plastic litter is a responsibility for us all - London News Online</title>
+    <updated>2022-05-05T11:51:56.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/picking-up-plastic-litter-is-a-responsibility-for-us-all/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/picking-up-plastic-litter-is-a-responsibility-for-us-all/" target="_blank"&gt;Picking up plastic litter is a responsibility for us all&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>CLOSED</title>
@@ -141,6 +141,36 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Coffee focus</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002497919/"/>
+    <id>tag:flickr.com,2005:/photo/52002497919</id>
+    <published>2022-04-13T16:26:33Z</published>
+    <updated>2022-04-13T16:26:33Z</updated>
+    <flickr:date_taken>2022-04-13T11:20:08-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:20:08-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002497919/" title="Coffee focus"&gt;&lt;img src="https://live.staticflickr.com/65535/52002497919_a791a29e09_m.jpg" width="240" height="150" alt="Coffee focus" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002497919_a791a29e09_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Before coffee</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002498094/"/>
     <id>tag:flickr.com,2005:/photo/52002498094</id>
@@ -197,35 +227,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Milk menu</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002305538/"/>
-    <id>tag:flickr.com,2005:/photo/52002305538</id>
-    <published>2022-04-13T16:26:31Z</published>
-    <updated>2022-04-13T16:26:31Z</updated>
-    <flickr:date_taken>2022-04-13T11:04:59-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-13T11:04:59-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002305538/" title="Milk menu"&gt;&lt;img src="https://live.staticflickr.com/65535/52002305538_196f3a4dba_m.jpg" width="240" height="160" alt="Milk menu" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002305538_196f3a4dba_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
