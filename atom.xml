@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-11T22:16:28Z</updated>
+  <updated>2022-05-11T22:51:35Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMS90b3J5LWdvdmVybm1lbnQtcmFpbC1jdXRzLWNhdXNlLW1vcmUtY29tbXV0ZXItbWlzZXJ5L9IBXmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMS90b3J5LWdvdmVybm1lbnQtcmFpbC1jdXRzLWNhdXNlLW1vcmUtY29tbXV0ZXItbWlzZXJ5L2FtcC8?oc=5</id>
+    <title type="html">Tory government rail cuts cause more commuter misery - Inside Croydon</title>
+    <updated>2022-05-11T22:33:09.000000000Z</updated>
+    <link href="https://insidecroydon.com/2022/05/11/tory-government-rail-cuts-cause-more-commuter-misery/" type="text/html"/>
+    <content type="html">&lt;a href="https://insidecroydon.com/2022/05/11/tory-government-rail-cuts-cause-more-commuter-misery/" target="_blank"&gt;Tory government rail cuts cause more commuter misery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 20:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1017mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 20:40 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-11T19:03:00.000+0000</id>
-    <published>2022-05-11T22:01:08Z</published>
-    <updated>2022-05-11T22:01:08Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-11T21:53:00.000+0000</id>
+    <published>2022-05-11T22:22:45Z</published>
+    <updated>2022-05-11T22:22:45Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
@@ -26,19 +33,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 62%, UV Risk: 4, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-11T19:03:00.000+0000</id>
-    <published>2022-05-11T22:01:08Z</published>
-    <updated>2022-05-11T22:01:08Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-11T21:53:00.000+0000</id>
+    <published>2022-05-11T22:22:45Z</published>
+    <updated>2022-05-11T22:22:45Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1020mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-11T19:03:00.000+0000</id>
-    <published>2022-05-11T22:01:08Z</published>
-    <updated>2022-05-11T22:01:08Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-11T21:53:00.000+0000</id>
+    <published>2022-05-11T22:22:45Z</published>
+    <updated>2022-05-11T22:22:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELr-D3C74Ignz2fxq_FdeoIqGQgEKhAIACoHCAowhd6oCzD36MADMOv0qgc?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2022-05-11T17:46:01.000000000Z</updated>
     <link href="https://www.southwarknews.co.uk/news/arriva-bus-strikes-leave-commuters-stranded-on-a-day-of-downpour/" type="text/html"/>
     <content type="html">&lt;a href="https://www.southwarknews.co.uk/news/arriva-bus-strikes-leave-commuters-stranded-on-a-day-of-downpour/" target="_blank"&gt;Arriva bus strikes leave commuters stranded on a day of downpour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMS90b3J5LWdvdmVybm1lbnQtcmFpbC1jdXRzLWNhdXNlLW1vcmUtY29tbXV0ZXItbWlzZXJ5L9IBXmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMS90b3J5LWdvdmVybm1lbnQtcmFpbC1jdXRzLWNhdXNlLW1vcmUtY29tbXV0ZXItbWlzZXJ5L2FtcC8?oc=5</id>
-    <title type="html">Tory government rail cuts cause more commuter misery - Inside Croydon</title>
-    <updated>2022-05-11T17:09:20.000000000Z</updated>
-    <link href="https://insidecroydon.com/2022/05/11/tory-government-rail-cuts-cause-more-commuter-misery/" type="text/html"/>
-    <content type="html">&lt;a href="https://insidecroydon.com/2022/05/11/tory-government-rail-cuts-cause-more-commuter-misery/" target="_blank"&gt;Tory government rail cuts cause more commuter misery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECngWXdZ2WU4XqOjdMG8NOIqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
