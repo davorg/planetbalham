@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-12T14:16:18Z</updated>
+  <updated>2022-05-12T14:51:36Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1018mb, Humidity: 48%, UV Risk: 3, Pollution: Low, Sunrise: 05:14 BST, Sunset: 20:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1018mb, Humidity: 48%, UV Risk: 4, Pollution: Low, Sunrise: 05:14 BST, Sunset: 20:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-12T09:57:00.000+0000</id>
-    <published>2022-05-12T14:03:49Z</published>
-    <updated>2022-05-12T14:03:49Z</updated>
+    <published>2022-05-12T14:35:52Z</published>
+    <updated>2022-05-12T14:35:52Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 21°C (70°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1020mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-12T09:57:00.000+0000</id>
-    <published>2022-05-12T14:03:49Z</published>
-    <updated>2022-05-12T14:03:49Z</updated>
+    <published>2022-05-12T14:35:52Z</published>
+    <updated>2022-05-12T14:35:52Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 22°C (71°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-12T09:57:00.000+0000</id>
-    <published>2022-05-12T14:03:49Z</published>
-    <updated>2022-05-12T14:03:49Z</updated>
+    <published>2022-05-12T14:35:52Z</published>
+    <updated>2022-05-12T14:35:52Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vZm9vZC1kcmluay1uZXdzL2xvbmRvbi1yZXN0YXVyYW50cy11YmVyLWVhdHMtYXdhcmRzLTIzOTM5NjI20gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi9mb29kLWRyaW5rLW5ld3MvbG9uZG9uLXJlc3RhdXJhbnRzLXViZXItZWF0cy1hd2FyZHMtMjM5Mzk2MjYuYW1w?oc=5</id>
+    <title type="html">South London seafood restaurant &amp; McDonald's rival competing at Uber Eats Awards - My London</title>
+    <updated>2022-05-12T13:56:52.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/food-drink-news/london-restaurants-uber-eats-awards-23939626" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/food-drink-news/london-restaurants-uber-eats-awards-23939626" target="_blank"&gt;South London seafood restaurant &amp; McDonald's rival competing at Uber Eats Awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMS90b3J5LWdvdmVybm1lbnQtcmFpbC1jdXRzLWNhdXNlLW1vcmUtY29tbXV0ZXItbWlzZXJ5L9IBXmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMS90b3J5LWdvdmVybm1lbnQtcmFpbC1jdXRzLWNhdXNlLW1vcmUtY29tbXV0ZXItbWlzZXJ5L2FtcC8?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-10T11:16:58.000000000Z</updated>
     <link href="https://london.eater.com/2022/5/10/23064911/juliets-cafe-studio-voltaire-clapham-best-brunch-south-west-london" type="text/html"/>
     <content type="html">&lt;a href="https://london.eater.com/2022/5/10/23064911/juliets-cafe-studio-voltaire-clapham-best-brunch-south-west-london" target="_blank"&gt;Juliets Cafe Studio Voltaire Clapham Comes From SW London's Best Brunch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eater London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9oaWxhcmlvdXMtbG9uZG9uLXVuZGVyZ3JvdW5kLW1hcC1naXZlcy0yMzkwMDYyNtIBAA?oc=5</id>
-    <title type="html">Hilarious London Underground map gives 'more accurate' names to Northern line stops - My London</title>
-    <updated>2022-05-09T05:00:00.000000000Z</updated>
-    <link href="https://www.mylondon.news/news/south-london-news/hilarious-london-underground-map-gives-23900626" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/hilarious-london-underground-map-gives-23900626" target="_blank"&gt;Hilarious London Underground map gives 'more accurate' names to Northern line stops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455834</title>
