@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-13T12:18:00Z</updated>
+  <updated>2022-05-13T13:06:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 51%, UV Risk: 5, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1019mb, Humidity: 47%, UV Risk: 5, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-13T09:55:00.000+0000</id>
-    <published>2022-05-13T12:00:35Z</published>
-    <updated>2022-05-13T12:00:35Z</updated>
+    <published>2022-05-13T13:05:40Z</published>
+    <updated>2022-05-13T13:05:40Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1021mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-13T09:55:00.000+0000</id>
-    <published>2022-05-13T12:00:35Z</published>
-    <updated>2022-05-13T12:00:35Z</updated>
+    <published>2022-05-13T13:05:40Z</published>
+    <updated>2022-05-13T13:05:40Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 23°C (73°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (58°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1015mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 05:09 BST, Sunset: 20:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-13T09:55:00.000+0000</id>
-    <published>2022-05-13T12:00:35Z</published>
-    <updated>2022-05-13T12:00:35Z</updated>
+    <published>2022-05-13T13:05:40Z</published>
+    <updated>2022-05-13T13:05:40Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMy90cmFtcy1sb29rLXRvLXR1cm4tb3Zlci1uZXctbGVhZmUtd2l0aC11cGRhdGVkLWxlYWd1ZS_SAV9odHRwczovL2luc2lkZWNyb3lkb24uY29tLzIwMjIvMDUvMTMvdHJhbXMtbG9vay10by10dXJuLW92ZXItbmV3LWxlYWZlLXdpdGgtdXBkYXRlZC1sZWFndWUvYW1wLw?oc=5</id>
+    <title type="html">Trams look to turn over new Leafe with updated league - Inside Croydon</title>
+    <updated>2022-05-13T12:16:09.000000000Z</updated>
+    <link href="https://insidecroydon.com/2022/05/13/trams-look-to-turn-over-new-leafe-with-updated-league/" type="text/html"/>
+    <content type="html">&lt;a href="https://insidecroydon.com/2022/05/13/trams-look-to-turn-over-new-leafe-with-updated-league/" target="_blank"&gt;Trams look to turn over new Leafe with updated league&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL2Zvb2QtZHJpbmstbG9uZG9uL2xvbmRvbi1icnVuY2gtYnJlYWtmYXN0L9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-11T17:46:01.000000000Z</updated>
     <link href="https://www.southwarknews.co.uk/news/arriva-bus-strikes-leave-commuters-stranded-on-a-day-of-downpour/" type="text/html"/>
     <content type="html">&lt;a href="https://www.southwarknews.co.uk/news/arriva-bus-strikes-leave-commuters-stranded-on-a-day-of-downpour/" target="_blank"&gt;Arriva bus strikes leave commuters stranded on a day of downpour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEGvA5RwFp9VWwCJGexazZssqGQgEKhAIACoHCAowu6uCCzC8kv8CMMaz8wU?oc=5</id>
-    <title type="html">Juliets Cafe Studio Voltaire Clapham Comes From SW London's Best Brunch - Eater London</title>
-    <updated>2022-05-10T11:16:58.000000000Z</updated>
-    <link href="https://london.eater.com/2022/5/10/23064911/juliets-cafe-studio-voltaire-clapham-best-brunch-south-west-london" type="text/html"/>
-    <content type="html">&lt;a href="https://london.eater.com/2022/5/10/23064911/juliets-cafe-studio-voltaire-clapham-best-brunch-south-west-london" target="_blank"&gt;Juliets Cafe Studio Voltaire Clapham Comes From SW London's Best Brunch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eater London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455834</title>
@@ -170,36 +170,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Coffee focus</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002497919/"/>
-    <id>tag:flickr.com,2005:/photo/52002497919</id>
-    <published>2022-04-13T16:26:33Z</published>
-    <updated>2022-04-13T16:26:33Z</updated>
-    <flickr:date_taken>2022-04-13T11:20:08-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-13T11:20:08-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002497919/" title="Coffee focus"&gt;&lt;img src="https://live.staticflickr.com/65535/52002497919_a791a29e09_m.jpg" width="240" height="150" alt="Coffee focus" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002497919_a791a29e09_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Before coffee</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002498094/"/>
     <id>tag:flickr.com,2005:/photo/52002498094</id>
@@ -226,6 +196,36 @@
     <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Filter coffee</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52002243836/"/>
+    <id>tag:flickr.com,2005:/photo/52002243836</id>
+    <published>2022-04-13T16:26:32Z</published>
+    <updated>2022-04-13T16:26:32Z</updated>
+    <flickr:date_taken>2022-04-13T11:10:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-13T11:10:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52002243836/" title="Filter coffee"&gt;&lt;img src="https://live.staticflickr.com/65535/52002243836_a6683ba50b_m.jpg" width="240" height="150" alt="Filter coffee" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth Street, Balham&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52002243836_a6683ba50b_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
