@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-15T08:52:41Z</updated>
+  <updated>2022-05-15T09:16:20Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 15°C (58°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1015mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 05:09 BST, Sunset: 20:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-15T07:03:00.000+0000</id>
-    <published>2022-05-15T08:18:58Z</published>
-    <updated>2022-05-15T08:18:58Z</updated>
+    <published>2022-05-15T09:02:26Z</published>
+    <updated>2022-05-15T09:02:26Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 13°C (54°F) Maximum Temperature: 21°C (71°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 13°C (54°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1015mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 05:08 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-15T07:03:00.000+0000</id>
-    <published>2022-05-15T08:18:58Z</published>
-    <updated>2022-05-15T08:18:58Z</updated>
+    <published>2022-05-15T09:02:26Z</published>
+    <updated>2022-05-15T09:02:26Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 25°C (78°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (78°F), Minimum Temperature: 14°C (58°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 05:07 BST, Sunset: 20:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-15T07:03:00.000+0000</id>
-    <published>2022-05-15T08:18:58Z</published>
-    <updated>2022-05-15T08:18:58Z</updated>
+    <published>2022-05-15T09:02:26Z</published>
+    <updated>2022-05-15T09:02:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEMh6zV_raK8rOLrH7JrZjtUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-05-15T06:00:00.000000000Z</updated>
     <link href="https://www.mylondon.news/news/uk-cities-just-like-london-23907571" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/uk-cities-just-like-london-23907571" target="_blank"&gt;The UK cities that are just like London towns but with much cheaper house prices&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvdGV4dGlsZXMtZXhwZXJ0LXdoby10cmF2ZWxsZWQtc29sby1hcm91bmQtY2VudHJhbC1hc2lhLXRkZHRjMzZkdNIBAA?oc=5</id>
+    <title type="html">Sheila Paine, 92: Textiles expert who travelled solo around central Asia - The Times</title>
+    <updated>2022-05-13T23:01:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/textiles-expert-who-travelled-solo-around-central-asia-tddtc36dt" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/textiles-expert-who-travelled-solo-around-central-asia-tddtc36dt" target="_blank"&gt;Sheila Paine, 92: Textiles expert who travelled solo around central Asia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8wNS8xMy90cmFtcy1sb29rLXRvLXR1cm4tb3Zlci1uZXctbGVhZmUtd2l0aC11cGRhdGVkLWxlYWd1ZS_SAV9odHRwczovL2luc2lkZWNyb3lkb24uY29tLzIwMjIvMDUvMTMvdHJhbXMtbG9vay10by10dXJuLW92ZXItbmV3LWxlYWZlLXdpdGgtdXBkYXRlZC1sZWFndWUvYW1wLw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-11T22:33:09.000000000Z</updated>
     <link href="https://insidecroydon.com/2022/05/11/tory-government-rail-cuts-cause-more-commuter-misery/" type="text/html"/>
     <content type="html">&lt;a href="https://insidecroydon.com/2022/05/11/tory-government-rail-cuts-cause-more-commuter-misery/" target="_blank"&gt;Tory government rail cuts cause more commuter misery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEGvA5RwFp9VWwCJGexazZssqGQgEKhAIACoHCAowu6uCCzC8kv8CMMaz8wU?oc=5</id>
-    <title type="html">Juliets Cafe Studio Voltaire Clapham Comes From SW London's Best Brunch - Eater London</title>
-    <updated>2022-05-10T11:16:58.000000000Z</updated>
-    <link href="https://london.eater.com/2022/5/10/23064911/juliets-cafe-studio-voltaire-clapham-best-brunch-south-west-london" type="text/html"/>
-    <content type="html">&lt;a href="https://london.eater.com/2022/5/10/23064911/juliets-cafe-studio-voltaire-clapham-best-brunch-south-west-london" target="_blank"&gt;Juliets Cafe Studio Voltaire Clapham Comes From SW London's Best Brunch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eater London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455834</title>
