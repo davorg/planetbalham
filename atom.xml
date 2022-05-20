@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-20T16:59:24Z</updated>
+  <updated>2022-05-20T17:17:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 10°C (50°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunset: 20:52 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-20T09:57:00.000+0000</id>
+    <published>2022-05-20T17:01:40Z</published>
+    <updated>2022-05-20T17:01:40Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (69°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-20T09:57:00.000+0000</id>
+    <published>2022-05-20T17:01:40Z</published>
+    <updated>2022-05-20T17:01:40Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (73°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1014mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-20T09:57:00.000+0000</id>
+    <published>2022-05-20T17:01:40Z</published>
+    <updated>2022-05-20T17:01:40Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWFyY3VzLWJyaWdzdG9ja2UtaXZlLWZvdW5kLW15LWNoYW1lbGVvbi1kYW5nbGluZy1vZmYtdGhlLWN1cnRhaW5zLWEtZmV3LXRpbWVzLWdmZnYwd2RtN9IBAA?oc=5</id>
     <title type="html">Marcus Brigstocke: 'I've found my chameleon dangling off the curtains a few times' - The Times</title>
