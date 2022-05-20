@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-20T07:50:36Z</updated>
+  <updated>2022-05-20T08:16:42Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1018mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 05:02 BST, Sunset: 20:52 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-19T21:55:00.000+0000</id>
+    <published>2022-05-20T08:08:31Z</published>
+    <updated>2022-05-20T08:08:31Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (69°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-19T21:55:00.000+0000</id>
+    <published>2022-05-20T08:08:31Z</published>
+    <updated>2022-05-20T08:08:31Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (72°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-19T21:55:00.000+0000</id>
+    <published>2022-05-20T08:08:31Z</published>
+    <updated>2022-05-20T08:08:31Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455 821 Approaching Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/crashcalloway/52086054693/"/>
@@ -22,7 +52,7 @@
 	
 &lt;p&gt;&lt;a href="https://www.flickr.com/photos/crashcalloway/52086054693/" title="455 821 Approaching Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52086054693_ee719c550c_m.jpg" width="240" height="160" alt="455 821 Approaching Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;455 821 Approaches Balham station through the heat haze on the last full weekend of 455 operation on the Southern. The Island platform here made a sunny side up shot difficult as the far island platform was closed on this weekend.&lt;/p&gt;</content>
+&lt;p&gt;455 821 Approaches Balham station through the heat haze on the last full weekend of 455 operation on the Southern. The Island platform here made a sunny side up shot difficult as the far island platform was closed on this weekend. I would be away for the Farewell Tour so this would be my last chance to get photos of these before they were retired the following Saturday. Many of the units had a little poster in the cab window and carriage windows showing their imminent retirement.&lt;/p&gt;</content>
     <author>
       <name>crashcalloway</name>
       <uri>https://www.flickr.com/people/crashcalloway/</uri>
@@ -44,36 +74,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1018mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 05:02 BST, Sunset: 20:52 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-19T21:55:00.000+0000</id>
-    <published>2022-05-20T07:43:17Z</published>
-    <updated>2022-05-20T07:43:17Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (69°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-19T21:55:00.000+0000</id>
-    <published>2022-05-20T07:43:17Z</published>
-    <updated>2022-05-20T07:43:17Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (72°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-19T21:55:00.000+0000</id>
-    <published>2022-05-20T07:43:17Z</published>
-    <updated>2022-05-20T07:43:17Z</updated>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYmVpbmctZ29vZC10ZW5hbnQtaXNuLXQtMDQ1MzAwMTI4Lmh0bWzSAUhodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYmVpbmctZ29vZC10ZW5hbnQtaXNuLXQtMDQ1MzAwMTI4Lmh0bWw?oc=5</id>
     <title type="html">‘Being a good tenant isn’t enough’: Londoners being driven out by huge rent hikes - Yahoo News UK</title>
     <updated>2022-05-18T04:53:00.000000000Z</updated>
@@ -86,13 +86,6 @@
     <updated>2022-05-16T09:29:12.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" target="_blank"&gt;Molly Huggins Close Balham fire: Woman taken to hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHA6Ly93d3cuaGVubGV5c3RhbmRhcmQuY28udWsvbmV3cy9mb290YmFsbC8xNzIyMDMvaHVycmljYW5lcy1uYXJyb3dseS1sb3NlLW91dC1hdC1zYW5kaHVyc3QuaHRtbNIBAA?oc=5</id>
-    <title type="html">Hurricanes narrowly lose out at Sandhurst - Henley Standard</title>
-    <updated>2022-05-16T08:32:52.000000000Z</updated>
-    <link href="http://www.henleystandard.co.uk/news/football/172203/hurricanes-narrowly-lose-out-at-sandhurst.html" type="text/html"/>
-    <content type="html">&lt;a href="http://www.henleystandard.co.uk/news/football/172203/hurricanes-narrowly-lose-out-at-sandhurst.html" target="_blank"&gt;Hurricanes narrowly lose out at Sandhurst&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Henley Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LmxvbmRvbi1maXJlLmdvdi51ay9pbmNpZGVudHMvMjAyMi9tYXkvZmxhdC1maXJlLWJhbGhhbS_SAQA?oc=5</id>
@@ -162,6 +155,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEMh6zV_raK8rOLrH7JrZjtUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">The UK cities that are just like London towns but with much cheaper house prices - My London</title>
+    <updated>2022-05-15T06:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/uk-cities-just-like-london-23907571" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-cities-just-like-london-23907571" target="_blank"&gt;The UK cities that are just like London towns but with much cheaper house prices&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455834</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/105285627@N06/52059228511/"/>
