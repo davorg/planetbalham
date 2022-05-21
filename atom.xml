@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-21T13:00:10Z</updated>
+  <updated>2022-05-21T13:19:27Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (68°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 43%, UV Risk: 5, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-21T09:54:00.000+0000</id>
+    <published>2022-05-21T13:06:42Z</published>
+    <updated>2022-05-21T13:06:42Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 23°C (73°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 11°C (53°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1014mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-21T09:54:00.000+0000</id>
+    <published>2022-05-21T13:06:42Z</published>
+    <updated>2022-05-21T13:06:42Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Light Rain, Minimum Temperature: 10°C (49°F) Maximum Temperature: 17°C (63°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (49°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1002mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-21T09:54:00.000+0000</id>
+    <published>2022-05-21T13:06:42Z</published>
+    <updated>2022-05-21T13:06:42Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/128691640@N04/52087212218/"/>
@@ -101,18 +131,18 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiPGh0dHBzOi8vc3dsb25kb25jY2cubmhzLnVrL25ld3MvZHJhbWF0aGVyYXB5LWhlbHBzLWNoaWxkcmVuL9IBAA?oc=5</id>
+    <title type="html">How dramatherapy helps children manage anxiety and complex emotions - South West London CCG</title>
+    <updated>2022-05-18T14:11:05.000000000Z</updated>
+    <link href="https://swlondonccg.nhs.uk/news/dramatherapy-helps-children/" type="text/html"/>
+    <content type="html">&lt;a href="https://swlondonccg.nhs.uk/news/dramatherapy-helps-children/" target="_blank"&gt;How dramatherapy helps children manage anxiety and complex emotions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West London CCG&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIwMTQxMTMyLm1vbGx5LWh1Z2dpbnMtY2xvc2UtYmFsaGFtLWZpcmUtd29tYW4tdGFrZW4taG9zcGl0YWwv0gEA?oc=5</id>
     <title type="html">Molly Huggins Close Balham fire: Woman taken to hospital - Wandsworth Guardian</title>
     <updated>2022-05-16T09:29:12.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" target="_blank"&gt;Molly Huggins Close Balham fire: Woman taken to hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHA6Ly93d3cuaGVubGV5c3RhbmRhcmQuY28udWsvbmV3cy9mb290YmFsbC8xNzIyMDMvaHVycmljYW5lcy1uYXJyb3dseS1sb3NlLW91dC1hdC1zYW5kaHVyc3QuaHRtbNIBAA?oc=5</id>
-    <title type="html">Hurricanes narrowly lose out at Sandhurst - Henley Standard</title>
-    <updated>2022-05-16T08:32:52.000000000Z</updated>
-    <link href="http://www.henleystandard.co.uk/news/football/172203/hurricanes-narrowly-lose-out-at-sandhurst.html" type="text/html"/>
-    <content type="html">&lt;a href="http://www.henleystandard.co.uk/news/football/172203/hurricanes-narrowly-lose-out-at-sandhurst.html" target="_blank"&gt;Hurricanes narrowly lose out at Sandhurst&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Henley Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455804</title>
