@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-22T08:52:37Z</updated>
+  <updated>2022-05-22T09:15:56Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1014mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-22T07:01:00.000+0000</id>
-    <published>2022-05-22T08:21:53Z</published>
-    <updated>2022-05-22T08:21:53Z</updated>
+    <published>2022-05-22T09:02:26Z</published>
+    <updated>2022-05-22T09:02:26Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1002mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-22T07:01:00.000+0000</id>
-    <published>2022-05-22T08:21:53Z</published>
-    <updated>2022-05-22T08:21:53Z</updated>
+    <published>2022-05-22T09:02:26Z</published>
+    <updated>2022-05-22T09:02:26Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1005mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-22T07:01:00.000+0000</id>
-    <published>2022-05-22T08:21:53Z</published>
-    <updated>2022-05-22T08:21:53Z</updated>
+    <published>2022-05-22T09:02:26Z</published>
+    <updated>2022-05-22T09:02:26Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
@@ -124,13 +124,6 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" target="_blank"&gt;Molly Huggins Close Balham fire: Woman taken to hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHA6Ly93d3cuaGVubGV5c3RhbmRhcmQuY28udWsvbmV3cy9mb290YmFsbC8xNzIyMDMvaHVycmljYW5lcy1uYXJyb3dseS1sb3NlLW91dC1hdC1zYW5kaHVyc3QuaHRtbNIBAA?oc=5</id>
-    <title type="html">Hurricanes narrowly lose out at Sandhurst - Henley Standard</title>
-    <updated>2022-05-16T08:32:52.000000000Z</updated>
-    <link href="http://www.henleystandard.co.uk/news/football/172203/hurricanes-narrowly-lose-out-at-sandhurst.html" type="text/html"/>
-    <content type="html">&lt;a href="http://www.henleystandard.co.uk/news/football/172203/hurricanes-narrowly-lose-out-at-sandhurst.html" target="_blank"&gt;Hurricanes narrowly lose out at Sandhurst&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Henley Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LmxvbmRvbi1maXJlLmdvdi51ay9pbmNpZGVudHMvMjAyMi9tYXkvZmxhdC1maXJlLWJhbGhhbS_SAQA?oc=5</id>
     <title type="html">Flat fire – Balham - London Fire Brigade</title>
     <updated>2022-05-16T08:20:58.000000000Z</updated>
@@ -198,6 +191,13 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEMh6zV_raK8rOLrH7JrZjtUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
+    <title type="html">The UK cities that are just like London towns but with much cheaper house prices - My London</title>
+    <updated>2022-05-15T06:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/news/uk-cities-just-like-london-23907571" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/uk-cities-just-like-london-23907571" target="_blank"&gt;The UK cities that are just like London towns but with much cheaper house prices&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455834</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/105285627@N06/52059228511/"/>
