@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-22T11:15:11Z</updated>
+  <updated>2022-05-22T11:51:03Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1012mb, Humidity: 49%, UV Risk: 5, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1012mb, Humidity: 49%, UV Risk: 6, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-22T09:57:00.000+0000</id>
-    <published>2022-05-22T11:02:50Z</published>
-    <updated>2022-05-22T11:02:50Z</updated>
+    <published>2022-05-22T11:26:08Z</published>
+    <updated>2022-05-22T11:26:08Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1002mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-22T09:57:00.000+0000</id>
-    <published>2022-05-22T11:02:50Z</published>
-    <updated>2022-05-22T11:02:50Z</updated>
+    <published>2022-05-22T11:26:08Z</published>
+    <updated>2022-05-22T11:26:08Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (64°F)</title>
@@ -37,11 +37,11 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (64°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1005mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-22T09:57:00.000+0000</id>
-    <published>2022-05-22T11:02:50Z</published>
-    <updated>2022-05-22T11:02:50Z</updated>
+    <published>2022-05-22T11:26:08Z</published>
+    <updated>2022-05-22T11:26:08Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL2xvbmRvbi11bmRlcmdyb3VuZC1jb21tdXRlci1oaWxhcmlvdXNseS10cmFja3MtMjQwMjgzODnSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS9sb25kb24tdW5kZXJncm91bmQtY29tbXV0ZXItaGlsYXJpb3VzbHktdHJhY2tzLTI0MDI4Mzg5LmFtcA?oc=5</id>
+    <id>https://news.google.com/articles/CAIiEJCsOsHE54qA4aLdLuzOXWYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">Londoner hilariously tracks the time between each Tube stop - My London</title>
     <updated>2022-05-22T10:56:46.000000000Z</updated>
     <link href="https://www.mylondon.news/lifestyle/london-underground-commuter-hilariously-tracks-24028389" type="text/html"/>
@@ -83,6 +83,13 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWFyY3VzLWJyaWdzdG9ja2UtaXZlLWZvdW5kLW15LWNoYW1lbGVvbi1kYW5nbGluZy1vZmYtdGhlLWN1cnRhaW5zLWEtZmV3LXRpbWVzLWdmZnYwd2RtN9IBAA?oc=5</id>
+    <title type="html">Marcus Brigstocke: 'I've found my chameleon dangling off the curtains a few times' - The Times</title>
+    <updated>2022-05-20T16:00:00.000000000Z</updated>
+    <link href="https://www.thetimes.co.uk/article/marcus-brigstocke-ive-found-my-chameleon-dangling-off-the-curtains-a-few-times-gffv0wdm7" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thetimes.co.uk/article/marcus-brigstocke-ive-found-my-chameleon-dangling-off-the-curtains-a-few-times-gffv0wdm7" target="_blank"&gt;Marcus Brigstocke: 'I've found my chameleon dangling off the curtains a few times'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijwFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3JlbnRpbmcvYmVpbmctYS1nb29kLXRlbmFudC1pc24tdC1lbm91Z2gtbG9uZG9uZXJzLWJlaW5nLWRyaXZlbi1vdXQtYnktaHVnZS1yZW50LWhpa2VzLWI5OTk3MjUuaHRtbNIBAA?oc=5</id>
     <title type="html">‘Being a good tenant isn’t enough’: Londoners being driven out by huge rent hikes - Evening Standard</title>
@@ -136,13 +143,6 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
     <updated>2022-05-16T08:20:58.000000000Z</updated>
     <link href="https://www.london-fire.gov.uk/incidents/2022/may/flat-fire-balham/" type="text/html"/>
     <content type="html">&lt;a href="https://www.london-fire.gov.uk/incidents/2022/may/flat-fire-balham/" target="_blank"&gt;Flat fire – Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London Fire Brigade&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vYnJpeHRvbmJsb2cuY29tLzIwMjIvMDUvd2h5LW5vdC1qb2luLWluLXRoZS1iaWctcGxhc3RpYy1jb3VudC_SAQA?oc=5</id>
-    <title type="html">Why not join in the Big Plastic Count? - Brixton Blog</title>
-    <updated>2022-05-16T07:57:59.000000000Z</updated>
-    <link href="https://brixtonblog.com/2022/05/why-not-join-in-the-big-plastic-count/" type="text/html"/>
-    <content type="html">&lt;a href="https://brixtonblog.com/2022/05/why-not-join-in-the-big-plastic-count/" target="_blank"&gt;Why not join in the Big Plastic Count?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Brixton Blog&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455804</title>
