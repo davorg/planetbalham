@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-23T13:57:04Z</updated>
+  <updated>2022-05-23T14:25:53Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1000mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-23T09:56:00.000+0000</id>
-    <published>2022-05-23T13:28:44Z</published>
-    <updated>2022-05-23T13:28:44Z</updated>
+    <published>2022-05-23T14:00:25Z</published>
+    <updated>2022-05-23T14:00:25Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Thundery Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1006mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-23T09:56:00.000+0000</id>
-    <published>2022-05-23T13:28:44Z</published>
-    <updated>2022-05-23T13:28:44Z</updated>
+    <published>2022-05-23T14:00:25Z</published>
+    <updated>2022-05-23T14:00:25Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1013mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-23T09:56:00.000+0000</id>
-    <published>2022-05-23T13:28:44Z</published>
-    <updated>2022-05-23T13:28:44Z</updated>
+    <published>2022-05-23T14:00:25Z</published>
+    <updated>2022-05-23T14:00:25Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMipgFodHRwczovL3d3dy5za3lzcG9ydHMuY29tL2Zvb3RiYWxsL2xpdmUtYmxvZy8xMTA2NS8xMjQ3NjIzNC90cmFuc2Zlci1jZW50cmUtbGl2ZS1kYW5pZWwtbGV2eS10ZWxscy10b3R0ZW5oYW0tZmFucy1zcHVycy13aWxsLWNvbnRpbnVlLXRvLWludmVzdC1pbi10ZWFtP3Bvc3RpZD0zOTMyMzU30gEA?oc=5</id>
+    <title type="html">Transfer Centre LIVE! Premier League managers reveal summer plans - Sky Sports</title>
+    <updated>2022-05-23T13:45:01.000000000Z</updated>
+    <link href="https://www.skysports.com/football/live-blog/11065/12476234/transfer-centre-live-daniel-levy-tells-tottenham-fans-spurs-will-continue-to-invest-in-team?postid=3932357" type="text/html"/>
+    <content type="html">&lt;a href="https://www.skysports.com/football/live-blog/11065/12476234/transfer-centre-live-daniel-levy-tells-tottenham-fans-spurs-will-continue-to-invest-in-team?postid=3932357" target="_blank"&gt;Transfer Centre LIVE! Premier League managers reveal summer plans&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky Sports&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiqwFodHRwczovL2xpdmVycG9vbG9mZnNpZGUuc2JuYXRpb24uY29tL2xpdmVycG9vbC1mYy10cmFuc2Zlci1uZXdzLzIwMjIvNS8yMy8yMzEzNzY1My9vZmZpY2lhbC1saXZlcnBvb2wtZmMtdHJhbnNmZXItbmV3cy1jb21wbGV0ZS1zaWduaW5nLWZhYmlvLWNhcnZhbGhvLTVtLWFkZC1vbnMtanVseS0xc3TSAbgBaHR0cHM6Ly9saXZlcnBvb2xvZmZzaWRlLnNibmF0aW9uLmNvbS9wbGF0Zm9ybS9hbXAvbGl2ZXJwb29sLWZjLXRyYW5zZmVyLW5ld3MvMjAyMi81LzIzLzIzMTM3NjUzL29mZmljaWFsLWxpdmVycG9vbC1mYy10cmFuc2Zlci1uZXdzLWNvbXBsZXRlLXNpZ25pbmctZmFiaW8tY2FydmFsaG8tNW0tYWRkLW9ucy1qdWx5LTFzdA?oc=5</id>
@@ -137,13 +144,6 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIwMTQxMTMyLm1vbGx5LWh1Z2dpbnMtY2xvc2UtYmFsaGFtLWZpcmUtd29tYW4tdGFrZW4taG9zcGl0YWwv0gEA?oc=5</id>
-    <title type="html">Molly Huggins Close Balham fire: Woman taken to hospital - Wandsworth Guardian</title>
-    <updated>2022-05-16T09:30:54.000000000Z</updated>
-    <link href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/20141132.molly-huggins-close-balham-fire-woman-taken-hospital/" target="_blank"&gt;Molly Huggins Close Balham fire: Woman taken to hospital&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455804</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/connernolan/52075888865/"/>
