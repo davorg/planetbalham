@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-24T09:16:03Z</updated>
+  <updated>2022-05-24T09:51:21Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1006mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1006mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-24T07:02:00.000+0000</id>
-    <published>2022-05-24T09:02:27Z</published>
-    <updated>2022-05-24T09:02:27Z</updated>
+    <published>2022-05-24T09:31:08Z</published>
+    <updated>2022-05-24T09:31:08Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1013mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-24T07:02:00.000+0000</id>
-    <published>2022-05-24T09:02:27Z</published>
-    <updated>2022-05-24T09:02:27Z</updated>
+    <published>2022-05-24T09:31:08Z</published>
+    <updated>2022-05-24T09:31:08Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1022mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-24T07:02:00.000+0000</id>
-    <published>2022-05-24T09:02:27Z</published>
-    <updated>2022-05-24T09:02:27Z</updated>
+    <published>2022-05-24T09:31:08Z</published>
+    <updated>2022-05-24T09:31:08Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXdlZWsuY28udWsvYXJ0cy1saWZlL2Zvb2QtZHJpbmsvOTU2Nzc3L2Jlc3QtYnVyZ2VyLXJlc3RhdXJhbnRzLWxvbmRvbtIBAA?oc=5</id>
+    <title type="html">Eight of the best burger restaurants in London - The Week UK</title>
+    <updated>2022-05-24T08:33:11.000000000Z</updated>
+    <link href="https://www.theweek.co.uk/arts-life/food-drink/956777/best-burger-restaurants-london" type="text/html"/>
+    <content type="html">&lt;a href="https://www.theweek.co.uk/arts-life/food-drink/956777/best-burger-restaurants-london" target="_blank"&gt;Eight of the best burger restaurants in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Week UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihwFodHRwczovL3RhbGtzcG9ydC5jb20vZm9vdGJhbGwvMTExNTg2OS90cmFuc2Zlci1uZXdzLWxpdmUtcHJlbWllci1sZWFndWUtcnVtb3Vycy1sYXRlc3QtbWFuLXVuaXRlZC1saXZlcnBvb2wtdG90dGVuaGFtLWFyc2VuYWwtY2hlbHNlYS_SAYsBaHR0cHM6Ly90YWxrc3BvcnQuY29tL2Zvb3RiYWxsLzExMTU4NjkvdHJhbnNmZXItbmV3cy1saXZlLXByZW1pZXItbGVhZ3VlLXJ1bW91cnMtbGF0ZXN0LW1hbi11bml0ZWQtbGl2ZXJwb29sLXRvdHRlbmhhbS1hcnNlbmFsLWNoZWxzZWEvYW1wLw?oc=5</id>
@@ -46,6 +53,13 @@
     <updated>2022-05-24T06:45:00.000000000Z</updated>
     <link href="https://talksport.com/football/1115869/transfer-news-live-premier-league-rumours-latest-man-united-liverpool-tottenham-arsenal-chelsea/" type="text/html"/>
     <content type="html">&lt;a href="https://talksport.com/football/1115869/transfer-news-live-premier-league-rumours-latest-man-united-liverpool-tottenham-arsenal-chelsea/" target="_blank"&gt;Transfer news LIVE: Mbappe and Klopp have ‘talked’ about Liverpool move, nine Arsenal players set for sum...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;talkSPORT&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lPNmV1dUJSRlA5a0tVWmtUR1VTZ0FQAQ?oc=5</id>
+    <title type="html">What to expect from Fabio Carvalho as Liverpool role offers hint of expectations - The Mirror</title>
+    <updated>2022-05-24T06:30:00.000000000Z</updated>
+    <link href="https://www.mirror.co.uk/sport/football/news/fabio-carvalho-liverpool-signing-expectations-27044690" type="text/html"/>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.mirror.co.uk/sport/football/news/fabio-carvalho-liverpool-signing-expectations-27044690" target="_blank"&gt;What to expect from Fabio Carvalho as Liverpool role offers hint of expectations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://talksport.com/football/963080/manchester-united-fulham-carvalho-liverpool-ronaldo-mbappe-transfer-news/" target="_blank"&gt;Liverpool get hands on star, whose 'aura' has drawn Ronaldo and Mbappe comparisons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;talkSPORT&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://liverpooloffside.sbnation.com/liverpool-fc-transfer-news/2022/5/23/23137653/official-liverpool-fc-transfer-news-complete-signing-fabio-carvalho-5m-add-ons-july-1st" target="_blank"&gt;Official: Liverpool Announce Signing of Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Liverpool Offside&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.bollyinside.com/news/sports/liverpool-have-completed-the-acquisition-of-fulham-winger-fabio-carvalho" target="_blank"&gt;Liverpool have completed the acquisition of Fulham winger Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BollyInside&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.eurosport.co.uk/football/premier-league/2021-2022/liverpool-confirm-long-awaited-signing-of-portuguese-forward-fabio-carvalho-from-fulham_sto8937125/story.shtml" target="_blank"&gt;Liverpool confirm long-awaited signing of Portuguese forward Fabio Carvalho from Fulham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eurosport UK&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lPNmV1dUJSRlA5a0tVWmtUR1VTZ0FQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmdldHN1cnJleS5jby51ay9uZXdzL3N1cnJleS1uZXdzL2Nyb3NzcmFpbC0yLXN1cnJleS1oYXBwZW5pbmcta2luZ3N0b24tMjQwMzU1NjXSAQA?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2022-05-23T21:03:53.000000000Z</updated>
     <link href="https://www.radiotimes.com/tv/documentaries/long-lost-family-2022-natasha-sister-newsupdate/" type="text/html"/>
     <content type="html">&lt;a href="https://www.radiotimes.com/tv/documentaries/long-lost-family-2022-natasha-sister-newsupdate/" target="_blank"&gt;Long Lost Family reunites sisters who were both abandoned as babies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RadioTimes&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEDfCae6sO0My01zc1pm5KBYqGQgEKhAIACoHCAowy4KeCzDcjLYDMNbl6QY?oc=5</id>
-    <title type="html">The south west London girl searching for long-lost grandfather - South West Londoner</title>
-    <updated>2022-05-23T16:17:07.000000000Z</updated>
-    <link href="https://www.swlondoner.co.uk/news/23052022-the-south-west-london-girl-searching-for-her-long-lost-grandfather" type="text/html"/>
-    <content type="html">&lt;a href="https://www.swlondoner.co.uk/news/23052022-the-south-west-london-girl-searching-for-her-long-lost-grandfather" target="_blank"&gt;The south west London girl searching for long-lost grandfather&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vdGFsa3Nwb3J0LmNvbS9mb290YmFsbC85NjMwODAvbWFuY2hlc3Rlci11bml0ZWQtZnVsaGFtLWNhcnZhbGhvLWxpdmVycG9vbC1yb25hbGRvLW1iYXBwZS10cmFuc2Zlci1uZXdzL9IBAA?oc=5</id>
-    <title type="html">Liverpool get hands on star, whose 'aura' has drawn Ronaldo and Mbappe comparisons - talkSPORT</title>
-    <updated>2022-05-23T15:45:00.000000000Z</updated>
-    <link href="https://talksport.com/football/963080/manchester-united-fulham-carvalho-liverpool-ronaldo-mbappe-transfer-news/" type="text/html"/>
-    <content type="html">&lt;a href="https://talksport.com/football/963080/manchester-united-fulham-carvalho-liverpool-ronaldo-mbappe-transfer-news/" target="_blank"&gt;Liverpool get hands on star, whose 'aura' has drawn Ronaldo and Mbappe comparisons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;talkSPORT&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
