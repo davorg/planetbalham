@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-24T05:16:59Z</updated>
+  <updated>2022-05-24T05:51:43Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1006mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-23T21:55:00.000+0000</id>
-    <published>2022-05-24T05:02:50Z</published>
-    <updated>2022-05-24T05:02:50Z</updated>
+    <published>2022-05-24T05:28:45Z</published>
+    <updated>2022-05-24T05:28:45Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1013mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-23T21:55:00.000+0000</id>
-    <published>2022-05-24T05:02:50Z</published>
-    <updated>2022-05-24T05:02:50Z</updated>
+    <published>2022-05-24T05:28:45Z</published>
+    <updated>2022-05-24T05:28:45Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-23T21:55:00.000+0000</id>
-    <published>2022-05-24T05:02:50Z</published>
-    <updated>2022-05-24T05:02:50Z</updated>
+    <published>2022-05-24T05:28:45Z</published>
+    <updated>2022-05-24T05:28:45Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiECGNoMis10EGervyArDJzuQqGQgEKhAIACoHCAow16D9CjCOy_QCMM3n0wU?oc=5</id>
+    <title type="html">Is Crossrail 2 in Surrey happening? Kingston, Epsom and Chessington route and whether it'll be built - Surrey Live</title>
+    <updated>2022-05-24T04:33:00.000000000Z</updated>
+    <link href="https://www.getsurrey.co.uk/news/surrey-news/crossrail-2-surrey-happening-kingston-24035565" type="text/html"/>
+    <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/crossrail-2-surrey-happening-kingston-24035565" target="_blank"&gt;Is Crossrail 2 in Surrey happening? Kingston, Epsom and Chessington route and whether it'll be built&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihwFodHRwczovL3RhbGtzcG9ydC5jb20vZm9vdGJhbGwvMTExNTg2OS90cmFuc2Zlci1uZXdzLWxpdmUtcHJlbWllci1sZWFndWUtcnVtb3Vycy1sYXRlc3QtbWFuLXVuaXRlZC1saXZlcnBvb2wtdG90dGVuaGFtLWFyc2VuYWwtY2hlbHNlYS_SAYsBaHR0cHM6Ly90YWxrc3BvcnQuY29tL2Zvb3RiYWxsLzExMTU4NjkvdHJhbnNmZXItbmV3cy1saXZlLXByZW1pZXItbGVhZ3VlLXJ1bW91cnMtbGF0ZXN0LW1hbi11bml0ZWQtbGl2ZXJwb29sLXRvdHRlbmhhbS1hcnNlbmFsLWNoZWxzZWEvYW1wLw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-23T15:45:00.000000000Z</updated>
     <link href="https://talksport.com/football/963080/manchester-united-fulham-carvalho-liverpool-ronaldo-mbappe-transfer-news/" type="text/html"/>
     <content type="html">&lt;a href="https://talksport.com/football/963080/manchester-united-fulham-carvalho-liverpool-ronaldo-mbappe-transfer-news/" target="_blank"&gt;Manchester United flew to London to try and sign teenage Fabio Carvalho, but Liverpool get their hands on...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;talkSPORT&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJCsOsHE54qA4aLdLuzOXWYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">Londoner hilariously tracks the time between each Tube stop - My London</title>
-    <updated>2022-05-22T10:56:46.000000000Z</updated>
-    <link href="https://www.mylondon.news/lifestyle/london-underground-commuter-hilariously-tracks-24028389" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/lifestyle/london-underground-commuter-hilariously-tracks-24028389" target="_blank"&gt;Londoner hilariously tracks the time between each Tube stop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
