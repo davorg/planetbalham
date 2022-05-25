@@ -7,9 +7,46 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-25T09:50:48Z</updated>
+  <updated>2022-05-25T10:16:18Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Light Cloud, Minimum Temperature: 10°C (51°F) Maximum Temperature: 17°C (62°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1013mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-25T07:56:00.000+0000</id>
+    <published>2022-05-25T10:07:38Z</published>
+    <updated>2022-05-25T10:07:38Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (69°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-25T07:56:00.000+0000</id>
+    <published>2022-05-25T10:07:38Z</published>
+    <updated>2022-05-25T10:07:38Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 21°C (70°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 56%, UV Risk: 6, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:02 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-25T07:56:00.000+0000</id>
+    <published>2022-05-25T10:07:38Z</published>
+    <updated>2022-05-25T10:07:38Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmhvcnR3ZWVrLmNvbS9tYXlvci11cGRhdGVzLWxvbmRvbnMtcHJvZ3Jlc3MtYmVjb21lLW5hdGlvbmFsLXBhcmstY2l0eS9wYXJrcy1hbmQtZ2FyZGVucy9hcnRpY2xlLzE3ODc2MDHSAQA?oc=5</id>
+    <title type="html">Mayor updates on London's progress to become National Park City - Horticulture Week</title>
+    <updated>2022-05-25T09:52:16.000000000Z</updated>
+    <link href="https://www.hortweek.com/mayor-updates-londons-progress-become-national-park-city/parks-and-gardens/article/1787601" type="text/html"/>
+    <content type="html">&lt;a href="https://www.hortweek.com/mayor-updates-londons-progress-become-national-park-city/parks-and-gardens/article/1787601" target="_blank"&gt;Mayor updates on London's progress to become National Park City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Horticulture Week&lt;/font&gt;</content>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93YW5kc3dvcnRoLWZlc3RpdmFsLWJhY2std2l0aC1hLWJhbmctYWZ0ZXItcGFuZGVtaWMtMi_SAQA?oc=5</id>
     <title type="html">Wandsworth Festival back with a bang after pandemic - London News Online</title>
@@ -37,13 +74,6 @@
     <updated>2022-05-24T08:33:11.000000000Z</updated>
     <link href="https://www.theweek.co.uk/arts-life/food-drink/956777/best-burger-restaurants-london" type="text/html"/>
     <content type="html">&lt;a href="https://www.theweek.co.uk/arts-life/food-drink/956777/best-burger-restaurants-london" target="_blank"&gt;Eight of the best burger restaurants in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Week UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmdldHN1cnJleS5jby51ay9uZXdzL3N1cnJleS1uZXdzL2Nyb3NzcmFpbC0yLXN1cnJleS1oYXBwZW5pbmcta2luZ3N0b24tMjQwMzU1NjXSAQA?oc=5</id>
-    <title type="html">Is Crossrail 2 in Surrey happening? Kingston, Epsom and Chessington route and whether it'll be built - Surrey Live</title>
-    <updated>2022-05-24T04:33:00.000000000Z</updated>
-    <link href="https://www.getsurrey.co.uk/news/surrey-news/crossrail-2-surrey-happening-kingston-24035565" type="text/html"/>
-    <content type="html">&lt;a href="https://www.getsurrey.co.uk/news/surrey-news/crossrail-2-surrey-happening-kingston-24035565" target="_blank"&gt;Is Crossrail 2 in Surrey happening? Kingston, Epsom and Chessington route and whether it'll be built&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Surrey Live&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
