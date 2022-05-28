@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-28T05:50:34Z</updated>
+  <updated>2022-05-28T06:16:56Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 57%, UV Risk: 4, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:03 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-27T21:56:00.000+0000</id>
-    <published>2022-05-28T05:47:05Z</published>
-    <updated>2022-05-28T05:47:05Z</updated>
+    <published>2022-05-28T06:02:28Z</published>
+    <updated>2022-05-28T06:02:28Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 15°C (58°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 6°C (43°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1019mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-27T21:56:00.000+0000</id>
-    <published>2022-05-28T05:47:05Z</published>
-    <updated>2022-05-28T05:47:05Z</updated>
+    <published>2022-05-28T06:02:28Z</published>
+    <updated>2022-05-28T06:02:28Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 9°C (47°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:05 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-27T21:56:00.000+0000</id>
-    <published>2022-05-28T05:47:05Z</published>
-    <updated>2022-05-28T05:47:05Z</updated>
+    <published>2022-05-28T06:02:28Z</published>
+    <updated>2022-05-28T06:02:28Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEDvVUliANlW2dxaxMWFubdUqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?oc=5</id>
+    <title type="html">Inside the ghost kitchen serving up food for 10 restaurants - Business Insider</title>
+    <updated>2022-05-28T06:01:33.000000000Z</updated>
+    <link href="https://www.businessinsider.com/ghost-kitchen-restaurants-photos-fast-food-behind-the-scenes-growth-2022-5" type="text/html"/>
+    <content type="html">&lt;a href="https://www.businessinsider.com/ghost-kitchen-restaurants-photos-fast-food-behind-the-scenes-growth-2022-5" target="_blank"&gt;Inside the ghost kitchen serving up food for 10 restaurants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Business Insider&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYXV0aXN0aWMtbWFuLWxlZ2FsLWJhdHRsZS1zYWluc2J1cnlzLTE0NDMwMDM0Ni5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2F1dGlzdGljLW1hbi1sZWdhbC1iYXR0bGUtc2FpbnNidXJ5cy0xNDQzMDAzNDYuaHRtbA?oc=5</id>
@@ -48,11 +55,11 @@
     <content type="html">&lt;a href="https://uk.news.yahoo.com/autistic-man-legal-battle-sainsburys-144300346.html" target="_blank"&gt;Autistic man in legal battle with Sainsbury's over assistance cat ban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lPNmV1dUJSR2VrYnd4XzhyTWNTZ0FQAQ?oc=5</id>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tc2Nob29sYm95LXNpZ25zLWZvci1mdWxoYW0tYW5kLWxlZnQtaW5zcGlyZWQtYnktY2FydmFsaG8v0gEA?oc=5</id>
     <title type="html">Balham schoolboy signs for Fulham and left inspired by Carvalho - London News Online</title>
     <updated>2022-05-27T11:00:41.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" target="_blank"&gt;Balham schoolboy signs for Fulham and left inspired by Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.mirror.co.uk/sport/football/news/fabio-carvalho-liverpool-signing-expectations-27044690" target="_blank"&gt;What to expect from Fabio Carvalho as Liverpool role offers hint of great expectations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://liverpooloffside.sbnation.com/liverpool-fc-transfer-news/2022/5/23/23137653/official-liverpool-fc-transfer-news-complete-signing-fabio-carvalho-5m-add-ons-july-1st" target="_blank"&gt;Official: Liverpool Announce Signing of Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Liverpool Offside&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.eurosport.com/football/premier-league/2021-2022/liverpool-confirm-long-awaited-signing-of-portuguese-forward-fabio-carvalho-from-fulham_sto8937125/story.shtml" target="_blank"&gt;Liverpool confirm long-awaited signing of Portuguese forward Fabio Carvalho from Fulham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Eurosport COM&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.bollyinside.com/news/sports/liverpool-have-completed-the-acquisition-of-fulham-winger-fabio-carvalho" target="_blank"&gt;Liverpool have completed the acquisition of Fulham winger Fabio Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BollyInside&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lPNmV1dUJSR2VrYnd4XzhyTWNTZ0FQAQ?oc=5" target="_blank"&gt;View Full Coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" target="_blank"&gt;Balham schoolboy signs for Fulham and left inspired by Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOZnIQHq962kPZcBXMp84DsqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-25T09:52:16.000000000Z</updated>
     <link href="https://www.hortweek.com/mayor-updates-londons-progress-become-national-park-city/parks-and-gardens/article/1787601" type="text/html"/>
     <content type="html">&lt;a href="https://www.hortweek.com/mayor-updates-londons-progress-become-national-park-city/parks-and-gardens/article/1787601" target="_blank"&gt;Mayor updates on London's progress to become National Park City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Horticulture Week&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay93YW5kc3dvcnRoLWZlc3RpdmFsLWJhY2std2l0aC1hLWJhbmctYWZ0ZXItcGFuZGVtaWMtMi_SAQA?oc=5</id>
-    <title type="html">Wandsworth Festival back with a bang after pandemic - London News Online</title>
-    <updated>2022-05-24T12:46:53.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/wandsworth-festival-back-with-a-bang-after-pandemic-2/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/wandsworth-festival-back-with-a-bang-after-pandemic-2/" target="_blank"&gt;Wandsworth Festival back with a bang after pandemic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
