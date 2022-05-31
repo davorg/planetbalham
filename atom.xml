@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-05-31T07:15:55Z</updated>
+  <updated>2022-05-31T07:50:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1012mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-05-30T21:53:00.000+0000</id>
-    <published>2022-05-31T07:00:59Z</published>
-    <updated>2022-05-31T07:00:59Z</updated>
+    <published>2022-05-31T07:46:14Z</published>
+    <updated>2022-05-31T07:46:14Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (47°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-05-30T21:53:00.000+0000</id>
-    <published>2022-05-31T07:00:59Z</published>
-    <updated>2022-05-31T07:00:59Z</updated>
+    <published>2022-05-31T07:46:14Z</published>
+    <updated>2022-05-31T07:46:14Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (51°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1020mb, Humidity: 62%, UV Risk: 4, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-05-30T21:53:00.000+0000</id>
-    <published>2022-05-31T07:00:59Z</published>
-    <updated>2022-05-31T07:00:59Z</updated>
+    <published>2022-05-31T07:46:14Z</published>
+    <updated>2022-05-31T07:46:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmxpdmVycG9vbC5jb20vbGl2ZXJwb29sLWZjLW5ld3MvZmVhdHVyZXMvZmFiaW8tY2FydmFsaG8tbGl2ZXJwb29sLXRyYW5zZmVyLW5leW1hci0yNDA4MzUxM9IBamh0dHBzOi8vd3d3LmxpdmVycG9vbC5jb20vbGl2ZXJwb29sLWZjLW5ld3MvZmVhdHVyZXMvZmFiaW8tY2FydmFsaG8tbGl2ZXJwb29sLXRyYW5zZmVyLW5leW1hci0yNDA4MzUxMy5hbXA?oc=5</id>
+    <title type="html">Neymar, Ballon d'Or hopes and Liverpool rejection - Inside Fábio Carvalho transfer eight years in the making - Liverpool.com</title>
+    <updated>2022-05-31T07:30:00.000000000Z</updated>
+    <link href="https://www.liverpool.com/liverpool-fc-news/features/fabio-carvalho-liverpool-transfer-neymar-24083513" type="text/html"/>
+    <content type="html">&lt;a href="https://www.liverpool.com/liverpool-fc-news/features/fabio-carvalho-liverpool-transfer-neymar-24083513" target="_blank"&gt;Neymar, Ballon d'Or hopes and Liverpool rejection - Inside Fábio Carvalho transfer eight years in the making&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liverpool.com&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOmD0lzf5FjRVX-U6KVS170qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-27T14:43:00.000000000Z</updated>
     <link href="https://uk.news.yahoo.com/autistic-man-legal-battle-sainsburys-144300346.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/autistic-man-legal-battle-sainsburys-144300346.html" target="_blank"&gt;Autistic man in legal battle with Sainsbury's over assistance cat ban&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tc2Nob29sYm95LXNpZ25zLWZvci1mdWxoYW0tYW5kLWxlZnQtaW5zcGlyZWQtYnktY2FydmFsaG8v0gEA?oc=5</id>
-    <title type="html">Balham schoolboy signs for Fulham and left inspired by Carvalho - London News Online</title>
-    <updated>2022-05-27T11:00:41.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" target="_blank"&gt;Balham schoolboy signs for Fulham and left inspired by Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
