@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-01T10:53:46Z</updated>
+  <updated>2022-06-01T11:15:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 55%, UV Risk: 4, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 55%, UV Risk: 3, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-01T09:56:00.000+0000</id>
-    <published>2022-06-01T10:07:07Z</published>
-    <updated>2022-06-01T10:07:07Z</updated>
+    <published>2022-06-01T11:08:38Z</published>
+    <updated>2022-06-01T11:08:38Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (51°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-01T09:56:00.000+0000</id>
-    <published>2022-06-01T10:07:07Z</published>
-    <updated>2022-06-01T10:07:07Z</updated>
+    <published>2022-06-01T11:08:38Z</published>
+    <updated>2022-06-01T11:08:38Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 22°C (72°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-01T09:56:00.000+0000</id>
-    <published>2022-06-01T10:07:07Z</published>
-    <updated>2022-06-01T10:07:07Z</updated>
+    <published>2022-06-01T11:08:38Z</published>
+    <updated>2022-06-01T11:08:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilwFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3MvbmF0aW9uYWwvZmlyZWZpZ2h0ZXJzLXdvcmstdG8tZXh0aW5ndWlzaC1pbmR1c3RyaWFsLWJsYXplLWluLWJyaXNiYW5lL3ZpZGVvLzQ5ZGViMWI4Njc2OGJhMTBkMjg5ZDc1N2EyMDc2OTEy0gEA?oc=5</id>
