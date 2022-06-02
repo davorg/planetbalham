@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-02T09:53:18Z</updated>
+  <updated>2022-06-02T10:16:39Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 20°C (67°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 48%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-02T07:59:00.000+0000</id>
-    <published>2022-06-02T09:25:18Z</published>
-    <updated>2022-06-02T09:25:18Z</updated>
+    <published>2022-06-02T10:02:25Z</published>
+    <updated>2022-06-02T10:02:25Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 22°C (72°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-02T07:59:00.000+0000</id>
-    <published>2022-06-02T09:25:18Z</published>
-    <updated>2022-06-02T09:25:18Z</updated>
+    <published>2022-06-02T10:02:25Z</published>
+    <updated>2022-06-02T10:02:25Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1021mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-02T07:59:00.000+0000</id>
-    <published>2022-06-02T09:25:18Z</published>
-    <updated>2022-06-02T09:25:18Z</updated>
+    <published>2022-06-02T10:02:25Z</published>
+    <updated>2022-06-02T10:02:25Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEKsPRFYlUZGyTJnmxXquSYcqGQgEKhAIACoHCAow5tSXCzCY_q4DMOzSzgY?oc=5</id>
@@ -145,6 +145,33 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>455804</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/connernolan/52075888865/"/>
+    <id>tag:flickr.com,2005:/photo/52075888865</id>
+    <published>2022-05-15T17:13:27Z</published>
+    <updated>2022-05-15T17:13:27Z</updated>
+    <flickr:date_taken>2022-05-14T20:00:17-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-05-14T20:00:17-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/connernolan/"&gt;Conner Nolan&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/connernolan/52075888865/" title="455804"&gt;&lt;img src="https://live.staticflickr.com/65535/52075888865_2f7b00457d_m.jpg" width="240" height="180" alt="455804" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;455804 departs Balham working 2B24, the 1946 London Victoria to Sutton.&lt;/p&gt;</content>
+    <author>
+      <name>Conner Nolan</name>
+      <uri>https://www.flickr.com/people/connernolan/</uri>
+      <flickr:nsid>39646177@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5068/buddyicons/39646177@N08.jpg?1304785670#39646177@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52075888865_2f7b00457d_b.jpg"/>
+    <category term="455804" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class455" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>455843</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/connernolan/52075402973/"/>
     <id>tag:flickr.com,2005:/photo/52075402973</id>
@@ -197,41 +224,6 @@ Supplied by Richardson of Balham, London (VW).&lt;/p&gt;</content>
     <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="455834" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>CLOSED</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/the_amanda/52008836516/"/>
-    <id>tag:flickr.com,2005:/photo/52008836516</id>
-    <published>2022-04-16T19:36:19Z</published>
-    <updated>2022-04-16T19:36:19Z</updated>
-    <flickr:date_taken>2022-04-16T08:36:54-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-04-16T08:36:54-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/the_amanda/"&gt;the_amanda&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/the_amanda/52008836516/" title="CLOSED"&gt;&lt;img src="https://live.staticflickr.com/65535/52008836516_ea80b930a3_m.jpg" width="180" height="240" alt="CLOSED" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Opened 1937.&lt;/p&gt;</content>
-    <author>
-      <name>the_amanda</name>
-      <uri>https://www.flickr.com/people/the_amanda/</uri>
-      <flickr:nsid>46534015@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3822/buddyicons/46534015@N00.jpg?1387088440#46534015@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52008836516_ea80b930a3_b.jpg"/>
-    <category term="gwl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="guesswherelondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="closed" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ducanecourt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamparkroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sw17" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="guessedbychrysis" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
