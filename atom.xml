@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-11T10:50:26Z</updated>
+  <updated>2022-06-11T11:15:40Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 21°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 51%, UV Risk: 6, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-11T09:53:00.000+0000</id>
+    <published>2022-06-11T11:03:10Z</published>
+    <updated>2022-06-11T11:03:10Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 22°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (51°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-11T09:53:00.000+0000</id>
+    <published>2022-06-11T11:03:10Z</published>
+    <updated>2022-06-11T11:03:10Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1025mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:18 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-11T09:53:00.000+0000</id>
+    <published>2022-06-11T11:03:10Z</published>
+    <updated>2022-06-11T11:03:10Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnN3bG9uZG9uZXIuY28udWsvbGlmZS8xMTA2MjAyMi1iZW5zLWJpZy13YWxrLWJhbGhhbS1yZXNpZGVudC1yYWlzZXMtMTMwMDAtaW4tY2hhcml0eS13YWxrLWZvci1icmVhc3QtY2FuY2Vy0gEA?oc=5</id>
     <title type="html">Ben's Big Walk: charity challenge raises £13000 for breast cancer - South West Londoner</title>
@@ -18,37 +48,7 @@
     <content type="html">&lt;a href="https://www.swlondoner.co.uk/life/11062022-bens-big-walk-balham-resident-raises-13000-in-charity-walk-for-breast-cancer" target="_blank"&gt;Ben's Big Walk: charity challenge raises £13000 for breast cancer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
   </entry>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 22°C (71°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 51%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-11T07:00:00.000+0000</id>
-    <published>2022-06-11T10:01:08Z</published>
-    <updated>2022-06-11T10:01:08Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 22°C (71°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (51°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-11T07:00:00.000+0000</id>
-    <published>2022-06-11T10:01:08Z</published>
-    <updated>2022-06-11T10:01:08Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (71°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1025mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:18 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-11T07:00:00.000+0000</id>
-    <published>2022-06-11T10:01:08Z</published>
-    <updated>2022-06-11T10:01:08Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9ub3N0YWxnaWEvaS12aXNpdGVkLXBsYWNlLWJvbWJlZC1zbWFzaGVkLTI0MTU2OTk50gFUaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL25vc3RhbGdpYS9pLXZpc2l0ZWQtcGxhY2UtYm9tYmVkLXNtYXNoZWQtMjQxNTY5OTkuYW1w?oc=5</id>
+    <id>https://news.google.com/articles/CAIiELRpYyMC6Bv1bVIavpA2fTUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
     <title type="html">'I visited the place where bombed, smashed and scrapped London buses have been amazingly brought back to life' - My London</title>
     <updated>2022-06-11T09:00:00.000000000Z</updated>
     <link href="https://www.mylondon.news/news/nostalgia/i-visited-place-bombed-smashed-24156999" type="text/html"/>
