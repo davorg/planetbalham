@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-11T06:52:02Z</updated>
+  <updated>2022-06-11T07:15:37Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1022mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-10T21:55:00.000+0000</id>
-    <published>2022-06-11T06:04:01Z</published>
-    <updated>2022-06-11T06:04:01Z</updated>
+    <published>2022-06-11T07:02:46Z</published>
+    <updated>2022-06-11T07:02:46Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (51°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1023mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (51°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-10T21:55:00.000+0000</id>
-    <published>2022-06-11T06:04:01Z</published>
-    <updated>2022-06-11T06:04:01Z</updated>
+    <published>2022-06-11T07:02:46Z</published>
+    <updated>2022-06-11T07:02:46Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1025mb, Humidity: 60%, UV Risk: 5, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-10T21:55:00.000+0000</id>
-    <published>2022-06-11T06:04:01Z</published>
-    <updated>2022-06-11T06:04:01Z</updated>
+    <published>2022-06-11T07:02:46Z</published>
+    <updated>2022-06-11T07:02:46Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vY29wcGlucy1icm9zLWJ1dGNoZXJzLXRvb3RpbmctMjQxODQzNTXSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL2NvcHBpbnMtYnJvcy1idXRjaGVycy10b290aW5nLTI0MTg0MzU1LmFtcA?oc=5</id>
+    <title type="html">The Tooting family butchers that's been running for over 160 years - My London</title>
+    <updated>2022-06-11T07:00:00.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/coppins-bros-butchers-tooting-24184355" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/coppins-bros-butchers-tooting-24184355" target="_blank"&gt;The Tooting family butchers that's been running for over 160 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vYmV5b25kdGhlam9rZS5jby51ay9jb250ZW50LzEyMTQ0L2JhbGhhbS1jb21lZHktZmVzdGl2YWzSAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-05-29T07:00:00.000000000Z</updated>
     <link href="https://www.mylondon.news/news/south-london-news/london-neighbourhood-known-nappy-valley-24089607" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/news/south-london-news/london-neighbourhood-known-nappy-valley-24089607" target="_blank"&gt;The London neighbourhood known as ‘Nappy Valley’ swarming with yummy mummies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tc2Nob29sYm95LXNpZ25zLWZvci1mdWxoYW0tYW5kLWxlZnQtaW5zcGlyZWQtYnktY2FydmFsaG8v0gEA?oc=5</id>
-    <title type="html">Balham schoolboy signs for Fulham and left inspired by Carvalho - London News Online</title>
-    <updated>2022-05-27T07:00:00.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-schoolboy-signs-for-fulham-and-left-inspired-by-carvalho/" target="_blank"&gt;Balham schoolboy signs for Fulham and left inspired by Carvalho&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
