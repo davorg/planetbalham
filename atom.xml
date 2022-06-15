@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-15T14:15:33Z</updated>
+  <updated>2022-06-15T14:51:01Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnN3bG9uZG9uZXIuY28udWsvc3BvcnQvMTUwNjIwMjItYmFsaGFtLWZjLWJpZHMtZmFyZXdlbGwtdG8tbGVnZW5kYXJ5LW1hbmFnZXLSAQA?oc=5</id>
+    <title type="html">Balham FC bids farewell to legendary manager - South West Londoner</title>
+    <updated>2022-06-15T14:24:34.000000000Z</updated>
+    <link href="https://www.swlondoner.co.uk/sport/15062022-balham-fc-bids-farewell-to-legendary-manager" type="text/html"/>
+    <content type="html">&lt;a href="https://www.swlondoner.co.uk/sport/15062022-balham-fc-bids-farewell-to-legendary-manager" target="_blank"&gt;Balham FC bids farewell to legendary manager&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 13°C (55°F) Maximum Temperature: 27°C (80°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -116,13 +123,6 @@
     <updated>2022-06-11T07:00:00.000000000Z</updated>
     <link href="https://www.mylondon.news/whats-on/coppins-bros-butchers-tooting-24184355" type="text/html"/>
     <content type="html">&lt;a href="https://www.mylondon.news/whats-on/coppins-bros-butchers-tooting-24184355" target="_blank"&gt;The Tooting family butchers that's been running for over 160 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vYmV5b25kdGhlam9rZS5jby51ay9jb250ZW50LzEyMTQ0L2JhbGhhbS1jb21lZHktZmVzdGl2YWzSAQA?oc=5</id>
-    <title type="html">The Balham Comedy Festival Celebrates 10 years - Beyond The Joke</title>
-    <updated>2022-06-07T07:00:00.000000000Z</updated>
-    <link href="https://beyondthejoke.co.uk/content/12144/balham-comedy-festival" type="text/html"/>
-    <content type="html">&lt;a href="https://beyondthejoke.co.uk/content/12144/balham-comedy-festival" target="_blank"&gt;The Balham Comedy Festival Celebrates 10 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>P503 SGP (2)</title>
