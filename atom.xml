@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-15T17:50:45Z</updated>
+  <updated>2022-06-15T18:16:04Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1019mb, Humidity: 64%, UV Risk: 2, Pollution: Moderate, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 66%, UV Risk: 2, Pollution: Moderate, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-15T09:54:00.000+0000</id>
-    <published>2022-06-15T17:07:42Z</published>
-    <updated>2022-06-15T17:07:42Z</updated>
+    <published>2022-06-15T18:09:31Z</published>
+    <updated>2022-06-15T18:09:31Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (59°F) Maximum Temperature: 28°C (82°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1022mb, Humidity: 55%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-15T09:54:00.000+0000</id>
-    <published>2022-06-15T17:07:42Z</published>
-    <updated>2022-06-15T17:07:42Z</updated>
+    <published>2022-06-15T18:09:31Z</published>
+    <updated>2022-06-15T18:09:31Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 18°C (65°F) Maximum Temperature: 32°C (90°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 32°C (90°F), Minimum Temperature: 18°C (65°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 48%, UV Risk: 8, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-15T09:54:00.000+0000</id>
-    <published>2022-06-15T17:07:42Z</published>
-    <updated>2022-06-15T17:07:42Z</updated>
+    <published>2022-06-15T18:09:31Z</published>
+    <updated>2022-06-15T18:09:31Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEF5G9u3K-_kBzRDqFo9CpXgqGQgEKhAIACoHCAowy4KeCzDcjLYDMNfl6QY?oc=5</id>
