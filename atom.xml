@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-20T22:50:43Z</updated>
+  <updated>2022-06-20T23:15:32Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1017mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1017mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-20T19:59:00.000+0000</id>
-    <published>2022-06-20T22:04:39Z</published>
-    <updated>2022-06-20T22:04:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-20T21:53:00.000+0000</id>
+    <published>2022-06-20T23:07:56Z</published>
+    <updated>2022-06-20T23:07:56Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 11°C (52°F) Maximum Temperature: 25°C (76°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1015mb, Humidity: 55%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-20T19:59:00.000+0000</id>
-    <published>2022-06-20T22:04:39Z</published>
-    <updated>2022-06-20T22:04:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-20T21:53:00.000+0000</id>
+    <published>2022-06-20T23:07:56Z</published>
+    <updated>2022-06-20T23:07:56Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny, Minimum Temperature: 13°C (56°F) Maximum Temperature: 27°C (81°F)</title>
+    <title>Wednesday: Sunny, Minimum Temperature: 13°C (55°F) Maximum Temperature: 27°C (80°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 49%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (80°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 48%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-20T19:59:00.000+0000</id>
-    <published>2022-06-20T22:04:39Z</published>
-    <updated>2022-06-20T22:04:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-20T21:53:00.000+0000</id>
+    <published>2022-06-20T23:07:56Z</published>
+    <updated>2022-06-20T23:07:56Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEA0gGECE5gOzOwlzT2-BrTwqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
