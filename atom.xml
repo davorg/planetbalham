@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-22T04:04:41Z</updated>
+  <updated>2022-06-22T04:22:14Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 13°C (55°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 13°C (56°F) Maximum Temperature: 26°C (79°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1014mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 21:21 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-21T21:54:00.000+0000</id>
-    <published>2022-06-22T03:35:28Z</published>
-    <updated>2022-06-22T03:35:28Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Sunny, Minimum Temperature: 13°C (56°F) Maximum Temperature: 26°C (79°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1013mb, Humidity: 50%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-21T21:54:00.000+0000</id>
-    <published>2022-06-22T03:35:28Z</published>
-    <updated>2022-06-22T03:35:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-21T21:54:00.000+0000</id>
+    <published>2022-06-22T04:04:40Z</published>
+    <updated>2022-06-22T04:04:40Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (59°F) Maximum Temperature: 25°C (76°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-21T21:54:00.000+0000</id>
+    <published>2022-06-22T04:04:40Z</published>
+    <updated>2022-06-22T04:04:40Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (72°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-21T21:54:00.000+0000</id>
-    <published>2022-06-22T03:35:28Z</published>
-    <updated>2022-06-22T03:35:28Z</updated>
+    <published>2022-06-22T04:04:40Z</published>
+    <updated>2022-06-22T04:04:40Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LW9mLWJhbGhhbS1hcy1waWNrZWQtYnktYS1jb29sLWxvY2FsLTA2MjEyMtIBAA?oc=5</id>
@@ -200,31 +200,51 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>11 June 2022 Balham (2)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52151937442/"/>
-    <id>tag:flickr.com,2005:/photo/52151937442</id>
-    <published>2022-06-17T12:31:20Z</published>
-    <updated>2022-06-17T12:31:20Z</updated>
-    <flickr:date_taken>2022-06-11T08:54:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-06-11T08:54:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>377611 &amp; 377602, Balham, April 26th 2022</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/40172673@N03/52148699410/"/>
+    <id>tag:flickr.com,2005:/photo/52148699410</id>
+    <published>2022-06-15T09:55:21Z</published>
+    <updated>2022-06-15T09:55:21Z</updated>
+    <flickr:date_taken>2022-04-26T00:00:06-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-26T00:00:06-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/40172673@N03/"&gt;Southsea_Matt&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52151937442/" title="11 June 2022 Balham (2)"&gt;&lt;img src="https://live.staticflickr.com/65535/52151937442_bdd0d6d44c_m.jpg" width="240" height="180" alt="11 June 2022 Balham (2)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/40172673@N03/52148699410/" title="377611 &amp;amp; 377602, Balham, April 26th 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/52148699410_325d238cf9_m.jpg" width="240" height="160" alt="377611 &amp;amp; 377602, Balham, April 26th 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-</content>
+&lt;p&gt;2I30 1311 London Victoria-Epsom Via West Croydon.&lt;/p&gt;</content>
     <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+      <name>Southsea_Matt</name>
+      <uri>https://www.flickr.com/people/40172673@N03/</uri>
+      <flickr:nsid>40172673@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm5.staticflickr.com/4486/buddyicons/40172673@N03.jpg?1507465381#40172673@N03</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52151937442_bdd0d6d44c_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52148699410_325d238cf9_b.jpg"/>
+    <category term="377611" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="377602" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electrostar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bombardier" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southernrailway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greaterlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="canon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="80d" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sigma" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1850mm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spring" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="emu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electricmultipleunit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
