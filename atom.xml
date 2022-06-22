@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-22T04:59:03Z</updated>
+  <updated>2022-06-22T05:16:47Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1013mb, Humidity: 50%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-21T21:54:00.000+0000</id>
-    <published>2022-06-22T04:56:54Z</published>
-    <updated>2022-06-22T04:56:54Z</updated>
+    <published>2022-06-22T05:02:12Z</published>
+    <updated>2022-06-22T05:02:12Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (59°F) Maximum Temperature: 25°C (76°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-21T21:54:00.000+0000</id>
-    <published>2022-06-22T04:56:54Z</published>
-    <updated>2022-06-22T04:56:54Z</updated>
+    <published>2022-06-22T05:02:12Z</published>
+    <updated>2022-06-22T05:02:12Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (72°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-21T21:54:00.000+0000</id>
-    <published>2022-06-22T04:56:54Z</published>
-    <updated>2022-06-22T04:56:54Z</updated>
+    <published>2022-06-22T05:02:12Z</published>
+    <updated>2022-06-22T05:02:12Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi9uZXdzL3RoZS1iZXN0LW9mLWJhbGhhbS1hcy1waWNrZWQtYnktYS1jb29sLWxvY2FsLTA2MjEyMtIBAA?oc=5</id>
@@ -107,6 +107,37 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>11 June 2022 Balham (1)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52152944866/"/>
+    <id>tag:flickr.com,2005:/photo/52152944866</id>
+    <published>2022-06-17T12:31:22Z</published>
+    <updated>2022-06-17T12:31:22Z</updated>
+    <flickr:date_taken>2022-06-11T08:51:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-06-11T08:51:47-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52152944866/" title="11 June 2022 Balham (1)"&gt;&lt;img src="https://live.staticflickr.com/65535/52152944866_dc7d8b2df3_m.jpg" width="240" height="180" alt="11 June 2022 Balham (1)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52152944866_dc7d8b2df3_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lj10csu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="255" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enl51" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>11 June 2022 Balham (3)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52151937122/"/>
     <id>tag:flickr.com,2005:/photo/52151937122</id>
@@ -134,37 +165,6 @@
     <category term="whv172" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="155" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>11 June 2022 Balham (4)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52153187244/"/>
-    <id>tag:flickr.com,2005:/photo/52153187244</id>
-    <published>2022-06-17T12:31:21Z</published>
-    <updated>2022-06-17T12:31:21Z</updated>
-    <flickr:date_taken>2022-06-11T08:56:48-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-06-11T08:56:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52153187244/" title="11 June 2022 Balham (4)"&gt;&lt;img src="https://live.staticflickr.com/65535/52153187244_8a8a621026_m.jpg" width="240" height="180" alt="11 June 2022 Balham (4)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52153187244_8a8a621026_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lk17akx" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hv286" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="249" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
