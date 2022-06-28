@@ -7,38 +7,15 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-28T11:50:56Z</updated>
+  <updated>2022-06-28T12:17:08Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (69°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 47%, UV Risk: 5, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-28T09:57:00.000+0000</id>
-    <published>2022-06-28T11:16:47Z</published>
-    <updated>2022-06-28T11:16:47Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (71°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1012mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-28T09:57:00.000+0000</id>
-    <published>2022-06-28T11:16:47Z</published>
-    <updated>2022-06-28T11:16:47Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 19°C (67°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1011mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-28T09:57:00.000+0000</id>
-    <published>2022-06-28T11:16:47Z</published>
-    <updated>2022-06-28T11:16:47Z</updated>
+    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm1vcm5pbmdhZHZlcnRpc2VyLmNvLnVrL0FydGljbGUvMjAyMi8wNi8yOC9Ib3ctbWFueS1wdWJzLXdpbGwtc2hvdy1GSUZBLVdvcmxkLUN1cC0yMDIyLVFhdGFyLW1hdGNoZXPSAQA?oc=5</id>
+    <title type="html">How many pubs will show FIFA World Cup 2022 Qatar matches? - MorningAdvertiser.co.uk</title>
+    <updated>2022-06-28T11:59:00.000000000Z</updated>
+    <link href="https://www.morningadvertiser.co.uk/Article/2022/06/28/How-many-pubs-will-show-FIFA-World-Cup-2022-Qatar-matches" type="text/html"/>
+    <content type="html">&lt;a href="https://www.morningadvertiser.co.uk/Article/2022/06/28/How-many-pubs-will-show-FIFA-World-Cup-2022-Qatar-matches" target="_blank"&gt;How many pubs will show FIFA World Cup 2022 Qatar matches?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MorningAdvertiser.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiENH6rN7_JcK_dZ5brylLMaMqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
@@ -67,13 +44,6 @@
     <updated>2022-06-23T11:32:34.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/herne-hill-harriers-round-up-katie-snowden-selected-to-represent-england-at-commonwealth-games/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/herne-hill-harriers-round-up-katie-snowden-selected-to-represent-england-at-commonwealth-games/" target="_blank"&gt;Herne Hill Harriers round-up: Katie Snowden selected to represent England at Commonwealth Games&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEEVDKUhVq5QmquGWTIbLtUUqFwgEKg4IACoGCAowqvB9MMTRCTCHn-8G?oc=5</id>
-    <title type="html">The best brunch in London 2022: From Parlour to Milk, where to head on the weekend - Evening Standard</title>
-    <updated>2022-06-23T05:00:00.000000000Z</updated>
-    <link href="https://www.standard.co.uk/reveller/restaurants/best-brunch-in-london-b1003390.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/best-brunch-in-london-b1003390.html" target="_blank"&gt;The best brunch in London 2022: From Parlour to Milk, where to head on the weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>11 June 2022 Balham (1)</title>
