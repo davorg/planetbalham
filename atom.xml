@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-28T12:17:08Z</updated>
+  <updated>2022-06-28T13:05:29Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (69°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1016mb, Humidity: 44%, UV Risk: 5, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-06-28T09:57:00.000+0000</id>
+    <published>2022-06-28T13:03:32Z</published>
+    <updated>2022-06-28T13:03:32Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1012mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-06-28T09:57:00.000+0000</id>
+    <published>2022-06-28T13:03:32Z</published>
+    <updated>2022-06-28T13:03:32Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 19°C (67°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1011mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-06-28T09:57:00.000+0000</id>
+    <published>2022-06-28T13:03:32Z</published>
+    <updated>2022-06-28T13:03:32Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm1vcm5pbmdhZHZlcnRpc2VyLmNvLnVrL0FydGljbGUvMjAyMi8wNi8yOC9Ib3ctbWFueS1wdWJzLXdpbGwtc2hvdy1GSUZBLVdvcmxkLUN1cC0yMDIyLVFhdGFyLW1hdGNoZXPSAQA?oc=5</id>
     <title type="html">How many pubs will show FIFA World Cup 2022 Qatar matches? - MorningAdvertiser.co.uk</title>
@@ -18,7 +48,7 @@
     <content type="html">&lt;a href="https://www.morningadvertiser.co.uk/Article/2022/06/28/How-many-pubs-will-show-FIFA-World-Cup-2022-Qatar-matches" target="_blank"&gt;How many pubs will show FIFA World Cup 2022 Qatar matches?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MorningAdvertiser.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiENH6rN7_JcK_dZ5brylLMaMqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
+    <id>https://news.google.com/articles/CAIiENH6rN7_JcK_dZ5brylLMaMqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
     <title type="html">Tube driver says Tottenham are rubbish and sparks TfL warning - My London</title>
     <updated>2022-06-28T10:31:59.000000000Z</updated>
     <link href="https://www.mylondon.news/news/zone-1-news/london-underground-drivers-announcement-tottenham-24338852" type="text/html"/>
