@@ -7,22 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-07-01T21:15:07Z</updated>
+  <updated>2022-07-01T21:50:47Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 12°C (53°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunset: 21:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-07-01T19:58:00.000+0000</id>
+    <published>2022-07-01T21:15:06Z</published>
+    <updated>2022-07-01T21:15:06Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (67°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:20 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-07-01T19:58:00.000+0000</id>
+    <published>2022-07-01T21:15:06Z</published>
+    <updated>2022-07-01T21:15:06Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 22°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1019mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:20 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-07-01T19:58:00.000+0000</id>
+    <published>2022-07-01T21:15:06Z</published>
+    <updated>2022-07-01T21:15:06Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEEFUtifPS9-1ryMS53etwh4qMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwscXbBg?oc=5</id>
+    <title type="html">Aldi opens new 'Local' store in Old Street where workers can earn £11.55 per hour - My London</title>
+    <updated>2022-07-01T14:28:48.000000000Z</updated>
+    <link href="https://www.mylondon.news/whats-on/shopping/aldi-opens-new-local-store-24374664" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/shopping/aldi-opens-new-local-store-24374664" target="_blank"&gt;Aldi opens new 'Local' store in Old Street where workers can earn £11.55 per hour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifGh0dHBzOi8vdGFsa3Nwb3J0LmNvbS9mb290YmFsbC85NjMwODAvbGl2ZXJwb29sLWZhYmlvLWNhcnZhbGhvLW1hbi11dGQtZnVsaGFtLWNyaXN0aWFuby1yb25hbGRvLWt5bGlhbi1tYmFwcGUtdHJhbnNmZXItbmV3cy_SAYABaHR0cHM6Ly90YWxrc3BvcnQuY29tL2Zvb3RiYWxsLzk2MzA4MC9saXZlcnBvb2wtZmFiaW8tY2FydmFsaG8tbWFuLXV0ZC1mdWxoYW0tY3Jpc3RpYW5vLXJvbmFsZG8ta3lsaWFuLW1iYXBwZS10cmFuc2Zlci1uZXdzL2FtcC8?oc=5</id>
     <title type="html">Manchester United flew to London to try and sign teenage Fabio Carvalho, but Liverpool finally get hands... - talkSPORT</title>
     <updated>2022-07-01T09:48:57.000000000Z</updated>
     <link href="https://talksport.com/football/963080/liverpool-fabio-carvalho-man-utd-fulham-cristiano-ronaldo-kylian-mbappe-transfer-news/" type="text/html"/>
     <content type="html">&lt;a href="https://talksport.com/football/963080/liverpool-fabio-carvalho-man-utd-fulham-cristiano-ronaldo-kylian-mbappe-transfer-news/" target="_blank"&gt;Manchester United flew to London to try and sign teenage Fabio Carvalho, but Liverpool finally get hands...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;talkSPORT&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vbG9uZG9uLXBvc3QuY28udWsvYWxkaS1vcGVucy1pdHMtMTB0aC1sb2NhbC1zdG9yZS1pbi1sb25kb24v0gEA?oc=5</id>
-    <title type="html">ALDI OPENS ITS 10TH 'LOCAL' STORE IN LONDON - London Post</title>
-    <updated>2022-06-30T20:09:44.000000000Z</updated>
-    <link href="https://london-post.co.uk/aldi-opens-its-10th-local-store-in-london/" type="text/html"/>
-    <content type="html">&lt;a href="https://london-post.co.uk/aldi-opens-its-10th-local-store-in-london/" target="_blank"&gt;ALDI OPENS ITS 10TH 'LOCAL' STORE IN LONDON&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEKTiO25lTxo0R4ZvT0yhcDkqFggEKg4IACoGCAowl6p7MN-zCTDlkko?oc=5</id>
@@ -46,16 +76,16 @@
     <content type="html">&lt;a href="https://www.thisisanfield.com/2022/06/how-harvey-elliott-could-play-a-key-role-in-next-liverpool-evolution/" target="_blank"&gt;How Harvey Elliott could play a key role in next Liverpool evolution&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This Is Anfield&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>11 June 2022 Balham (1)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52152944866/"/>
-    <id>tag:flickr.com,2005:/photo/52152944866</id>
+    <title>11 June 2022 Balham (5)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52151937037/"/>
+    <id>tag:flickr.com,2005:/photo/52151937037</id>
     <published>2022-06-17T12:31:22Z</published>
     <updated>2022-06-17T12:31:22Z</updated>
-    <flickr:date_taken>2022-06-11T08:51:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-06-11T08:51:47-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-06-11T08:58:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-06-11T08:58:59-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52152944866/" title="11 June 2022 Balham (1)"&gt;&lt;img src="https://live.staticflickr.com/65535/52152944866_dc7d8b2df3_m.jpg" width="240" height="180" alt="11 June 2022 Balham (1)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52151937037/" title="11 June 2022 Balham (5)"&gt;&lt;img src="https://live.staticflickr.com/65535/52151937037_e102c49c3e_m.jpg" width="240" height="180" alt="11 June 2022 Balham (5)" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -64,15 +94,15 @@
       <flickr:nsid>90484572@N00</flickr:nsid>
       <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52152944866_dc7d8b2df3_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52151937037_e102c49c3e_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lj10csu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="255" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enl51" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="arriva" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bp15omf" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whv59" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="metrobus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="355" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
