@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-07-05T05:16:28Z</updated>
+  <updated>2022-07-05T05:50:34Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
+  <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (72°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 54%, UV Risk: 4, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-07-04T21:55:00.000+0000</id>
+    <published>2022-07-05T05:18:16Z</published>
+    <updated>2022-07-05T05:18:16Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 16°C (60°F) Maximum Temperature: 24°C (75°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (60°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 59%, UV Risk: 3, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-07-04T21:55:00.000+0000</id>
+    <published>2022-07-05T05:18:16Z</published>
+    <updated>2022-07-05T05:18:16Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 24°C (76°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 13°C (56°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 54%, UV Risk: 6, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-07-04T21:55:00.000+0000</id>
+    <published>2022-07-05T05:18:16Z</published>
+    <updated>2022-07-05T05:18:16Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi05LTEwLWp1bHktMjAyMtIBAA?oc=5</id>
     <title type="html">Things To Do This Weekend In London: 9-10 July 2022 - Londonist</title>
@@ -39,11 +69,11 @@
     <content type="html">&lt;a href="https://www.standard.co.uk/reveller/restaurants/best-brunch-in-london-b1003390.html" target="_blank"&gt;The best brunch in London 2022: From Parlour to Milk, where to head on the weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MjAzODE1ONIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MjAzODE1OC5hbXA?oc=5</id>
-    <title type="html">The story behind Adele's Hyde Park Pride flag - BBC</title>
-    <updated>2022-07-04T11:20:52.000000000Z</updated>
-    <link href="https://www.bbc.com/news/uk-england-london-62038158" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bbc.com/news/uk-england-london-62038158" target="_blank"&gt;The story behind Adele's Hyde Park Pride flag&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoZS1nYXpldHRlLmNvLnVrL25ld3MvMjAyNTMwMTUudGVubmlzLWZhbnMtY3VyaW91cy1rbm93LW15c3RlcmlvdXMtYnJpdGlzaC1udW1iZXItb25lLW5vcnJpZS_SAQA?oc=5</id>
+    <title type="html">Tennis fans curious to know more about 'mysterious' British number one Norrie - TheGazette.co.uk</title>
+    <updated>2022-07-03T18:53:21.000000000Z</updated>
+    <link href="https://www.the-gazette.co.uk/news/20253015.tennis-fans-curious-know-mysterious-british-number-one-norrie/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.the-gazette.co.uk/news/20253015.tennis-fans-curious-know-mysterious-british-number-one-norrie/" target="_blank"&gt;Tennis fans curious to know more about 'mysterious' British number one Norrie&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TheGazette.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>11 June 2022 Balham (1)</title>
