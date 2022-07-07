@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-07-07T22:16:44Z</updated>
+  <updated>2022-07-07T22:51:09Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -107,16 +107,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>11 June 2022 Balham (3)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52151937122/"/>
-    <id>tag:flickr.com,2005:/photo/52151937122</id>
-    <published>2022-06-17T12:31:21Z</published>
-    <updated>2022-06-17T12:31:21Z</updated>
-    <flickr:date_taken>2022-06-11T08:55:55-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-06-11T08:55:55-08:00</dc:date.Taken>
+    <title>11 June 2022 Balham (5)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52151937037/"/>
+    <id>tag:flickr.com,2005:/photo/52151937037</id>
+    <published>2022-06-17T12:31:22Z</published>
+    <updated>2022-06-17T12:31:22Z</updated>
+    <flickr:date_taken>2022-06-11T08:58:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-06-11T08:58:59-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52151937122/" title="11 June 2022 Balham (3)"&gt;&lt;img src="https://live.staticflickr.com/65535/52151937122_ef7db770c6_m.jpg" width="240" height="180" alt="11 June 2022 Balham (3)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52151937037/" title="11 June 2022 Balham (5)"&gt;&lt;img src="https://live.staticflickr.com/65535/52151937037_e102c49c3e_m.jpg" width="240" height="180" alt="11 June 2022 Balham (5)" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -125,15 +125,15 @@
       <flickr:nsid>90484572@N00</flickr:nsid>
       <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52151937122_ef7db770c6_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52151937037_e102c49c3e_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lf67exe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="whv172" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="155" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londongeneral" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bp15omf" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whv59" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="metrobus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="355" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
