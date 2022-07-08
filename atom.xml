@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-07-08T22:15:41Z</updated>
+  <updated>2022-07-08T22:51:00Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -16,19 +16,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (60°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1031mb, Humidity: 71%, UV Risk: 0, Pollution: Low, Sunset: 21:17 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-07-08T19:58:00.000+0000</id>
-    <published>2022-07-08T22:01:55Z</published>
-    <updated>2022-07-08T22:01:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-07-08T21:54:00.000+0000</id>
+    <published>2022-07-08T22:30:46Z</published>
+    <updated>2022-07-08T22:30:46Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 14°C (56°F) Maximum Temperature: 26°C (79°F)</title>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 26°C (79°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 14°C (56°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 52%, UV Risk: 6, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 52%, UV Risk: 6, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:16 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-07-08T19:58:00.000+0000</id>
-    <published>2022-07-08T22:01:55Z</published>
-    <updated>2022-07-08T22:01:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-07-08T21:54:00.000+0000</id>
+    <published>2022-07-08T22:30:46Z</published>
+    <updated>2022-07-08T22:30:46Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 15°C (59°F) Maximum Temperature: 29°C (84°F)</title>
@@ -36,9 +36,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (84°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1027mb, Humidity: 51%, UV Risk: 7, Pollution: Low, Sunrise: 04:56 BST, Sunset: 21:15 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-07-08T19:58:00.000+0000</id>
-    <published>2022-07-08T22:01:55Z</published>
-    <updated>2022-07-08T22:01:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-07-08T21:54:00.000+0000</id>
+    <published>2022-07-08T22:30:46Z</published>
+    <updated>2022-07-08T22:30:46Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi05LTEwLWp1bHktMjAyMtIBAA?oc=5</id>
