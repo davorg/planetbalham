@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-07-08T18:53:38Z</updated>
+  <updated>2022-07-08T19:15:15Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi05LTEwLWp1bHktMjAyMtIBAA?oc=5</id>
-    <title type="html">Things To Do This Weekend In London: 9-10 July 2022 - Londonist</title>
-    <updated>2022-07-08T18:39:29.000000000Z</updated>
-    <link href="https://londonist.com/london/weekend/things-to-do-this-weekend-in-london-9-10-july-2022" type="text/html"/>
-    <content type="html">&lt;a href="https://londonist.com/london/weekend/things-to-do-this-weekend-in-london-9-10-july-2022" target="_blank"&gt;Things To Do This Weekend In London: 9-10 July 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 15°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (58°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1030mb, Humidity: 59%, UV Risk: 2, Pollution: Low, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-07-08T09:52:00.000+0000</id>
-    <published>2022-07-08T18:23:36Z</published>
-    <updated>2022-07-08T18:23:36Z</updated>
+    <published>2022-07-08T19:02:37Z</published>
+    <updated>2022-07-08T19:02:37Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 26°C (79°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 52%, UV Risk: 6, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-07-08T09:52:00.000+0000</id>
-    <published>2022-07-08T18:23:36Z</published>
-    <updated>2022-07-08T18:23:36Z</updated>
+    <published>2022-07-08T19:02:37Z</published>
+    <updated>2022-07-08T19:02:37Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 15°C (59°F) Maximum Temperature: 29°C (84°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (84°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1027mb, Humidity: 50%, UV Risk: 7, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-07-08T09:52:00.000+0000</id>
-    <published>2022-07-08T18:23:36Z</published>
-    <updated>2022-07-08T18:23:36Z</updated>
+    <published>2022-07-08T19:02:37Z</published>
+    <updated>2022-07-08T19:02:37Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi05LTEwLWp1bHktMjAyMtIBAA?oc=5</id>
+    <title type="html">Things To Do This Weekend In London: 9-10 July 2022 - Londonist</title>
+    <updated>2022-07-08T18:39:29.000000000Z</updated>
+    <link href="https://londonist.com/london/weekend/things-to-do-this-weekend-in-london-9-10-july-2022" type="text/html"/>
+    <content type="html">&lt;a href="https://londonist.com/london/weekend/things-to-do-this-weekend-in-london-9-10-july-2022" target="_blank"&gt;Things To Do This Weekend In London: 9-10 July 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3Lm53ZW1haWwuY28udWsvbmV3cy8yMDI2NTgxMS5mYW5zLW5lcnZvdXMtZXhjaXRlZC1ub3JyaWUtdGFrZXMtZGpva292aWMtd2ltYmxlZG9uLXNlbWktZmluYWwv0gEA?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.kentonline.co.uk/medway/sport/fa-cup-draw-2022-23-269956/" target="_blank"&gt;FA Cup draw 2022/23&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzA3L3ZpbGxhZ2UtZ3JlZW4tbGluZS11cC1mb3ItdGhlLWxhbWJldGgtY291bnRyeS1zaG93LTIwMjItMTZ0aC0xN3RoLWp1bHktZnVsbC1kZXRhaWxzL9IBfGh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzA3L3ZpbGxhZ2UtZ3JlZW4tbGluZS11cC1mb3ItdGhlLWxhbWJldGgtY291bnRyeS1zaG93LTIwMjItMTZ0aC0xN3RoLWp1bHktZnVsbC1kZXRhaWxzL2FtcC8?oc=5</id>
-    <title type="html">Village Green line up for the Lambeth Country Show 2022, 16th-17th July – full details - BrixtonBuzz</title>
-    <updated>2022-07-08T06:00:28.000000000Z</updated>
-    <link href="https://www.brixtonbuzz.com/2022/07/village-green-line-up-for-the-lambeth-country-show-2022-16th-17th-july-full-details/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.brixtonbuzz.com/2022/07/village-green-line-up-for-the-lambeth-country-show-2022-16th-17th-july-full-details/" target="_blank"&gt;Village Green line up for the Lambeth Country Show 2022, 16th-17th July – full details&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BrixtonBuzz&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZmFucy1uZXJ2b3VzLWV4Y2l0ZWQtbm9ycmllLXRha2VzLTEwNTEwNjI4My5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2ZhbnMtbmVydm91cy1leGNpdGVkLW5vcnJpZS10YWtlcy0xMDUxMDYyODMuaHRtbA?oc=5</id>
+    <title type="html">Fans ‘nervous and excited’ as Norrie takes on Djokovic in Wimbledon semi-final - Yahoo News UK</title>
+    <updated>2022-07-08T10:51:06.000000000Z</updated>
+    <link href="https://uk.news.yahoo.com/fans-nervous-excited-norrie-takes-105106283.html" type="text/html"/>
+    <content type="html">&lt;a href="https://uk.news.yahoo.com/fans-nervous-excited-norrie-takes-105106283.html" target="_blank"&gt;Fans ‘nervous and excited’ as Norrie takes on Djokovic in Wimbledon semi-final&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>11 June 2022 Balham (1)</title>
