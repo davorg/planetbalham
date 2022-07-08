@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-07-08T12:16:36Z</updated>
+  <updated>2022-07-08T13:03:24Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 15°C (58°F) Maximum Temperature: 27°C (81°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 15°C (58°F) Maximum Temperature: 27°C (81°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 15°C (58°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 42%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 15°C (58°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1031mb, Humidity: 40%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-07-08T09:52:00.000+0000</id>
-    <published>2022-07-08T12:02:32Z</published>
-    <updated>2022-07-08T12:02:32Z</updated>
+    <published>2022-07-08T13:02:42Z</published>
+    <updated>2022-07-08T13:02:42Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 26°C (79°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 13°C (56°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 52%, UV Risk: 6, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-07-08T09:52:00.000+0000</id>
-    <published>2022-07-08T12:02:32Z</published>
-    <updated>2022-07-08T12:02:32Z</updated>
+    <published>2022-07-08T13:02:42Z</published>
+    <updated>2022-07-08T13:02:42Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 15°C (59°F) Maximum Temperature: 29°C (84°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 29°C (84°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1027mb, Humidity: 50%, UV Risk: 7, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-07-08T09:52:00.000+0000</id>
-    <published>2022-07-08T12:02:32Z</published>
-    <updated>2022-07-08T12:02:32Z</updated>
+    <published>2022-07-08T13:02:42Z</published>
+    <updated>2022-07-08T13:02:42Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBnSjyuUol-TkEVeFZ3XNwEqGQgEKhAIACoHCAowldebCzDZ4bMDMIyu3wY?oc=5</id>
+    <title type="html">FA Cup, FA Trophy and FA Vase early round draws made for 2022/23 season - FanBanter</title>
+    <updated>2022-07-08T12:29:24.000000000Z</updated>
+    <link href="https://fanbanter.co.uk/fa-cup-fa-trophy-and-fa-vase-early-round-draws-made-for-2022-23-season/" type="text/html"/>
+    <content type="html">&lt;a href="https://fanbanter.co.uk/fa-cup-fa-trophy-and-fa-vase-early-round-draws-made-for-2022-23-season/" target="_blank"&gt;FA Cup, FA Trophy and FA Vase early round draws made for 2022/23 season&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;FanBanter&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmxhcmdzYW5kbWlsbHBvcnRuZXdzLmNvbS9uZXdzLzIwMjY1ODExLmZhbnMtbmVydm91cy1leGNpdGVkLW5vcnJpZS10YWtlcy1kam9rb3ZpYy13aW1ibGVkb24tc2VtaS1maW5hbC_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-07-07T01:05:01.000000000Z</updated>
     <link href="https://www.enfieldindependent.co.uk/news/20261971.arlo-parks-made-unicef-uk-high-profile-supporter/" type="text/html"/>
     <content type="html">&lt;a href="https://www.enfieldindependent.co.uk/news/20261971.arlo-parks-made-unicef-uk-high-profile-supporter/" target="_blank"&gt;Arlo Parks made a Unicef UK high-profile supporter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Enfield Independent&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiENWvYNZABPcKwGQX4sgR8coqFggEKg4IACoGCAowl6p7MN-zCTDlkko?oc=5</id>
-    <title type="html">‘Let’s leave the city! Let’s get a dog! Let’s get a divorce!’ Do we regret our pandemic life changes? - The Guardian</title>
-    <updated>2022-07-06T09:00:00.000000000Z</updated>
-    <link href="https://www.theguardian.com/world/2022/jul/06/lets-leave-the-city-lets-get-a-dog-lets-get-a-divorce-do-we-regret-our-pandemic-life-changes" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theguardian.com/world/2022/jul/06/lets-leave-the-city-lets-get-a-dog-lets-get-a-divorce-do-we-regret-our-pandemic-life-changes" target="_blank"&gt;‘Let’s leave the city! Let’s get a dog! Let’s get a divorce!’ Do we regret our pandemic life changes?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>11 June 2022 Balham (1)</title>
