@@ -6,10 +6,10 @@ author:
   email: dave@dave.org.uk
 entries: 30
 page:
-  file: index.html
+  file: docs/index.html
   template: index.tt
 feed:
-  file: atom.xml
+  file: docs/atom.xml
   format: Atom
 cache_dir: /tmp/balham
 feeds:
