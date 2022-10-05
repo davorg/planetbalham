@@ -4,7 +4,7 @@ on:
   pull_request_target:
     types: [opened, reopened]
     paths:
-      - index.html
+      - docs/index.html
 
 jobs:
   test:
