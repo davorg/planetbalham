@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-06T10:53:27Z</updated>
+  <updated>2022-10-06T11:14:06Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 53%, UV Risk: 2, Pollution: Low, Sunrise: 07:09 BST, Sunset: 18:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-06T09:03:00.000+0000</id>
-    <published>2022-10-06T10:33:28Z</published>
-    <updated>2022-10-06T10:33:28Z</updated>
+    <published>2022-10-06T11:03:33Z</published>
+    <updated>2022-10-06T11:03:33Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 19°C (67°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1020mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-06T09:03:00.000+0000</id>
-    <published>2022-10-06T10:33:28Z</published>
-    <updated>2022-10-06T10:33:28Z</updated>
+    <published>2022-10-06T11:03:33Z</published>
+    <updated>2022-10-06T11:03:33Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (62°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-06T09:03:00.000+0000</id>
-    <published>2022-10-06T10:33:28Z</published>
-    <updated>2022-10-06T10:33:28Z</updated>
+    <published>2022-10-06T11:03:33Z</published>
+    <updated>2022-10-06T11:03:33Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9uYXRpb25hbC1yYWlsLXN0cmlrZS10by1icmluZy1zZXZlcmUtZGlzcnVwdGlvbi10by1zb3V0aC1sb25kbm9uL9IBAA?oc=5</id>
+    <title type="html">National rail strike to bring 'severe disruption' to South Londnon - London News Online</title>
+    <updated>2022-10-06T11:02:57.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" target="_blank"&gt;National rail strike to bring 'severe disruption' to South Londnon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiN2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL2Jlc3QtY2hlZXNlLXNob3BzLWxvbmRvbi_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-10-02T11:10:36.000000000Z</updated>
     <link href="https://www.chortle.co.uk/news/2022/10/02/51840/harry_hills_first_tour_in_nine_years" type="text/html"/>
     <content type="html">&lt;a href="https://www.chortle.co.uk/news/2022/10/02/51840/harry_hills_first_tour_in_nine_years" target="_blank"&gt;Harry Hill's first tour in nine years : News 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEAK--FXirIklylXDQzhmxbEqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
-    <title type="html">'I visited one of London's only Georgian restaurants and I want to find a better one' - My London</title>
-    <updated>2022-10-02T08:00:00.000000000Z</updated>
-    <link href="https://www.mylondon.news/whats-on/reviews/georgian-food-restaurant-london-balham-25117206" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/reviews/georgian-food-restaurant-london-balham-25117206" target="_blank"&gt;'I visited one of London's only Georgian restaurants and I want to find a better one'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DomBrownBalham220922 (82 of 83)</title>
