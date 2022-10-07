@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-07T05:23:08Z</updated>
+  <updated>2022-10-07T05:55:53Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEMJfhVmDHBINhQ5Sl7YbHgIqGQgEKhAIACoHCAowqfqFCzD7v4MDMIO9jQY?oc=5</id>
-    <title type="html">'I am excited by the opportunities London holds for my son growing up' - The Irish Times</title>
-    <updated>2022-10-07T05:01:26.000000000Z</updated>
-    <link href="https://www.irishtimes.com/abroad/2022/10/07/london-is-a-collection-of-villages-each-with-its-own-special-character/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.irishtimes.com/abroad/2022/10/07/london-is-a-collection-of-villages-each-with-its-own-special-character/" target="_blank"&gt;'I am excited by the opportunities London holds for my son growing up'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish Times&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1019mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1019mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 07:10 BST, Sunset: 18:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-06T21:59:00.000+0000</id>
-    <published>2022-10-07T05:01:10Z</published>
-    <updated>2022-10-07T05:01:10Z</updated>
+    <published>2022-10-07T05:51:30Z</published>
+    <updated>2022-10-07T05:51:30Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-06T21:59:00.000+0000</id>
-    <published>2022-10-07T05:01:10Z</published>
-    <updated>2022-10-07T05:01:10Z</updated>
+    <published>2022-10-07T05:51:30Z</published>
+    <updated>2022-10-07T05:51:30Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (65°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-06T21:59:00.000+0000</id>
-    <published>2022-10-07T05:01:10Z</published>
-    <updated>2022-10-07T05:01:10Z</updated>
+    <published>2022-10-07T05:51:30Z</published>
+    <updated>2022-10-07T05:51:30Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEMJfhVmDHBINhQ5Sl7YbHgIqGQgEKhAIACoHCAowqfqFCzD7v4MDMIO9jQY?oc=5</id>
+    <title type="html">'I am excited by the opportunities London holds for my son growing up' - The Irish Times</title>
+    <updated>2022-10-07T05:01:26.000000000Z</updated>
+    <link href="https://www.irishtimes.com/abroad/2022/10/07/london-is-a-collection-of-villages-each-with-its-own-special-character/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.irishtimes.com/abroad/2022/10/07/london-is-a-collection-of-villages-each-with-its-own-special-character/" target="_blank"&gt;'I am excited by the opportunities London holds for my son growing up'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
@@ -148,11 +148,11 @@
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" target="_blank"&gt;National rail strike to bring 'severe disruption' to South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEEDnVjX8YSYukWdiSv2AtaIqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwr8XbBg?oc=5</id>
-    <title type="html">Asian Restaurant and Takeaway Awards names best places to eat in London - here's the full list - My London</title>
-    <updated>2022-10-04T10:04:44.000000000Z</updated>
-    <link href="https://www.mylondon.news/whats-on/whats-on-news/asian-restaurant-takeaway-awards-winners-25171818" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/whats-on-news/asian-restaurant-takeaway-awards-winners-25171818" target="_blank"&gt;Asian Restaurant and Takeaway Awards names best places to eat in London - here's the full list&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CAIiEMhi8LivThEnOP5p90sz70QqGQgEKhAIACoHCAowzuOICzCZ4ocDMKiaowY?oc=5</id>
+    <title type="html">The best curry houses in the UK revealed - Daily Mail</title>
+    <updated>2022-10-03T15:39:13.000000000Z</updated>
+    <link href="https://www.dailymail.co.uk/news/article-11274915/Winners-announced-curry-industry-Oscars-did-local-on.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-11274915/Winners-announced-curry-industry-Oscars-did-local-on.html" target="_blank"&gt;The best curry houses in the UK revealed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEBVCJ9iLSB9o0DcRRp_qSqkqGQgEKhAIACoHCAow2c37CjDuyfQCMO3W0wU?oc=5</id>
