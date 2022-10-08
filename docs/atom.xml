@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-08T09:51:46Z</updated>
+  <updated>2022-10-08T10:14:10Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 6°C (42°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 6°C (42°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 52%, UV Risk: 2, Pollution: Low, Sunrise: 07:12 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-08T07:17:00.000+0000</id>
-    <published>2022-10-08T09:18:47Z</published>
-    <updated>2022-10-08T09:18:47Z</updated>
+    <published>2022-10-08T10:01:53Z</published>
+    <updated>2022-10-08T10:01:53Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1019mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-08T07:17:00.000+0000</id>
-    <published>2022-10-08T09:18:47Z</published>
-    <updated>2022-10-08T09:18:47Z</updated>
+    <published>2022-10-08T10:01:53Z</published>
+    <updated>2022-10-08T10:01:53Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny, Minimum Temperature: 5°C (41°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1018mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-08T07:17:00.000+0000</id>
-    <published>2022-10-08T09:18:47Z</published>
-    <updated>2022-10-08T09:18:47Z</updated>
+    <published>2022-10-08T10:01:53Z</published>
+    <updated>2022-10-08T10:01:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilQFodHRwczovL2luZXdzLmNvLnVrL2luZXdzLWxpZmVzdHlsZS9tb25leS9pLWJpdHRlcmx5LXJlZ3JldC1ub3QtZ2V0dGluZy1hLWZpdmUteWVhci1maXgtaGF2ZS13ZS1mYWxsZW4tb3V0LW9mLWxvdmUtd2l0aC10aGUtdHdvLXllYXItbW9ydGdhZ2UtMTg5NzE4NdIBAA?oc=5</id>
@@ -99,6 +99,52 @@
     <category term="377445" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="377311" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="377306" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electrostar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bombardier" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southernrailway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greaterlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="iphone12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="october" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="emu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electricmultipleunit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>377146 &amp; 377139, Balham, October 6th 2022</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/40172673@N03/52408518757/"/>
+    <id>tag:flickr.com,2005:/photo/52408518757</id>
+    <published>2022-10-06T18:13:35Z</published>
+    <updated>2022-10-06T18:13:35Z</updated>
+    <flickr:date_taken>2022-10-06T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-06T00:00:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/40172673@N03/"&gt;Southsea_Matt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/40172673@N03/52408518757/" title="377146 &amp;amp; 377139, Balham, October 6th 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/52408518757_b6fc554477_m.jpg" width="240" height="160" alt="377146 &amp;amp; 377139, Balham, October 6th 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2I22 1111 London Victoria-Dorking Via Mitcham Eastfields.&lt;/p&gt;</content>
+    <author>
+      <name>Southsea_Matt</name>
+      <uri>https://www.flickr.com/people/40172673@N03/</uri>
+      <flickr:nsid>40172673@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm5.staticflickr.com/4486/buddyicons/40172673@N03.jpg?1507465381#40172673@N03</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52408518757_b6fc554477_b.jpg"/>
+    <category term="377146" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="377139" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="electrostar" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bombardier" scheme="https://www.flickr.com/photos/tags/"/>
@@ -215,42 +261,6 @@
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by/2.0/deed.en"/>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52385987955_15a5501fe0_b.jpg"/>
-    <category term="dombrownband" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dombrownbanduncovered" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dombrown" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thebedfordbalham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gigphotography" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="johnhogg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mikebramwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jeremystacey" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="annaross" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>DomBrownBalham220922 (72 of 83)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/raph_ph/52385555116/"/>
-    <id>tag:flickr.com,2005:/photo/52385555116</id>
-    <published>2022-09-26T13:40:18Z</published>
-    <updated>2022-09-26T13:40:18Z</updated>
-    <flickr:date_taken>2022-09-22T21:30:07-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-09-22T21:30:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/raph_ph/"&gt;Raph_PH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/raph_ph/52385555116/" title="DomBrownBalham220922 (72 of 83)"&gt;&lt;img src="https://live.staticflickr.com/65535/52385555116_859d8b346f_m.jpg" width="240" height="160" alt="DomBrownBalham220922 (72 of 83)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Raph_PH</name>
-      <uri>https://www.flickr.com/people/raph_ph/</uri>
-      <flickr:nsid>69880995@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69880995@N04.jpg?1654010631#69880995@N04</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52385555116_859d8b346f_b.jpg"/>
     <category term="dombrownband" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dombrownbanduncovered" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dombrown" scheme="https://www.flickr.com/photos/tags/"/>
