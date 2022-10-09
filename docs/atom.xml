@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-09T03:37:12Z</updated>
+  <updated>2022-10-09T04:16:05Z</updated>
   <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
   <id>https://planetbalham.org.uk/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 7°C (44°F)</title>
+    <title>Tonight: Sunny, Minimum Temperature: 7°C (44°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1022mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 18:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1022mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 07:14 BST, Sunset: 18:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-08T21:05:00.000+0000</id>
-    <published>2022-10-09T03:32:05Z</published>
-    <updated>2022-10-09T03:32:05Z</updated>
+    <published>2022-10-09T04:00:45Z</published>
+    <updated>2022-10-09T04:00:45Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (51°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-08T21:05:00.000+0000</id>
-    <published>2022-10-09T03:32:05Z</published>
-    <updated>2022-10-09T03:32:05Z</updated>
+    <published>2022-10-09T04:00:45Z</published>
+    <updated>2022-10-09T04:00:45Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny, Minimum Temperature: 5°C (41°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1018mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-08T21:05:00.000+0000</id>
-    <published>2022-10-09T03:32:05Z</published>
-    <updated>2022-10-09T03:32:05Z</updated>
+    <published>2022-10-09T04:00:45Z</published>
+    <updated>2022-10-09T04:00:45Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnlvcmtzaGlyZWV2ZW5pbmdwb3N0LmNvLnVrL2hlYWx0aC8xMS1sZWVkcy1ncC1wcmFjdGljZXMtd2l0aC10aGUtaGlnaGVzdC1udW1iZXItb2YtcmVnaXN0ZXJlZC1wYXRpZW50cy0zODcyNjcx0gEA?oc=5</id>
+    <title type="html">These are the Leeds GP practices with the highest number of registered patients - Yorkshire Evening Post</title>
+    <updated>2022-10-09T03:45:00.000000000Z</updated>
+    <link href="https://www.yorkshireeveningpost.co.uk/health/11-leeds-gp-practices-with-the-highest-number-of-registered-patients-3872671" type="text/html"/>
+    <content type="html">&lt;a href="https://www.yorkshireeveningpost.co.uk/health/11-leeds-gp-practices-with-the-highest-number-of-registered-patients-3872671" target="_blank"&gt;These are the Leeds GP practices with the highest number of registered patients&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilQFodHRwczovL2luZXdzLmNvLnVrL2luZXdzLWxpZmVzdHlsZS9tb25leS9pLWJpdHRlcmx5LXJlZ3JldC1ub3QtZ2V0dGluZy1hLWZpdmUteWVhci1maXgtaGF2ZS13ZS1mYWxsZW4tb3V0LW9mLWxvdmUtd2l0aC10aGUtdHdvLXllYXItbW9ydGdhZ2UtMTg5NzE4NdIBAA?oc=5</id>
@@ -160,13 +167,6 @@
     <updated>2022-10-06T11:02:57.000000000Z</updated>
     <link href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" type="text/html"/>
     <content type="html">&lt;a href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" target="_blank"&gt;National rail strike to bring 'severe disruption' to South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEORjAURNtIbdK2Q28SRbbuAqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwscXbBg?oc=5</id>
-    <title type="html">The biggest Tesco Express in the UK opens in South London - My London</title>
-    <updated>2022-10-06T09:40:29.000000000Z</updated>
-    <link href="https://www.mylondon.news/whats-on/shopping/biggest-tesco-express-uk-opens-25188076" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/whats-on/shopping/biggest-tesco-express-uk-opens-25188076" target="_blank"&gt;The biggest Tesco Express in the UK opens in South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DomBrownBalham220922 (82 of 83)</title>
