@@ -8,10 +8,10 @@
 <meta name="Keywords" content="balham,london,sw12" />
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta name="Distribution" content="Global" />
-<meta name="Author" content="Dave Cross - dave@planetbalham.org.uk" />
+<meta name="Author" content="Dave Cross - dave@theplanetarium.org" />
 <meta name="Robots" content="index,follow" />
 
-<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://planetbalham.org.uk/atom.xml" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://balham.theplanetarium.org/atom.xml" />
 <link rel="stylesheet" href="images/HigherGround.css" type="text/css" />
 
 <title>[% cfg.title %]</title></head>
