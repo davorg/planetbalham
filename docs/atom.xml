@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Planet Balham</title>
-  <link rel="alternate" href="https://planetbalham.org.uk/" type="text/html"/>
+  <link rel="alternate" href="https://balham.theplanetarium.org/" type="text/html"/>
   <subtitle>Life in SW12</subtitle>
   <author>
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-10T10:14:14Z</updated>
-  <link rel="self" href="https://planetbalham.org.uk/" type="application/atom+xml"/>
-  <id>https://planetbalham.org.uk/</id>
+  <updated>2022-10-10T10:30:57Z</updated>
+  <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
+  <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
