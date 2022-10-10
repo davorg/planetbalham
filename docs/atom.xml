@@ -5,20 +5,20 @@
   <subtitle>Life in SW12</subtitle>
   <author>
     <name>Dave Cross</name>
-    <email>dave@dave.org.uk</email>
+    <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-10T10:52:47Z</updated>
+  <updated>2022-10-10T15:19:58Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 3°C (38°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 3°C (38°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1018mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 54%, UV Risk: 1, Pollution: Low, Sunrise: 07:15 BST, Sunset: 18:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-10T07:08:00.000+0000</id>
-    <published>2022-10-10T10:00:33Z</published>
-    <updated>2022-10-10T10:00:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-10T09:12:00.000+0000</id>
+    <published>2022-10-10T15:04:15Z</published>
+    <updated>2022-10-10T15:04:15Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 16°C (61°F)</title>
@@ -26,19 +26,33 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 64%, UV Risk: 2, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-10T07:08:00.000+0000</id>
-    <published>2022-10-10T10:00:33Z</published>
-    <updated>2022-10-10T10:00:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-10T09:12:00.000+0000</id>
+    <published>2022-10-10T15:04:15Z</published>
+    <updated>2022-10-10T15:04:15Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1022mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunrise: 07:19 BST, Sunset: 18:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1022mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 07:19 BST, Sunset: 18:15 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-10T07:08:00.000+0000</id>
-    <published>2022-10-10T10:00:33Z</published>
-    <updated>2022-10-10T10:00:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-10T09:12:00.000+0000</id>
+    <published>2022-10-10T15:04:15Z</published>
+    <updated>2022-10-10T15:04:15Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYWxoYW0tZ3Atc3VyZ2VyeS1zYXZlZC1mcm9tLWNsb3N1cmUv0gEA?oc=5</id>
+    <title type="html">Balham GP surgery saved from closure – South London News - London News Online</title>
+    <updated>2022-10-10T13:58:54.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/balham-gp-surgery-saved-from-closure/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/balham-gp-surgery-saved-from-closure/" target="_blank"&gt;Balham GP surgery saved from closure – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LnRoZWJvb2tzZWxsZXIuY29tL2ZlYXR1cmVzL2Jvb2tzaG9wLXNwb3RsaWdodC1tb3N0bHktYm9va3PSAQA?oc=5</id>
+    <title type="html">Features - Bookshop Spotlight: Mostly Books - The Bookseller</title>
+    <updated>2022-10-10T13:00:49.000000000Z</updated>
+    <link href="https://www.thebookseller.com/features/bookshop-spotlight-mostly-books" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thebookseller.com/features/bookshop-spotlight-mostly-books" target="_blank"&gt;Features - Bookshop Spotlight: Mostly Books&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Bookseller&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEOg45NSCtHXjN2S3mcEZUhgqGQgEKhAIACoHCAowqfqFCzD7v4MDMIO9jQY?oc=5</id>
@@ -60,13 +74,6 @@
     <updated>2022-10-08T06:00:00.000000000Z</updated>
     <link href="https://inews.co.uk/inews-lifestyle/money/i-bitterly-regret-not-getting-a-five-year-fix-have-we-fallen-out-of-love-with-the-two-year-mortgage-1897185" type="text/html"/>
     <content type="html">&lt;a href="https://inews.co.uk/inews-lifestyle/money/i-bitterly-regret-not-getting-a-five-year-fix-have-we-fallen-out-of-love-with-the-two-year-mortgage-1897185" target="_blank"&gt;'I bitterly regret not getting a five year fix': The two-year mortgage love affair is over&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEIB84aD1SOib41WpfhV-o1QqFwgEKg4IACoGCAowqvB9MMTRCTCFn-8G?oc=5</id>
-    <title type="html">National Bookshop Day: London events and how to support your local bookshop - Evening Standard</title>
-    <updated>2022-10-07T10:43:41.000000000Z</updated>
-    <link href="https://www.standard.co.uk/culture/national-bookshop-day-events-london-independent-books-b1030959.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/culture/national-bookshop-day-events-london-independent-books-b1030959.html" target="_blank"&gt;National Bookshop Day: London events and how to support your local bookshop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
@@ -161,13 +168,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9uYXRpb25hbC1yYWlsLXN0cmlrZS10by1icmluZy1zZXZlcmUtZGlzcnVwdGlvbi10by1zb3V0aC1sb25kbm9uL9IBAA?oc=5</id>
-    <title type="html">National rail strike to bring 'severe disruption' to South London - London News Online</title>
-    <updated>2022-10-06T11:02:57.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" target="_blank"&gt;National rail strike to bring 'severe disruption' to South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DomBrownBalham220922 (82 of 83)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/raph_ph/52384623712/"/>

@@ -11,7 +11,7 @@
 <meta name="Author" content="Dave Cross - dave@theplanetarium.org" />
 <meta name="Robots" content="index,follow" />
 
-<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://balham.theplanetarium.org/atom.xml" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="[% cfg.url %][% cfg.feed.file.split('/').last %]" />
 <link rel="stylesheet" href="images/HigherGround.css" type="text/css" />
 
 <title>[% cfg.title %]</title></head>
