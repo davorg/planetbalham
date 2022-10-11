@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-11T05:12:37Z</updated>
+  <updated>2022-10-11T06:08:21Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmhhbGlmYXhjb3VyaWVyLmNvLnVrL2hlYWx0aC9ob3ctYnVzeS1pcy1teS1ncC10aGUtc3VyZ2VyaWVzLXdpdGgtdGhlLW1vc3QtcGF0aWVudHMtcGVyLWRvY3Rvci1pbi1jYWxkZXJkYWxlLTM4NzM5MTbSAQA?oc=5</id>
-    <title type="html">Here are the surgeries with the most patients per doctor in Calderdale - Halifax Courier</title>
-    <updated>2022-10-11T05:06:34.000000000Z</updated>
-    <link href="https://www.halifaxcourier.co.uk/health/how-busy-is-my-gp-the-surgeries-with-the-most-patients-per-doctor-in-calderdale-3873916" type="text/html"/>
-    <content type="html">&lt;a href="https://www.halifaxcourier.co.uk/health/how-busy-is-my-gp-the-surgeries-with-the-most-patients-per-doctor-in-calderdale-3873916" target="_blank"&gt;Here are the surgeries with the most patients per doctor in Calderdale&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Halifax Courier&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 6°C (43°F), Wind Direction: Southerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 6°C (43°F), Wind Direction: Southerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-10T21:00:00.000+0000</id>
-    <published>2022-10-11T05:03:21Z</published>
-    <updated>2022-10-11T05:03:21Z</updated>
+    <published>2022-10-11T06:01:11Z</published>
+    <updated>2022-10-11T06:01:11Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (64°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1022mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 07:19 BST, Sunset: 18:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-10T21:00:00.000+0000</id>
-    <published>2022-10-11T05:03:21Z</published>
-    <updated>2022-10-11T05:03:21Z</updated>
+    <published>2022-10-11T06:01:11Z</published>
+    <updated>2022-10-11T06:01:11Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 12°C (53°F) Maximum Temperature: 16°C (61°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1017mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:20 BST, Sunset: 18:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-10T21:00:00.000+0000</id>
-    <published>2022-10-11T05:03:21Z</published>
-    <updated>2022-10-11T05:03:21Z</updated>
+    <published>2022-10-11T06:01:11Z</published>
+    <updated>2022-10-11T06:01:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmhhbGlmYXhjb3VyaWVyLmNvLnVrL2hlYWx0aC9ob3ctYnVzeS1pcy1teS1ncC10aGUtc3VyZ2VyaWVzLXdpdGgtdGhlLW1vc3QtcGF0aWVudHMtcGVyLWRvY3Rvci1pbi1jYWxkZXJkYWxlLTM4NzM5MTbSAQA?oc=5</id>
+    <title type="html">Here are the surgeries with the most patients per doctor in Calderdale - Halifax Courier</title>
+    <updated>2022-10-11T05:06:36.000000000Z</updated>
+    <link href="https://www.halifaxcourier.co.uk/health/how-busy-is-my-gp-the-surgeries-with-the-most-patients-per-doctor-in-calderdale-3873916" type="text/html"/>
+    <content type="html">&lt;a href="https://www.halifaxcourier.co.uk/health/how-busy-is-my-gp-the-surgeries-with-the-most-patients-per-doctor-in-calderdale-3873916" target="_blank"&gt;Here are the surgeries with the most patients per doctor in Calderdale&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Halifax Courier&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzMDM3MjI0LnRyaW5pdHktbWVkaWNhbC1jZW50cmUtYmFsaGFtLXNhdmVkLW5ldy1tYW5hZ2VtZW50L9IBAA?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://www.irishtimes.com/abroad/2022/10/10/everything-you-need-to-know-about-moving-to-london/" target="_blank"&gt;Everything you need to know about moving to London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish Times&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnlvcmtzaGlyZWV2ZW5pbmdwb3N0LmNvLnVrL2hlYWx0aC8xMS1sZWVkcy1ncC1wcmFjdGljZXMtd2l0aC10aGUtaGlnaGVzdC1udW1iZXItb2YtcmVnaXN0ZXJlZC1wYXRpZW50cy0zODcyNjcx0gEA?oc=5</id>
-    <title type="html">These are the Leeds GP practices with the highest number of registered patients - Yorkshire Evening Post</title>
-    <updated>2022-10-09T03:45:00.000000000Z</updated>
-    <link href="https://www.yorkshireeveningpost.co.uk/health/11-leeds-gp-practices-with-the-highest-number-of-registered-patients-3872671" type="text/html"/>
-    <content type="html">&lt;a href="https://www.yorkshireeveningpost.co.uk/health/11-leeds-gp-practices-with-the-highest-number-of-registered-patients-3872671" target="_blank"&gt;These are the Leeds GP practices with the highest number of registered patients&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Evening Post&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMilQFodHRwczovL2luZXdzLmNvLnVrL2luZXdzLWxpZmVzdHlsZS9tb25leS9pLWJpdHRlcmx5LXJlZ3JldC1ub3QtZ2V0dGluZy1hLWZpdmUteWVhci1maXgtaGF2ZS13ZS1mYWxsZW4tb3V0LW9mLWxvdmUtd2l0aC10aGUtdHdvLXllYXItbW9ydGdhZ2UtMTg5NzE4NdIBAA?oc=5</id>
+    <title type="html">'I bitterly regret not getting a five year fix': The two-year mortgage love affair is over - iNews</title>
+    <updated>2022-10-08T06:00:00.000000000Z</updated>
+    <link href="https://inews.co.uk/inews-lifestyle/money/i-bitterly-regret-not-getting-a-five-year-fix-have-we-fallen-out-of-love-with-the-two-year-mortgage-1897185" type="text/html"/>
+    <content type="html">&lt;a href="https://inews.co.uk/inews-lifestyle/money/i-bitterly-regret-not-getting-a-five-year-fix-have-we-fallen-out-of-love-with-the-two-year-mortgage-1897185" target="_blank"&gt;'I bitterly regret not getting a five year fix': The two-year mortgage love affair is over&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
