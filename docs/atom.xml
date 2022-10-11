@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-11T13:06:04Z</updated>
+  <updated>2022-10-11T13:31:26Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 4mph, Visibility: Good, Pressure: 1026mb, Humidity: 53%, UV Risk: 1, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1026mb, Humidity: 52%, UV Risk: 1, Pollution: Low, Sunrise: 07:17 BST, Sunset: 18:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-11T09:06:00.000+0000</id>
-    <published>2022-10-11T13:02:56Z</published>
-    <updated>2022-10-11T13:02:56Z</updated>
+    <published>2022-10-11T13:13:21Z</published>
+    <updated>2022-10-11T13:13:21Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1022mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 07:19 BST, Sunset: 18:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-11T09:06:00.000+0000</id>
-    <published>2022-10-11T13:02:56Z</published>
-    <updated>2022-10-11T13:02:56Z</updated>
+    <published>2022-10-11T13:13:21Z</published>
+    <updated>2022-10-11T13:13:21Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 12°C (53°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 12°C (53°F), Wind Direction: Southerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1017mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:20 BST, Sunset: 18:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-11T09:06:00.000+0000</id>
-    <published>2022-10-11T13:02:56Z</published>
-    <updated>2022-10-11T13:02:56Z</updated>
+    <published>2022-10-11T13:13:21Z</published>
+    <updated>2022-10-11T13:13:21Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL2hlYWx0aC9idXNpZXN0LWdwcy1pbi1ob3JzaGFtLXRoZS1zdXJnZXJpZXMtd2l0aC10aGUtbW9zdC1wYXRpZW50cy1wZXItZ3AtYWNjb3JkaW5nLXRvLW5ldy1uaHMtZmlndXJlcy0zODc0OTU20gEA?oc=5</id>
@@ -50,9 +50,16 @@
   <entry>
     <id>https://news.google.com/articles/CAIiEO91Gr6bHatGZsF3lUS1_QAqMwgEKioIACIQYM-7ARwUZDq-wbdbBqykMCoUCAoiEGDPuwEcFGQ6vsG3WwaspDAwh4vqBg?oc=5</id>
     <title type="html">Here are the surgeries with the most patients per doctor in Calderdale - Halifax Courier</title>
-    <updated>2022-10-11T08:45:12.000000000Z</updated>
+    <updated>2022-10-11T09:05:33.000000000Z</updated>
     <link href="https://www.halifaxcourier.co.uk/health/how-busy-is-my-gp-the-surgeries-with-the-most-patients-per-doctor-in-halifax-brighouse-todmorden-and-more-3873916" type="text/html"/>
     <content type="html">&lt;a href="https://www.halifaxcourier.co.uk/health/how-busy-is-my-gp-the-surgeries-with-the-most-patients-per-doctor-in-halifax-brighouse-todmorden-and-more-3873916" target="_blank"&gt;Here are the surgeries with the most patients per doctor in Calderdale&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Halifax Courier&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vc2hlZXJsdXhlLmNvbS9saWZlL2Zvb2QvbXktd2Vlay1wbGF0ZS1lbGlzYS1yb3NzadIBAA?oc=5</id>
+    <title type="html">My Week On A Plate: Elisa Rossi - SheerLuxe</title>
+    <updated>2022-10-10T23:00:00.000000000Z</updated>
+    <link href="https://sheerluxe.com/life/food/my-week-plate-elisa-rossi" type="text/html"/>
+    <content type="html">&lt;a href="https://sheerluxe.com/life/food/my-week-plate-elisa-rossi" target="_blank"&gt;My Week On A Plate: Elisa Rossi&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SheerLuxe&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMwMzcyMjQudHJpbml0eS1tZWRpY2FsLWNlbnRyZS1iYWxoYW0tc2F2ZWQtbmV3LW1hbmFnZW1lbnQv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-10-10T13:00:49.000000000Z</updated>
     <link href="https://www.thebookseller.com/features/bookshop-spotlight-mostly-books" type="text/html"/>
     <content type="html">&lt;a href="https://www.thebookseller.com/features/bookshop-spotlight-mostly-books" target="_blank"&gt;Features - Bookshop Spotlight: Mostly Books&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Bookseller&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEOg45NSCtHXjN2S3mcEZUhgqGQgEKhAIACoHCAowqfqFCzD7v4MDMIO9jQY?oc=5</id>
-    <title type="html">Everything you need to know about moving to London - The Irish Times</title>
-    <updated>2022-10-10T05:02:40.000000000Z</updated>
-    <link href="https://www.irishtimes.com/abroad/2022/10/10/everything-you-need-to-know-about-moving-to-london/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.irishtimes.com/abroad/2022/10/10/everything-you-need-to-know-about-moving-to-london/" target="_blank"&gt;Everything you need to know about moving to London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
