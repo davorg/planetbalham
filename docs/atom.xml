@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-13T10:14:24Z</updated>
+  <updated>2022-10-13T10:53:32Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,9 +16,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (49°F), Wind Direction: North Westerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1015mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:20 BST, Sunset: 18:12 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-13T07:19:00.000+0000</id>
-    <published>2022-10-13T10:02:19Z</published>
-    <updated>2022-10-13T10:02:19Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-13T09:04:00.000+0000</id>
+    <published>2022-10-13T10:42:31Z</published>
+    <updated>2022-10-13T10:42:31Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -26,26 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:22 BST, Sunset: 18:10 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-13T07:19:00.000+0000</id>
-    <published>2022-10-13T10:02:19Z</published>
-    <updated>2022-10-13T10:02:19Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-13T09:04:00.000+0000</id>
+    <published>2022-10-13T10:42:31Z</published>
+    <updated>2022-10-13T10:42:31Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1005mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1005mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-13T07:19:00.000+0000</id>
-    <published>2022-10-13T10:02:19Z</published>
-    <updated>2022-10-13T10:02:19Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-13T09:04:00.000+0000</id>
+    <published>2022-10-13T10:42:31Z</published>
+    <updated>2022-10-13T10:42:31Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEPV87ynOl0gafZ8Wek_4JaUqMwgEKioIACIQUO3ITeOoi2mtA7285IZIGCoUCAoiEFDtyE3jqItprQO9vOSGSBgw4ruXBw?oc=5</id>
-    <title type="html">These are the busiest surgeries in Burnley, Pendle and the Ribble Valley - Burnley Express</title>
-    <updated>2022-10-13T09:25:16.000000000Z</updated>
-    <link href="https://www.burnleyexpress.net/health/the-surgeries-with-the-most-patients-per-doctor-in-burnley-pendle-and-the-ribble-valley-3877245" type="text/html"/>
-    <content type="html">&lt;a href="https://www.burnleyexpress.net/health/the-surgeries-with-the-most-patients-per-doctor-in-burnley-pendle-and-the-ribble-valley-3877245" target="_blank"&gt;These are the busiest surgeries in Burnley, Pendle and the Ribble Valley&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Burnley Express&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5ibGFja3Bvb2xnYXpldHRlLmNvLnVrL2hlYWx0aC9ncC1uZWFyLW1lLWhlcmUtYXJlLXRoZS1zdXJnZXJpZXMtd2l0aC10aGUtbW9zdC1wYXRpZW50cy1wZXItZG9jdG9yLWluLWJsYWNrcG9vbC0zODc2OTcz0gEA?oc=5</id>
+    <title type="html">The GP surgeries with the most patients per doctor in Blackpool - and those with far fewer - Blackpool Gazette</title>
+    <updated>2022-10-12T11:50:04.000000000Z</updated>
+    <link href="https://www.blackpoolgazette.co.uk/health/gp-near-me-here-are-the-surgeries-with-the-most-patients-per-doctor-in-blackpool-3876973" type="text/html"/>
+    <content type="html">&lt;a href="https://www.blackpoolgazette.co.uk/health/gp-near-me-here-are-the-surgeries-with-the-most-patients-per-doctor-in-blackpool-3876973" target="_blank"&gt;The GP surgeries with the most patients per doctor in Blackpool - and those with far fewer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Blackpool Gazette&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzMDM3MjI0LnRyaW5pdHktbWVkaWNhbC1jZW50cmUtYmFsaGFtLXNhdmVkLW5ldy1tYW5hZ2VtZW50L9IBAA?oc=5</id>
@@ -53,13 +53,6 @@
     <updated>2022-10-10T15:34:37.000000000Z</updated>
     <link href="https://www.wandsworthguardian.co.uk/news/23037224.trinity-medical-centre-balham-saved-new-management/" type="text/html"/>
     <content type="html">&lt;a href="https://www.wandsworthguardian.co.uk/news/23037224.trinity-medical-centre-balham-saved-new-management/" target="_blank"&gt;Trinity Medical Centre Balham saved by new management&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LnRoZWJvb2tzZWxsZXIuY29tL2ZlYXR1cmVzL2Jvb2tzaG9wLXNwb3RsaWdodC1tb3N0bHktYm9va3PSAQA?oc=5</id>
-    <title type="html">Features - Bookshop Spotlight: Mostly Books - The Bookseller</title>
-    <updated>2022-10-10T13:00:49.000000000Z</updated>
-    <link href="https://www.thebookseller.com/features/bookshop-spotlight-mostly-books" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thebookseller.com/features/bookshop-spotlight-mostly-books" target="_blank"&gt;Features - Bookshop Spotlight: Mostly Books&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Bookseller&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilQFodHRwczovL2luZXdzLmNvLnVrL2luZXdzLWxpZmVzdHlsZS9tb25leS9pLWJpdHRlcmx5LXJlZ3JldC1ub3QtZ2V0dGluZy1hLWZpdmUteWVhci1maXgtaGF2ZS13ZS1mYWxsZW4tb3V0LW9mLWxvdmUtd2l0aC10aGUtdHdvLXllYXItbW9ydGdhZ2UtMTg5NzE4NdIBAA?oc=5</id>
@@ -168,6 +161,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9uYXRpb25hbC1yYWlsLXN0cmlrZS10by1icmluZy1zZXZlcmUtZGlzcnVwdGlvbi10by1zb3V0aC1sb25kbm9uL9IBAA?oc=5</id>
+    <title type="html">National rail strike to bring 'severe disruption' to South London - London News Online</title>
+    <updated>2022-10-06T11:02:57.000000000Z</updated>
+    <link href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" type="text/html"/>
+    <content type="html">&lt;a href="https://londonnewsonline.co.uk/national-rail-strike-to-bring-severe-disruption-to-south-londnon/" target="_blank"&gt;National rail strike to bring 'severe disruption' to South London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>DomBrownBalham220922 (82 of 83)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/raph_ph/52384623712/"/>
