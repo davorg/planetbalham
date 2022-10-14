@@ -7,9 +7,43 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-14T07:02:44Z</updated>
+  <updated>2022-10-14T07:22:12Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>377432 BAL 1645 VIC-SUO 13-10-22</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/52427024538/"/>
+    <id>tag:flickr.com,2005:/photo/52427024538</id>
+    <published>2022-10-14T07:21:16Z</published>
+    <updated>2022-10-14T07:21:16Z</updated>
+    <flickr:date_taken>2022-10-13T17:00:56-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-13T17:00:56-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/52427024538/" title="377432 BAL 1645 VIC-SUO 13-10-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52427024538_ab1a1348e8_m.jpg" width="240" height="174" alt="377432 BAL 1645 VIC-SUO 13-10-22" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On 13 October 202, 377432 leaves Balham on the 1646 Victoria - Sutton via Crystal Palace.&lt;/p&gt;</content>
+    <author>
+      <name>6089Gardener</name>
+      <uri>https://www.flickr.com/people/60539035@N02/</uri>
+      <flickr:nsid>60539035@N02</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52427024538_ab1a1348e8_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="377432" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5ibGFja3Bvb2xnYXpldHRlLmNvLnVrL2hlYWx0aC9ncC1uZWFyLW1lLXRoZS1zdXJnZXJpZXMtd2l0aC10aGUtbW9zdC1wYXRpZW50cy1wZXItZG9jdG9yLWluLWx5dGhhbS1wb3VsdG9uLWZsZWV0d29vZC10aG9ybnRvbi1zdC1hbm5lcy1raXJraGFtLWFuZC1nYXJzdGFuZy0zODc5Mzc40gGzAWh0dHBzOi8vd3d3LmJsYWNrcG9vbGdhemV0dGUuY28udWsvaGVhbHRoL2dwLW5lYXItbWUtdGhlLXN1cmdlcmllcy13aXRoLXRoZS1tb3N0LXBhdGllbnRzLXBlci1kb2N0b3ItaW4tbHl0aGFtLXBvdWx0b24tZmxlZXR3b29kLXRob3JudG9uLXN0LWFubmVzLWtpcmtoYW0tYW5kLWdhcnN0YW5nLTM4NzkzNzg_YW1w?oc=5</id>
+    <title type="html">GP near me: The surgeries with the most patients per doctor in Lytham, Poulton, Fleetwood, Thornton, St Annes, Kirkham and Garstang - Blackpool Gazette</title>
+    <updated>2022-10-14T07:07:54.000000000Z</updated>
+    <link href="https://www.blackpoolgazette.co.uk/health/gp-near-me-the-surgeries-with-the-most-patients-per-doctor-in-lytham-poulton-fleetwood-thornton-st-annes-kirkham-and-garstang-3879378" type="text/html"/>
+    <content type="html">&lt;a href="https://www.blackpoolgazette.co.uk/health/gp-near-me-the-surgeries-with-the-most-patients-per-doctor-in-lytham-poulton-fleetwood-thornton-st-annes-kirkham-and-garstang-3879378" target="_blank"&gt;GP near me: The surgeries with the most patients per doctor in Lytham, Poulton, Fleetwood, Thornton, St Annes, Kirkham and Garstang&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Blackpool Gazette&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -17,8 +51,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1010mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:22 BST, Sunset: 18:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-13T21:04:00.000+0000</id>
-    <published>2022-10-14T06:59:01Z</published>
-    <updated>2022-10-14T06:59:01Z</updated>
+    <published>2022-10-14T07:02:44Z</published>
+    <updated>2022-10-14T07:02:44Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +61,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1005mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 BST, Sunset: 18:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-13T21:04:00.000+0000</id>
-    <published>2022-10-14T06:59:01Z</published>
-    <updated>2022-10-14T06:59:01Z</updated>
+    <published>2022-10-14T07:02:44Z</published>
+    <updated>2022-10-14T07:02:44Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +71,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1013mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-13T21:04:00.000+0000</id>
-    <published>2022-10-14T06:59:01Z</published>
-    <updated>2022-10-14T06:59:01Z</updated>
+    <published>2022-10-14T07:02:44Z</published>
+    <updated>2022-10-14T07:02:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmZhcm5oYW1oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3NpeC1vZi10aGUtYmVzdC1hcy1uZXctcmVjcnVpdHMtaGVscC1mYXJuaGFtLXRvd24tdG8tdGh1bXBpbmctd2luLTU2NzgyMdIBAA?oc=5</id>
@@ -177,60 +211,6 @@
     <link href="https://uk.finance.yahoo.com/news/natwest-branches-earmarked-closure-155658763.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.finance.yahoo.com/news/natwest-branches-earmarked-closure-155658763.html" target="_blank"&gt;The NatWest branches earmarked for closure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vc29jaWFsaXN0d29ya2VyLmNvLnVrL25ld3MvdGFsay1vZi1yb3lhbC1tYWlsLWRlYWwtYnV0LWtlZXAtdXAtdGhlLXN0cmlrZXMv0gEA?oc=5</id>
-    <title type="html">Talk of Royal Mail deal—but keep up the strikes - Socialist Worker</title>
-    <updated>2022-10-13T13:01:58.000000000Z</updated>
-    <link href="https://socialistworker.co.uk/news/talk-of-royal-mail-deal-but-keep-up-the-strikes/" type="text/html"/>
-    <content type="html">&lt;a href="https://socialistworker.co.uk/news/talk-of-royal-mail-deal-but-keep-up-the-strikes/" target="_blank"&gt;Talk of Royal Mail deal—but keep up the strikes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Socialist Worker&lt;/font&gt;</content>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/40172673@N03/52409305819/"/>
-    <id>tag:flickr.com,2005:/photo/52409305819</id>
-    <published>2022-10-06T18:13:35Z</published>
-    <updated>2022-10-06T18:13:35Z</updated>
-    <flickr:date_taken>2022-10-06T00:00:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-06T00:00:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/40172673@N03/"&gt;Southsea_Matt&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/40172673@N03/52409305819/" title="377445, 377311 &amp;amp; 377306, Balham, October 6th 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/52409305819_3c61e618b2_m.jpg" width="240" height="160" alt="377445, 377311 &amp;amp; 377306, Balham, October 6th 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2K22 1106 London Victoria-West Croydon Via Gipsy Hill.&lt;/p&gt;</content>
-    <author>
-      <name>Southsea_Matt</name>
-      <uri>https://www.flickr.com/people/40172673@N03/</uri>
-      <flickr:nsid>40172673@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4486/buddyicons/40172673@N03.jpg?1507465381#40172673@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52409305819_3c61e618b2_b.jpg"/>
-    <category term="377445" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="377311" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="377306" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="electrostar" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bombardier" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernrailway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greaterlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="iphone12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="october" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="emu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="electricmultipleunit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Should Children be Polite While Using Smart Speakers?</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/05/should-children-be-polite-while-using-smart-speakers.html" type="text/html"/>
