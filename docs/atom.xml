@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-15T17:16:40Z</updated>
+  <updated>2022-10-15T17:52:32Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 9°C (47°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1006mb, Humidity: 75%, UV Risk: 0, Pollution: Low, Sunset: 18:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1006mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunset: 18:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-15T09:13:00.000+0000</id>
-    <published>2022-10-15T17:06:06Z</published>
-    <updated>2022-10-15T17:06:06Z</updated>
+    <published>2022-10-15T17:20:36Z</published>
+    <updated>2022-10-15T17:20:36Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1012mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 07:25 BST, Sunset: 18:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-15T09:13:00.000+0000</id>
-    <published>2022-10-15T17:06:06Z</published>
-    <updated>2022-10-15T17:06:06Z</updated>
+    <published>2022-10-15T17:20:36Z</published>
+    <updated>2022-10-15T17:20:36Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1019mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:27 BST, Sunset: 18:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-15T09:13:00.000+0000</id>
-    <published>2022-10-15T17:06:06Z</published>
-    <updated>2022-10-15T17:06:06Z</updated>
+    <published>2022-10-15T17:20:36Z</published>
+    <updated>2022-10-15T17:20:36Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEBXkrF7uNsn2CJ4UHlsiQ1kqGQgEKhAIACoHCAowzLqbCzCQxbMDMN-X3gY?oc=5</id>
+    <title type="html">Christmas engineering works and rail closures announced affecting Southern, Thameslink, Gatwick Express trains - Sussex Live</title>
+    <updated>2022-10-15T15:38:57.000000000Z</updated>
+    <link href="https://www.sussexlive.co.uk/news/sussex-news/christmas-engineering-works-rail-closures-7707498" type="text/html"/>
+    <content type="html">&lt;a href="https://www.sussexlive.co.uk/news/sussex-news/christmas-engineering-works-rail-closures-7707498" target="_blank"&gt;Christmas engineering works and rail closures announced affecting Southern, Thameslink, Gatwick Express trains&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sussex Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd2hudC5jb20vbmV3cy9uYXRpb25hbC90aGlzLWRheS1pbi1oaXN0b3J5L3RoaXMtZGF5LWluLWhpc3Rvcnktb2N0b2Jlci0xNS_SAVZodHRwczovL3dobnQuY29tL25ld3MvbmF0aW9uYWwvdGhpcy1kYXktaW4taGlzdG9yeS90aGlzLWRheS1pbi1oaXN0b3J5LW9jdG9iZXItMTUvYW1wLw?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2022-10-15T13:00:00.000000000Z</updated>
     <link href="https://whnt.com/news/national/this-day-in-history/this-day-in-history-october-15/" type="text/html"/>
     <content type="html">&lt;a href="https://whnt.com/news/national/this-day-in-history/this-day-in-history-october-15/" target="_blank"&gt;This Day in History: October 15&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WHNT News 19&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay92aWN0b3JpYS1zdGF0aW9uLWVuZ2luZWVyaW5nLXdvcmstdG8tZGlzcnVwdC10cmF2ZWwtb3Zlci1jaHJpc3RtYXMtYW5kLW5ldy15ZWFyLXBlcmlvZC_SAQA?oc=5</id>
-    <title type="html">Victoria railway station engineering work to disrupt travel over Christmas and New Year period - London News Online</title>
-    <updated>2022-10-15T12:00:51.000000000Z</updated>
-    <link href="https://londonnewsonline.co.uk/victoria-station-engineering-work-to-disrupt-travel-over-christmas-and-new-year-period/" type="text/html"/>
-    <content type="html">&lt;a href="https://londonnewsonline.co.uk/victoria-station-engineering-work-to-disrupt-travel-over-christmas-and-new-year-period/" target="_blank"&gt;Victoria railway station engineering work to disrupt travel over Christmas and New Year period&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELm96xkxdBJTICOg6HbrmV0qFwgEKg4IACoGCAowpKUnMLP5BTCC_IUH?oc=5</id>
