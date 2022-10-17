@@ -7,39 +7,46 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-17T18:19:50Z</updated>
+  <updated>2022-10-17T19:01:26Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 6°C (43°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 18:04 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-17T09:18:00.000+0000</id>
-    <published>2022-10-17T18:01:16Z</published>
-    <updated>2022-10-17T18:01:16Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 17°C (63°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-17T09:18:00.000+0000</id>
-    <published>2022-10-17T18:01:16Z</published>
-    <updated>2022-10-17T18:01:16Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 16°C (61°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 13°C (55°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1021mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 BST, Sunset: 18:00 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-17T09:18:00.000+0000</id>
-    <published>2022-10-17T18:01:16Z</published>
-    <updated>2022-10-17T18:01:16Z</updated>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Route 315, Abellio London, 8125, YX13EHM</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/52435641233/"/>
+    <id>tag:flickr.com,2005:/photo/52435641233</id>
+    <published>2022-10-17T18:20:36Z</published>
+    <updated>2022-10-17T18:20:36Z</updated>
+    <flickr:date_taken>2022-06-03T17:22:04-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-06-03T17:22:04-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/52435641233/" title="Route 315, Abellio London, 8125, YX13EHM"&gt;&lt;img src="https://live.staticflickr.com/65535/52435641233_6f2967655f_m.jpg" width="240" height="162" alt="Route 315, Abellio London, 8125, YX13EHM" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Streatham, Mitcham Lane&lt;/p&gt;</content>
+    <author>
+      <name>Jack Marian</name>
+      <uri>https://www.flickr.com/people/londonbuses1/</uri>
+      <flickr:nsid>66490030@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1625093146#66490030@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52435641233_6f2967655f_b.jpg"/>
+    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="8125" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yx13ehm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennisenviro200dart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5sb25kb253b3JsZC5jb20vbmV3cy9uYXR3ZXN0LWFubm91bmNlcy00My1icmFuY2gtY2xvc3VyZXMtYXMtY3VzdG9tZXJzLW9wdC1mb3Itb25saW5lLWJhbmtpbmctc2VlLXRoZS1sb25kb24tbG9jYXRpb25zLXNldC10by1nby0zODgwMzc10gEA?oc=5</id>
     <title type="html">Natwest announces 43 branch closures as customers opt for online banking - see the London locations set to go - LondonWorld</title>
@@ -181,53 +188,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="51626" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1995stock" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/40172673@N03/52409305819/"/>
-    <id>tag:flickr.com,2005:/photo/52409305819</id>
-    <published>2022-10-06T18:13:35Z</published>
-    <updated>2022-10-06T18:13:35Z</updated>
-    <flickr:date_taken>2022-10-06T00:00:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-06T00:00:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/40172673@N03/"&gt;Southsea_Matt&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/40172673@N03/52409305819/" title="377445, 377311 &amp;amp; 377306, Balham, October 6th 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/52409305819_3c61e618b2_m.jpg" width="240" height="160" alt="377445, 377311 &amp;amp; 377306, Balham, October 6th 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2K22 1106 London Victoria-West Croydon Via Gipsy Hill.&lt;/p&gt;</content>
-    <author>
-      <name>Southsea_Matt</name>
-      <uri>https://www.flickr.com/people/40172673@N03/</uri>
-      <flickr:nsid>40172673@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4486/buddyicons/40172673@N03.jpg?1507465381#40172673@N03</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52409305819_3c61e618b2_b.jpg"/>
-    <category term="377445" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="377311" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="377306" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="electrostar" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bombardier" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernrailway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greaterlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="iphone12" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="october" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="emu" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="electricmultipleunit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
