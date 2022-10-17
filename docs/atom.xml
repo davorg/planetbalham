@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-17T18:02:21Z</updated>
+  <updated>2022-10-17T18:19:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -185,29 +185,49 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>51680 Balham 13-10-22</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/52425634431/"/>
-    <id>tag:flickr.com,2005:/photo/52425634431</id>
-    <published>2022-10-13T20:19:12Z</published>
-    <updated>2022-10-13T20:19:12Z</updated>
-    <flickr:date_taken>2022-10-13T17:13:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-13T17:13:52-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>377445, 377311 &amp; 377306, Balham, October 6th 2022</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/40172673@N03/52409305819/"/>
+    <id>tag:flickr.com,2005:/photo/52409305819</id>
+    <published>2022-10-06T18:13:35Z</published>
+    <updated>2022-10-06T18:13:35Z</updated>
+    <flickr:date_taken>2022-10-06T00:00:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-06T00:00:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/40172673@N03/"&gt;Southsea_Matt&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/52425634431/" title="51680 Balham 13-10-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52425634431_c708d1e020_m.jpg" width="240" height="166" alt="51680 Balham 13-10-22" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/40172673@N03/52409305819/" title="377445, 377311 &amp;amp; 377306, Balham, October 6th 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/52409305819_3c61e618b2_m.jpg" width="240" height="160" alt="377445, 377311 &amp;amp; 377306, Balham, October 6th 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;On 13 October 2022, 51680 arrives at Balham on a northbound train.&lt;/p&gt;</content>
+&lt;p&gt;2K22 1106 London Victoria-West Croydon Via Gipsy Hill.&lt;/p&gt;</content>
     <author>
-      <name>6089Gardener</name>
-      <uri>https://www.flickr.com/people/60539035@N02/</uri>
-      <flickr:nsid>60539035@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
+      <name>Southsea_Matt</name>
+      <uri>https://www.flickr.com/people/40172673@N03/</uri>
+      <flickr:nsid>40172673@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm5.staticflickr.com/4486/buddyicons/40172673@N03.jpg?1507465381#40172673@N03</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52425634431_c708d1e020_b.jpg"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52409305819_3c61e618b2_b.jpg"/>
+    <category term="377445" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="377311" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="377306" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electrostar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bombardier" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southernrailway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="51680" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1995stock" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greaterlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="iphone12" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="october" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="autumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="emu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="electricmultipleunit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
