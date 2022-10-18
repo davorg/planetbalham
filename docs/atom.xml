@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-18T23:14:44Z</updated>
+  <updated>2022-10-18T23:53:52Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,9 +16,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1025mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 18:00 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-18T19:29:00.000+0000</id>
-    <published>2022-10-18T23:13:18Z</published>
-    <updated>2022-10-18T23:13:18Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-18T21:05:00.000+0000</id>
+    <published>2022-10-18T23:15:26Z</published>
+    <updated>2022-10-18T23:15:26Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 18°C (64°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1020mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:32 BST, Sunset: 17:58 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-18T19:29:00.000+0000</id>
-    <published>2022-10-18T23:13:18Z</published>
-    <updated>2022-10-18T23:13:18Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-18T21:05:00.000+0000</id>
+    <published>2022-10-18T23:15:26Z</published>
+    <updated>2022-10-18T23:15:26Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Drizzle, Minimum Temperature: 13°C (56°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1007mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1007mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:34 BST, Sunset: 17:56 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-18T19:29:00.000+0000</id>
-    <published>2022-10-18T23:13:18Z</published>
-    <updated>2022-10-18T23:13:18Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-18T21:05:00.000+0000</id>
+    <published>2022-10-18T23:15:26Z</published>
+    <updated>2022-10-18T23:15:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmFmY3dpbWJsZWRvbi5jby51ay9uZXdzLzIwMjIvb2N0b2Jlci9yZXR1cm5pbmctZHVvLXNldC1mb3ItY3VwLW91dGluZy_SAQA?oc=5</id>
@@ -99,46 +99,19 @@
     <content type="html">&lt;a href="https://www.thetimes.co.uk/article/a-bookshop-that-thumbs-its-nose-at-amazon-p5nlj3cs9" target="_blank"&gt;A bookshop that thumbs its nose at Amazon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjIvMTAvMTcvYnVsbHMtZ3JpbmQtaXQtb3V0LWZvci1sYXRlLXdpbi_SAQA?oc=5</id>
-    <title type="html">Bulls grind it out for late win - Jersey Evening Post</title>
-    <updated>2022-10-17T10:32:15.000000000Z</updated>
-    <link href="https://jerseyeveningpost.com/sport/football/2022/10/17/bulls-grind-it-out-for-late-win/" type="text/html"/>
-    <content type="html">&lt;a href="https://jerseyeveningpost.com/sport/football/2022/10/17/bulls-grind-it-out-for-late-win/" target="_blank"&gt;Bulls grind it out for late win&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5sb25kb253b3JsZC5jb20vbmV3cy9uYXR3ZXN0LWFubm91bmNlcy00My1icmFuY2gtY2xvc3VyZXMtYXMtY3VzdG9tZXJzLW9wdC1mb3Itb25saW5lLWJhbmtpbmctc2VlLXRoZS1sb25kb24tbG9jYXRpb25zLXNldC10by1nby0zODgwMzc10gEA?oc=5</id>
     <title type="html">Natwest announces 43 branch closures as customers opt for online banking - see the London locations set to go - LondonWorld</title>
     <updated>2022-10-17T10:21:26.000000000Z</updated>
     <link href="https://www.londonworld.com/news/natwest-announces-43-branch-closures-as-customers-opt-for-online-banking-see-the-london-locations-set-to-go-3880375" type="text/html"/>
     <content type="html">&lt;a href="https://www.londonworld.com/news/natwest-announces-43-branch-closures-as-customers-opt-for-online-banking-see-the-london-locations-set-to-go-3880375" target="_blank"&gt;Natwest announces 43 branch closures as customers opt for online banking - see the London locations set to go&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>377432 BAL 1645 VIC-SUO 13-10-22</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/52427024538/"/>
-    <id>tag:flickr.com,2005:/photo/52427024538</id>
-    <published>2022-10-14T07:21:16Z</published>
-    <updated>2022-10-14T07:21:16Z</updated>
-    <flickr:date_taken>2022-10-13T17:00:56-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-13T17:00:56-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/52427024538/" title="377432 BAL 1645 VIC-SUO 13-10-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52427024538_ab1a1348e8_m.jpg" width="240" height="174" alt="377432 BAL 1645 VIC-SUO 13-10-22" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On 13 October 202, 377432 leaves Balham on the 1646 Victoria - Sutton via Crystal Palace.&lt;/p&gt;</content>
-    <author>
-      <name>6089Gardener</name>
-      <uri>https://www.flickr.com/people/60539035@N02/</uri>
-      <flickr:nsid>60539035@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52427024538_ab1a1348e8_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="377432" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class377" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernelectric" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjMyODI0ODPSAS9odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2Zvb3RiYWxsLzYzMjgyNDgzLmFtcA?oc=5</id>
+    <title type="html">Jersey Bulls: Jay Giles goal secures 1-0 win over Balham - BBC</title>
+    <updated>2022-10-17T07:12:13.000000000Z</updated>
+    <link href="https://www.bbc.com/sport/football/63282483" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bbc.com/sport/football/63282483" target="_blank"&gt;Jersey Bulls: Jay Giles goal secures 1-0 win over Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>33025, 76017 BAL 5Z33 AON-EGR 13-10-22 (2)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/52425181772/"/>
@@ -217,6 +190,33 @@
     <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="51626" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1995stock" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>51680 Balham 13-10-22</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/52425634431/"/>
+    <id>tag:flickr.com,2005:/photo/52425634431</id>
+    <published>2022-10-13T20:19:12Z</published>
+    <updated>2022-10-13T20:19:12Z</updated>
+    <flickr:date_taken>2022-10-13T17:13:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-13T17:13:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/52425634431/" title="51680 Balham 13-10-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52425634431_c708d1e020_m.jpg" width="240" height="166" alt="51680 Balham 13-10-22" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On 13 October 2022, 51680 arrives at Balham on a northbound train.&lt;/p&gt;</content>
+    <author>
+      <name>6089Gardener</name>
+      <uri>https://www.flickr.com/people/60539035@N02/</uri>
+      <flickr:nsid>60539035@N02</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52425634431_c708d1e020_b.jpg"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="51680" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1995stock" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
