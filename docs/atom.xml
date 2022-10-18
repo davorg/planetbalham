@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-18T12:15:27Z</updated>
+  <updated>2022-10-18T13:06:53Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 60%, UV Risk: 1, Pollution: Low, Sunrise: 07:29 BST, Sunset: 18:02 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-18T09:07:00.000+0000</id>
-    <published>2022-10-18T12:13:21Z</published>
-    <updated>2022-10-18T12:13:21Z</updated>
+    <published>2022-10-18T13:04:07Z</published>
+    <updated>2022-10-18T13:04:07Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 13°C (56°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1021mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:31 BST, Sunset: 18:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-18T09:07:00.000+0000</id>
-    <published>2022-10-18T12:13:21Z</published>
-    <updated>2022-10-18T12:13:21Z</updated>
+    <published>2022-10-18T13:04:07Z</published>
+    <updated>2022-10-18T13:04:07Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 14°C (57°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,46 +37,9 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1009mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 07:32 BST, Sunset: 17:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-18T09:07:00.000+0000</id>
-    <published>2022-10-18T12:13:21Z</published>
-    <updated>2022-10-18T12:13:21Z</updated>
+    <published>2022-10-18T13:04:07Z</published>
+    <updated>2022-10-18T13:04:07Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Route 315, Abellio London, 8125, YX13EHM</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonbuses1/52435641233/"/>
-    <id>tag:flickr.com,2005:/photo/52435641233</id>
-    <published>2022-10-17T18:20:36Z</published>
-    <updated>2022-10-17T18:20:36Z</updated>
-    <flickr:date_taken>2022-06-03T17:22:04-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-06-03T17:22:04-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonbuses1/"&gt;Jack Marian&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonbuses1/52435641233/" title="Route 315, Abellio London, 8125, YX13EHM"&gt;&lt;img src="https://live.staticflickr.com/65535/52435641233_6f2967655f_m.jpg" width="240" height="162" alt="Route 315, Abellio London, 8125, YX13EHM" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Streatham, Mitcham Lane&lt;/p&gt;</content>
-    <author>
-      <name>Jack Marian</name>
-      <uri>https://www.flickr.com/people/londonbuses1/</uri>
-      <flickr:nsid>66490030@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/66490030@N03.jpg?1625093146#66490030@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52435641233_6f2967655f_b.jpg"/>
-    <category term="route315" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abelliolondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="8125" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yx13ehm" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexander" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennisenviro200dart" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="e200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enviro200" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="westnorwood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEJmaN2YHlPkc8wJdI3KrHKQqMwgEKioIACIQ5Z2qfp4knR9u39oGXLzyJyoUCAoiEOWdqn6eJJ0fbt_aBly88icwq4v8Bw?oc=5</id>
     <title type="html">A bookshop that thumbs its nose at Amazon - The Times</title>
@@ -217,6 +180,33 @@
     <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="51626" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1995stock" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>51680 Balham 13-10-22</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/60539035@N02/52425634431/"/>
+    <id>tag:flickr.com,2005:/photo/52425634431</id>
+    <published>2022-10-13T20:19:12Z</published>
+    <updated>2022-10-13T20:19:12Z</updated>
+    <flickr:date_taken>2022-10-13T17:13:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-13T17:13:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/60539035@N02/"&gt;6089Gardener&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/60539035@N02/52425634431/" title="51680 Balham 13-10-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52425634431_c708d1e020_m.jpg" width="240" height="166" alt="51680 Balham 13-10-22" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On 13 October 2022, 51680 arrives at Balham on a northbound train.&lt;/p&gt;</content>
+    <author>
+      <name>6089Gardener</name>
+      <uri>https://www.flickr.com/people/60539035@N02/</uri>
+      <flickr:nsid>60539035@N02</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon11.png#60539035@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52425634431_c708d1e020_b.jpg"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="51680" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1995stock" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
