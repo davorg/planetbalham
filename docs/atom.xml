@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-22T10:52:18Z</updated>
+  <updated>2022-10-22T11:13:26Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1011mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1011mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 BST, Sunset: 17:54 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-22T07:23:00.000+0000</id>
-    <published>2022-10-22T10:04:33Z</published>
-    <updated>2022-10-22T10:04:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-22T09:06:00.000+0000</id>
+    <published>2022-10-22T11:05:11Z</published>
+    <updated>2022-10-22T11:05:11Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thundery Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 17°C (63°F)</title>
@@ -26,19 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 13°C (55°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1002mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 BST, Sunset: 17:52 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-22T07:23:00.000+0000</id>
-    <published>2022-10-22T10:04:33Z</published>
-    <updated>2022-10-22T10:04:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-22T09:06:00.000+0000</id>
+    <published>2022-10-22T11:05:11Z</published>
+    <updated>2022-10-22T11:05:11Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: 10°C (51°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1003mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1003mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-22T07:23:00.000+0000</id>
-    <published>2022-10-22T10:04:33Z</published>
-    <updated>2022-10-22T10:04:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-22T09:06:00.000+0000</id>
+    <published>2022-10-22T11:05:11Z</published>
+    <updated>2022-10-22T11:05:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjIvMTAvMjIvYnVsbHMtbG9vay10by1nZXQtY3JlYXRpdmUv0gEA?oc=5</id>
+    <title type="html">Bulls look to get creative - Jersey Evening Post</title>
+    <updated>2022-10-22T10:46:10.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjIvMTAvMjIvYnVsbHMtbG9vay10by1nZXQtY3JlYXRpdmUv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjIvMTAvMjIvYnVsbHMtbG9vay10by1nZXQtY3JlYXRpdmUv0gEA?oc=5" target="_blank"&gt;Bulls look to get creative&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxpcGhvb2toZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL2JhZHNob3QtbGVhLWNvLW1hbmFnZXItc2F5cy1wbGF5LW9mZnMtd291bGQtZ2l2ZS1sZWFndWUtZXh0cmEtZWRnZS01Njg4OTLSAQA?oc=5</id>
@@ -247,13 +254,6 @@
     <updated>2022-10-19T17:09:52.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LmFmY3dpbWJsZWRvbi5jby51ay9uZXdzLzIwMjIvb2N0b2Jlci8xMC1tYW4tZG9ucy1wcm9ncmVzcy1pbi10aGUtY3VwL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LmFmY3dpbWJsZWRvbi5jby51ay9uZXdzLzIwMjIvb2N0b2Jlci8xMC1tYW4tZG9ucy1wcm9ncmVzcy1pbi10aGUtY3VwL9IBAA?oc=5" target="_blank"&gt;10-man Dons progress in the cup - News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AFC Wimbledon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEJmaN2YHlPkc8wJdI3KrHKQqMwgEKioIACIQ5Z2qfp4knR9u39oGXLzyJyoUCAoiEOWdqn6eJJ0fbt_aBly88icwq4v8Bw?oc=5</id>
-    <title type="html">A bookshop that thumbs its nose at Amazon - The Times</title>
-    <updated>2022-10-17T16:00:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYS1ib29rc2hvcC10aGF0LXRodW1icy1pdHMtbm9zZS1hdC1hbWF6b24tcDVubGozY3M50gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvYS1ib29rc2hvcC10aGF0LXRodW1icy1pdHMtbm9zZS1hdC1hbWF6b24tcDVubGozY3M50gEA?oc=5" target="_blank"&gt;A bookshop that thumbs its nose at Amazon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>Should Children be Polite While Using Smart Speakers?</title>
