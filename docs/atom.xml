@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-24T11:14:46Z</updated>
+  <updated>2022-10-24T11:50:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1004mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 BST, Sunset: 17:50 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-24T09:06:00.000+0000</id>
-    <published>2022-10-24T11:00:37Z</published>
-    <updated>2022-10-24T11:00:37Z</updated>
+    <published>2022-10-24T11:29:30Z</published>
+    <updated>2022-10-24T11:29:30Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 18°C (64°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1012mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:41 BST, Sunset: 17:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-24T09:06:00.000+0000</id>
-    <published>2022-10-24T11:00:37Z</published>
-    <updated>2022-10-24T11:00:37Z</updated>
+    <published>2022-10-24T11:29:30Z</published>
+    <updated>2022-10-24T11:29:30Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1011mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:43 BST, Sunset: 17:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-24T09:06:00.000+0000</id>
-    <published>2022-10-24T11:00:37Z</published>
-    <updated>2022-10-24T11:00:37Z</updated>
+    <published>2022-10-24T11:29:30Z</published>
+    <updated>2022-10-24T11:29:30Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjIvMTAvMjIvYnVsbHMtbG9vay10by1nZXQtY3JlYXRpdmUv0gEA?oc=5</id>
@@ -221,15 +221,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440836343/"/>
-    <id>tag:flickr.com,2005:/photo/52440836343</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765625/"/>
+    <id>tag:flickr.com,2005:/photo/52440765625</id>
     <published>2022-10-19T23:17:20Z</published>
     <updated>2022-10-19T23:17:20Z</updated>
-    <flickr:date_taken>2022-10-17T14:58:42-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:58:42-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-10-17T14:58:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:58:31-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440836343/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440836343_e0d662e6da_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765625/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765625_1e6f77342d_m.jpg" width="180" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -238,7 +238,7 @@
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440836343_e0d662e6da_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
