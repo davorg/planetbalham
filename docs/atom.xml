@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-26T23:50:48Z</updated>
+  <updated>2022-10-27T00:33:39Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1016mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 17:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1016mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 17:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-26T21:00:00.000+0000</id>
-    <published>2022-10-26T23:18:34Z</published>
-    <updated>2022-10-26T23:18:34Z</updated>
+    <published>2022-10-27T00:18:39Z</published>
+    <updated>2022-10-27T00:18:39Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 14°C (58°F) Maximum Temperature: 20°C (69°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 14°C (58°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1014mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:46 BST, Sunset: 17:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-26T21:00:00.000+0000</id>
-    <published>2022-10-26T23:18:34Z</published>
-    <updated>2022-10-26T23:18:34Z</updated>
+    <published>2022-10-27T00:18:39Z</published>
+    <updated>2022-10-27T00:18:39Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 BST, Sunset: 17:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-26T21:00:00.000+0000</id>
-    <published>2022-10-26T23:18:34Z</published>
-    <updated>2022-10-26T23:18:34Z</updated>
+    <published>2022-10-27T00:18:39Z</published>
+    <updated>2022-10-27T00:18:39Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vcm9ja3Nob3RtYWdhemluZS5jb20vcGFvbG8tbnV0aW5pLXJhaXNlcy10aGUtYmFyLWF0LWFsZXhhbmRyYS1wYWxhY2Uv0gEA?oc=5</id>
@@ -95,6 +95,42 @@
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810692_5504745c67_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
+    <id>tag:flickr.com,2005:/photo/52439810767</id>
+    <published>2022-10-19T23:17:22Z</published>
+    <updated>2022-10-19T23:17:22Z</updated>
+    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
@@ -203,42 +239,6 @@
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Wilkie Collins plaque</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440313076/"/>
-    <id>tag:flickr.com,2005:/photo/52440313076</id>
-    <published>2022-10-19T23:17:19Z</published>
-    <updated>2022-10-19T23:17:19Z</updated>
-    <flickr:date_taken>2022-10-16T15:51:48-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-16T15:51:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440313076/" title="Wilkie Collins plaque"&gt;&lt;img src="https://live.staticflickr.com/65535/52440313076_286120df0b_m.jpg" width="180" height="240" alt="Wilkie Collins plaque" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>1gl</name>
-      <uri>https://www.flickr.com/people/1gl/</uri>
-      <flickr:nsid>85461564@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440313076_286120df0b_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
