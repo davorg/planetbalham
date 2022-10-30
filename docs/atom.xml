@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-30T10:13:53Z</updated>
+  <updated>2022-10-30T10:49:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -95,6 +95,42 @@
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810692_5504745c67_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
+    <id>tag:flickr.com,2005:/photo/52439810767</id>
+    <published>2022-10-19T23:17:22Z</published>
+    <updated>2022-10-19T23:17:22Z</updated>
+    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
@@ -203,42 +239,6 @@
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Old Red Lion, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765815/"/>
-    <id>tag:flickr.com,2005:/photo/52440765815</id>
-    <published>2022-10-19T23:17:19Z</published>
-    <updated>2022-10-19T23:17:19Z</updated>
-    <flickr:date_taken>2022-10-17T14:16:21-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:16:21-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765815/" title="The Old Red Lion, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765815_902cb4b760_m.jpg" width="240" height="240" alt="The Old Red Lion, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>1gl</name>
-      <uri>https://www.flickr.com/people/1gl/</uri>
-      <flickr:nsid>85461564@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765815_902cb4b760_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
