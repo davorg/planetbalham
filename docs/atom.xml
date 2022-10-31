@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-31T19:48:40Z</updated>
+  <updated>2022-10-31T20:13:59Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1002mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:36 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-10-31T09:08:00.000+0000</id>
-    <published>2022-10-31T19:34:58Z</published>
-    <updated>2022-10-31T19:34:58Z</updated>
+    <published>2022-10-31T20:00:45Z</published>
+    <updated>2022-10-31T20:00:45Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 8°C (47°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1007mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 16:34 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-10-31T09:08:00.000+0000</id>
-    <published>2022-10-31T19:34:58Z</published>
-    <updated>2022-10-31T19:34:58Z</updated>
+    <published>2022-10-31T20:00:45Z</published>
+    <updated>2022-10-31T20:00:45Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 11°C (53°F) Maximum Temperature: 16°C (62°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (62°F), Minimum Temperature: 11°C (53°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1015mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 16:32 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-10-31T09:08:00.000+0000</id>
-    <published>2022-10-31T19:34:58Z</published>
-    <updated>2022-10-31T19:34:58Z</updated>
+    <published>2022-10-31T20:00:45Z</published>
+    <updated>2022-10-31T20:00:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9sb2Z0LWNvbnZlcnNpb25zLWJhbGhhbS1wcm9qZWN0cy1leHBhbmQtbGl2aW5nLXNwYWNl0gEA?oc=5</id>
@@ -220,16 +220,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765625/"/>
-    <id>tag:flickr.com,2005:/photo/52440765625</id>
-    <published>2022-10-19T23:17:20Z</published>
-    <updated>2022-10-19T23:17:20Z</updated>
-    <flickr:date_taken>2022-10-17T14:58:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:58:31-08:00</dc:date.Taken>
+    <title>Wilkie Collins plaque</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440313076/"/>
+    <id>tag:flickr.com,2005:/photo/52440313076</id>
+    <published>2022-10-19T23:17:19Z</published>
+    <updated>2022-10-19T23:17:19Z</updated>
+    <flickr:date_taken>2022-10-16T15:51:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-16T15:51:48-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765625/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765625_1e6f77342d_m.jpg" width="180" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440313076/" title="Wilkie Collins plaque"&gt;&lt;img src="https://live.staticflickr.com/65535/52440313076_286120df0b_m.jpg" width="180" height="240" alt="Wilkie Collins plaque" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -238,7 +238,7 @@
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440313076_286120df0b_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
