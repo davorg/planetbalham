@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-01T10:51:10Z</updated>
+  <updated>2022-11-01T11:13:25Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1007mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 16:34 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1008mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 16:34 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-01T09:08:00.000+0000</id>
-    <published>2022-11-01T10:49:25Z</published>
-    <updated>2022-11-01T10:49:25Z</updated>
+    <published>2022-11-01T11:01:37Z</published>
+    <updated>2022-11-01T11:01:37Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1015mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 16:32 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-01T09:08:00.000+0000</id>
-    <published>2022-11-01T10:49:25Z</published>
-    <updated>2022-11-01T10:49:25Z</updated>
+    <published>2022-11-01T11:01:37Z</published>
+    <updated>2022-11-01T11:01:37Z</updated>
   </entry>
   <entry>
     <title>Thursday: Heavy Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1001mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 06:57 GMT, Sunset: 16:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-01T09:08:00.000+0000</id>
-    <published>2022-11-01T10:49:25Z</published>
-    <updated>2022-11-01T10:49:25Z</updated>
+    <published>2022-11-01T11:01:37Z</published>
+    <updated>2022-11-01T11:01:37Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEI5oAiag2qcgCAMPU9vaX7AqGQgEKhAIACoHCAowu6uCCzC8kv8CMMaz8wU?oc=5</id>
