@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-05T08:50:16Z</updated>
+  <updated>2022-11-05T09:13:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1013mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:00 GMT, Sunset: 16:27 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-04T19:34:00.000+0000</id>
-    <published>2022-11-05T08:00:04Z</published>
-    <updated>2022-11-05T08:00:04Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-05T07:22:00.000+0000</id>
+    <published>2022-11-05T09:02:01Z</published>
+    <updated>2022-11-05T09:02:01Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Heavy Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 14°C (58°F)</title>
+    <title>Sunday: Heavy Rain, Minimum Temperature: 10°C (51°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1003mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:02 GMT, Sunset: 16:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1003mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:02 GMT, Sunset: 16:26 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-04T19:34:00.000+0000</id>
-    <published>2022-11-05T08:00:04Z</published>
-    <updated>2022-11-05T08:00:04Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-05T07:22:00.000+0000</id>
+    <published>2022-11-05T09:02:01Z</published>
+    <updated>2022-11-05T09:02:01Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1006mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:04 GMT, Sunset: 16:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1005mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:04 GMT, Sunset: 16:24 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-04T19:34:00.000+0000</id>
-    <published>2022-11-05T08:00:04Z</published>
-    <updated>2022-11-05T08:00:04Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-05T07:22:00.000+0000</id>
+    <published>2022-11-05T09:02:01Z</published>
+    <updated>2022-11-05T09:02:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiENYag53-238RmhJgPcqkoxkqGQgEKhAIACoHCAowzuOICzCZ4ocDMK6JowY?oc=5</id>
