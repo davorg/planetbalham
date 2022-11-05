@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-05T16:14:13Z</updated>
+  <updated>2022-11-05T16:53:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -169,15 +169,15 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
-    <id>tag:flickr.com,2005:/photo/52440835993</id>
-    <published>2022-10-19T23:17:21Z</published>
-    <updated>2022-10-19T23:17:21Z</updated>
-    <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
+    <id>tag:flickr.com,2005:/photo/52439810767</id>
+    <published>2022-10-19T23:17:22Z</published>
+    <updated>2022-10-19T23:17:22Z</updated>
+    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440835993/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440835993_9d1f43490b_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -186,7 +186,7 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
@@ -205,15 +205,15 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765325/"/>
-    <id>tag:flickr.com,2005:/photo/52440765325</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
+    <id>tag:flickr.com,2005:/photo/52440835993</id>
     <published>2022-10-19T23:17:21Z</published>
     <updated>2022-10-19T23:17:21Z</updated>
     <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
     <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765325/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765325_9006a826b2_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440835993/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440835993_9d1f43490b_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -222,7 +222,7 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765325_9006a826b2_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
