@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-06T08:50:04Z</updated>
+  <updated>2022-11-06T09:13:44Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1002mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:02 GMT, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-05T21:05:00.000+0000</id>
-    <published>2022-11-06T08:17:54Z</published>
-    <updated>2022-11-06T08:17:54Z</updated>
+    <published>2022-11-06T09:01:21Z</published>
+    <updated>2022-11-06T09:01:21Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1005mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:04 GMT, Sunset: 16:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-05T21:05:00.000+0000</id>
-    <published>2022-11-06T08:17:54Z</published>
-    <updated>2022-11-06T08:17:54Z</updated>
+    <published>2022-11-06T09:01:21Z</published>
+    <updated>2022-11-06T09:01:21Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (58°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 999mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:06 GMT, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-05T21:05:00.000+0000</id>
-    <published>2022-11-06T08:17:54Z</published>
-    <updated>2022-11-06T08:17:54Z</updated>
+    <published>2022-11-06T09:01:21Z</published>
+    <updated>2022-11-06T09:01:21Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELr9HXDp25sHBJjVqA26HXYqMwgEKioIACIQlW6HAfaAkmkuOiMWX6efQioUCAoiEJVuhwH2gJJpLjojFl-nn0IwmsnBBw?oc=5</id>
@@ -48,19 +48,41 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvcGVvcGxlL29ubHktZm9vbHMtYW5kLWhvcnNlcy13cml0ZXItam9obi1zdWxsaXZhbi10by1iZS1ob25vdXJlZC13aXRoLWJsdWUtcGxhcXVlLWluLWhvdmUtMzkwNzAyNNIBAA?oc=5" target="_blank"&gt;Only Fools and Horses writer John Sullivan to be honoured with blue plaque in Hove&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiENYag53-238RmhJgPcqkoxkqGQgEKhAIACoHCAowzuOICzCZ4ocDMNeXowY?oc=5</id>
-    <title type="html">The unstoppable Sarah Beeny's found the positives in her cancer battle - Daily Mail</title>
-    <updated>2022-11-04T22:31:02.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMTM3NzU1My9UaGUtdW5zdG9wcGFibGUtU2FyYWgtQmVlbnlzLXBvc2l0aXZlcy1jYW5jZXItYmF0dGxlLmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMTM3NzU1My9UaGUtdW5zdG9wcGFibGUtU2FyYWgtQmVlbnlzLXBvc2l0aXZlcy1jYW5jZXItYmF0dGxlLmh0bWzSAQA?oc=5" target="_blank"&gt;The unstoppable Sarah Beeny's found the positives in her cancer battle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjIvbm92LzA0L2hvbWVzLWZvci1zYWxlLWluLWNvbnNlcnZhdGlvbi1hcmVhcy1pbi1waWN0dXJlc9IBAA?oc=5</id>
     <title type="html">Homes for sale in city conservation areas – in pictures - The Guardian</title>
     <updated>2022-11-04T07:00:37.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjIvbm92LzA0L2hvbWVzLWZvci1zYWxlLWluLWNvbnNlcnZhdGlvbi1hcmVhcy1pbi1waWN0dXJlc9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjIvbm92LzA0L2hvbWVzLWZvci1zYWxlLWluLWNvbnNlcnZhdGlvbi1hcmVhcy1pbi1waWN0dXJlc9IBAA?oc=5" target="_blank"&gt;Homes for sale in city conservation areas – in pictures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Pigeons on bicycles</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52474763761/"/>
+    <id>tag:flickr.com,2005:/photo/52474763761</id>
+    <published>2022-11-03T17:23:18Z</published>
+    <updated>2022-11-03T17:23:18Z</updated>
+    <flickr:date_taken>2022-11-03T13:35:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-11-03T13:35:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52474763761/" title="Pigeons on bicycles"&gt;&lt;img src="https://live.staticflickr.com/65535/52474763761_b47763c581_m.jpg" width="240" height="150" alt="Pigeons on bicycles" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52474763761_b47763c581_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bicycles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeon perches</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52475230105/"/>
@@ -104,6 +126,13 @@
     <link href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vdGhlZmFjZS5jb20vbGlmZS9ob3ctdG8tbWFrZS1mcmllbmRzLWFzLWFuLWFkdWx0LWxpZmUtcmVsYXRpb25zaGlwcy1mcmllbmRzaGlwcy1vdXRzaWRlLXdvcmstaG93LXRvLWd1aWRlLWFkdmljZdIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vdGhlZmFjZS5jb20vbGlmZS9ob3ctdG8tbWFrZS1mcmllbmRzLWFzLWFuLWFkdWx0LWxpZmUtcmVsYXRpb25zaGlwcy1mcmllbmRzaGlwcy1vdXRzaWRlLXdvcmstaG93LXRvLWd1aWRlLWFkdmljZdIBAA?oc=5" target="_blank"&gt;How can I make friends as an adult?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Face&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CAIiEKZKguKVT0cEv1W6yMg6TU8qGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY?oc=5</id>
+    <title type="html">Royal Mail workers will walk out for two 48-hour strikes around Black Friday and Cyber Monday - Daily Mail</title>
+    <updated>2022-11-02T01:58:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTEzNzk5NzkvUm95YWwtTWFpbC13b3JrZXJzLXdhbGstdHdvLTQ4LWhvdXItc3RyaWtlcy1CbGFjay1GcmlkYXktQ3liZXItTW9uZGF5Lmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTEzNzk5NzkvUm95YWwtTWFpbC13b3JrZXJzLXdhbGstdHdvLTQ4LWhvdXItc3RyaWtlcy1CbGFjay1GcmlkYXktQ3liZXItTW9uZGF5Lmh0bWzSAQA?oc=5" target="_blank"&gt;Royal Mail workers will walk out for two 48-hour strikes around Black Friday and Cyber Monday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>273/365 - I would walk 500 miles</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/spannarama/52468593469/"/>
@@ -135,42 +164,6 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
-    <id>tag:flickr.com,2005:/photo/52439810767</id>
-    <published>2022-10-19T23:17:22Z</published>
-    <updated>2022-10-19T23:17:22Z</updated>
-    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>1gl</name>
-      <uri>https://www.flickr.com/people/1gl/</uri>
-      <flickr:nsid>85461564@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
