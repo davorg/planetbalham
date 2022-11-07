@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-07T16:56:20Z</updated>
+  <updated>2022-11-07T17:16:21Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 12°C (54°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1004mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 07:04 GMT, Sunset: 16:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1000mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 16:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-07T09:04:00.000+0000</id>
-    <published>2022-11-07T16:38:06Z</published>
-    <updated>2022-11-07T16:38:06Z</updated>
+    <published>2022-11-07T17:04:45Z</published>
+    <updated>2022-11-07T17:04:45Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 998mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:06 GMT, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-07T09:04:00.000+0000</id>
-    <published>2022-11-07T16:38:06Z</published>
-    <updated>2022-11-07T16:38:06Z</updated>
+    <published>2022-11-07T17:04:45Z</published>
+    <updated>2022-11-07T17:04:45Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-07T09:04:00.000+0000</id>
-    <published>2022-11-07T16:38:06Z</published>
-    <updated>2022-11-07T16:38:06Z</updated>
+    <published>2022-11-07T17:04:45Z</published>
+    <updated>2022-11-07T17:04:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3B1dC0xLWJpbGwtdG9wLXJlc3RhdXJhbnRzLTEzNDUyODYyNy5odG1s0gFSaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9wdXQtMS1iaWxsLXRvcC1yZXN0YXVyYW50cy0xMzQ1Mjg2MjcuaHRtbA?oc=5</id>
@@ -53,6 +53,13 @@
     <updated>2022-11-07T11:09:30.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS90aGUtbW9zdC1iZWF1dGlmdWwtY2hyaXN0bWFzLXdyZWF0aHMtdG8tYnV5LXRoaXMteWVhci_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LnRoZWhhbmRib29rLmNvbS90aGUtbW9zdC1iZWF1dGlmdWwtY2hyaXN0bWFzLXdyZWF0aHMtdG8tYnV5LXRoaXMteWVhci_SAQA?oc=5" target="_blank"&gt;27 Of The Most Beautiful Christmas Wreaths To Buy This Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Handbook&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy50aGlzaXNsb2NhbGxvbmRvbi5jby51ay9uZXdzLzIzMTA0ODI2LmJhbGhhbS1jb21tdW5pdHktY2VudHJlLXRyYW5zZm9ybWluZy1haWQtdWtyYWluZS0tLWp1bGlhLXNsYXdza2EtdXJzdWxpbmUtaGlnaC1zY2hvb2wv0gEA?oc=5</id>
+    <title type="html">How a Balham Function Hall Transformed Aid to Ukraine - Julia Slawska, Ursuline High School - This is Local London</title>
+    <updated>2022-11-06T12:51:44.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy50aGlzaXNsb2NhbGxvbmRvbi5jby51ay9uZXdzLzIzMTA0ODI2LmJhbGhhbS1jb21tdW5pdHktY2VudHJlLXRyYW5zZm9ybWluZy1haWQtdWtyYWluZS0tLWp1bGlhLXNsYXdza2EtdXJzdWxpbmUtaGlnaC1zY2hvb2wv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy50aGlzaXNsb2NhbGxvbmRvbi5jby51ay9uZXdzLzIzMTA0ODI2LmJhbGhhbS1jb21tdW5pdHktY2VudHJlLXRyYW5zZm9ybWluZy1haWQtdWtyYWluZS0tLWp1bGlhLXNsYXdza2EtdXJzdWxpbmUtaGlnaC1zY2hvb2wv0gEA?oc=5" target="_blank"&gt;How a Balham Function Hall Transformed Aid to Ukraine - Julia Slawska, Ursuline High School&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELr9HXDp25sHBJjVqA26HXYqMwgEKioIACIQlW6HAfaAkmkuOiMWX6efQioUCAoiEJVuhwH2gJJpLjojFl-nn0IwmsnBBw?oc=5</id>
@@ -126,13 +133,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3RmbC1wb3BweS1hcHBlYWwtcmVtZW1icmFuY2UtZGF5LXJveWFsLWJyaXRpc2gtbGVnaW9uLWIxMDM2OTM1Lmh0bWzSAQA?oc=5</id>
-    <title type="html">Poppy roundels appear at London Tube stations as appeal kicks off - Evening Standard</title>
-    <updated>2022-11-03T15:35:31.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3RmbC1wb3BweS1hcHBlYWwtcmVtZW1icmFuY2UtZGF5LXJveWFsLWJyaXRpc2gtbGVnaW9uLWIxMDM2OTM1Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3RmbC1wb3BweS1hcHBlYWwtcmVtZW1icmFuY2UtZGF5LXJveWFsLWJyaXRpc2gtbGVnaW9uLWIxMDM2OTM1Lmh0bWzSAQA?oc=5" target="_blank"&gt;Poppy roundels appear at London Tube stations as appeal kicks off&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>273/365 - I would walk 500 miles</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/spannarama/52468593469/"/>
@@ -169,15 +169,15 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
-    <id>tag:flickr.com,2005:/photo/52440835993</id>
-    <published>2022-10-19T23:17:21Z</published>
-    <updated>2022-10-19T23:17:21Z</updated>
-    <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
+    <id>tag:flickr.com,2005:/photo/52439810767</id>
+    <published>2022-10-19T23:17:22Z</published>
+    <updated>2022-10-19T23:17:22Z</updated>
+    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440835993/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440835993_9d1f43490b_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -186,7 +186,7 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
