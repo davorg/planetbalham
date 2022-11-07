@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-07T10:14:08Z</updated>
+  <updated>2022-11-07T10:51:01Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1004mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 07:04 GMT, Sunset: 16:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1004mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:04 GMT, Sunset: 16:24 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-07T07:45:00.000+0000</id>
-    <published>2022-11-07T10:03:30Z</published>
-    <updated>2022-11-07T10:03:30Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-07T09:04:00.000+0000</id>
+    <published>2022-11-07T10:34:21Z</published>
+    <updated>2022-11-07T10:34:21Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (59°F)</title>
@@ -26,9 +26,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 998mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:06 GMT, Sunset: 16:22 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-07T07:45:00.000+0000</id>
-    <published>2022-11-07T10:03:30Z</published>
-    <updated>2022-11-07T10:03:30Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-07T09:04:00.000+0000</id>
+    <published>2022-11-07T10:34:21Z</published>
+    <updated>2022-11-07T10:34:21Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 14°C (58°F)</title>
@@ -36,9 +36,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-07T07:45:00.000+0000</id>
-    <published>2022-11-07T10:03:30Z</published>
-    <updated>2022-11-07T10:03:30Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-07T09:04:00.000+0000</id>
+    <published>2022-11-07T10:34:21Z</published>
+    <updated>2022-11-07T10:34:21Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjIvbm92LzA0L2hvbWVzLWZvci1zYWxlLWluLWNvbnNlcnZhdGlvbi1hcmVhcy1pbi1waWN0dXJlc9IBAA?oc=5</id>
@@ -76,41 +76,19 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Pigeon perches</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52475230105/"/>
-    <id>tag:flickr.com,2005:/photo/52475230105</id>
-    <published>2022-11-03T17:23:18Z</published>
-    <updated>2022-11-03T17:23:18Z</updated>
-    <flickr:date_taken>2022-11-03T13:35:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T13:35:52-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52475230105/" title="Pigeon perches"&gt;&lt;img src="https://live.staticflickr.com/65535/52475230105_361964132d_m.jpg" width="240" height="150" alt="Pigeon perches" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52475230105_361964132d_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bicycles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3RmbC1wb3BweS1hcHBlYWwtcmVtZW1icmFuY2UtZGF5LXJveWFsLWJyaXRpc2gtbGVnaW9uLWIxMDM2OTM1Lmh0bWzSAQA?oc=5</id>
     <title type="html">Poppy roundels appear at London Tube stations as appeal kicks off - Evening Standard</title>
     <updated>2022-11-03T15:35:31.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3RmbC1wb3BweS1hcHBlYWwtcmVtZW1icmFuY2UtZGF5LXJveWFsLWJyaXRpc2gtbGVnaW9uLWIxMDM2OTM1Lmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3RmbC1wb3BweS1hcHBlYWwtcmVtZW1icmFuY2UtZGF5LXJveWFsLWJyaXRpc2gtbGVnaW9uLWIxMDM2OTM1Lmh0bWzSAQA?oc=5" target="_blank"&gt;Poppy roundels appear at London Tube stations as appeal kicks off&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMi8xMS8wMy9DcnVzdC1Ccm9zLXRvLW9wZW4tdHdvLUJveHBhcmstcmVzdGF1cmFudHPSAQA?oc=5</id>
+    <title type="html">Crust Bros to open two Boxpark restaurants - BigHospitality.co.uk</title>
+    <updated>2022-11-03T12:21:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMi8xMS8wMy9DcnVzdC1Ccm9zLXRvLW9wZW4tdHdvLUJveHBhcmstcmVzdGF1cmFudHPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmJpZ2hvc3BpdGFsaXR5LmNvLnVrL0FydGljbGUvMjAyMi8xMS8wMy9DcnVzdC1Ccm9zLXRvLW9wZW4tdHdvLUJveHBhcmstcmVzdGF1cmFudHPSAQA?oc=5" target="_blank"&gt;Crust Bros to open two Boxpark restaurants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BigHospitality.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEE_zr3_KxCNBcHKozxY-s64qGQgEKhAIACoHCAowqJGUCzCktqkDMKm8wQY?oc=5</id>
@@ -125,13 +103,6 @@
     <updated>2022-11-02T02:58:00.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTEzNzk5NzkvUm95YWwtTWFpbC13b3JrZXJzLXdhbGstdHdvLTQ4LWhvdXItc3RyaWtlcy1CbGFjay1GcmlkYXktQ3liZXItTW9uZGF5Lmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTEzNzk5NzkvUm95YWwtTWFpbC13b3JrZXJzLXdhbGstdHdvLTQ4LWhvdXItc3RyaWtlcy1CbGFjay1GcmlkYXktQ3liZXItTW9uZGF5Lmh0bWzSAQA?oc=5" target="_blank"&gt;Royal Mail workers will walk out for two 48-hour strikes around Black Friday and Cyber Monday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiECDKFSNyA4uhV_iUjpH25x4qGQgEKhAIACoHCAowzLqbCzCQxbMDMNWPqAc?oc=5</id>
-    <title type="html">Everywhere in Sussex you can see the London to Brighton Veteran Car Run this weekend - Sussex Live</title>
-    <updated>2022-11-01T06:54:58.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LnN1c3NleGxpdmUuY28udWsvd2hhdHMtb24vd2hhdHMtb24tbmV3cy92ZXRlcmFuLWNhci1ydW4tbG9uZG9uLWJyaWdodG9uLTc3NjQ0MDnSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LnN1c3NleGxpdmUuY28udWsvd2hhdHMtb24vd2hhdHMtb24tbmV3cy92ZXRlcmFuLWNhci1ydW4tbG9uZG9uLWJyaWdodG9uLTc3NjQ0MDnSAQA?oc=5" target="_blank"&gt;Everywhere in Sussex you can see the London to Brighton Veteran Car Run this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sussex Live&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>273/365 - I would walk 500 miles</title>
@@ -164,6 +135,42 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
+    <id>tag:flickr.com,2005:/photo/52439810767</id>
+    <published>2022-10-19T23:17:22Z</published>
+    <updated>2022-10-19T23:17:22Z</updated>
+    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
