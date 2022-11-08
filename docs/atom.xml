@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-08T05:49:49Z</updated>
+  <updated>2022-11-08T06:14:26Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 998mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:06 GMT, Sunset: 16:22 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 998mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:06 GMT, Sunset: 16:22 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-07T21:04:00.000+0000</id>
-    <published>2022-11-08T05:00:18Z</published>
-    <updated>2022-11-08T05:00:18Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (59°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 998mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-07T21:04:00.000+0000</id>
-    <published>2022-11-08T05:00:18Z</published>
-    <updated>2022-11-08T05:00:18Z</updated>
+    <published>2022-11-08T06:02:27Z</published>
+    <updated>2022-11-08T06:02:27Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 15°C (59°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1007mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 16:21 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-07T21:04:00.000+0000</id>
+    <published>2022-11-08T06:02:27Z</published>
+    <updated>2022-11-08T06:02:27Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1007mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1021mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-07T21:04:00.000+0000</id>
-    <published>2022-11-08T05:00:18Z</published>
-    <updated>2022-11-08T05:00:18Z</updated>
+    <published>2022-11-08T06:02:27Z</published>
+    <updated>2022-11-08T06:02:27Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiN2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL2FyY2hpdmUvMjAyMi8xMS8wNy_SAQA?oc=5</id>
@@ -55,11 +55,11 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy50aGlzaXNsb2NhbGxvbmRvbi5jby51ay9uZXdzLzIzMTA3ODI4LmJhbGhhbS1mdW5jdGlvbi1oYWxsLXRyYW5zZm9ybWVkLWFpZC11a3JhaW5lLS0tanVsaWEtc2xhd3NrYS11cnN1bGluZS1oaWdoLXNjaG9vbC_SAQA?oc=5" target="_blank"&gt;How a Balham Function Hall Transformed Aid to Ukraine - Julia Slawska, Ursuline High School&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEB3Z13t1q9sAL-LHluM7iI4qFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
-    <title type="html">Put £1 on your bill at top restaurants to help homeless, restaurantgoers urged - Evening Standard</title>
+    <id>https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9wdXQtJUMyJUEzMS1vbi15b3VyLWJpbGwtYXQtdG9wLXJlc3RhdXJhbnRzLXRvLWhlbHAtaG9tZWxlc3MtcmVzdGF1cmFudGdvZXJzLXVyZ2VkL2FyLUFBMTNQSjlq0gEA?oc=5</id>
+    <title type="html">Put £1 on your bill at top restaurants to help homeless, restaurantgoers urged - msnNOW</title>
     <updated>2022-11-07T13:45:28.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvaG9tZWxlc3MtaGVscC1yZXN0YXVyYW50LXN0cmVldHNtYXJ0LWVhdGluZy1vdXQtYjEwMzgwNjUuaHRtbNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvaG9tZWxlc3MtaGVscC1yZXN0YXVyYW50LXN0cmVldHNtYXJ0LWVhdGluZy1vdXQtYjEwMzgwNjUuaHRtbNIBAA?oc=5" target="_blank"&gt;Put £1 on your bill at top restaurants to help homeless, restaurantgoers urged&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9wdXQtJUMyJUEzMS1vbi15b3VyLWJpbGwtYXQtdG9wLXJlc3RhdXJhbnRzLXRvLWhlbHAtaG9tZWxlc3MtcmVzdGF1cmFudGdvZXJzLXVyZ2VkL2FyLUFBMTNQSjlq0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9wdXQtJUMyJUEzMS1vbi15b3VyLWJpbGwtYXQtdG9wLXJlc3RhdXJhbnRzLXRvLWhlbHAtaG9tZWxlc3MtcmVzdGF1cmFudGdvZXJzLXVyZ2VkL2FyLUFBMTNQSjlq0gEA?oc=5" target="_blank"&gt;Put £1 on your bill at top restaurants to help homeless, restaurantgoers urged&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELr9HXDp25sHBJjVqA26HXYqMwgEKioIACIQlW6HAfaAkmkuOiMWX6efQioUCAoiEJVuhwH2gJJpLjojFl-nn0IwmsnBBw?oc=5</id>
