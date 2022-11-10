@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-10T14:18:58Z</updated>
+  <updated>2022-11-10T14:53:30Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-10T09:05:00.000+0000</id>
-    <published>2022-11-10T14:00:20Z</published>
-    <updated>2022-11-10T14:00:20Z</updated>
+    <published>2022-11-10T14:36:11Z</published>
+    <updated>2022-11-10T14:36:11Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 17°C (62°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 16:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-10T09:05:00.000+0000</id>
-    <published>2022-11-10T14:00:20Z</published>
-    <updated>2022-11-10T14:00:20Z</updated>
+    <published>2022-11-10T14:36:11Z</published>
+    <updated>2022-11-10T14:36:11Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 16:16 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-10T09:05:00.000+0000</id>
-    <published>2022-11-10T14:00:20Z</published>
-    <updated>2022-11-10T14:00:20Z</updated>
+    <published>2022-11-10T14:36:11Z</published>
+    <updated>2022-11-10T14:36:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC90aGlyZC1kZWZlYXQtaW4tZm91ci1mb3ItdGFkbGV5LWNhbGxldmEtYXQtYmFsaGFtLTkyODMzMzgv0gFjaHR0cHM6Ly93d3cubmV3YnVyeXRvZGF5LmNvLnVrL3Nwb3J0L2FtcC90aGlyZC1kZWZlYXQtaW4tZm91ci1mb3ItdGFkbGV5LWNhbGxldmEtYXQtYmFsaGFtLTkyODMzMzgv?oc=5</id>
+    <title type="html">Third defeat in four for Tadley Calleva at Balham - Newbury Today</title>
+    <updated>2022-11-10T14:30:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC90aGlyZC1kZWZlYXQtaW4tZm91ci1mb3ItdGFkbGV5LWNhbGxldmEtYXQtYmFsaGFtLTkyODMzMzgv0gFjaHR0cHM6Ly93d3cubmV3YnVyeXRvZGF5LmNvLnVrL3Nwb3J0L2FtcC90aGlyZC1kZWZlYXQtaW4tZm91ci1mb3ItdGFkbGV5LWNhbGxldmEtYXQtYmFsaGFtLTkyODMzMzgv?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC90aGlyZC1kZWZlYXQtaW4tZm91ci1mb3ItdGFkbGV5LWNhbGxldmEtYXQtYmFsaGFtLTkyODMzMzgv0gFjaHR0cHM6Ly93d3cubmV3YnVyeXRvZGF5LmNvLnVrL3Nwb3J0L2FtcC90aGlyZC1kZWZlYXQtaW4tZm91ci1mb3ItdGFkbGV5LWNhbGxldmEtYXQtYmFsaGFtLTkyODMzMzgv?oc=5" target="_blank"&gt;Third defeat in four for Tadley Calleva at Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Newbury Today&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiECSaCCiFb9ze-oUt01ZlQP8qGQgEKhAIACoHCAowzc-JCzDQ5psDMJfxoQY?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-11-07T13:45:28.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvaG9tZWxlc3MtaGVscC1yZXN0YXVyYW50LXN0cmVldHNtYXJ0LWVhdGluZy1vdXQtYjEwMzgwNjUuaHRtbNIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvaG9tZWxlc3MtaGVscC1yZXN0YXVyYW50LXN0cmVldHNtYXJ0LWVhdGluZy1vdXQtYjEwMzgwNjUuaHRtbNIBAA?oc=5" target="_blank"&gt;Put £1 on your bill at top restaurants to help homeless, restaurantgoers urged&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiELr9HXDp25sHBJjVqA26HXYqMwgEKioIACIQlW6HAfaAkmkuOiMWX6efQioUCAoiEJVuhwH2gJJpLjojFl-nn0IwmsnBBw?oc=5</id>
-    <title type="html">Only Fools and Horses writer John Sullivan to be honoured with blue plaque in Hove - SussexWorld</title>
-    <updated>2022-11-05T01:43:55.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvcGVvcGxlL29ubHktZm9vbHMtYW5kLWhvcnNlcy13cml0ZXItam9obi1zdWxsaXZhbi10by1iZS1ob25vdXJlZC13aXRoLWJsdWUtcGxhcXVlLWluLWhvdmUtMzkwNzAyNNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvcGVvcGxlL29ubHktZm9vbHMtYW5kLWhvcnNlcy13cml0ZXItam9obi1zdWxsaXZhbi10by1iZS1ob25vdXJlZC13aXRoLWJsdWUtcGxhcXVlLWluLWhvdmUtMzkwNzAyNNIBAA?oc=5" target="_blank"&gt;Only Fools and Horses writer John Sullivan to be honoured with blue plaque in Hove&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeons on bicycles</title>
@@ -169,15 +169,15 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765325/"/>
-    <id>tag:flickr.com,2005:/photo/52440765325</id>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
+    <id>tag:flickr.com,2005:/photo/52440835993</id>
     <published>2022-10-19T23:17:21Z</published>
     <updated>2022-10-19T23:17:21Z</updated>
     <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
     <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765325/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765325_9006a826b2_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440835993/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440835993_9d1f43490b_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -186,7 +186,7 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765325_9006a826b2_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
@@ -205,15 +205,15 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765625/"/>
-    <id>tag:flickr.com,2005:/photo/52440765625</id>
-    <published>2022-10-19T23:17:20Z</published>
-    <updated>2022-10-19T23:17:20Z</updated>
-    <flickr:date_taken>2022-10-17T14:58:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:58:31-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765325/"/>
+    <id>tag:flickr.com,2005:/photo/52440765325</id>
+    <published>2022-10-19T23:17:21Z</published>
+    <updated>2022-10-19T23:17:21Z</updated>
+    <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765625/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765625_1e6f77342d_m.jpg" width="180" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765325/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765325_9006a826b2_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -222,7 +222,7 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765325_9006a826b2_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
