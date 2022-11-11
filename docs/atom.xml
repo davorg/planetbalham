@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-11T20:14:00Z</updated>
+  <updated>2022-11-11T20:49:21Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (47°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (47°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:18 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:18 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-11T09:07:00.000+0000</id>
-    <published>2022-11-11T20:03:43Z</published>
-    <updated>2022-11-11T20:03:43Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-11T19:19:00.000+0000</id>
+    <published>2022-11-11T20:45:47Z</published>
+    <updated>2022-11-11T20:45:47Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 18°C (64°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 16:16 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-11T09:07:00.000+0000</id>
-    <published>2022-11-11T20:03:43Z</published>
-    <updated>2022-11-11T20:03:43Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-11T19:19:00.000+0000</id>
+    <published>2022-11-11T20:45:47Z</published>
+    <updated>2022-11-11T20:45:47Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:14 GMT, Sunset: 16:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 07:14 GMT, Sunset: 16:15 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-11T09:07:00.000+0000</id>
-    <published>2022-11-11T20:03:43Z</published>
-    <updated>2022-11-11T20:03:43Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-11T19:19:00.000+0000</id>
+    <published>2022-11-11T20:45:47Z</published>
+    <updated>2022-11-11T20:45:47Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vc2hlcGhlcmRzYnVzaHcxMi5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTEuaHRt0gEA?oc=5</id>
@@ -169,15 +169,15 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
-    <id>tag:flickr.com,2005:/photo/52439810767</id>
-    <published>2022-10-19T23:17:22Z</published>
-    <updated>2022-10-19T23:17:22Z</updated>
-    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
+    <id>tag:flickr.com,2005:/photo/52440835993</id>
+    <published>2022-10-19T23:17:21Z</published>
+    <updated>2022-10-19T23:17:21Z</updated>
+    <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440835993/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440835993_9d1f43490b_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -186,7 +186,7 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:nsid>85461564@N00</flickr:nsid>
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
