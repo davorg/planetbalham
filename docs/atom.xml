@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-13T08:50:29Z</updated>
+  <updated>2022-11-13T09:13:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1019mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:14 GMT, Sunset: 16:15 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-12T21:03:00.000+0000</id>
-    <published>2022-11-13T08:01:50Z</published>
-    <updated>2022-11-13T08:01:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-13T07:14:00.000+0000</id>
+    <published>2022-11-13T09:00:17Z</published>
+    <updated>2022-11-13T09:00:17Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: 10°C (49°F) Maximum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:16 GMT, Sunset: 16:13 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 10°C (49°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:16 GMT, Sunset: 16:13 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-12T21:03:00.000+0000</id>
-    <published>2022-11-13T08:01:50Z</published>
-    <updated>2022-11-13T08:01:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-13T07:14:00.000+0000</id>
+    <published>2022-11-13T09:00:17Z</published>
+    <updated>2022-11-13T09:00:17Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Heavy Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 998mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:18 GMT, Sunset: 16:12 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 998mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:18 GMT, Sunset: 16:12 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-12T21:03:00.000+0000</id>
-    <published>2022-11-13T08:01:50Z</published>
-    <updated>2022-11-13T08:01:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-13T07:14:00.000+0000</id>
+    <published>2022-11-13T09:00:17Z</published>
+    <updated>2022-11-13T09:00:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGMLRZokeuvQyo5LJ08kvvkqGQgEKhAIACoHCAowzc-JCzDQ5psDML_9oQY?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-11-12T06:00:00.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMS8xMi93aGF0LWktb3duLW5pY2hvbGFzLXdoby1wYXlzLTIxMDAtYS1tb250aC1pbi1jcm95ZG9uLTE3NzQzNDcyL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMS8xMi93aGF0LWktb3duLW5pY2hvbGFzLXdoby1wYXlzLTIxMDAtYS1tb250aC1pbi1jcm95ZG9uLTE3NzQzNDcyL9IBAA?oc=5" target="_blank"&gt;What I Own: Nicholas, who paid a £125,000 deposit on his Croydon house&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmhhbW1lcnNtaXRodG9kYXkuY28udWsvcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTEuaHRt0gEA?oc=5</id>
+    <title type="html">Nearly 1,000 Bus Drivers Striking for Ten Days - HammersmithToday.co.uk</title>
+    <updated>2022-11-11T10:48:14.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3LmhhbW1lcnNtaXRodG9kYXkuY28udWsvcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTEuaHRt0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3LmhhbW1lcnNtaXRodG9kYXkuY28udWsvcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTEuaHRt0gEA?oc=5" target="_blank"&gt;Nearly 1,000 Bus Drivers Striking for Ten Days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HammersmithToday.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGhlyYNRQ39TwdYUnCYF7BIqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-11-10T12:53:44.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMxMTU2MTIucmVtZW1icmFuY2UtZGF5LW1lbW9yaWFsLWV2ZW50cy1zZXJ2aWNlcy1ub3J0aC1sb25kb24tMjAyMi_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMxMTU2MTIucmVtZW1icmFuY2UtZGF5LW1lbW9yaWFsLWV2ZW50cy1zZXJ2aWNlcy1ub3J0aC1sb25kb24tMjAyMi_SAQA?oc=5" target="_blank"&gt;Remembrance Day memorial events and services in North London 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYmFsaGFtLWZ1bmN0aW9uLWhhbGwtdHJhbnNmb3JtZWQtYWlkLTE3MjAxMDU2OS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2JhbGhhbS1mdW5jdGlvbi1oYWxsLXRyYW5zZm9ybWVkLWFpZC0xNzIwMTA1NjkuaHRtbA?oc=5</id>
-    <title type="html">How a Balham Function Hall Transformed Aid to Ukraine - Julia Slawska, Ursuline High School - Yahoo News UK</title>
-    <updated>2022-11-07T17:20:10.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYmFsaGFtLWZ1bmN0aW9uLWhhbGwtdHJhbnNmb3JtZWQtYWlkLTE3MjAxMDU2OS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2JhbGhhbS1mdW5jdGlvbi1oYWxsLXRyYW5zZm9ybWVkLWFpZC0xNzIwMTA1NjkuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYmFsaGFtLWZ1bmN0aW9uLWhhbGwtdHJhbnNmb3JtZWQtYWlkLTE3MjAxMDU2OS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2JhbGhhbS1mdW5jdGlvbi1oYWxsLXRyYW5zZm9ybWVkLWFpZC0xNzIwMTA1NjkuaHRtbA?oc=5" target="_blank"&gt;How a Balham Function Hall Transformed Aid to Ukraine - Julia Slawska, Ursuline High School&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeons on bicycles</title>
