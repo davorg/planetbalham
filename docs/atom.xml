@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-15T21:13:36Z</updated>
+  <updated>2022-11-15T21:48:41Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 7°C (46°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (46°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 993mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:12 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 993mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:12 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-15T09:02:00.000+0000</id>
-    <published>2022-11-15T21:00:30Z</published>
-    <updated>2022-11-15T21:00:30Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-15T19:38:00.000+0000</id>
+    <published>2022-11-15T21:47:07Z</published>
+    <updated>2022-11-15T21:47:07Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 13°C (55°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (49°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 991mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 16:10 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-15T09:02:00.000+0000</id>
-    <published>2022-11-15T21:00:30Z</published>
-    <updated>2022-11-15T21:00:30Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-15T19:38:00.000+0000</id>
+    <published>2022-11-15T21:47:07Z</published>
+    <updated>2022-11-15T21:47:07Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 987mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:21 GMT, Sunset: 16:09 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 984mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:21 GMT, Sunset: 16:09 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-15T09:02:00.000+0000</id>
-    <published>2022-11-15T21:00:30Z</published>
-    <updated>2022-11-15T21:00:30Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-15T19:38:00.000+0000</id>
+    <published>2022-11-15T21:47:07Z</published>
+    <updated>2022-11-15T21:47:07Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc3BvcnQvZm9vdGJhbGwvMTY5NzEwMC9lbmdsYW5kLW5ld3MtZmFiaW8tY2FydmFsaG8tcG9ydHVnYWwtd29ybGQtY3VwLWxpdmVycG9vbC1sYXRlc3TSAXRodHRwczovL3d3dy5leHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsLzE2OTcxMDAvZW5nbGFuZC1uZXdzLWZhYmlvLWNhcnZhbGhvLXBvcnR1Z2FsLXdvcmxkLWN1cC1saXZlcnBvb2wtbGF0ZXN0L2FtcA?oc=5</id>
@@ -55,14 +55,14 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMTUtbm92ZW1iZXItMjAyMi0yOTczNzXSAUpodHRwczovL3JvYWQuY2MvY29udGVudC9uZXdzL2N5Y2xpbmctbGl2ZS1ibG9nLTE1LW5vdmVtYmVyLTIwMjItMjk3Mzc1P2FtcA?oc=5" target="_blank"&gt;Cyclists pollute more than cars, claims Swiss economist; Scary HGV close pass video sparks cycling infra debate; Why can’t all cyclist v driver clips be like this? Cyclist hits van and apologises; Arty bike stand divides opinion + more on the live blog&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;road.cc&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiiQFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9wdXQtJUMyJUEzMS1vbi15b3VyLWJpbGwtYXQtdG9wLXJlc3RhdXJhbnRzLXRvLWhlbHAtaG9tZWxlc3MtcmVzdGF1cmFudC1nb2Vycy11cmdlZC9hci1BQTEzUEo5atIBAA?oc=5</id>
-    <title type="html">Put £1 on your bill at top restaurants to help homeless, restaurant-goers urged - msnNOW</title>
+    <id>https://news.google.com/articles/CAIiEB3Z13t1q9sAL-LHluM7iI4qFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <title type="html">Put £1 on your bill at top restaurants to help homeless, restaurant-goers urged - Evening Standard</title>
     <updated>2022-11-15T17:05:51.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9wdXQtJUMyJUEzMS1vbi15b3VyLWJpbGwtYXQtdG9wLXJlc3RhdXJhbnRzLXRvLWhlbHAtaG9tZWxlc3MtcmVzdGF1cmFudC1nb2Vycy11cmdlZC9hci1BQTEzUEo5atIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3MvbmV3c2xvbmRvbi9wdXQtJUMyJUEzMS1vbi15b3VyLWJpbGwtYXQtdG9wLXJlc3RhdXJhbnRzLXRvLWhlbHAtaG9tZWxlc3MtcmVzdGF1cmFudC1nb2Vycy11cmdlZC9hci1BQTEzUEo5atIBAA?oc=5" target="_blank"&gt;Put £1 on your bill at top restaurants to help homeless, restaurant-goers urged&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvaG9tZWxlc3MtaGVscC1yZXN0YXVyYW50LXN0cmVldHNtYXJ0LWVhdGluZy1vdXQtYjEwMzgwNjUuaHRtbNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvdWsvaG9tZWxlc3MtaGVscC1yZXN0YXVyYW50LXN0cmVldHNtYXJ0LWVhdGluZy1vdXQtYjEwMzgwNjUuaHRtbNIBAA?oc=5" target="_blank"&gt;Put £1 on your bill at top restaurants to help homeless, restaurant-goers urged&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CAIiEMlyVYKO7vaN7-oq8vYLNP8qFggEKg4IACoGCAowqvB9MMTRCTC19BU?oc=5</id>
+    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL2xvbmRvbi1iaWtlLXJpZGVycy1mYWNpbmctZGVodW1hbmlzaW5nLWFidXNlLW9ubGluZS1icml0aXNoLWN5Y2xpbmctc2F5LWIxMDQwMDAzLmh0bWzSAQA?oc=5</id>
     <title type="html">London bike riders facing ‘dehumanising’ abuse online, British Cycling say - Evening Standard</title>
     <updated>2022-11-15T15:22:41.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL2xvbmRvbi1iaWtlLXJpZGVycy1mYWNpbmctZGVodW1hbmlzaW5nLWFidXNlLW9ubGluZS1icml0aXNoLWN5Y2xpbmctc2F5LWIxMDQwMDAzLmh0bWzSAQA?oc=5" type="text/html"/>
