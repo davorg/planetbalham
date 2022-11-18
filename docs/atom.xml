@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-18T13:52:05Z</updated>
+  <updated>2022-11-18T14:13:47Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MzY3NDMwMtIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MzY3NDMwMi5hbXA?oc=5</id>
+    <title type="html">Council starts seizing e-bikes in south-west London - BBC</title>
+    <updated>2022-11-18T14:02:37.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MzY3NDMwMtIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MzY3NDMwMi5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MzY3NDMwMtIBN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWxvbmRvbi02MzY3NDMwMi5hbXA?oc=5" target="_blank"&gt;Council starts seizing e-bikes in south-west London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1003mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-18T09:06:00.000+0000</id>
-    <published>2022-11-18T13:35:03Z</published>
-    <updated>2022-11-18T13:35:03Z</updated>
+    <published>2022-11-18T14:00:38Z</published>
+    <updated>2022-11-18T14:00:38Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (49°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1013mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-18T09:06:00.000+0000</id>
-    <published>2022-11-18T13:35:03Z</published>
-    <updated>2022-11-18T13:35:03Z</updated>
+    <published>2022-11-18T14:00:38Z</published>
+    <updated>2022-11-18T14:00:38Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-18T09:06:00.000+0000</id>
-    <published>2022-11-18T13:35:03Z</published>
-    <updated>2022-11-18T13:35:03Z</updated>
+    <published>2022-11-18T14:00:38Z</published>
+    <updated>2022-11-18T14:00:38Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiELr-FA1ODM7pCBk8LrcCQSUqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwsMXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-11-16T13:01:03.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3Mvb25saW5lLWFidXNlLWRlaHVtYW5pc2VzLWN5Y2xpc3RzLTI5NzQwNdIBSWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3Mvb25saW5lLWFidXNlLWRlaHVtYW5pc2VzLWN5Y2xpc3RzLTI5NzQwNT9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3Mvb25saW5lLWFidXNlLWRlaHVtYW5pc2VzLWN5Y2xpc3RzLTI5NzQwNdIBSWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3Mvb25saW5lLWFidXNlLWRlaHVtYW5pc2VzLWN5Y2xpc3RzLTI5NzQwNT9hbXA?oc=5" target="_blank"&gt;Online abuse ‘dehumanises’ cyclists and puts them in danger on the roads, British Cycling warns&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;road.cc&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIxMTE2MDA1MzQ1L2VuL01lbWJlcnNoaXAtQ29sbGVjdGl2ZS1Hcm91cC1Bbm5vdW5jZXMtVGhpcmQtUXVhcnRlci0yMDIyLVJlc3VsdHPSAQA?oc=5</id>
-    <title type="html">Membership Collective Group Announces Third Quarter 2022 Results - Business Wire</title>
-    <updated>2022-11-16T12:30:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIxMTE2MDA1MzQ1L2VuL01lbWJlcnNoaXAtQ29sbGVjdGl2ZS1Hcm91cC1Bbm5vdW5jZXMtVGhpcmQtUXVhcnRlci0yMDIyLVJlc3VsdHPSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjIxMTE2MDA1MzQ1L2VuL01lbWJlcnNoaXAtQ29sbGVjdGl2ZS1Hcm91cC1Bbm5vdW5jZXMtVGhpcmQtUXVhcnRlci0yMDIyLVJlc3VsdHPSAQA?oc=5" target="_blank"&gt;Membership Collective Group Announces Third Quarter 2022 Results&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Business Wire&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeons on bicycles</title>
