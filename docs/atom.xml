@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-22T02:26:05Z</updated>
+  <updated>2022-11-22T03:10:22Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 5°C (41°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 987mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 987mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-21T21:06:00.000+0000</id>
-    <published>2022-11-22T02:00:56Z</published>
-    <updated>2022-11-22T02:00:56Z</updated>
+    <published>2022-11-22T03:04:52Z</published>
+    <updated>2022-11-22T03:04:52Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 9°C (49°F)</title>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 989mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 989mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-21T21:06:00.000+0000</id>
-    <published>2022-11-22T02:00:56Z</published>
-    <updated>2022-11-22T02:00:56Z</updated>
+    <published>2022-11-22T03:04:52Z</published>
+    <updated>2022-11-22T03:04:52Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 990mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-21T21:06:00.000+0000</id>
-    <published>2022-11-22T02:00:56Z</published>
-    <updated>2022-11-22T02:00:56Z</updated>
+    <published>2022-11-22T03:04:52Z</published>
+    <updated>2022-11-22T03:04:52Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHHWn9vhv6AYQKAWkA-AMT8qFwgEKg4IACoGCAowqvB9MMTRCTCMk6UG?oc=5</id>
@@ -48,18 +48,18 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2luc2lkZXIvaW5zdGFncmFtLXR3aXR0ZXItZmFjZWJvb2stY2xvbmluZy1lcGlkZW1pYy1jeWJlci1jcmltaW5hbHMtb25saW5lLXNhZmV0eS1iMTAzNTM5NS5odG1s0gEA?oc=5" target="_blank"&gt;Has your Instagram been cloned yet? Inside the rise of social media identity theft (and what to do about it)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2VudHJhbC1sb25kb24tdHJhaW4tc3RhdGlvbnMtZmFjZS0xNjQ0MjUwNDYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jZW50cmFsLWxvbmRvbi10cmFpbi1zdGF0aW9ucy1mYWNlLTE2NDQyNTA0Ni5odG1s?oc=5</id>
+    <title type="html">Central London train stations face major disruption over Christmas - Yahoo News UK</title>
+    <updated>2022-11-21T16:45:33.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2VudHJhbC1sb25kb24tdHJhaW4tc3RhdGlvbnMtZmFjZS0xNjQ0MjUwNDYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jZW50cmFsLWxvbmRvbi10cmFpbi1zdGF0aW9ucy1mYWNlLTE2NDQyNTA0Ni5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2VudHJhbC1sb25kb24tdHJhaW4tc3RhdGlvbnMtZmFjZS0xNjQ0MjUwNDYuaHRtbNIBU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jZW50cmFsLWxvbmRvbi10cmFpbi1zdGF0aW9ucy1mYWNlLTE2NDQyNTA0Ni5odG1s?oc=5" target="_blank"&gt;Central London train stations face major disruption over Christmas&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wYXJlbnRzLXRvLWJlLWJhbm5lZC1mcm9tLWRyb3BwaW5nLW9mZi10aGVpci1raWRzLWJ5LWNhci1hdC0xOC1zY2hvb2xzL9IBAA?oc=5</id>
     <title type="html">Parents to be banned from dropping off their kids by car at 18 schools - London News Online</title>
     <updated>2022-11-21T15:02:12.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wYXJlbnRzLXRvLWJlLWJhbm5lZC1mcm9tLWRyb3BwaW5nLW9mZi10aGVpci1raWRzLWJ5LWNhci1hdC0xOC1zY2hvb2xzL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9wYXJlbnRzLXRvLWJlLWJhbm5lZC1mcm9tLWRyb3BwaW5nLW9mZi10aGVpci1raWRzLWJ5LWNhci1hdC0xOC1zY2hvb2xzL9IBAA?oc=5" target="_blank"&gt;Parents to be banned from dropping off their kids by car at 18 schools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmFpbC1wYXNzZW5nZXJzLWZhY2UtY2hyaXN0bWFzLWNoYW9zLTExNTAxOTYyOS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3JhaWwtcGFzc2VuZ2Vycy1mYWNlLWNocmlzdG1hcy1jaGFvcy0xMTUwMTk2MjkuaHRtbA?oc=5</id>
-    <title type="html">Rail passengers face Christmas chaos due to engineering work - Yahoo News UK</title>
-    <updated>2022-11-21T11:50:19.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmFpbC1wYXNzZW5nZXJzLWZhY2UtY2hyaXN0bWFzLWNoYW9zLTExNTAxOTYyOS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3JhaWwtcGFzc2VuZ2Vycy1mYWNlLWNocmlzdG1hcy1jaGFvcy0xMTUwMTk2MjkuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcmFpbC1wYXNzZW5nZXJzLWZhY2UtY2hyaXN0bWFzLWNoYW9zLTExNTAxOTYyOS5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3JhaWwtcGFzc2VuZ2Vycy1mYWNlLWNocmlzdG1hcy1jaGFvcy0xMTUwMTk2MjkuaHRtbA?oc=5" target="_blank"&gt;Rail passengers face Christmas chaos due to engineering work&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEGjSwf6okrRupQMK7oEyvsYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
