@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-22T06:14:19Z</updated>
+  <updated>2022-11-22T06:50:58Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 989mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 989mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:29 GMT, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-21T21:06:00.000+0000</id>
-    <published>2022-11-22T06:00:51Z</published>
-    <updated>2022-11-22T06:00:51Z</updated>
+    <published>2022-11-22T06:32:28Z</published>
+    <updated>2022-11-22T06:32:28Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Heavy Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 990mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-21T21:06:00.000+0000</id>
-    <published>2022-11-22T06:00:51Z</published>
-    <updated>2022-11-22T06:00:51Z</updated>
+    <published>2022-11-22T06:32:28Z</published>
+    <updated>2022-11-22T06:32:28Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1002mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-21T21:06:00.000+0000</id>
-    <published>2022-11-22T06:00:51Z</published>
-    <updated>2022-11-22T06:00:51Z</updated>
+    <published>2022-11-22T06:32:28Z</published>
+    <updated>2022-11-22T06:32:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHHWn9vhv6AYQKAWkA-AMT8qFwgEKg4IACoGCAowqvB9MMTRCTCMk6UG?oc=5</id>
@@ -169,42 +169,6 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
-    <id>tag:flickr.com,2005:/photo/52439810767</id>
-    <published>2022-10-19T23:17:22Z</published>
-    <updated>2022-10-19T23:17:22Z</updated>
-    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>1gl</name>
-      <uri>https://www.flickr.com/people/1gl/</uri>
-      <flickr:nsid>85461564@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Cittie Of York, High Holborn</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
     <id>tag:flickr.com,2005:/photo/52440835993</id>
     <published>2022-10-19T23:17:21Z</published>
@@ -223,6 +187,42 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765325/"/>
+    <id>tag:flickr.com,2005:/photo/52440765325</id>
+    <published>2022-10-19T23:17:21Z</published>
+    <updated>2022-10-19T23:17:21Z</updated>
+    <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765325/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765325_9006a826b2_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765325_9006a826b2_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
