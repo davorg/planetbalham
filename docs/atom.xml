@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-25T07:13:17Z</updated>
+  <updated>2022-11-25T07:48:54Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:34 GMT, Sunset: 16:00 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:34 GMT, Sunset: 16:00 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-24T21:21:00.000+0000</id>
-    <published>2022-11-25T07:04:31Z</published>
-    <updated>2022-11-25T07:04:31Z</updated>
+    <published>2022-11-25T07:22:19Z</published>
+    <updated>2022-11-25T07:22:19Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 13°C (56°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1024mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 15:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1024mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 15:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-24T21:21:00.000+0000</id>
-    <published>2022-11-25T07:04:31Z</published>
-    <updated>2022-11-25T07:04:31Z</updated>
+    <published>2022-11-25T07:22:19Z</published>
+    <updated>2022-11-25T07:22:19Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 GMT, Sunset: 15:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-24T21:21:00.000+0000</id>
-    <published>2022-11-25T07:04:31Z</published>
-    <updated>2022-11-25T07:04:31Z</updated>
+    <published>2022-11-25T07:22:19Z</published>
+    <updated>2022-11-25T07:22:19Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jb20uYXUvMjAyMi8xMS9sZXR0ZXJzLTI2Ni_SAQA?oc=5</id>
@@ -55,11 +55,11 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMS8yMy9ncmFuZC1kZXNpZ25zLWZhbnMtZnVtZS1hcy1wYXJjaG1lbnQtd29ya3Mtcm9iYmVkLW9mLWhvdXNlLW9mLXRoZS15ZWFyLTE3ODE4MDU2L9IBAA?oc=5" target="_blank"&gt;Grand Designs fans fume as parchment works 'robbed' of House of the Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnRoZWZvcmVzdGVyLmNvLnVrL25ld3Mvc2lsdmVyd2FyZS1jb2xsZWN0aW9uLW93bmVkLWJ5LW5ld3NwYXBlci10eWNvb24tc2lyLXJheS10aW5kbGUtZ29lcy11cC1mb3ItYXVjdGlvbi01NzQzMTHSAQA?oc=5</id>
-    <title type="html">Silverware collection owned by newspaper tycoon Sir Ray Tindle goes up for auction | theforester.co.uk - The Forester</title>
-    <updated>2022-11-23T15:06:05.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LnRoZWZvcmVzdGVyLmNvLnVrL25ld3Mvc2lsdmVyd2FyZS1jb2xsZWN0aW9uLW93bmVkLWJ5LW5ld3NwYXBlci10eWNvb24tc2lyLXJheS10aW5kbGUtZ29lcy11cC1mb3ItYXVjdGlvbi01NzQzMTHSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LnRoZWZvcmVzdGVyLmNvLnVrL25ld3Mvc2lsdmVyd2FyZS1jb2xsZWN0aW9uLW93bmVkLWJ5LW5ld3NwYXBlci10eWNvb24tc2lyLXJheS10aW5kbGUtZ29lcy11cC1mb3ItYXVjdGlvbi01NzQzMTHSAQA?oc=5" target="_blank"&gt;Silverware collection owned by newspaper tycoon Sir Ray Tindle goes up for auction | theforester.co.uk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Forester&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRoZXBvc3QudWsuY29tL25ld3Mvc2lsdmVyd2FyZS1jb2xsZWN0aW9uLW93bmVkLWJ5LW5ld3NwYXBlci10eWNvb24tc2lyLXJheS10aW5kbGUtZ29lcy11cC1mb3ItYXVjdGlvbi01NzQzMTHSAQA?oc=5</id>
+    <title type="html">Silverware collection owned by newspaper tycoon Sir Ray Tindle goes up for auction | thepost.uk.com - Cornish &amp; Devon Post</title>
+    <updated>2022-11-23T15:10:28.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LnRoZXBvc3QudWsuY29tL25ld3Mvc2lsdmVyd2FyZS1jb2xsZWN0aW9uLW93bmVkLWJ5LW5ld3NwYXBlci10eWNvb24tc2lyLXJheS10aW5kbGUtZ29lcy11cC1mb3ItYXVjdGlvbi01NzQzMTHSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LnRoZXBvc3QudWsuY29tL25ld3Mvc2lsdmVyd2FyZS1jb2xsZWN0aW9uLW93bmVkLWJ5LW5ld3NwYXBlci10eWNvb24tc2lyLXJheS10aW5kbGUtZ29lcy11cC1mb3ItYXVjdGlvbi01NzQzMTHSAQA?oc=5" target="_blank"&gt;Silverware collection owned by newspaper tycoon Sir Ray Tindle goes up for auction | thepost.uk.com&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cornish &amp; Devon Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEHHWn9vhv6AYQKAWkA-AMT8qFwgEKg4IACoGCAowqvB9MMTRCTCMk6UG?oc=5</id>
