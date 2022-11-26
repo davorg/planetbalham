@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-26T01:10:22Z</updated>
+  <updated>2022-11-26T02:15:04Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 6°C (43°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1025mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1025mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 15:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-25T21:04:00.000+0000</id>
-    <published>2022-11-26T01:02:19Z</published>
-    <updated>2022-11-26T01:02:19Z</updated>
+    <published>2022-11-26T02:00:13Z</published>
+    <updated>2022-11-26T02:00:13Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 11°C (52°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1024mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:37 GMT, Sunset: 15:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-25T21:04:00.000+0000</id>
-    <published>2022-11-26T01:02:19Z</published>
-    <updated>2022-11-26T01:02:19Z</updated>
+    <published>2022-11-26T02:00:13Z</published>
+    <updated>2022-11-26T02:00:13Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1013mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:39 GMT, Sunset: 15:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-25T21:04:00.000+0000</id>
-    <published>2022-11-26T01:02:19Z</published>
-    <updated>2022-11-26T01:02:19Z</updated>
+    <published>2022-11-26T02:00:13Z</published>
+    <updated>2022-11-26T02:00:13Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbmV3LXJlYWRlcnMtY2FzcGFyLWZvcmQtY294LWthbWFsLWFuZC1sdW5hLXdvb2QtMmx2dHI1bXpn0gEA?oc=5</id>
+    <title type="html">New readers: Caspar Ford-Cox-Kamal and Luna Wood - The Times</title>
+    <updated>2022-11-26T00:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbmV3LXJlYWRlcnMtY2FzcGFyLWZvcmQtY294LWthbWFsLWFuZC1sdW5hLXdvb2QtMmx2dHI1bXpn0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbmV3LXJlYWRlcnMtY2FzcGFyLWZvcmQtY294LWthbWFsLWFuZC1sdW5hLXdvb2QtMmx2dHI1bXpn0gEA?oc=5" target="_blank"&gt;New readers: Caspar Ford-Cox-Kamal and Luna Wood&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiED0_asMh6KMCOjDxp8uy8zAqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrsXbBg?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-11-25T11:52:32.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8xMS8yNS93aHl0ZWxlYWZlLWJhbmtpbmctb24tYnVtcGVyLXdvcmxkLWN1cC1jcm93ZC1mb3ItZGVyYnkv0gFgaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIyLzExLzI1L3doeXRlbGVhZmUtYmFua2luZy1vbi1idW1wZXItd29ybGQtY3VwLWNyb3dkLWZvci1kZXJieS9hbXAv?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMi8xMS8yNS93aHl0ZWxlYWZlLWJhbmtpbmctb24tYnVtcGVyLXdvcmxkLWN1cC1jcm93ZC1mb3ItZGVyYnkv0gFgaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIyLzExLzI1L3doeXRlbGVhZmUtYmFua2luZy1vbi1idW1wZXItd29ybGQtY3VwLWNyb3dkLWZvci1kZXJieS9hbXAv?oc=5" target="_blank"&gt;Whyteleafe banking on bumper World Cup crowd for derby&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CAIiEDXkT9Z88FtbLsPAjog6nvkqGQgEKhAIACoHCAowzc-JCzDQ5psDMPi1rAc?oc=5</id>
-    <title type="html">Grand Designs fans fume as parchment works 'robbed' of House of the Year - Metro.co.uk</title>
-    <updated>2022-11-23T23:11:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMS8yMy9ncmFuZC1kZXNpZ25zLWZhbnMtZnVtZS1hcy1wYXJjaG1lbnQtd29ya3Mtcm9iYmVkLW9mLWhvdXNlLW9mLXRoZS15ZWFyLTE3ODE4MDU2L9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMS8yMy9ncmFuZC1kZXNpZ25zLWZhbnMtZnVtZS1hcy1wYXJjaG1lbnQtd29ya3Mtcm9iYmVkLW9mLWhvdXNlLW9mLXRoZS15ZWFyLTE3ODE4MDU2L9IBAA?oc=5" target="_blank"&gt;Grand Designs fans fume as parchment works 'robbed' of House of the Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeons on bicycles</title>
