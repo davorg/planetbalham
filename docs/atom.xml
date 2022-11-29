@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-29T10:13:51Z</updated>
+  <updated>2022-11-29T10:48:48Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Today: Thick Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 9°C (47°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 4°C (40°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 07:40 GMT, Sunset: 15:57 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-11-29T07:33:00.000+0000</id>
-    <published>2022-11-29T10:01:54Z</published>
-    <updated>2022-11-29T10:01:54Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 4°C (40°F) Maximum Temperature: 10°C (49°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 4°C (40°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunrise: 07:42 GMT, Sunset: 15:56 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-11-29T07:33:00.000+0000</id>
-    <published>2022-11-29T10:01:54Z</published>
-    <updated>2022-11-29T10:01:54Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 9°C (48°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1029mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:43 GMT, Sunset: 15:56 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-11-29T07:33:00.000+0000</id>
-    <published>2022-11-29T10:01:54Z</published>
-    <updated>2022-11-29T10:01:54Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CAIiEO860ehWI5p8rxkaiIzVGroqFwgEKg8IACoHCAow-4fWBzD4z0gwwtp6?oc=5</id>
     <title type="html">Sunak's hanging back on foreign policy shows how he is trapped by his party - Financial Times</title>
@@ -62,18 +32,18 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3RyYW5zcG9ydC9jaHJpc3RtYXMtdHJhdmVsLWRpc2FzdGVyLWZvci1sb25kb25lcnMtYWZ0ZXItc3RyaWtlLWdldGF3YXktY2FuY2VsbGF0aW9ucy_SAQA?oc=5" target="_blank"&gt;Christmas getaway chaos: How will rail strikes in December and January affect your travel plans?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LBC&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzExL2dldC1pbi1xdWljay10by1zZWUtdGhlLXRvb3Rpbmctc2V3aW5nLW1hY2hpbmUtbXVzZXVtLW9wZW4tZGF5LXNhdHVyZGF5LTNyZC1kZWMtMjAyMi_SAX1odHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMi8xMS9nZXQtaW4tcXVpY2stdG8tc2VlLXRoZS10b290aW5nLXNld2luZy1tYWNoaW5lLW11c2V1bS1vcGVuLWRheS1zYXR1cmRheS0zcmQtZGVjLTIwMjIvYW1wLw?oc=5</id>
-    <title type="html">Get in quick to see the Tooting Sewing Machine Museum open day, Saturday, 3rd Dec 2022 - BrixtonBuzz</title>
-    <updated>2022-11-28T09:00:53.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzExL2dldC1pbi1xdWljay10by1zZWUtdGhlLXRvb3Rpbmctc2V3aW5nLW1hY2hpbmUtbXVzZXVtLW9wZW4tZGF5LXNhdHVyZGF5LTNyZC1kZWMtMjAyMi_SAX1odHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMi8xMS9nZXQtaW4tcXVpY2stdG8tc2VlLXRoZS10b290aW5nLXNld2luZy1tYWNoaW5lLW11c2V1bS1vcGVuLWRheS1zYXR1cmRheS0zcmQtZGVjLTIwMjIvYW1wLw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmJyaXh0b25idXp6LmNvbS8yMDIyLzExL2dldC1pbi1xdWljay10by1zZWUtdGhlLXRvb3Rpbmctc2V3aW5nLW1hY2hpbmUtbXVzZXVtLW9wZW4tZGF5LXNhdHVyZGF5LTNyZC1kZWMtMjAyMi_SAX1odHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMi8xMS9nZXQtaW4tcXVpY2stdG8tc2VlLXRoZS10b290aW5nLXNld2luZy1tYWNoaW5lLW11c2V1bS1vcGVuLWRheS1zYXR1cmRheS0zcmQtZGVjLTIwMjIvYW1wLw?oc=5" target="_blank"&gt;Get in quick to see the Tooting Sewing Machine Museum open day, Saturday, 3rd Dec 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BrixtonBuzz&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmJvcmRvbmhlcmFsZC5jb20vbmV3cy9waWVycmVwb250LWZhcm0tbmV3LWJyZXdlcnktdGVuYW50LXRvLW9wZW4tc2V2ZW4tZGF5cy1hLXdlZWstNTc0NDEz0gEA?oc=5</id>
     <title type="html">Pierrepont Farm: New brewery tenant 'to open seven days a week' | bordonherald.com - Bordon Herald</title>
     <updated>2022-11-27T07:04:01.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LmJvcmRvbmhlcmFsZC5jb20vbmV3cy9waWVycmVwb250LWZhcm0tbmV3LWJyZXdlcnktdGVuYW50LXRvLW9wZW4tc2V2ZW4tZGF5cy1hLXdlZWstNTc0NDEz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LmJvcmRvbmhlcmFsZC5jb20vbmV3cy9waWVycmVwb250LWZhcm0tbmV3LWJyZXdlcnktdGVuYW50LXRvLW9wZW4tc2V2ZW4tZGF5cy1hLXdlZWstNTc0NDEz0gEA?oc=5" target="_blank"&gt;Pierrepont Farm: New brewery tenant 'to open seven days a week' | bordonherald.com&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bordon Herald&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LnRyaTI0Ny5jb20vdHJpYXRobG9uLW5ld3MvZWxpdGUvaXJvbm1hbi1pc3JhZWwtMjAyMi1yZXN1bHRzLXJlcG9ydNIBAA?oc=5</id>
+    <title type="html">IRONMAN Israel 2022: Astle and Lange cap off season with wins - TRI247</title>
+    <updated>2022-11-25T13:31:28.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LnRyaTI0Ny5jb20vdHJpYXRobG9uLW5ld3MvZWxpdGUvaXJvbm1hbi1pc3JhZWwtMjAyMi1yZXN1bHRzLXJlcG9ydNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LnRyaTI0Ny5jb20vdHJpYXRobG9uLW5ld3MvZWxpdGUvaXJvbm1hbi1pc3JhZWwtMjAyMi1yZXN1bHRzLXJlcG9ydNIBAA?oc=5" target="_blank"&gt;IRONMAN Israel 2022: Astle and Lange cap off season with wins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TRI247&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeons on bicycles</title>
@@ -95,35 +65,6 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52474763761_b47763c581_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bicycles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Pigeon perches</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52475230105/"/>
-    <id>tag:flickr.com,2005:/photo/52475230105</id>
-    <published>2022-11-03T17:23:18Z</published>
-    <updated>2022-11-03T17:23:18Z</updated>
-    <flickr:date_taken>2022-11-03T13:35:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T13:35:52-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52475230105/" title="Pigeon perches"&gt;&lt;img src="https://live.staticflickr.com/65535/52475230105_361964132d_m.jpg" width="240" height="150" alt="Pigeon perches" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52475230105_361964132d_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
@@ -223,6 +164,42 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765325_9006a826b2_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765625/"/>
+    <id>tag:flickr.com,2005:/photo/52440765625</id>
+    <published>2022-10-19T23:17:20Z</published>
+    <updated>2022-10-19T23:17:20Z</updated>
+    <flickr:date_taken>2022-10-17T14:58:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:58:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765625/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765625_1e6f77342d_m.jpg" width="180" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
