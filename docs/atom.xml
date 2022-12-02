@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-01T23:48:40Z</updated>
+  <updated>2022-12-02T00:25:11Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (40°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1027mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-01T21:06:00.000+0000</id>
-    <published>2022-12-01T23:38:50Z</published>
-    <updated>2022-12-01T23:38:50Z</updated>
+    <published>2022-12-02T00:02:30Z</published>
+    <updated>2022-12-02T00:02:30Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 8°C (46°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 5°C (40°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 07:46 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-01T21:06:00.000+0000</id>
-    <published>2022-12-01T23:38:50Z</published>
-    <updated>2022-12-01T23:38:50Z</updated>
+    <published>2022-12-02T00:02:30Z</published>
+    <updated>2022-12-02T00:02:30Z</updated>
   </entry>
   <entry>
     <title>Saturday: Thick Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (44°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-01T21:06:00.000+0000</id>
-    <published>2022-12-01T23:38:50Z</published>
-    <updated>2022-12-01T23:38:50Z</updated>
+    <published>2022-12-02T00:02:30Z</published>
+    <updated>2022-12-02T00:02:30Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3RyYXZlbC9uZXdzLWFuZC1hZHZpY2UvY2hyaXN0bWFzLWVuZ2luZWVyaW5nLXJhaWwtbmV0d29yay1sb25kb24tdHJhaW5zLWIyMjM2ODc5Lmh0bWzSAXdodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay90cmF2ZWwvbmV3cy1hbmQtYWR2aWNlL2NocmlzdG1hcy1lbmdpbmVlcmluZy1yYWlsLW5ldHdvcmstbG9uZG9uLXRyYWlucy1iMjIzNjg3OS5odG1sP2FtcA?oc=5</id>
@@ -134,36 +134,38 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>273/365 - I would walk 500 miles</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/spannarama/52468593469/"/>
-    <id>tag:flickr.com,2005:/photo/52468593469</id>
-    <published>2022-10-31T20:34:34Z</published>
-    <updated>2022-10-31T20:34:34Z</updated>
-    <flickr:date_taken>2022-10-01T20:35:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-01T20:35:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/spannarama/"&gt;Spannarama&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810692/"/>
+    <id>tag:flickr.com,2005:/photo/52439810692</id>
+    <published>2022-10-19T23:17:23Z</published>
+    <updated>2022-10-19T23:17:23Z</updated>
+    <flickr:date_taken>2022-10-17T14:59:23-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:59:23-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/spannarama/52468593469/" title="273/365 - I would walk 500 miles"&gt;&lt;img src="https://live.staticflickr.com/65535/52468593469_086d5eb5e4_m.jpg" width="180" height="240" alt="273/365 - I would walk 500 miles" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810692/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810692_5504745c67_m.jpg" width="240" height="180" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Da da da!&lt;br /&gt;
-&lt;br /&gt;
-Had a pretty relaxed day today - other than changing the bed this morning - then we got all dressed up and drove over to Balham in the evening for my friend Mags's wedding reception.  Always weird turning up sober when the party's in full swing and trying to join in, but we were soon singing along to the excellent wedding band and I even had a few (sober) dances, too.  My friends Char and Maw from work were there, too, as was our former colleague Tessa - was good to catch up with them all, and Mags looked like she was having a great time :)&lt;br /&gt;
-&lt;br /&gt;
-Tim and I were still feeling a bit under the weather, so we didn't stay right until the end - but we did make it to nearly 11pm, and then drove home again.  Late to bed, and very croaky from trying to talk/shout over the music!&lt;/p&gt;</content>
+</content>
     <author>
-      <name>Spannarama</name>
-      <uri>https://www.flickr.com/people/spannarama/</uri>
-      <flickr:nsid>39944805@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7640/buddyicons/39944805@N00.jpg?1427661140#39944805@N00</flickr:buddyicon>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52468593469_086d5eb5e4_b.jpg"/>
-    <category term="365" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="october" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dancing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weddingreception" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810692_5504745c67_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
