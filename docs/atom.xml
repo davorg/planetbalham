@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-02T20:48:49Z</updated>
+  <updated>2022-12-02T21:13:11Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 4°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (40°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (40°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunset: 15:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-02T09:10:00.000+0000</id>
-    <published>2022-12-02T20:03:20Z</published>
-    <updated>2022-12-02T20:03:20Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-02T19:28:00.000+0000</id>
+    <published>2022-12-02T21:00:44Z</published>
+    <updated>2022-12-02T21:00:44Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (44°F)</title>
@@ -26,19 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:46 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-02T09:10:00.000+0000</id>
-    <published>2022-12-02T20:03:20Z</published>
-    <updated>2022-12-02T20:03:20Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-02T19:28:00.000+0000</id>
+    <published>2022-12-02T21:00:44Z</published>
+    <updated>2022-12-02T21:00:44Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thick Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-02T09:10:00.000+0000</id>
-    <published>2022-12-02T20:03:20Z</published>
-    <updated>2022-12-02T20:03:20Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-02T19:28:00.000+0000</id>
+    <published>2022-12-02T21:00:44Z</published>
+    <updated>2022-12-02T21:00:44Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5</id>
+    <title type="html">Mum of boy who died after eating popcorn hopes to stop terrible losses - Metro.co.uk</title>
+    <updated>2022-12-02T20:43:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5" target="_blank"&gt;Mum of boy who died after eating popcorn hopes to stop terrible losses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy90di9vbmx5LWZvb2xzLWhvcnNlcy1pY29uLXRlc3NhLTI1NjU1NjYz0gFLaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3R2L29ubHktZm9vbHMtaG9yc2VzLWljb24tdGVzc2EtMjU2NTU2NjMuYW1w?oc=5</id>
@@ -68,24 +75,17 @@
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvdGltZS1pcy1vZi10aGUtZXNzZW5jZS1pdHMtb3VyLW1vc3QtdmFsdWFibGUtcmVzb3VyY2UtcTA2a3dwenJx0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvdGltZS1pcy1vZi10aGUtZXNzZW5jZS1pdHMtb3VyLW1vc3QtdmFsdWFibGUtcmVzb3VyY2UtcTA2a3dwenJx0gEA?oc=5" target="_blank"&gt;Time is of the essence — it's our most valuable resource&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE0ODU2MTkvSFNCQy1hbm5vdW5jZXMtQ0xPU0UtMTE0LWJyYW5jaGVzLVVLLXllYXItYmxhbWVzLXBhbmRlbWljLmh0bWzSAXRodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNDg1NjE5L2FtcC9IU0JDLWFubm91bmNlcy1DTE9TRS0xMTQtYnJhbmNoZXMtVUsteWVhci1ibGFtZXMtcGFuZGVtaWMuaHRtbA?oc=5</id>
-    <title type="html">HSBC closures: Which UK branches are closing next year? - Daily Mail</title>
-    <updated>2022-11-30T11:46:08.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE0ODU2MTkvSFNCQy1hbm5vdW5jZXMtQ0xPU0UtMTE0LWJyYW5jaGVzLVVLLXllYXItYmxhbWVzLXBhbmRlbWljLmh0bWzSAXRodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNDg1NjE5L2FtcC9IU0JDLWFubm91bmNlcy1DTE9TRS0xMTQtYnJhbmNoZXMtVUsteWVhci1ibGFtZXMtcGFuZGVtaWMuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE0ODU2MTkvSFNCQy1hbm5vdW5jZXMtQ0xPU0UtMTE0LWJyYW5jaGVzLVVLLXllYXItYmxhbWVzLXBhbmRlbWljLmh0bWzSAXRodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNDg1NjE5L2FtcC9IU0JDLWFubm91bmNlcy1DTE9TRS0xMTQtYnJhbmNoZXMtVUsteWVhci1ibGFtZXMtcGFuZGVtaWMuaHRtbA?oc=5" target="_blank"&gt;HSBC closures: Which UK branches are closing next year?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Pigeon perches</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52475230105/"/>
-    <id>tag:flickr.com,2005:/photo/52475230105</id>
+    <title>Pigeons on bicycles</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52474763761/"/>
+    <id>tag:flickr.com,2005:/photo/52474763761</id>
     <published>2022-11-03T17:23:18Z</published>
     <updated>2022-11-03T17:23:18Z</updated>
-    <flickr:date_taken>2022-11-03T13:35:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T13:35:52-08:00</dc:date.Taken>
+    <flickr:date_taken>2022-11-03T13:35:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-11-03T13:35:37-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52475230105/" title="Pigeon perches"&gt;&lt;img src="https://live.staticflickr.com/65535/52475230105_361964132d_m.jpg" width="240" height="150" alt="Pigeon perches" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52474763761/" title="Pigeons on bicycles"&gt;&lt;img src="https://live.staticflickr.com/65535/52474763761_b47763c581_m.jpg" width="240" height="150" alt="Pigeons on bicycles" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -94,7 +94,7 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52475230105_361964132d_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52474763761_b47763c581_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
@@ -135,42 +135,6 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52439810767/"/>
-    <id>tag:flickr.com,2005:/photo/52439810767</id>
-    <published>2022-10-19T23:17:22Z</published>
-    <updated>2022-10-19T23:17:22Z</updated>
-    <flickr:date_taken>2022-10-17T14:59:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:59:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52439810767/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52439810767_380d534c33_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>1gl</name>
-      <uri>https://www.flickr.com/people/1gl/</uri>
-      <flickr:nsid>85461564@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52439810767_380d534c33_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -230,6 +194,42 @@ Tim and I were still feeling a bit under the weather, so we didn't stay right un
       <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765325_9006a826b2_b.jpg"/>
+    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Cittie Of York, High Holborn</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440765625/"/>
+    <id>tag:flickr.com,2005:/photo/52440765625</id>
+    <published>2022-10-19T23:17:20Z</published>
+    <updated>2022-10-19T23:17:20Z</updated>
+    <flickr:date_taken>2022-10-17T14:58:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-17T14:58:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440765625/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440765625_1e6f77342d_m.jpg" width="180" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>1gl</name>
+      <uri>https://www.flickr.com/people/1gl/</uri>
+      <flickr:nsid>85461564@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440765625_1e6f77342d_b.jpg"/>
     <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
