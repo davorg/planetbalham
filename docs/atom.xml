@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-03T21:12:59Z</updated>
+  <updated>2022-12-03T21:48:44Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -40,6 +40,46 @@
     <published>2022-12-03T21:12:48Z</published>
     <updated>2022-12-03T21:12:48Z</updated>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5</id>
+    <title type="html">Michelle Mitchell, the Queen of cancer research | Luxury - The Times</title>
+    <updated>2022-12-03T18:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5" target="_blank"&gt;Michelle Mitchell, the Queen of cancer research | Luxury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52539947306/"/>
+    <id>tag:flickr.com,2005:/photo/52539947306</id>
+    <published>2022-12-03T17:44:20Z</published>
+    <updated>2022-12-03T17:44:20Z</updated>
+    <flickr:date_taken>2022-11-27T18:16:45-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-11-27T18:16:45-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52539947306/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52539947306_830ab9c3df_m.jpg" width="159" height="240" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-23&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52539947306_830ab9c3df_b.jpg"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89e0523" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exfolder" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-24</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52540501853/"/>
@@ -128,13 +168,6 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tc29oby1ob3VzZS1zb3V0aC1sb25kb24tMjU1MzM2MzXSAQA?oc=5" target="_blank"&gt;'Taxi drivers used to be scared to take me to Balham, now there's a Soho House'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5</id>
-    <title type="html">Michelle Mitchell, the Queen of cancer research | Luxury - The Times</title>
-    <updated>2022-12-03T00:01:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5" target="_blank"&gt;Michelle Mitchell, the Queen of cancer research | Luxury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5</id>
     <title type="html">Mum of boy who died after eating popcorn hopes to stop terrible losses - Metro.co.uk</title>
     <updated>2022-12-02T20:43:00.000000000Z</updated>
@@ -161,35 +194,6 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52474763761_b47763c581_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bicycles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Pigeon perches</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52475230105/"/>
-    <id>tag:flickr.com,2005:/photo/52475230105</id>
-    <published>2022-11-03T17:23:18Z</published>
-    <updated>2022-11-03T17:23:18Z</updated>
-    <flickr:date_taken>2022-11-03T13:35:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T13:35:52-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52475230105/" title="Pigeon perches"&gt;&lt;img src="https://live.staticflickr.com/65535/52475230105_361964132d_m.jpg" width="240" height="150" alt="Pigeon perches" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52475230105_361964132d_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
