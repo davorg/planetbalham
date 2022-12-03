@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-02T23:48:45Z</updated>
+  <updated>2022-12-03T00:22:44Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1024mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-02T21:04:00.000+0000</id>
-    <published>2022-12-02T23:04:53Z</published>
-    <updated>2022-12-02T23:04:53Z</updated>
+    <published>2022-12-03T00:02:56Z</published>
+    <updated>2022-12-03T00:02:56Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 7°C (44°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 15:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-02T21:04:00.000+0000</id>
-    <published>2022-12-02T23:04:53Z</published>
-    <updated>2022-12-02T23:04:53Z</updated>
+    <published>2022-12-03T00:02:56Z</published>
+    <updated>2022-12-03T00:02:56Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thick Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 6°C (43°F)</title>
@@ -37,15 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 5°C (40°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-02T21:04:00.000+0000</id>
-    <published>2022-12-02T23:04:53Z</published>
-    <updated>2022-12-02T23:04:53Z</updated>
+    <published>2022-12-03T00:02:56Z</published>
+    <updated>2022-12-03T00:02:56Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5</id>
-    <title type="html">Mum of boy who died after eating popcorn hopes to stop terrible losses - Metro.co.uk</title>
-    <updated>2022-12-02T20:43:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L9IBc2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8wMi9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtdGVycmlibGUtbG9zc2VzLTE3ODcwNDA3L2FtcC8?oc=5" target="_blank"&gt;Mum of boy who died after eating popcorn hopes to stop terrible losses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5</id>
+    <title type="html">Michelle Mitchell, the Queen of cancer research | Luxury - The Times</title>
+    <updated>2022-12-03T00:01:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbWljaGVsbGUtbWl0Y2hlbGwtaW50ZXJ2aWV3LWNhbmNlci1yZXNlYXJjaC11ay1jaGllZi1leGVjdXRpdmUtdGltZXMtbHV4dXJ5LWM2N2RucXF0M9IBAA?oc=5" target="_blank"&gt;Michelle Mitchell, the Queen of cancer research | Luxury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbmV3cy93b3JsZC9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtbW9yZS10ZXJyaWJsZS1sb3NzZXMvYXItQUExNFFnTEvSAQA?oc=5</id>
+    <title type="html">Mum of boy who died after eating popcorn hopes to stop more 'terrible losses' - msnNOW</title>
+    <updated>2022-12-02T20:43:18.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbmV3cy93b3JsZC9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtbW9yZS10ZXJyaWJsZS1sb3NzZXMvYXItQUExNFFnTEvSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbmV3cy93b3JsZC9tdW0tb2YtYm95LXdoby1kaWVkLWFmdGVyLWVhdGluZy1wb3Bjb3JuLWhvcGVzLXRvLXN0b3AtbW9yZS10ZXJyaWJsZS1sb3NzZXMvYXItQUExNFFnTEvSAQA?oc=5" target="_blank"&gt;Mum of boy who died after eating popcorn hopes to stop more 'terrible losses'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWluZmF0dWF0aW9uLmNvbS9sb25kb24vZ3VpZGVzL2FsdGVybmF0aXZlLXdpbnRlci13b25kZXJsYW5kLWZlc3RpdmUtcmVzdGF1cmFudHMtbG9uZG9u0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-12-01T15:13:10.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3RyYXZlbC9uZXdzLWFuZC1hZHZpY2UvY2hyaXN0bWFzLWVuZ2luZWVyaW5nLXJhaWwtbmV0d29yay1sb25kb24tdHJhaW5zLWIyMjM2ODc5Lmh0bWzSAXdodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay90cmF2ZWwvbmV3cy1hbmQtYWR2aWNlL2NocmlzdG1hcy1lbmdpbmVlcmluZy1yYWlsLW5ldHdvcmstbG9uZG9uLXRyYWlucy1iMjIzNjg3OS5odG1sP2FtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL3RyYXZlbC9uZXdzLWFuZC1hZHZpY2UvY2hyaXN0bWFzLWVuZ2luZWVyaW5nLXJhaWwtbmV0d29yay1sb25kb24tdHJhaW5zLWIyMjM2ODc5Lmh0bWzSAXdodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay90cmF2ZWwvbmV3cy1hbmQtYWR2aWNlL2NocmlzdG1hcy1lbmdpbmVlcmluZy1yYWlsLW5ldHdvcmstbG9uZG9uLXRyYWlucy1iMjIzNjg3OS5odG1sP2FtcA?oc=5" target="_blank"&gt;All the rail engineering works happening over the Christmas period – and which trains are affected&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Independent&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vd3d3LmZ1bGhhbXN3Ni5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTJiLmh0bdIBAA?oc=5</id>
-    <title type="html">Metroline Bus Strikes Suspended After New Pay Offer - Fulhamsw6.com</title>
-    <updated>2022-12-01T13:15:35.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LmZ1bGhhbXN3Ni5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTJiLmh0bdIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LmZ1bGhhbXN3Ni5jb20vcGFnZS9zaGFyZWQvY29tbW9uL2NvbmJ1c3N0cmlrZTIyMTJiLmh0bdIBAA?oc=5" target="_blank"&gt;Metroline Bus Strikes Suspended After New Pay Offer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fulhamsw6.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Pigeons on bicycles</title>
