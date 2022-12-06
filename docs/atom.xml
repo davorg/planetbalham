@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-06T11:13:02Z</updated>
+  <updated>2022-12-06T11:48:38Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1024mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-06T09:13:00.000+0000</id>
-    <published>2022-12-06T11:01:06Z</published>
-    <updated>2022-12-06T11:01:06Z</updated>
+    <published>2022-12-06T11:47:01Z</published>
+    <updated>2022-12-06T11:47:01Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -2°C (29°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1022mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:51 GMT, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-06T09:13:00.000+0000</id>
-    <published>2022-12-06T11:01:06Z</published>
-    <updated>2022-12-06T11:01:06Z</updated>
+    <published>2022-12-06T11:47:01Z</published>
+    <updated>2022-12-06T11:47:01Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: -3°C (27°F) Maximum Temperature: 2°C (36°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (36°F), Minimum Temperature: -3°C (27°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-06T09:13:00.000+0000</id>
-    <published>2022-12-06T11:01:06Z</published>
-    <updated>2022-12-06T11:01:06Z</updated>
+    <published>2022-12-06T11:47:01Z</published>
+    <updated>2022-12-06T11:47:01Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9lbWVyZ2VuY3kta2l0cy1mcm9tLXN0LWdlb3JnZXMtd2lsbC1zYXZlLXNjaG9vbGNoaWxkcmVuLWhhcmJvdXJpbmctZGVhZGx5LWFsbGVyZ2llcy_SAQA?oc=5</id>
+    <title type="html">Emergency kits from St George's will save schoolchildren harbouring deadly allergies - London News Online</title>
+    <updated>2022-12-06T11:11:34.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9lbWVyZ2VuY3kta2l0cy1mcm9tLXN0LWdlb3JnZXMtd2lsbC1zYXZlLXNjaG9vbGNoaWxkcmVuLWhhcmJvdXJpbmctZGVhZGx5LWFsbGVyZ2llcy_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9lbWVyZ2VuY3kta2l0cy1mcm9tLXN0LWdlb3JnZXMtd2lsbC1zYXZlLXNjaG9vbGNoaWxkcmVuLWhhcmJvdXJpbmctZGVhZGx5LWFsbGVyZ2llcy_SAQA?oc=5" target="_blank"&gt;Emergency kits from St George's will save schoolchildren harbouring deadly allergies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3RyYW5zcG9ydC9jaHJpc3RtYXMtcmFpbC1jaGFvcy1hcy1zdHJpa2UtZ2V0YXdheS1jYW5jZWxsYXRpb25zLWFubm91bmNlZC_SAWRodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy90cmFuc3BvcnQvY2hyaXN0bWFzLXJhaWwtY2hhb3MtYXMtc3RyaWtlLWdldGF3YXktY2FuY2VsbGF0aW9ucy1hbm5vdW5jZWQv?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2022-12-05T13:41:45.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWxvc2VzLWJhdHRsZS0yNTY3NjA1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWxvc2VzLWJhdHRsZS0yNTY3NjA1NS5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWxvc2VzLWJhdHRsZS0yNTY3NjA1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWxvc2VzLWJhdHRsZS0yNTY3NjA1NS5hbXA?oc=5" target="_blank"&gt;South London man loses battle to stop neighbour building 10-foot garden wall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb25lci1kZWZlbmRzLW1vdmluZy1jcm95ZG9uLXJlc3BvbnNlLTI1Njc1ODgz0gFmaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2xvbmRvbmVyLWRlZmVuZHMtbW92aW5nLWNyb3lkb24tcmVzcG9uc2UtMjU2NzU4ODMuYW1w?oc=5</id>
-    <title type="html">Londoner defends moving to Croydon in response to friends that say 'it's worse than Ilford' - My London</title>
-    <updated>2022-12-05T13:22:24.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb25lci1kZWZlbmRzLW1vdmluZy1jcm95ZG9uLXJlc3BvbnNlLTI1Njc1ODgz0gFmaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2xvbmRvbmVyLWRlZmVuZHMtbW92aW5nLWNyb3lkb24tcmVzcG9uc2UtMjU2NzU4ODMuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb25lci1kZWZlbmRzLW1vdmluZy1jcm95ZG9uLXJlc3BvbnNlLTI1Njc1ODgz0gFmaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2xvbmRvbmVyLWRlZmVuZHMtbW92aW5nLWNyb3lkb24tcmVzcG9uc2UtMjU2NzU4ODMuYW1w?oc=5" target="_blank"&gt;Londoner defends moving to Croydon in response to friends that say 'it's worse than Ilford'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
