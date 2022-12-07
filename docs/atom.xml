@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-07T18:48:46Z</updated>
+  <updated>2022-12-07T19:13:00Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: -3°C (26°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (26°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -3°C (26°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1016mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 15:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-07T09:01:00.000+0000</id>
-    <published>2022-12-07T18:09:56Z</published>
-    <updated>2022-12-07T18:09:56Z</updated>
+    <published>2022-12-07T19:10:52Z</published>
+    <updated>2022-12-07T19:10:52Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: -3°C (27°F) Maximum Temperature: 3°C (37°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -3°C (27°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1012mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunrise: 07:52 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-07T09:01:00.000+0000</id>
-    <published>2022-12-07T18:09:56Z</published>
-    <updated>2022-12-07T18:09:56Z</updated>
+    <published>2022-12-07T19:10:52Z</published>
+    <updated>2022-12-07T19:10:52Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: -3°C (27°F) Maximum Temperature: 3°C (37°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -3°C (27°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1009mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 07:53 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-07T09:01:00.000+0000</id>
-    <published>2022-12-07T18:09:56Z</published>
-    <updated>2022-12-07T18:09:56Z</updated>
+    <published>2022-12-07T19:10:52Z</published>
+    <updated>2022-12-07T19:10:52Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL2Zhc2hpb24vamQtc3BvcnRzLXNoYXJlcy1kcmVhbS10cmFpbmVyLTI1Njk0NjQw0gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9saWZlc3R5bGUvZmFzaGlvbi9qZC1zcG9ydHMtc2hhcmVzLWRyZWFtLXRyYWluZXItMjU2OTQ2NDAuYW1w?oc=5</id>
@@ -204,38 +204,31 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Cittie Of York, High Holborn</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/1gl/52440835993/"/>
-    <id>tag:flickr.com,2005:/photo/52440835993</id>
-    <published>2022-10-19T23:17:21Z</published>
-    <updated>2022-10-19T23:17:21Z</updated>
-    <flickr:date_taken>2022-10-17T14:58:50-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-17T14:58:50-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/1gl/"&gt;1gl&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Pigeon perches</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52475230105/"/>
+    <id>tag:flickr.com,2005:/photo/52475230105</id>
+    <published>2022-11-03T17:23:18Z</published>
+    <updated>2022-11-03T17:23:18Z</updated>
+    <flickr:date_taken>2022-11-03T13:35:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-11-03T13:35:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/1gl/52440835993/" title="The Cittie Of York, High Holborn"&gt;&lt;img src="https://live.staticflickr.com/65535/52440835993_9d1f43490b_m.jpg" width="240" height="240" alt="The Cittie Of York, High Holborn" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52475230105/" title="Pigeon perches"&gt;&lt;img src="https://live.staticflickr.com/65535/52475230105_361964132d_m.jpg" width="240" height="150" alt="Pigeon perches" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-</content>
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
-      <name>1gl</name>
-      <uri>https://www.flickr.com/people/1gl/</uri>
-      <flickr:nsid>85461564@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/11/buddyicons/85461564@N00.jpg?1181500785#85461564@N00</flickr:buddyicon>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52440835993_9d1f43490b_b.jpg"/>
-    <category term="2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52475230105_361964132d_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="carpets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gumbo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="killer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mayfair" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pub" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bicycles" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clerkenwell" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exmouthmarket" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stgiles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="holborn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lads" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
