@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-07T08:14:04Z</updated>
+  <updated>2022-12-07T08:48:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2022-12-07T08:01:29Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9pLXdlbnQtcmVnZW50LXN0cmVldC1zZWUtMjU2ODg4OTDSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvaS13ZW50LXJlZ2VudC1zdHJlZXQtc2VlLTI1Njg4ODkwLmFtcA?oc=5</id>
-    <title type="html">'I went to Regent Street to see the best Christmas lights in London and it was a moment of magic' - My London</title>
-    <updated>2022-12-06T18:52:45.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9pLXdlbnQtcmVnZW50LXN0cmVldC1zZWUtMjU2ODg4OTDSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvaS13ZW50LXJlZ2VudC1zdHJlZXQtc2VlLTI1Njg4ODkwLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9pLXdlbnQtcmVnZW50LXN0cmVldC1zZWUtMjU2ODg4OTDSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvaS13ZW50LXJlZ2VudC1zdHJlZXQtc2VlLTI1Njg4ODkwLmFtcA?oc=5" target="_blank"&gt;'I went to Regent Street to see the best Christmas lights in London and it was a moment of magic'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy90di9iYmMtbmlnZWxsYXMtZWF0LWNvb2stcmVwZWF0LTI1Njg4MzE30gFLaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3R2L2JiYy1uaWdlbGxhcy1lYXQtY29vay1yZXBlYXQtMjU2ODgzMTcuYW1w?oc=5</id>
     <title type="html">Nigella Lawson's life from husband's tragic death to famous dad with same name - My London</title>
     <updated>2022-12-06T18:20:10.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2022-12-06T14:01:14.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy5uZXdjaXZpbGVuZ2luZWVyLmNvbS9sYXRlc3QvY2hyaXN0bWFzLXN0cmlrZXMtd2lsbC1kaXNydXB0LTEyMG0tb2YtcGxhbm5lZC1uZXR3b3JrLXJhaWwtZW5naW5lZXJpbmctdXBncmFkZXMtMDYtMTItMjAyMi_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy5uZXdjaXZpbGVuZ2luZWVyLmNvbS9sYXRlc3QvY2hyaXN0bWFzLXN0cmlrZXMtd2lsbC1kaXNydXB0LTEyMG0tb2YtcGxhbm5lZC1uZXR3b3JrLXJhaWwtZW5naW5lZXJpbmctdXBncmFkZXMtMDYtMTItMjAyMi_SAQA?oc=5" target="_blank"&gt;Christmas strikes will disrupt £120M of planned Network Rail engineering upgrades&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;New Civil Engineer&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvaS10cmllZC12aXJhbC1taWxpdGFyeS1tZXRob2QtMjU2NjE0MTnSAVBodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvaGVhbHRoL2ktdHJpZWQtdmlyYWwtbWlsaXRhcnktbWV0aG9kLTI1NjYxNDE5LmFtcA?oc=5</id>
+    <title type="html">'I tried the viral military method of getting to sleep in two minutes and I was blown away' - My London</title>
+    <updated>2022-12-06T12:57:26.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvaS10cmllZC12aXJhbC1taWxpdGFyeS1tZXRob2QtMjU2NjE0MTnSAVBodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvaGVhbHRoL2ktdHJpZWQtdmlyYWwtbWlsaXRhcnktbWV0aG9kLTI1NjYxNDE5LmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvaS10cmllZC12aXJhbC1taWxpdGFyeS1tZXRob2QtMjU2NjE0MTnSAVBodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvaGVhbHRoL2ktdHJpZWQtdmlyYWwtbWlsaXRhcnktbWV0aG9kLTI1NjYxNDE5LmFtcA?oc=5" target="_blank"&gt;'I tried the viral military method of getting to sleep in two minutes and I was blown away'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
