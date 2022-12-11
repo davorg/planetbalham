@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-11T22:13:20Z</updated>
+  <updated>2022-12-11T22:48:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (31°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-11T19:30:00.000+0000</id>
-    <published>2022-12-11T22:01:33Z</published>
-    <updated>2022-12-11T22:01:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-11T21:03:00.000+0000</id>
+    <published>2022-12-11T22:29:36Z</published>
+    <updated>2022-12-11T22:29:36Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Cloud, Minimum Temperature: -1°C (29°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Monday: Light Cloud, Minimum Temperature: -2°C (29°F) Maximum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (29°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -2°C (29°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-11T19:30:00.000+0000</id>
-    <published>2022-12-11T22:01:33Z</published>
-    <updated>2022-12-11T22:01:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-11T21:03:00.000+0000</id>
+    <published>2022-12-11T22:29:36Z</published>
+    <updated>2022-12-11T22:29:36Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Cloud, Minimum Temperature: -1°C (30°F) Maximum Temperature: 3°C (37°F)</title>
+    <title>Tuesday: Light Cloud, Minimum Temperature: -1°C (30°F) Maximum Temperature: 2°C (36°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -1°C (30°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (36°F), Minimum Temperature: -1°C (30°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 15:52 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-11T19:30:00.000+0000</id>
-    <published>2022-12-11T22:01:33Z</published>
-    <updated>2022-12-11T22:01:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-11T21:03:00.000+0000</id>
+    <published>2022-12-11T22:29:36Z</published>
+    <updated>2022-12-11T22:29:36Z</updated>
   </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
