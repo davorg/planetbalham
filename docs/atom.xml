@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-12T14:13:24Z</updated>
+  <updated>2022-12-12T14:48:40Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -4°C (25°F) Maximum Temperature: 1°C (34°F)</title>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvbG9jYWwtbXVtLXdpbnMtYmF0dGxlLXRvLXNhdmUtaWNvbmljLWJhbGhhbS1zaWduLTE2Mjc5NNIBAA?oc=5</id>
+    <title type="html">Local mum wins battle to save iconic Balham sign - Clapham Nub News</title>
+    <updated>2022-12-12T14:46:03.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvbG9jYWwtbXVtLXdpbnMtYmF0dGxlLXRvLXNhdmUtaWNvbmljLWJhbGhhbS1zaWduLTE2Mjc5NNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvbG9jYWwtbXVtLXdpbnMtYmF0dGxlLXRvLXNhdmUtaWNvbmljLWJhbGhhbS1zaWduLTE2Mjc5NNIBAA?oc=5" target="_blank"&gt;Local mum wins battle to save iconic Balham sign&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: -4°C (25°F) Maximum Temperature: 1°C (33°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (34°F), Minimum Temperature: -4°C (25°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1009mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (33°F), Minimum Temperature: -4°C (25°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1009mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-12T09:09:00.000+0000</id>
-    <published>2022-12-12T14:01:59Z</published>
-    <updated>2022-12-12T14:01:59Z</updated>
+    <published>2022-12-12T14:44:44Z</published>
+    <updated>2022-12-12T14:44:44Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (37°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (37°F), Minimum Temperature: -1°C (31°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-12T09:09:00.000+0000</id>
-    <published>2022-12-12T14:01:59Z</published>
-    <updated>2022-12-12T14:01:59Z</updated>
+    <published>2022-12-12T14:44:44Z</published>
+    <updated>2022-12-12T14:44:44Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 3°C (38°F)</title>
@@ -37,8 +44,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -2°C (28°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1005mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 15:52 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-12T09:09:00.000+0000</id>
-    <published>2022-12-12T14:01:59Z</published>
-    <updated>2022-12-12T14:01:59Z</updated>
+    <published>2022-12-12T14:44:44Z</published>
+    <updated>2022-12-12T14:44:44Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2V4cGxhaW5lZC93aGVuLWFyZS1kZWNlbWJlci10cmFpbi1zdHJpa2VzLWNocmlzdG1hcy1lbmdpbmVlcmluZy13b3Jrcy_SAWFodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy9leHBsYWluZWQvd2hlbi1hcmUtZGVjZW1iZXItdHJhaW4tc3RyaWtlcy1jaHJpc3RtYXMtZW5naW5lZXJpbmctd29ya3Mv?oc=5</id>
+    <title type="html">Christmas getaway chaos: When are train strikes in December and January and what rail networks are affected? - LBC</title>
+    <updated>2022-12-12T14:20:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2V4cGxhaW5lZC93aGVuLWFyZS1kZWNlbWJlci10cmFpbi1zdHJpa2VzLWNocmlzdG1hcy1lbmdpbmVlcmluZy13b3Jrcy_SAWFodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy9leHBsYWluZWQvd2hlbi1hcmUtZGVjZW1iZXItdHJhaW4tc3RyaWtlcy1jaHJpc3RtYXMtZW5naW5lZXJpbmctd29ya3Mv?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL2V4cGxhaW5lZC93aGVuLWFyZS1kZWNlbWJlci10cmFpbi1zdHJpa2VzLWNocmlzdG1hcy1lbmdpbmVlcmluZy13b3Jrcy_SAWFodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy9leHBsYWluZWQvd2hlbi1hcmUtZGVjZW1iZXItdHJhaW4tc3RyaWtlcy1jaHJpc3RtYXMtZW5naW5lZXJpbmctd29ya3Mv?oc=5" target="_blank"&gt;Christmas getaway chaos: When are train strikes in December and January and what rail networks are affected?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LBC&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjIvMTIvMTIvY29tZm9ydGFibGUtamVyc2V5LWJ1bGxzLWNsaW1iLWxlYWd1ZS1sYWRkZXIv0gEA?oc=5</id>
@@ -109,20 +123,6 @@
     <updated>2022-12-11T05:00:00.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS9sb25kb24tbmV4dC1wbGFjZS10by1saXZlLTI1Njc0NTY00gFOaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3Byb3BlcnR5L2xvbmRvbi1uZXh0LXBsYWNlLXRvLWxpdmUtMjU2NzQ1NjQuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS9sb25kb24tbmV4dC1wbGFjZS10by1saXZlLTI1Njc0NTY00gFOaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3Byb3BlcnR5L2xvbmRvbi1uZXh0LXBsYWNlLXRvLWxpdmUtMjU2NzQ1NjQuYW1w?oc=5" target="_blank"&gt;Estate agent reveals where will be the up and coming places to live in London in the next 10 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9lYXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1uZWlnaGJvdXJob29kLWhvbWVzLXNuYXBwZWQtdXAtMjU3MTI0MTLSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvZWFzdC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1ob21lcy1zbmFwcGVkLXVwLTI1NzEyNDEyLmFtcA?oc=5</id>
-    <title type="html">London neighbourhood where homes are bought 'like it's going out of fashion' - My London</title>
-    <updated>2022-12-10T06:00:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9lYXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1uZWlnaGJvdXJob29kLWhvbWVzLXNuYXBwZWQtdXAtMjU3MTI0MTLSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvZWFzdC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1ob21lcy1zbmFwcGVkLXVwLTI1NzEyNDEyLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9lYXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1uZWlnaGJvdXJob29kLWhvbWVzLXNuYXBwZWQtdXAtMjU3MTI0MTLSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvZWFzdC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1ob21lcy1zbmFwcGVkLXVwLTI1NzEyNDEyLmFtcA?oc=5" target="_blank"&gt;London neighbourhood where homes are bought 'like it's going out of fashion'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9jb3N0LW9mLWxpdmluZy9jb3N0LWxpdmluZy1oZWFydHdhcm1pbmctcGhvdG8tc2hvd3MtMjU3MTQ3NTHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvY29zdC1vZi1saXZpbmcvY29zdC1saXZpbmctaGVhcnR3YXJtaW5nLXBob3RvLXNob3dzLTI1NzE0NzUxLmFtcA?oc=5</id>
-    <title type="html">Cost of living: Heartwarming photo shows kind resident leave baby food on doorstep for struggling neighbours - My London</title>
-    <updated>2022-12-09T16:30:07.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9jb3N0LW9mLWxpdmluZy9jb3N0LWxpdmluZy1oZWFydHdhcm1pbmctcGhvdG8tc2hvd3MtMjU3MTQ3NTHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvY29zdC1vZi1saXZpbmcvY29zdC1saXZpbmctaGVhcnR3YXJtaW5nLXBob3RvLXNob3dzLTI1NzE0NzUxLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9jb3N0LW9mLWxpdmluZy9jb3N0LWxpdmluZy1oZWFydHdhcm1pbmctcGhvdG8tc2hvd3MtMjU3MTQ3NTHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvY29zdC1vZi1saXZpbmcvY29zdC1saXZpbmctaGVhcnR3YXJtaW5nLXBob3RvLXNob3dzLTI1NzE0NzUxLmFtcA?oc=5" target="_blank"&gt;Cost of living: Heartwarming photo shows kind resident leave baby food on doorstep for struggling neighbours&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
