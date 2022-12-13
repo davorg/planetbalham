@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-13T11:13:05Z</updated>
+  <updated>2022-12-13T11:48:56Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-13T09:13:00.000+0000</id>
     <published>2022-12-13T11:03:35Z</published>
     <updated>2022-12-13T11:03:35Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vaW5ld3MuY28udWsvbmV3cy90cmFpbi1zdHJpa2VzLWRlbGF5LXJhaWwtZW5naW5lZXJpbmctd29yay1jYW5jZWxsYXRpb25zLWRlbGF5cy1uZXcteWVhci0yMDI1NTc50gEA?oc=5</id>
+    <title type="html">Rail engineering works delayed by strikes to cause cancellations and delays into new year - iNews</title>
+    <updated>2022-12-13T10:49:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vaW5ld3MuY28udWsvbmV3cy90cmFpbi1zdHJpa2VzLWRlbGF5LXJhaWwtZW5naW5lZXJpbmctd29yay1jYW5jZWxsYXRpb25zLWRlbGF5cy1uZXcteWVhci0yMDI1NTc50gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vaW5ld3MuY28udWsvbmV3cy90cmFpbi1zdHJpa2VzLWRlbGF5LXJhaWwtZW5naW5lZXJpbmctd29yay1jYW5jZWxsYXRpb25zLWRlbGF5cy1uZXcteWVhci0yMDI1NTc50gEA?oc=5" target="_blank"&gt;Rail engineering works delayed by strikes to cause cancellations and delays into new year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;iNews&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMi8xMy9uZWFybHktNDIwMDAwLXdvcmtpbmctZGF5cy1sb3N0LXRvLXN0cmlrZXMtaW4tb2N0b2Jlci0xNzkyNjQyOS_SAWJodHRwczovL21ldHJvLmNvLnVrLzIwMjIvMTIvMTMvbmVhcmx5LTQyMDAwMC13b3JraW5nLWRheXMtbG9zdC10by1zdHJpa2VzLWluLW9jdG9iZXItMTc5MjY0MjkvYW1wLw?oc=5</id>
@@ -116,13 +123,6 @@
     <updated>2022-12-11T09:00:00.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9yZWFsLWxpZmUvbG9uZG9uZXJzLXJldmVhbC1jb29sZXN0LXBsYWNlcy1saXZlLTI1Njk4MDM20gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3JlYWwtbGlmZS9sb25kb25lcnMtcmV2ZWFsLWNvb2xlc3QtcGxhY2VzLWxpdmUtMjU2OTgwMzYuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9yZWFsLWxpZmUvbG9uZG9uZXJzLXJldmVhbC1jb29sZXN0LXBsYWNlcy1saXZlLTI1Njk4MDM20gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3JlYWwtbGlmZS9sb25kb25lcnMtcmV2ZWFsLWNvb2xlc3QtcGxhY2VzLWxpdmUtMjU2OTgwMzYuYW1w?oc=5" target="_blank"&gt;Londoners reveal the coolest places to live in the capital if you're in your 20s&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9lYXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1uZWlnaGJvdXJob29kLWhvbWVzLXNuYXBwZWQtdXAtMjU3MTI0MTLSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvZWFzdC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1ob21lcy1zbmFwcGVkLXVwLTI1NzEyNDEyLmFtcA?oc=5</id>
-    <title type="html">London neighbourhood where homes are bought 'like it's going out of fashion' - My London</title>
-    <updated>2022-12-10T06:00:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9lYXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1uZWlnaGJvdXJob29kLWhvbWVzLXNuYXBwZWQtdXAtMjU3MTI0MTLSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvZWFzdC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1ob21lcy1zbmFwcGVkLXVwLTI1NzEyNDEyLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9lYXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1uZWlnaGJvdXJob29kLWhvbWVzLXNuYXBwZWQtdXAtMjU3MTI0MTLSAWJodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvZWFzdC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1ob21lcy1zbmFwcGVkLXVwLTI1NzEyNDEyLmFtcA?oc=5" target="_blank"&gt;London neighbourhood where homes are bought 'like it's going out of fashion'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
