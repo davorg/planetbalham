@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-22T09:48:38Z</updated>
+  <updated>2022-12-22T10:13:30Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Thick Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Thick Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Poor, Pressure: 1003mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:54 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-21T21:03:00.000+0000</id>
-    <published>2022-12-22T09:01:55Z</published>
-    <updated>2022-12-22T09:01:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-22T07:43:00.000+0000</id>
+    <published>2022-12-22T10:03:03Z</published>
+    <updated>2022-12-22T10:03:03Z</updated>
   </entry>
   <entry>
-    <title>Friday: Heavy Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Friday: Heavy Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1000mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 15:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-21T21:03:00.000+0000</id>
-    <published>2022-12-22T09:01:55Z</published>
-    <updated>2022-12-22T09:01:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-22T07:43:00.000+0000</id>
+    <published>2022-12-22T10:03:03Z</published>
+    <updated>2022-12-22T10:03:03Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1011mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1011mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:55 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-21T21:03:00.000+0000</id>
-    <published>2022-12-22T09:01:55Z</published>
-    <updated>2022-12-22T09:01:55Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-22T07:43:00.000+0000</id>
+    <published>2022-12-22T10:03:03Z</published>
+    <updated>2022-12-22T10:03:03Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5</id>
@@ -212,28 +212,28 @@
     <category term="seo"/>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-21</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52540432680/"/>
-    <id>tag:flickr.com,2005:/photo/52540432680</id>
-    <published>2022-12-03T17:44:19Z</published>
-    <updated>2022-12-03T17:44:19Z</updated>
-    <flickr:date_taken>2022-11-27T18:16:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-27T18:16:10-08:00</dc:date.Taken>
+    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52539947306/"/>
+    <id>tag:flickr.com,2005:/photo/52539947306</id>
+    <published>2022-12-03T17:44:20Z</published>
+    <updated>2022-12-03T17:44:20Z</updated>
+    <flickr:date_taken>2022-11-27T18:16:45-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-11-27T18:16:45-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52540432680/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-21"&gt;&lt;img src="https://live.staticflickr.com/65535/52540432680_fe3e85ac3c_m.jpg" width="240" height="158" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-21" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52539947306/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52539947306_830ab9c3df_m.jpg" width="159" height="240" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-21&lt;/p&gt;</content>
+&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-23&lt;/p&gt;</content>
     <author>
       <name>peter marshall</name>
       <uri>https://www.flickr.com/people/petermarshall/</uri>
       <flickr:nsid>69163004@N00</flickr:nsid>
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52540432680_fe3e85ac3c_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52539947306_830ab9c3df_b.jpg"/>
     <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89e0521" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89e0523" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
@@ -245,31 +245,35 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Pigeons on bicycles</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52474763761/"/>
-    <id>tag:flickr.com,2005:/photo/52474763761</id>
-    <published>2022-11-03T17:23:18Z</published>
-    <updated>2022-11-03T17:23:18Z</updated>
-    <flickr:date_taken>2022-11-03T13:35:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T13:35:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-24</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52540501853/"/>
+    <id>tag:flickr.com,2005:/photo/52540501853</id>
+    <published>2022-12-03T17:44:20Z</published>
+    <updated>2022-12-03T17:44:20Z</updated>
+    <flickr:date_taken>2022-11-27T18:16:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-11-27T18:16:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52474763761/" title="Pigeons on bicycles"&gt;&lt;img src="https://live.staticflickr.com/65535/52474763761_b47763c581_m.jpg" width="240" height="150" alt="Pigeons on bicycles" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52540501853/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-24"&gt;&lt;img src="https://live.staticflickr.com/65535/52540501853_48cf249f84_m.jpg" width="240" height="159" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-24" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
+&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-24&lt;/p&gt;</content>
     <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52474763761_b47763c581_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bokeh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bicycles" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52540501853_48cf249f84_b.jpg"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="89e0524" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exfolder" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
