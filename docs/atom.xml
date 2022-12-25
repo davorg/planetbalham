@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-25T05:13:10Z</updated>
+  <updated>2022-12-25T05:48:49Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1009mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1007mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-24T21:07:00.000+0000</id>
-    <published>2022-12-25T05:00:40Z</published>
-    <updated>2022-12-25T05:00:40Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1007mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-24T21:07:00.000+0000</id>
-    <published>2022-12-25T05:00:40Z</published>
-    <updated>2022-12-25T05:00:40Z</updated>
+    <published>2022-12-25T05:43:52Z</published>
+    <updated>2022-12-25T05:43:52Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (48°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-24T21:07:00.000+0000</id>
+    <published>2022-12-25T05:43:52Z</published>
+    <updated>2022-12-25T05:43:52Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1020mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-24T21:07:00.000+0000</id>
-    <published>2022-12-25T05:00:40Z</published>
-    <updated>2022-12-25T05:00:40Z</updated>
+    <published>2022-12-25T05:43:52Z</published>
+    <updated>2022-12-25T05:43:52Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvc3RhYmJpbmctYnVzLXNvdXRoLWxvbmRvbi1zdHJlYXRoYW0taGlnaC1yb2FkLWF0dGVtcHRlZC1tdXJkZXItYjEwNDkwNTYuaHRtbNIBdmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvc3RhYmJpbmctYnVzLXNvdXRoLWxvbmRvbi1zdHJlYXRoYW0taGlnaC1yb2FkLWF0dGVtcHRlZC1tdXJkZXItYjEwNDkwNTYuaHRtbD9hbXA?oc=5</id>
