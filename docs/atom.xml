@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-24T23:48:43Z</updated>
+  <updated>2022-12-25T00:26:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1009mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 15:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-24T21:07:00.000+0000</id>
-    <published>2022-12-24T23:36:50Z</published>
-    <updated>2022-12-24T23:36:50Z</updated>
+    <published>2022-12-25T00:02:07Z</published>
+    <updated>2022-12-25T00:02:07Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 8°C (47°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1007mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-24T21:07:00.000+0000</id>
-    <published>2022-12-24T23:36:50Z</published>
-    <updated>2022-12-24T23:36:50Z</updated>
+    <published>2022-12-25T00:02:07Z</published>
+    <updated>2022-12-25T00:02:07Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-24T21:07:00.000+0000</id>
-    <published>2022-12-24T23:36:50Z</published>
-    <updated>2022-12-24T23:36:50Z</updated>
+    <published>2022-12-25T00:02:07Z</published>
+    <updated>2022-12-25T00:02:07Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvc3RhYmJpbmctYnVzLXNvdXRoLWxvbmRvbi1zdHJlYXRoYW0taGlnaC1yb2FkLWF0dGVtcHRlZC1tdXJkZXItYjEwNDkwNTYuaHRtbNIBdmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvc3RhYmJpbmctYnVzLXNvdXRoLWxvbmRvbi1zdHJlYXRoYW0taGlnaC1yb2FkLWF0dGVtcHRlZC1tdXJkZXItYjEwNDkwNTYuaHRtbD9hbXA?oc=5</id>
@@ -67,13 +67,6 @@
     <updated>2022-12-20T08:15:36.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiqwFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvdHJhbnNwb3J0L3JhaWwtc3RyaWtlLW5ldHdvcmstcmFpbC11cmdlcy1wYXNzZW5nZXJzLXRvLWNoZWNrLXRpbWVzLW9mLWxhc3QtdHJhaW5zLXRvLWF2b2lkLWJlaW5nLXN0dWNrLWluLWxvbmRvbi1mb3ItY2hyaXN0bWFzLTM5NTk4MjfSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiqwFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvdHJhbnNwb3J0L3JhaWwtc3RyaWtlLW5ldHdvcmstcmFpbC11cmdlcy1wYXNzZW5nZXJzLXRvLWNoZWNrLXRpbWVzLW9mLWxhc3QtdHJhaW5zLXRvLWF2b2lkLWJlaW5nLXN0dWNrLWluLWxvbmRvbi1mb3ItY2hyaXN0bWFzLTM5NTk4MjfSAQA?oc=5" target="_blank"&gt;Network Rail urges passengers to check times of last trains to avoid ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iZXN0LXBsYWNlLXRvLXJhaXNlLWtpZHMtMjU3NjE0NzPSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvYmVzdC1wbGFjZS10by1yYWlzZS1raWRzLTI1NzYxNDczLmFtcA?oc=5</id>
-    <title type="html">The super cool corner of London so rammed full of young families it is nicknamed 'Nappy Valley' - My London</title>
-    <updated>2022-12-15T17:51:32.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iZXN0LXBsYWNlLXRvLXJhaXNlLWtpZHMtMjU3NjE0NzPSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvYmVzdC1wbGFjZS10by1yYWlzZS1raWRzLTI1NzYxNDczLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iZXN0LXBsYWNlLXRvLXJhaXNlLWtpZHMtMjU3NjE0NzPSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvYmVzdC1wbGFjZS10by1yYWlzZS1raWRzLTI1NzYxNDczLmFtcA?oc=5" target="_blank"&gt;The super cool corner of London so rammed full of young families it is nicknamed 'Nappy Valley'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bench buddies</title>
@@ -162,6 +155,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMigAFodHRwczovL3d3dy5zd2xvbmRvbmVyLmNvLnVrL25ld3MvMTUxMjIwMjItYmFsaGFtLXJlc2lkZW50LW9yZ2FuaXNlcy1jaHJpc3RtYXMtZGF5LWV2ZW50LXRvLXRhY2tsZS1sb25lbGluZXNzLWFtb25nLXRoZS1vdmVyLTYwc9IBAA?oc=5</id>
+    <title type="html">Balham resident organises Christmas Day event to tackle loneliness ... - South West Londoner</title>
+    <updated>2022-12-15T08:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5zd2xvbmRvbmVyLmNvLnVrL25ld3MvMTUxMjIwMjItYmFsaGFtLXJlc2lkZW50LW9yZ2FuaXNlcy1jaHJpc3RtYXMtZGF5LWV2ZW50LXRvLXRhY2tsZS1sb25lbGluZXNzLWFtb25nLXRoZS1vdmVyLTYwc9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5zd2xvbmRvbmVyLmNvLnVrL25ld3MvMTUxMjIwMjItYmFsaGFtLXJlc2lkZW50LW9yZ2FuaXNlcy1jaHJpc3RtYXMtZGF5LWV2ZW50LXRvLXRhY2tsZS1sb25lbGluZXNzLWFtb25nLXRoZS1vdmVyLTYwc9IBAA?oc=5" target="_blank"&gt;Balham resident organises Christmas Day event to tackle loneliness ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/12/5-reasons-why-using-ai-to-generate-blog-posts-can-destroy-your-seo.html" type="text/html"/>
