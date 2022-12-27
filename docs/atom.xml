@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-27T09:13:19Z</updated>
+  <updated>2022-12-27T09:49:00Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1020mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:57 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-26T21:06:00.000+0000</id>
-    <published>2022-12-27T09:01:31Z</published>
-    <updated>2022-12-27T09:01:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-27T07:19:00.000+0000</id>
+    <published>2022-12-27T09:23:15Z</published>
+    <updated>2022-12-27T09:23:15Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Wednesday: Light Rain, Minimum Temperature: 7°C (46°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1002mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:58 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 7°C (46°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1002mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:58 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-26T21:06:00.000+0000</id>
-    <published>2022-12-27T09:01:31Z</published>
-    <updated>2022-12-27T09:01:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-27T07:19:00.000+0000</id>
+    <published>2022-12-27T09:23:15Z</published>
+    <updated>2022-12-27T09:23:15Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1002mb, Humidity: 72%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1003mb, Humidity: 71%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:59 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-26T21:06:00.000+0000</id>
-    <published>2022-12-27T09:01:31Z</published>
-    <updated>2022-12-27T09:01:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-27T07:19:00.000+0000</id>
+    <published>2022-12-27T09:23:15Z</published>
+    <updated>2022-12-27T09:23:15Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjIvMTIvMjcvd2FudC1nZXQtYWhlYWQtdHJlbmRzLTIwMjMtZml2ZS1rZXktbmFtZXMta25vdy_SAQA?oc=5</id>
@@ -48,11 +48,11 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjIvMTIvMjcvd2FudC1nZXQtYWhlYWQtdHJlbmRzLTIwMjMtZml2ZS1rZXktbmFtZXMta25vdy_SAQA?oc=5" target="_blank"&gt;Want to get ahead of the trends in 2023? Here are the five key ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAWJodHRwczovL3d3dy5vbmxvbmRvbi5jby51ay9qb2huLXZhbmVzLWxvbmRvbi1zdG9yaWVzLWZ1bGhhbS0xMC1pcHN3aWNoLXRvd24taS1ib3hpbmctZGF5LTE5NjMvYW1wLw?oc=5</id>
-    <title type="html">John Vane's London Stories: Fulham 10, Ipswich Town I, Boxing Day 1963 - onlondon.co.uk</title>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAQA?oc=5</id>
+    <title type="html">John Vane's London Stories: Fulham 10, Ipswich Town I, Boxing ... - onlondon.co.uk</title>
     <updated>2022-12-26T23:31:27.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAWJodHRwczovL3d3dy5vbmxvbmRvbi5jby51ay9qb2huLXZhbmVzLWxvbmRvbi1zdG9yaWVzLWZ1bGhhbS0xMC1pcHN3aWNoLXRvd24taS1ib3hpbmctZGF5LTE5NjMvYW1wLw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAWJodHRwczovL3d3dy5vbmxvbmRvbi5jby51ay9qb2huLXZhbmVzLWxvbmRvbi1zdG9yaWVzLWZ1bGhhbS0xMC1pcHN3aWNoLXRvd24taS1ib3hpbmctZGF5LTE5NjMvYW1wLw?oc=5" target="_blank"&gt;John Vane's London Stories: Fulham 10, Ipswich Town I, Boxing Day 1963&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;onlondon.co.uk&lt;/font&gt;</content>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAQA?oc=5" target="_blank"&gt;John Vane's London Stories: Fulham 10, Ipswich Town I, Boxing ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;onlondon.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4tY2hhcmdlZC13aXRoLWF0dGVtcHRlZC1tdXJkZXItYWZ0ZXItc3RhYmJpbmctb24tYnVzL9IBAA?oc=5</id>
@@ -67,13 +67,6 @@
     <updated>2022-12-20T12:05:09.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" target="_blank"&gt;London January 2023: Best Things To Do With Family &amp; Friends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiqwFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvdHJhbnNwb3J0L3JhaWwtc3RyaWtlLW5ldHdvcmstcmFpbC11cmdlcy1wYXNzZW5nZXJzLXRvLWNoZWNrLXRpbWVzLW9mLWxhc3QtdHJhaW5zLXRvLWF2b2lkLWJlaW5nLXN0dWNrLWluLWxvbmRvbi1mb3ItY2hyaXN0bWFzLTM5NTk4MjfSAQA?oc=5</id>
-    <title type="html">Network Rail urges passengers to check times of last trains to avoid ... - SussexWorld</title>
-    <updated>2022-12-20T08:15:36.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiqwFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvdHJhbnNwb3J0L3JhaWwtc3RyaWtlLW5ldHdvcmstcmFpbC11cmdlcy1wYXNzZW5nZXJzLXRvLWNoZWNrLXRpbWVzLW9mLWxhc3QtdHJhaW5zLXRvLWF2b2lkLWJlaW5nLXN0dWNrLWluLWxvbmRvbi1mb3ItY2hyaXN0bWFzLTM5NTk4MjfSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiqwFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvdHJhbnNwb3J0L3JhaWwtc3RyaWtlLW5ldHdvcmstcmFpbC11cmdlcy1wYXNzZW5nZXJzLXRvLWNoZWNrLXRpbWVzLW9mLWxhc3QtdHJhaW5zLXRvLWF2b2lkLWJlaW5nLXN0dWNrLWluLWxvbmRvbi1mb3ItY2hyaXN0bWFzLTM5NTk4MjfSAQA?oc=5" target="_blank"&gt;Network Rail urges passengers to check times of last trains to avoid ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bench buddies</title>
@@ -162,6 +155,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMigAFodHRwczovL3d3dy5zd2xvbmRvbmVyLmNvLnVrL25ld3MvMTUxMjIwMjItYmFsaGFtLXJlc2lkZW50LW9yZ2FuaXNlcy1jaHJpc3RtYXMtZGF5LWV2ZW50LXRvLXRhY2tsZS1sb25lbGluZXNzLWFtb25nLXRoZS1vdmVyLTYwc9IBAA?oc=5</id>
+    <title type="html">Balham resident organises Christmas Day event to tackle loneliness ... - South West Londoner</title>
+    <updated>2022-12-15T08:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5zd2xvbmRvbmVyLmNvLnVrL25ld3MvMTUxMjIwMjItYmFsaGFtLXJlc2lkZW50LW9yZ2FuaXNlcy1jaHJpc3RtYXMtZGF5LWV2ZW50LXRvLXRhY2tsZS1sb25lbGluZXNzLWFtb25nLXRoZS1vdmVyLTYwc9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL3d3dy5zd2xvbmRvbmVyLmNvLnVrL25ld3MvMTUxMjIwMjItYmFsaGFtLXJlc2lkZW50LW9yZ2FuaXNlcy1jaHJpc3RtYXMtZGF5LWV2ZW50LXRvLXRhY2tsZS1sb25lbGluZXNzLWFtb25nLXRoZS1vdmVyLTYwc9IBAA?oc=5" target="_blank"&gt;Balham resident organises Christmas Day event to tackle loneliness ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/12/5-reasons-why-using-ai-to-generate-blog-posts-can-destroy-your-seo.html" type="text/html"/>
