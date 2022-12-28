@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-12-28T22:48:45Z</updated>
+  <updated>2022-12-28T23:13:22Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 7°C (44°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 996mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunset: 15:58 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 995mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 15:59 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-28T19:22:00.000+0000</id>
-    <published>2022-12-28T22:00:09Z</published>
-    <updated>2022-12-28T22:00:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2022-12-28T21:04:00.000+0000</id>
+    <published>2022-12-28T23:06:28Z</published>
+    <updated>2022-12-28T23:06:28Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1002mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 15:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1002mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-28T19:22:00.000+0000</id>
-    <published>2022-12-28T22:00:09Z</published>
-    <updated>2022-12-28T22:00:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2022-12-28T21:04:00.000+0000</id>
+    <published>2022-12-28T23:06:28Z</published>
+    <updated>2022-12-28T23:06:28Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Friday: Heavy Rain, Minimum Temperature: 10°C (51°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 994mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:00 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (51°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 994mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:01 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-28T19:22:00.000+0000</id>
-    <published>2022-12-28T22:00:09Z</published>
-    <updated>2022-12-28T22:00:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2022-12-28T21:04:00.000+0000</id>
+    <published>2022-12-28T23:06:28Z</published>
+    <updated>2022-12-28T23:06:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMie2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIyLzEyLzI4L3doby1pcy1mcmVkLWFnYWluLXRoZS1zb3V0aC1sb25kb24tcHJvZHVjZXIteW91ci1tYXRlcy1hcmUtZGVmaW5pdGVseS10YWxraW5nLWFib3V0LTI4NzQ5ONIBAA?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL2FsZGktbGlkbC1wcmltYXJrLXBvdW5kbGFuZC1qb2JzLTI1ODQ3MzE00gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3VrLXdvcmxkLW5ld3MvYWxkaS1saWRsLXByaW1hcmstcG91bmRsYW5kLWpvYnMtMjU4NDczMTQuYW1w?oc=5" target="_blank"&gt;Aldi, Lidl, Primark and Poundland jobs on offer in London right now with wages up to £81,000 a year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjIvMTIvMjcvd2FudC1nZXQtYWhlYWQtdHJlbmRzLTIwMjMtZml2ZS1rZXktbmFtZXMta25vdy_SAQA?oc=5</id>
+    <title type="html">From 'wonder' skin treatments to 100-year-old wallpaper, the five key ... - The Telegraph</title>
+    <updated>2022-12-27T07:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjIvMTIvMjcvd2FudC1nZXQtYWhlYWQtdHJlbmRzLTIwMjMtZml2ZS1rZXktbmFtZXMta25vdy_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjIvMTIvMjcvd2FudC1nZXQtYWhlYWQtdHJlbmRzLTIwMjMtZml2ZS1rZXktbmFtZXMta25vdy_SAQA?oc=5" target="_blank"&gt;From 'wonder' skin treatments to 100-year-old wallpaper, the five key ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm9ubG9uZG9uLmNvLnVrL2pvaG4tdmFuZXMtbG9uZG9uLXN0b3JpZXMtZnVsaGFtLTEwLWlwc3dpY2gtdG93bi1pLWJveGluZy1kYXktMTk2My_SAWJodHRwczovL3d3dy5vbmxvbmRvbi5jby51ay9qb2huLXZhbmVzLWxvbmRvbi1zdG9yaWVzLWZ1bGhhbS0xMC1pcHN3aWNoLXRvd24taS1ib3hpbmctZGF5LTE5NjMvYW1wLw?oc=5</id>
     <title type="html">John Vane's London Stories: Fulham 10, Ipswich Town 1, Boxing Day 1963 - onlondon.co.uk</title>
     <updated>2022-12-26T23:31:27.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2022-12-23T08:16:21.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL21hbi1jaGFyZ2VkLXN0cmVhdGhhbS1idXMtc3RhYmJpbmctYjEwNDkwOTMuaHRtbNIBW2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL21hbi1jaGFyZ2VkLXN0cmVhdGhhbS1idXMtc3RhYmJpbmctYjEwNDkwOTMuaHRtbD9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL21hbi1jaGFyZ2VkLXN0cmVhdGhhbS1idXMtc3RhYmJpbmctYjEwNDkwOTMuaHRtbNIBW2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL21hbi1jaGFyZ2VkLXN0cmVhdGhhbS1idXMtc3RhYmJpbmctYjEwNDkwOTMuaHRtbD9hbXA?oc=5" target="_blank"&gt;Man charged with attempted murder over Streatham bus stabbing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5</id>
-    <title type="html">London January 2023: Best Things To Do With Family &amp; Friends - The Resident</title>
-    <updated>2022-12-20T12:05:09.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" target="_blank"&gt;London January 2023: Best Things To Do With Family &amp; Friends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bench buddies</title>
