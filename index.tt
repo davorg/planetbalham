@@ -2,7 +2,17 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+[% IF config.google_ga -%]
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9HSB8D1C6J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', '[% config.google_ga %]');
+</script>
+[% END -%]
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="Description" content="What's happening in SW12">
 <meta name="Keywords" content="balham,london,sw12" />
@@ -11,11 +21,11 @@
 <meta name="Author" content="Dave Cross - dave@theplanetarium.org" />
 <meta name="Robots" content="index,follow" />
 
-<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="[% cfg.url %][% cfg.feed.file.split('/').last %]" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="[% config.url %][% config.feed.file.split('/').last %]" />
 <link rel="stylesheet" href="images/HigherGround.css" type="text/css" />
 
-<title>[% cfg.title %]</title></head>
-[% titlebits = cfg.title.split(' ') -%]
+<title>[% config.title %]</title></head>
+[% titlebits = config.title.split(' ') -%]
 
 <body>
 <!-- wrap starts here -->
@@ -27,7 +37,7 @@
 	<div id="header">			
 				
 		<h1 id="logo-text"><a href="index.html" title="">[% titlebits.0  | lower %]<span>[% titlebits.1 | lower %]</span></a></h1>		
-		<p id="slogan">[% cfg.description %]</p>		
+		<p id="slogan">[% config.description %]</p>		
 			
 		<div id="header-links">
 		<!-- <p>
@@ -141,7 +151,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 		</div>	
 	
 		<div id="footer-bottom">		
-    <p>By <a href="mailto:[% cfg.author.email %]">[% cfg.author.name | html %]</a> | Built at [% feed.modified.strftime('%A %d %B %H:%M:%S %Z') %] | Powered by <a href="http://perlanet.mag-sol.com/">Perlanet</a><br />
+    <p>By <a href="mailto:[% config.author.email %]">[% config.author.name | html %]</a> | Built at [% feed.modified.strftime('%A %d %B %H:%M:%S %Z') %] | Powered by <a href="http://perlanet.mag-sol.com/">Perlanet</a><br />
     Design by: <a href="http://www.styleshout.com/">styleshout</a> | Original <a href="http://www.flickr.com/photos/rjw1/673880462/">Photo</a> by rjw1</p>
 			
 		</div>	
@@ -150,15 +160,6 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </div>
 <!-- wrap ends here -->
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-56332-5");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 
 </body>
 </html>

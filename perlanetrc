@@ -12,6 +12,7 @@ page:
 feed:
   file: docs/atom.xml
   format: Atom
+google_ga: G-9HSB8D1C6J
 cache_dir: /tmp/balham
 feeds:
   - url: https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2656580
