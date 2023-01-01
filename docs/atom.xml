@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-01T11:48:49Z</updated>
+  <updated>2023-01-01T12:14:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-01T09:12:00.000+0000</id>
-    <published>2023-01-01T11:01:58Z</published>
-    <updated>2023-01-01T11:01:58Z</updated>
+    <published>2023-01-01T12:03:13Z</published>
+    <updated>2023-01-01T12:03:13Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain Showers, Minimum Temperature: 3°C (38°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-01T09:12:00.000+0000</id>
-    <published>2023-01-01T11:01:58Z</published>
-    <updated>2023-01-01T11:01:58Z</updated>
+    <published>2023-01-01T12:03:13Z</published>
+    <updated>2023-01-01T12:03:13Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1019mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:05 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-01T09:12:00.000+0000</id>
-    <published>2023-01-01T11:01:58Z</published>
-    <updated>2023-01-01T11:01:58Z</updated>
+    <published>2023-01-01T12:03:13Z</published>
+    <updated>2023-01-01T12:03:13Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmNpbmVtYWJsZW5kLmNvbS9tb3ZpZXMvYXRvbmVtZW50LWVuZGluZy1leHBsYWluZWQtd2hlbi1yZWFsaXR5LWVuZHPSAQA?oc=5</id>
@@ -197,6 +197,35 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham bustle</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52564878012/"/>
+    <id>tag:flickr.com,2005:/photo/52564878012</id>
+    <published>2022-12-15T17:16:53Z</published>
+    <updated>2022-12-15T17:16:53Z</updated>
+    <flickr:date_taken>2022-12-15T12:02:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-12-15T12:02:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52564878012/" title="Balham bustle"&gt;&lt;img src="https://live.staticflickr.com/65535/52564878012_4bcbd3cea7_m.jpg" width="240" height="135" alt="Balham bustle" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52564878012_4bcbd3cea7_b.jpg"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bench" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/12/5-reasons-why-using-ai-to-generate-blog-posts-can-destroy-your-seo.html" type="text/html"/>
@@ -269,39 +298,6 @@
     <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="89e0523" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exfolder" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-24</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52540501853/"/>
-    <id>tag:flickr.com,2005:/photo/52540501853</id>
-    <published>2022-12-03T17:44:20Z</published>
-    <updated>2022-12-03T17:44:20Z</updated>
-    <flickr:date_taken>2022-11-27T18:16:48-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-27T18:16:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52540501853/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-24"&gt;&lt;img src="https://live.staticflickr.com/65535/52540501853_48cf249f84_m.jpg" width="240" height="159" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-24" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-24&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52540501853_48cf249f84_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89e0524" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
