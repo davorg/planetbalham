@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-01T10:49:06Z</updated>
+  <updated>2023-01-01T11:12:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1010mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:02 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-01T07:23:00.000+0000</id>
-    <published>2023-01-01T10:06:09Z</published>
-    <updated>2023-01-01T10:06:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-01T09:12:00.000+0000</id>
+    <published>2023-01-01T11:01:58Z</published>
+    <updated>2023-01-01T11:01:58Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain Showers, Minimum Temperature: 4°C (38°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Monday: Light Rain Showers, Minimum Temperature: 3°C (38°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 4°C (38°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:03 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-01T07:23:00.000+0000</id>
-    <published>2023-01-01T10:06:09Z</published>
-    <updated>2023-01-01T10:06:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-01T09:12:00.000+0000</id>
+    <published>2023-01-01T11:01:58Z</published>
+    <updated>2023-01-01T11:01:58Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1019mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:05 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1019mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:05 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-01T07:23:00.000+0000</id>
-    <published>2023-01-01T10:06:09Z</published>
-    <updated>2023-01-01T10:06:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-01T09:12:00.000+0000</id>
+    <published>2023-01-01T11:01:58Z</published>
+    <updated>2023-01-01T11:01:58Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmNpbmVtYWJsZW5kLmNvbS9tb3ZpZXMvYXRvbmVtZW50LWVuZGluZy1leHBsYWluZWQtd2hlbi1yZWFsaXR5LWVuZHPSAQA?oc=5</id>
@@ -133,11 +133,11 @@
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vZmFyb3V0bWFnYXppbmUuY28udWsvb3JhbC1oaXN0b3J5LXZpdmllbm5lLXdlc3R3b29kLWhlci1jb21wbGljYXRlZC1yZWxhdGlvbnNoaXAtcHVuay_SAWJodHRwczovL2Zhcm91dG1hZ2F6aW5lLmNvLnVrL29yYWwtaGlzdG9yeS12aXZpZW5uZS13ZXN0d29vZC1oZXItY29tcGxpY2F0ZWQtcmVsYXRpb25zaGlwLXB1bmsvP2FtcA?oc=5" target="_blank"&gt;An oral history of Vivienne Westwood’s complicated relationship with punk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Far Out Magazine&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vZ3VhcmRpYW4ubmcvbmV3cy9peWEtbGFqZS1vZi1veW8tYWRlc295ZS1vcmlqYS1kaWVzLWF0LTg0L9IBAA?oc=5</id>
-    <title type="html">Iya-Laje of Oyo, Destroyer-Ouija, dies at 84 — Nigeria - Guardian Nigeria</title>
-    <updated>2022-12-30T03:48:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vZ3VhcmRpYW4ubmcvbmV3cy9peWEtbGFqZS1vZi1veW8tYWRlc295ZS1vcmlqYS1kaWVzLWF0LTg0L9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vZ3VhcmRpYW4ubmcvbmV3cy9peWEtbGFqZS1vZi1veW8tYWRlc295ZS1vcmlqYS1kaWVzLWF0LTg0L9IBAA?oc=5" target="_blank"&gt;Iya-Laje of Oyo, Destroyer-Ouija, dies at 84 — Nigeria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Guardian Nigeria&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIyLzEyLzI4L3doby1pcy1mcmVkLWFnYWluLXRoZS1zb3V0aC1sb25kb24tcHJvZHVjZXIteW91ci1tYXRlcy1hcmUtZGVmaW5pdGVseS10YWxraW5nLWFib3V0LTI4NzQ5ONIBAA?oc=5</id>
+    <title type="html">Who is Fred again? The south London producer your mates are ... - The Tab</title>
+    <updated>2022-12-28T18:00:35.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIyLzEyLzI4L3doby1pcy1mcmVkLWFnYWluLXRoZS1zb3V0aC1sb25kb24tcHJvZHVjZXIteW91ci1tYXRlcy1hcmUtZGVmaW5pdGVseS10YWxraW5nLWFib3V0LTI4NzQ5ONIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIyLzEyLzI4L3doby1pcy1mcmVkLWFnYWluLXRoZS1zb3V0aC1sb25kb24tcHJvZHVjZXIteW91ci1tYXRlcy1hcmUtZGVmaW5pdGVseS10YWxraW5nLWFib3V0LTI4NzQ5ONIBAA?oc=5" target="_blank"&gt;Who is Fred again? The south London producer your mates are ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Tab&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bench buddies</title>
