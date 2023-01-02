@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-02T16:49:31Z</updated>
+  <updated>2023-01-02T17:13:04Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 2°C (35°F) Maximum Temperature: 8°C (46°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 2°C (36°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 2°C (35°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1021mb, Humidity: 76%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 2°C (36°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1022mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 16:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-02T09:08:00.000+0000</id>
-    <published>2023-01-02T16:11:10Z</published>
-    <updated>2023-01-02T16:11:10Z</updated>
+    <published>2023-01-02T17:12:05Z</published>
+    <updated>2023-01-02T17:12:05Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1019mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:05 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-02T09:08:00.000+0000</id>
-    <published>2023-01-02T16:11:10Z</published>
-    <updated>2023-01-02T16:11:10Z</updated>
+    <published>2023-01-02T17:12:05Z</published>
+    <updated>2023-01-02T17:12:05Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1014mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:06 GMT, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-02T09:08:00.000+0000</id>
-    <published>2023-01-02T16:11:10Z</published>
-    <updated>2023-01-02T16:11:10Z</updated>
+    <published>2023-01-02T17:12:05Z</published>
+    <updated>2023-01-02T17:12:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmNpbmVtYWJsZW5kLmNvbS9tb3ZpZXMvYXRvbmVtZW50LWVuZGluZy1leHBsYWluZWQtd2hlbi1yZWFsaXR5LWVuZHPSAQA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2022-12-31T21:03:57.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmNpbmVtYWJsZW5kLmNvbS9tb3ZpZXMvYXRvbmVtZW50LWVuZGluZy1leHBsYWluZWQtd2hlbi1yZWFsaXR5LWVuZHPSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmNpbmVtYWJsZW5kLmNvbS9tb3ZpZXMvYXRvbmVtZW50LWVuZGluZy1leHBsYWluZWQtd2hlbi1yZWFsaXR5LWVuZHPSAQA?oc=5" target="_blank"&gt;Atonement Ending Explained: When Reality Ends | Cinemablend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CinemaBlend&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL2Jlc3QtbW9yb2NjYW4tcmVzdGF1cmFudHMtbG9uZG9uL9IBAA?oc=5</id>
+    <title type="html">Best Moroccan Restaurants in London — London x London - London x London</title>
+    <updated>2022-12-31T10:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL2Jlc3QtbW9yb2NjYW4tcmVzdGF1cmFudHMtbG9uZG9uL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL2Jlc3QtbW9yb2NjYW4tcmVzdGF1cmFudHMtbG9uZG9uL9IBAA?oc=5" target="_blank"&gt;Best Moroccan Restaurants in London — London x London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London x London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMi9kZWMvMzAvZG8teW91LWhlYXItd2hhdC1pLWhlYXItY2Fyb2wtc2luZ2Vycy1hcmUtb3V0LWluLWZvcmNl0gFraHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2xpZmVhbmRzdHlsZS8yMDIyL2RlYy8zMC9kby15b3UtaGVhci13aGF0LWktaGVhci1jYXJvbC1zaW5nZXJzLWFyZS1vdXQtaW4tZm9yY2U?oc=5</id>
@@ -131,13 +138,6 @@
     <updated>2022-12-28T18:00:35.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIyLzEyLzI4L3doby1pcy1mcmVkLWFnYWluLXRoZS1zb3V0aC1sb25kb24tcHJvZHVjZXIteW91ci1tYXRlcy1hcmUtZGVmaW5pdGVseS10YWxraW5nLWFib3V0LTI4NzQ5ONIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIyLzEyLzI4L3doby1pcy1mcmVkLWFnYWluLXRoZS1zb3V0aC1sb25kb24tcHJvZHVjZXIteW91ci1tYXRlcy1hcmUtZGVmaW5pdGVseS10YWxraW5nLWFib3V0LTI4NzQ5ONIBAA?oc=5" target="_blank"&gt;Who is Fred again? The south London producer your mates are ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Tab&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL2FsZGktbGlkbC1wcmltYXJrLXBvdW5kbGFuZC1qb2JzLTI1ODQ3MzE00gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3VrLXdvcmxkLW5ld3MvYWxkaS1saWRsLXByaW1hcmstcG91bmRsYW5kLWpvYnMtMjU4NDczMTQuYW1w?oc=5</id>
-    <title type="html">Aldi, Lidl, Primark and Poundland jobs on offer in London right now with wages up to £81,000 a year - My London</title>
-    <updated>2022-12-28T10:50:14.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL2FsZGktbGlkbC1wcmltYXJrLXBvdW5kbGFuZC1qb2JzLTI1ODQ3MzE00gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3VrLXdvcmxkLW5ld3MvYWxkaS1saWRsLXByaW1hcmstcG91bmRsYW5kLWpvYnMtMjU4NDczMTQuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy91ay13b3JsZC1uZXdzL2FsZGktbGlkbC1wcmltYXJrLXBvdW5kbGFuZC1qb2JzLTI1ODQ3MzE00gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3VrLXdvcmxkLW5ld3MvYWxkaS1saWRsLXByaW1hcmstcG91bmRsYW5kLWpvYnMtMjU4NDczMTQuYW1w?oc=5" target="_blank"&gt;Aldi, Lidl, Primark and Poundland jobs on offer in London right now with wages up to £81,000 a year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Bench buddies</title>
