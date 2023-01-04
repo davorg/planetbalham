@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-04T04:13:56Z</updated>
+  <updated>2023-01-04T04:48:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Thick Cloud, Minimum Temperature: 13°C (55°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1013mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 16:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1013mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 16:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-03T21:02:00.000+0000</id>
-    <published>2023-01-04T04:04:03Z</published>
-    <updated>2023-01-04T04:04:03Z</updated>
+    <published>2023-01-04T04:34:03Z</published>
+    <updated>2023-01-04T04:34:03Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1014mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:07 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-03T21:02:00.000+0000</id>
-    <published>2023-01-04T04:04:03Z</published>
-    <updated>2023-01-04T04:04:03Z</updated>
+    <published>2023-01-04T04:34:03Z</published>
+    <updated>2023-01-04T04:34:03Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 8°C (47°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 08:05 GMT, Sunset: 16:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-03T21:02:00.000+0000</id>
-    <published>2023-01-04T04:04:03Z</published>
-    <updated>2023-01-04T04:04:03Z</updated>
+    <published>2023-01-04T04:34:03Z</published>
+    <updated>2023-01-04T04:34:03Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vbmV3cy55YWhvby5jb20vc291bmQtMjAyMy1mcmVkLWFnYWlucy1lbW90aXZlLTAzMjY0NDEyMy5odG1s0gFMaHR0cHM6Ly9uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NvdW5kLTIwMjMtZnJlZC1hZ2FpbnMtZW1vdGl2ZS0wMzI2NDQxMjMuaHRtbA?oc=5</id>
