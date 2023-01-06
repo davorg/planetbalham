@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-06T19:13:02Z</updated>
+  <updated>2023-01-06T19:48:48Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -61,6 +61,37 @@
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvcGF0aWVudHMtanVtcC1kZWZlbmNlLWxvbmRvbi1ob3NwaXRhbC0yNTkxMzQ3N9IBWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvcGF0aWVudHMtanVtcC1kZWZlbmNlLWxvbmRvbi1ob3NwaXRhbC0yNTkxMzQ3Ny5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvcGF0aWVudHMtanVtcC1kZWZlbmNlLWxvbmRvbi1ob3NwaXRhbC0yNTkxMzQ3N9IBWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9oZWFsdGgvcGF0aWVudHMtanVtcC1kZWZlbmNlLWxvbmRvbi1ob3NwaXRhbC0yNTkxMzQ3Ny5hbXA?oc=5" target="_blank"&gt;Patients praise London hospital's care despite it declaring critical incident&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>January 5th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52611105650/"/>
+    <id>tag:flickr.com,2005:/photo/52611105650</id>
+    <published>2023-01-06T15:23:45Z</published>
+    <updated>2023-01-06T15:23:45Z</updated>
+    <flickr:date_taken>2023-01-06T11:30:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-06T11:30:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52611105650/" title="January 5th"&gt;&lt;img src="https://live.staticflickr.com/65535/52611105650_b4e54d253e_m.jpg" width="180" height="240" alt="January 5th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Library Plays&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52611105650_b4e54d253e_b.jpg"/>
+    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="library" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alanbennett" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="plays" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihwFodHRwczovL3d3dy50aGVib29rc2VsbGVyLmNvbS9uZXdzL2luZGllLWJvb2tzaG9wLW51bWJlcnMtcmlzZS1mb3Itc2l4dGgteWVhci1ydW5uaW5nLWRlc3BpdGUtY2hhbGxlbmdpbmctaGlnaC1zdHJlZXQtYmFja2Ryb3AtYmEtZmluZHPSAQA?oc=5</id>
     <title type="html">Indie bookshop numbers at 10-year high despite challenging high ... - The Bookseller</title>
@@ -275,39 +306,6 @@
     <category term="blogging"/>
     <category term="seo"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52539947306/"/>
-    <id>tag:flickr.com,2005:/photo/52539947306</id>
-    <published>2022-12-03T17:44:20Z</published>
-    <updated>2022-12-03T17:44:20Z</updated>
-    <flickr:date_taken>2022-11-27T18:16:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-27T18:16:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52539947306/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52539947306_830ab9c3df_m.jpg" width="159" height="240" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-23&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52539947306_830ab9c3df_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89e0523" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exfolder" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Should Children be Polite While Using Smart Speakers?</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/05/should-children-be-polite-while-using-smart-speakers.html" type="text/html"/>
