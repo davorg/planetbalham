@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-06T23:13:37Z</updated>
+  <updated>2023-01-06T23:48:47Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 11°C (52°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1007mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 16:09 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-06T21:16:00.000+0000</id>
+    <published>2023-01-06T23:13:35Z</published>
+    <updated>2023-01-06T23:13:35Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Heavy Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (53°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1000mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:11 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-06T21:16:00.000+0000</id>
+    <published>2023-01-06T23:13:35Z</published>
+    <updated>2023-01-06T23:13:35Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 10°C (49°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 994mb, Humidity: 82%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-06T21:16:00.000+0000</id>
+    <published>2023-01-06T23:13:35Z</published>
+    <updated>2023-01-06T23:13:35Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvaHVudGluZy1lZHVjYXRpbmctdGhlLW5leHQtZ2VuZXJhdGlvbi03NDI4MzTSAU1odHRwczovL3d3dy50aGVpcmlzaGZpZWxkLmllL2FtcC9odW50aW5nLWVkdWNhdGluZy10aGUtbmV4dC1nZW5lcmF0aW9uLTc0MjgzNA?oc=5</id>
     <title type="html">HUNTING: Educating the next generation 06 January 2023 Free - The Irish Field</title>
@@ -93,7 +123,7 @@
       <name>AWildSnowball</name>
       <uri>https://www.flickr.com/people/194722896@N05/</uri>
       <flickr:nsid>194722896@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/194722896@N05.jpg?1669924252#194722896@N05</flickr:buddyicon>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/194722896@N05.jpg?1673048357#194722896@N05</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52596652568_b7e38f7404_b.jpg"/>
     <category term="en1" scheme="https://www.flickr.com/photos/tags/"/>
