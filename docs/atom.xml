@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-09T14:48:56Z</updated>
+  <updated>2023-01-09T15:14:35Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Today: Sunny, Minimum Temperature: 3°C (37°F) Maximum Temperature: 9°C (48°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1007mb, Humidity: 66%, UV Risk: 0, Pollution: Low, Sunrise: 08:04 GMT, Sunset: 16:12 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-09T09:07:00.000+0000</id>
+    <published>2023-01-09T15:04:02Z</published>
+    <updated>2023-01-09T15:04:02Z</updated>
+  </entry>
+  <entry>
+    <title>Tuesday: Heavy Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 13°C (56°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1009mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:14 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-09T09:07:00.000+0000</id>
+    <published>2023-01-09T15:04:02Z</published>
+    <updated>2023-01-09T15:04:02Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 10°C (51°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1008mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-09T09:07:00.000+0000</id>
+    <published>2023-01-09T15:04:02Z</published>
+    <updated>2023-01-09T15:04:02Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWJvb2tzZWxsZXIuY29tL2Jvb2tzaG9wcy9ib29rc2hvcC1zcG90bGlnaHQtYmFja3N0b3J50gEA?oc=5</id>
     <title type="html">Bookshops - Bookshop Spotlight: Backstory - The Bookseller</title>
