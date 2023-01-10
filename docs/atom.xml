@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-10T19:13:04Z</updated>
+  <updated>2023-01-10T19:48:56Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -246,16 +246,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bench buddies</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52565341656/"/>
-    <id>tag:flickr.com,2005:/photo/52565341656</id>
-    <published>2022-12-15T17:16:54Z</published>
-    <updated>2022-12-15T17:16:54Z</updated>
-    <flickr:date_taken>2022-12-15T12:03:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-12-15T12:03:06-08:00</dc:date.Taken>
+    <title>Posers</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52565791925/"/>
+    <id>tag:flickr.com,2005:/photo/52565791925</id>
+    <published>2022-12-15T17:16:53Z</published>
+    <updated>2022-12-15T17:16:53Z</updated>
+    <flickr:date_taken>2022-12-15T12:02:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-12-15T12:02:47-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52565341656/" title="Bench buddies"&gt;&lt;img src="https://live.staticflickr.com/65535/52565341656_712b2bda90_m.jpg" width="240" height="135" alt="Bench buddies" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52565791925/" title="Posers"&gt;&lt;img src="https://live.staticflickr.com/65535/52565791925_e042c8dbde_m.jpg" width="240" height="135" alt="Posers" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;</content>
     <author>
@@ -264,7 +264,7 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52565341656_712b2bda90_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52565791925_e042c8dbde_b.jpg"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
