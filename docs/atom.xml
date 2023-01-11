@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-11T13:48:50Z</updated>
+  <updated>2023-01-11T14:14:12Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 10°C (51°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 20mph, Visibility: Good, Pressure: 1009mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1009mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 08:03 GMT, Sunset: 16:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-11T09:23:00.000+0000</id>
-    <published>2023-01-11T13:27:07Z</published>
-    <updated>2023-01-11T13:27:07Z</updated>
+    <published>2023-01-11T14:01:16Z</published>
+    <updated>2023-01-11T14:01:16Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1004mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 16:16 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-11T09:23:00.000+0000</id>
-    <published>2023-01-11T13:27:07Z</published>
-    <updated>2023-01-11T13:27:07Z</updated>
+    <published>2023-01-11T14:01:16Z</published>
+    <updated>2023-01-11T14:01:16Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 66%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 16:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-11T09:23:00.000+0000</id>
-    <published>2023-01-11T13:27:07Z</published>
-    <updated>2023-01-11T13:27:07Z</updated>
+    <published>2023-01-11T14:01:16Z</published>
+    <updated>2023-01-11T14:01:16Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzI0MzUyNi5idXJucy1uaWdodC1jaGluZXNlLW5ldy15ZWFyLWZ1bi10aGluZ3MtbG9uZG9uLWphbi0yMy0yOS_SAQA?oc=5</id>
+    <title type="html">Burns Night, Chinese New Year &amp; More Fun Things In London Jan ... - The Resident</title>
+    <updated>2023-01-11T13:27:17.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzI0MzUyNi5idXJucy1uaWdodC1jaGluZXNlLW5ldy15ZWFyLWZ1bi10aGluZ3MtbG9uZG9uLWphbi0yMy0yOS_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzI0MzUyNi5idXJucy1uaWdodC1jaGluZXNlLW5ldy15ZWFyLWZ1bi10aGluZ3MtbG9uZG9uLWphbi0yMy0yOS_SAQA?oc=5" target="_blank"&gt;Burns Night, Chinese New Year &amp; More Fun Things In London Jan ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiogFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL25ld3MvdHJhbnNwb3J0L3N1c3NleC1yYWlsLWRpc3J1cHRpb24tdGhpcy1pcy13aHktdHJhaW5zLWFyZS1iZWluZy1kZWxheWVkLWFuZC1jYW5jZWxsZWQtdGhpcy1tb3JuaW5nLXdlZG5lc2RheS1qYW51YXJ5LTExLTM5ODIzMDXSAQA?oc=5</id>
@@ -109,13 +116,71 @@
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzY2FwaXN0L2Jlc3QtaW5kZXBlbmRlbnQtYm9va3Nob3BzLWluLWxvbmRvbi1hNDM5MzI1MS5odG1s0gFaaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvZXNjYXBpc3QvYmVzdC1pbmRlcGVuZGVudC1ib29rc2hvcHMtaW4tbG9uZG9uLWE0MzkzMjUxLmh0bWw_YW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzY2FwaXN0L2Jlc3QtaW5kZXBlbmRlbnQtYm9va3Nob3BzLWluLWxvbmRvbi1hNDM5MzI1MS5odG1s0gFaaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvZXNjYXBpc3QvYmVzdC1pbmRlcGVuZGVudC1ib29rc2hvcHMtaW4tbG9uZG9uLWE0MzkzMjUxLmh0bWw_YW1w?oc=5" target="_blank"&gt;12 of the best independent bookshops in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vbG9uZG9uLXVuZGVyZ3JvdW5kLWJpcnRoZGF5LWRlbGF5cy1mZXVkcy_SAUZodHRwczovL3d3dy5jaXR5YW0uY29tL2xvbmRvbi11bmRlcmdyb3VuZC1iaXJ0aGRheS1kZWxheXMtZmV1ZHMvP2FtcD0x?oc=5</id>
-    <title type="html">The London Underground’s birthday celebrates 160 years of political feuds and delays - City A.M.</title>
-    <updated>2023-01-10T13:00:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vbG9uZG9uLXVuZGVyZ3JvdW5kLWJpcnRoZGF5LWRlbGF5cy1mZXVkcy_SAUZodHRwczovL3d3dy5jaXR5YW0uY29tL2xvbmRvbi11bmRlcmdyb3VuZC1iaXJ0aGRheS1kZWxheXMtZmV1ZHMvP2FtcD0x?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3LmNpdHlhbS5jb20vbG9uZG9uLXVuZGVyZ3JvdW5kLWJpcnRoZGF5LWRlbGF5cy1mZXVkcy_SAUZodHRwczovL3d3dy5jaXR5YW0uY29tL2xvbmRvbi11bmRlcmdyb3VuZC1iaXJ0aGRheS1kZWxheXMtZmV1ZHMvP2FtcD0x?oc=5" target="_blank"&gt;The London Underground’s birthday celebrates 160 years of political feuds and delays&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;City A.M.&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>January 6th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52610179032/"/>
+    <id>tag:flickr.com,2005:/photo/52610179032</id>
+    <published>2023-01-06T15:23:46Z</published>
+    <updated>2023-01-06T15:23:46Z</updated>
+    <flickr:date_taken>2023-01-06T10:47:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-06T10:47:52-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52610179032/" title="January 6th"&gt;&lt;img src="https://live.staticflickr.com/65535/52610179032_05cfabf29a_m.jpg" width="240" height="180" alt="January 6th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Earl Grey - Balham&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52610179032_05cfabf29a_b.jpg"/>
+    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tea" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="teapot" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="strainer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tray" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="earlgrey" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>January 5th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52611105650/"/>
+    <id>tag:flickr.com,2005:/photo/52611105650</id>
+    <published>2023-01-06T15:23:45Z</published>
+    <updated>2023-01-06T15:23:45Z</updated>
+    <flickr:date_taken>2023-01-06T11:30:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-06T11:30:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52611105650/" title="January 5th"&gt;&lt;img src="https://live.staticflickr.com/65535/52611105650_b4e54d253e_m.jpg" width="180" height="240" alt="January 5th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Library Plays&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52611105650_b4e54d253e_b.jpg"/>
+    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="library" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alanbennett" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="plays" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Older Overtaker: Southern RRP, EN1, SN58CDY</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/194722896@N05/52596652568/"/>
@@ -209,35 +274,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Posers</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52565791925/"/>
-    <id>tag:flickr.com,2005:/photo/52565791925</id>
-    <published>2022-12-15T17:16:53Z</published>
-    <updated>2022-12-15T17:16:53Z</updated>
-    <flickr:date_taken>2022-12-15T12:02:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-12-15T12:02:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52565791925/" title="Posers"&gt;&lt;img src="https://live.staticflickr.com/65535/52565791925_e042c8dbde_m.jpg" width="240" height="135" alt="Posers" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52565791925_e042c8dbde_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bench" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/12/5-reasons-why-using-ai-to-generate-blog-posts-can-destroy-your-seo.html" type="text/html"/>
@@ -287,39 +323,6 @@
     <category term="blogging"/>
     <category term="seo"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bedford Hill, Balham, Wandsworth, 1989, 89e05-23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52539947306/"/>
-    <id>tag:flickr.com,2005:/photo/52539947306</id>
-    <published>2022-12-03T17:44:20Z</published>
-    <updated>2022-12-03T17:44:20Z</updated>
-    <flickr:date_taken>2022-11-27T18:16:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-27T18:16:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52539947306/" title="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52539947306_830ab9c3df_m.jpg" width="159" height="240" alt="Bedford Hill, Balham, Wandsworth, 1989, 89e05-23" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bedford Hill, Balham, Wandsworth, 1989, 89e05-23&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52539947306_830ab9c3df_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="89e0523" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exfolder" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Should Children be Polite While Using Smart Speakers?</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/05/should-children-be-polite-while-using-smart-speakers.html" type="text/html"/>
