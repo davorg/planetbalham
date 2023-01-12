@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-12T06:48:46Z</updated>
+  <updated>2023-01-12T07:13:28Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1003mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 08:02 GMT, Sunset: 16:16 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-11T21:04:00.000+0000</id>
-    <published>2023-01-12T06:34:02Z</published>
-    <updated>2023-01-12T06:34:02Z</updated>
+    <published>2023-01-12T07:02:36Z</published>
+    <updated>2023-01-12T07:02:36Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (51°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1009mb, Humidity: 64%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 16:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-11T21:04:00.000+0000</id>
-    <published>2023-01-12T06:34:02Z</published>
-    <updated>2023-01-12T06:34:02Z</updated>
+    <published>2023-01-12T07:02:36Z</published>
+    <updated>2023-01-12T07:02:36Z</updated>
   </entry>
   <entry>
     <title>Saturday: Heavy Rain, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (53°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1001mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-11T21:04:00.000+0000</id>
-    <published>2023-01-12T06:34:02Z</published>
-    <updated>2023-01-12T06:34:02Z</updated>
+    <published>2023-01-12T07:02:36Z</published>
+    <updated>2023-01-12T07:02:36Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5</id>
+    <title type="html">London January 2023: Best Things To Do With Family &amp; Friends - The Resident</title>
+    <updated>2023-01-12T05:46:25.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" target="_blank"&gt;London January 2023: Best Things To Do With Family &amp; Friends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LnRoZXN1bi5pZS9mYWJ1bG91cy8xMDAzODU1OC9idWxsaWVkLXVuaXF1ZS1sb29rcy1zZWxmLWVzdGVlbS1sb3ZlLWJvZGllcy_SAVlodHRwczovL3d3dy50aGVzdW4uaWUvZmFidWxvdXMvMTAwMzg1NTgvYnVsbGllZC11bmlxdWUtbG9va3Mtc2VsZi1lc3RlZW0tbG92ZS1ib2RpZXMvYW1wLw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-01-11T16:32:57.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3Lmdvb2R0by5jb20vZm9vZC9mb29kLW5ld3Mvd2hhdC1pcy1tYW5kcy1tYWdpYy1jb2ZmZWUtYWxsLXlvdS1uZWVkLXRvLWtub3ctYXMtZmFucy1yZWFjdC10by10aGUtbmV3LWxhdW5jaNIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3Lmdvb2R0by5jb20vZm9vZC9mb29kLW5ld3Mvd2hhdC1pcy1tYW5kcy1tYWdpYy1jb2ZmZWUtYWxsLXlvdS1uZWVkLXRvLWtub3ctYXMtZmFucy1yZWFjdC10by10aGUtbmV3LWxhdW5jaNIBAA?oc=5" target="_blank"&gt;What is M&amp;S magic coffee? All you need to know as fans react to the ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;goodtoknow&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5</id>
-    <title type="html">London January 2023: Best Things To Do With Family &amp; Friends - The Resident</title>
-    <updated>2023-01-11T16:23:48.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL3RoaW5ncy10by1kby8yMzIwMjczNy5sb25kb24tamFudWFyeS0yMDIzLWJlc3QtdGhpbmdzLWZhbWlseS1mcmllbmRzL9IBAA?oc=5" target="_blank"&gt;London January 2023: Best Things To Do With Family &amp; Friends&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Under the Railway, Balham</title>
