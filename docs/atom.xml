@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-13T15:49:17Z</updated>
+  <updated>2023-01-13T16:14:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 5°C (40°F) Maximum Temperature: 10°C (50°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 5°C (40°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 5°C (40°F), Wind Direction: Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1013mb, Humidity: 63%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 16:18 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 5°C (40°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1013mb, Humidity: 65%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 16:18 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-13T09:06:00.000+0000</id>
-    <published>2023-01-13T15:02:50Z</published>
-    <updated>2023-01-13T15:02:50Z</updated>
+    <published>2023-01-13T16:00:58Z</published>
+    <updated>2023-01-13T16:00:58Z</updated>
   </entry>
   <entry>
     <title>Saturday: Heavy Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 998mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 08:01 GMT, Sunset: 16:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-13T09:06:00.000+0000</id>
-    <published>2023-01-13T15:02:50Z</published>
-    <updated>2023-01-13T15:02:50Z</updated>
+    <published>2023-01-13T16:00:58Z</published>
+    <updated>2023-01-13T16:00:58Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,9 +37,74 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1001mb, Humidity: 73%, UV Risk: 0, Pollution: Low, Sunrise: 08:00 GMT, Sunset: 16:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-13T09:06:00.000+0000</id>
-    <published>2023-01-13T15:02:50Z</published>
-    <updated>2023-01-13T15:02:50Z</updated>
+    <published>2023-01-13T16:00:58Z</published>
+    <updated>2023-01-13T16:00:58Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625236048/"/>
+    <id>tag:flickr.com,2005:/photo/52625236048</id>
+    <published>2023-01-13T15:59:07Z</published>
+    <updated>2023-01-13T15:59:07Z</updated>
+    <flickr:date_taken>2023-01-08T18:51:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-08T18:51:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625236048/" title="Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32"&gt;&lt;img src="https://live.staticflickr.com/65535/52625236048_ee6c2e16d6_m.jpg" width="240" height="161" alt="Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625236048_ee6c2e16d6_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c80932" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625189135/"/>
+    <id>tag:flickr.com,2005:/photo/52625189135</id>
+    <published>2023-01-13T15:59:06Z</published>
+    <updated>2023-01-13T15:59:06Z</updated>
+    <flickr:date_taken>2023-01-08T18:49:51-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-08T18:49:51-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625189135/" title="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44"&gt;&lt;img src="https://live.staticflickr.com/65535/52625189135_5aa22894bf_m.jpg" width="159" height="240" alt="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625189135_5aa22894bf_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c80944" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="elephant" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LnRoZXJldmlld3NodWIuY29tL2N5bmVmaW4tYnJlYWQtYW5kLXJvc2VzLXRoZWF0cmUtbG9uZG9uL9IBAA?oc=5</id>
     <title type="html">Cynefin – Bread and Roses Theatre, London - The Reviews Hub</title>
@@ -178,99 +243,6 @@
     <category term="alanbennett" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="plays" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Older Overtaker: Southern RRP, EN1, SN58CDY</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/194722896@N05/52596652568/"/>
-    <id>tag:flickr.com,2005:/photo/52596652568</id>
-    <published>2022-12-30T18:07:54Z</published>
-    <updated>2022-12-30T18:07:54Z</updated>
-    <flickr:date_taken>2022-12-30T14:16:02-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-12-30T14:16:02-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/194722896@N05/"&gt;AWildSnowball&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/194722896@N05/52596652568/" title="Older Overtaker: Southern RRP, EN1, SN58CDY"&gt;&lt;img src="https://live.staticflickr.com/65535/52596652568_b7e38f7404_m.jpg" width="240" height="180" alt="Older Overtaker: Southern RRP, EN1, SN58CDY" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;EN1 (SN58 CDY) was withdrawn in April 2020 as its main route, the 191 passed to Arriva. It is seen at Balham Station overtaking WHV187 (LF67 EXW) on its way to East Croydon on the Southern Rail Replacement Service. Taken 30/12/2022.&lt;/p&gt;</content>
-    <author>
-      <name>AWildSnowball</name>
-      <uri>https://www.flickr.com/people/194722896@N05/</uri>
-      <flickr:nsid>194722896@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/194722896@N05.jpg?1673048357#194722896@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52596652568_b7e38f7404_b.jpg"/>
-    <category term="en1" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sn58cdy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="whv187" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lf67exw" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goahead" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goaheadgroup" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gemini3" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="g3" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="volvob5lh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="volvob5lhwrighteclipsegemini3" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrightgemini3" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrightbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wright" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="adlenviro400" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="adl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennisenviro400" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alexanderdennisenviro400trident" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dennistrident2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rrp" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railreplacement" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railreplacementbus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railreplacementservice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railreplacementbusservice" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southernrail" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="eastcroydon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="claphamjunction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nontfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="commercial" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gal" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="buses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="busstands" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="withdrawn" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Bench buddies</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52565341656/"/>
-    <id>tag:flickr.com,2005:/photo/52565341656</id>
-    <published>2022-12-15T17:16:54Z</published>
-    <updated>2022-12-15T17:16:54Z</updated>
-    <flickr:date_taken>2022-12-15T12:03:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-12-15T12:03:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52565341656/" title="Bench buddies"&gt;&lt;img src="https://live.staticflickr.com/65535/52565341656_712b2bda90_m.jpg" width="240" height="135" alt="Bench buddies" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52565341656_712b2bda90_b.jpg"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bench" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
