@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-17T15:48:55Z</updated>
+  <updated>2023-01-17T16:14:10Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: -4°C (26°F) Maximum Temperature: 2°C (35°F)</title>
+    <title>Today: Sunny, Minimum Temperature: -4°C (26°F) Maximum Temperature: 1°C (35°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 2°C (35°F), Minimum Temperature: -4°C (26°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 990mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 16:24 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 1°C (35°F), Minimum Temperature: -4°C (26°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 990mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 07:58 GMT, Sunset: 16:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-17T09:01:00.000+0000</id>
-    <published>2023-01-17T15:02:11Z</published>
-    <updated>2023-01-17T15:02:11Z</updated>
+    <published>2023-01-17T16:03:32Z</published>
+    <updated>2023-01-17T16:03:32Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 5°C (41°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 997mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-17T09:01:00.000+0000</id>
-    <published>2023-01-17T15:02:11Z</published>
-    <updated>2023-01-17T15:02:11Z</updated>
+    <published>2023-01-17T16:03:32Z</published>
+    <updated>2023-01-17T16:03:32Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 4°C (39°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1009mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-17T09:01:00.000+0000</id>
-    <published>2023-01-17T15:02:11Z</published>
-    <updated>2023-01-17T15:02:11Z</updated>
+    <published>2023-01-17T16:03:32Z</published>
+    <updated>2023-01-17T16:03:32Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9sZXR0ZXJzLWZyZWVtYXJrZXQtZGV2b3Rpb24tcG90aG9sZS1yZXBhaXJzLWVkdWNhdGlvbi1ocS1mb3Jlc3RyeS1zbGFzaC1hbmQtcGV0cm9sLXByaWNlcy9PVUJMTUpSMk9WSE43STZZTVlYRUpRTDZXSS_SAQA?oc=5</id>
+    <title type="html">Letters: Freemarket devotion, pothole repairs, education HQ, forestry ... - New Zealand Herald</title>
+    <updated>2023-01-17T16:00:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9sZXR0ZXJzLWZyZWVtYXJrZXQtZGV2b3Rpb24tcG90aG9sZS1yZXBhaXJzLWVkdWNhdGlvbi1ocS1mb3Jlc3RyeS1zbGFzaC1hbmQtcGV0cm9sLXByaWNlcy9PVUJMTUpSMk9WSE43STZZTVlYRUpRTDZXSS_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9sZXR0ZXJzLWZyZWVtYXJrZXQtZGV2b3Rpb24tcG90aG9sZS1yZXBhaXJzLWVkdWNhdGlvbi1ocS1mb3Jlc3RyeS1zbGFzaC1hbmQtcGV0cm9sLXByaWNlcy9PVUJMTUpSMk9WSE43STZZTVlYRUpRTDZXSS_SAQA?oc=5" target="_blank"&gt;Letters: Freemarket devotion, pothole repairs, education HQ, forestry ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;New Zealand Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25zLWJpZy01LWFmdGVybm9vbnMtdG9wLTI1OTk3MTk30gFUaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbnMtYmlnLTUtYWZ0ZXJub29ucy10b3AtMjU5OTcxOTcuYW1w?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-01-16T17:12:59.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0M9IBVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0My5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0M9IBVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0My5hbXA?oc=5" target="_blank"&gt;I went to one of London's best charity shops in the new 'coolest place to live'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvdWstcG9saXRpY3MvMjAyMy8wMS9saWJlcmFsLWRlbW9jcmF0cy1nZW5lcmFsLWVsZWN0aW9uLXN0cmF0ZWd50gEA?oc=5</id>
-    <title type="html">Inside the Lib Dems' general election strategy - The New Statesman</title>
-    <updated>2023-01-16T16:53:18.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvdWstcG9saXRpY3MvMjAyMy8wMS9saWJlcmFsLWRlbW9jcmF0cy1nZW5lcmFsLWVsZWN0aW9uLXN0cmF0ZWd50gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvdWstcG9saXRpY3MvMjAyMy8wMS9saWJlcmFsLWRlbW9jcmF0cy1nZW5lcmFsLWVsZWN0aW9uLXN0cmF0ZWd50gEA?oc=5" target="_blank"&gt;Inside the Lib Dems' general election strategy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The New Statesman&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hildreth St, Balham, Wandsworth, 1990, 90c8-09-33</title>
@@ -132,39 +132,6 @@
     <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625189135/"/>
-    <id>tag:flickr.com,2005:/photo/52625189135</id>
-    <published>2023-01-13T15:59:06Z</published>
-    <updated>2023-01-13T15:59:06Z</updated>
-    <flickr:date_taken>2023-01-08T18:49:51-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-08T18:49:51-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625189135/" title="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44"&gt;&lt;img src="https://live.staticflickr.com/65535/52625189135_5aa22894bf_m.jpg" width="159" height="240" alt="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625189135_5aa22894bf_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c80944" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="elephant" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
@@ -244,6 +211,37 @@
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="earlgrey" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>January 5th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52611105650/"/>
+    <id>tag:flickr.com,2005:/photo/52611105650</id>
+    <published>2023-01-06T15:23:45Z</published>
+    <updated>2023-01-06T15:23:45Z</updated>
+    <flickr:date_taken>2023-01-06T11:30:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-06T11:30:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52611105650/" title="January 5th"&gt;&lt;img src="https://live.staticflickr.com/65535/52611105650_b4e54d253e_m.jpg" width="180" height="240" alt="January 5th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Library Plays&lt;/p&gt;</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52611105650_b4e54d253e_b.jpg"/>
+    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="library" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alanbennett" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="plays" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
