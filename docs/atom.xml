@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-18T09:13:28Z</updated>
+  <updated>2023-01-18T09:48:47Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -3°C (26°F) Maximum Temperature: 5°C (42°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: -3°C (26°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 998mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 998mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-17T21:03:00.000+0000</id>
-    <published>2023-01-18T09:01:36Z</published>
-    <updated>2023-01-18T09:01:36Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-18T07:13:00.000+0000</id>
+    <published>2023-01-18T09:16:12Z</published>
+    <updated>2023-01-18T09:16:12Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 4°C (39°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: -2°C (29°F) Maximum Temperature: 4°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1010mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1008mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-17T21:03:00.000+0000</id>
-    <published>2023-01-18T09:01:36Z</published>
-    <updated>2023-01-18T09:01:36Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-18T07:13:00.000+0000</id>
+    <published>2023-01-18T09:16:12Z</published>
+    <updated>2023-01-18T09:16:12Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1019mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-17T21:03:00.000+0000</id>
-    <published>2023-01-18T09:01:36Z</published>
-    <updated>2023-01-18T09:01:36Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-18T07:13:00.000+0000</id>
+    <published>2023-01-18T09:16:12Z</published>
+    <updated>2023-01-18T09:16:12Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vcnVuMjQ3LmNvbS9ydW5uaW5nLW5ld3MvdHJhaWwvc3BpbmUtcmFjZS0yMDIzLXJlcG9ydC10cmFja2luZy1yYW5raW5n0gEA?oc=5</id>
+    <title type="html">Collison retires as Hall and Bannwarth march on - Run247.com</title>
+    <updated>2023-01-17T17:02:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vcnVuMjQ3LmNvbS9ydW5uaW5nLW5ld3MvdHJhaWwvc3BpbmUtcmFjZS0yMDIzLXJlcG9ydC10cmFja2luZy1yYW5raW5n0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vcnVuMjQ3LmNvbS9ydW5uaW5nLW5ld3MvdHJhaWwvc3BpbmUtcmFjZS0yMDIzLXJlcG9ydC10cmFja2luZy1yYW5raW5n0gEA?oc=5" target="_blank"&gt;Collison retires as Hall and Bannwarth march on&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Run247.com&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9sZXR0ZXJzLWZyZWVtYXJrZXQtZGV2b3Rpb24tcG90aG9sZS1yZXBhaXJzLWVkdWNhdGlvbi1ocS1mb3Jlc3RyeS1zbGFzaC1hbmQtcGV0cm9sLXByaWNlcy9PVUJMTUpSMk9WSE43STZZTVlYRUpRTDZXSS_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-01-16T17:12:59.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0M9IBVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0My5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0M9IBVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vcmV2aWV3cy93ZW50LW9uZS1sb25kb25zLWJlc3QtY2hhcml0eS0yNTk5MDk0My5hbXA?oc=5" target="_blank"&gt;I went to one of London's best charity shops in the new 'coolest place to live'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvdWstcG9saXRpY3MvMjAyMy8wMS9saWJlcmFsLWRlbW9jcmF0cy1nZW5lcmFsLWVsZWN0aW9uLXN0cmF0ZWd50gEA?oc=5</id>
-    <title type="html">Inside the Lib Dems' general election strategy - The New Statesman</title>
-    <updated>2023-01-16T16:53:18.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvdWstcG9saXRpY3MvMjAyMy8wMS9saWJlcmFsLWRlbW9jcmF0cy1nZW5lcmFsLWVsZWN0aW9uLXN0cmF0ZWd50gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vcG9saXRpY3MvdWstcG9saXRpY3MvMjAyMy8wMS9saWJlcmFsLWRlbW9jcmF0cy1nZW5lcmFsLWVsZWN0aW9uLXN0cmF0ZWd50gEA?oc=5" target="_blank"&gt;Inside the Lib Dems' general election strategy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The New Statesman&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hildreth St, Balham, Wandsworth, 1990, 90c8-09-33</title>
