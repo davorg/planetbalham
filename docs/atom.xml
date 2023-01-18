@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-18T07:48:49Z</updated>
+  <updated>2023-01-18T08:14:06Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -3°C (26°F) Maximum Temperature: 5°C (42°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: -3°C (26°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 998mb, Humidity: 79%, UV Risk: 0, Pollution: Low, Sunrise: 07:57 GMT, Sunset: 16:26 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-17T21:03:00.000+0000</id>
-    <published>2023-01-18T07:12:53Z</published>
-    <updated>2023-01-18T07:12:53Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 4°C (39°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1010mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:56 GMT, Sunset: 16:27 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-17T21:03:00.000+0000</id>
-    <published>2023-01-18T07:12:53Z</published>
-    <updated>2023-01-18T07:12:53Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 5°C (41°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -2°C (28°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:55 GMT, Sunset: 16:29 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-17T21:03:00.000+0000</id>
-    <published>2023-01-18T07:12:53Z</published>
-    <updated>2023-01-18T07:12:53Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5uemhlcmFsZC5jby5uei9uei9sZXR0ZXJzLWZyZWVtYXJrZXQtZGV2b3Rpb24tcG90aG9sZS1yZXBhaXJzLWVkdWNhdGlvbi1ocS1mb3Jlc3RyeS1zbGFzaC1hbmQtcGV0cm9sLXByaWNlcy9PVUJMTUpSMk9WSE43STZZTVlYRUpRTDZXSS_SAQA?oc=5</id>
     <title type="html">Letters: Freemarket devotion, pothole repairs, education HQ, forestry ... - New Zealand Herald</title>
@@ -173,6 +143,47 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Under the Railway, Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/londonlesstravelled/52619940215/"/>
+    <id>tag:flickr.com,2005:/photo/52619940215</id>
+    <published>2023-01-10T18:52:21Z</published>
+    <updated>2023-01-10T18:52:21Z</updated>
+    <flickr:date_taken>2023-01-09T15:04:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-09T15:04:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/londonlesstravelled/"&gt;London Less Travelled&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/londonlesstravelled/52619940215/" title="Under the Railway, Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52619940215_566529bb00_m.jpg" width="240" height="200" alt="Under the Railway, Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>London Less Travelled</name>
+      <uri>https://www.flickr.com/people/londonlesstravelled/</uri>
+      <flickr:nsid>44079668@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7905/buddyicons/44079668@N07.jpg?1545814230#44079668@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52619940215_566529bb00_b.jpg"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="suburban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="suburb" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bridge" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pavement" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="glisten" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>January 6th</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52610179032/"/>
     <id>tag:flickr.com,2005:/photo/52610179032</id>
@@ -203,37 +214,6 @@
     <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="earlgrey" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>January 5th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52611105650/"/>
-    <id>tag:flickr.com,2005:/photo/52611105650</id>
-    <published>2023-01-06T15:23:45Z</published>
-    <updated>2023-01-06T15:23:45Z</updated>
-    <flickr:date_taken>2023-01-06T11:30:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-06T11:30:10-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52611105650/" title="January 5th"&gt;&lt;img src="https://live.staticflickr.com/65535/52611105650_b4e54d253e_m.jpg" width="180" height="240" alt="January 5th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Library Plays&lt;/p&gt;</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52611105650_b4e54d253e_b.jpg"/>
-    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="library" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alanbennett" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="plays" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="books" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
