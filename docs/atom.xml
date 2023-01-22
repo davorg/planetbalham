@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-22T22:13:08Z</updated>
+  <updated>2023-01-22T22:48:41Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: -5°C (22°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -5°C (22°F), Wind Direction: North Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1037mb, Humidity: 85%, UV Risk: 0, Pollution: Moderate, Sunset: 16:32 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -5°C (22°F), Wind Direction: Northerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1037mb, Humidity: 86%, UV Risk: 0, Pollution: Moderate, Sunset: 16:32 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-22T19:31:00.000+0000</id>
-    <published>2023-01-22T22:00:10Z</published>
-    <updated>2023-01-22T22:00:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-22T21:04:00.000+0000</id>
+    <published>2023-01-22T22:38:46Z</published>
+    <updated>2023-01-22T22:38:46Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (38°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 83%, UV Risk: 1, Pollution: Moderate, Sunrise: 07:52 GMT, Sunset: 16:34 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 83%, UV Risk: 1, Pollution: Moderate, Sunrise: 07:52 GMT, Sunset: 16:34 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-22T19:31:00.000+0000</id>
-    <published>2023-01-22T22:00:10Z</published>
-    <updated>2023-01-22T22:00:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-22T21:04:00.000+0000</id>
+    <published>2023-01-22T22:38:46Z</published>
+    <updated>2023-01-22T22:38:46Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 0°C (31°F) Maximum Temperature: 4°C (39°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 0°C (31°F) Maximum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: 0°C (31°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1039mb, Humidity: 88%, UV Risk: 1, Pollution: Moderate, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: 0°C (31°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1039mb, Humidity: 88%, UV Risk: 1, Pollution: Moderate, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-22T19:31:00.000+0000</id>
-    <published>2023-01-22T22:00:10Z</published>
-    <updated>2023-01-22T22:00:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-22T21:04:00.000+0000</id>
+    <published>2023-01-22T22:38:46Z</published>
+    <updated>2023-01-22T22:38:46Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>January 22nd</title>
