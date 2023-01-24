@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-24T15:13:39Z</updated>
+  <updated>2023-01-24T15:48:55Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 5°C (41°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 5°C (40°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1039mb, Humidity: 77%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (40°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1039mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-24T09:03:00.000+0000</id>
-    <published>2023-01-24T15:01:34Z</published>
-    <updated>2023-01-24T15:01:34Z</updated>
+    <published>2023-01-24T15:15:23Z</published>
+    <updated>2023-01-24T15:15:23Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (44°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1033mb, Humidity: 92%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-24T09:03:00.000+0000</id>
-    <published>2023-01-24T15:01:34Z</published>
-    <updated>2023-01-24T15:01:34Z</updated>
+    <published>2023-01-24T15:15:23Z</published>
+    <updated>2023-01-24T15:15:23Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1031mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-24T09:03:00.000+0000</id>
-    <published>2023-01-24T15:01:34Z</published>
-    <updated>2023-01-24T15:01:34Z</updated>
+    <published>2023-01-24T15:15:23Z</published>
+    <updated>2023-01-24T15:15:23Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvbG9uZG9uLWNvbW11dGVyLXN1aW5nLXRmbC0yMjAwMDAtMjkwMzU3ODXSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL2xvbmRvbi1jb21tdXRlci1zdWluZy10ZmwtMjIwMDAwLTI5MDM1Nzg1LmFtcA?oc=5</id>
+    <title type="html">London commuter suing TfL for £220,000 after falling in front of train 'due to overcrowding' - The Mirror</title>
+    <updated>2023-01-24T14:00:32.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvbG9uZG9uLWNvbW11dGVyLXN1aW5nLXRmbC0yMjAwMDAtMjkwMzU3ODXSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL2xvbmRvbi1jb21tdXRlci1zdWluZy10ZmwtMjIwMDAwLTI5MDM1Nzg1LmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvbG9uZG9uLWNvbW11dGVyLXN1aW5nLXRmbC0yMjAwMDAtMjkwMzU3ODXSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL2xvbmRvbi1jb21tdXRlci1zdWluZy10ZmwtMjIwMDAwLTI5MDM1Nzg1LmFtcA?oc=5" target="_blank"&gt;London commuter suing TfL for £220,000 after falling in front of train 'due to overcrowding'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMjQtamFudWFyeS0yMDIzLTI5ODgzNdIBSWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMjQtamFudWFyeS0yMDIzLTI5ODgzNT9hbXA?oc=5</id>
@@ -60,13 +67,6 @@
     <updated>2023-01-24T00:00:00.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vc2hlZXJsdXhlLmNvbS9jdWx0dXJlL3Jlc3RhdXJhbnRzLWJhcnMvYmVzdC1idWRnZXQtZnJpZW5kbHktcmVzdGF1cmFudHMtbG9uZG9u0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vc2hlZXJsdXhlLmNvbS9jdWx0dXJlL3Jlc3RhdXJhbnRzLWJhcnMvYmVzdC1idWRnZXQtZnJpZW5kbHktcmVzdGF1cmFudHMtbG9uZG9u0gEA?oc=5" target="_blank"&gt;The Best Budget-Friendly Restaurants In London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SheerLuxe&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9sb25kb24tY29tbXV0ZXItZmVsbC1mcm9udC1vbmNvbWluZy0xMTUyMjE2OTUuaHRtbNIBVmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL2xvbmRvbi1jb21tdXRlci1mZWxsLWZyb250LW9uY29taW5nLTExNTIyMTY5NS5odG1s?oc=5</id>
-    <title type="html">London commuter who fell in front of oncoming Tube train ‘due to overcrowding’ suing TfL for £220,000 - Yahoo Movies UK</title>
-    <updated>2023-01-23T15:54:34.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9sb25kb24tY29tbXV0ZXItZmVsbC1mcm9udC1vbmNvbWluZy0xMTUyMjE2OTUuaHRtbNIBVmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL2xvbmRvbi1jb21tdXRlci1mZWxsLWZyb250LW9uY29taW5nLTExNTIyMTY5NS5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9sb25kb24tY29tbXV0ZXItZmVsbC1mcm9udC1vbmNvbWluZy0xMTUyMjE2OTUuaHRtbNIBVmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL2xvbmRvbi1jb21tdXRlci1mZWxsLWZyb250LW9uY29taW5nLTExNTIyMTY5NS5odG1s?oc=5" target="_blank"&gt;London commuter who fell in front of oncoming Tube train ‘due to overcrowding’ suing TfL for £220,000&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Movies UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>January 22nd</title>
@@ -140,6 +140,35 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham. No. 80146 &amp; train for Tunbridge Wells West passing through. 15.2.62</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/110691393@N07/52638629321/"/>
+    <id>tag:flickr.com,2005:/photo/52638629321</id>
+    <published>2023-01-20T17:15:27Z</published>
+    <updated>2023-01-20T17:15:27Z</updated>
+    <flickr:date_taken>1962-02-15T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>1962-02-15T00:00:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/110691393@N07/"&gt;Roger Joanes&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/110691393@N07/52638629321/" title="Balham. No. 80146 &amp;amp; train for Tunbridge Wells West passing through. 15.2.62"&gt;&lt;img src="https://live.staticflickr.com/65535/52638629321_c01e888fba_m.jpg" width="240" height="160" alt="Balham. No. 80146 &amp;amp; train for Tunbridge Wells West passing through. 15.2.62" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Roger Joanes</name>
+      <uri>https://www.flickr.com/people/110691393@N07/</uri>
+      <flickr:nsid>110691393@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon09.png#110691393@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52638629321_c01e888fba_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blackwhite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hildreth St, Balham, Wandsworth, 1990, 90c8-09-33</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625189295/"/>
     <id>tag:flickr.com,2005:/photo/52625189295</id>
@@ -196,39 +225,6 @@
     <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625189135/"/>
-    <id>tag:flickr.com,2005:/photo/52625189135</id>
-    <published>2023-01-13T15:59:06Z</published>
-    <updated>2023-01-13T15:59:06Z</updated>
-    <flickr:date_taken>2023-01-08T18:49:51-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-08T18:49:51-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625189135/" title="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44"&gt;&lt;img src="https://live.staticflickr.com/65535/52625189135_5aa22894bf_m.jpg" width="159" height="240" alt="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625189135_5aa22894bf_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c80944" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="elephant" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
