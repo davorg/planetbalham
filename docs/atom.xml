@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-24T16:50:05Z</updated>
+  <updated>2023-01-24T17:13:19Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (31°F) Maximum Temperature: 5°C (41°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: -1°C (31°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1039mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunrise: 07:50 GMT, Sunset: 16:36 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1038mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 16:36 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-24T09:03:00.000+0000</id>
-    <published>2023-01-24T16:15:40Z</published>
-    <updated>2023-01-24T16:15:40Z</updated>
+    <published>2023-01-24T17:03:42Z</published>
+    <updated>2023-01-24T17:03:42Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thick Cloud, Minimum Temperature: 2°C (35°F) Maximum Temperature: 7°C (44°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1033mb, Humidity: 92%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-24T09:03:00.000+0000</id>
-    <published>2023-01-24T16:15:40Z</published>
-    <updated>2023-01-24T16:15:40Z</updated>
+    <published>2023-01-24T17:03:42Z</published>
+    <updated>2023-01-24T17:03:42Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1031mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-24T09:03:00.000+0000</id>
-    <published>2023-01-24T16:15:40Z</published>
-    <updated>2023-01-24T16:15:40Z</updated>
+    <published>2023-01-24T17:03:42Z</published>
+    <updated>2023-01-24T17:03:42Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvbG9uZG9uLWNvbW11dGVyLXN1aW5nLXRmbC0yMjAwMDAtMjkwMzU3ODXSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbmV3cy91ay1uZXdzL2xvbmRvbi1jb21tdXRlci1zdWluZy10ZmwtMjIwMDAwLTI5MDM1Nzg1LmFtcA?oc=5</id>
@@ -68,41 +68,6 @@
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vc2hlZXJsdXhlLmNvbS9jdWx0dXJlL3Jlc3RhdXJhbnRzLWJhcnMvYmVzdC1idWRnZXQtZnJpZW5kbHktcmVzdGF1cmFudHMtbG9uZG9u0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vc2hlZXJsdXhlLmNvbS9jdWx0dXJlL3Jlc3RhdXJhbnRzLWJhcnMvYmVzdC1idWRnZXQtZnJpZW5kbHktcmVzdGF1cmFudHMtbG9uZG9u0gEA?oc=5" target="_blank"&gt;The Best Budget-Friendly Restaurants In London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SheerLuxe&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>January 22nd</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52641667067/"/>
-    <id>tag:flickr.com,2005:/photo/52641667067</id>
-    <published>2023-01-22T15:59:30Z</published>
-    <updated>2023-01-22T15:59:30Z</updated>
-    <flickr:date_taken>2023-01-22T11:10:12-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-22T11:10:12-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52641667067/" title="January 22nd"&gt;&lt;img src="https://live.staticflickr.com/65535/52641667067_51f6ebfdf9_m.jpg" width="240" height="134" alt="January 22nd" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Morning fog over Balham&lt;/p&gt;</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52641667067_51f6ebfdf9_b.jpg"/>
-    <category term="january" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fog" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="winter" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="155" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="a24" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mist" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS8xMC10b3ducy1zZWVtLWV2ZXJ5LWxpc3QtMjU5OTEwMDfSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvcHJvcGVydHkvMTAtdG93bnMtc2VlbS1ldmVyeS1saXN0LTI1OTkxMDA3LmFtcA?oc=5</id>
     <title type="html">The 10 'towns' that seem to be on every list of London's coolest places to live - My London</title>
@@ -225,6 +190,39 @@
     <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625189135/"/>
+    <id>tag:flickr.com,2005:/photo/52625189135</id>
+    <published>2023-01-13T15:59:06Z</published>
+    <updated>2023-01-13T15:59:06Z</updated>
+    <flickr:date_taken>2023-01-08T18:49:51-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-08T18:49:51-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625189135/" title="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44"&gt;&lt;img src="https://live.staticflickr.com/65535/52625189135_5aa22894bf_m.jpg" width="159" height="240" alt="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625189135_5aa22894bf_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c80944" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="elephant" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
