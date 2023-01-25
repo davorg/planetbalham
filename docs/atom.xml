@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-25T10:48:45Z</updated>
+  <updated>2023-01-25T11:12:58Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Thick Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (42°F)</title>
+    <title>Today: Thick Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (42°F), Minimum Temperature: 1°C (33°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1033mb, Humidity: 94%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (33°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1031mb, Humidity: 94%, UV Risk: 1, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-25T09:07:00.000+0000</id>
-    <published>2023-01-25T10:28:57Z</published>
-    <updated>2023-01-25T10:28:57Z</updated>
+    <published>2023-01-25T11:02:12Z</published>
+    <updated>2023-01-25T11:02:12Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (46°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1031mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-25T09:07:00.000+0000</id>
-    <published>2023-01-25T10:28:57Z</published>
-    <updated>2023-01-25T10:28:57Z</updated>
+    <published>2023-01-25T11:02:12Z</published>
+    <updated>2023-01-25T11:02:12Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1031mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-25T09:07:00.000+0000</id>
-    <published>2023-01-25T10:28:57Z</published>
-    <updated>2023-01-25T10:28:57Z</updated>
+    <published>2023-01-25T11:02:12Z</published>
+    <updated>2023-01-25T11:02:12Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5</id>
+    <title type="html">All 272 Tube Stations On The London Underground Bitchily Reviewed - Londonist</title>
+    <updated>2023-01-25T10:44:22.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5" target="_blank"&gt;All 272 Tube Stations On The London Underground Bitchily Reviewed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMjQtamFudWFyeS0yMDIzLTI5ODgzNdIBSWh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMjQtamFudWFyeS0yMDIzLTI5ODgzNT9hbXA?oc=5</id>
@@ -102,13 +109,6 @@
     <updated>2023-01-21T05:00:00.000000000Z</updated>
     <link href="https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS8xMC10b3ducy1zZWVtLWV2ZXJ5LWxpc3QtMjU5OTEwMDfSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvcHJvcGVydHkvMTAtdG93bnMtc2VlbS1ldmVyeS1saXN0LTI1OTkxMDA3LmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS8xMC10b3ducy1zZWVtLWV2ZXJ5LWxpc3QtMjU5OTEwMDfSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvcHJvcGVydHkvMTAtdG93bnMtc2VlbS1ldmVyeS1saXN0LTI1OTkxMDA3LmFtcA?oc=5" target="_blank"&gt;The 10 'towns' that seem to be on every list of London's coolest places to live&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmFmY3dpbWJsZWRvbi5jby51ay9uZXdzLzIwMjMvamFudWFyeS9oZWFkbGluZS1hY3RzLWhheWRvbi1keWxhbi1hbmQtcm9iLXRha2UtY2VudHJlLXN0YWdlL9IBAA?oc=5</id>
-    <title type="html">Headline acts! Haydon, Dylan and Rob take centre stage - AFC Wimbledon</title>
-    <updated>2023-01-20T19:37:30.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LmFmY3dpbWJsZWRvbi5jby51ay9uZXdzLzIwMjMvamFudWFyeS9oZWFkbGluZS1hY3RzLWhheWRvbi1keWxhbi1hbmQtcm9iLXRha2UtY2VudHJlLXN0YWdlL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LmFmY3dpbWJsZWRvbi5jby51ay9uZXdzLzIwMjMvamFudWFyeS9oZWFkbGluZS1hY3RzLWhheWRvbi1keWxhbi1hbmQtcm9iLXRha2UtY2VudHJlLXN0YWdlL9IBAA?oc=5" target="_blank"&gt;Headline acts! Haydon, Dylan and Rob take centre stage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AFC Wimbledon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham. No. 9017 passing on its way to the Bluebell Railway. 15.2.62</title>
