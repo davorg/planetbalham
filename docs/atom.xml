@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-25T15:13:39Z</updated>
+  <updated>2023-01-25T15:48:56Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Thick Cloud, Minimum Temperature: 1°C (33°F) Maximum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 96%, UV Risk: 0, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: 1°C (33°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 98%, UV Risk: 0, Pollution: Low, Sunrise: 07:49 GMT, Sunset: 16:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-25T09:07:00.000+0000</id>
-    <published>2023-01-25T15:00:08Z</published>
-    <updated>2023-01-25T15:00:08Z</updated>
+    <published>2023-01-25T15:28:57Z</published>
+    <updated>2023-01-25T15:28:57Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (46°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 4°C (39°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1031mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:48 GMT, Sunset: 16:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-25T09:07:00.000+0000</id>
-    <published>2023-01-25T15:00:08Z</published>
-    <updated>2023-01-25T15:00:08Z</updated>
+    <published>2023-01-25T15:28:57Z</published>
+    <updated>2023-01-25T15:28:57Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1031mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-25T09:07:00.000+0000</id>
-    <published>2023-01-25T15:00:08Z</published>
-    <updated>2023-01-25T15:00:08Z</updated>
+    <published>2023-01-25T15:28:57Z</published>
+    <updated>2023-01-25T15:28:57Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMyNzU4NDAuYnJpZ2h0b24tbG9uZG9uLXRyYWlucy1uby1zZXJ2aWNlcy12aWN0b3JpYS13ZWVrZW5kL9IBLWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMyNzU4NDAuYW1wLw?oc=5</id>
+    <title type="html">Brighton to London trains: No services to Victoria this weekend - The Argus</title>
+    <updated>2023-01-25T15:25:00.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMyNzU4NDAuYnJpZ2h0b24tbG9uZG9uLXRyYWlucy1uby1zZXJ2aWNlcy12aWN0b3JpYS13ZWVrZW5kL9IBLWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMyNzU4NDAuYW1wLw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMyNzU4NDAuYnJpZ2h0b24tbG9uZG9uLXRyYWlucy1uby1zZXJ2aWNlcy12aWN0b3JpYS13ZWVrZW5kL9IBLWh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMyNzU4NDAuYW1wLw?oc=5" target="_blank"&gt;Brighton to London trains: No services to Victoria this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Argus&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5</id>
@@ -103,13 +110,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS8xMC10b3ducy1zZWVtLWV2ZXJ5LWxpc3QtMjU5OTEwMDfSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvcHJvcGVydHkvMTAtdG93bnMtc2VlbS1ldmVyeS1saXN0LTI1OTkxMDA3LmFtcA?oc=5</id>
-    <title type="html">The 10 'towns' that seem to be on every list of London's coolest places to live - My London</title>
-    <updated>2023-01-21T05:00:00.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS8xMC10b3ducy1zZWVtLWV2ZXJ5LWxpc3QtMjU5OTEwMDfSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvcHJvcGVydHkvMTAtdG93bnMtc2VlbS1ldmVyeS1saXN0LTI1OTkxMDA3LmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9wcm9wZXJ0eS8xMC10b3ducy1zZWVtLWV2ZXJ5LWxpc3QtMjU5OTEwMDfSAU1odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvcHJvcGVydHkvMTAtdG93bnMtc2VlbS1ldmVyeS1saXN0LTI1OTkxMDA3LmFtcA?oc=5" target="_blank"&gt;The 10 'towns' that seem to be on every list of London's coolest places to live&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham. No. 9017 passing on its way to the Bluebell Railway. 15.2.62</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/110691393@N07/52638114492/"/>
