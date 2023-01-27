@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-27T15:48:49Z</updated>
+  <updated>2023-01-27T16:14:02Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5</id>
-    <title type="html">All 272 Tube Stations On The London Underground Bitchily Reviewed - Londonist</title>
-    <updated>2023-01-27T15:48:06.000000000Z</updated>
-    <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5" target="_blank"&gt;All 272 Tube Stations On The London Underground Bitchily Reviewed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 68%, UV Risk: 0, Pollution: Low, Sunrise: 07:47 GMT, Sunset: 16:41 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-27T09:04:00.000+0000</id>
-    <published>2023-01-27T15:28:57Z</published>
-    <updated>2023-01-27T15:28:57Z</updated>
+    <published>2023-01-27T16:00:14Z</published>
+    <updated>2023-01-27T16:00:14Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 3°C (38°F) Maximum Temperature: 7°C (44°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:45 GMT, Sunset: 16:43 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-27T09:04:00.000+0000</id>
-    <published>2023-01-27T15:28:57Z</published>
-    <updated>2023-01-27T15:28:57Z</updated>
+    <published>2023-01-27T16:00:14Z</published>
+    <updated>2023-01-27T16:00:14Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 9°C (49°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 7°C (44°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 07:44 GMT, Sunset: 16:44 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-27T09:04:00.000+0000</id>
-    <published>2023-01-27T15:28:57Z</published>
-    <updated>2023-01-27T15:28:57Z</updated>
+    <published>2023-01-27T16:00:14Z</published>
+    <updated>2023-01-27T16:00:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5</id>
+    <title type="html">All 272 Tube Stations On The London Underground Bitchily Reviewed - Londonist</title>
+    <updated>2023-01-27T15:48:06.000000000Z</updated>
+    <link href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdHJhbnNwb3J0L3Jldmlldy1vZi1ldmVyeS1zaW5nbGUtdHViZS1zdGF0aW9uLW9uLXRoZS1sb25kb24tdW5kZXJncm91bmTSAQA?oc=5" target="_blank"&gt;All 272 Tube Stations On The London Underground Bitchily Reviewed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jaHJpc3RtYXMtdHJlZXMtaW4td2FuZHN3b3J0aC1zdGlsbC13YWl0aW5nLXRvLWJlLWNvbGxlY3RlZC1ieS1jb3VuY2lsL9IBAA?oc=5</id>
@@ -112,35 +112,6 @@
     <category term="trafficlights" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="traffic" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="weather" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham. No. 9017 passing on its way to the Bluebell Railway. 15.2.62</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/110691393@N07/52638114492/"/>
-    <id>tag:flickr.com,2005:/photo/52638114492</id>
-    <published>2023-01-20T17:15:27Z</published>
-    <updated>2023-01-20T17:15:27Z</updated>
-    <flickr:date_taken>1962-02-15T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1962-02-15T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/110691393@N07/"&gt;Roger Joanes&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/110691393@N07/52638114492/" title="Balham. No. 9017 passing on its way to the Bluebell Railway. 15.2.62"&gt;&lt;img src="https://live.staticflickr.com/65535/52638114492_ec00738774_m.jpg" width="240" height="160" alt="Balham. No. 9017 passing on its way to the Bluebell Railway. 15.2.62" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Roger Joanes</name>
-      <uri>https://www.flickr.com/people/110691393@N07/</uri>
-      <flickr:nsid>110691393@N07</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon09.png#110691393@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52638114492_ec00738774_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railways" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blackwhite" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -230,6 +201,39 @@
     <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625189135/"/>
+    <id>tag:flickr.com,2005:/photo/52625189135</id>
+    <published>2023-01-13T15:59:06Z</published>
+    <updated>2023-01-13T15:59:06Z</updated>
+    <flickr:date_taken>2023-01-08T18:49:51-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-08T18:49:51-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625189135/" title="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44"&gt;&lt;img src="https://live.staticflickr.com/65535/52625189135_5aa22894bf_m.jpg" width="159" height="240" alt="Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Elephant, Bedford Hill, Balham, Wandsworth, 1990, 90c8-09-44&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625189135_5aa22894bf_b.jpg"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c80944" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bedfordhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="elephant" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
