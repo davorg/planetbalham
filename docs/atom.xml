@@ -7,9 +7,34 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-01-28T22:13:11Z</updated>
+  <updated>2023-01-28T22:49:06Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Terrapin Road, Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dgeezer/52655315275/"/>
+    <id>tag:flickr.com,2005:/photo/52655315275</id>
+    <published>2023-01-28T22:21:16Z</published>
+    <updated>2023-01-28T22:21:16Z</updated>
+    <flickr:date_taken>2023-01-27T12:15:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-27T12:15:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dgeezer/"&gt;diamond geezer&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dgeezer/52655315275/" title="Terrapin Road, Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52655315275_63098040cc_m.jpg" width="240" height="180" alt="Terrapin Road, Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Extra-wide Queen Anne-style terraced houses in Balham, built by Alfred Heaver in the 1890s&lt;/p&gt;</content>
+    <author>
+      <name>diamond geezer</name>
+      <uri>https://www.flickr.com/people/dgeezer/</uri>
+      <flickr:nsid>36101699310@N01</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3721/buddyicons/36101699310@N01.jpg?1369096784#36101699310@N01</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52655315275_63098040cc_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -195,38 +220,6 @@
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625189295_1df5dec8a5_b.jpg"/>
     <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="90c80933" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52625236048/"/>
-    <id>tag:flickr.com,2005:/photo/52625236048</id>
-    <published>2023-01-13T15:59:07Z</published>
-    <updated>2023-01-13T15:59:07Z</updated>
-    <flickr:date_taken>2023-01-08T18:51:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-08T18:51:10-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52625236048/" title="Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32"&gt;&lt;img src="https://live.staticflickr.com/65535/52625236048_ee6c2e16d6_m.jpg" width="240" height="161" alt="Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hildreth St, Balham, Wandsworth, 1990, 90c8-09-32&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52625236048_ee6c2e16d6_b.jpg"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c80932" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hildrethst" scheme="https://www.flickr.com/photos/tags/"/>
