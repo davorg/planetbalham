@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-02T15:48:53Z</updated>
+  <updated>2023-02-02T16:14:13Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1028mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-31T07:28:00.000+0000</id>
+    <published>2023-02-02T16:04:34Z</published>
+    <updated>2023-02-02T16:04:34Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (57°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1032mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 16:53 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-31T07:28:00.000+0000</id>
+    <published>2023-02-02T16:04:34Z</published>
+    <updated>2023-02-02T16:04:34Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 11°C (53°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1036mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-31T07:28:00.000+0000</id>
+    <published>2023-02-02T16:04:34Z</published>
+    <updated>2023-02-02T16:04:34Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665352578/"/>
@@ -72,6 +102,40 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664852176/"/>
+    <id>tag:flickr.com,2005:/photo/52664852176</id>
+    <published>2023-02-02T15:43:46Z</published>
+    <updated>2023-02-02T15:43:46Z</updated>
+    <flickr:date_taken>2023-01-31T15:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-31T15:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52664852176/" title="Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41"&gt;&lt;img src="https://live.staticflickr.com/65535/52664852176_64c3fcc4ef_m.jpg" width="240" height="156" alt="Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52664852176_64c3fcc4ef_b.jpg"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c901b41" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whitewarespecial" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
@@ -146,69 +210,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham, Wandsworth, 1990, 90-c9-01-22</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665351738/"/>
-    <id>tag:flickr.com,2005:/photo/52665351738</id>
-    <published>2023-02-02T15:43:43Z</published>
-    <updated>2023-02-02T15:43:43Z</updated>
-    <flickr:date_taken>2023-01-31T15:51:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:51:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52665351738/" title="Balham, Wandsworth, 1990, 90-c9-01-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52665351738_85c5477510_m.jpg" width="164" height="240" alt="Balham, Wandsworth, 1990, 90-c9-01-22" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-22&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52665351738_85c5477510_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c90122" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (53°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:38 GMT, Sunset: 16:52 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-01-31T07:28:00.000+0000</id>
-    <published>2023-02-02T15:01:38Z</published>
-    <updated>2023-02-02T15:01:38Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (57°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1032mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 07:36 GMT, Sunset: 16:53 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-01-31T07:28:00.000+0000</id>
-    <published>2023-02-02T15:01:38Z</published>
-    <updated>2023-02-02T15:01:38Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 11°C (53°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1036mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-01-31T07:28:00.000+0000</id>
-    <published>2023-02-02T15:01:38Z</published>
-    <updated>2023-02-02T15:01:38Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vY291bmNpbC1mb3JjZWQtdG8tcmVmdW5kLTEwMDAtZHJpdmVycy1maW5lcy1kdWUtdG8tdW5mYWlyLXNpZ24tb3V0c2lkZS1zY2hvb2wtMTQwODMyNTMxLmh0bWzSAX5odHRwczovL256Lm5ld3MueWFob28uY29tL2FtcGh0bWwvY291bmNpbC1mb3JjZWQtdG8tcmVmdW5kLTEwMDAtZHJpdmVycy1maW5lcy1kdWUtdG8tdW5mYWlyLXNpZ24tb3V0c2lkZS1zY2hvb2wtMTQwODMyNTMxLmh0bWw?oc=5</id>
     <title type="html">Council forced to refund 1,000 drivers' fines due to 'unfair' sign outside school - Yahoo New Zealand News</title>
