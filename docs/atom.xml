@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-03T20:48:48Z</updated>
+  <updated>2023-02-03T21:12:58Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1035mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 16:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-03T09:25:00.000+0000</id>
-    <published>2023-02-03T20:15:52Z</published>
-    <updated>2023-02-03T20:15:52Z</updated>
+    <published>2023-02-03T21:01:34Z</published>
+    <updated>2023-02-03T21:01:34Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 12°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1037mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-03T09:25:00.000+0000</id>
-    <published>2023-02-03T20:15:52Z</published>
-    <updated>2023-02-03T20:15:52Z</updated>
+    <published>2023-02-03T21:01:34Z</published>
+    <updated>2023-02-03T21:01:34Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 0°C (32°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1045mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-03T09:25:00.000+0000</id>
-    <published>2023-02-03T20:15:52Z</published>
-    <updated>2023-02-03T20:15:52Z</updated>
+    <published>2023-02-03T21:01:34Z</published>
+    <updated>2023-02-03T21:01:34Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vdGhlaW1hZ2luYXRpdmVjb25zZXJ2YXRpdmUub3JnLzIwMjMvMDIvbGVhcm5pbmctbG92ZS1vdXItbmVvbGl0aGljLW5laWdoYm91cnMtam9zZXBoLXBlYXJjZS5odG1s0gEA?oc=5</id>
@@ -146,13 +146,6 @@
     <updated>2023-02-03T14:15:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC90YWRsZXlzLXVuYmVhdGVuLWhvbWUtcnVuLWNvbWVzLXRvLWFuLWVuZC1hZ2FpbnN0LWxlYWd1ZS1sZS05Mjk2OTI5L9IBbWh0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC9hbXAvdGFkbGV5cy11bmJlYXRlbi1ob21lLXJ1bi1jb21lcy10by1hbi1lbmQtYWdhaW5zdC1sZWFndWUtbGUtOTI5NjkyOS8?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC90YWRsZXlzLXVuYmVhdGVuLWhvbWUtcnVuLWNvbWVzLXRvLWFuLWVuZC1hZ2FpbnN0LWxlYWd1ZS1sZS05Mjk2OTI5L9IBbWh0dHBzOi8vd3d3Lm5ld2J1cnl0b2RheS5jby51ay9zcG9ydC9hbXAvdGFkbGV5cy11bmJlYXRlbi1ob21lLXJ1bi1jb21lcy10by1hbi1lbmQtYWdhaW5zdC1sZWFndWUtbGUtOTI5NjkyOS8?oc=5" target="_blank"&gt;Tadley's unbeaten home run comes to an end against league leaders&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Newbury Today&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY1OS1jZW50cy9uZXdzLXN0b3J5L2EwZjVhM2I1ZWI5OTRhNGM1OWYyNWYxNWE1MmJiMTI50gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjU5LWNlbnRzL25ld3Mtc3RvcnkvYTBmNWEzYjVlYjk5NGE0YzU5ZjI1ZjE1YTUyYmIxMjk_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 163.9 cents - Courier Mail</title>
-    <updated>2023-02-03T02:37:30.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY1OS1jZW50cy9uZXdzLXN0b3J5L2EwZjVhM2I1ZWI5OTRhNGM1OWYyNWYxNWE1MmJiMTI50gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjU5LWNlbnRzL25ld3Mtc3RvcnkvYTBmNWEzYjVlYjk5NGE0YzU5ZjI1ZjE1YTUyYmIxMjk_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY1OS1jZW50cy9uZXdzLXN0b3J5L2EwZjVhM2I1ZWI5OTRhNGM1OWYyNWYxNWE1MmJiMTI50gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjU5LWNlbnRzL25ld3Mtc3RvcnkvYTBmNWEzYjVlYjk5NGE0YzU5ZjI1ZjE1YTUyYmIxMjk_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 163.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33</title>
@@ -330,6 +323,13 @@
     <updated>2023-02-02T14:48:36.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvY291bmNpbC1mb3JjZWQtcmVmdW5kLWRyaXZlcnMtMTAwMDAwLTI5MTE1NTc00gFXaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdWstbmV3cy9jb3VuY2lsLWZvcmNlZC1yZWZ1bmQtZHJpdmVycy0xMDAwMDAtMjkxMTU1NzQuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvY291bmNpbC1mb3JjZWQtcmVmdW5kLWRyaXZlcnMtMTAwMDAwLTI5MTE1NTc00gFXaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdWstbmV3cy9jb3VuY2lsLWZvcmNlZC1yZWZ1bmQtZHJpdmVycy0xMDAwMDAtMjkxMTU1NzQuYW1w?oc=5" target="_blank"&gt;Council forced to refund drivers £100,000 in fines due to confusing road sign blunder&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDIwMjEyMDcxL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvaGVubnlzLWJhbGhhbS13aW5lLWJhci1vcGVucy1sb25kb27SAQA?oc=5</id>
+    <title type="html">Broadway Market's Henny's Wine Bar moves to Balham - Hot Dinners</title>
+    <updated>2023-02-02T09:14:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDIwMjEyMDcxL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvaGVubnlzLWJhbGhhbS13aW5lLWJhci1vcGVucy1sb25kb27SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDIwMjEyMDcxL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvaGVubnlzLWJhbGhhbS13aW5lLWJhci1vcGVucy1sb25kb27SAQA?oc=5" target="_blank"&gt;Broadway Market's Henny's Wine Bar moves to Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
