@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-04T03:14:01Z</updated>
+  <updated>2023-02-04T03:48:53Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Poor, Pressure: 1036mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 16:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-03T21:02:00.000+0000</id>
-    <published>2023-02-04T03:02:10Z</published>
-    <updated>2023-02-04T03:02:10Z</updated>
+    <published>2023-02-04T03:17:36Z</published>
+    <updated>2023-02-04T03:17:36Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 11°C (53°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 5°C (42°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 76%, UV Risk: 1, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-03T21:02:00.000+0000</id>
-    <published>2023-02-04T03:02:10Z</published>
-    <updated>2023-02-04T03:02:10Z</updated>
+    <published>2023-02-04T03:17:36Z</published>
+    <updated>2023-02-04T03:17:36Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 0°C (32°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1045mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-03T21:02:00.000+0000</id>
-    <published>2023-02-04T03:02:10Z</published>
-    <updated>2023-02-04T03:02:10Z</updated>
+    <published>2023-02-04T03:17:36Z</published>
+    <updated>2023-02-04T03:17:36Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vdGhlaW1hZ2luYXRpdmVjb25zZXJ2YXRpdmUub3JnLzIwMjMvMDIvbGVhcm5pbmctbG92ZS1vdXItbmVvbGl0aGljLW5laWdoYm91cnMtam9zZXBoLXBlYXJjZS5odG1s0gEA?oc=5</id>
