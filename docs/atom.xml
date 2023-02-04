@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-04T14:12:57Z</updated>
+  <updated>2023-02-04T14:48:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (51°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1038mb, Humidity: 70%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (50°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1039mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 07:35 GMT, Sunset: 16:55 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-04T09:03:00.000+0000</id>
-    <published>2023-02-04T14:00:11Z</published>
-    <updated>2023-02-04T14:00:11Z</updated>
+    <published>2023-02-04T14:32:33Z</published>
+    <updated>2023-02-04T14:32:33Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (49°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 0°C (32°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1046mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 07:33 GMT, Sunset: 16:57 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-04T09:03:00.000+0000</id>
-    <published>2023-02-04T14:00:11Z</published>
-    <updated>2023-02-04T14:00:11Z</updated>
+    <published>2023-02-04T14:32:33Z</published>
+    <updated>2023-02-04T14:32:33Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 0°C (32°F), Wind Direction: Westerly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1041mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 07:31 GMT, Sunset: 16:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-04T09:03:00.000+0000</id>
-    <published>2023-02-04T14:00:11Z</published>
-    <updated>2023-02-04T14:00:11Z</updated>
+    <published>2023-02-04T14:32:33Z</published>
+    <updated>2023-02-04T14:32:33Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmxvbmRvbi1maXJlLmdvdi51ay9pbmNpZGVudHMvMjAyMy9mZWJydWFyeS9yZXN0YXVyYW50LWZpcmUtYmFsaGFtL9IBAA?oc=5</id>
@@ -223,6 +223,40 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664852176/"/>
+    <id>tag:flickr.com,2005:/photo/52664852176</id>
+    <published>2023-02-02T15:43:46Z</published>
+    <updated>2023-02-02T15:43:46Z</updated>
+    <flickr:date_taken>2023-01-31T15:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-31T15:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52664852176/" title="Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41"&gt;&lt;img src="https://live.staticflickr.com/65535/52664852176_64c3fcc4ef_m.jpg" width="240" height="156" alt="Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52664852176_64c3fcc4ef_b.jpg"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c901b41" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whitewarespecial" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Chrysalis Theatre, Acting School, Balham, Wandsworth, 1990, 90-c9-01-b53</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665145969/"/>
     <id>tag:flickr.com,2005:/photo/52665145969</id>
@@ -258,61 +292,28 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham, Wandsworth, 1990, 90-c9-01-b52</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665145999/"/>
-    <id>tag:flickr.com,2005:/photo/52665145999</id>
+    <title>Balham, Wandsworth, 1990, 90-c9-01-b51</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664852001/"/>
+    <id>tag:flickr.com,2005:/photo/52664852001</id>
     <published>2023-02-02T15:43:44Z</published>
     <updated>2023-02-02T15:43:44Z</updated>
-    <flickr:date_taken>2023-01-31T15:52:50-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:52:50-08:00</dc:date.Taken>
+    <flickr:date_taken>2023-01-31T15:52:44-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-31T15:52:44-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52665145999/" title="Balham, Wandsworth, 1990, 90-c9-01-b52"&gt;&lt;img src="https://live.staticflickr.com/65535/52665145999_179fbe46e1_m.jpg" width="240" height="160" alt="Balham, Wandsworth, 1990, 90-c9-01-b52" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52664852001/" title="Balham, Wandsworth, 1990, 90-c9-01-b51"&gt;&lt;img src="https://live.staticflickr.com/65535/52664852001_1d52733d90_m.jpg" width="240" height="160" alt="Balham, Wandsworth, 1990, 90-c9-01-b51" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-b52&lt;/p&gt;</content>
+&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-b51&lt;/p&gt;</content>
     <author>
       <name>peter marshall</name>
       <uri>https://www.flickr.com/people/petermarshall/</uri>
       <flickr:nsid>69163004@N00</flickr:nsid>
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52665145999_179fbe46e1_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52664852001_1d52733d90_b.jpg"/>
     <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c901b52" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshalld" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham, Wandsworth, 1990, 90-c9-01-22</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665351738/"/>
-    <id>tag:flickr.com,2005:/photo/52665351738</id>
-    <published>2023-02-02T15:43:43Z</published>
-    <updated>2023-02-02T15:43:43Z</updated>
-    <flickr:date_taken>2023-01-31T15:51:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:51:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52665351738/" title="Balham, Wandsworth, 1990, 90-c9-01-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52665351738_85c5477510_m.jpg" width="164" height="240" alt="Balham, Wandsworth, 1990, 90-c9-01-22" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-22&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52665351738_85c5477510_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c90122" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c901b51" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
