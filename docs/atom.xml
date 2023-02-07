@@ -7,28 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-07T11:13:02Z</updated>
+  <updated>2023-02-07T11:48:42Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MNIBUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MC5hbXA?oc=5</id>
+    <title type="html">'I went to London charity shops for a cheap Valentine's Day outfit and found an L.K. Bennett top for £14' - My London</title>
+    <updated>2023-02-07T11:22:45.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MNIBUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MC5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MNIBUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MC5hbXA?oc=5" target="_blank"&gt;'I went to London charity shops for a cheap Valentine's Day outfit and found an L.K. Bennett top for £14'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Sunny, Minimum Temperature: -2°C (28°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -2°C (28°F), Wind Direction: South Westerly, Wind Speed: 3mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 07:30 GMT, Sunset: 17:01 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -2°C (28°F), Wind Direction: South Westerly, Wind Speed: 3mph, Visibility: Good, Pressure: 1038mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 07:30 GMT, Sunset: 17:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-07T09:49:00.000+0000</id>
-    <published>2023-02-07T11:02:10Z</published>
-    <updated>2023-02-07T11:02:10Z</updated>
+    <published>2023-02-07T11:16:06Z</published>
+    <updated>2023-02-07T11:16:06Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 0°C (32°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 0°C (32°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1034mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 0°C (32°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1034mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-07T09:49:00.000+0000</id>
-    <published>2023-02-07T11:02:10Z</published>
-    <updated>2023-02-07T11:02:10Z</updated>
+    <published>2023-02-07T11:16:06Z</published>
+    <updated>2023-02-07T11:16:06Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: -2°C (29°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -2°C (29°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1034mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-07T09:49:00.000+0000</id>
-    <published>2023-02-07T11:02:10Z</published>
-    <updated>2023-02-07T11:02:10Z</updated>
+    <published>2023-02-07T11:16:06Z</published>
+    <updated>2023-02-07T11:16:06Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9wcmV0dHktc291dGgtbG9uZG9uLXZpbGxhZ2UtdGhhdHMtMjYwNDczNjfSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvcHJldHR5LXNvdXRoLWxvbmRvbi12aWxsYWdlLXRoYXRzLTI2MDQ3MzY3LmFtcA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-02-05T18:06:51.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWphaWxlZC1hZnRlci0yNjE2MzM0N9IBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWphaWxlZC1hZnRlci0yNjE2MzM0Ny5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWphaWxlZC1hZnRlci0yNjE2MzM0N9IBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tbWFuLWphaWxlZC1hZnRlci0yNjE2MzM0Ny5hbXA?oc=5" target="_blank"&gt;South London man jailed after selling haul of 'yellow pills' and cocaine at iconic music festival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb24tdW5kZXJncm91bmQtbG9uZG9ucy1mb3Jnb3R0ZW4tcml2YWwtMjYxNDM1MDfSAWhodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbG9uZG9uLXVuZGVyZ3JvdW5kLWxvbmRvbnMtZm9yZ290dGVuLXJpdmFsLTI2MTQzNTA3LmFtcA?oc=5</id>
-    <title type="html">Battersea Power Station's rival which turned into some of London's poshest homes - My London</title>
-    <updated>2023-02-05T08:20:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb24tdW5kZXJncm91bmQtbG9uZG9ucy1mb3Jnb3R0ZW4tcml2YWwtMjYxNDM1MDfSAWhodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbG9uZG9uLXVuZGVyZ3JvdW5kLWxvbmRvbnMtZm9yZ290dGVuLXJpdmFsLTI2MTQzNTA3LmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb24tdW5kZXJncm91bmQtbG9uZG9ucy1mb3Jnb3R0ZW4tcml2YWwtMjYxNDM1MDfSAWhodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbG9uZG9uLXVuZGVyZ3JvdW5kLWxvbmRvbnMtZm9yZ290dGVuLXJpdmFsLTI2MTQzNTA3LmFtcA?oc=5" target="_blank"&gt;Battersea Power Station's rival which turned into some of London's poshest homes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
@@ -161,41 +161,6 @@
     <category term="review"/>
     <category term="year in gigs"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665352578/"/>
-    <id>tag:flickr.com,2005:/photo/52665352578</id>
-    <published>2023-02-02T15:43:48Z</published>
-    <updated>2023-02-02T15:43:48Z</updated>
-    <flickr:date_taken>2023-01-31T15:56:09-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:56:09-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52665352578/" title="Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33"&gt;&lt;img src="https://live.staticflickr.com/65535/52665352578_458907f060_m.jpg" width="240" height="160" alt="Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33&lt;/p&gt;</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52665352578_458907f060_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c901b33" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uppertootingrd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hairdresser" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham, Wandsworth, 1990, 90-c9-01-b54</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664851781/"/>
@@ -324,6 +289,39 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshalld" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham, Wandsworth, 1990, 90-c9-01-b51</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664852001/"/>
+    <id>tag:flickr.com,2005:/photo/52664852001</id>
+    <published>2023-02-02T15:43:44Z</published>
+    <updated>2023-02-02T15:43:44Z</updated>
+    <flickr:date_taken>2023-01-31T15:52:44-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-31T15:52:44-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52664852001/" title="Balham, Wandsworth, 1990, 90-c9-01-b51"&gt;&lt;img src="https://live.staticflickr.com/65535/52664852001_1d52733d90_m.jpg" width="240" height="160" alt="Balham, Wandsworth, 1990, 90-c9-01-b51" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-b51&lt;/p&gt;</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52664852001_1d52733d90_b.jpg"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c901b51" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
