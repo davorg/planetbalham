@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-08T07:13:18Z</updated>
+  <updated>2023-02-08T07:48:59Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: -1°C (30°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1034mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 07:28 GMT, Sunset: 17:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-07T21:51:00.000+0000</id>
-    <published>2023-02-08T07:02:51Z</published>
-    <updated>2023-02-08T07:02:51Z</updated>
+    <published>2023-02-08T07:30:01Z</published>
+    <updated>2023-02-08T07:30:01Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: -1°C (29°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (29°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1034mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -1°C (29°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1034mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-07T21:51:00.000+0000</id>
-    <published>2023-02-08T07:02:51Z</published>
-    <updated>2023-02-08T07:02:51Z</updated>
+    <published>2023-02-08T07:30:01Z</published>
+    <updated>2023-02-08T07:30:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 9°C (49°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1038mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-07T21:51:00.000+0000</id>
-    <published>2023-02-08T07:02:51Z</published>
-    <updated>2023-02-08T07:02:51Z</updated>
+    <published>2023-02-08T07:30:01Z</published>
+    <updated>2023-02-08T07:30:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LnJ1c3NoLmNvbS93aG8taXMtZnJlZC1hZ2Fpbi_SAQA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2023-02-08T04:41:33.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiKGh0dHBzOi8vd3d3LnJ1c3NoLmNvbS93aG8taXMtZnJlZC1hZ2Fpbi_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiKGh0dHBzOi8vd3d3LnJ1c3NoLmNvbS93aG8taXMtZnJlZC1hZ2Fpbi_SAQA?oc=5" target="_blank"&gt;Who is Fred Again.. and why is he suddenly everywhere?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RUSSH&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTYzOS1jZW50cy9uZXdzLXN0b3J5L2EyNzA0ZGUxOTYxMTk3ZmQ0NDBjYjE5ZDQxMWIxMDg20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjM5LWNlbnRzL25ld3Mtc3RvcnkvYTI3MDRkZTE5NjExOTdmZDQ0MGNiMTlkNDExYjEwODY_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 163.9 cents - Courier Mail</title>
+    <updated>2023-02-07T23:22:51.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTYzOS1jZW50cy9uZXdzLXN0b3J5L2EyNzA0ZGUxOTYxMTk3ZmQ0NDBjYjE5ZDQxMWIxMDg20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjM5LWNlbnRzL25ld3Mtc3RvcnkvYTI3MDRkZTE5NjExOTdmZDQ0MGNiMTlkNDExYjEwODY_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTYzOS1jZW50cy9uZXdzLXN0b3J5L2EyNzA0ZGUxOTYxMTk3ZmQ0NDBjYjE5ZDQxMWIxMDg20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjM5LWNlbnRzL25ld3Mtc3RvcnkvYTI3MDRkZTE5NjExOTdmZDQ0MGNiMTlkNDExYjEwODY_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 163.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MNIBUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vdmFsZW50aW5lcy1kYXktY2hhcml0eS1zaG9wLW91dGZpdC0yNjE3MTk4MC5hbXA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-02-06T17:38:35.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5" target="_blank"&gt;London's Quirky Sewing Machine Museum — London x London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London x London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMigwFodHRwczovL3RoZWlzbGVvZnRoYW5ldG5ld3MuY29tLzIwMjMvMDIvMDUvbG9jYWwtaGlzdG9yeS1hcHBlYWxzLWhlbHAtdG8tdHJhY2UtYS1mYW1pbHktYW5kLWEtc2VhcmNoLWZvci1waG90b3Mtb2YtY2hhbnRyeS1jb3R0YWdlL9IBAA?oc=5</id>
-    <title type="html">Local history appeals: Help to trace a family and a search for photos ... - The Isle of Thanet News</title>
-    <updated>2023-02-05T17:27:06.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMigwFodHRwczovL3RoZWlzbGVvZnRoYW5ldG5ld3MuY29tLzIwMjMvMDIvMDUvbG9jYWwtaGlzdG9yeS1hcHBlYWxzLWhlbHAtdG8tdHJhY2UtYS1mYW1pbHktYW5kLWEtc2VhcmNoLWZvci1waG90b3Mtb2YtY2hhbnRyeS1jb3R0YWdlL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMigwFodHRwczovL3RoZWlzbGVvZnRoYW5ldG5ld3MuY29tLzIwMjMvMDIvMDUvbG9jYWwtaGlzdG9yeS1hcHBlYWxzLWhlbHAtdG8tdHJhY2UtYS1mYW1pbHktYW5kLWEtc2VhcmNoLWZvci1waG90b3Mtb2YtY2hhbnRyeS1jb3R0YWdlL9IBAA?oc=5" target="_blank"&gt;Local history appeals: Help to trace a family and a search for photos ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Isle of Thanet News&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
@@ -232,6 +232,41 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664852176/"/>
+    <id>tag:flickr.com,2005:/photo/52664852176</id>
+    <published>2023-02-02T15:43:46Z</published>
+    <updated>2023-02-02T15:43:46Z</updated>
+    <flickr:date_taken>2023-01-31T15:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-01-31T15:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52664852176/" title="Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41"&gt;&lt;img src="https://live.staticflickr.com/65535/52664852176_64c3fcc4ef_m.jpg" width="240" height="156" alt="Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Whiteware Special, Balham, Wandsworth, 1990, 90-c9-01-b41&lt;/p&gt;
+</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52664852176_64c3fcc4ef_b.jpg"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="90c901b41" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whitewarespecial" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Chrysalis Theatre, Acting School, Balham, Wandsworth, 1990, 90-c9-01-b53</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665145969/"/>
     <id>tag:flickr.com,2005:/photo/52665145969</id>
@@ -294,40 +329,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="petermarshalld" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham, Wandsworth, 1990, 90-c9-01-22</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665351738/"/>
-    <id>tag:flickr.com,2005:/photo/52665351738</id>
-    <published>2023-02-02T15:43:43Z</published>
-    <updated>2023-02-02T15:43:43Z</updated>
-    <flickr:date_taken>2023-01-31T15:51:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:51:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52665351738/" title="Balham, Wandsworth, 1990, 90-c9-01-22"&gt;&lt;img src="https://live.staticflickr.com/65535/52665351738_85c5477510_m.jpg" width="164" height="240" alt="Balham, Wandsworth, 1990, 90-c9-01-22" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-22&lt;/p&gt;
-</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52665351738_85c5477510_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c90122" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
