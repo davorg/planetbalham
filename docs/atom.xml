@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-09T20:49:01Z</updated>
+  <updated>2023-02-09T21:13:14Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -2°C (28°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1036mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-09T19:56:00.000+0000</id>
-    <published>2023-02-09T20:47:36Z</published>
-    <updated>2023-02-09T20:47:36Z</updated>
+    <published>2023-02-09T21:00:35Z</published>
+    <updated>2023-02-09T21:00:35Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 4°C (39°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Poor, Pressure: 1036mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-09T19:56:00.000+0000</id>
-    <published>2023-02-09T20:47:36Z</published>
-    <updated>2023-02-09T20:47:36Z</updated>
+    <published>2023-02-09T21:00:35Z</published>
+    <updated>2023-02-09T21:00:35Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 4°C (38°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 4°C (38°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1037mb, Humidity: 85%, UV Risk: 2, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-09T19:56:00.000+0000</id>
-    <published>2023-02-09T20:47:36Z</published>
-    <updated>2023-02-09T20:47:36Z</updated>
+    <published>2023-02-09T21:00:35Z</published>
+    <updated>2023-02-09T21:00:35Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5</id>
@@ -74,19 +74,39 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham, South London, 01/02/23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52679263060/"/>
+    <id>tag:flickr.com,2005:/photo/52679263060</id>
+    <published>2023-02-09T17:29:08Z</published>
+    <updated>2023-02-09T17:29:08Z</updated>
+    <flickr:date_taken>2023-02-01T12:52:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-01T12:52:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52679263060/" title="Balham, South London, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_m.jpg" width="240" height="180" alt="Balham, South London, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>aecregent</name>
+      <uri>https://www.flickr.com/people/8615623@N04/</uri>
+      <flickr:nsid>8615623@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5</id>
     <title type="html">Food waste collection scheme extended to thousands more homes ... - Wandsworth Council</title>
     <updated>2023-02-08T11:46:38.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5" target="_blank"&gt;Food waste collection scheme extended to thousands more homes ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTYzOS1jZW50cy9uZXdzLXN0b3J5L2EyNzA0ZGUxOTYxMTk3ZmQ0NDBjYjE5ZDQxMWIxMDg20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjM5LWNlbnRzL25ld3Mtc3RvcnkvYTI3MDRkZTE5NjExOTdmZDQ0MGNiMTlkNDExYjEwODY_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 163.9 cents - Courier Mail</title>
-    <updated>2023-02-07T23:22:51.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTYzOS1jZW50cy9uZXdzLXN0b3J5L2EyNzA0ZGUxOTYxMTk3ZmQ0NDBjYjE5ZDQxMWIxMDg20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjM5LWNlbnRzL25ld3Mtc3RvcnkvYTI3MDRkZTE5NjExOTdmZDQ0MGNiMTlkNDExYjEwODY_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTYzOS1jZW50cy9uZXdzLXN0b3J5L2EyNzA0ZGUxOTYxMTk3ZmQ0NDBjYjE5ZDQxMWIxMDg20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjM5LWNlbnRzL25ld3Mtc3RvcnkvYTI3MDRkZTE5NjExOTdmZDQ0MGNiMTlkNDExYjEwODY_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 163.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station, 01/02/23</title>
@@ -160,6 +180,13 @@
     <updated>2023-02-07T05:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9wcmV0dHktc291dGgtbG9uZG9uLXZpbGxhZ2UtdGhhdHMtMjYwNDczNjfSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvcHJldHR5LXNvdXRoLWxvbmRvbi12aWxsYWdlLXRoYXRzLTI2MDQ3MzY3LmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9wcmV0dHktc291dGgtbG9uZG9uLXZpbGxhZ2UtdGhhdHMtMjYwNDczNjfSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvcHJldHR5LXNvdXRoLWxvbmRvbi12aWxsYWdlLXRoYXRzLTI2MDQ3MzY3LmFtcA?oc=5" target="_blank"&gt;The 'pretty' South London ‘village’ that's been named one of the city's best places to live for families&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5</id>
+    <title type="html">London's Quirky Sewing Machine Museum — London x London - London x London</title>
+    <updated>2023-02-06T17:38:35.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5" target="_blank"&gt;London's Quirky Sewing Machine Museum — London x London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London x London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
@@ -279,40 +306,6 @@
     <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="hairdresser" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham, Wandsworth, 1990, 90-c9-01-b54</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52664851781/"/>
-    <id>tag:flickr.com,2005:/photo/52664851781</id>
-    <published>2023-02-02T15:43:46Z</published>
-    <updated>2023-02-02T15:43:46Z</updated>
-    <flickr:date_taken>2023-01-31T15:53:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:53:24-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52664851781/" title="Balham, Wandsworth, 1990, 90-c9-01-b54"&gt;&lt;img src="https://live.staticflickr.com/65535/52664851781_6f6d58d4a3_m.jpg" width="240" height="159" alt="Balham, Wandsworth, 1990, 90-c9-01-b54" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, Wandsworth, 1990, 90-c9-01-b5441&lt;/p&gt;
-</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52664851781_6f6d58d4a3_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c901b54" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
