@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-09T13:15:40Z</updated>
+  <updated>2023-02-09T13:48:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: -2°C (28°F) Maximum Temperature: 9°C (48°F)</title>
+    <title>Today: Sunny, Minimum Temperature: -2°C (28°F) Maximum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: -2°C (28°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1033mb, Humidity: 63%, UV Risk: 3, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: -2°C (28°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1033mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 07:26 GMT, Sunset: 17:04 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-09T09:50:00.000+0000</id>
-    <published>2023-02-09T13:00:55Z</published>
-    <updated>2023-02-09T13:00:55Z</updated>
+    <published>2023-02-09T13:47:36Z</published>
+    <updated>2023-02-09T13:47:36Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 9°C (49°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1036mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-09T09:50:00.000+0000</id>
-    <published>2023-02-09T13:00:55Z</published>
-    <updated>2023-02-09T13:00:55Z</updated>
+    <published>2023-02-09T13:47:36Z</published>
+    <updated>2023-02-09T13:47:36Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 4°C (38°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 4°C (38°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1036mb, Humidity: 84%, UV Risk: 2, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-09T09:50:00.000+0000</id>
-    <published>2023-02-09T13:00:55Z</published>
-    <updated>2023-02-09T13:00:55Z</updated>
+    <published>2023-02-09T13:47:36Z</published>
+    <updated>2023-02-09T13:47:36Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5</id>
+    <title type="html">Huzoor emphasises learning Urdu in virtual mulaqat with UK Waqf-e ... - The Weekly Al Hakam</title>
+    <updated>2023-02-09T13:28:06.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5" target="_blank"&gt;Huzoor emphasises learning Urdu in virtual mulaqat with UK Waqf-e ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Weekly Al Hakam&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-02-07T05:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9wcmV0dHktc291dGgtbG9uZG9uLXZpbGxhZ2UtdGhhdHMtMjYwNDczNjfSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvcHJldHR5LXNvdXRoLWxvbmRvbi12aWxsYWdlLXRoYXRzLTI2MDQ3MzY3LmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9wcmV0dHktc291dGgtbG9uZG9uLXZpbGxhZ2UtdGhhdHMtMjYwNDczNjfSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvcHJldHR5LXNvdXRoLWxvbmRvbi12aWxsYWdlLXRoYXRzLTI2MDQ3MzY3LmFtcA?oc=5" target="_blank"&gt;The 'pretty' South London ‘village’ that's been named one of the city's best places to live for families&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5</id>
-    <title type="html">London's Quirky Sewing Machine Museum — London x London - London x London</title>
-    <updated>2023-02-06T17:38:35.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vd3d3LmxvbmRvbnhsb25kb24uY29tL3Nld2luZy1tYWNoaW5lLW11c2V1bS1sb25kb24v0gEA?oc=5" target="_blank"&gt;London's Quirky Sewing Machine Museum — London x London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London x London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
