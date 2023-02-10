@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-10T12:14:50Z</updated>
+  <updated>2023-02-10T12:56:03Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 6°C (42°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1036mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1036mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 07:24 GMT, Sunset: 17:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-10T09:55:00.000+0000</id>
-    <published>2023-02-10T12:01:53Z</published>
-    <updated>2023-02-10T12:01:53Z</updated>
+    <published>2023-02-10T12:52:55Z</published>
+    <updated>2023-02-10T12:52:55Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1036mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1036mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 07:23 GMT, Sunset: 17:08 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-10T09:55:00.000+0000</id>
-    <published>2023-02-10T12:01:53Z</published>
-    <updated>2023-02-10T12:01:53Z</updated>
+    <published>2023-02-10T12:52:55Z</published>
+    <updated>2023-02-10T12:52:55Z</updated>
   </entry>
   <entry>
     <title>Sunday: Mist, Minimum Temperature: 3°C (38°F) Maximum Temperature: 10°C (51°F)</title>
@@ -37,13 +37,45 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: Southerly, Wind Speed: 4mph, Visibility: Poor, Pressure: 1037mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 07:21 GMT, Sunset: 17:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-10T09:55:00.000+0000</id>
-    <published>2023-02-10T12:01:53Z</published>
-    <updated>2023-02-10T12:01:53Z</updated>
+    <published>2023-02-10T12:52:55Z</published>
+    <updated>2023-02-10T12:52:55Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>D12887 LS 37 KJD 537P</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/186495925@N06/52680721328/"/>
+    <id>tag:flickr.com,2005:/photo/52680721328</id>
+    <published>2023-02-10T12:45:51Z</published>
+    <updated>2023-02-10T12:45:51Z</updated>
+    <flickr:date_taken>2023-02-10T12:44:29-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-10T12:44:29-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/186495925@N06/"&gt;Putney Garage&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/186495925@N06/52680721328/" title="D12887 LS 37 KJD 537P"&gt;&lt;img src="https://live.staticflickr.com/65535/52680721328_08cc19bb8d_m.jpg" width="240" height="164" alt="D12887 LS 37 KJD 537P" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Croydon allocated LS 37 stands at Balham Station.&lt;/p&gt;
+</content>
+    <author>
+      <name>Putney Garage</name>
+      <uri>https://www.flickr.com/people/186495925@N06/</uri>
+      <flickr:nsid>186495925@N06</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon01.png#186495925@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52680721328_08cc19bb8d_b.jpg"/>
+    <category term="leyland" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="national" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transport" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rail" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL21hbmNoZXN0ZXItdW5pdGVkLXRyYW5zZmVyLW5ld3MtbGl2ZS0yNjIwMjkzNtIBdmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL21hbmNoZXN0ZXItdW5pdGVkLXRyYW5zZmVyLW5ld3MtbGl2ZS0yNjIwMjkzNi5hbXA?oc=5</id>
     <title type="html">Manchester United transfer news LIVE takeover latest as 'five bidders interested in buying club' - Manchester Evening News</title>
-    <updated>2023-02-10T11:34:16.000000000Z</updated>
+    <updated>2023-02-10T11:58:05.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL21hbmNoZXN0ZXItdW5pdGVkLXRyYW5zZmVyLW5ld3MtbGl2ZS0yNjIwMjkzNtIBdmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL21hbmNoZXN0ZXItdW5pdGVkLXRyYW5zZmVyLW5ld3MtbGl2ZS0yNjIwMjkzNi5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL21hbmNoZXN0ZXItdW5pdGVkLXRyYW5zZmVyLW5ld3MtbGl2ZS0yNjIwMjkzNtIBdmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9zcG9ydC9mb290YmFsbC9mb290YmFsbC1uZXdzL21hbmNoZXN0ZXItdW5pdGVkLXRyYW5zZmVyLW5ld3MtbGl2ZS0yNjIwMjkzNi5hbXA?oc=5" target="_blank"&gt;Manchester United transfer news LIVE takeover latest as 'five bidders interested in buying club'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Manchester Evening News&lt;/font&gt;</content>
   </entry>
@@ -274,42 +306,6 @@
     <category term="review"/>
     <category term="year in gigs"/>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52665352578/"/>
-    <id>tag:flickr.com,2005:/photo/52665352578</id>
-    <published>2023-02-02T15:43:48Z</published>
-    <updated>2023-02-02T15:43:48Z</updated>
-    <flickr:date_taken>2023-01-31T15:56:09-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-01-31T15:56:09-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52665352578/" title="Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33"&gt;&lt;img src="https://live.staticflickr.com/65535/52665352578_458907f060_m.jpg" width="240" height="160" alt="Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hairdresser, Upper Tooting Rd, Balham, Wandsworth, 1990, 90-c9-01-b33&lt;/p&gt;
-</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52665352578_458907f060_b.jpg"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1990" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="90c901b33" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uppertootingrd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colourneg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hairdresser" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>5 Reasons Why Using AI to Generate Blog Posts Can Destroy Your SEO</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2022/12/5-reasons-why-using-ai-to-generate-blog-posts-can-destroy-your-seo.html" type="text/html"/>
