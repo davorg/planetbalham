@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-12T22:13:19Z</updated>
+  <updated>2023-02-12T22:48:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Mist, Minimum Temperature: 3°C (38°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1035mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 17:10 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1035mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 17:10 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-12T19:53:00.000+0000</id>
-    <published>2023-02-12T22:00:31Z</published>
-    <updated>2023-02-12T22:00:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-12T21:53:00.000+0000</id>
+    <published>2023-02-12T22:20:53Z</published>
+    <updated>2023-02-12T22:20:53Z</updated>
   </entry>
   <entry>
     <title>Monday: Mist, Minimum Temperature: 1°C (33°F) Maximum Temperature: 12°C (54°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 1°C (33°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Poor, Pressure: 1033mb, Humidity: 81%, UV Risk: 3, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 17:12 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-12T19:53:00.000+0000</id>
-    <published>2023-02-12T22:00:31Z</published>
-    <updated>2023-02-12T22:00:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-12T21:53:00.000+0000</id>
+    <published>2023-02-12T22:20:53Z</published>
+    <updated>2023-02-12T22:20:53Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny, Minimum Temperature: 2°C (36°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Tuesday: Sunny, Minimum Temperature: 2°C (36°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 2°C (36°F), Wind Direction: Southerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 82%, UV Risk: 3, Pollution: Low, Sunrise: 07:17 GMT, Sunset: 17:13 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 2°C (36°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1030mb, Humidity: 81%, UV Risk: 3, Pollution: Low, Sunrise: 07:17 GMT, Sunset: 17:13 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-12T19:53:00.000+0000</id>
-    <published>2023-02-12T22:00:31Z</published>
-    <updated>2023-02-12T22:00:31Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-12T21:53:00.000+0000</id>
+    <published>2023-02-12T22:20:53Z</published>
+    <updated>2023-02-12T22:20:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9sb25kb24tdW5kZXJncm91bmQtc3RhdGlvbi1tZWFudC1jYWxsZWQtMjYyMTg5OTTSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvbG9uZG9uLXVuZGVyZ3JvdW5kLXN0YXRpb24tbWVhbnQtY2FsbGVkLTI2MjE4OTk0LmFtcA?oc=5</id>
@@ -139,13 +139,6 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
     <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9leGNsdXNpdmUtbWFuY2hlc3Rlci11bml0ZWQtYW5kLXNwdXJzLWluLXJ1bm5pbmctdG8tc2lnbi1hZmMtd2ltYmxlZG9uLWFjYWRlbXktZ29hbGtlZXBlci_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9leGNsdXNpdmUtbWFuY2hlc3Rlci11bml0ZWQtYW5kLXNwdXJzLWluLXJ1bm5pbmctdG8tc2lnbi1hZmMtd2ltYmxlZG9uLWFjYWRlbXktZ29hbGtlZXBlci_SAQA?oc=5" target="_blank"&gt;Exclusive – Manchester United and Spurs in running to sign AFC ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5</id>
-    <title type="html">Huzoor emphasises learning Urdu in virtual mulaqat with UK Waqf-e ... - The Weekly Al Hakam</title>
-    <updated>2023-02-09T17:51:08.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiPWh0dHBzOi8vd3d3LmFsaGFrYW0ub3JnL3dhcWlmZWVuLWFuZC13YXFpZmFhdC11ay1tZWV0LWh1em9vci_SAQA?oc=5" target="_blank"&gt;Huzoor emphasises learning Urdu in virtual mulaqat with UK Waqf-e ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Weekly Al Hakam&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham, South London, 01/02/23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52678828901/"/>
@@ -200,6 +193,13 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5</id>
+    <title type="html">Food waste collection scheme extended to thousands more homes ... - Wandsworth Council</title>
+    <updated>2023-02-08T11:46:38.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidGh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1mZWJydWFyeS0yMDIzL2Zvb2Qtd2FzdGUtY29sbGVjdGlvbi1zY2hlbWUtZXh0ZW5kZWQtdG8tdGhvdXNhbmRzLW1vcmUtaG9tZXMv0gEA?oc=5" target="_blank"&gt;Food waste collection scheme extended to thousands more homes ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station, 01/02/23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52675372634/"/>
