@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-12T19:48:44Z</updated>
+  <updated>2023-02-12T20:13:24Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (38°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Poor, Pressure: 1035mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 17:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-12T09:54:00.000+0000</id>
-    <published>2023-02-12T19:17:37Z</published>
-    <updated>2023-02-12T19:17:37Z</updated>
+    <published>2023-02-12T20:01:05Z</published>
+    <updated>2023-02-12T20:01:05Z</updated>
   </entry>
   <entry>
     <title>Monday: Mist, Minimum Temperature: 1°C (33°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 1°C (33°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Poor, Pressure: 1033mb, Humidity: 81%, UV Risk: 3, Pollution: Low, Sunrise: 07:19 GMT, Sunset: 17:12 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-12T09:54:00.000+0000</id>
-    <published>2023-02-12T19:17:37Z</published>
-    <updated>2023-02-12T19:17:37Z</updated>
+    <published>2023-02-12T20:01:05Z</published>
+    <updated>2023-02-12T20:01:05Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny, Minimum Temperature: 1°C (34°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 1°C (34°F), Wind Direction: Southerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1031mb, Humidity: 82%, UV Risk: 3, Pollution: Low, Sunrise: 07:17 GMT, Sunset: 17:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-12T09:54:00.000+0000</id>
-    <published>2023-02-12T19:17:37Z</published>
-    <updated>2023-02-12T19:17:37Z</updated>
+    <published>2023-02-12T20:01:05Z</published>
+    <updated>2023-02-12T20:01:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9sb25kb24tdW5kZXJncm91bmQtc3RhdGlvbi1tZWFudC1jYWxsZWQtMjYyMTg5OTTSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvbG9uZG9uLXVuZGVyZ3JvdW5kLXN0YXRpb24tbWVhbnQtY2FsbGVkLTI2MjE4OTk0LmFtcA?oc=5</id>
@@ -174,6 +174,33 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham, South London, 01/02/23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52679263060/"/>
+    <id>tag:flickr.com,2005:/photo/52679263060</id>
+    <published>2023-02-09T17:29:08Z</published>
+    <updated>2023-02-09T17:29:08Z</updated>
+    <flickr:date_taken>2023-02-01T12:52:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-01T12:52:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52679263060/" title="Balham, South London, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_m.jpg" width="240" height="180" alt="Balham, South London, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>aecregent</name>
+      <uri>https://www.flickr.com/people/8615623@N04/</uri>
+      <flickr:nsid>8615623@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station, 01/02/23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52675372634/"/>
     <id>tag:flickr.com,2005:/photo/52675372634</id>
@@ -198,37 +225,6 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
     <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station, 01/02/23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52674578337/"/>
-    <id>tag:flickr.com,2005:/photo/52674578337</id>
-    <published>2023-02-07T18:04:10Z</published>
-    <updated>2023-02-07T18:04:10Z</updated>
-    <flickr:date_taken>2023-02-01T12:41:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-01T12:41:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52674578337/" title="Balham Underground Station, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52674578337_4c8d1c40d7_m.jpg" width="180" height="240" alt="Balham Underground Station, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>aecregent</name>
-      <uri>https://www.flickr.com/people/8615623@N04/</uri>
-      <flickr:nsid>8615623@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52674578337_4c8d1c40d7_b.jpg"/>
-    <category term="balhamundergroundstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clock" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
