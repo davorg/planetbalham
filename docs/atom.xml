@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-14T09:48:53Z</updated>
+  <updated>2023-02-14T10:13:49Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 1°C (34°F), Wind Direction: Southerly, Wind Speed: 6mph, Visibility: Poor, Pressure: 1030mb, Humidity: 79%, UV Risk: 3, Pollution: Moderate, Sunrise: 07:17 GMT, Sunset: 17:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-14T07:54:00.000+0000</id>
-    <published>2023-02-14T09:47:36Z</published>
-    <updated>2023-02-14T09:47:36Z</updated>
+    <published>2023-02-14T10:05:02Z</published>
+    <updated>2023-02-14T10:05:02Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 77%, UV Risk: 3, Pollution: Moderate, Sunrise: 07:15 GMT, Sunset: 17:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-14T07:54:00.000+0000</id>
-    <published>2023-02-14T09:47:36Z</published>
-    <updated>2023-02-14T09:47:36Z</updated>
+    <published>2023-02-14T10:05:02Z</published>
+    <updated>2023-02-14T10:05:02Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 86%, UV Risk: 1, Pollution: Moderate, Sunrise: 07:13 GMT, Sunset: 17:17 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-14T07:54:00.000+0000</id>
-    <published>2023-02-14T09:47:36Z</published>
-    <updated>2023-02-14T09:47:36Z</updated>
+    <published>2023-02-14T10:05:02Z</published>
+    <updated>2023-02-14T10:05:02Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDIvMTQvcm9sZXgtcmlwcGVyLWdhbmctY2FycmllZC1rbmlmZXBvaW50LXJvYmJlcmllcy0zNTAwMC13YXRjaGVzL9IBAA?oc=5</id>
+    <title type="html">'Rolex Ripper' gang carried out knifepoint robberies of £35000 ... - The Telegraph</title>
+    <updated>2023-02-14T10:01:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDIvMTQvcm9sZXgtcmlwcGVyLWdhbmctY2FycmllZC1rbmlmZXBvaW50LXJvYmJlcmllcy0zNTAwMC13YXRjaGVzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDIvMTQvcm9sZXgtcmlwcGVyLWdhbmctY2FycmllZC1rbmlmZXBvaW50LXJvYmJlcmllcy0zNTAwMC13YXRjaGVzL9IBAA?oc=5" target="_blank"&gt;'Rolex Ripper' gang carried out knifepoint robberies of £35000 ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMimQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaGVybmUtaGlsbC1oYXJyaWVycy1yb3VuZC11cC1rYXRpZS1zbm93ZGVuLWJyZWFrcy1oZXItcGItYWdhaW4tYXMtY2x1Yi1jbGFpbS10aHJlZS1sZWFndWUtdGl0bGVzLWluLXN1cnJleS1sZWFndWUtZGVjaWRlci_SAQA?oc=5</id>
@@ -48,11 +55,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMimQFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaGVybmUtaGlsbC1oYXJyaWVycy1yb3VuZC11cC1rYXRpZS1zbm93ZGVuLWJyZWFrcy1oZXItcGItYWdhaW4tYXMtY2x1Yi1jbGFpbS10aHJlZS1sZWFndWUtdGl0bGVzLWluLXN1cnJleS1sZWFndWUtZGVjaWRlci_SAQA?oc=5" target="_blank"&gt;Herne Hill Harriers round-up: Katie Snowden breaks her PB again ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYXJtZWQtcm9iYmVyeS1nYW5nLXByb3VkbHktcG9zZWQtMDgxNDIyMjk1Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYXJtZWQtcm9iYmVyeS1nYW5nLXByb3VkbHktcG9zZWQtMDgxNDIyMjk1Lmh0bWw?oc=5</id>
-    <title type="html">Armed robbery gang who proudly posed with stolen watches facing lengthy jail sentences - Yahoo News UK</title>
+    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2FybWVkLXJvYmJlcnktZ2FuZy1wcm91ZGx5LXBvc2VkLTA4MTQyMjI5NS5odG1s0gFYaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9hcm1lZC1yb2JiZXJ5LWdhbmctcHJvdWRseS1wb3NlZC0wODE0MjIyOTUuaHRtbA?oc=5</id>
+    <title type="html">Armed robbery gang who proudly posed with stolen watches facing lengthy jail sentences - Yahoo Eurosport UK</title>
     <updated>2023-02-14T08:14:22.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYXJtZWQtcm9iYmVyeS1nYW5nLXByb3VkbHktcG9zZWQtMDgxNDIyMjk1Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYXJtZWQtcm9iYmVyeS1nYW5nLXByb3VkbHktcG9zZWQtMDgxNDIyMjk1Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYXJtZWQtcm9iYmVyeS1nYW5nLXByb3VkbHktcG9zZWQtMDgxNDIyMjk1Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvYXJtZWQtcm9iYmVyeS1nYW5nLXByb3VkbHktcG9zZWQtMDgxNDIyMjk1Lmh0bWw?oc=5" target="_blank"&gt;Armed robbery gang who proudly posed with stolen watches facing lengthy jail sentences&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2FybWVkLXJvYmJlcnktZ2FuZy1wcm91ZGx5LXBvc2VkLTA4MTQyMjI5NS5odG1s0gFYaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9hcm1lZC1yb2JiZXJ5LWdhbmctcHJvdWRseS1wb3NlZC0wODE0MjIyOTUuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2FybWVkLXJvYmJlcnktZ2FuZy1wcm91ZGx5LXBvc2VkLTA4MTQyMjI5NS5odG1s0gFYaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9hcm1lZC1yb2JiZXJ5LWdhbmctcHJvdWRseS1wb3NlZC0wODE0MjIyOTUuaHRtbA?oc=5" target="_blank"&gt;Armed robbery gang who proudly posed with stolen watches facing lengthy jail sentences&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvb3RoZXIvc3VucmlzZS1zZXJlbmFkZXMtYW5kLWEtYmxhY2stdGllLWJpZy1tYWMtb3VyLW1hbGUtd3JpdGVycy1ncmFuZGVzdC12YWxlbnRpbmVzLWRheS1nZXN0dXJlcy9hci1BQTE3czQ0WtIBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-02-13T17:01:17.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMTMtZmVicnVhcnktMjAyMy0yOTkyNjXSAUpodHRwczovL3JvYWQuY2MvY29udGVudC9uZXdzL2N5Y2xpbmctbGl2ZS1ibG9nLTEzLWZlYnJ1YXJ5LTIwMjMtMjk5MjY1P2FtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGluZy1saXZlLWJsb2ctMTMtZmVicnVhcnktMjAyMy0yOTkyNjXSAUpodHRwczovL3JvYWQuY2MvY29udGVudC9uZXdzL2N5Y2xpbmctbGl2ZS1ibG9nLTEzLWZlYnJ1YXJ5LTIwMjMtMjk5MjY1P2FtcA?oc=5" target="_blank"&gt;British sprinter accuses race organisers of “playing with our health”, as motorists make their way onto roundabouts used by peloton; Pogačar set for early Vingegaard clash?; ‘Mighty Atom’ Eileen Sheridan dies; Archibald’s golden 20 + more on the live blog&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;road.cc&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy90b3VyLWNvdW50cnktc3R5bGUtb25lLWJlZHJvb20tMTIzMTAwMjExLmh0bWzSAVdodHRwczovL3VrLmZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy90b3VyLWNvdW50cnktc3R5bGUtb25lLWJlZHJvb20tMTIzMTAwMjExLmh0bWw?oc=5</id>
-    <title type="html">Tour this country-style one-bedroom apartment for sale in London - Yahoo Finance UK</title>
-    <updated>2023-02-13T12:31:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy90b3VyLWNvdW50cnktc3R5bGUtb25lLWJlZHJvb20tMTIzMTAwMjExLmh0bWzSAVdodHRwczovL3VrLmZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy90b3VyLWNvdW50cnktc3R5bGUtb25lLWJlZHJvb20tMTIzMTAwMjExLmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy90b3VyLWNvdW50cnktc3R5bGUtb25lLWJlZHJvb20tMTIzMTAwMjExLmh0bWzSAVdodHRwczovL3VrLmZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy90b3VyLWNvdW50cnktc3R5bGUtb25lLWJlZHJvb20tMTIzMTAwMjExLmh0bWw?oc=5" target="_blank"&gt;Tour this country-style one-bedroom apartment for sale in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>One of the newer Thornton Heath based buses on a short, mostly direct route I might consider doing in full soon. | Arriva South London ADL Enviro 200 on the 255 to Pollards Hill.</title>
@@ -174,6 +174,33 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham, South London, 01/02/23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52679263060/"/>
+    <id>tag:flickr.com,2005:/photo/52679263060</id>
+    <published>2023-02-09T17:29:08Z</published>
+    <updated>2023-02-09T17:29:08Z</updated>
+    <flickr:date_taken>2023-02-01T12:52:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-01T12:52:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52679263060/" title="Balham, South London, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_m.jpg" width="240" height="180" alt="Balham, South London, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>aecregent</name>
+      <uri>https://www.flickr.com/people/8615623@N04/</uri>
+      <flickr:nsid>8615623@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham Underground Station, 01/02/23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52675372634/"/>
     <id>tag:flickr.com,2005:/photo/52675372634</id>
@@ -198,37 +225,6 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
     <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham Underground Station, 01/02/23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52674578337/"/>
-    <id>tag:flickr.com,2005:/photo/52674578337</id>
-    <published>2023-02-07T18:04:10Z</published>
-    <updated>2023-02-07T18:04:10Z</updated>
-    <flickr:date_taken>2023-02-01T12:41:38-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-01T12:41:38-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52674578337/" title="Balham Underground Station, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52674578337_4c8d1c40d7_m.jpg" width="180" height="240" alt="Balham Underground Station, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>aecregent</name>
-      <uri>https://www.flickr.com/people/8615623@N04/</uri>
-      <flickr:nsid>8615623@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52674578337_4c8d1c40d7_b.jpg"/>
-    <category term="balhamundergroundstation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clock" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tube" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="underground" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
