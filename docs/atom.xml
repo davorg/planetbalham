@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-15T06:48:52Z</updated>
+  <updated>2023-02-15T07:13:27Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 07:15 GMT, Sunset: 17:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-14T21:54:00.000+0000</id>
-    <published>2023-02-15T06:04:49Z</published>
-    <updated>2023-02-15T06:04:49Z</updated>
+    <published>2023-02-15T07:05:01Z</published>
+    <updated>2023-02-15T07:05:01Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Thursday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 17:17 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 07:13 GMT, Sunset: 17:17 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-14T21:54:00.000+0000</id>
-    <published>2023-02-15T06:04:49Z</published>
-    <updated>2023-02-15T06:04:49Z</updated>
+    <published>2023-02-15T07:05:01Z</published>
+    <updated>2023-02-15T07:05:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Thick Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 15°C (58°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1021mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 07:11 GMT, Sunset: 17:19 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-14T21:54:00.000+0000</id>
-    <published>2023-02-15T06:04:49Z</published>
-    <updated>2023-02-15T06:04:49Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY2NS1jZW50cy9uZXdzLXN0b3J5LzBhNDQwYjM1Mzg1OTIyMGE3NTBmMzQ5NTFmYzkwMmEw0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjY1LWNlbnRzL25ld3Mtc3RvcnkvMGE0NDBiMzUzODU5MjIwYTc1MGYzNDk1MWZjOTAyYTA_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 166.5 cents - Courier Mail</title>
-    <updated>2023-02-14T23:30:18.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY2NS1jZW50cy9uZXdzLXN0b3J5LzBhNDQwYjM1Mzg1OTIyMGE3NTBmMzQ5NTFmYzkwMmEw0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjY1LWNlbnRzL25ld3Mtc3RvcnkvMGE0NDBiMzUzODU5MjIwYTc1MGYzNDk1MWZjOTAyYTA_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY2NS1jZW50cy9uZXdzLXN0b3J5LzBhNDQwYjM1Mzg1OTIyMGE3NTBmMzQ5NTFmYzkwMmEw0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjY1LWNlbnRzL25ld3Mtc3RvcnkvMGE0NDBiMzUzODU5MjIwYTc1MGYzNDk1MWZjOTAyYTA_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 166.5 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+    <published>2023-02-15T07:05:01Z</published>
+    <updated>2023-02-15T07:05:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiMmh0dHBzOi8vbm5uLm5nL2NoYW1waW9ucy1sZWFndWUtbGFzdC0xNi1maXJzdC1sZWcv0gEA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2023-02-14T15:43:24.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3LmRlbGljaW91c21hZ2F6aW5lLmNvLnVrL3RoZS1iZXN0LXBsYWNlcy10by1lYXQtaW4tbG9uZG9uLXdpdGgta2lkcy_SAVNodHRwczovL3d3dy5kZWxpY2lvdXNtYWdhemluZS5jby51ay90aGUtYmVzdC1wbGFjZXMtdG8tZWF0LWluLWxvbmRvbi13aXRoLWtpZHMvYW1wLw?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3LmRlbGljaW91c21hZ2F6aW5lLmNvLnVrL3RoZS1iZXN0LXBsYWNlcy10by1lYXQtaW4tbG9uZG9uLXdpdGgta2lkcy_SAVNodHRwczovL3d3dy5kZWxpY2lvdXNtYWdhemluZS5jby51ay90aGUtYmVzdC1wbGFjZXMtdG8tZWF0LWluLWxvbmRvbi13aXRoLWtpZHMvYW1wLw?oc=5" target="_blank"&gt;The best places to eat in London with kids&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Delicious Magazine&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02NDYyOTQzONIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02NDYyOTQzOC5hbXA?oc=5</id>
+    <title type="html">More 16-24-year-olds get jobs as living costs bite - BBC</title>
+    <updated>2023-02-14T12:21:19.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02NDYyOTQzONIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02NDYyOTQzOC5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02NDYyOTQzONIBLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9idXNpbmVzcy02NDYyOTQzOC5hbXA?oc=5" target="_blank"&gt;More 16-24-year-olds get jobs as living costs bite&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>One of the newer Thornton Heath based buses on a short, mostly direct route I might consider doing in full soon. | Arriva South London ADL Enviro 200 on the 255 to Pollards Hill.</title>
