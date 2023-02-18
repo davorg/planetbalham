@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-18T09:48:46Z</updated>
+  <updated>2023-02-18T10:13:23Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 7°C (45°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1021mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 17:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1021mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 07:09 GMT, Sunset: 17:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-18T07:03:00.000+0000</id>
-    <published>2023-02-18T09:00:33Z</published>
-    <updated>2023-02-18T09:00:33Z</updated>
+    <published>2023-02-18T10:03:05Z</published>
+    <updated>2023-02-18T10:03:05Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Sunday: Sunny, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-18T07:03:00.000+0000</id>
-    <published>2023-02-18T09:00:33Z</published>
-    <updated>2023-02-18T09:00:33Z</updated>
+    <published>2023-02-18T10:03:05Z</published>
+    <updated>2023-02-18T10:03:05Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1024mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-18T07:03:00.000+0000</id>
-    <published>2023-02-18T09:00:33Z</published>
-    <updated>2023-02-18T09:00:33Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ob21lLXNlY3JldGFyeS1tZXQtcG9saWNlLW92ZXItODE2MjUzN9IBAA?oc=5</id>
-    <title type="html">Home Secretary met with police over Nicola Bulley case ‘concerns’ - Bristol Live</title>
-    <updated>2023-02-17T20:29:50.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ob21lLXNlY3JldGFyeS1tZXQtcG9saWNlLW92ZXItODE2MjUzN9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ob21lLXNlY3JldGFyeS1tZXQtcG9saWNlLW92ZXItODE2MjUzN9IBAA?oc=5" target="_blank"&gt;Home Secretary met with police over Nicola Bulley case ‘concerns’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bristol Live&lt;/font&gt;</content>
+    <published>2023-02-18T10:03:05Z</published>
+    <updated>2023-02-18T10:03:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5</id>
@@ -110,6 +103,13 @@
     <updated>2023-02-15T23:24:31.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzdkZjI0NjgzMzVkNTQ2OTA1ZDM0NWYyMmRlZThjMzM20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvN2RmMjQ2ODMzNWQ1NDY5MDVkMzQ1ZjIyZGVlOGMzMzY_YW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzdkZjI0NjgzMzVkNTQ2OTA1ZDM0NWYyMmRlZThjMzM20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvN2RmMjQ2ODMzNWQ1NDY5MDVkMzQ1ZjIyZGVlOGMzMzY_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzUwNTE1L0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s0gGGAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NTA1MTUvYW1wL0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s?oc=5</id>
+    <title type="html">Six thugs stole watches and jewellery from victims while armed with Zombie knives and machetes - Daily Mail</title>
+    <updated>2023-02-14T17:52:27.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiggFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzUwNTE1L0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s0gGGAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NTA1MTUvYW1wL0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiggFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzUwNTE1L0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s0gGGAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NTA1MTUvYW1wL0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s?oc=5" target="_blank"&gt;Six thugs stole watches and jewellery from victims while armed with Zombie knives and machetes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>One of the newer Thornton Heath based buses on a short, mostly direct route I might consider doing in full soon. | Arriva South London ADL Enviro 200 on the 255 to Pollards Hill.</title>
