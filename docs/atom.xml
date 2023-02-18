@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-18T18:48:59Z</updated>
+  <updated>2023-02-18T19:12:39Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 17:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1022mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 17:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-18T09:59:00.000+0000</id>
-    <published>2023-02-18T18:00:33Z</published>
-    <updated>2023-02-18T18:00:33Z</updated>
+    <published>2023-02-18T19:01:55Z</published>
+    <updated>2023-02-18T19:01:55Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Sunday: Sunny, Minimum Temperature: 5°C (42°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (42°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1027mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 07:07 GMT, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-18T09:59:00.000+0000</id>
-    <published>2023-02-18T18:00:33Z</published>
-    <updated>2023-02-18T18:00:33Z</updated>
+    <published>2023-02-18T19:01:55Z</published>
+    <updated>2023-02-18T19:01:55Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1024mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-18T09:59:00.000+0000</id>
-    <published>2023-02-18T18:00:33Z</published>
-    <updated>2023-02-18T18:00:33Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5</id>
-    <title type="html">“Rolex Ripper” Gang Who Attacked People With Machetes Caught - Best Life</title>
-    <updated>2023-02-17T13:38:30.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5" target="_blank"&gt;“Rolex Ripper” Gang Who Attacked People With Machetes Caught&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Best Life&lt;/font&gt;</content>
+    <published>2023-02-18T19:01:55Z</published>
+    <updated>2023-02-18T19:01:55Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMzMjgzMTYuYnJpZ2h0b24tbWFpbi1saW5lLW5vLXRyYWlucy1sb25kb24tdmljdG9yaWEtd2Vla2VuZC_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzIzMzI4MzE2LmFtcC8?oc=5</id>
@@ -103,6 +96,13 @@
     <updated>2023-02-15T18:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LmdyZWF0YnJpdGlzaGxpZmUuY28udWsvbGlmZXN0eWxlLzIzMTU4Mjk1LmVzc2V4LWhpc3RvcnktcGhpbGlwcGEtd2FsdG9uLXJveWFsLWd1bnBvd2Rlci1taWxscy_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LmdyZWF0YnJpdGlzaGxpZmUuY28udWsvbGlmZXN0eWxlLzIzMTU4Mjk1LmVzc2V4LWhpc3RvcnktcGhpbGlwcGEtd2FsdG9uLXJveWFsLWd1bnBvd2Rlci1taWxscy_SAQA?oc=5" target="_blank"&gt;Essex history: Philippa Walton of Royal Gunpowder Mills&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Great British Life&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiMmh0dHBzOi8vbm5uLm5nL2NoYW1waW9ucy1sZWFndWUtbGFzdC0xNi1maXJzdC1sZWcv0gEA?oc=5</id>
+    <title type="html">matches Matches in Champions League's Round of 16 (1st leg ... - NNN NEWS NIGERIA</title>
+    <updated>2023-02-14T21:21:31.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiMmh0dHBzOi8vbm5uLm5nL2NoYW1waW9ucy1sZWFndWUtbGFzdC0xNi1maXJzdC1sZWcv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiMmh0dHBzOi8vbm5uLm5nL2NoYW1waW9ucy1sZWFndWUtbGFzdC0xNi1maXJzdC1sZWcv0gEA?oc=5" target="_blank"&gt;matches Matches in Champions League's Round of 16 (1st leg ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NNN NEWS NIGERIA&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExNzUwNTE1L0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s0gGGAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE3NTA1MTUvYW1wL0dhbmctc3RvbGUtUm9sZXhlcy1qZXdlbGxlcnktdGVycmlmaWVkLXZpY3RpbXMtYXJtZWQtWm9tYmllLWtuaXZlcy1tYWNoZXRlcy5odG1s?oc=5</id>
