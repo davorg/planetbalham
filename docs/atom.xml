@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-19T21:48:57Z</updated>
+  <updated>2023-02-19T22:13:21Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1026mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 17:23 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-19T19:57:00.000+0000</id>
-    <published>2023-02-19T21:17:36Z</published>
-    <updated>2023-02-19T21:17:36Z</updated>
+    <published>2023-02-19T22:01:55Z</published>
+    <updated>2023-02-19T22:01:55Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1024mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 07:05 GMT, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-19T19:57:00.000+0000</id>
-    <published>2023-02-19T21:17:36Z</published>
-    <updated>2023-02-19T21:17:36Z</updated>
+    <published>2023-02-19T22:01:55Z</published>
+    <updated>2023-02-19T22:01:55Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1018mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-19T19:57:00.000+0000</id>
-    <published>2023-02-19T21:17:36Z</published>
-    <updated>2023-02-19T21:17:36Z</updated>
+    <published>2023-02-19T22:01:55Z</published>
+    <updated>2023-02-19T22:01:55Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9hcnQvYXJ0aXN0cy9taWtlLW5lbHNvbi1kb2xlLXR1cm5lci1wcml6ZS_SAQA?oc=5</id>
@@ -46,6 +46,20 @@
     <updated>2023-02-19T07:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9hcnQvYXJ0aXN0cy9taWtlLW5lbHNvbi1kb2xlLXR1cm5lci1wcml6ZS_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9hcnQvYXJ0aXN0cy9taWtlLW5lbHNvbi1kb2xlLXR1cm5lci1wcml6ZS_SAQA?oc=5" target="_blank"&gt;Mike Nelson: 'I was on the dole – then I was up for the Turner Prize'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ob21lLXNlY3JldGFyeS1tZXQtcG9saWNlLW92ZXItODE2MjUzN9IBAA?oc=5</id>
+    <title type="html">Home Secretary met with police over Nicola Bulley case ‘concerns’ - Bristol Live</title>
+    <updated>2023-02-17T20:29:50.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ob21lLXNlY3JldGFyeS1tZXQtcG9saWNlLW92ZXItODE2MjUzN9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmJyaXN0b2xwb3N0LmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ob21lLXNlY3JldGFyeS1tZXQtcG9saWNlLW92ZXItODE2MjUzN9IBAA?oc=5" target="_blank"&gt;Home Secretary met with police over Nicola Bulley case ‘concerns’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bristol Live&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5</id>
+    <title type="html">“Rolex Ripper” Gang Who Attacked People With Machetes Caught - Best Life</title>
+    <updated>2023-02-17T13:38:30.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiMmh0dHBzOi8vYmVzdGxpZmVvbmxpbmUuY29tL25ld3Mtcm9sZXgtcmlwcGVyLWdhbmcv0gEA?oc=5" target="_blank"&gt;“Rolex Ripper” Gang Who Attacked People With Machetes Caught&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Best Life&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMzMjgzMTYuYnJpZ2h0b24tbWFpbi1saW5lLW5vLXRyYWlucy1sb25kb24tdmljdG9yaWEtd2Vla2VuZC_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzIzMzI4MzE2LmFtcC8?oc=5</id>
@@ -96,20 +110,6 @@
     <updated>2023-02-16T16:03:15.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2EwMWE5ZmMzLTQ5YmYtNGVkMS04OWQxLTVmMzZjYWVkZTVjONIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2EwMWE5ZmMzLTQ5YmYtNGVkMS04OWQxLTVmMzZjYWVkZTVjONIBAA?oc=5" target="_blank"&gt;Bustling Bristol lures homebuyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Financial Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODAvYm1qLnAyMTfSAQA?oc=5</id>
-    <title type="html">Andrew Fraser Polmear - The BMJ</title>
-    <updated>2023-02-16T11:08:26.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiKGh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODAvYm1qLnAyMTfSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiKGh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODAvYm1qLnAyMTfSAQA?oc=5" target="_blank"&gt;Andrew Fraser Polmear&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The BMJ&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzdkZjI0NjgzMzVkNTQ2OTA1ZDM0NWYyMmRlZThjMzM20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvN2RmMjQ2ODMzNWQ1NDY5MDVkMzQ1ZjIyZGVlOGMzMzY_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents - Courier Mail</title>
-    <updated>2023-02-15T23:24:31.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzdkZjI0NjgzMzVkNTQ2OTA1ZDM0NWYyMmRlZThjMzM20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvN2RmMjQ2ODMzNWQ1NDY5MDVkMzQ1ZjIyZGVlOGMzMzY_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzdkZjI0NjgzMzVkNTQ2OTA1ZDM0NWYyMmRlZThjMzM20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvN2RmMjQ2ODMzNWQ1NDY5MDVkMzQ1ZjIyZGVlOGMzMzY_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>One of the newer Thornton Heath based buses on a short, mostly direct route I might consider doing in full soon. | Arriva South London ADL Enviro 200 on the 255 to Pollards Hill.</title>
