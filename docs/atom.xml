@@ -7,9 +7,42 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-20T17:13:23Z</updated>
+  <updated>2023-02-20T17:48:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>February 20th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52701163133/"/>
+    <id>tag:flickr.com,2005:/photo/52701163133</id>
+    <published>2023-02-20T17:38:07Z</published>
+    <updated>2023-02-20T17:38:07Z</updated>
+    <flickr:date_taken>2023-02-20T16:07:56-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-20T16:07:56-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52701163133/" title="February 20th"&gt;&lt;img src="https://live.staticflickr.com/65535/52701163133_c63fc39b78_m.jpg" width="240" height="153" alt="February 20th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham High Road&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52701163133_c63fc39b78_b.jpg"/>
+    <category term="february" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="shadows" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -17,8 +50,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1021mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 17:24 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-20T09:03:00.000+0000</id>
-    <published>2023-02-20T17:02:28Z</published>
-    <updated>2023-02-20T17:02:28Z</updated>
+    <published>2023-02-20T17:28:53Z</published>
+    <updated>2023-02-20T17:28:53Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +60,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1018mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 07:03 GMT, Sunset: 17:26 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-20T09:03:00.000+0000</id>
-    <published>2023-02-20T17:02:28Z</published>
-    <updated>2023-02-20T17:02:28Z</updated>
+    <published>2023-02-20T17:28:53Z</published>
+    <updated>2023-02-20T17:28:53Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Drizzle, Minimum Temperature: 3°C (38°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,15 +70,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 3°C (38°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1011mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 07:01 GMT, Sunset: 17:28 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-20T09:03:00.000+0000</id>
-    <published>2023-02-20T17:02:28Z</published>
-    <updated>2023-02-20T17:02:28Z</updated>
+    <published>2023-02-20T17:28:53Z</published>
+    <updated>2023-02-20T17:28:53Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzMzM0NTQyLmphcGFuZXNlLXJlc3RhdXJhbnQtdGFyby1vcGVucy1zaXh0aC1sb2NhdGlvbi13YWx0aGFtc3Rvdy_SAQA?oc=5</id>
-    <title type="html">Japanese Restaurant Taro Opens Sixth Location In Walthamstow ... - East London and West Essex Guardian Series</title>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzMzQ1NDIuamFwYW5lc2UtcmVzdGF1cmFudC10YXJvLW9wZW5zLXNpeHRoLWxvY2F0aW9uLXdhbHRoYW1zdG93L9IBAA?oc=5</id>
+    <title type="html">Japanese Restaurant Taro Opens Sixth Location In Walthamstow - This is Local London</title>
     <updated>2023-02-20T16:20:14.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzMzM0NTQyLmphcGFuZXNlLXJlc3RhdXJhbnQtdGFyby1vcGVucy1zaXh0aC1sb2NhdGlvbi13YWx0aGFtc3Rvdy_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzMzM0NTQyLmphcGFuZXNlLXJlc3RhdXJhbnQtdGFyby1vcGVucy1zaXh0aC1sb2NhdGlvbi13YWx0aGFtc3Rvdy_SAQA?oc=5" target="_blank"&gt;Japanese Restaurant Taro Opens Sixth Location In Walthamstow ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East London and West Essex Guardian Series&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzMzQ1NDIuamFwYW5lc2UtcmVzdGF1cmFudC10YXJvLW9wZW5zLXNpeHRoLWxvY2F0aW9uLXdhbHRoYW1zdG93L9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzMzQ1NDIuamFwYW5lc2UtcmVzdGF1cmFudC10YXJvLW9wZW5zLXNpeHRoLWxvY2F0aW9uLXdhbHRoYW1zdG93L9IBAA?oc=5" target="_blank"&gt;Japanese Restaurant Taro Opens Sixth Location In Walthamstow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnRoZWFyZ3VzLmNvLnVrL25ld3MvMjMzMjgzMTYuYnJpZ2h0b24tbWFpbi1saW5lLW5vLXRyYWlucy1sb25kb24tdmljdG9yaWEtd2Vla2VuZC_SAS1odHRwczovL3d3dy50aGVhcmd1cy5jby51ay9uZXdzLzIzMzI4MzE2LmFtcC8?oc=5</id>
@@ -203,33 +236,6 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
       <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52678828901_9da47f7971_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham, South London, 01/02/23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52679263060/"/>
-    <id>tag:flickr.com,2005:/photo/52679263060</id>
-    <published>2023-02-09T17:29:08Z</published>
-    <updated>2023-02-09T17:29:08Z</updated>
-    <flickr:date_taken>2023-02-01T12:52:07-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-01T12:52:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52679263060/" title="Balham, South London, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_m.jpg" width="240" height="180" alt="Balham, South London, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>aecregent</name>
-      <uri>https://www.flickr.com/people/8615623@N04/</uri>
-      <flickr:nsid>8615623@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
