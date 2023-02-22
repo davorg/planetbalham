@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-22T14:13:24Z</updated>
+  <updated>2023-02-22T14:48:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -109,42 +109,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>February 16th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52693236463/"/>
-    <id>tag:flickr.com,2005:/photo/52693236463</id>
-    <published>2023-02-16T17:52:05Z</published>
-    <updated>2023-02-16T17:52:05Z</updated>
-    <flickr:date_taken>2023-02-16T14:13:48-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-16T14:13:48-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52693236463/" title="February 16th"&gt;&lt;img src="https://live.staticflickr.com/65535/52693236463_5e5500d2ab_m.jpg" width="240" height="159" alt="February 16th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Grey afternoon in Hildreth Street&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52693236463_5e5500d2ab_b.jpg"/>
-    <category term="february" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="market" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="district" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hildrethstreet" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>One of the newer Thornton Heath based buses on a short, mostly direct route I might consider doing in full soon. | Arriva South London ADL Enviro 200 on the 255 to Pollards Hill.</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/164393046@N06/52683341968/"/>
     <id>tag:flickr.com,2005:/photo/52683341968</id>
@@ -236,6 +200,33 @@ LJ12BZA (ENS17) is at Leigham Court Road bound for Pollards Hill via Streatham H
       <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52678828901_9da47f7971_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham, South London, 01/02/23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/8615623@N04/52679263060/"/>
+    <id>tag:flickr.com,2005:/photo/52679263060</id>
+    <published>2023-02-09T17:29:08Z</published>
+    <updated>2023-02-09T17:29:08Z</updated>
+    <flickr:date_taken>2023-02-01T12:52:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-01T12:52:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/8615623@N04/"&gt;aecregent&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/8615623@N04/52679263060/" title="Balham, South London, 01/02/23"&gt;&lt;img src="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_m.jpg" width="240" height="180" alt="Balham, South London, 01/02/23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>aecregent</name>
+      <uri>https://www.flickr.com/people/8615623@N04/</uri>
+      <flickr:nsid>8615623@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5713/buddyicons/8615623@N04.jpg?1479637802#8615623@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52679263060_3b1d3478eb_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="010223" scheme="https://www.flickr.com/photos/tags/"/>
