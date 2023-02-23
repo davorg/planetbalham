@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-23T05:48:53Z</updated>
+  <updated>2023-02-23T06:14:11Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: -1°C (29°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 06:59 GMT, Sunset: 17:30 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-22T21:51:00.000+0000</id>
-    <published>2023-02-23T05:09:58Z</published>
-    <updated>2023-02-23T05:09:58Z</updated>
+    <published>2023-02-23T06:11:36Z</published>
+    <updated>2023-02-23T06:11:36Z</updated>
   </entry>
   <entry>
-    <title>Friday: Drizzle, Minimum Temperature: 2°C (35°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Friday: Light Rain, Minimum Temperature: 2°C (35°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 2°C (35°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1013mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:57 GMT, Sunset: 17:31 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-22T21:51:00.000+0000</id>
-    <published>2023-02-23T05:09:58Z</published>
-    <updated>2023-02-23T05:09:58Z</updated>
+    <published>2023-02-23T06:11:36Z</published>
+    <updated>2023-02-23T06:11:36Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1018mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-22T21:51:00.000+0000</id>
-    <published>2023-02-23T05:09:58Z</published>
-    <updated>2023-02-23T05:09:58Z</updated>
+    <published>2023-02-23T06:11:36Z</published>
+    <updated>2023-02-23T06:11:36Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnN1c3NleGV4cHJlc3MuY28udWsvbmV3cy90cmFuc3BvcnQvY2F1c2Utb2Ytd2VzdC1zdXNzZXgtcmFpbC1kZWxheXMtcmV2ZWFsZWQtNDAzNjMyONIBAA?oc=5</id>
@@ -60,13 +60,6 @@
     <updated>2023-02-22T00:08:45.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vdGhlY3JpdGljLmNvLnVrL2lzc3Vlcy9mZWJydWFyeS0yMDIzL2Nyb3NzLXF1ZXN0aW9uaW5nL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vdGhlY3JpdGljLmNvLnVrL2lzc3Vlcy9mZWJydWFyeS0yMDIzL2Nyb3NzLXF1ZXN0aW9uaW5nL9IBAA?oc=5" target="_blank"&gt;Cross questioning | Romeo Coates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Critic&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents - Courier Mail</title>
-    <updated>2023-02-21T23:38:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pdHYtZ21icy1zdXNhbm5hLXJlaWQtYXdlLTI2Mjg5NzYy0gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2l0di1nbWJzLXN1c2FubmEtcmVpZC1hd2UtMjYyODk3NjIuYW1w?oc=5</id>
@@ -108,6 +101,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzMzQ1NDIuamFwYW5lc2UtcmVzdGF1cmFudC10YXJvLW9wZW5zLXNpeHRoLWxvY2F0aW9uLXdhbHRoYW1zdG93L9IBAA?oc=5</id>
+    <title type="html">Japanese Restaurant Taro Opens Sixth Location In Walthamstow - This is Local London</title>
+    <updated>2023-02-20T16:20:14.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzMzQ1NDIuamFwYW5lc2UtcmVzdGF1cmFudC10YXJvLW9wZW5zLXNpeHRoLWxvY2F0aW9uLXdhbHRoYW1zdG93L9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzMzQ1NDIuamFwYW5lc2UtcmVzdGF1cmFudC10YXJvLW9wZW5zLXNpeHRoLWxvY2F0aW9uLXdhbHRoYW1zdG93L9IBAA?oc=5" target="_blank"&gt;Japanese Restaurant Taro Opens Sixth Location In Walthamstow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>February 16th</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52693236463/"/>
