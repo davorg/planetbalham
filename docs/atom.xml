@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-23T05:13:27Z</updated>
+  <updated>2023-02-23T05:48:53Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2023-02-23T05:09:58Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQ2OGQ4NThkMDI2M2UzMmMxNzlkOGYzMDIyOTBmOGFk0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDY4ZDg1OGQwMjYzZTMyYzE3OWQ4ZjMwMjI5MGY4YWQ_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents - Courier Mail</title>
-    <updated>2023-02-22T23:24:55.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQ2OGQ4NThkMDI2M2UzMmMxNzlkOGYzMDIyOTBmOGFk0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDY4ZDg1OGQwMjYzZTMyYzE3OWQ4ZjMwMjI5MGY4YWQ_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQ2OGQ4NThkMDI2M2UzMmMxNzlkOGYzMDIyOTBmOGFk0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDY4ZDg1OGQwMjYzZTMyYzE3OWQ4ZjMwMjI5MGY4YWQ_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnN1c3NleGV4cHJlc3MuY28udWsvbmV3cy90cmFuc3BvcnQvY2F1c2Utb2Ytd2VzdC1zdXNzZXgtcmFpbC1kZWxheXMtcmV2ZWFsZWQtNDAzNjMyONIBAA?oc=5</id>
     <title type="html">Cause of West Sussex rail delays revealed | SussexWorld - SussexWorld</title>
     <updated>2023-02-22T19:21:11.000000000Z</updated>
@@ -67,6 +60,13 @@
     <updated>2023-02-22T00:08:45.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vdGhlY3JpdGljLmNvLnVrL2lzc3Vlcy9mZWJydWFyeS0yMDIzL2Nyb3NzLXF1ZXN0aW9uaW5nL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vdGhlY3JpdGljLmNvLnVrL2lzc3Vlcy9mZWJydWFyeS0yMDIzL2Nyb3NzLXF1ZXN0aW9uaW5nL9IBAA?oc=5" target="_blank"&gt;Cross questioning | Romeo Coates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Critic&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents - Courier Mail</title>
+    <updated>2023-02-21T23:38:38.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pdHYtZ21icy1zdXNhbm5hLXJlaWQtYXdlLTI2Mjg5NzYy0gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2l0di1nbWJzLXN1c2FubmEtcmVpZC1hd2UtMjYyODk3NjIuYW1w?oc=5</id>
