@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-24T10:13:46Z</updated>
+  <updated>2023-02-24T10:48:57Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 0°C (32°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 1°C (34°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 0°C (32°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1013mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 06:57 GMT, Sunset: 17:31 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 1°C (34°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1013mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 06:57 GMT, Sunset: 17:31 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-24T07:55:00.000+0000</id>
-    <published>2023-02-24T10:01:49Z</published>
-    <updated>2023-02-24T10:01:49Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-24T09:52:00.000+0000</id>
+    <published>2023-02-24T10:36:50Z</published>
+    <updated>2023-02-24T10:36:50Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 1°C (34°F) Maximum Temperature: 7°C (44°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 1°C (34°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 06:55 GMT, Sunset: 17:33 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-24T07:55:00.000+0000</id>
-    <published>2023-02-24T10:01:49Z</published>
-    <updated>2023-02-24T10:01:49Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-24T09:52:00.000+0000</id>
+    <published>2023-02-24T10:36:50Z</published>
+    <updated>2023-02-24T10:36:50Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 0°C (33°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (33°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 61%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 0°C (33°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-24T07:55:00.000+0000</id>
-    <published>2023-02-24T10:01:49Z</published>
-    <updated>2023-02-24T10:01:49Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-24T09:52:00.000+0000</id>
+    <published>2023-02-24T10:36:50Z</published>
+    <updated>2023-02-24T10:36:50Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiigFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL2VudGVydGFpbm1lbnQvbXVzaWMvY2FtcC1iZXN0aXZhbC1hbmQtYmZsZi1mYW1pbHktcmF2ZS1jb21pbmctdG8tb3hmb3JkLXdpdGgtZGpzLWJvb2stY2x1YnMtYW5kLW1vcmUvYXItQUExN1NDVFTSAQA?oc=5</id>
@@ -213,18 +213,18 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vdGhlY3JpdGljLmNvLnVrL2lzc3Vlcy9mZWJydWFyeS0yMDIzL2Nyb3NzLXF1ZXN0aW9uaW5nL9IBAA?oc=5" target="_blank"&gt;Cross questioning | Romeo Coates&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Critic&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents - Courier Mail</title>
+    <updated>2023-02-21T23:38:38.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY4Ny1jZW50cy9uZXdzLXN0b3J5LzQwODQ2MDg0MzViOTFiYTRmZDE2MTUwMzljMTg2M2U40gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjg3LWNlbnRzL25ld3Mtc3RvcnkvNDA4NDYwODQzNWI5MWJhNGZkMTYxNTAzOWMxODYzZTg_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 168.7 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzM3NTk1L1VrcmFpbmUtd2FyLWJyaXRpc2gtY2l2aWxpYW5zLXJ1c3NpYS1hbm5pdmVyc2FyedIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzM3NTk1L1VrcmFpbmUtd2FyLWJyaXRpc2gtY2l2aWxpYW5zLXJ1c3NpYS1hbm5pdmVyc2FyeS9hbXA?oc=5</id>
     <title type="html">The heroic British volunteers who have helped Ukraine resist Russia's barbaric war - Express</title>
     <updated>2023-02-21T12:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzM3NTk1L1VrcmFpbmUtd2FyLWJyaXRpc2gtY2l2aWxpYW5zLXJ1c3NpYS1hbm5pdmVyc2FyedIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzM3NTk1L1VrcmFpbmUtd2FyLWJyaXRpc2gtY2l2aWxpYW5zLXJ1c3NpYS1hbm5pdmVyc2FyeS9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzM3NTk1L1VrcmFpbmUtd2FyLWJyaXRpc2gtY2l2aWxpYW5zLXJ1c3NpYS1hbm5pdmVyc2FyedIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzM3NTk1L1VrcmFpbmUtd2FyLWJyaXRpc2gtY2l2aWxpYW5zLXJ1c3NpYS1hbm5pdmVyc2FyeS9hbXA?oc=5" target="_blank"&gt;The heroic British volunteers who have helped Ukraine resist Russia's barbaric war&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pdHYtZ21icy1zdXNhbm5hLXJlaWQtYXdlLTI2Mjg5NzYy0gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2l0di1nbWJzLXN1c2FubmEtcmVpZC1hd2UtMjYyODk3NjIuYW1w?oc=5</id>
-    <title type="html">ITV GMB's Susanna Reid in awe of Croydon man who left to fight on the front line in Ukraine - My London</title>
-    <updated>2023-02-21T10:23:27.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pdHYtZ21icy1zdXNhbm5hLXJlaWQtYXdlLTI2Mjg5NzYy0gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2l0di1nbWJzLXN1c2FubmEtcmVpZC1hd2UtMjYyODk3NjIuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9pdHYtZ21icy1zdXNhbm5hLXJlaWQtYXdlLTI2Mjg5NzYy0gFXaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL2l0di1nbWJzLXN1c2FubmEtcmVpZC1hd2UtMjYyODk3NjIuYW1w?oc=5" target="_blank"&gt;ITV GMB's Susanna Reid in awe of Croydon man who left to fight on the front line in Ukraine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
