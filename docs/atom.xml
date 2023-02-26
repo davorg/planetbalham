@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-26T11:13:08Z</updated>
+  <updated>2023-02-26T11:48:44Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5</id>
+    <title type="html">Bruce Bedford obituary - The Guardian</title>
+    <updated>2023-02-26T11:21:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" target="_blank"&gt;Bruce Bedford obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -219,13 +226,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vanVua2VlLmNvbS9sb25nZm9ybS9mcmVkLWFnYWluLWludGVydmlldy1hdXN0cmFsaWFuLXRvdXItZGFuY2XSAQA?oc=5</id>
-    <title type="html">INTERVIEW: Fred Again.. On His Latest Music Projects And ... - Junkee</title>
-    <updated>2023-02-22T05:03:45.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vanVua2VlLmNvbS9sb25nZm9ybS9mcmVkLWFnYWluLWludGVydmlldy1hdXN0cmFsaWFuLXRvdXItZGFuY2XSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vanVua2VlLmNvbS9sb25nZm9ybS9mcmVkLWFnYWluLWludGVydmlldy1hdXN0cmFsaWFuLXRvdXItZGFuY2XSAQA?oc=5" target="_blank"&gt;INTERVIEW: Fred Again.. On His Latest Music Projects And ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Junkee&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>2022 in Gigs</title>
     <link rel="alternate" href="https://blog.dave.org.uk/2023/02/2022-in-gigs.html" type="text/html"/>
