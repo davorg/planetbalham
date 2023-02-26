@@ -7,35 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-26T11:48:44Z</updated>
+  <updated>2023-02-26T12:14:54Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5</id>
-    <title type="html">Bruce Bedford obituary - The Guardian</title>
-    <updated>2023-02-26T11:21:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" target="_blank"&gt;Bruce Bedford obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Light Cloud, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (44°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1028mb, Humidity: 52%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: -1°C (30°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1028mb, Humidity: 52%, UV Risk: 2, Pollution: Low, Sunrise: 06:53 GMT, Sunset: 17:35 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-26T09:53:00.000+0000</id>
-    <published>2023-02-26T11:01:50Z</published>
-    <updated>2023-02-26T11:01:50Z</updated>
+    <published>2023-02-26T12:00:47Z</published>
+    <updated>2023-02-26T12:00:47Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1031mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1031mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 06:51 GMT, Sunset: 17:37 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-26T09:53:00.000+0000</id>
-    <published>2023-02-26T11:01:50Z</published>
-    <updated>2023-02-26T11:01:50Z</updated>
+    <published>2023-02-26T12:00:47Z</published>
+    <updated>2023-02-26T12:00:47Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (47°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1032mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-26T09:53:00.000+0000</id>
-    <published>2023-02-26T11:01:50Z</published>
-    <updated>2023-02-26T11:01:50Z</updated>
+    <published>2023-02-26T12:00:47Z</published>
+    <updated>2023-02-26T12:00:47Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5</id>
+    <title type="html">Bruce Bedford obituary - The Guardian</title>
+    <updated>2023-02-26T11:21:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" target="_blank"&gt;Bruce Bedford obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vc2hvcHBpbmcvdG9tYXRvLXNob3BwaW5nLXNhaW5zYnVyeS1hbGRpLXBsYW5ldC0yNjMyNzU1N9IBXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vc2hvcHBpbmcvdG9tYXRvLXNob3BwaW5nLXNhaW5zYnVyeS1hbGRpLXBsYW5ldC0yNjMyNzU1Ny5hbXA?oc=5</id>
