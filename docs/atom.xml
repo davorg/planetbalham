@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-27T20:14:07Z</updated>
+  <updated>2023-02-27T20:48:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,29 +16,29 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 83%, UV Risk: 0, Pollution: Low, Sunset: 17:37 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-27T09:55:00.000+0000</id>
-    <published>2023-02-27T20:00:07Z</published>
-    <updated>2023-02-27T20:00:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-27T19:53:00.000+0000</id>
+    <published>2023-02-27T20:23:57Z</published>
+    <updated>2023-02-27T20:23:57Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Drizzle, Minimum Temperature: 4°C (39°F) Maximum Temperature: 8°C (47°F)</title>
+    <title>Tuesday: Drizzle, Minimum Temperature: 3°C (38°F) Maximum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 4°C (39°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1032mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 3°C (38°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 06:49 GMT, Sunset: 17:39 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-27T09:55:00.000+0000</id>
-    <published>2023-02-27T20:00:07Z</published>
-    <updated>2023-02-27T20:00:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-27T19:53:00.000+0000</id>
+    <published>2023-02-27T20:23:57Z</published>
+    <updated>2023-02-27T20:23:57Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 8°C (47°F)</title>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1029mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1029mb, Humidity: 77%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-27T09:55:00.000+0000</id>
-    <published>2023-02-27T20:00:07Z</published>
-    <updated>2023-02-27T20:00:07Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-27T19:53:00.000+0000</id>
+    <published>2023-02-27T20:23:57Z</published>
+    <updated>2023-02-27T20:23:57Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiO2h0dHBzOi8vYmV5b25kdGhlam9rZS5jby51ay9jb250ZW50LzEzMTg0L21hcmN1cy1icmlnc3RvY2tl0gEA?oc=5</id>
@@ -75,41 +75,6 @@
     <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vc2hvcHBpbmcvdG9tYXRvLXNob3BwaW5nLXNhaW5zYnVyeS1hbGRpLXBsYW5ldC0yNjMyNzU1N9IBXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vc2hvcHBpbmcvdG9tYXRvLXNob3BwaW5nLXNhaW5zYnVyeS1hbGRpLXBsYW5ldC0yNjMyNzU1Ny5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vc2hvcHBpbmcvdG9tYXRvLXNob3BwaW5nLXNhaW5zYnVyeS1hbGRpLXBsYW5ldC0yNjMyNzU1N9IBXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vc2hvcHBpbmcvdG9tYXRvLXNob3BwaW5nLXNhaW5zYnVyeS1hbGRpLXBsYW5ldC0yNjMyNzU1Ny5hbXA?oc=5" target="_blank"&gt;I went tomato shopping after supermarkets sold out and they're not hard to find&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>February 23rd</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52705999702/"/>
-    <id>tag:flickr.com,2005:/photo/52705999702</id>
-    <published>2023-02-23T16:34:20Z</published>
-    <updated>2023-02-23T16:34:20Z</updated>
-    <flickr:date_taken>2023-02-23T14:13:19-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-23T14:13:19-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52705999702/" title="February 23rd"&gt;&lt;img src="https://live.staticflickr.com/65535/52705999702_377034bf80_m.jpg" width="240" height="156" alt="February 23rd" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On a grey London day, was good to see the Roberts sign glowing brightly. The store long since gone.&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52705999702_377034bf80_b.jpg"/>
-    <category term="february" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="roberts" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ekovision" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="neon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fastfood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="remnants" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Cable pull-through (3/3)</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52706659269/"/>
@@ -223,6 +188,34 @@
     <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="utilities" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Pastel pigeon (2/3)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52705883307/"/>
+    <id>tag:flickr.com,2005:/photo/52705883307</id>
+    <published>2023-02-23T15:41:40Z</published>
+    <updated>2023-02-23T15:41:40Z</updated>
+    <flickr:date_taken>2023-02-23T11:34:31-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-23T11:34:31-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52705883307/" title="Pastel pigeon (2/3)"&gt;&lt;img src="https://live.staticflickr.com/65535/52705883307_f886f0d470_m.jpg" width="240" height="120" alt="Pastel pigeon (2/3)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;
+</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52705883307_f886f0d470_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pigeons" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
