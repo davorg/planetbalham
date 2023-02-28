@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-28T18:14:13Z</updated>
+  <updated>2023-02-28T18:48:59Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzNTM3NzYuc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktbGFrc2htaS1uZXdzdGVhZC13b29kL9IBAA?oc=5</id>
-    <title type="html">St. Clement Danes Parade by Pragathi Lakshmi, Newstead wood - This is Local London</title>
-    <updated>2023-02-28T18:09:48.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzNTM3NzYuc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktbGFrc2htaS1uZXdzdGVhZC13b29kL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzNTM3NzYuc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktbGFrc2htaS1uZXdzdGVhZC13b29kL9IBAA?oc=5" target="_blank"&gt;St. Clement Danes Parade by Pragathi Lakshmi, Newstead wood&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Tonight: Light Rain Showers, Minimum Temperature: 3°C (37°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -24,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1031mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 17:39 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-02-28T09:56:00.000+0000</id>
-    <published>2023-02-28T18:04:11Z</published>
-    <updated>2023-02-28T18:04:11Z</updated>
+    <published>2023-02-28T18:41:32Z</published>
+    <updated>2023-02-28T18:41:32Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Cloud, Minimum Temperature: 1°C (34°F) Maximum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1029mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 06:47 GMT, Sunset: 17:40 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-02-28T09:56:00.000+0000</id>
-    <published>2023-02-28T18:04:11Z</published>
-    <updated>2023-02-28T18:04:11Z</updated>
+    <published>2023-02-28T18:41:32Z</published>
+    <updated>2023-02-28T18:41:32Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: 3°C (37°F) Maximum Temperature: 10°C (49°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (49°F), Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:44 GMT, Sunset: 17:42 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-02-28T09:56:00.000+0000</id>
-    <published>2023-02-28T18:04:11Z</published>
-    <updated>2023-02-28T18:04:11Z</updated>
+    <published>2023-02-28T18:41:32Z</published>
+    <updated>2023-02-28T18:41:32Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzNTM3NzYuc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktbGFrc2htaS1uZXdzdGVhZC13b29kL9IBAA?oc=5</id>
+    <title type="html">St. Clement Danes Parade by Pragathi Lakshmi, Newstead wood - This is Local London</title>
+    <updated>2023-02-28T18:09:48.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzNTM3NzYuc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktbGFrc2htaS1uZXdzdGVhZC13b29kL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjMzNTM3NzYuc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktbGFrc2htaS1uZXdzdGVhZC13b29kL9IBAA?oc=5" target="_blank"&gt;St. Clement Danes Parade by Pragathi Lakshmi, Newstead wood&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9mcnVzdHJhdGVkLXNvdXRoLWxvbmRvbi1raWRzLWZlZC0yNjM1NDU1M9IBXmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9mcnVzdHJhdGVkLXNvdXRoLWxvbmRvbi1raWRzLWZlZC0yNjM1NDU1My5hbXA?oc=5</id>
@@ -142,6 +142,13 @@
             </displaycategories>
     </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5</id>
+    <title type="html">Marcus Brigstocke talks about his new tour - Beyond The Joke</title>
+    <updated>2023-02-27T17:37:30.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5" target="_blank"&gt;Marcus Brigstocke talks about his new tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiNGh0dHBzOi8vd3d3LmZyaWV6ZS5jb20vYXJ0aWNsZS9taWtlLW5lbHNvbi1pbnRlcnZpZXfSAQA?oc=5</id>
     <title type="html">Mike Nelson Strips His Assets - frieze.com</title>
     <updated>2023-02-27T17:26:44.000000000Z</updated>
@@ -154,13 +161,6 @@
     <updated>2023-02-26T13:55:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9oZWFsdGgvMTczODkyOC9tYXJnYXJldC1ydXRoZXJmb3JkLWhlYWx0aC1hbHpoZWltZXJzLWRpc2Vhc2XSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL2xpZmUtc3R5bGUvaGVhbHRoLzE3Mzg5MjgvbWFyZ2FyZXQtcnV0aGVyZm9yZC1oZWFsdGgtYWx6aGVpbWVycy1kaXNlYXNlL2FtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9oZWFsdGgvMTczODkyOC9tYXJnYXJldC1ydXRoZXJmb3JkLWhlYWx0aC1hbHpoZWltZXJzLWRpc2Vhc2XSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL2xpZmUtc3R5bGUvaGVhbHRoLzE3Mzg5MjgvbWFyZ2FyZXQtcnV0aGVyZm9yZC1oZWFsdGgtYWx6aGVpbWVycy1kaXNlYXNlL2FtcA?oc=5" target="_blank"&gt;Dame Margaret Rutherford was more prone to Alzheimer's disease - here's why&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5</id>
-    <title type="html">Bruce Bedford obituary - The Guardian</title>
-    <updated>2023-02-26T11:21:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL2ZlYi8yNi9icnVjZS1iZWRmb3JkLW9iaXR1YXJ50gFEaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3Nwb3J0LzIwMjMvZmViLzI2L2JydWNlLWJlZGZvcmQtb2JpdHVhcnk?oc=5" target="_blank"&gt;Bruce Bedford obituary&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>February 23rd</title>
