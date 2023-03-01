@@ -15,23 +15,23 @@ feed:
 google_ga: G-9HSB8D1C6J
 cache_dir: /tmp/balham
 feeds:
-  - url: https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2656580
+  - feed: https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2656580
     title: weather
-  - url: https://api.flickr.com/services/feeds/photos_public.gne?tags=balham&format=atom
+  - feed: https://api.flickr.com/services/feeds/photos_public.gne?tags=balham&format=atom
     title: flickr
-  - url: http://balhambugle.blogspot.com/atom.xml
+  - feed: http://balhambugle.blogspot.com/atom.xml
     title: balham bugle
-  - url: https://news.google.com/news?q=balham&output=atom
+  - feed: https://news.google.com/news?q=balham&output=atom
     title: google news
-  - url: http://theurbanpastor.wordpress.com/feed/
+  - feed: http://theurbanpastor.wordpress.com/feed/
     title: urban pastor
-  - url: https://blog.dave.org.uk/feed
+  - feed: https://blog.dave.org.uk/feed
     title: davblog
-  - url: http://balhambou.blogspot.com/feeds/posts/default
+  - feed: http://balhambou.blogspot.com/feeds/posts/default
     title: balham bou
-  - url: http://aliceworld.blogspot.com/feeds/posts/default
+  - feed: http://aliceworld.blogspot.com/feeds/posts/default
     title: alice's dark place
-  - url: http://theoreticalheuristics.blogspot.com/feeds/posts/default
+  - feed: http://theoreticalheuristics.blogspot.com/feeds/posts/default
     title: wandsworth witterings
-  - url: http://vendazero.blogspot.com/feeds/posts/default
+  - feed: http://vendazero.blogspot.com/feeds/posts/default
     title: vendazero
