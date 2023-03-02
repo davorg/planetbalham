@@ -7,15 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-02T18:14:19Z</updated>
+  <updated>2023-03-02T18:50:16Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5</id>
-    <title type="html">Comedians' wrestling bouts to be livestreamed : News 2023 - Chortle</title>
-    <updated>2023-03-02T17:27:32.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" target="_blank"&gt;Comedians' wrestling bouts to be livestreamed : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 3°C (37°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 3°C (37°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1027mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunset: 17:42 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-02T09:52:00.000+0000</id>
+    <published>2023-03-02T18:14:16Z</published>
+    <updated>2023-03-02T18:14:16Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Light Cloud, Minimum Temperature: 2°C (36°F) Maximum Temperature: 8°C (47°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 2°C (36°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-02T09:52:00.000+0000</id>
+    <published>2023-03-02T18:14:16Z</published>
+    <updated>2023-03-02T18:14:16Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (46°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1029mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-02T09:52:00.000+0000</id>
+    <published>2023-03-02T18:14:16Z</published>
+    <updated>2023-03-02T18:14:16Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vc291dGh3YXJrbmV3cy5jby51ay9zcG9ydC9seW5ucy1mcmFua2llLWhhbnJhdHR5LWRlZmVuZHMtbG9uZG9uLWNoYWxsZW5nZS1iZWx0L9IBAA?oc=5</id>
@@ -30,20 +53,6 @@
     <updated>2023-03-01T12:17:14.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLWtpZHMtaW5zdGFsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zdG9wLXNwZWVkaW5nLWRyaXZlcnMtMTczNzAz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLWtpZHMtaW5zdGFsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zdG9wLXNwZWVkaW5nLWRyaXZlcnMtMTczNzAz0gEA?oc=5" target="_blank"&gt;Balham kids instal pop-up zebra crossing to stop speeding drivers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9taWxsaW9ucy1vZi1wb3VuZHMtZWFybWFya2VkLWZvci1tYWpvci1pbmZyYXN0cnVjdHVyZS1pbXByb3ZlbWVudHMtYWNyb3NzLXdhbmRzd29ydGgv0gEA?oc=5</id>
-    <title type="html">Millions of pounds earmarked for major infrastructure improvements ... - Wandsworth Council</title>
-    <updated>2023-03-01T10:20:45.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiiAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9taWxsaW9ucy1vZi1wb3VuZHMtZWFybWFya2VkLWZvci1tYWpvci1pbmZyYXN0cnVjdHVyZS1pbXByb3ZlbWVudHMtYWNyb3NzLXdhbmRzd29ydGgv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiiAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9taWxsaW9ucy1vZi1wb3VuZHMtZWFybWFya2VkLWZvci1tYWpvci1pbmZyYXN0cnVjdHVyZS1pbXByb3ZlbWVudHMtYWNyb3NzLXdhbmRzd29ydGgv0gEA?oc=5" target="_blank"&gt;Millions of pounds earmarked for major infrastructure improvements ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktMTgwOTQ4MTQwLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktMTgwOTQ4MTQwLmh0bWw?oc=5</id>
-    <title type="html">St. Clement Danes Parade by Pragathi Lakshmi, Newstead wood - Yahoo News UK</title>
-    <updated>2023-02-28T18:09:48.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktMTgwOTQ4MTQwLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktMTgwOTQ4MTQwLmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktMTgwOTQ4MTQwLmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc3QtY2xlbWVudC1kYW5lcy1wYXJhZGUtcHJhZ2F0aGktMTgwOTQ4MTQwLmh0bWw?oc=5" target="_blank"&gt;St. Clement Danes Parade by Pragathi Lakshmi, Newstead wood&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Gathering food</title>
@@ -132,6 +141,27 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5</id>
+    <title type="html">Marcus Brigstocke talks about his new tour - Beyond The Joke</title>
+    <updated>2023-02-27T17:37:30.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5" target="_blank"&gt;Marcus Brigstocke talks about his new tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiNGh0dHBzOi8vd3d3LmZyaWV6ZS5jb20vYXJ0aWNsZS9taWtlLW5lbHNvbi1pbnRlcnZpZXfSAQA?oc=5</id>
+    <title type="html">Mike Nelson Strips His Assets - frieze.com</title>
+    <updated>2023-02-27T17:26:44.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiNGh0dHBzOi8vd3d3LmZyaWV6ZS5jb20vYXJ0aWNsZS9taWtlLW5lbHNvbi1pbnRlcnZpZXfSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiNGh0dHBzOi8vd3d3LmZyaWV6ZS5jb20vYXJ0aWNsZS9taWtlLW5lbHNvbi1pbnRlcnZpZXfSAQA?oc=5" target="_blank"&gt;Mike Nelson Strips His Assets&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;frieze.com&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9oZWFsdGgvMTczODkyOC9tYXJnYXJldC1ydXRoZXJmb3JkLWhlYWx0aC1hbHpoZWltZXJzLWRpc2Vhc2XSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL2xpZmUtc3R5bGUvaGVhbHRoLzE3Mzg5MjgvbWFyZ2FyZXQtcnV0aGVyZm9yZC1oZWFsdGgtYWx6aGVpbWVycy1kaXNlYXNlL2FtcA?oc=5</id>
+    <title type="html">Dame Margaret Rutherford was more prone to Alzheimer's disease - here's why - Express</title>
+    <updated>2023-02-26T13:55:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9oZWFsdGgvMTczODkyOC9tYXJnYXJldC1ydXRoZXJmb3JkLWhlYWx0aC1hbHpoZWltZXJzLWRpc2Vhc2XSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL2xpZmUtc3R5bGUvaGVhbHRoLzE3Mzg5MjgvbWFyZ2FyZXQtcnV0aGVyZm9yZC1oZWFsdGgtYWx6aGVpbWVycy1kaXNlYXNlL2FtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbGlmZS1zdHlsZS9oZWFsdGgvMTczODkyOC9tYXJnYXJldC1ydXRoZXJmb3JkLWhlYWx0aC1hbHpoZWltZXJzLWRpc2Vhc2XSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL2xpZmUtc3R5bGUvaGVhbHRoLzE3Mzg5MjgvbWFyZ2FyZXQtcnV0aGVyZm9yZC1oZWFsdGgtYWx6aGVpbWVycy1kaXNlYXNlL2FtcA?oc=5" target="_blank"&gt;Dame Margaret Rutherford was more prone to Alzheimer's disease - here's why&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>February 23rd</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52705999702/"/>
