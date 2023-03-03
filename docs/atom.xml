@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-03T10:13:42Z</updated>
+  <updated>2023-03-03T10:48:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,9 +16,9 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:42 GMT, Sunset: 17:44 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-03T07:53:00.000+0000</id>
-    <published>2023-03-03T10:01:24Z</published>
-    <updated>2023-03-03T10:01:24Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-03T09:52:00.000+0000</id>
+    <published>2023-03-03T10:24:16Z</published>
+    <updated>2023-03-03T10:24:16Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Cloud, Minimum Temperature: 3°C (37°F) Maximum Temperature: 8°C (46°F)</title>
@@ -26,26 +26,26 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1029mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-03T07:53:00.000+0000</id>
-    <published>2023-03-03T10:01:24Z</published>
-    <updated>2023-03-03T10:01:24Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-03T09:52:00.000+0000</id>
+    <published>2023-03-03T10:24:16Z</published>
+    <updated>2023-03-03T10:24:16Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Rain Showers, Minimum Temperature: -1°C (31°F) Maximum Temperature: 6°C (43°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 6°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1020mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (44°F), Minimum Temperature: -1°C (31°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1020mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-03T07:53:00.000+0000</id>
-    <published>2023-03-03T10:01:24Z</published>
-    <updated>2023-03-03T10:01:24Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-03T09:52:00.000+0000</id>
+    <published>2023-03-03T10:24:16Z</published>
+    <updated>2023-03-03T10:24:16Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3VwY29taW5nLWxvbmRvbi1jb21lZHktZmVzdGl2YWxzLTIwMjMtMDgyMTQ1MTA3Lmh0bWzSAQA?oc=5</id>
-    <title type="html">Upcoming London comedy festivals 2023 for laugh-out-loud humour - Yahoo Lifestyle UK</title>
-    <updated>2023-03-03T08:21:45.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3VwY29taW5nLWxvbmRvbi1jb21lZHktZmVzdGl2YWxzLTIwMjMtMDgyMTQ1MTA3Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3VwY29taW5nLWxvbmRvbi1jb21lZHktZmVzdGl2YWxzLTIwMjMtMDgyMTQ1MTA3Lmh0bWzSAQA?oc=5" target="_blank"&gt;Upcoming London comedy festivals 2023 for laugh-out-loud humour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Lifestyle UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5</id>
+    <title type="html">Comedians' wrestling bouts to be livestreamed : News 2023 - Chortle</title>
+    <updated>2023-03-02T17:27:32.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" target="_blank"&gt;Comedians' wrestling bouts to be livestreamed : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vc291dGh3YXJrbmV3cy5jby51ay9zcG9ydC9seW5ucy1mcmFua2llLWhhbnJhdHR5LWRlZmVuZHMtbG9uZG9uLWNoYWxsZW5nZS1iZWx0L9IBAA?oc=5</id>
@@ -55,11 +55,18 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vc291dGh3YXJrbmV3cy5jby51ay9zcG9ydC9seW5ucy1mcmFua2llLWhhbnJhdHR5LWRlZmVuZHMtbG9uZG9uLWNoYWxsZW5nZS1iZWx0L9IBAA?oc=5" target="_blank"&gt;Lynn's Frankie Hanratty defends London Challenge belt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zY2hvb2xjaGlsZHJlbi1pbnN0YWxsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zZW5kLWEtbWVzc2FnZS10by1zcGVlZGluZy1kcml2ZXJzL9IBAA?oc=5</id>
-    <title type="html">Schoolchildren install pop-up zebra crossing to send a message to ... - London News Online</title>
-    <updated>2023-03-01T10:49:28.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zY2hvb2xjaGlsZHJlbi1pbnN0YWxsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zZW5kLWEtbWVzc2FnZS10by1zcGVlZGluZy1kcml2ZXJzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zY2hvb2xjaGlsZHJlbi1pbnN0YWxsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zZW5kLWEtbWVzc2FnZS10by1zcGVlZGluZy1kcml2ZXJzL9IBAA?oc=5" target="_blank"&gt;Schoolchildren install pop-up zebra crossing to send a message to ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMicWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLWtpZHMtaW5zdGFsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zdG9wLXNwZWVkaW5nLWRyaXZlcnMtMTczNzAz0gEA?oc=5</id>
+    <title type="html">Balham kids instal pop-up zebra crossing to stop speeding drivers - Clapham Nub News</title>
+    <updated>2023-03-01T12:17:14.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLWtpZHMtaW5zdGFsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zdG9wLXNwZWVkaW5nLWRyaXZlcnMtMTczNzAz0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLWtpZHMtaW5zdGFsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zdG9wLXNwZWVkaW5nLWRyaXZlcnMtMTczNzAz0gEA?oc=5" target="_blank"&gt;Balham kids instal pop-up zebra crossing to stop speeding drivers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9taWxsaW9ucy1vZi1wb3VuZHMtZWFybWFya2VkLWZvci1tYWpvci1pbmZyYXN0cnVjdHVyZS1pbXByb3ZlbWVudHMtYWNyb3NzLXdhbmRzd29ydGgv0gEA?oc=5</id>
+    <title type="html">Millions of pounds earmarked for major infrastructure improvements ... - Wandsworth Council</title>
+    <updated>2023-03-01T10:20:45.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiiAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9taWxsaW9ucy1vZi1wb3VuZHMtZWFybWFya2VkLWZvci1tYWpvci1pbmZyYXN0cnVjdHVyZS1pbXByb3ZlbWVudHMtYWNyb3NzLXdhbmRzd29ydGgv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiiAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9taWxsaW9ucy1vZi1wb3VuZHMtZWFybWFya2VkLWZvci1tYWpvci1pbmZyYXN0cnVjdHVyZS1pbXByb3ZlbWVudHMtYWNyb3NzLXdhbmRzd29ydGgv0gEA?oc=5" target="_blank"&gt;Millions of pounds earmarked for major infrastructure improvements ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Gathering food</title>
@@ -154,13 +161,6 @@
     <updated>2023-02-28T08:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vd3d3Lm51cnNlcnl3b3JsZC5jby51ay9mZWF0dXJlcy9hcnRpY2xlL251cnNlcnktY2hhaW5zLTIwMjMtZGlyZWN0b3J5LXBlb3BsZS1wbGFjZXMtMtIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vd3d3Lm51cnNlcnl3b3JsZC5jby51ay9mZWF0dXJlcy9hcnRpY2xlL251cnNlcnktY2hhaW5zLTIwMjMtZGlyZWN0b3J5LXBlb3BsZS1wbGFjZXMtMtIBAA?oc=5" target="_blank"&gt;Nursery Chains 2023: Directory – people &amp; places (2)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nursery World&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5</id>
-    <title type="html">Marcus Brigstocke talks about his new tour - Beyond The Joke</title>
-    <updated>2023-02-27T17:37:30.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmJleW9uZHRoZWpva2UuY28udWsvY29udGVudC8xMzE4NC9tYXJjdXMtYnJpZ3N0b2NrZdIBAA?oc=5" target="_blank"&gt;Marcus Brigstocke talks about his new tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Beyond The Joke&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>February 23rd</title>
