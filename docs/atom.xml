@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-04T06:48:49Z</updated>
+  <updated>2023-03-04T07:13:02Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1029mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:40 GMT, Sunset: 17:46 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-03T21:55:00.000+0000</id>
-    <published>2023-03-04T06:44:56Z</published>
-    <updated>2023-03-04T06:44:56Z</updated>
+    <published>2023-03-04T07:01:39Z</published>
+    <updated>2023-03-04T07:01:39Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: -1°C (31°F) Maximum Temperature: 6°C (43°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 6°C (43°F), Minimum Temperature: -1°C (31°F), Wind Direction: North Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1020mb, Humidity: 72%, UV Risk: 1, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-03T21:55:00.000+0000</id>
-    <published>2023-03-04T06:44:56Z</published>
-    <updated>2023-03-04T06:44:56Z</updated>
+    <published>2023-03-04T07:01:39Z</published>
+    <updated>2023-03-04T07:01:39Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 2°C (36°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 2°C (36°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1005mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-03T21:55:00.000+0000</id>
-    <published>2023-03-04T06:44:56Z</published>
-    <updated>2023-03-04T06:44:56Z</updated>
+    <published>2023-03-04T07:01:39Z</published>
+    <updated>2023-03-04T07:01:39Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL3BvbGljZS1yZWxlYXNlLWUtZml0LW1hbi0xNTMxMDEyNzEuaHRtbNIBRWh0dHBzOi8vd3d3LmFvbC5jby51ay9hbXBodG1sL3BvbGljZS1yZWxlYXNlLWUtZml0LW1hbi0xNTMxMDEyNzEuaHRtbA?oc=5</id>
+    <title type="html">Police release e-fit of man who flashed woman in Tooting - AOL UK</title>
+    <updated>2023-03-03T15:31:01.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiQmh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL3BvbGljZS1yZWxlYXNlLWUtZml0LW1hbi0xNTMxMDEyNzEuaHRtbNIBRWh0dHBzOi8vd3d3LmFvbC5jby51ay9hbXBodG1sL3BvbGljZS1yZWxlYXNlLWUtZml0LW1hbi0xNTMxMDEyNzEuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQmh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL3BvbGljZS1yZWxlYXNlLWUtZml0LW1hbi0xNTMxMDEyNzEuaHRtbNIBRWh0dHBzOi8vd3d3LmFvbC5jby51ay9hbXBodG1sL3BvbGljZS1yZWxlYXNlLWUtZml0LW1hbi0xNTMxMDEyNzEuaHRtbA?oc=5" target="_blank"&gt;Police release e-fit of man who flashed woman in Tooting&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AOL UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3Rvb3RpbmctaW5kZWNlbnQtZXhwb3N1cmUtbG9uZG9uLWNyaW1lLW1ldC1wb2xpY2UtYjEwNjQ2MjEuaHRtbNIBAA?oc=5</id>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vZnVuZHJhaXNpbmcuY28udWsvMjAyMy8wMy8wMy9kZWxpdmVyb28tcmFpc2VzLWVub3VnaC1mb3ItMm1uLWZvb2QtYmFuay1tZWFscy1tb3JlLWNvcnBvcmF0ZS1wYXJ0bmVyc2hpcC1uZXdzL9IBAA?oc=5" target="_blank"&gt;Deliveroo raises enough for 2mn food bank meals, &amp; more corporate ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;UK Fundraising&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5</id>
-    <title type="html">Comedians' wrestling bouts to be livestreamed : News 2023 - Chortle</title>
-    <updated>2023-03-02T17:27:32.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" target="_blank"&gt;Comedians' wrestling bouts to be livestreamed : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vc291dGh3YXJrbmV3cy5jby51ay9zcG9ydC9seW5ucy1mcmFua2llLWhhbnJhdHR5LWRlZmVuZHMtbG9uZG9uLWNoYWxsZW5nZS1iZWx0L9IBAA?oc=5</id>
-    <title type="html">Lynn's Frankie Hanratty defends London Challenge belt - Southwark News</title>
-    <updated>2023-03-02T11:48:48.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vc291dGh3YXJrbmV3cy5jby51ay9zcG9ydC9seW5ucy1mcmFua2llLWhhbnJhdHR5LWRlZmVuZHMtbG9uZG9uLWNoYWxsZW5nZS1iZWx0L9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vc291dGh3YXJrbmV3cy5jby51ay9zcG9ydC9seW5ucy1mcmFua2llLWhhbnJhdHR5LWRlZmVuZHMtbG9uZG9uLWNoYWxsZW5nZS1iZWx0L9IBAA?oc=5" target="_blank"&gt;Lynn's Frankie Hanratty defends London Challenge belt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Southwark News&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9mdWxsLWxpc3QtbG9uZG9uLW5hdGlvbmFsLXJhaWwtMjYzNzkzODHSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvZnVsbC1saXN0LWxvbmRvbi1uYXRpb25hbC1yYWlsLTI2Mzc5MzgxLmFtcA?oc=5</id>
+    <title type="html">Full list of London National Rail lines to be hit by engineering works this Easter - My London</title>
+    <updated>2023-03-03T10:51:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9mdWxsLWxpc3QtbG9uZG9uLW5hdGlvbmFsLXJhaWwtMjYzNzkzODHSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvZnVsbC1saXN0LWxvbmRvbi1uYXRpb25hbC1yYWlsLTI2Mzc5MzgxLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9mdWxsLWxpc3QtbG9uZG9uLW5hdGlvbmFsLXJhaWwtMjYzNzkzODHSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvZnVsbC1saXN0LWxvbmRvbi1uYXRpb25hbC1yYWlsLTI2Mzc5MzgxLmFtcA?oc=5" target="_blank"&gt;Full list of London National Rail lines to be hit by engineering works this Easter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Gathering food</title>
