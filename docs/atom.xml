@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-05T09:48:43Z</updated>
+  <updated>2023-03-05T10:13:21Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 5°C (41°F), Minimum Temperature: -1°C (30°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1019mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 06:38 GMT, Sunset: 17:47 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-05T07:52:00.000+0000</id>
-    <published>2023-03-05T09:08:42Z</published>
-    <updated>2023-03-05T09:08:42Z</updated>
+    <published>2023-03-05T10:09:05Z</published>
+    <updated>2023-03-05T10:09:05Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 7°C (45°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 06:36 GMT, Sunset: 17:49 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-05T07:52:00.000+0000</id>
-    <published>2023-03-05T09:08:42Z</published>
-    <updated>2023-03-05T09:08:42Z</updated>
+    <published>2023-03-05T10:09:05Z</published>
+    <updated>2023-03-05T10:09:05Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: -3°C (26°F) Maximum Temperature: 4°C (40°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (40°F), Minimum Temperature: -3°C (26°F), Wind Direction: Northerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 999mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 06:34 GMT, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-05T07:52:00.000+0000</id>
-    <published>2023-03-05T09:08:42Z</published>
-    <updated>2023-03-05T09:08:42Z</updated>
+    <published>2023-03-05T10:09:05Z</published>
+    <updated>2023-03-05T10:09:05Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5</id>
+    <title type="html">Celluloid sleuths more fun in the old days - Bangkok Post</title>
+    <updated>2023-03-05T00:57:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5" target="_blank"&gt;Celluloid sleuths more fun in the old days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bangkok Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9vbmxpbmUvZnlpLzE3OS9uZXh0dXAtZmxhc2hiYWNrLWZlc3RpdmFsLXJlY29yZGluZ3Mv0gFNaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL29ubGluZS9meWkvMTc5L25leHR1cC1mbGFzaGJhY2stZmVzdGl2YWwtcmVjb3JkaW5ncy8?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-03-02T17:27:32.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzAzLzAyLzUyNjMzL2NvbWVkaWFuc193cmVzdGxpbmdfYm91dHNfdG9fYmVfbGl2ZXN0cmVhbWVk0gEA?oc=5" target="_blank"&gt;Comedians' wrestling bouts to be livestreamed : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zY2hvb2xjaGlsZHJlbi1pbnN0YWxsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zZW5kLWEtbWVzc2FnZS10by1zcGVlZGluZy1kcml2ZXJzL9IBAA?oc=5</id>
-    <title type="html">Schoolchildren install pop-up zebra crossing to send a message to ... - London News Online</title>
-    <updated>2023-03-01T10:49:28.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zY2hvb2xjaGlsZHJlbi1pbnN0YWxsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zZW5kLWEtbWVzc2FnZS10by1zcGVlZGluZy1kcml2ZXJzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9zY2hvb2xjaGlsZHJlbi1pbnN0YWxsLXBvcC11cC16ZWJyYS1jcm9zc2luZy10by1zZW5kLWEtbWVzc2FnZS10by1zcGVlZGluZy1kcml2ZXJzL9IBAA?oc=5" target="_blank"&gt;Schoolchildren install pop-up zebra crossing to send a message to ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Gathering food</title>
