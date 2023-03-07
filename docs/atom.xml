@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-07T21:48:47Z</updated>
+  <updated>2023-03-07T22:13:09Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 0°C (31°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Very Poor, Pressure: 997mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-07T19:56:00.000+0000</id>
-    <published>2023-03-07T21:28:08Z</published>
-    <updated>2023-03-07T21:28:08Z</updated>
+    <published>2023-03-07T22:05:33Z</published>
+    <updated>2023-03-07T22:05:33Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sleet, Minimum Temperature: -1°C (31°F) Maximum Temperature: 3°C (38°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 3°C (38°F), Minimum Temperature: -1°C (31°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Very Poor, Pressure: 990mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-07T19:56:00.000+0000</id>
-    <published>2023-03-07T21:28:08Z</published>
-    <updated>2023-03-07T21:28:08Z</updated>
+    <published>2023-03-07T22:05:33Z</published>
+    <updated>2023-03-07T22:05:33Z</updated>
   </entry>
   <entry>
     <title>Thursday: Heavy Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 8°C (46°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (46°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 996mb, Humidity: 95%, UV Risk: 1, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-07T19:56:00.000+0000</id>
-    <published>2023-03-07T21:28:08Z</published>
-    <updated>2023-03-07T21:28:08Z</updated>
+    <published>2023-03-07T22:05:33Z</published>
+    <updated>2023-03-07T22:05:33Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmNvdW50cnlmaWxlLmNvbS9yb3VuZC11cHMvZmFpcnRyYWRlLXByb2R1Y3RzL9IBAA?oc=5</id>
@@ -46,6 +46,13 @@
     <updated>2023-03-07T15:58:23.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiOWh0dHBzOi8vd3d3LmNvdW50cnlmaWxlLmNvbS9yb3VuZC11cHMvZmFpcnRyYWRlLXByb2R1Y3RzL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiOWh0dHBzOi8vd3d3LmNvdW50cnlmaWxlLmNvbS9yb3VuZC11cHMvZmFpcnRyYWRlLXByb2R1Y3RzL9IBAA?oc=5" target="_blank"&gt;Celebrate Fairtrade Fortnight with these 20 fantastic Fairtrade products&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC Countryfile Magazine&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1idXNlcy13ZXN0LWxvbmRvbmVycy1mdXJpb3VzLTI2NDEwMzgy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3MvbG9uZG9uLWJ1c2VzLXdlc3QtbG9uZG9uZXJzLWZ1cmlvdXMtMjY0MTAzODIuYW1w?oc=5</id>
+    <title type="html">Furious West Londoners wait '4 hours for buses' then 'two show up at once' - My London</title>
+    <updated>2023-03-07T15:37:56.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1idXNlcy13ZXN0LWxvbmRvbmVycy1mdXJpb3VzLTI2NDEwMzgy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3MvbG9uZG9uLWJ1c2VzLXdlc3QtbG9uZG9uZXJzLWZ1cmlvdXMtMjY0MTAzODIuYW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL2xvbmRvbi1idXNlcy13ZXN0LWxvbmRvbmVycy1mdXJpb3VzLTI2NDEwMzgy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3MvbG9uZG9uLWJ1c2VzLXdlc3QtbG9uZG9uZXJzLWZ1cmlvdXMtMjY0MTAzODIuYW1w?oc=5" target="_blank"&gt;Furious West Londoners wait '4 hours for buses' then 'two show up at once'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 7th</title>
@@ -81,13 +88,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmludGVsbGlnZW50dHJhbnNwb3J0LmNvbS90cmFuc3BvcnQtbmV3cy8xNDQzNTMvdGZsLXByb3Bvc2VzLWVuaGFuY2VtZW50cy10by1idXMtc2VydmljZXMtaW4tb3V0ZXItbG9uZG9uL9IBAA?oc=5</id>
-    <title type="html">TfL proposes enhancements to bus services in outer London - Intelligent Transport</title>
-    <updated>2023-03-07T11:10:50.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmludGVsbGlnZW50dHJhbnNwb3J0LmNvbS90cmFuc3BvcnQtbmV3cy8xNDQzNTMvdGZsLXByb3Bvc2VzLWVuaGFuY2VtZW50cy10by1idXMtc2VydmljZXMtaW4tb3V0ZXItbG9uZG9uL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmludGVsbGlnZW50dHJhbnNwb3J0LmNvbS90cmFuc3BvcnQtbmV3cy8xNDQzNTMvdGZsLXByb3Bvc2VzLWVuaGFuY2VtZW50cy10by1idXMtc2VydmljZXMtaW4tb3V0ZXItbG9uZG9uL9IBAA?oc=5" target="_blank"&gt;TfL proposes enhancements to bus services in outer London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Intelligent Transport&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5</id>
     <title type="html">Celluloid sleuths more fun in the old days - Bangkok Post</title>
     <updated>2023-03-05T00:57:00.000000000Z</updated>
@@ -95,11 +95,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5" target="_blank"&gt;Celluloid sleuths more fun in the old days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bangkok Post&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9vbmxpbmUvZnlpLzE3OS9uZXh0dXAtZmxhc2hiYWNrLWZlc3RpdmFsLXJlY29yZGluZ3Mv0gFNaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL29ubGluZS9meWkvMTc5L25leHR1cC1mbGFzaGJhY2stZmVzdGl2YWwtcmVjb3JkaW5ncy8?oc=5</id>
-    <title type="html">NextUp to stream hit Edinburgh Fringe shows with Flashback Festival - British Comedy Guide</title>
-    <updated>2023-03-04T10:23:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9vbmxpbmUvZnlpLzE3OS9uZXh0dXAtZmxhc2hiYWNrLWZlc3RpdmFsLXJlY29yZGluZ3Mv0gFNaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL29ubGluZS9meWkvMTc5L25leHR1cC1mbGFzaGJhY2stZmVzdGl2YWwtcmVjb3JkaW5ncy8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9vbmxpbmUvZnlpLzE3OS9uZXh0dXAtZmxhc2hiYWNrLWZlc3RpdmFsLXJlY29yZGluZ3Mv0gFNaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL29ubGluZS9meWkvMTc5L25leHR1cC1mbGFzaGJhY2stZmVzdGl2YWwtcmVjb3JkaW5ncy8?oc=5" target="_blank"&gt;NextUp to stream hit Edinburgh Fringe shows with Flashback Festival&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jYW1lcmEtZmlsbWluZy10b290aW5nLWNsYXBoYW0tbG9uZG9uLTI2MzgwMTg50gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NhbWVyYS1maWxtaW5nLXRvb3RpbmctY2xhcGhhbS1sb25kb24tMjYzODAxODkuYW1w?oc=5</id>
+    <title type="html">Weird camera on car spotted in South London leaves Londoners confused but the explanation is really clever - My London</title>
+    <updated>2023-03-03T15:16:35.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jYW1lcmEtZmlsbWluZy10b290aW5nLWNsYXBoYW0tbG9uZG9uLTI2MzgwMTg50gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NhbWVyYS1maWxtaW5nLXRvb3RpbmctY2xhcGhhbS1sb25kb24tMjYzODAxODkuYW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jYW1lcmEtZmlsbWluZy10b290aW5nLWNsYXBoYW0tbG9uZG9uLTI2MzgwMTg50gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NhbWVyYS1maWxtaW5nLXRvb3RpbmctY2xhcGhhbS1sb25kb24tMjYzODAxODkuYW1w?oc=5" target="_blank"&gt;Weird camera on car spotted in South London leaves Londoners confused but the explanation is really clever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9mdWxsLWxpc3QtbG9uZG9uLW5hdGlvbmFsLXJhaWwtMjYzNzkzODHSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvZnVsbC1saXN0LWxvbmRvbi1uYXRpb25hbC1yYWlsLTI2Mzc5MzgxLmFtcA?oc=5</id>
