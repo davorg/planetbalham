@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-07T19:13:07Z</updated>
+  <updated>2023-03-07T19:48:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -1°C (31°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Poor, Pressure: 997mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunset: 17:51 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-07T09:53:00.000+0000</id>
-    <published>2023-03-07T19:04:52Z</published>
-    <updated>2023-03-07T19:04:52Z</updated>
+    <published>2023-03-07T19:25:17Z</published>
+    <updated>2023-03-07T19:25:17Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sleet, Minimum Temperature: -1°C (31°F) Maximum Temperature: 4°C (39°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -1°C (31°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Poor, Pressure: 990mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:31 GMT, Sunset: 17:53 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-07T09:53:00.000+0000</id>
-    <published>2023-03-07T19:04:52Z</published>
-    <updated>2023-03-07T19:04:52Z</updated>
+    <published>2023-03-07T19:25:17Z</published>
+    <updated>2023-03-07T19:25:17Z</updated>
   </entry>
   <entry>
     <title>Thursday: Heavy Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 997mb, Humidity: 90%, UV Risk: 1, Pollution: Low, Sunrise: 06:29 GMT, Sunset: 17:54 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-07T09:53:00.000+0000</id>
-    <published>2023-03-07T19:04:52Z</published>
-    <updated>2023-03-07T19:04:52Z</updated>
+    <published>2023-03-07T19:25:17Z</published>
+    <updated>2023-03-07T19:25:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmNvdW50cnlmaWxlLmNvbS9yb3VuZC11cHMvZmFpcnRyYWRlLXByb2R1Y3RzL9IBAA?oc=5</id>
@@ -88,13 +88,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5</id>
-    <title type="html">Celluloid sleuths more fun in the old days - Bangkok Post</title>
-    <updated>2023-03-05T00:57:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS9vcGluaW9uL29waW5pb24vMjUyMDY4MC9jZWxsdWxvaWQtc2xldXRocy1tb3JlLWZ1bi1pbi10aGUtb2xkLWRheXPSAQA?oc=5" target="_blank"&gt;Celluloid sleuths more fun in the old days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bangkok Post&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9vbmxpbmUvZnlpLzE3OS9uZXh0dXAtZmxhc2hiYWNrLWZlc3RpdmFsLXJlY29yZGluZ3Mv0gFNaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL29ubGluZS9meWkvMTc5L25leHR1cC1mbGFzaGJhY2stZmVzdGl2YWwtcmVjb3JkaW5ncy8?oc=5</id>
     <title type="html">NextUp to stream hit Edinburgh Fringe shows with Flashback Festival - British Comedy Guide</title>
     <updated>2023-03-04T10:23:00.000000000Z</updated>
@@ -107,6 +100,13 @@
     <updated>2023-03-03T16:54:55.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMinAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9uZXcta2l0Y2hlbnMtYW5kLWJhdGhyb29tcy1mb3ItYXJuZGFsZS1lc3RhdGUtcmVzaWRlbnRzLWFzLXBhcnQtb2Ytb25nb2luZy1wcm9ncmFtbWUtb2YtaG91c2luZy11cGdyYWRlcy_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMinAFodHRwczovL3d3dy53YW5kc3dvcnRoLmdvdi51ay9uZXdzL25ld3MtbWFyY2gtMjAyMy9uZXcta2l0Y2hlbnMtYW5kLWJhdGhyb29tcy1mb3ItYXJuZGFsZS1lc3RhdGUtcmVzaWRlbnRzLWFzLXBhcnQtb2Ytb25nb2luZy1wcm9ncmFtbWUtb2YtaG91c2luZy11cGdyYWRlcy_SAQA?oc=5" target="_blank"&gt;New kitchens and bathrooms for Arndale estate residents as part of ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jYW1lcmEtZmlsbWluZy10b290aW5nLWNsYXBoYW0tbG9uZG9uLTI2MzgwMTg50gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NhbWVyYS1maWxtaW5nLXRvb3RpbmctY2xhcGhhbS1sb25kb24tMjYzODAxODkuYW1w?oc=5</id>
+    <title type="html">Weird camera on car spotted in South London leaves Londoners confused but the explanation is really clever - My London</title>
+    <updated>2023-03-03T15:16:35.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jYW1lcmEtZmlsbWluZy10b290aW5nLWNsYXBoYW0tbG9uZG9uLTI2MzgwMTg50gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NhbWVyYS1maWxtaW5nLXRvb3RpbmctY2xhcGhhbS1sb25kb24tMjYzODAxODkuYW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9jYW1lcmEtZmlsbWluZy10b290aW5nLWNsYXBoYW0tbG9uZG9uLTI2MzgwMTg50gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL2NhbWVyYS1maWxtaW5nLXRvb3RpbmctY2xhcGhhbS1sb25kb24tMjYzODAxODkuYW1w?oc=5" target="_blank"&gt;Weird camera on car spotted in South London leaves Londoners confused but the explanation is really clever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Gathering food</title>
