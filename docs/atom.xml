@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-09T13:16:24Z</updated>
+  <updated>2023-03-09T13:48:38Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -196,31 +196,37 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Cable pull-through (3/3)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52706659269/"/>
-    <id>tag:flickr.com,2005:/photo/52706659269</id>
-    <published>2023-02-23T15:41:42Z</published>
-    <updated>2023-02-23T15:41:42Z</updated>
-    <flickr:date_taken>2023-02-23T11:56:27-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-23T11:56:27-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>February 23rd</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52705999702/"/>
+    <id>tag:flickr.com,2005:/photo/52705999702</id>
+    <published>2023-02-23T16:34:20Z</published>
+    <updated>2023-02-23T16:34:20Z</updated>
+    <flickr:date_taken>2023-02-23T14:13:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-23T14:13:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52706659269/" title="Cable pull-through (3/3)"&gt;&lt;img src="https://live.staticflickr.com/65535/52706659269_9d60c5be50_m.jpg" width="240" height="135" alt="Cable pull-through (3/3)" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52705999702/" title="February 23rd"&gt;&lt;img src="https://live.staticflickr.com/65535/52705999702_377034bf80_m.jpg" width="240" height="156" alt="February 23rd" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham, London&lt;/p&gt;
+&lt;p&gt;On a grey London day, was good to see the Roberts sign glowing brightly. The store long since gone.&lt;/p&gt;
 </content>
     <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52706659269_9d60c5be50_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52705999702_377034bf80_b.jpg"/>
+    <category term="february" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="roberts" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ekovision" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="neon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fastfood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="remnants" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="people" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="street" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="utilities" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
