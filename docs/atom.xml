@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-10T19:12:26Z</updated>
+  <updated>2023-03-10T19:48:22Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,18 +17,18 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: -2°C (29°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunset: 17:56 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-10T09:56:00.000+0000</id>
-    <published>2023-03-10T19:01:16Z</published>
-    <updated>2023-03-10T19:01:16Z</updated>
+    <published>2023-03-10T19:28:08Z</published>
+    <updated>2023-03-10T19:28:08Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 5°C (40°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 5°C (40°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 72%, UV Risk: 2, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-10T09:56:00.000+0000</id>
-    <published>2023-03-10T19:01:16Z</published>
-    <updated>2023-03-10T19:01:16Z</updated>
+    <published>2023-03-10T19:28:08Z</published>
+    <updated>2023-03-10T19:28:08Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 85%, UV Risk: 2, Pollution: Low, Sunrise: 06:22 GMT, Sunset: 17:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-10T09:56:00.000+0000</id>
-    <published>2023-03-10T19:01:16Z</published>
-    <updated>2023-03-10T19:01:16Z</updated>
+    <published>2023-03-10T19:28:08Z</published>
+    <updated>2023-03-10T19:28:08Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 10th</title>
@@ -170,35 +170,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Minding me</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52717898505/"/>
-    <id>tag:flickr.com,2005:/photo/52717898505</id>
-    <published>2023-02-28T16:30:40Z</published>
-    <updated>2023-02-28T16:30:40Z</updated>
-    <flickr:date_taken>2023-02-28T10:19:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-28T10:19:24-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52717898505/" title="Minding me"&gt;&lt;img src="https://live.staticflickr.com/65535/52717898505_069244035b_m.jpg" width="240" height="135" alt="Minding me" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52717898505_069244035b_b.jpg"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="crows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham crow</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52716947552/"/>
     <id>tag:flickr.com,2005:/photo/52716947552</id>
@@ -224,6 +195,41 @@
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="crows" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>February 23rd</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52705999702/"/>
+    <id>tag:flickr.com,2005:/photo/52705999702</id>
+    <published>2023-02-23T16:34:20Z</published>
+    <updated>2023-02-23T16:34:20Z</updated>
+    <flickr:date_taken>2023-02-23T14:13:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-23T14:13:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52705999702/" title="February 23rd"&gt;&lt;img src="https://live.staticflickr.com/65535/52705999702_377034bf80_m.jpg" width="240" height="156" alt="February 23rd" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On a grey London day, was good to see the Roberts sign glowing brightly. The store long since gone.&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52705999702_377034bf80_b.jpg"/>
+    <category term="february" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="roberts" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ekovision" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="neon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sign" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fastfood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="remnants" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
