@@ -7,45 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-10T11:12:47Z</updated>
+  <updated>2023-03-10T11:48:22Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: -3°C (27°F) Maximum Temperature: 4°C (39°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: -2°C (28°F) Maximum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -3°C (27°F), Wind Direction: North Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1005mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 4°C (39°F), Minimum Temperature: -2°C (28°F), Wind Direction: North Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1005mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 06:27 GMT, Sunset: 17:56 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-10T07:53:00.000+0000</id>
-    <published>2023-03-10T11:01:23Z</published>
-    <updated>2023-03-10T11:01:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-10T09:56:00.000+0000</id>
+    <published>2023-03-10T11:24:26Z</published>
+    <updated>2023-03-10T11:24:26Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Drizzle, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (44°F)</title>
+    <title>Saturday: Light Rain, Minimum Temperature: 4°C (40°F) Maximum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (40°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (44°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 71%, UV Risk: 2, Pollution: Low, Sunrise: 06:25 GMT, Sunset: 17:58 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-10T07:53:00.000+0000</id>
-    <published>2023-03-10T11:01:23Z</published>
-    <updated>2023-03-10T11:01:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-10T09:56:00.000+0000</id>
+    <published>2023-03-10T11:24:26Z</published>
+    <updated>2023-03-10T11:24:26Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 06:22 GMT, Sunset: 17:59 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1009mb, Humidity: 85%, UV Risk: 2, Pollution: Low, Sunrise: 06:22 GMT, Sunset: 17:59 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-10T07:53:00.000+0000</id>
-    <published>2023-03-10T11:01:23Z</published>
-    <updated>2023-03-10T11:01:23Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-10T09:56:00.000+0000</id>
+    <published>2023-03-10T11:24:26Z</published>
+    <updated>2023-03-10T11:24:26Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjMzNzMwNjUudG9vdGluZy1iYWxoYW0tYWN0b3JzLXN0YXItd2lubmllLXBvb2gtYmxvb2QtaG9uZXkv0gEA?oc=5</id>
-    <title type="html">Tooting and Balham actors star in Winnie the Pooh: Blood and Honey - News Shopper</title>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMjMzNzMwNjUudG9vdGluZy1iYWxoYW0tYWN0b3JzLXN0YXItd2lubmllLXBvb2gtYmxvb2QtaG9uZXkv0gEA?oc=5</id>
+    <title type="html">Tooting and Balham actors star in Winnie the Pooh: Blood and ... - Richmond and Twickenham Times</title>
     <updated>2023-03-10T05:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjMzNzMwNjUudG9vdGluZy1iYWxoYW0tYWN0b3JzLXN0YXItd2lubmllLXBvb2gtYmxvb2QtaG9uZXkv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjMzNzMwNjUudG9vdGluZy1iYWxoYW0tYWN0b3JzLXN0YXItd2lubmllLXBvb2gtYmxvb2QtaG9uZXkv0gEA?oc=5" target="_blank"&gt;Tooting and Balham actors star in Winnie the Pooh: Blood and Honey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMjMzNzMwNjUudG9vdGluZy1iYWxoYW0tYWN0b3JzLXN0YXItd2lubmllLXBvb2gtYmxvb2QtaG9uZXkv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMjMzNzMwNjUudG9vdGluZy1iYWxoYW0tYWN0b3JzLXN0YXItd2lubmllLXBvb2gtYmxvb2QtaG9uZXkv0gEA?oc=5" target="_blank"&gt;Tooting and Balham actors star in Winnie the Pooh: Blood and ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Richmond and Twickenham Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiigFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMDMwODAwNTMwMS9lbi9NZW1iZXJzaGlwLUNvbGxlY3RpdmUtR3JvdXAtQW5ub3VuY2VzLUZvdXJ0aC1RdWFydGVyLWFuZC1GaXNjYWwtWWVhci0yMDIyLVJlc3VsdHPSAQA?oc=5</id>
