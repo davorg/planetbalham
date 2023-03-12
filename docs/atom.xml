@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-12T19:48:26Z</updated>
+  <updated>2023-03-12T20:13:15Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 22mph, Visibility: Moderate, Pressure: 997mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 17:59 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-12T09:54:00.000+0000</id>
-    <published>2023-03-12T19:18:55Z</published>
-    <updated>2023-03-12T19:18:55Z</updated>
+    <published>2023-03-12T20:04:03Z</published>
+    <updated>2023-03-12T20:04:03Z</updated>
   </entry>
   <entry>
     <title>Monday: Drizzle, Minimum Temperature: 4°C (40°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Westerly, Wind Speed: 26mph, Visibility: Good, Pressure: 990mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 06:20 GMT, Sunset: 18:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-12T09:54:00.000+0000</id>
-    <published>2023-03-12T19:18:55Z</published>
-    <updated>2023-03-12T19:18:55Z</updated>
+    <published>2023-03-12T20:04:03Z</published>
+    <updated>2023-03-12T20:04:03Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: -1°C (30°F) Maximum Temperature: 7°C (45°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: -1°C (30°F), Wind Direction: Westerly, Wind Speed: 20mph, Visibility: Moderate, Pressure: 1001mb, Humidity: 67%, UV Risk: 2, Pollution: Low, Sunrise: 06:18 GMT, Sunset: 18:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-12T09:54:00.000+0000</id>
-    <published>2023-03-12T19:18:55Z</published>
-    <updated>2023-03-12T19:18:55Z</updated>
+    <published>2023-03-12T20:04:03Z</published>
+    <updated>2023-03-12T20:04:03Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMikwFodHRwczovL2NsYXBoYW0ubnViLm5ld3MvbmV3cy9sb2NhbC1uZXdzL3dhbmRzd29ydGgtY291bmNpbC1pbnZlc3RpZ2F0ZXMtbGlnaHRpbmctc3RyYXRlZ3ktdG8taW1wcm92ZS1zYWZldHktaW4td2FrZS1vZi1zYXJhaC1ldmVyYXJkLW11cmRlci0xNzQ4NTDSAQA?oc=5</id>
@@ -54,6 +54,39 @@
     <link href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5" target="_blank"&gt;Before the budget: what do small business owners want?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Startups.co.uk&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>March 11th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739892377/"/>
+    <id>tag:flickr.com,2005:/photo/52739892377</id>
+    <published>2023-03-11T16:58:52Z</published>
+    <updated>2023-03-11T16:58:52Z</updated>
+    <flickr:date_taken>2023-03-11T11:33:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-11T11:33:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52739892377/" title="March 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52739892377_2326f53e55_m.jpg" width="240" height="164" alt="March 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Heads down in Balham&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52739892377_2326f53e55_b.jpg"/>
+    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="twins" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="helmets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bookends" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uber" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mobiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Du Cane Court</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52740898843/"/>
@@ -194,35 +227,6 @@
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52717897770_56bb499f96_b.jpg"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="crows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Minding me</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52717898505/"/>
-    <id>tag:flickr.com,2005:/photo/52717898505</id>
-    <published>2023-02-28T16:30:40Z</published>
-    <updated>2023-02-28T16:30:40Z</updated>
-    <flickr:date_taken>2023-02-28T10:19:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-28T10:19:24-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52717898505/" title="Minding me"&gt;&lt;img src="https://live.staticflickr.com/65535/52717898505_069244035b_m.jpg" width="240" height="135" alt="Minding me" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52717898505_069244035b_b.jpg"/>
     <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
