@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-13T17:13:10Z</updated>
+  <updated>2023-03-13T17:48:24Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 4°C (39°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 24mph, Visibility: Good, Pressure: 988mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunset: 18:01 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 989mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunset: 18:01 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-13T07:56:00.000+0000</id>
-    <published>2023-03-13T17:00:24Z</published>
-    <updated>2023-03-13T17:00:24Z</updated>
+    <published>2023-03-13T17:38:43Z</published>
+    <updated>2023-03-13T17:38:43Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Drizzle, Minimum Temperature: -4°C (25°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Tuesday: Drizzle, Minimum Temperature: -4°C (25°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: -4°C (25°F), Wind Direction: North Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1006mb, Humidity: 66%, UV Risk: 2, Pollution: Low, Sunrise: 06:18 GMT, Sunset: 18:03 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: -4°C (25°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1006mb, Humidity: 65%, UV Risk: 2, Pollution: Low, Sunrise: 06:18 GMT, Sunset: 18:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-13T07:56:00.000+0000</id>
-    <published>2023-03-13T17:00:24Z</published>
-    <updated>2023-03-13T17:00:24Z</updated>
+    <published>2023-03-13T17:38:43Z</published>
+    <updated>2023-03-13T17:38:43Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 06:16 GMT, Sunset: 18:05 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-13T07:56:00.000+0000</id>
-    <published>2023-03-13T17:00:24Z</published>
-    <updated>2023-03-13T17:00:24Z</updated>
+    <published>2023-03-13T17:38:43Z</published>
+    <updated>2023-03-13T17:38:43Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk  cafe 13-03-23</title>
@@ -76,13 +76,39 @@
     <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjMvMDMvMTMvamVyc2V5LWJ1bGxzLXdvbnQtc3RvcC1zd2luZ2luZy_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjMvMDMvMTMvamVyc2V5LWJ1bGxzLXdvbnQtc3RvcC1zd2luZ2luZy_SAQA?oc=5" target="_blank"&gt;Jersey Bulls 'won't stop swinging'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5</id>
-    <title type="html">Before the budget: what do small business owners want? - Startups.co.uk</title>
-    <updated>2023-03-12T07:13:35.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5" target="_blank"&gt;Before the budget: what do small business owners want?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Startups.co.uk&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>March 11th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739892377/"/>
+    <id>tag:flickr.com,2005:/photo/52739892377</id>
+    <published>2023-03-11T16:58:52Z</published>
+    <updated>2023-03-11T16:58:52Z</updated>
+    <flickr:date_taken>2023-03-11T11:33:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-11T11:33:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52739892377/" title="March 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52739892377_2326f53e55_m.jpg" width="240" height="164" alt="March 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Heads down in Balham&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52739892377_2326f53e55_b.jpg"/>
+    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="twins" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="helmets" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bookends" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uber" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mobiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Du Cane Court</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52740898843/"/>
@@ -116,6 +142,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3RoZS1lbmlkLXRvLWhlYWRsaW5lLWEtc3VuZGF5LWluLXNlcHRlbWJlci1wcm9nLWFsbC1kYXllctIBAA?oc=5</id>
+    <title type="html">The Enid to headline A Sunday In September prog all dayer - Louder</title>
+    <updated>2023-03-11T13:10:32.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3RoZS1lbmlkLXRvLWhlYWRsaW5lLWEtc3VuZGF5LWluLXNlcHRlbWJlci1wcm9nLWFsbC1kYXllctIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3RoZS1lbmlkLXRvLWhlYWRsaW5lLWEtc3VuZGF5LWluLXNlcHRlbWJlci1wcm9nLWFsbC1kYXllctIBAA?oc=5" target="_blank"&gt;The Enid to headline A Sunday In September prog all dayer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Louder&lt;/font&gt;</content>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzM2ODNiZTAxLTVmZDMtNDYxZC1hYTQ2LTVjZjg5NDM5OWM3ZNIBAA?oc=5</id>
     <title type="html">Is the UK housing market cooling? - Financial Times</title>
@@ -199,35 +232,6 @@
     <category term="route249" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="topdeck" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Gathering food</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52717897770/"/>
-    <id>tag:flickr.com,2005:/photo/52717897770</id>
-    <published>2023-02-28T16:30:41Z</published>
-    <updated>2023-02-28T16:30:41Z</updated>
-    <flickr:date_taken>2023-02-28T10:19:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-02-28T10:19:39-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52717897770/" title="Gathering food"&gt;&lt;img src="https://live.staticflickr.com/65535/52717897770_56bb499f96_m.jpg" width="240" height="135" alt="Gathering food" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52717897770_56bb499f96_b.jpg"/>
-    <category term="signs" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="crows" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
