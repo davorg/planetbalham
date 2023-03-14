@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-14T03:48:29Z</updated>
+  <updated>2023-03-14T04:13:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (40°F), Wind Direction: North Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 994mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 18:03 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-13T21:56:00.000+0000</id>
-    <published>2023-03-14T03:39:28Z</published>
-    <updated>2023-03-14T03:39:28Z</updated>
+    <published>2023-03-14T04:02:16Z</published>
+    <updated>2023-03-14T04:02:16Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: -3°C (26°F) Maximum Temperature: 9°C (48°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: -3°C (26°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 06:16 GMT, Sunset: 18:05 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-13T21:56:00.000+0000</id>
-    <published>2023-03-14T03:39:28Z</published>
-    <updated>2023-03-14T03:39:28Z</updated>
+    <published>2023-03-14T04:02:16Z</published>
+    <updated>2023-03-14T04:02:16Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 9°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 74%, UV Risk: 2, Pollution: Low, Sunrise: 06:13 GMT, Sunset: 18:06 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-13T21:56:00.000+0000</id>
-    <published>2023-03-14T03:39:28Z</published>
-    <updated>2023-03-14T03:39:28Z</updated>
+    <published>2023-03-14T04:02:16Z</published>
+    <updated>2023-03-14T04:02:16Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk  cafe 13-03-23</title>
@@ -75,6 +75,13 @@
     <updated>2023-03-13T14:16:08.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjMvMDMvMTMvamVyc2V5LWJ1bGxzLXdvbnQtc3RvcC1zd2luZ2luZy_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0L2Zvb3RiYWxsLzIwMjMvMDMvMTMvamVyc2V5LWJ1bGxzLXdvbnQtc3RvcC1zd2luZ2luZy_SAQA?oc=5" target="_blank"&gt;Jersey Bulls 'won't stop swinging'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5</id>
+    <title type="html">Before the budget: what do small business owners want? - Startups.co.uk</title>
+    <updated>2023-03-12T07:13:35.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vc3RhcnR1cHMuY28udWsvbmV3cy9zbWFsbC1idXNpbmVzcy1idWRnZXQtd2lzaGxpc3QtbWFyY2gv0gEA?oc=5" target="_blank"&gt;Before the budget: what do small business owners want?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Startups.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 11th</title>
@@ -155,13 +162,6 @@
     <updated>2023-03-11T12:00:08.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzM2ODNiZTAxLTVmZDMtNDYxZC1hYTQ2LTVjZjg5NDM5OWM3ZNIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzM2ODNiZTAxLTVmZDMtNDYxZC1hYTQ2LTVjZjg5NDM5OWM3ZNIBAA?oc=5" target="_blank"&gt;Is the UK housing market cooling?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Financial Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmJ1cmxpbmd0b25jb3VudHl0aW1lcy5jb20vdGhpbmdzLXRvLWRvL2V2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDI2NzMxMDE4bi1wYW9sby1udXRpbmnSAQA?oc=5</id>
-    <title type="html">Burlington County Times Events - Paolo Nutini - Burlington County Times</title>
-    <updated>2023-03-11T01:03:31.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LmJ1cmxpbmd0b25jb3VudHl0aW1lcy5jb20vdGhpbmdzLXRvLWRvL2V2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDI2NzMxMDE4bi1wYW9sby1udXRpbmnSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LmJ1cmxpbmd0b25jb3VudHl0aW1lcy5jb20vdGhpbmdzLXRvLWRvL2V2ZW50cy8_X2V2RGlzY292ZXJ5UGF0aD0vZXZlbnQlMkYxMDI2NzMxMDE4bi1wYW9sby1udXRpbmnSAQA?oc=5" target="_blank"&gt;Burlington County Times Events - Paolo Nutini&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Burlington County Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 10th</title>
