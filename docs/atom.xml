@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-18T18:13:31Z</updated>
+  <updated>2023-03-18T18:48:33Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Light Rain, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunset: 18:10 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunset: 18:10 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-18T07:54:00.000+0000</id>
-    <published>2023-03-18T18:02:24Z</published>
-    <updated>2023-03-18T18:02:24Z</updated>
+    <published>2023-03-18T18:46:09Z</published>
+    <updated>2023-03-18T18:46:09Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 5°C (41°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 68%, UV Risk: 1, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-18T07:54:00.000+0000</id>
-    <published>2023-03-18T18:02:24Z</published>
-    <updated>2023-03-18T18:02:24Z</updated>
+    <published>2023-03-18T18:46:09Z</published>
+    <updated>2023-03-18T18:46:09Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-18T07:54:00.000+0000</id>
-    <published>2023-03-18T18:02:24Z</published>
-    <updated>2023-03-18T18:02:24Z</updated>
+    <published>2023-03-18T18:46:09Z</published>
+    <updated>2023-03-18T18:46:09Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5</id>
