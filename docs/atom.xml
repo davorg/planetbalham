@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-19T20:48:28Z</updated>
+  <updated>2023-03-19T21:12:34Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 6°C (43°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunset: 18:11 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-19T09:51:00.000+0000</id>
-    <published>2023-03-19T20:05:44Z</published>
-    <updated>2023-03-19T20:05:44Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-19T19:55:00.000+0000</id>
+    <published>2023-03-19T21:06:04Z</published>
+    <updated>2023-03-19T21:06:04Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (55°F)</title>
@@ -26,19 +26,19 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-19T09:51:00.000+0000</id>
-    <published>2023-03-19T20:05:44Z</published>
-    <updated>2023-03-19T20:05:44Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-19T19:55:00.000+0000</id>
+    <published>2023-03-19T21:06:04Z</published>
+    <updated>2023-03-19T21:06:04Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Drizzle, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1007mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1007mb, Humidity: 80%, UV Risk: 1, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-19T09:51:00.000+0000</id>
-    <published>2023-03-19T20:05:44Z</published>
-    <updated>2023-03-19T20:05:44Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-19T19:55:00.000+0000</id>
+    <published>2023-03-19T21:06:04Z</published>
+    <updated>2023-03-19T21:06:04Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
