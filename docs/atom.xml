@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-19T05:12:50Z</updated>
+  <updated>2023-03-19T05:48:26Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2023-03-19T05:00:57Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5</id>
-    <title type="html">Write cobblers and you're bound to get some flak - The Times</title>
-    <updated>2023-03-17T21:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5" target="_blank"&gt;Write cobblers and you're bound to get some flak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5</id>
     <title type="html">Cost of Living Commission wants to hear your views - Wandsworth ... - Wandsworth Council</title>
     <updated>2023-03-17T14:28:52.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2023-03-16T11:38:20.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQ5NzY5MDLSAS9odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2Zvb3RiYWxsLzY0OTc2OTAyLmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQ5NzY5MDLSAS9odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2Zvb3RiYWxsLzY0OTc2OTAyLmFtcA?oc=5" target="_blank"&gt;Jersey Bulls end three-game winless run with 4-2 win at Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2V4cGVydHMvYXJ0aWNsZS0xMDc3ODM4Ny9TQUxMWS1TT1JUUy1TaGVpbGFzLVdoZWVscy1oaWtlZC1jb3Zlci05MDAtaGl0LWRlZXIuaHRtbNIBeWh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2V4cGVydHMvYXJ0aWNsZS0xMDc3ODM4Ny9hbXAvU0FMTFktU09SVFMtU2hlaWxhcy1XaGVlbHMtaGlrZWQtY292ZXItOTAwLWhpdC1kZWVyLmh0bWw?oc=5</id>
+    <title type="html">SALLY SORTS IT: Sheilas' Wheels hiked my cover by £900 I hit a deer - This is Money</title>
+    <updated>2023-03-14T23:22:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2V4cGVydHMvYXJ0aWNsZS0xMDc3ODM4Ny9TQUxMWS1TT1JUUy1TaGVpbGFzLVdoZWVscy1oaWtlZC1jb3Zlci05MDAtaGl0LWRlZXIuaHRtbNIBeWh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2V4cGVydHMvYXJ0aWNsZS0xMDc3ODM4Ny9hbXAvU0FMTFktU09SVFMtU2hlaWxhcy1XaGVlbHMtaGlrZWQtY292ZXItOTAwLWhpdC1kZWVyLmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2V4cGVydHMvYXJ0aWNsZS0xMDc3ODM4Ny9TQUxMWS1TT1JUUy1TaGVpbGFzLVdoZWVscy1oaWtlZC1jb3Zlci05MDAtaGl0LWRlZXIuaHRtbNIBeWh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L2V4cGVydHMvYXJ0aWNsZS0xMDc3ODM4Ny9hbXAvU0FMTFktU09SVFMtU2hlaWxhcy1XaGVlbHMtaGlrZWQtY292ZXItOTAwLWhpdC1kZWVyLmh0bWw?oc=5" target="_blank"&gt;SALLY SORTS IT: Sheilas' Wheels hiked my cover by £900 I hit a deer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Money&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 14th</title>
