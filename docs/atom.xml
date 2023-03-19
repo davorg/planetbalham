@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-19T09:48:23Z</updated>
+  <updated>2023-03-19T10:13:03Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 6°C (42°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:07 GMT, Sunset: 18:11 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-19T07:55:00.000+0000</id>
-    <published>2023-03-19T09:00:34Z</published>
-    <updated>2023-03-19T09:00:34Z</updated>
+    <published>2023-03-19T10:03:11Z</published>
+    <updated>2023-03-19T10:03:11Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (55°F)</title>
+    <title>Monday: Light Rain, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-19T07:55:00.000+0000</id>
-    <published>2023-03-19T09:00:34Z</published>
-    <updated>2023-03-19T09:00:34Z</updated>
+    <published>2023-03-19T10:03:11Z</published>
+    <updated>2023-03-19T10:03:11Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Drizzle, Minimum Temperature: 10°C (50°F) Maximum Temperature: 14°C (57°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1007mb, Humidity: 79%, UV Risk: 1, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-19T07:55:00.000+0000</id>
-    <published>2023-03-19T09:00:34Z</published>
-    <updated>2023-03-19T09:00:34Z</updated>
+    <published>2023-03-19T10:03:11Z</published>
+    <updated>2023-03-19T10:03:11Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5</id>
@@ -62,19 +62,56 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjMvMDMvMTcvbGVraW1hbWF0aS1maXJlcy1idWxscy10by1iYWxoYW0td2luL9IBAA?oc=5" target="_blank"&gt;Lekimamati fires Bulls to Balham win&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Jersey Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvUmFpbC1zdHJpa2VzLWluZHVzdHJpYWwtYWN0aW9uLWFmZmVjdC10cmFpbnMtTG9uZG9uLXJlc3QtVUstU2F0dXJkYXkuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvYW1wL1JhaWwtc3RyaWtlcy1pbmR1c3RyaWFsLWFjdGlvbi1hZmZlY3QtdHJhaW5zLUxvbmRvbi1yZXN0LVVLLVNhdHVyZGF5Lmh0bWw?oc=5</id>
-    <title type="html">Rail strikes: How industrial action will affect trains in London and rest of UK on Saturday - Daily Mail</title>
-    <updated>2023-03-17T10:26:56.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvUmFpbC1zdHJpa2VzLWluZHVzdHJpYWwtYWN0aW9uLWFmZmVjdC10cmFpbnMtTG9uZG9uLXJlc3QtVUstU2F0dXJkYXkuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvYW1wL1JhaWwtc3RyaWtlcy1pbmR1c3RyaWFsLWFjdGlvbi1hZmZlY3QtdHJhaW5zLUxvbmRvbi1yZXN0LVVLLVNhdHVyZGF5Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvUmFpbC1zdHJpa2VzLWluZHVzdHJpYWwtYWN0aW9uLWFmZmVjdC10cmFpbnMtTG9uZG9uLXJlc3QtVUstU2F0dXJkYXkuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvYW1wL1JhaWwtc3RyaWtlcy1pbmR1c3RyaWFsLWFjdGlvbi1hZmZlY3QtdHJhaW5zLUxvbmRvbi1yZXN0LVVLLVNhdHVyZGF5Lmh0bWw?oc=5" target="_blank"&gt;Rail strikes: How industrial action will affect trains in London and rest of UK on Saturday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9sb25kb24tZ3JlYXN5LXNwb29uLWNhZi1zZXJ2ZXMtMjY0NzkyMDfSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvbG9uZG9uLWdyZWFzeS1zcG9vbi1jYWYtc2VydmVzLTI2NDc5MjA3LmFtcA?oc=5</id>
     <title type="html">The London greasy spoon café that serves Chinese food for breakfast - My London</title>
     <updated>2023-03-17T05:55:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9sb25kb24tZ3JlYXN5LXNwb29uLWNhZi1zZXJ2ZXMtMjY0NzkyMDfSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvbG9uZG9uLWdyZWFzeS1zcG9vbi1jYWYtc2VydmVzLTI2NDc5MjA3LmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9sb25kb24tZ3JlYXN5LXNwb29uLWNhZi1zZXJ2ZXMtMjY0NzkyMDfSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvbG9uZG9uLWdyZWFzeS1zcG9vbi1jYWYtc2VydmVzLTI2NDc5MjA3LmFtcA?oc=5" target="_blank"&gt;The London greasy spoon café that serves Chinese food for breakfast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQ5NzY5MDLSAS9odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2Zvb3RiYWxsLzY0OTc2OTAyLmFtcA?oc=5</id>
+    <title type="html">Jersey Bulls end three-game winless run with 4-2 win at Balham - BBC</title>
+    <updated>2023-03-16T11:38:20.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQ5NzY5MDLSAS9odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2Zvb3RiYWxsLzY0OTc2OTAyLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiK2h0dHBzOi8vd3d3LmJiYy5jb20vc3BvcnQvZm9vdGJhbGwvNjQ5NzY5MDLSAS9odHRwczovL3d3dy5iYmMuY29tL3Nwb3J0L2Zvb3RiYWxsLzY0OTc2OTAyLmFtcA?oc=5" target="_blank"&gt;Jersey Bulls end three-game winless run with 4-2 win at Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;</content>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>March 14th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52747994023/"/>
+    <id>tag:flickr.com,2005:/photo/52747994023</id>
+    <published>2023-03-14T18:11:50Z</published>
+    <updated>2023-03-14T18:11:50Z</updated>
+    <flickr:date_taken>2023-03-14T11:43:22-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-14T11:43:22-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52747994023/" title="March 14th"&gt;&lt;img src="https://live.staticflickr.com/65535/52747994023_ae7348e71e_m.jpg" width="240" height="148" alt="March 14th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Southern train passing through Tooting Common between Balham and Streatham Common stations&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52747994023_ae7348e71e_b.jpg"/>
+    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="slow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stopping" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk  cafe 13-03-23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52744418417/"/>
@@ -199,39 +236,6 @@
     <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 7th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52731917136/"/>
-    <id>tag:flickr.com,2005:/photo/52731917136</id>
-    <published>2023-03-07T13:43:57Z</published>
-    <updated>2023-03-07T13:43:57Z</updated>
-    <flickr:date_taken>2023-03-07T10:46:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-07T10:46:39-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52731917136/" title="March 7th"&gt;&lt;img src="https://live.staticflickr.com/65535/52731917136_ee250aed11_m.jpg" width="240" height="173" alt="March 7th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On top of the 249 bus through Balham.&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52731917136_ee250aed11_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="249" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="route249" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="topdeck" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
