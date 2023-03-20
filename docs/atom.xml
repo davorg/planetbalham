@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-20T10:13:27Z</updated>
+  <updated>2023-03-20T10:48:33Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-20T09:54:00.000+0000</id>
     <published>2023-03-20T10:13:11Z</published>
     <updated>2023-03-20T10:13:11Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by0yMS13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQwNzA5NTXSAQA?oc=5</id>
+    <title type="html">Food hygiene ratings handed to 21 Wandsworth establishments - LondonWorld</title>
+    <updated>2023-03-20T09:54:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by0yMS13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQwNzA5NTXSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by0yMS13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQwNzA5NTXSAQA?oc=5" target="_blank"&gt;Food hygiene ratings handed to 21 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
@@ -88,13 +95,6 @@
     <updated>2023-03-17T21:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd3JpdGUtY29iYmxlcnMtYW5kLXlvdXJlLWJvdW5kLXRvLWdldC1zb21lLWZsYWstandsaHY5czcy0gEA?oc=5" target="_blank"&gt;Write cobblers and you're bound to get some flak&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5</id>
-    <title type="html">Cost of Living Commission wants to hear your views - Wandsworth ... - Wandsworth Council</title>
-    <updated>2023-03-17T14:28:52.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5" target="_blank"&gt;Cost of Living Commission wants to hear your views - Wandsworth ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vamVyc2V5ZXZlbmluZ3Bvc3QuY29tL3Nwb3J0LzIwMjMvMDMvMTcvbGVraW1hbWF0aS1maXJlcy1idWxscy10by1iYWxoYW0td2luL9IBAA?oc=5</id>
