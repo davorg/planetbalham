@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-24T14:48:24Z</updated>
+  <updated>2023-03-24T15:13:14Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 21mph, Visibility: Moderate, Pressure: 998mb, Humidity: 73%, UV Risk: 2, Pollution: Low, Sunrise: 05:55 GMT, Sunset: 18:20 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-24T09:52:00.000+0000</id>
-    <published>2023-03-24T14:19:40Z</published>
-    <updated>2023-03-24T14:19:40Z</updated>
+    <published>2023-03-24T15:00:30Z</published>
+    <updated>2023-03-24T15:00:30Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 20mph, Visibility: Good, Pressure: 1005mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-24T09:52:00.000+0000</id>
-    <published>2023-03-24T14:19:40Z</published>
-    <updated>2023-03-24T14:19:40Z</updated>
+    <published>2023-03-24T15:00:30Z</published>
+    <updated>2023-03-24T15:00:30Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 0°C (32°F) Maximum Temperature: 8°C (47°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 0°C (32°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 84%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-24T09:52:00.000+0000</id>
-    <published>2023-03-24T14:19:40Z</published>
-    <updated>2023-03-24T14:19:40Z</updated>
+    <published>2023-03-24T15:00:30Z</published>
+    <updated>2023-03-24T15:00:30Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiggFodHRwczovL3dhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2NvdW5jaWwtd2VsY29tZXMtcHJvcG9zYWxzLWZvci1sb3dlci1zcGVlZHMtb24tc29tZS1vZi10aGUtYm9yb3VnaC1zLWJ1c2llc3Qtcm9hZHMv0gEA?oc=5</id>
@@ -148,6 +148,35 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Milk  cafe 13-03-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52744418417/"/>
+    <id>tag:flickr.com,2005:/photo/52744418417</id>
+    <published>2023-03-13T15:17:46Z</published>
+    <updated>2023-03-13T15:17:46Z</updated>
+    <flickr:date_taken>2023-03-13T15:07:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-13T15:07:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52744418417/" title="Milk  cafe 13-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52744418417_269cbf388c_m.jpg" width="240" height="162" alt="Milk  cafe 13-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>Utopist</name>
+      <uri>https://www.flickr.com/people/utopist/</uri>
+      <flickr:nsid>39838684@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52744418417_269cbf388c_b.jpg"/>
+    <category term="milkcafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 11th</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739892377/"/>
     <id>tag:flickr.com,2005:/photo/52739892377</id>
@@ -181,18 +210,18 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 10th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739150808/"/>
-    <id>tag:flickr.com,2005:/photo/52739150808</id>
-    <published>2023-03-10T18:30:22Z</published>
-    <updated>2023-03-10T18:30:22Z</updated>
-    <flickr:date_taken>2023-03-10T14:56:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-10T14:56:39-08:00</dc:date.Taken>
+    <title>Du Cane Court</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52740898843/"/>
+    <id>tag:flickr.com,2005:/photo/52740898843</id>
+    <published>2023-03-11T16:58:51Z</published>
+    <updated>2023-03-11T16:58:51Z</updated>
+    <flickr:date_taken>2023-03-11T11:26:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-11T11:26:55-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52739150808/" title="March 10th"&gt;&lt;img src="https://live.staticflickr.com/65535/52739150808_ac7ce4c1cd_m.jpg" width="240" height="138" alt="March 10th" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52740898843/" title="Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_m.jpg" width="240" height="154" alt="Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham's mecca for sewing.&lt;/p&gt;
+&lt;p&gt;Balham High Road&lt;/p&gt;
 </content>
     <author>
       <name>bigjon</name>
@@ -200,48 +229,16 @@
       <flickr:nsid>13312382@N00</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52739150808_ac7ce4c1cd_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sewing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="craft" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="superstore" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_b.jpg"/>
     <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 7th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52731917136/"/>
-    <id>tag:flickr.com,2005:/photo/52731917136</id>
-    <published>2023-03-07T13:43:57Z</published>
-    <updated>2023-03-07T13:43:57Z</updated>
-    <flickr:date_taken>2023-03-07T10:46:39-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-07T10:46:39-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52731917136/" title="March 7th"&gt;&lt;img src="https://live.staticflickr.com/65535/52731917136_ee250aed11_m.jpg" width="240" height="173" alt="March 7th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On top of the 249 bus through Balham.&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52731917136_ee250aed11_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="249" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="route249" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="topdeck" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ducane" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="court" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="apartments" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="symmetry" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
