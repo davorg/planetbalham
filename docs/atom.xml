@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-25T13:13:18Z</updated>
+  <updated>2023-03-25T13:48:20Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1006mb, Humidity: 58%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1006mb, Humidity: 57%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 GMT, Sunset: 18:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-25T09:51:00.000+0000</id>
-    <published>2023-03-25T13:01:59Z</published>
-    <updated>2023-03-25T13:01:59Z</updated>
+    <published>2023-03-25T13:31:05Z</published>
+    <updated>2023-03-25T13:31:05Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Heavy Rain, Minimum Temperature: 1°C (33°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Sunday: Heavy Rain, Minimum Temperature: 0°C (33°F) Maximum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 BST, Sunset: 18:23 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 0°C (33°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-25T09:51:00.000+0000</id>
-    <published>2023-03-25T13:01:59Z</published>
-    <updated>2023-03-25T13:01:59Z</updated>
+    <published>2023-03-25T13:31:05Z</published>
+    <updated>2023-03-25T13:31:05Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:48 BST, Sunset: 19:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-25T09:51:00.000+0000</id>
-    <published>2023-03-25T13:01:59Z</published>
-    <updated>2023-03-25T13:01:59Z</updated>
+    <published>2023-03-25T13:31:05Z</published>
+    <updated>2023-03-25T13:31:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvbW90b3Jpc3RzLWRyaXZpbmctY2Fycy1kb2ctc21va2luZy1yb2FkLXBvbGljZS1jb3VydC1maW5lZC1wcm9zZWN1dGVkLWIxMDY5ODQ0Lmh0bWzSAQA?oc=5</id>
@@ -62,11 +62,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3LmVkZ2Vwcm9wLnNnL3Byb3BlcnR5LW5ld3MvbG9uZG9uJUUyJTgwJTk5cy13YW5kc3dvcnRoLWFyZWEtZXhjaXRpbmctcGxhY2UtdWstcHJvcGVydHktYnV5ZXJzLW9uZS1nbG9iYWzSAXdodHRwczovL3d3dy5lZGdlcHJvcC5zZy9hbXAvcHJvcGVydHktbmV3cy9sb25kb24lRTIlODAlOTlzLXdhbmRzd29ydGgtYXJlYS1leGNpdGluZy1wbGFjZS11ay1wcm9wZXJ0eS1idXllcnMtb25lLWdsb2JhbA?oc=5" target="_blank"&gt;London's Wandsworth area an exciting place for UK property buyers ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;EdgeProp Singapore&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnBldGVyc2ZpZWxkcG9zdC5jby51ay9zcG9ydC9mb290YmFsbC9hbHRvbi1ib3NzLWtldmluLWFkYWlyLWZydXN0cmF0ZWQtYXMtYmFsaGFtLWdhbWUtcG9zdHBvbmVkLTYwMzAzOdIBAA?oc=5</id>
-    <title type="html">Alton boss Kevin Adair frustrated as Balham game postponed - Petersfield Post</title>
-    <updated>2023-03-23T11:04:31.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnBldGVyc2ZpZWxkcG9zdC5jby51ay9zcG9ydC9mb290YmFsbC9hbHRvbi1ib3NzLWtldmluLWFkYWlyLWZydXN0cmF0ZWQtYXMtYmFsaGFtLWdhbWUtcG9zdHBvbmVkLTYwMzAzOdIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnBldGVyc2ZpZWxkcG9zdC5jby51ay9zcG9ydC9mb290YmFsbC9hbHRvbi1ib3NzLWtldmluLWFkYWlyLWZydXN0cmF0ZWQtYXMtYmFsaGFtLWdhbWUtcG9zdHBvbmVkLTYwMzAzOdIBAA?oc=5" target="_blank"&gt;Alton boss Kevin Adair frustrated as Balham game postponed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Petersfield Post&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiQGh0dHBzOi8vdGhlaW5zLmluLzIwMjMvMDMvMjMvcG93ZXItc2h1dGRvd24taW4tc3JpbmFnYXItcGFydHMtMi_SAQA?oc=5</id>
+    <title type="html">Power shutdown In Srinagar Parts – The INS News - The INS News</title>
+    <updated>2023-03-23T12:01:07.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiQGh0dHBzOi8vdGhlaW5zLmluLzIwMjMvMDMvMjMvcG93ZXItc2h1dGRvd24taW4tc3JpbmFnYXItcGFydHMtMi_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQGh0dHBzOi8vdGhlaW5zLmluLzIwMjMvMDMvMjMvcG93ZXItc2h1dGRvd24taW4tc3JpbmFnYXItcGFydHMtMi_SAQA?oc=5" target="_blank"&gt;Power shutdown In Srinagar Parts – The INS News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The INS News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3Lm5ld3N0YXRlc21hbi5jb20vc29jaWV0eS8yMDIzLzAzL2V2ZXJ5dGhpbmctaXMtY2xhcGhhbS1ub3ctY29vbNIBAA?oc=5</id>
