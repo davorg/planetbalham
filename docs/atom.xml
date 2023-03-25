@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-25T17:12:26Z</updated>
+  <updated>2023-03-25T17:48:35Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 7°C (44°F)</title>
+    <title>Tonight: Heavy Rain, Minimum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1006mb, Humidity: 55%, UV Risk: 3, Pollution: Low, Sunset: 18:21 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunset: 18:21 GMT</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-25T09:51:00.000+0000</id>
-    <published>2023-03-25T17:00:34Z</published>
-    <updated>2023-03-25T17:00:34Z</updated>
+    <published>2023-03-25T17:32:32Z</published>
+    <updated>2023-03-25T17:32:32Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Heavy Rain, Minimum Temperature: 1°C (33°F) Maximum Temperature: 9°C (47°F)</title>
+    <title>Sunday: Heavy Rain, Minimum Temperature: 1°C (33°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 BST, Sunset: 18:23 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 1°C (33°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunrise: 05:51 BST, Sunset: 18:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-25T09:51:00.000+0000</id>
-    <published>2023-03-25T17:00:34Z</published>
-    <updated>2023-03-25T17:00:34Z</updated>
+    <published>2023-03-25T17:32:32Z</published>
+    <updated>2023-03-25T17:32:32Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 9°C (48°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 64%, UV Risk: 3, Pollution: Low, Sunrise: 06:48 BST, Sunset: 19:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-25T09:51:00.000+0000</id>
-    <published>2023-03-25T17:00:34Z</published>
-    <updated>2023-03-25T17:00:34Z</updated>
+    <published>2023-03-25T17:32:32Z</published>
+    <updated>2023-03-25T17:32:32Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9zcG9ydC9mb290YmFsbC9ub24tbGVhZ3VlL2hhbGVzb3dlbi10b3duLWZjLzIwMjMvMDMvMjUvZGVyZWhhbS10b3duLTAtaGFsZXNvd2VuLXRvd24tMy0tLXJlcG9ydC_SAQA?oc=5</id>
+    <title type="html">Dereham Town 0 Halesowen Town 3 - Report - Express &amp; Star</title>
+    <updated>2023-03-25T17:18:09.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9zcG9ydC9mb290YmFsbC9ub24tbGVhZ3VlL2hhbGVzb3dlbi10b3duLWZjLzIwMjMvMDMvMjUvZGVyZWhhbS10b3duLTAtaGFsZXNvd2VuLXRvd24tMy0tLXJlcG9ydC_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9zcG9ydC9mb290YmFsbC9ub24tbGVhZ3VlL2hhbGVzb3dlbi10b3duLWZjLzIwMjMvMDMvMjUvZGVyZWhhbS10b3duLTAtaGFsZXNvd2VuLXRvd24tMy0tLXJlcG9ydC_SAQA?oc=5" target="_blank"&gt;Dereham Town 0 Halesowen Town 3 - Report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express &amp; Star&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
@@ -73,13 +80,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvbW90b3Jpc3RzLWRyaXZpbmctY2Fycy1kb2ctc21va2luZy1yb2FkLXBvbGljZS1jb3VydC1maW5lZC1wcm9zZWN1dGVkLWIxMDY5ODQ0Lmh0bWzSAQA?oc=5</id>
-    <title type="html">Motorists in the dock for smoking, eating and drinking while driving - Evening Standard</title>
-    <updated>2023-03-25T08:03:30.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvbW90b3Jpc3RzLWRyaXZpbmctY2Fycy1kb2ctc21va2luZy1yb2FkLXBvbGljZS1jb3VydC1maW5lZC1wcm9zZWN1dGVkLWIxMDY5ODQ0Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvbW90b3Jpc3RzLWRyaXZpbmctY2Fycy1kb2ctc21va2luZy1yb2FkLXBvbGljZS1jb3VydC1maW5lZC1wcm9zZWN1dGVkLWIxMDY5ODQ0Lmh0bWzSAQA?oc=5" target="_blank"&gt;Motorists in the dock for smoking, eating and drinking while driving&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvZmVhdHVyZS1hbmQtdGhlLW9zY2FyLWdvZXMtdG8tNzU1MjI30gFFaHR0cHM6Ly93d3cudGhlaXJpc2hmaWVsZC5pZS9hbXAvZmVhdHVyZS1hbmQtdGhlLW9zY2FyLWdvZXMtdG8tNzU1MjI3?oc=5</id>
     <title type="html">FEATURE: And the Oscar goes to... 24 March 2023 Free - The Irish Field</title>
