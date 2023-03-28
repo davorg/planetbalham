@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-28T13:48:31Z</updated>
+  <updated>2023-03-28T14:13:13Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 8°C (47°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1016mb, Humidity: 74%, UV Risk: 1, Pollution: Low, Sunrise: 06:46 BST, Sunset: 19:27 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-28T09:53:00.000+0000</id>
-    <published>2023-03-28T13:14:53Z</published>
-    <updated>2023-03-28T13:14:53Z</updated>
+    <published>2023-03-28T14:00:18Z</published>
+    <updated>2023-03-28T14:00:18Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 87%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-28T09:53:00.000+0000</id>
-    <published>2023-03-28T13:14:53Z</published>
-    <updated>2023-03-28T13:14:53Z</updated>
+    <published>2023-03-28T14:00:18Z</published>
+    <updated>2023-03-28T14:00:18Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-28T09:53:00.000+0000</id>
-    <published>2023-03-28T13:14:53Z</published>
-    <updated>2023-03-28T13:14:53Z</updated>
+    <published>2023-03-28T14:00:18Z</published>
+    <updated>2023-03-28T14:00:18Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Harris hawk in the rain</title>
@@ -70,7 +70,7 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Rain splashing off Harris hawk's back</title>
+    <title>Water off a hawk's back</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
     <id>tag:flickr.com,2005:/photo/52777252443</id>
     <published>2023-03-28T11:49:02Z</published>
@@ -79,7 +79,7 @@
     <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Rain splashing off Harris hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Rain splashing off Harris hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;
 </content>
@@ -127,11 +127,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3BzLXNlYXJjaC1mb3Itcm9sZXgtcm9iYmVyLXdoby1sZWZ0LW1hbi13aXRoLWZyYWN0dXJlZC1za3VsbC_SAQA?oc=5" target="_blank"&gt;Cops search for Rolex robber who left man with fractured skull&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents - Courier Mail</title>
-    <updated>2023-03-27T23:24:24.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM0MTY2NTguYmFsaGFtLWh5ZGV0aG9ycGUtcm9hZC1hcHBlYWwtd2F0Y2gtcm9iYmVyeS_SAQA?oc=5</id>
+    <title type="html">Balham Hydethorpe Road: Appeal after watch robbery - Sutton &amp; Croydon Guardian</title>
+    <updated>2023-03-28T08:24:18.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM0MTY2NTguYmFsaGFtLWh5ZGV0aG9ycGUtcm9hZC1hcHBlYWwtd2F0Y2gtcm9iYmVyeS_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM0MTY2NTguYmFsaGFtLWh5ZGV0aG9ycGUtcm9hZC1hcHBlYWwtd2F0Y2gtcm9iYmVyeS_SAQA?oc=5" target="_blank"&gt;Balham Hydethorpe Road: Appeal after watch robbery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sutton &amp; Croydon Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
