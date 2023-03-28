@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-28T03:48:31Z</updated>
+  <updated>2023-03-28T04:13:42Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 5°C (41°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 68%, UV Risk: 0, Pollution: Low, Sunset: 19:27 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:46 BST, Sunset: 19:27 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-27T21:55:00.000+0000</id>
-    <published>2023-03-28T03:10:09Z</published>
-    <updated>2023-03-28T03:10:09Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-27T21:55:00.000+0000</id>
-    <published>2023-03-28T03:10:09Z</published>
-    <updated>2023-03-28T03:10:09Z</updated>
+    <published>2023-03-28T04:10:53Z</published>
+    <updated>2023-03-28T04:10:53Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 15°C (58°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 88%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-27T21:55:00.000+0000</id>
+    <published>2023-03-28T04:10:53Z</published>
+    <updated>2023-03-28T04:10:53Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 88%, UV Risk: 2, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1005mb, Humidity: 80%, UV Risk: 2, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-27T21:55:00.000+0000</id>
-    <published>2023-03-28T03:10:09Z</published>
-    <updated>2023-03-28T03:10:09Z</updated>
+    <published>2023-03-28T04:10:53Z</published>
+    <updated>2023-03-28T04:10:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5</id>
