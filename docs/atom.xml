@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-28T10:48:29Z</updated>
+  <updated>2023-03-28T11:12:37Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (47°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 75%, UV Risk: 1, Pollution: Low, Sunrise: 06:46 BST, Sunset: 19:27 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-28T07:55:00.000+0000</id>
-    <published>2023-03-28T10:13:13Z</published>
-    <updated>2023-03-28T10:13:13Z</updated>
+    <published>2023-03-28T11:03:18Z</published>
+    <updated>2023-03-28T11:03:18Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 87%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-28T07:55:00.000+0000</id>
-    <published>2023-03-28T10:13:13Z</published>
-    <updated>2023-03-28T10:13:13Z</updated>
+    <published>2023-03-28T11:03:18Z</published>
+    <updated>2023-03-28T11:03:18Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,29 +37,36 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-28T07:55:00.000+0000</id>
-    <published>2023-03-28T10:13:13Z</published>
-    <updated>2023-03-28T10:13:13Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3BzLXNlYXJjaC1mb3Itcm9sZXgtcm9iYmVyLXdoby1sZWZ0LW1hbi13aXRoLWZyYWN0dXJlZC1za3VsbC_SAQA?oc=5</id>
-    <title type="html">Cops search for Rolex robber who left man with fractured skull - London News Online</title>
-    <updated>2023-03-28T08:37:36.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3BzLXNlYXJjaC1mb3Itcm9sZXgtcm9iYmVyLXdoby1sZWZ0LW1hbi13aXRoLWZyYWN0dXJlZC1za3VsbC_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3BzLXNlYXJjaC1mb3Itcm9sZXgtcm9iYmVyLXdoby1sZWZ0LW1hbi13aXRoLWZyYWN0dXJlZC1za3VsbC_SAQA?oc=5" target="_blank"&gt;Cops search for Rolex robber who left man with fractured skull&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <published>2023-03-28T11:03:18Z</published>
+    <updated>2023-03-28T11:03:18Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWFuLXNrdWxsLWZyYWN0dXJlZC10ZXJyaWZ5aW5nLXJvbGV4LTA3NDY1MjgxMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21hbi1za3VsbC1mcmFjdHVyZWQtdGVycmlmeWluZy1yb2xleC0wNzQ2NTI4MTAuaHRtbA?oc=5</id>
-    <title type="html">Man’s skull fractured in ‘terrifying’ Rolex robbery in Balham - Yahoo News UK</title>
-    <updated>2023-03-28T07:46:52.000000000Z</updated>
+    <title type="html">Man’s skull fractured in ‘terrifying’ £6k Rolex robbery in Balham - Yahoo News UK</title>
+    <updated>2023-03-28T10:48:28.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWFuLXNrdWxsLWZyYWN0dXJlZC10ZXJyaWZ5aW5nLXJvbGV4LTA3NDY1MjgxMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21hbi1za3VsbC1mcmFjdHVyZWQtdGVycmlmeWluZy1yb2xleC0wNzQ2NTI4MTAuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWFuLXNrdWxsLWZyYWN0dXJlZC10ZXJyaWZ5aW5nLXJvbGV4LTA3NDY1MjgxMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21hbi1za3VsbC1mcmFjdHVyZWQtdGVycmlmeWluZy1yb2xleC0wNzQ2NTI4MTAuaHRtbA?oc=5" target="_blank"&gt;Man’s skull fractured in ‘terrifying’ Rolex robbery in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWFuLXNrdWxsLWZyYWN0dXJlZC10ZXJyaWZ5aW5nLXJvbGV4LTA3NDY1MjgxMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21hbi1za3VsbC1mcmFjdHVyZWQtdGVycmlmeWluZy1yb2xleC0wNzQ2NTI4MTAuaHRtbA?oc=5" target="_blank"&gt;Man’s skull fractured in ‘terrifying’ £6k Rolex robbery in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5</id>
-    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents - Courier Mail</title>
-    <updated>2023-03-27T23:24:24.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 167.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZ3JldGEtdGh1bmJlcmctY29taW5nLXNvdXRoYmFuay1mb3Jlc3QtMTA0NTUyNjY2Lmh0bWzSAVdodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZ3JldGEtdGh1bmJlcmctY29taW5nLXNvdXRoYmFuay1mb3Jlc3QtMTA0NTUyNjY2Lmh0bWw?oc=5</id>
+    <title type="html">Greta Thunberg coming to the Southbank... with a forest of 300 trees - Yahoo News UK</title>
+    <updated>2023-03-28T10:45:52.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZ3JldGEtdGh1bmJlcmctY29taW5nLXNvdXRoYmFuay1mb3Jlc3QtMTA0NTUyNjY2Lmh0bWzSAVdodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZ3JldGEtdGh1bmJlcmctY29taW5nLXNvdXRoYmFuay1mb3Jlc3QtMTA0NTUyNjY2Lmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZ3JldGEtdGh1bmJlcmctY29taW5nLXNvdXRoYmFuay1mb3Jlc3QtMTA0NTUyNjY2Lmh0bWzSAVdodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZ3JldGEtdGh1bmJlcmctY29taW5nLXNvdXRoYmFuay1mb3Jlc3QtMTA0NTUyNjY2Lmh0bWw?oc=5" target="_blank"&gt;Greta Thunberg coming to the Southbank... with a forest of 300 trees&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3VyZ2Utc3VwZXJtYXJrZXQtZm9vZC1wcmljZXMtZnVlbHMtMTA0MzI5MTczLmh0bWzSAVRodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc3VyZ2Utc3VwZXJtYXJrZXQtZm9vZC1wcmljZXMtZnVlbHMtMTA0MzI5MTczLmh0bWw?oc=5</id>
+    <title type="html">Surge in supermarket food prices fuels big squeeze - Yahoo News UK</title>
+    <updated>2023-03-28T10:43:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3VyZ2Utc3VwZXJtYXJrZXQtZm9vZC1wcmljZXMtZnVlbHMtMTA0MzI5MTczLmh0bWzSAVRodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc3VyZ2Utc3VwZXJtYXJrZXQtZm9vZC1wcmljZXMtZnVlbHMtMTA0MzI5MTczLmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc3VyZ2Utc3VwZXJtYXJrZXQtZm9vZC1wcmljZXMtZnVlbHMtMTA0MzI5MTczLmh0bWzSAVRodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc3VyZ2Utc3VwZXJtYXJrZXQtZm9vZC1wcmljZXMtZnVlbHMtMTA0MzI5MTczLmh0bWw?oc=5" target="_blank"&gt;Surge in supermarket food prices fuels big squeeze&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZGF2aWQtbGFtbXktdm93cy1sZWFkLWZpZ2h0LTEwMjUzNjk1MS5odG1s0gFMaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2RhdmlkLWxhbW15LXZvd3MtbGVhZC1maWdodC0xMDI1MzY5NTEuaHRtbA?oc=5</id>
+    <title type="html">David Lammy vows to lead fight to tackle ‘dirty money’ in London - Yahoo News UK</title>
+    <updated>2023-03-28T10:25:36.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZGF2aWQtbGFtbXktdm93cy1sZWFkLWZpZ2h0LTEwMjUzNjk1MS5odG1s0gFMaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2RhdmlkLWxhbW15LXZvd3MtbGVhZC1maWdodC0xMDI1MzY5NTEuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZGF2aWQtbGFtbXktdm93cy1sZWFkLWZpZ2h0LTEwMjUzNjk1MS5odG1s0gFMaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2RhdmlkLWxhbW15LXZvd3MtbGVhZC1maWdodC0xMDI1MzY5NTEuaHRtbA?oc=5" target="_blank"&gt;David Lammy vows to lead fight to tackle ‘dirty money’ in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTQyNzIxL25ldHdvcmstcmFpbC1yZW5ld2luZy10cmFjay1vbi10aGUtbGluZXMtaW50by1sb25kb24tdmljdG9yaWEv0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-03-27T16:02:10.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTQyNzIxL25ldHdvcmstcmFpbC1yZW5ld2luZy10cmFjay1vbi10aGUtbGluZXMtaW50by1sb25kb24tdmljdG9yaWEv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTQyNzIxL25ldHdvcmstcmFpbC1yZW5ld2luZy10cmFjay1vbi10aGUtbGluZXMtaW50by1sb25kb24tdmljdG9yaWEv0gEA?oc=5" target="_blank"&gt;Network Rail renewing track on the lines into London Victoria&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Global Railway Review&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9tYXIvMjYvc3VuZGF5LXdpdGgtbWFyY3VzLWJyaWdzdG9ja2Utbm90aGluZy1iZWF0cy13YXRjaGluZy1hbi1vbGQtbXVzaWNhbC3SAXlodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvbWFyLzI2L3N1bmRheS13aXRoLW1hcmN1cy1icmlnc3RvY2tlLW5vdGhpbmctYmVhdHMtd2F0Y2hpbmctYW4tb2xkLW11c2ljYWwt?oc=5</id>
-    <title type="html">Sunday with Marcus Brigstocke: ‘Nothing beats watching an old musical’ - The Guardian</title>
-    <updated>2023-03-26T05:45:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9tYXIvMjYvc3VuZGF5LXdpdGgtbWFyY3VzLWJyaWdzdG9ja2Utbm90aGluZy1iZWF0cy13YXRjaGluZy1hbi1vbGQtbXVzaWNhbC3SAXlodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvbWFyLzI2L3N1bmRheS13aXRoLW1hcmN1cy1icmlnc3RvY2tlLW5vdGhpbmctYmVhdHMtd2F0Y2hpbmctYW4tb2xkLW11c2ljYWwt?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9saWZlYW5kc3R5bGUvMjAyMy9tYXIvMjYvc3VuZGF5LXdpdGgtbWFyY3VzLWJyaWdzdG9ja2Utbm90aGluZy1iZWF0cy13YXRjaGluZy1hbi1vbGQtbXVzaWNhbC3SAXlodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbGlmZWFuZHN0eWxlLzIwMjMvbWFyLzI2L3N1bmRheS13aXRoLW1hcmN1cy1icmlnc3RvY2tlLW5vdGhpbmctYmVhdHMtd2F0Y2hpbmctYW4tb2xkLW11c2ljYWwt?oc=5" target="_blank"&gt;Sunday with Marcus Brigstocke: ‘Nothing beats watching an old musical’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
@@ -105,6 +105,41 @@
     <category term="lines" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="signals" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
+    <id>tag:flickr.com,2005:/photo/52757992909</id>
+    <published>2023-03-19T18:38:14Z</published>
+    <updated>2023-03-19T18:38:14Z</updated>
+    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
+</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
+    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -203,39 +238,6 @@
     <category term="uber" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="mobiles" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Du Cane Court</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52740898843/"/>
-    <id>tag:flickr.com,2005:/photo/52740898843</id>
-    <published>2023-03-11T16:58:51Z</published>
-    <updated>2023-03-11T16:58:51Z</updated>
-    <flickr:date_taken>2023-03-11T11:26:55-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-11T11:26:55-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52740898843/" title="Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_m.jpg" width="240" height="154" alt="Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham High Road&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_b.jpg"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ducane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="court" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="apartments" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="symmetry" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
