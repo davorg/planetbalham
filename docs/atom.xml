@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-28T02:51:06Z</updated>
+  <updated>2023-03-28T03:13:14Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 5°C (42°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (42°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 68%, UV Risk: 0, Pollution: Low, Sunset: 19:27 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 68%, UV Risk: 0, Pollution: Low, Sunset: 19:27 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-27T21:55:00.000+0000</id>
-    <published>2023-03-28T02:09:26Z</published>
-    <updated>2023-03-28T02:09:26Z</updated>
+    <published>2023-03-28T03:10:09Z</published>
+    <updated>2023-03-28T03:10:09Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (49°F)</title>
+    <title>Tuesday: Light Rain, Minimum Temperature: 8°C (46°F) Maximum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (49°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 9°C (48°F), Minimum Temperature: 8°C (46°F), Wind Direction: Southerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-27T21:55:00.000+0000</id>
-    <published>2023-03-28T02:09:26Z</published>
-    <updated>2023-03-28T02:09:26Z</updated>
+    <published>2023-03-28T03:10:09Z</published>
+    <updated>2023-03-28T03:10:09Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 15°C (58°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 88%, UV Risk: 2, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-27T21:55:00.000+0000</id>
-    <published>2023-03-28T02:09:26Z</published>
-    <updated>2023-03-28T02:09:26Z</updated>
+    <published>2023-03-28T03:10:09Z</published>
+    <updated>2023-03-28T03:10:09Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5L2JhMmVkOGNmNTQwNmU1NTgxM2Q0YWFkYTM5ZWU0MWJl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvYmEyZWQ4Y2Y1NDA2ZTU1ODEzZDRhYWRhMzllZTQxYmU_YW1w?oc=5</id>
@@ -68,39 +68,6 @@
     <link href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9zcG9ydC9mb290YmFsbC9ub24tbGVhZ3VlL2hhbGVzb3dlbi10b3duLWZjLzIwMjMvMDMvMjUvZGVyZWhhbS10b3duLTAtaGFsZXNvd2VuLXRvd24tMy0tLXJlcG9ydC_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LmV4cHJlc3NhbmRzdGFyLmNvbS9zcG9ydC9mb290YmFsbC9ub24tbGVhZ3VlL2hhbGVzb3dlbi10b3duLWZjLzIwMjMvMDMvMjUvZGVyZWhhbS10b3duLTAtaGFsZXNvd2VuLXRvd24tMy0tLXJlcG9ydC_SAQA?oc=5" target="_blank"&gt;Dereham Town 0 Halesowen Town 3 - Report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express &amp; Star&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Streatham Hill to Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
-    <id>tag:flickr.com,2005:/photo/52770779148</id>
-    <published>2023-03-25T16:52:05Z</published>
-    <updated>2023-03-25T16:52:05Z</updated>
-    <flickr:date_taken>2023-03-25T15:00:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-25T15:00:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52770779148/" title="Streatham Hill to Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_m.jpg" width="240" height="137" alt="Streatham Hill to Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham in the distance&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streathamhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lines" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signals" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvbW90b3Jpc3RzLWRyaXZpbmctY2Fycy1kb2ctc21va2luZy1yb2FkLXBvbGljZS1jb3VydC1maW5lZC1wcm9zZWN1dGVkLWIxMDY5ODQ0Lmh0bWzSAQA?oc=5</id>
     <title type="html">Motorists in the dock for smoking, eating and drinking while driving - Evening Standard</title>
@@ -181,35 +148,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Milk  cafe 13-03-23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52744418417/"/>
-    <id>tag:flickr.com,2005:/photo/52744418417</id>
-    <published>2023-03-13T15:17:46Z</published>
-    <updated>2023-03-13T15:17:46Z</updated>
-    <flickr:date_taken>2023-03-13T15:07:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-13T15:07:58-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52744418417/" title="Milk  cafe 13-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52744418417_269cbf388c_m.jpg" width="240" height="162" alt="Milk  cafe 13-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>Utopist</name>
-      <uri>https://www.flickr.com/people/utopist/</uri>
-      <flickr:nsid>39838684@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52744418417_269cbf388c_b.jpg"/>
-    <category term="milkcafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>March 11th</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739892377/"/>
     <id>tag:flickr.com,2005:/photo/52739892377</id>
@@ -239,6 +177,71 @@
     <category term="mobiles" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Du Cane Court</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52740898843/"/>
+    <id>tag:flickr.com,2005:/photo/52740898843</id>
+    <published>2023-03-11T16:58:51Z</published>
+    <updated>2023-03-11T16:58:51Z</updated>
+    <flickr:date_taken>2023-03-11T11:26:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-11T11:26:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52740898843/" title="Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_m.jpg" width="240" height="154" alt="Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham High Road&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_b.jpg"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ducane" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="court" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="apartments" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="symmetry" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>March 10th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739150808/"/>
+    <id>tag:flickr.com,2005:/photo/52739150808</id>
+    <published>2023-03-10T18:30:22Z</published>
+    <updated>2023-03-10T18:30:22Z</updated>
+    <flickr:date_taken>2023-03-10T14:56:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-10T14:56:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52739150808/" title="March 10th"&gt;&lt;img src="https://live.staticflickr.com/65535/52739150808_ac7ce4c1cd_m.jpg" width="240" height="138" alt="March 10th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham's mecca for sewing.&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52739150808_ac7ce4c1cd_b.jpg"/>
+    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sewing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="craft" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="superstore" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tooting" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
