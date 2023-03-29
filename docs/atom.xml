@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-29T15:17:32Z</updated>
+  <updated>2023-03-29T17:03:06Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 86%, UV Risk: 1, Pollution: Low, Sunset: 19:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-29T09:57:00.000+0000</id>
-    <published>2023-03-29T15:01:04Z</published>
-    <updated>2023-03-29T15:01:04Z</updated>
+    <published>2023-03-29T17:00:43Z</published>
+    <updated>2023-03-29T17:00:43Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1005mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1005mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-29T09:57:00.000+0000</id>
-    <published>2023-03-29T15:01:04Z</published>
-    <updated>2023-03-29T15:01:04Z</updated>
+    <published>2023-03-29T17:00:43Z</published>
+    <updated>2023-03-29T17:00:43Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 9°C (49°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,22 +37,46 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 988mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-29T09:57:00.000+0000</id>
-    <published>2023-03-29T15:01:04Z</published>
-    <updated>2023-03-29T15:01:04Z</updated>
+    <published>2023-03-29T17:00:43Z</published>
+    <updated>2023-03-29T17:00:43Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Milk 29-03-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52779147911/"/>
+    <id>tag:flickr.com,2005:/photo/52779147911</id>
+    <published>2023-03-29T13:26:45Z</published>
+    <updated>2023-03-29T13:26:45Z</updated>
+    <flickr:date_taken>2023-03-29T09:35:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-29T09:35:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52779147911/" title="Milk 29-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52779147911_382ab40ed9_m.jpg" width="240" height="167" alt="Milk 29-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>Utopist</name>
+      <uri>https://www.flickr.com/people/utopist/</uri>
+      <flickr:nsid>39838684@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52779147911_382ab40ed9_b.jpg"/>
+    <category term="watercolour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="watercolor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5</id>
     <title type="html">Mexican restaurant 1910 to open in Parsons Green - Hot Dinners</title>
     <updated>2023-03-29T07:08:29.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY29yb25hdGlvbi1zdHJlZXRzLWNyYWlnLXRpbmtlci1tYWtlcy0yMDUyMDAwOTguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jb3JvbmF0aW9uLXN0cmVldHMtY3JhaWctdGlua2VyLW1ha2VzLTIwNTIwMDA5OC5odG1s?oc=5</id>
-    <title type="html">Coronation Street's Craig Tinker makes sad admission to Faye - Yahoo News UK</title>
-    <updated>2023-03-28T20:52:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY29yb25hdGlvbi1zdHJlZXRzLWNyYWlnLXRpbmtlci1tYWtlcy0yMDUyMDAwOTguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jb3JvbmF0aW9uLXN0cmVldHMtY3JhaWctdGlua2VyLW1ha2VzLTIwNTIwMDA5OC5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY29yb25hdGlvbi1zdHJlZXRzLWNyYWlnLXRpbmtlci1tYWtlcy0yMDUyMDAwOTguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jb3JvbmF0aW9uLXN0cmVldHMtY3JhaWctdGlua2VyLW1ha2VzLTIwNTIwMDA5OC5odG1s?oc=5" target="_blank"&gt;Coronation Street's Craig Tinker makes sad admission to Faye&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb2xpdmlhLWNhc2UtZGVmZW5kYW50LWhhdGVkLW5vdC0xMjM3NDczMTkuaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9vbGl2aWEtY2FzZS1kZWZlbmRhbnQtaGF0ZWQtbm90LTEyMzc0NzMxOS5odG1s?oc=5</id>
@@ -133,6 +157,13 @@
     <link href="https://news.google.com/atom/articles/CBMiOGh0dHBzOi8vd3d3LmJvdXRpcXVlaG90ZWxpZXIuY29tL3NvaG8taG91c2UtbmFtZS1jaGFuZ2Uv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiOGh0dHBzOi8vd3d3LmJvdXRpcXVlaG90ZWxpZXIuY29tL3NvaG8taG91c2UtbmFtZS1jaGFuZ2Uv0gEA?oc=5" target="_blank"&gt;Soho House goes back to its roots on New York Stock Exchange&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Boutique Hotelier&lt;/font&gt;</content>
   </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdG9wLXlvcmstdHJhaW5lci1maXJzdHMtcmFpbHdheS0wNzQ5MDA5ODguaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC90b3AteW9yay10cmFpbmVyLWZpcnN0cy1yYWlsd2F5LTA3NDkwMDk4OC5odG1s?oc=5</id>
+    <title type="html">Top York trainer’s firsts in railway sector - Yahoo News UK</title>
+    <updated>2023-03-28T07:49:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdG9wLXlvcmstdHJhaW5lci1maXJzdHMtcmFpbHdheS0wNzQ5MDA5ODguaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC90b3AteW9yay10cmFpbmVyLWZpcnN0cy1yYWlsd2F5LTA3NDkwMDk4OC5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdG9wLXlvcmstdHJhaW5lci1maXJzdHMtcmFpbHdheS0wNzQ5MDA5ODguaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC90b3AteW9yay10cmFpbmVyLWZpcnN0cy1yYWlsd2F5LTA3NDkwMDk4OC5odG1s?oc=5" target="_blank"&gt;Top York trainer’s firsts in railway sector&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
@@ -197,43 +228,6 @@
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 14th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52747994023/"/>
-    <id>tag:flickr.com,2005:/photo/52747994023</id>
-    <published>2023-03-14T18:11:50Z</published>
-    <updated>2023-03-14T18:11:50Z</updated>
-    <flickr:date_taken>2023-03-14T11:43:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-14T11:43:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52747994023/" title="March 14th"&gt;&lt;img src="https://live.staticflickr.com/65535/52747994023_ae7348e71e_m.jpg" width="240" height="148" alt="March 14th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Southern train passing through Tooting Common between Balham and Streatham Common stations&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52747994023_ae7348e71e_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="slow" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stopping" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
