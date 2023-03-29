@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-29T17:42:25Z</updated>
+  <updated>2023-03-29T18:01:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 86%, UV Risk: 2, Pollution: Low, Sunset: 19:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-29T09:57:00.000+0000</id>
-    <published>2023-03-29T17:35:27Z</published>
-    <updated>2023-03-29T17:35:27Z</updated>
+    <published>2023-03-29T17:59:03Z</published>
+    <updated>2023-03-29T17:59:03Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 15°C (60°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1005mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-29T09:57:00.000+0000</id>
-    <published>2023-03-29T17:35:27Z</published>
-    <updated>2023-03-29T17:35:27Z</updated>
+    <published>2023-03-29T17:59:03Z</published>
+    <updated>2023-03-29T17:59:03Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 9°C (49°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 988mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-29T09:57:00.000+0000</id>
-    <published>2023-03-29T17:35:27Z</published>
-    <updated>2023-03-29T17:35:27Z</updated>
+    <published>2023-03-29T17:59:03Z</published>
+    <updated>2023-03-29T17:59:03Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
@@ -71,13 +71,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5</id>
-    <title type="html">Mexican restaurant 1910 to open in Parsons Green - Hot Dinners</title>
-    <updated>2023-03-29T07:08:29.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb2xpdmlhLWNhc2UtZGVmZW5kYW50LWhhdGVkLW5vdC0xMjM3NDczMTkuaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9vbGl2aWEtY2FzZS1kZWZlbmRhbnQtaGF0ZWQtbm90LTEyMzc0NzMxOS5odG1s?oc=5</id>
     <title type="html">Olivia case defendant is ‘hated’ but not guilty, court told - Yahoo News UK</title>
@@ -163,6 +156,13 @@
     <updated>2023-03-28T07:49:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdG9wLXlvcmstdHJhaW5lci1maXJzdHMtcmFpbHdheS0wNzQ5MDA5ODguaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC90b3AteW9yay10cmFpbmVyLWZpcnN0cy1yYWlsd2F5LTA3NDkwMDk4OC5odG1s?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vdG9wLXlvcmstdHJhaW5lci1maXJzdHMtcmFpbHdheS0wNzQ5MDA5ODguaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC90b3AteW9yay10cmFpbmVyLWZpcnN0cy1yYWlsd2F5LTA3NDkwMDk4OC5odG1s?oc=5" target="_blank"&gt;Top York trainer’s firsts in railway sector&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbXktNmZ0LWRvZy1pcy1zby1iaWctcGVvcGxlLWFzay1tZS1pZi1pdHMtYS1saW9uLTE4MDg0Nzg4My5odG1s0gFhaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL215LTZmdC1kb2ctaXMtc28tYmlnLXBlb3BsZS1hc2stbWUtaWYtaXRzLWEtbGlvbi0xODA4NDc4ODMuaHRtbA?oc=5</id>
+    <title type="html">'My 6ft dog is so big people ask me if it's a lion' - Yahoo News UK</title>
+    <updated>2023-03-27T18:08:47.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbXktNmZ0LWRvZy1pcy1zby1iaWctcGVvcGxlLWFzay1tZS1pZi1pdHMtYS1saW9uLTE4MDg0Nzg4My5odG1s0gFhaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL215LTZmdC1kb2ctaXMtc28tYmlnLXBlb3BsZS1hc2stbWUtaWYtaXRzLWEtbGlvbi0xODA4NDc4ODMuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbXktNmZ0LWRvZy1pcy1zby1iaWctcGVvcGxlLWFzay1tZS1pZi1pdHMtYS1saW9uLTE4MDg0Nzg4My5odG1s0gFhaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL215LTZmdC1kb2ctaXMtc28tYmlnLXBlb3BsZS1hc2stbWUtaWYtaXRzLWEtbGlvbi0xODA4NDc4ODMuaHRtbA?oc=5" target="_blank"&gt;'My 6ft dog is so big people ask me if it's a lion'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
