@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-29T07:48:29Z</updated>
+  <updated>2023-03-29T08:14:06Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 87%, UV Risk: 2, Pollution: Low, Sunrise: 06:44 BST, Sunset: 19:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-28T21:55:00.000+0000</id>
-    <published>2023-03-29T07:27:48Z</published>
-    <updated>2023-03-29T07:27:48Z</updated>
+    <published>2023-03-29T08:00:15Z</published>
+    <updated>2023-03-29T08:00:15Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1005mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunrise: 06:41 BST, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-28T21:55:00.000+0000</id>
-    <published>2023-03-29T07:27:48Z</published>
-    <updated>2023-03-29T07:27:48Z</updated>
+    <published>2023-03-29T08:00:15Z</published>
+    <updated>2023-03-29T08:00:15Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 13°C (54°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (54°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 989mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-28T21:55:00.000+0000</id>
-    <published>2023-03-29T07:27:48Z</published>
-    <updated>2023-03-29T07:27:48Z</updated>
+    <published>2023-03-29T08:00:15Z</published>
+    <updated>2023-03-29T08:00:15Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5</id>
+    <title type="html">Mexican restaurant 1910 to open in Parsons Green - Hot Dinners</title>
+    <updated>2023-03-29T07:08:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzE4MGJmODlhMGVlNThkMzJiMDc3OWYyZTQ5Mzg4MjNl0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvMTgwYmY4OWEwZWU1OGQzMmIwNzc5ZjJlNDkzODgyM2U_YW1w?oc=5</id>
@@ -125,13 +132,6 @@
     <updated>2023-03-28T10:48:28.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWFuLXNrdWxsLWZyYWN0dXJlZC10ZXJyaWZ5aW5nLXJvbGV4LTA3NDY1MjgxMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21hbi1za3VsbC1mcmFjdHVyZWQtdGVycmlmeWluZy1yb2xleC0wNzQ2NTI4MTAuaHRtbA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vbWFuLXNrdWxsLWZyYWN0dXJlZC10ZXJyaWZ5aW5nLXJvbGV4LTA3NDY1MjgxMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL21hbi1za3VsbC1mcmFjdHVyZWQtdGVycmlmeWluZy1yb2xleC0wNzQ2NTI4MTAuaHRtbA?oc=5" target="_blank"&gt;Man’s skull fractured in ‘terrifying’ £6k Rolex robbery in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiOGh0dHBzOi8vd3d3LmJvdXRpcXVlaG90ZWxpZXIuY29tL3NvaG8taG91c2UtbmFtZS1jaGFuZ2Uv0gEA?oc=5</id>
-    <title type="html">Soho House goes back to its roots on New York Stock Exchange - Boutique Hotelier</title>
-    <updated>2023-03-28T10:24:43.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiOGh0dHBzOi8vd3d3LmJvdXRpcXVlaG90ZWxpZXIuY29tL3NvaG8taG91c2UtbmFtZS1jaGFuZ2Uv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiOGh0dHBzOi8vd3d3LmJvdXRpcXVlaG90ZWxpZXIuY29tL3NvaG8taG91c2UtbmFtZS1jaGFuZ2Uv0gEA?oc=5" target="_blank"&gt;Soho House goes back to its roots on New York Stock Exchange&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Boutique Hotelier&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
