@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-29T23:48:31Z</updated>
+  <updated>2023-03-30T00:25:17Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1002mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 19:30 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-29T21:50:00.000+0000</id>
-    <published>2023-03-29T23:40:54Z</published>
-    <updated>2023-03-29T23:40:54Z</updated>
+    <published>2023-03-30T00:01:17Z</published>
+    <updated>2023-03-30T00:01:17Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 15°C (59°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1005mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-29T21:50:00.000+0000</id>
-    <published>2023-03-29T23:40:54Z</published>
-    <updated>2023-03-29T23:40:54Z</updated>
+    <published>2023-03-30T00:01:17Z</published>
+    <updated>2023-03-30T00:01:17Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (53°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Moderate, Pressure: 989mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-29T21:50:00.000+0000</id>
-    <published>2023-03-29T23:40:54Z</published>
-    <updated>2023-03-29T23:40:54Z</updated>
+    <published>2023-03-30T00:01:17Z</published>
+    <updated>2023-03-30T00:01:17Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTY3OS1jZW50cy9uZXdzLXN0b3J5LzkyNjBmZmRlMDAyOWNkZTM1ZjUzMGJmNDZmZTVlNjIy0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNjc5LWNlbnRzL25ld3Mtc3RvcnkvOTI2MGZmZGUwMDI5Y2RlMzVmNTMwYmY0NmZlNWU2MjI_YW1w?oc=5</id>
@@ -91,13 +91,6 @@
     <updated>2023-03-29T07:08:29.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY29yb25hdGlvbi1zdHJlZXRzLWNyYWlnLXRpbmtlci1tYWtlcy0yMDUyMDAwOTguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jb3JvbmF0aW9uLXN0cmVldHMtY3JhaWctdGlua2VyLW1ha2VzLTIwNTIwMDA5OC5odG1s?oc=5</id>
-    <title type="html">Coronation Street's Craig Tinker makes sad admission to Faye - Yahoo News UK</title>
-    <updated>2023-03-28T20:52:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY29yb25hdGlvbi1zdHJlZXRzLWNyYWlnLXRpbmtlci1tYWtlcy0yMDUyMDAwOTguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jb3JvbmF0aW9uLXN0cmVldHMtY3JhaWctdGlua2VyLW1ha2VzLTIwNTIwMDA5OC5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY29yb25hdGlvbi1zdHJlZXRzLWNyYWlnLXRpbmtlci1tYWtlcy0yMDUyMDAwOTguaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9jb3JvbmF0aW9uLXN0cmVldHMtY3JhaWctdGlua2VyLW1ha2VzLTIwNTIwMDA5OC5odG1s?oc=5" target="_blank"&gt;Coronation Street's Craig Tinker makes sad admission to Faye&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb2xpdmlhLWNhc2UtZGVmZW5kYW50LWhhdGVkLW5vdC0xMjM3NDczMTkuaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9vbGl2aWEtY2FzZS1kZWZlbmRhbnQtaGF0ZWQtbm90LTEyMzc0NzMxOS5odG1s?oc=5</id>
@@ -164,6 +157,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvYmFsaGFtLXdhdGNoLXJvYmJlcnktbWV0LXBvbGljZS1hcHBlYWwtYjEwNzAzNjguaHRtbNIBAA?oc=5</id>
+    <title type="html">Man's skull fractured in 'terrifying' Rolex robbery in Balham - Evening Standard</title>
+    <updated>2023-03-28T10:48:28.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvYmFsaGFtLXdhdGNoLXJvYmJlcnktbWV0LXBvbGljZS1hcHBlYWwtYjEwNzAzNjguaHRtbNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvYmFsaGFtLXdhdGNoLXJvYmJlcnktbWV0LXBvbGljZS1hcHBlYWwtYjEwNzAzNjguaHRtbNIBAA?oc=5" target="_blank"&gt;Man's skull fractured in 'terrifying' Rolex robbery in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
