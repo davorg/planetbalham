@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-31T11:12:50Z</updated>
+  <updated>2023-03-31T11:48:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -39,13 +39,6 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-31T09:08:00.000+0000</id>
     <published>2023-03-31T11:00:39Z</published>
     <updated>2023-03-31T11:00:39Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5</id>
-    <title type="html">My London: Lewis Goodall - Evening Standard</title>
-    <updated>2023-03-31T09:27:33.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" target="_blank"&gt;My London: Lewis Goodall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3JlZmVyZWUtYWJ1c2Uta2xvcHAtYXJ0ZXRhLWxpdmVycG9vbC0yOTU4MDcyNNIBAA?oc=5</id>
@@ -105,6 +98,13 @@
     <updated>2023-03-29T07:08:29.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb2xpdmlhLWNhc2UtZGVmZW5kYW50LWhhdGVkLW5vdC0xMjM3NDczMTkuaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9vbGl2aWEtY2FzZS1kZWZlbmRhbnQtaGF0ZWQtbm90LTEyMzc0NzMxOS5odG1s?oc=5</id>
+    <title type="html">Olivia case defendant is ‘hated’ but not guilty, court told - Yahoo News UK</title>
+    <updated>2023-03-28T12:37:47.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb2xpdmlhLWNhc2UtZGVmZW5kYW50LWhhdGVkLW5vdC0xMjM3NDczMTkuaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9vbGl2aWEtY2FzZS1kZWZlbmRhbnQtaGF0ZWQtbm90LTEyMzc0NzMxOS5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vb2xpdmlhLWNhc2UtZGVmZW5kYW50LWhhdGVkLW5vdC0xMjM3NDczMTkuaHRtbNIBUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9vbGl2aWEtY2FzZS1kZWZlbmRhbnQtaGF0ZWQtbm90LTEyMzc0NzMxOS5odG1s?oc=5" target="_blank"&gt;Olivia case defendant is ‘hated’ but not guilty, court told&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Harris hawk in the rain</title>
@@ -508,7 +508,11 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-12-21T12:21:00.001+00:00</published>
     <updated>2015-12-21T12:21:06.930+00:00</updated>
     <title type="text">Christmas minus four days</title>
-    <content type="html">&lt;p dir="ltr"&gt;Listening to Billie Holiday on Apple Music&lt;/p&gt;&lt;p dir="ltr"&gt;Reading Bernard Cornwell, Samuel Richardson, Balzac, Dickens, Ferrante&lt;/p&gt;&lt;p dir="ltr"&gt;Watching Force Awakens&lt;/p&gt;&lt;p dir="ltr"&gt;Thinking about how when I retire I'm going to live in small spare flat with a small spare garden with a terrier and a couple of &lt;u&gt;turtles&lt;/u&gt; and learn how to write poetry, paint pictures and play the trumpet&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Listening to Billie Holiday on Apple Music&lt;/p&gt;
+&lt;p dir="ltr"&gt;Reading Bernard Cornwell, Samuel Richardson, Balzac, Dickens, Ferrante&lt;/p&gt;
+&lt;p dir="ltr"&gt;Watching Force Awakens&lt;/p&gt;
+&lt;p dir="ltr"&gt;Thinking about how when I retire I'm going to live in small spare flat with a small spare garden with a terrier and a couple of &lt;u&gt;turtles&lt;/u&gt; and learn how to write poetry, paint pictures and play the trumpet&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/7469221085631967798/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=7469221085631967798" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/7469221085631967798"/>
@@ -527,7 +531,24 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-12-20T09:39:00.001+00:00</published>
     <updated>2015-12-20T09:51:37.881+00:00</updated>
     <title type="text">Christmas hols</title>
-    <content type="html">&lt;p dir="ltr"&gt;Hooray I'm on holiday for two weeks!&lt;/p&gt;&lt;p dir="ltr"&gt;Yesterday I made and put the marzipan on the Xmas cake.&lt;/p&gt;&lt;p dir="ltr"&gt;Today I'm going to Sisters using my Cineworld Unlimited card.&lt;/p&gt;&lt;p dir="ltr"&gt;Tomorrow we're going to see the Force Awakens&lt;/p&gt;&lt;p dir="ltr"&gt;Other stuff I'm doing:&lt;br&gt;- trying to find O2 Floor tickets for Strictly 2016 tour (we love you, Jay McGuinness, the human equivalent of the Andrex puppy)&lt;br&gt;- trying to get day tickets for Dominic West in Dangerous Liaisons at the Donmar Warehouse&lt;br&gt;- trying to get returns for Nutcracker, Cavalleria Rusticana at Covent Garden and Jim Broadbent in A Christmas Carol&lt;br&gt;- going to look at the West End Xmas windows with Laura&lt;br&gt;- going to Go Ape in Battersea Park with Alice&lt;br&gt;- going to Hampton Court as I've just realised I've got Historic Royal Palaces membership&lt;br&gt;- read, read, read!&lt;br&gt;- listen to unlimited music on Apple Music&lt;br&gt;- make mince pies (Delia)&lt;br&gt;- make Chana masala (Guardian)&lt;br&gt;- update this blog &lt;u&gt;daily&lt;/u&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Happy days&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Hooray I'm on holiday for two weeks!&lt;/p&gt;
+&lt;p dir="ltr"&gt;Yesterday I made and put the marzipan on the Xmas cake.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Today I'm going to Sisters using my Cineworld Unlimited card.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Tomorrow we're going to see the Force Awakens&lt;/p&gt;
+&lt;p dir="ltr"&gt;Other stuff I'm doing:&lt;br&gt;
+- trying to find O2 Floor tickets for Strictly 2016 tour (we love you, Jay McGuinness, the human equivalent of the Andrex puppy)&lt;br&gt;
+- trying to get day tickets for Dominic West in Dangerous Liaisons at the Donmar Warehouse&lt;br&gt;
+- trying to get returns for Nutcracker, Cavalleria Rusticana at Covent Garden and Jim Broadbent in A Christmas Carol&lt;br&gt;
+- going to look at the West End Xmas windows with Laura&lt;br&gt;
+- going to Go Ape in Battersea Park with Alice&lt;br&gt;
+- going to Hampton Court as I've just realised I've got Historic Royal Palaces membership&lt;br&gt;
+- read, read, read!&lt;br&gt;
+- listen to unlimited music on Apple Music&lt;br&gt;
+- make mince pies (Delia)&lt;br&gt;
+- make Chana masala (Guardian)&lt;br&gt;
+- update this blog &lt;u&gt;daily&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Happy days&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/3548054302340681003/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=3548054302340681003" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/3548054302340681003"/>
@@ -546,7 +567,12 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-12-05T15:51:00.001+00:00</published>
     <updated>2015-12-05T15:51:27.948+00:00</updated>
     <title type="text">Safeguarding: Southwark diocese</title>
-    <content type="html">&lt;p dir="ltr"&gt;Tea and coffee turns out to be a kettle, some tea bags and a pint of milk.&lt;/p&gt;&lt;p dir="ltr"&gt;Then there's a big kerfuffle about where you sign in: at the back, at reception, "I've signed in three times now"&lt;/p&gt;&lt;p dir="ltr"&gt;Then someone wants to open a window, but the windows don't open&lt;/p&gt;&lt;p dir="ltr"&gt;Oh God someone I know is here. I'll make like I haven't seen her&lt;/p&gt;&lt;p dir="ltr"&gt;Three hours later: actually it was really informative, if hair-raising. Obviously some parishes are a lot more problematic than &lt;u&gt;others&lt;/u&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Tea and coffee turns out to be a kettle, some tea bags and a pint of milk.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Then there's a big kerfuffle about where you sign in: at the back, at reception, "I've signed in three times now"&lt;/p&gt;
+&lt;p dir="ltr"&gt;Then someone wants to open a window, but the windows don't open&lt;/p&gt;
+&lt;p dir="ltr"&gt;Oh God someone I know is here. I'll make like I haven't seen her&lt;/p&gt;
+&lt;p dir="ltr"&gt;Three hours later: actually it was really informative, if hair-raising. Obviously some parishes are a lot more problematic than &lt;u&gt;others&lt;/u&gt;&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/3189984984749797998/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=3189984984749797998" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/3189984984749797998"/>
@@ -565,7 +591,26 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-10-17T10:32:00.001+01:00</published>
     <updated>2015-10-17T10:32:12.135+01:00</updated>
     <title type="text">Things We Argue About</title>
-    <content type="html">&lt;p dir="ltr"&gt;Driving down to Bristol for sister's wedding. We pass an estate agents window which has little model houses in the window like at Bekenscot.&lt;br&gt;Me: Laura, look at the cute little houses. Which one would you live in?&lt;br&gt;Laura: I can't really see them.&lt;br&gt;Me: I like the white one best, but the green one has bigger windows.&lt;br&gt;Laura: oh those houses. I thought you meant the houses they were advertising in the window. I was wondering how you could possibly see them.&lt;br&gt;Chris: I thought you meant the ones in the photos.&lt;br&gt;Alice: so did I.&lt;br&gt;Me: how could I possibly have seen the ones in the photographs? What, have I suddenly developed super eyesight?&lt;br&gt;Chris: that's what I thought. So I thought you must be talking just for the sake of saying something.&lt;br&gt;Me: when do I ever do that?&lt;br&gt;Chris: exactly. So I thought you must have gone mad.&lt;br&gt;Me: so you'd rather ignore everything you know about me and assume that I'd gone mad, rather than entertain the possibility that I might have been talking about the cute little model houses, which only that estate agent has, rather than the photos of houses, which every estate agent has?&lt;br&gt;Chris: I didn't think they were cute.&lt;br&gt;Me: surely it's more plausible that I meant the model houses but that what I think is cute is different from what you think is cute, rather than that I'd suddenly developed super eyesight and also lost my mind?&lt;br&gt;Chris: your position is indefensible&lt;br&gt;Me: my position is defensible. I am defending it, unfortunately I appear to be dealing with a bunch of dopes&lt;br&gt;Laura: we can't all be dopes&lt;br&gt;Me: well, apparently you can&lt;br&gt;Laura: the families in cars in adverts are never like &lt;u&gt;this&lt;/u&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Driving down to Bristol for sister's wedding. We pass an estate agents window which has little model houses in the window like at Bekenscot.&lt;br&gt;
+Me: Laura, look at the cute little houses. Which one would you live in?&lt;br&gt;
+Laura: I can't really see them.&lt;br&gt;
+Me: I like the white one best, but the green one has bigger windows.&lt;br&gt;
+Laura: oh those houses. I thought you meant the houses they were advertising in the window. I was wondering how you could possibly see them.&lt;br&gt;
+Chris: I thought you meant the ones in the photos.&lt;br&gt;
+Alice: so did I.&lt;br&gt;
+Me: how could I possibly have seen the ones in the photographs? What, have I suddenly developed super eyesight?&lt;br&gt;
+Chris: that's what I thought. So I thought you must be talking just for the sake of saying something.&lt;br&gt;
+Me: when do I ever do that?&lt;br&gt;
+Chris: exactly. So I thought you must have gone mad.&lt;br&gt;
+Me: so you'd rather ignore everything you know about me and assume that I'd gone mad, rather than entertain the possibility that I might have been talking about the cute little model houses, which only that estate agent has, rather than the photos of houses, which every estate agent has?&lt;br&gt;
+Chris: I didn't think they were cute.&lt;br&gt;
+Me: surely it's more plausible that I meant the model houses but that what I think is cute is different from what you think is cute, rather than that I'd suddenly developed super eyesight and also lost my mind?&lt;br&gt;
+Chris: your position is indefensible&lt;br&gt;
+Me: my position is defensible. I am defending it, unfortunately I appear to be dealing with a bunch of dopes&lt;br&gt;
+Laura: we can't all be dopes&lt;br&gt;
+Me: well, apparently you can&lt;br&gt;
+Laura: the families in cars in adverts are never like &lt;u&gt;this&lt;/u&gt;&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/6064230907794973179/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=6064230907794973179" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/6064230907794973179"/>
@@ -584,7 +629,25 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-10-14T16:07:00.001+01:00</published>
     <updated>2015-10-14T16:22:37.382+01:00</updated>
     <title type="text">Fall Out Boy</title>
-    <content type="html">&lt;p dir="ltr"&gt;I'm in the grip of several slow-burning obsessions at the moment. Fall Out Boy, for one, I'm sort of crushing on them collectively. What a difference a live gig makes! It's hard to say why as most of the time you had to watch them on the big screens (and why is that different from watching them on YouTube?), but that is the mystery of human presence. Being there, in the same air as people, makes a difference. Why? Maybe they seem more real. Maybe you see everything, not just what the cameraman directs you to see, which helps to fill in the reality of someone.&lt;/p&gt;&lt;p dir="ltr"&gt;Then I've started my new Elena Ferrante book. I wonder if a Lila really existed, or if the author is simply applying herself into two and writing about both halves. I wish I could get the girls to read it: it's such an eye-opening validating piece of work, especially for women. Some woman in the paper was worrying that it wasn&amp;#8217;t really literature. Why? Why not? What is&lt;br&gt;unliterary about it? The fact that it&amp;#8217;s enjoyable? The fact that it acts as&lt;br&gt;though what two young girls in Naples in &lt;u&gt;mid-twentieth&lt;/u&gt; century thought or&lt;br&gt;felt is important? I don&amp;#8217;t see how you could find a book more serious intelligent and authentic than these novels are turning out to be.&lt;/p&gt;&lt;p dir="ltr"&gt;On a more trivial note, I've been reading about Kate Moss&amp;#8217; new squeeze in the Telegraph: Nikolai von Bismarck, who from a quick piece of deductive work via Wikipedia, must be the second nephew of Gottfried von Bismarck (the first cousin of Nikolai&amp;#8217;s father Leopold, who was the younger brother of Gottfried&amp;#8217;s father, the&lt;br&gt;Prince von Bismarck). I knew Gottfried from Oxford when we were both in a&lt;br&gt;Ionesco play, The Lesson, being directed by an acquaintance from New College. I didn&amp;#8217;t really know Gottfried, what with him being such a posho, but he seemed perfectly nice. He moved with the Olivia Channon set and died himself a few years ago, essentially from his lifestyle (drugs, gay orgies etc). All rather sad: gilded youth! This was all post the ITV Brideshead craze. Little did I think, as I was living through it, that people would be looking back at the eighties in a haze of nostalgia.&lt;/p&gt;&lt;p dir="ltr"&gt;At lunch I went out and bought some Vichy Aqualia Thermal Serum because it&lt;br&gt;was on a Guardian list of best skincare products and I&amp;#8217;m running out of&lt;br&gt;face cream. I don&amp;#8217;t even know how to use it! It was &amp;#163;5 off. I wonder if it&lt;br&gt;will have any detectible effect on my skin, that wouldn&amp;#8217;t be just as well&lt;br&gt;achieved with a &amp;#163;5 pot of generic moisturiser. Anyway, when I went to pay,&lt;br&gt;instead of the self-service checkout asking whether I wanted to buy a bag,&lt;br&gt;there simply were no bags. There was only a little Boots man wandering&lt;br&gt;around with a handful of bags. I told him I wanted to buy one, but I had no&lt;br&gt;change. He shoved a little paper bag into my hand and whispered, &amp;#8220;Go, go,&lt;br&gt;run away!&amp;#8221; which I promptly did. Hilarious.&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;I'm in the grip of several slow-burning obsessions at the moment. Fall Out Boy, for one, I'm sort of crushing on them collectively. What a difference a live gig makes! It's hard to say why as most of the time you had to watch them on the big screens (and why is that different from watching them on YouTube?), but that is the mystery of human presence. Being there, in the same air as people, makes a difference. Why? Maybe they seem more real. Maybe you see everything, not just what the cameraman directs you to see, which helps to fill in the reality of someone.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Then I've started my new Elena Ferrante book. I wonder if a Lila really existed, or if the author is simply applying herself into two and writing about both halves. I wish I could get the girls to read it: it's such an eye-opening validating piece of work, especially for women. Some woman in the paper was worrying that it wasn&amp;#8217;t really literature. Why? Why not? What is&lt;br&gt;
+unliterary about it? The fact that it&amp;#8217;s enjoyable? The fact that it acts as&lt;br&gt;
+though what two young girls in Naples in &lt;u&gt;mid-twentieth&lt;/u&gt; century thought or&lt;br&gt;
+felt is important? I don&amp;#8217;t see how you could find a book more serious intelligent and authentic than these novels are turning out to be.&lt;/p&gt;
+&lt;p dir="ltr"&gt;On a more trivial note, I've been reading about Kate Moss&amp;#8217; new squeeze in the Telegraph: Nikolai von Bismarck, who from a quick piece of deductive work via Wikipedia, must be the second nephew of Gottfried von Bismarck (the first cousin of Nikolai&amp;#8217;s father Leopold, who was the younger brother of Gottfried&amp;#8217;s father, the&lt;br&gt;
+Prince von Bismarck). I knew Gottfried from Oxford when we were both in a&lt;br&gt;
+Ionesco play, The Lesson, being directed by an acquaintance from New College. I didn&amp;#8217;t really know Gottfried, what with him being such a posho, but he seemed perfectly nice. He moved with the Olivia Channon set and died himself a few years ago, essentially from his lifestyle (drugs, gay orgies etc). All rather sad: gilded youth! This was all post the ITV Brideshead craze. Little did I think, as I was living through it, that people would be looking back at the eighties in a haze of nostalgia.&lt;/p&gt;
+&lt;p dir="ltr"&gt;At lunch I went out and bought some Vichy Aqualia Thermal Serum because it&lt;br&gt;
+was on a Guardian list of best skincare products and I&amp;#8217;m running out of&lt;br&gt;
+face cream. I don&amp;#8217;t even know how to use it! It was &amp;#163;5 off. I wonder if it&lt;br&gt;
+will have any detectible effect on my skin, that wouldn&amp;#8217;t be just as well&lt;br&gt;
+achieved with a &amp;#163;5 pot of generic moisturiser. Anyway, when I went to pay,&lt;br&gt;
+instead of the self-service checkout asking whether I wanted to buy a bag,&lt;br&gt;
+there simply were no bags. There was only a little Boots man wandering&lt;br&gt;
+around with a handful of bags. I told him I wanted to buy one, but I had no&lt;br&gt;
+change. He shoved a little paper bag into my hand and whispered, &amp;#8220;Go, go,&lt;br&gt;
+run away!&amp;#8221; which I promptly did. Hilarious.&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/3734111998235035666/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=3734111998235035666" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/3734111998235035666"/>
@@ -660,7 +723,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2012-03-07T00:25:00.001+00:00</published>
     <updated>2012-03-07T00:29:21.589+00:00</updated>
     <title type="text">The Drugworker</title>
-    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
+    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;
+&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
     <link rel="replies" type="application/atom+xml" href="http://vendazero.blogspot.com/feeds/3761671694906136916/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2520155091800184&amp;postID=3761671694906136916" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3761671694906136916"/>
@@ -700,7 +764,35 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <category scheme="http://www.blogger.com/atom/ns#" term="General Stupidity"/>
     <category scheme="http://www.blogger.com/atom/ns#" term="Life Lessons"/>
     <title type="text">Winky Face!</title>
-    <content type="html">I'm just going to come right out and say it. &amp;nbsp;I am not a huge fan of &lt;a href="http://en.wikipedia.org/wiki/Emoticon"&gt;emoticons&lt;/a&gt;. &amp;nbsp;I do not use a happy face to indicate happiness, or a sad face to indicate sadness. &amp;nbsp;I don't even use LOL when texting or IMing, as I prefer a simple "ha!" to get the idea of laughter accross.&lt;br /&gt;&lt;br /&gt;However, I will acknowledge that I am in the minority. &amp;nbsp;If there was a battle, I lost. &amp;nbsp;Emoticons have won, and I accept their place in the world. &amp;nbsp;I will even admit that they can make the tone of an email or text or whatever clear if the words themselves don't convey the proper meaning. &amp;nbsp;I don't use them myself, but if someone sends me a frowny face or a confused face, I understand their meaning and move on with my life.&lt;br /&gt;&lt;br /&gt;Except!&lt;br /&gt;&lt;br /&gt;The winky face. &amp;nbsp;If there is one emoticon I cannot stand, it is the winky face. &amp;nbsp;You know the one I mean:&lt;br /&gt;&lt;br /&gt;;)&lt;br /&gt;&lt;br /&gt;The intended meaning, as far as I'm aware, is to convey cheekiness or sassiness. &amp;nbsp;And it drives me up the freaking wall. &amp;nbsp;Because here is the thing. &amp;nbsp;In real life, people smile at each other, or frown, or have big smiles, or stick out their tongues (which, ugh), or look surprised. &amp;nbsp;All of which have a corresponding emoticon to convey these expressions.&lt;br /&gt;&lt;br /&gt;Do you know what people don't do? &amp;nbsp;Wink at each other. &amp;nbsp;Constantly wink at each other. &amp;nbsp;And if they do, they should stop, because I'm sure they'll just develop a twitch of some kind.&lt;br /&gt;&lt;br /&gt;There only two contexts I can think of where winking is appropriate in real life. &lt;br /&gt;&lt;br /&gt;One: &amp;nbsp;If you are playing a joke on someone and want to let someone they are with in on the joke subtly. &amp;nbsp;A wink at that person while continuing the joking will get that message across, and then hopefully they'll get in on the joke and you'll all have some fun times.&lt;br /&gt;&lt;br /&gt;Two: &amp;nbsp;A pickup wink, done in jest. &amp;nbsp;Possibly accompanied by finger guns. &amp;nbsp;This works in almost any circumstance in life, and is generally delightful.&lt;br /&gt;&lt;br /&gt;That's it! &amp;nbsp;Those are the only two situations in which you should be winking! &amp;nbsp;Or maybe if you're trying to get a contact back in place. &amp;nbsp;But blinking would also accomplish this, so let's forget that one.&lt;br /&gt;&lt;br /&gt;Two!&lt;br /&gt;&lt;br /&gt;So, when I see people (and god help me, so many people do this) use the winky face after a comment they mean to be funny, all I can think is STOP STOP STOP! &amp;nbsp;If you need to use an emoticon (and I really must stress that no one &lt;i&gt;needs &lt;/i&gt;to use an emoticon) in that case, will the smiley face not do? &amp;nbsp;What is wrong with the good old smiley face? &amp;nbsp;Are you too good for the smiley face??&lt;br /&gt;&lt;br /&gt;Your cheekiness comes across as far less cheeky if you have to tell me you're being cheeky! &amp;nbsp;(Also, the work cheeky looks funny when you write it too many times. Cheeky.)&amp;nbsp;Would you really wink in real life after you said whatever you just said? &amp;nbsp;I thought not.&amp;nbsp;It's just dumb. &amp;nbsp;Stop it. &lt;br /&gt;&lt;br /&gt;However, if someone develops an emoticon for the double finger guns, I will have to bow to their genius and gladly allow all winky face/double finger gun emoticon combos, as they will be hilarious.</content>
+    <content type="html">I'm just going to come right out and say it. &amp;nbsp;I am not a huge fan of &lt;a href="http://en.wikipedia.org/wiki/Emoticon"&gt;emoticons&lt;/a&gt;. &amp;nbsp;I do not use a happy face to indicate happiness, or a sad face to indicate sadness. &amp;nbsp;I don't even use LOL when texting or IMing, as I prefer a simple "ha!" to get the idea of laughter accross.&lt;br /&gt;
+&lt;br /&gt;
+However, I will acknowledge that I am in the minority. &amp;nbsp;If there was a battle, I lost. &amp;nbsp;Emoticons have won, and I accept their place in the world. &amp;nbsp;I will even admit that they can make the tone of an email or text or whatever clear if the words themselves don't convey the proper meaning. &amp;nbsp;I don't use them myself, but if someone sends me a frowny face or a confused face, I understand their meaning and move on with my life.&lt;br /&gt;
+&lt;br /&gt;
+Except!&lt;br /&gt;
+&lt;br /&gt;
+The winky face. &amp;nbsp;If there is one emoticon I cannot stand, it is the winky face. &amp;nbsp;You know the one I mean:&lt;br /&gt;
+&lt;br /&gt;
+;)&lt;br /&gt;
+&lt;br /&gt;
+The intended meaning, as far as I'm aware, is to convey cheekiness or sassiness. &amp;nbsp;And it drives me up the freaking wall. &amp;nbsp;Because here is the thing. &amp;nbsp;In real life, people smile at each other, or frown, or have big smiles, or stick out their tongues (which, ugh), or look surprised. &amp;nbsp;All of which have a corresponding emoticon to convey these expressions.&lt;br /&gt;
+&lt;br /&gt;
+Do you know what people don't do? &amp;nbsp;Wink at each other. &amp;nbsp;Constantly wink at each other. &amp;nbsp;And if they do, they should stop, because I'm sure they'll just develop a twitch of some kind.&lt;br /&gt;
+&lt;br /&gt;
+There only two contexts I can think of where winking is appropriate in real life. &lt;br /&gt;
+&lt;br /&gt;
+One: &amp;nbsp;If you are playing a joke on someone and want to let someone they are with in on the joke subtly. &amp;nbsp;A wink at that person while continuing the joking will get that message across, and then hopefully they'll get in on the joke and you'll all have some fun times.&lt;br /&gt;
+&lt;br /&gt;
+Two: &amp;nbsp;A pickup wink, done in jest. &amp;nbsp;Possibly accompanied by finger guns. &amp;nbsp;This works in almost any circumstance in life, and is generally delightful.&lt;br /&gt;
+&lt;br /&gt;
+That's it! &amp;nbsp;Those are the only two situations in which you should be winking! &amp;nbsp;Or maybe if you're trying to get a contact back in place. &amp;nbsp;But blinking would also accomplish this, so let's forget that one.&lt;br /&gt;
+&lt;br /&gt;
+Two!&lt;br /&gt;
+&lt;br /&gt;
+So, when I see people (and god help me, so many people do this) use the winky face after a comment they mean to be funny, all I can think is STOP STOP STOP! &amp;nbsp;If you need to use an emoticon (and I really must stress that no one &lt;i&gt;needs &lt;/i&gt;to use an emoticon) in that case, will the smiley face not do? &amp;nbsp;What is wrong with the good old smiley face? &amp;nbsp;Are you too good for the smiley face??&lt;br /&gt;
+&lt;br /&gt;
+Your cheekiness comes across as far less cheeky if you have to tell me you're being cheeky! &amp;nbsp;(Also, the work cheeky looks funny when you write it too many times. Cheeky.)&amp;nbsp;Would you really wink in real life after you said whatever you just said? &amp;nbsp;I thought not.&amp;nbsp;It's just dumb. &amp;nbsp;Stop it. &lt;br /&gt;
+&lt;br /&gt;
+However, if someone develops an emoticon for the double finger guns, I will have to bow to their genius and gladly allow all winky face/double finger gun emoticon combos, as they will be hilarious.</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/7531594750365858516/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=7531594750365858516&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7531594750365858516"/>
@@ -720,7 +812,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-08-03T11:17:10.742+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 3 August</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s1600/P1020138.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s320/P1020138.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Cuba!</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s1600/P1020138.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s320/P1020138.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+Cuba!</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/554161128779465532/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=554161128779465532&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/554161128779465532"/>
@@ -741,7 +834,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-08-03T11:15:23.739+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 2 August</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s1600/P1020137.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s320/P1020137.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Bruges! It's my most multi-lingual mug, as it also says "Bruges" and "Brujas".</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s1600/P1020137.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s320/P1020137.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+Bruges! It's my most multi-lingual mug, as it also says "Bruges" and "Brujas".</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/7216084118869459974/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=7216084118869459974&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7216084118869459974"/>
@@ -762,7 +856,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-07-29T10:59:05.965+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 29 July</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s1600/P1020131.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s320/P1020131.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;The kings and queens of Scotland. &amp;nbsp;Educational!</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s1600/P1020131.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s320/P1020131.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+The kings and queens of Scotland. &amp;nbsp;Educational!</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/1387705541157207842/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=1387705541157207842&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/1387705541157207842"/>
@@ -783,7 +878,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-07-28T09:43:39.189+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 28 July</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s1600/P1020126.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s320/P1020126.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Barcelona is one of my favourite mugs. I think it's so pretty.</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s1600/P1020126.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s320/P1020126.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+Barcelona is one of my favourite mugs. I think it's so pretty.</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/6270089895786412367/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=6270089895786412367&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/6270089895786412367"/>
