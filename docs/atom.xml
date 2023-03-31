@@ -7,16 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-31T09:48:34Z</updated>
+  <updated>2023-03-31T10:13:34Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5</id>
-    <title type="html">My London: Lewis Goodall - Evening Standard</title>
-    <updated>2023-03-31T09:27:33.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" target="_blank"&gt;My London: Lewis Goodall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Today: Light Rain Showers, Minimum Temperature: 9°C (47°F) Maximum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -24,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 18mph, Visibility: Moderate, Pressure: 986mb, Humidity: 89%, UV Risk: 1, Pollution: Low, Sunrise: 06:39 BST, Sunset: 19:32 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-30T21:54:00.000+0000</id>
-    <published>2023-03-31T09:00:02Z</published>
-    <updated>2023-03-31T09:00:02Z</updated>
+    <published>2023-03-31T10:00:18Z</published>
+    <updated>2023-03-31T10:00:18Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (52°F)</title>
@@ -34,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1006mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-30T21:54:00.000+0000</id>
-    <published>2023-03-31T09:00:02Z</published>
-    <updated>2023-03-31T09:00:02Z</updated>
+    <published>2023-03-31T10:00:18Z</published>
+    <updated>2023-03-31T10:00:18Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 1°C (34°F) Maximum Temperature: 11°C (52°F)</title>
@@ -44,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 1°C (34°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1028mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 06:35 BST, Sunset: 19:35 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-30T21:54:00.000+0000</id>
-    <published>2023-03-31T09:00:02Z</published>
-    <updated>2023-03-31T09:00:02Z</updated>
+    <published>2023-03-31T10:00:18Z</published>
+    <updated>2023-03-31T10:00:18Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5</id>
+    <title type="html">My London: Lewis Goodall - Evening Standard</title>
+    <updated>2023-03-31T09:27:33.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" target="_blank"&gt;My London: Lewis Goodall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3JlZmVyZWUtYWJ1c2Uta2xvcHAtYXJ0ZXRhLWxpdmVycG9vbC0yOTU4MDcyNNIBAA?oc=5</id>
@@ -53,13 +53,6 @@
     <updated>2023-03-31T07:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3JlZmVyZWUtYWJ1c2Uta2xvcHAtYXJ0ZXRhLWxpdmVycG9vbC0yOTU4MDcyNNIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9zcG9ydC9mb290YmFsbC9uZXdzL3JlZmVyZWUtYWJ1c2Uta2xvcHAtYXJ0ZXRhLWxpdmVycG9vbC0yOTU4MDcyNNIBAA?oc=5" target="_blank"&gt;Impact of "appalling behaviour" towards referees realised amid ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9hbHRvbi1tYW5hZ2VyLWtldmluLWFkYWlyLWhhaWxzLWluZmx1ZW5jZS1vZi15b3VuZy1ndW5zLWFzLWhlLWxvb2tzLXRvLXRoZS1mdXR1cmUtNjA0Mzcw0gEA?oc=5</id>
-    <title type="html">Alton manager Kevin Adair hails influence of young guns as he ... - Farnham Herald</title>
-    <updated>2023-03-31T06:04:55.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMihQFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9hbHRvbi1tYW5hZ2VyLWtldmluLWFkYWlyLWhhaWxzLWluZmx1ZW5jZS1vZi15b3VuZy1ndW5zLWFzLWhlLWxvb2tzLXRvLXRoZS1mdXR1cmUtNjA0Mzcw0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihQFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9hbHRvbi1tYW5hZ2VyLWtldmluLWFkYWlyLWhhaWxzLWluZmx1ZW5jZS1vZi15b3VuZy1ndW5zLWFzLWhlLWxvb2tzLXRvLXRoZS1mdXR1cmUtNjA0Mzcw0gEA?oc=5" target="_blank"&gt;Alton manager Kevin Adair hails influence of young guns as he ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Farnham Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnZlZ2FuZm9vZGFuZGxpdmluZy5jb20vbmV3cy9sYS1mYXV4bWFnZXJpZS12ZWdhbi1jaGVlc2UtMTA0LXdhaXRyb3NlLXN0b3Jlcy_SAQA?oc=5</id>
@@ -106,6 +99,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5</id>
+    <title type="html">Mexican restaurant 1910 to open in Parsons Green - Hot Dinners</title>
+    <updated>2023-03-29T07:08:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Harris hawk in the rain</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
