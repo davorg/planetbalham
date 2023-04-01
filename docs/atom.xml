@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-01T15:12:50Z</updated>
+  <updated>2023-04-01T15:48:47Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Thick Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1009mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 7°C (44°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1009mb, Humidity: 71%, UV Risk: 1, Pollution: Low, Sunrise: 06:37 BST, Sunset: 19:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-01T07:55:00.000+0000</id>
-    <published>2023-04-01T15:00:08Z</published>
-    <updated>2023-04-01T15:00:08Z</updated>
+    <published>2023-04-01T15:18:48Z</published>
+    <updated>2023-04-01T15:18:48Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 1°C (35°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 06:35 BST, Sunset: 19:35 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 1°C (35°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 06:35 BST, Sunset: 19:35 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-01T07:55:00.000+0000</id>
-    <published>2023-04-01T15:00:08Z</published>
-    <updated>2023-04-01T15:00:08Z</updated>
+    <published>2023-04-01T15:18:48Z</published>
+    <updated>2023-04-01T15:18:48Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny, Minimum Temperature: 0°C (32°F) Maximum Temperature: 11°C (51°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (51°F), Minimum Temperature: 0°C (32°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1032mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 06:32 BST, Sunset: 19:36 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-01T07:55:00.000+0000</id>
-    <published>2023-04-01T15:00:08Z</published>
-    <updated>2023-04-01T15:00:08Z</updated>
+    <published>2023-04-01T15:18:48Z</published>
+    <updated>2023-04-01T15:18:48Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5</id>
@@ -46,20 +46,6 @@
     <updated>2023-04-01T06:45:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5" target="_blank"&gt;South London's new Colombian bakery that serves fresh bread in the morning and South American steak at night&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMifmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGV5LWFyZS1zaGVyaWZmcy1pbi1hLWxhd2xlc3MtY291bnRyeS1ncmVnLWNydXR0d2VsbC1vbi1oaXMtbGF0ZXN0LWZpbG0tYWJvdXQtZ3Jhc3Nyb290LXJlZmVyZWVzL9IBAA?oc=5</id>
-    <title type="html">'They are sheriffs in a lawless country': Greg Cruttwell on In the Middle - Sports Gazette</title>
-    <updated>2023-03-31T11:54:35.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMifmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGV5LWFyZS1zaGVyaWZmcy1pbi1hLWxhd2xlc3MtY291bnRyeS1ncmVnLWNydXR0d2VsbC1vbi1oaXMtbGF0ZXN0LWZpbG0tYWJvdXQtZ3Jhc3Nyb290LXJlZmVyZWVzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMifmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGV5LWFyZS1zaGVyaWZmcy1pbi1hLWxhd2xlc3MtY291bnRyeS1ncmVnLWNydXR0d2VsbC1vbi1oaXMtbGF0ZXN0LWZpbG0tYWJvdXQtZ3Jhc3Nyb290LXJlZmVyZWVzL9IBAA?oc=5" target="_blank"&gt;'They are sheriffs in a lawless country': Greg Cruttwell on In the Middle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sports Gazette&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd2FuZHN3b3J0aC5nb3YudWsvbmV3cy9uZXdzLW1hcmNoLTIwMjMvbmV3LWdyYW50cy1mdW5kLXdpbGwtaGVscC1jb21tdW5pdHktZ3JvdXBzLXN1cHBvcnQtcmVmdWdlZXMv0gEA?oc=5</id>
-    <title type="html">New grants fund will help community groups support refugees ... - Wandsworth Council</title>
-    <updated>2023-03-31T10:41:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd2FuZHN3b3J0aC5nb3YudWsvbmV3cy9uZXdzLW1hcmNoLTIwMjMvbmV3LWdyYW50cy1mdW5kLXdpbGwtaGVscC1jb21tdW5pdHktZ3JvdXBzLXN1cHBvcnQtcmVmdWdlZXMv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd2FuZHN3b3J0aC5nb3YudWsvbmV3cy9uZXdzLW1hcmNoLTIwMjMvbmV3LWdyYW50cy1mdW5kLXdpbGwtaGVscC1jb21tdW5pdHktZ3JvdXBzLXN1cHBvcnQtcmVmdWdlZXMv0gEA?oc=5" target="_blank"&gt;New grants fund will help community groups support refugees ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5</id>
@@ -74,6 +60,13 @@
     <updated>2023-03-31T07:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nwb3J0L3NvY2Nlci9yZWZlcmVlLWFidXNlLWtsb3BwLWFydGV0YS1saXZlcnBvb2wtMjk1OTUwNjPSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nwb3J0L3NvY2Nlci9yZWZlcmVlLWFidXNlLWtsb3BwLWFydGV0YS1saXZlcnBvb2wtMjk1OTUwNjPSAQA?oc=5" target="_blank"&gt;Impact of "appalling behaviour" towards referees realised amid ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Irish Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnZlZ2FuZm9vZGFuZGxpdmluZy5jb20vbmV3cy9sYS1mYXV4bWFnZXJpZS12ZWdhbi1jaGVlc2UtMTA0LXdhaXRyb3NlLXN0b3Jlcy_SAQA?oc=5</id>
+    <title type="html">La Fauxmagerie vegan cheese to roll out to 104 Waitrose stores ... - Vegan Food and Living</title>
+    <updated>2023-03-30T13:46:04.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3LnZlZ2FuZm9vZGFuZGxpdmluZy5jb20vbmV3cy9sYS1mYXV4bWFnZXJpZS12ZWdhbi1jaGVlc2UtMTA0LXdhaXRyb3NlLXN0b3Jlcy_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3LnZlZ2FuZm9vZGFuZGxpdmluZy5jb20vbmV3cy9sYS1mYXV4bWFnZXJpZS12ZWdhbi1jaGVlc2UtMTA0LXdhaXRyb3NlLXN0b3Jlcy_SAQA?oc=5" target="_blank"&gt;La Fauxmagerie vegan cheese to roll out to 104 Waitrose stores ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Vegan Food and Living&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
@@ -106,6 +99,13 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5</id>
+    <title type="html">Mexican restaurant 1910 to open in Parsons Green - Hot Dinners</title>
+    <updated>2023-03-29T07:08:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDMyOTEyMjE5L0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvMTkxMC1tZXhpY2FuLXJlc3RhdXJhbnQtcGFyc29ucy1ncmVlbi1sb25kb24tb3BlbmluZ9IBAA?oc=5" target="_blank"&gt;Mexican restaurant 1910 to open in Parsons Green&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hot Dinners&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Harris hawk in the rain</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
@@ -723,7 +723,8 @@ run away!&amp;#8221; which I promptly did. Hilarious.&lt;/p&gt;
     <published>2012-03-07T00:25:00.001+00:00</published>
     <updated>2012-03-07T00:29:21.589+00:00</updated>
     <title type="text">The Drugworker</title>
-    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
+    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;
+&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
     <link rel="replies" type="application/atom+xml" href="http://vendazero.blogspot.com/feeds/3761671694906136916/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2520155091800184&amp;postID=3761671694906136916" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3761671694906136916"/>
