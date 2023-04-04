@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-04T06:13:53Z</updated>
+  <updated>2023-04-04T06:48:41Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -41,13 +41,6 @@
     <updated>2023-04-04T06:07:34Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbNIBU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s?oc=5</id>
-    <title type="html">6,000 luxury watches stolen in London last year - Yahoo Eurosport UK</title>
-    <updated>2023-04-03T13:01:03.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiS2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbNIBU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiS2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbNIBU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s?oc=5" target="_blank"&gt;6,000 luxury watches stolen in London last year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmRlemVlbi5jb20vMjAyMy8wNC8wMy9tb2Rlcm4tc3ludGhlc2lzLWJhY3RlcmlhLWJpb21hdGVyaWFsLWZhYnJpYy_SAVNodHRwczovL3d3dy5kZXplZW4uY29tLzIwMjMvMDQvMDMvbW9kZXJuLXN5bnRoZXNpcy1iYWN0ZXJpYS1iaW9tYXRlcmlhbC1mYWJyaWMvYW1wLw?oc=5</id>
     <title type="html">Modern Synthesis uses bacteria to create biomaterial fabric - Dezeen</title>
     <updated>2023-04-03T09:00:00.000000000Z</updated>
@@ -69,11 +62,18 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL29wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLWVuZHMtaW4tc2UtcmVnaW9uLTk3OTYzMy_SAQA?oc=5" target="_blank"&gt;Operation Victor Virgae Ends in SE Region&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirage News&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5</id>
-    <title type="html">South London's new Colombian bakery that serves fresh bread in the morning and South American steak at night - My London</title>
-    <updated>2023-04-01T06:45:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5" target="_blank"&gt;South London's new Colombian bakery that serves fresh bread in the morning and South American steak at night&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMifmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGV5LWFyZS1zaGVyaWZmcy1pbi1hLWxhd2xlc3MtY291bnRyeS1ncmVnLWNydXR0d2VsbC1vbi1oaXMtbGF0ZXN0LWZpbG0tYWJvdXQtZ3Jhc3Nyb290LXJlZmVyZWVzL9IBAA?oc=5</id>
+    <title type="html">'They are sheriffs in a lawless country': Greg Cruttwell on In the Middle - Sports Gazette</title>
+    <updated>2023-03-31T11:54:35.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMifmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGV5LWFyZS1zaGVyaWZmcy1pbi1hLWxhd2xlc3MtY291bnRyeS1ncmVnLWNydXR0d2VsbC1vbi1oaXMtbGF0ZXN0LWZpbG0tYWJvdXQtZ3Jhc3Nyb290LXJlZmVyZWVzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMifmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGV5LWFyZS1zaGVyaWZmcy1pbi1hLWxhd2xlc3MtY291bnRyeS1ncmVnLWNydXR0d2VsbC1vbi1oaXMtbGF0ZXN0LWZpbG0tYWJvdXQtZ3Jhc3Nyb290LXJlZmVyZWVzL9IBAA?oc=5" target="_blank"&gt;'They are sheriffs in a lawless country': Greg Cruttwell on In the Middle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sports Gazette&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5</id>
+    <title type="html">My London: Lewis Goodall - Evening Standard</title>
+    <updated>2023-03-31T09:27:33.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbXktbG9uZG9uLXRoZS1uZXdzLWFnZW50cy1wb2RjYXN0LXByZXNlbnRlci1sZXdpcy1nb29kYWxsLWIxMDcxMDA4Lmh0bWzSAQA?oc=5" target="_blank"&gt;My London: Lewis Goodall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
@@ -103,35 +103,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Harris hawk in the rain</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
-    <id>tag:flickr.com,2005:/photo/52777028314</id>
-    <published>2023-03-28T11:49:03Z</published>
-    <updated>2023-03-28T11:49:03Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -231,6 +202,43 @@
     <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>March 14th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52747994023/"/>
+    <id>tag:flickr.com,2005:/photo/52747994023</id>
+    <published>2023-03-14T18:11:50Z</published>
+    <updated>2023-03-14T18:11:50Z</updated>
+    <flickr:date_taken>2023-03-14T11:43:22-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-14T11:43:22-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52747994023/" title="March 14th"&gt;&lt;img src="https://live.staticflickr.com/65535/52747994023_ae7348e71e_m.jpg" width="240" height="148" alt="March 14th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Southern train passing through Tooting Common between Balham and Streatham Common stations&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52747994023_ae7348e71e_b.jpg"/>
+    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="slow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stopping" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
