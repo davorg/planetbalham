@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-04T12:14:44Z</updated>
+  <updated>2023-04-04T12:54:09Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaGF2ZS15b3VyLXNheS1vbi1wbGFucy10by1leHRlbmQtMzE1LWJ1cy1yb3V0ZS0xNzg1NzLSAQA?oc=5" target="_blank"&gt;Have your say on plans to extend 315 bus route&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvd2F0Y2gtdGhlZnQtbG9uZG9uLW11Z2dpbmctcm9iYmVyeS1tZXRyb3BvbGl0YW4tcG9saWNlLWIxMDcxODU4Lmh0bWzSAQA?oc=5</id>
+    <title type="html">6000 luxury watches stolen in London last year - Evening Standard</title>
+    <updated>2023-04-03T13:01:03.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvd2F0Y2gtdGhlZnQtbG9uZG9uLW11Z2dpbmctcm9iYmVyeS1tZXRyb3BvbGl0YW4tcG9saWNlLWIxMDcxODU4Lmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvd2F0Y2gtdGhlZnQtbG9uZG9uLW11Z2dpbmctcm9iYmVyeS1tZXRyb3BvbGl0YW4tcG9saWNlLWIxMDcxODU4Lmh0bWzSAQA?oc=5" target="_blank"&gt;6000 luxury watches stolen in London last year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmRlemVlbi5jb20vMjAyMy8wNC8wMy9tb2Rlcm4tc3ludGhlc2lzLWJhY3RlcmlhLWJpb21hdGVyaWFsLWZhYnJpYy_SAVNodHRwczovL3d3dy5kZXplZW4uY29tLzIwMjMvMDQvMDMvbW9kZXJuLXN5bnRoZXNpcy1iYWN0ZXJpYS1iaW9tYXRlcmlhbC1mYWJyaWMvYW1wLw?oc=5</id>
     <title type="html">Modern Synthesis uses bacteria to create biomaterial fabric - Dezeen</title>
     <updated>2023-04-03T09:00:00.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2023-04-03T08:14:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3Mvd2FuZHN3b3J0aC1jb3VuY2lsLXN1cHBvcnRzLTIwbXBoLXNwZWVkLWxpbWl0LW9uLWNsYXBoYW0tY29tbW9uLXNvdXRoc2lkZS0xNzgzNDTSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3Mvd2FuZHN3b3J0aC1jb3VuY2lsLXN1cHBvcnRzLTIwbXBoLXNwZWVkLWxpbWl0LW9uLWNsYXBoYW0tY29tbW9uLXNvdXRoc2lkZS0xNzgzNDTSAQA?oc=5" target="_blank"&gt;Wandsworth Council supports 20mph speed limit on Clapham ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjMvMDQvMDMvY2xvc3VyZS1vZi1vcGVyYXRpb24tdmljdG9yLXZpcmdhZS1zb3V0aC1lYXN0ZXJuLXJlZ2lvbi_SAWhodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDIzLzA0LzAzL2Nsb3N1cmUtb2Ytb3BlcmF0aW9uLXZpY3Rvci12aXJnYWUtc291dGgtZWFzdGVybi1yZWdpb24vYW1wLw?oc=5</id>
-    <title type="html">Closure of ‘Operation Victor Virgae’, South Eastern Region - myPolice</title>
-    <updated>2023-04-03T02:09:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjMvMDQvMDMvY2xvc3VyZS1vZi1vcGVyYXRpb24tdmljdG9yLXZpcmdhZS1zb3V0aC1lYXN0ZXJuLXJlZ2lvbi_SAWhodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDIzLzA0LzAzL2Nsb3N1cmUtb2Ytb3BlcmF0aW9uLXZpY3Rvci12aXJnYWUtc291dGgtZWFzdGVybi1yZWdpb24vYW1wLw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjMvMDQvMDMvY2xvc3VyZS1vZi1vcGVyYXRpb24tdmljdG9yLXZpcmdhZS1zb3V0aC1lYXN0ZXJuLXJlZ2lvbi_SAWhodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDIzLzA0LzAzL2Nsb3N1cmUtb2Ytb3BlcmF0aW9uLXZpY3Rvci12aXJnYWUtc291dGgtZWFzdGVybi1yZWdpb24vYW1wLw?oc=5" target="_blank"&gt;Closure of ‘Operation Victor Virgae’, South Eastern Region&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;myPolice&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
