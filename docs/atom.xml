@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-04T12:54:09Z</updated>
+  <updated>2023-04-04T13:13:59Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Sunny, Minimum Temperature: 1°C (34°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 1°C (34°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1027mb, Humidity: 47%, UV Risk: 5, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:38 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 1°C (34°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1026mb, Humidity: 47%, UV Risk: 5, Pollution: Low, Sunrise: 06:30 BST, Sunset: 19:38 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-04T07:54:00.000+0000</id>
-    <published>2023-04-04T12:12:44Z</published>
-    <updated>2023-04-04T12:12:44Z</updated>
+    <published>2023-04-04T13:12:42Z</published>
+    <updated>2023-04-04T13:12:42Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Drizzle, Minimum Temperature: 8°C (46°F) Maximum Temperature: 12°C (54°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 66%, UV Risk: 3, Pollution: Low, Sunrise: 06:28 BST, Sunset: 19:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-04T07:54:00.000+0000</id>
-    <published>2023-04-04T12:12:44Z</published>
-    <updated>2023-04-04T12:12:44Z</updated>
+    <published>2023-04-04T13:12:42Z</published>
+    <updated>2023-04-04T13:12:42Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain, Minimum Temperature: 3°C (37°F) Maximum Temperature: 12°C (54°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 3°C (37°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 06:26 BST, Sunset: 19:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-04T07:54:00.000+0000</id>
-    <published>2023-04-04T12:12:44Z</published>
-    <updated>2023-04-04T12:12:44Z</updated>
+    <published>2023-04-04T13:12:42Z</published>
+    <updated>2023-04-04T13:12:42Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lmdsb2JhbHJhaWx3YXlyZXZpZXcuY29tL25ld3MvMTQyOTQyL21ham9yLXJhaWx3YXktZW5naW5lZXJpbmctd29ya3MtYnJpdGFpbi1lYXN0ZXIv0gEA?oc=5</id>
@@ -55,11 +55,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaGF2ZS15b3VyLXNheS1vbi1wbGFucy10by1leHRlbmQtMzE1LWJ1cy1yb3V0ZS0xNzg1NzLSAQA?oc=5" target="_blank"&gt;Have your say on plans to extend 315 bus route&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvd2F0Y2gtdGhlZnQtbG9uZG9uLW11Z2dpbmctcm9iYmVyeS1tZXRyb3BvbGl0YW4tcG9saWNlLWIxMDcxODU4Lmh0bWzSAQA?oc=5</id>
-    <title type="html">6000 luxury watches stolen in London last year - Evening Standard</title>
+    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s0gFMaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbA?oc=5</id>
+    <title type="html">6,000 luxury watches stolen in London last year - Yahoo News UK</title>
     <updated>2023-04-03T13:01:03.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvd2F0Y2gtdGhlZnQtbG9uZG9uLW11Z2dpbmctcm9iYmVyeS1tZXRyb3BvbGl0YW4tcG9saWNlLWIxMDcxODU4Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvd2F0Y2gtdGhlZnQtbG9uZG9uLW11Z2dpbmctcm9iYmVyeS1tZXRyb3BvbGl0YW4tcG9saWNlLWIxMDcxODU4Lmh0bWzSAQA?oc=5" target="_blank"&gt;6000 luxury watches stolen in London last year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s0gFMaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s0gFMaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbA?oc=5" target="_blank"&gt;6,000 luxury watches stolen in London last year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmRlemVlbi5jb20vMjAyMy8wNC8wMy9tb2Rlcm4tc3ludGhlc2lzLWJhY3RlcmlhLWJpb21hdGVyaWFsLWZhYnJpYy_SAVNodHRwczovL3d3dy5kZXplZW4uY29tLzIwMjMvMDQvMDMvbW9kZXJuLXN5bnRoZXNpcy1iYWN0ZXJpYS1iaW9tYXRlcmlhbC1mYWJyaWMvYW1wLw?oc=5</id>
