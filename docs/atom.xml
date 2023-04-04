@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-04T10:13:15Z</updated>
+  <updated>2023-04-04T10:48:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -41,6 +41,13 @@
     <updated>2023-04-04T10:10:26Z</updated>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaGF2ZS15b3VyLXNheS1vbi1wbGFucy10by1leHRlbmQtMzE1LWJ1cy1yb3V0ZS0xNzg1NzLSAQA?oc=5</id>
+    <title type="html">Have your say on plans to extend 315 bus route - Clapham Nub News</title>
+    <updated>2023-04-04T09:43:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaGF2ZS15b3VyLXNheS1vbi1wbGFucy10by1leHRlbmQtMzE1LWJ1cy1yb3V0ZS0xNzg1NzLSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaGF2ZS15b3VyLXNheS1vbi1wbGFucy10by1leHRlbmQtMzE1LWJ1cy1yb3V0ZS0xNzg1NzLSAQA?oc=5" target="_blank"&gt;Have your say on plans to extend 315 bus route&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYtMDAwLWx1eHVyeS13YXRjaGVzLXN0b2xlbi0xMzAxMDM5NzcuaHRtbNIBU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvNi0wMDAtbHV4dXJ5LXdhdGNoZXMtc3RvbGVuLTEzMDEwMzk3Ny5odG1s?oc=5</id>
     <title type="html">6,000 luxury watches stolen in London last year - Yahoo Eurosport UK</title>
     <updated>2023-04-03T13:01:03.000000000Z</updated>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3Mvd2FuZHN3b3J0aC1jb3VuY2lsLXN1cHBvcnRzLTIwbXBoLXNwZWVkLWxpbWl0LW9uLWNsYXBoYW0tY29tbW9uLXNvdXRoc2lkZS0xNzgzNDTSAQA?oc=5" target="_blank"&gt;Wandsworth Council supports 20mph speed limit on Clapham ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9nb2xkY29hc3QvMjAyMy8wNC8wMy9jbG9zdXJlLW9mLW9wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLXNvdXRoLWVhc3Rlcm4tcmVnaW9uL9IBbWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9nb2xkY29hc3QvMjAyMy8wNC8wMy9jbG9zdXJlLW9mLW9wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLXNvdXRoLWVhc3Rlcm4tcmVnaW9uL2FtcC8?oc=5</id>
+    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjMvMDQvMDMvY2xvc3VyZS1vZi1vcGVyYXRpb24tdmljdG9yLXZpcmdhZS1zb3V0aC1lYXN0ZXJuLXJlZ2lvbi_SAWhodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDIzLzA0LzAzL2Nsb3N1cmUtb2Ytb3BlcmF0aW9uLXZpY3Rvci12aXJnYWUtc291dGgtZWFzdGVybi1yZWdpb24vYW1wLw?oc=5</id>
     <title type="html">Closure of ‘Operation Victor Virgae’, South Eastern Region - myPolice</title>
     <updated>2023-04-03T02:09:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9nb2xkY29hc3QvMjAyMy8wNC8wMy9jbG9zdXJlLW9mLW9wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLXNvdXRoLWVhc3Rlcm4tcmVnaW9uL9IBbWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9nb2xkY29hc3QvMjAyMy8wNC8wMy9jbG9zdXJlLW9mLW9wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLXNvdXRoLWVhc3Rlcm4tcmVnaW9uL2FtcC8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9nb2xkY29hc3QvMjAyMy8wNC8wMy9jbG9zdXJlLW9mLW9wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLXNvdXRoLWVhc3Rlcm4tcmVnaW9uL9IBbWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9nb2xkY29hc3QvMjAyMy8wNC8wMy9jbG9zdXJlLW9mLW9wZXJhdGlvbi12aWN0b3ItdmlyZ2FlLXNvdXRoLWVhc3Rlcm4tcmVnaW9uL2FtcC8?oc=5" target="_blank"&gt;Closure of ‘Operation Victor Virgae’, South Eastern Region&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;myPolice&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5</id>
-    <title type="html">South London's new Colombian bakery that serves fresh bread in the morning and South American steak at night - My London</title>
-    <updated>2023-04-01T06:45:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9zb3V0aC1sb25kb25zLW5ldy1jb2xvbWJpYW4tYmFrZXJ5LTI2NTk1NDIy0gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy93aGF0cy1vbi93aGF0cy1vbi1uZXdzL3NvdXRoLWxvbmRvbnMtbmV3LWNvbG9tYmlhbi1iYWtlcnktMjY1OTU0MjIuYW1w?oc=5" target="_blank"&gt;South London's new Colombian bakery that serves fresh bread in the morning and South American steak at night&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjMvMDQvMDMvY2xvc3VyZS1vZi1vcGVyYXRpb24tdmljdG9yLXZpcmdhZS1zb3V0aC1lYXN0ZXJuLXJlZ2lvbi_SAWhodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDIzLzA0LzAzL2Nsb3N1cmUtb2Ytb3BlcmF0aW9uLXZpY3Rvci12aXJnYWUtc291dGgtZWFzdGVybi1yZWdpb24vYW1wLw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjMvMDQvMDMvY2xvc3VyZS1vZi1vcGVyYXRpb24tdmljdG9yLXZpcmdhZS1zb3V0aC1lYXN0ZXJuLXJlZ2lvbi_SAWhodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDIzLzA0LzAzL2Nsb3N1cmUtb2Ytb3BlcmF0aW9uLXZpY3Rvci12aXJnYWUtc291dGgtZWFzdGVybi1yZWdpb24vYW1wLw?oc=5" target="_blank"&gt;Closure of ‘Operation Victor Virgae’, South Eastern Region&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;myPolice&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
@@ -201,38 +201,36 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 14th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52747994023/"/>
-    <id>tag:flickr.com,2005:/photo/52747994023</id>
-    <published>2023-03-14T18:11:50Z</published>
-    <updated>2023-03-14T18:11:50Z</updated>
-    <flickr:date_taken>2023-03-14T11:43:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-14T11:43:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
+    <id>tag:flickr.com,2005:/photo/52757992909</id>
+    <published>2023-03-19T18:38:14Z</published>
+    <updated>2023-03-19T18:38:14Z</updated>
+    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52747994023/" title="March 14th"&gt;&lt;img src="https://live.staticflickr.com/65535/52747994023_ae7348e71e_m.jpg" width="240" height="148" alt="March 14th" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Southern train passing through Tooting Common between Balham and Streatham Common stations&lt;/p&gt;
+&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52747994023_ae7348e71e_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
+    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="slow" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stopping" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
