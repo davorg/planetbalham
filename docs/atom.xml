@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-12T07:12:57Z</updated>
+  <updated>2023-04-12T07:48:32Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM0NDcyOTUuc291dGhlcm4tbm8tdHJhaW5zLWVhc3QtY3JveWRvbi12aWN0b3JpYS13ZWVrZW5kL9IBAA?oc=5" target="_blank"&gt;Southern: No trains between East Croydon and Victoria this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTcwOS1jZW50cy9uZXdzLXN0b3J5L2M2OTE3YjNmYzM2MmYxMjhhOGI5ZDM4MDJhNGVmYTU20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzA5LWNlbnRzL25ld3Mtc3RvcnkvYzY5MTdiM2ZjMzYyZjEyOGE4YjlkMzgwMmE0ZWZhNTY_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 170.9 cents - Courier Mail</title>
+    <updated>2023-04-11T23:26:15.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTcwOS1jZW50cy9uZXdzLXN0b3J5L2M2OTE3YjNmYzM2MmYxMjhhOGI5ZDM4MDJhNGVmYTU20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzA5LWNlbnRzL25ld3Mtc3RvcnkvYzY5MTdiM2ZjMzYyZjEyOGE4YjlkMzgwMmE0ZWZhNTY_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTcwOS1jZW50cy9uZXdzLXN0b3J5L2M2OTE3YjNmYzM2MmYxMjhhOGI5ZDM4MDJhNGVmYTU20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzA5LWNlbnRzL25ld3Mtc3RvcnkvYzY5MTdiM2ZjMzYyZjEyOGE4YjlkMzgwMmE0ZWZhNTY_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 170.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNC8xMS90b290aW5nLWxpdmluZy10aGUtdmlicmFudC1zb3V0aC1sb25kb24tZ2VtLXdpdGgtdmljdG9yaWFuLWNoYXJtLTE4NTg0NDQ2L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNC8xMS90b290aW5nLWxpdmluZy10aGUtdmlicmFudC1zb3V0aC1sb25kb24tZ2VtLXdpdGgtdmljdG9yaWFuLWNoYXJtLTE4NTg0NDQ2L2FtcC8?oc=5</id>
     <title type="html">Tooting living: the vibrant South London gem with Victorian charm - Metro.co.uk</title>
     <updated>2023-04-11T18:00:00.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2023-04-11T14:22:28.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3LmRlcmJ5dGVsZWdyYXBoLmNvLnVrL25ld3MvZGVyYnktbmV3cy9nYW5nLXNlbnRlbmNlZC1hZnRlci1tYXNzLWJyYXdsLTgzNDIwOTnSAVxodHRwczovL3d3dy5kZXJieXRlbGVncmFwaC5jby51ay9uZXdzL2RlcmJ5LW5ld3MvZ2FuZy1zZW50ZW5jZWQtYWZ0ZXItbWFzcy1icmF3bC04MzQyMDk5LmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3LmRlcmJ5dGVsZWdyYXBoLmNvLnVrL25ld3MvZGVyYnktbmV3cy9nYW5nLXNlbnRlbmNlZC1hZnRlci1tYXNzLWJyYXdsLTgzNDIwOTnSAVxodHRwczovL3d3dy5kZXJieXRlbGVncmFwaC5jby51ay9uZXdzL2RlcmJ5LW5ld3MvZ2FuZy1zZW50ZW5jZWQtYWZ0ZXItbWFzcy1icmF3bC04MzQyMDk5LmFtcA?oc=5" target="_blank"&gt;Gang sentenced after mass brawl at Woodpecker pub in Mackworth following England's Euro final loss&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Derbyshire Live&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNC9uZXctd2lkZXItc3RhaXJjYXNlLWF0LWNsYXBoYW0tanVuY3Rpb24tc3RhdGlvbi1pbXByb3Zlcy1jYXBhY2l0eS5odG1s0gFvaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA0L25ldy13aWRlci1zdGFpcmNhc2UtYXQtY2xhcGhhbS1qdW5jdGlvbi1zdGF0aW9uLWltcHJvdmVzLWNhcGFjaXR5Lmh0bWwvYW1w?oc=5</id>
-    <title type="html">New, wider staircase at Clapham Junction station improves capacity - RailAdvent - Railway News</title>
-    <updated>2023-04-11T14:11:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNC9uZXctd2lkZXItc3RhaXJjYXNlLWF0LWNsYXBoYW0tanVuY3Rpb24tc3RhdGlvbi1pbXByb3Zlcy1jYXBhY2l0eS5odG1s0gFvaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA0L25ldy13aWRlci1zdGFpcmNhc2UtYXQtY2xhcGhhbS1qdW5jdGlvbi1zdGF0aW9uLWltcHJvdmVzLWNhcGFjaXR5Lmh0bWwvYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNC9uZXctd2lkZXItc3RhaXJjYXNlLWF0LWNsYXBoYW0tanVuY3Rpb24tc3RhdGlvbi1pbXByb3Zlcy1jYXBhY2l0eS5odG1s0gFvaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA0L25ldy13aWRlci1zdGFpcmNhc2UtYXQtY2xhcGhhbS1qdW5jdGlvbi1zdGF0aW9uLWltcHJvdmVzLWNhcGFjaXR5Lmh0bWwvYW1w?oc=5" target="_blank"&gt;New, wider staircase at Clapham Junction station improves capacity&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
