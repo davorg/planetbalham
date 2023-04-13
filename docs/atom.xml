@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-13T13:14:01Z</updated>
+  <updated>2023-04-13T13:48:51Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 12°C (53°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 3°C (37°F) Maximum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (53°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1003mb, Humidity: 49%, UV Risk: 4, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 3°C (37°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1003mb, Humidity: 49%, UV Risk: 4, Pollution: Low, Sunrise: 06:10 BST, Sunset: 19:53 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-13T09:54:00.000+0000</id>
-    <published>2023-04-13T13:01:46Z</published>
-    <updated>2023-04-13T13:01:46Z</updated>
+    <published>2023-04-13T13:34:13Z</published>
+    <updated>2023-04-13T13:34:13Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 10°C (51°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1004mb, Humidity: 78%, UV Risk: 1, Pollution: Low, Sunrise: 06:08 BST, Sunset: 19:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-13T09:54:00.000+0000</id>
-    <published>2023-04-13T13:01:46Z</published>
-    <updated>2023-04-13T13:01:46Z</updated>
+    <published>2023-04-13T13:34:13Z</published>
+    <updated>2023-04-13T13:34:13Z</updated>
   </entry>
   <entry>
     <title>Saturday: Drizzle, Minimum Temperature: 5°C (41°F) Maximum Temperature: 14°C (58°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 5°C (41°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-13T09:54:00.000+0000</id>
-    <published>2023-04-13T13:01:46Z</published>
-    <updated>2023-04-13T13:01:46Z</updated>
+    <published>2023-04-13T13:34:13Z</published>
+    <updated>2023-04-13T13:34:13Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9iYWRzaG90LWxlYS1jby1tYW5hZ2VyLWdhdmluLXNtaXRoLWNoYWxsZW5nZXMtc2lkZS10by1rZWVwLXByb21vdGlvbi1ob3Blcy1hbGl2ZS02MDcyNDjSAQA?oc=5</id>
