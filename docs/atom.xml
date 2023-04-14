@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-14T20:13:11Z</updated>
+  <updated>2023-04-14T20:48:39Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -171,6 +171,35 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Water off a hawk's back</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
+    <id>tag:flickr.com,2005:/photo/52777252443</id>
+    <published>2023-03-28T11:49:02Z</published>
+    <updated>2023-03-28T11:49:02Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;
+</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Streatham Hill to Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
     <id>tag:flickr.com,2005:/photo/52770779148</id>
@@ -203,41 +232,6 @@
     <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sidings" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
-    <id>tag:flickr.com,2005:/photo/52757992909</id>
-    <published>2023-03-19T18:38:14Z</published>
-    <updated>2023-03-19T18:38:14Z</updated>
-    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
-</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
-    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
