@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-15T17:48:49Z</updated>
+  <updated>2023-04-15T18:13:30Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 5°C (41°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 5°C (41°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 82%, UV Risk: 2, Pollution: Low, Sunset: 19:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 5°C (41°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1025mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-15T09:47:00.000+0000</id>
-    <published>2023-04-15T17:04:02Z</published>
-    <updated>2023-04-15T17:04:02Z</updated>
+    <published>2023-04-15T18:04:51Z</published>
+    <updated>2023-04-15T18:04:51Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (40°F) Maximum Temperature: 15°C (59°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (40°F) Maximum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1026mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 4°C (40°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1026mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-15T09:47:00.000+0000</id>
-    <published>2023-04-15T17:04:02Z</published>
-    <updated>2023-04-15T17:04:02Z</updated>
+    <published>2023-04-15T18:04:51Z</published>
+    <updated>2023-04-15T18:04:51Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (40°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 5°C (40°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-15T09:47:00.000+0000</id>
-    <published>2023-04-15T17:04:02Z</published>
-    <updated>2023-04-15T17:04:02Z</updated>
+    <published>2023-04-15T18:04:51Z</published>
+    <updated>2023-04-15T18:04:51Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMioAFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3JlbnRpbmcvcmV2ZWFsZWQtdGhlLWV4cGxvc2lvbi1vZi10aGUtcHMxLTAwMC1yb29tLWFzLXN3YXRoZXMtb2YtbG9uZG9uLWJlY29tZS11bmFmZm9yZGFibGUtdG8tcmVudGVycy1iMTA3Mjc3Ni5odG1s0gEA?oc=5</id>
@@ -61,19 +61,54 @@
     <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5LzhhOTQ5NTU4NjRhM2U0MGYxZWExYTRjNDQ0YjU4MjFh0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvOGE5NDk1NTg2NGEzZTQwZjFlYTFhNGM0NDRiNTgyMWE_YW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5LzhhOTQ5NTU4NjRhM2U0MGYxZWExYTRjNDQ0YjU4MjFh0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvOGE5NDk1NTg2NGEzZTQwZjFlYTFhNGM0NDRiNTgyMWE_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 179.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3Lm1vcnRnYWdlc29sdXRpb25zLmNvLnVrL3lvdXItY29tbXVuaXR5LzIwMjMvMDQvMTIvY29yZWNvcy1tb250bGFrZS10by1ob3N0LWNvbmNlcnQtdG8tcmFpc2UtbW9uZXktZm9yLWNvbWljLXJlbGllZi_SAQA?oc=5</id>
-    <title type="html">Coreco’s Montlake to host concert to raise money for Comic Relief - Mortgage Solutions</title>
-    <updated>2023-04-12T12:24:17.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3Lm1vcnRnYWdlc29sdXRpb25zLmNvLnVrL3lvdXItY29tbXVuaXR5LzIwMjMvMDQvMTIvY29yZWNvcy1tb250bGFrZS10by1ob3N0LWNvbmNlcnQtdG8tcmFpc2UtbW9uZXktZm9yLWNvbWljLXJlbGllZi_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3Lm1vcnRnYWdlc29sdXRpb25zLmNvLnVrL3lvdXItY29tbXVuaXR5LzIwMjMvMDQvMTIvY29yZWNvcy1tb250bGFrZS10by1ob3N0LWNvbmNlcnQtdG8tcmFpc2UtbW9uZXktZm9yLWNvbWljLXJlbGllZi_SAQA?oc=5" target="_blank"&gt;Coreco’s Montlake to host concert to raise money for Comic Relief&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mortgage Solutions&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>April 11th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
+    <id>tag:flickr.com,2005:/photo/52812095199</id>
+    <published>2023-04-12T13:43:26Z</published>
+    <updated>2023-04-12T13:43:26Z</updated>
+    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Waiting for No 3&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihwFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3Byb3BlcnR5LW5ld3MvbG9uZG9uLXByb3BlcnR5LW1hcmtldC1ob21lLW1vdmVycy1hcmVhcy1xdWVlbi1zLXBhcmstd2lua3dvcnRoLWIxMDczNDc5Lmh0bWzSAQA?oc=5</id>
     <title type="html">‘Classic London property market wisdom passé in age of wfh and ... - Evening Standard</title>
     <updated>2023-04-12T05:33:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMihwFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3Byb3BlcnR5LW5ld3MvbG9uZG9uLXByb3BlcnR5LW1hcmtldC1ob21lLW1vdmVycy1hcmVhcy1xdWVlbi1zLXBhcmstd2lua3dvcnRoLWIxMDczNDc5Lmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihwFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3Byb3BlcnR5LW5ld3MvbG9uZG9uLXByb3BlcnR5LW1hcmtldC1ob21lLW1vdmVycy1hcmVhcy1xdWVlbi1zLXBhcmstd2lua3dvcnRoLWIxMDczNDc5Lmh0bWzSAQA?oc=5" target="_blank"&gt;‘Classic London property market wisdom passé in age of wfh and ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM0NDcyOTUuc291dGhlcm4tbm8tdHJhaW5zLWVhc3QtY3JveWRvbi12aWN0b3JpYS13ZWVrZW5kL9IBAA?oc=5</id>
+    <title type="html">Southern: No trains between East Croydon and Victoria this weekend - This is Local London</title>
+    <updated>2023-04-12T04:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM0NDcyOTUuc291dGhlcm4tbm8tdHJhaW5zLWVhc3QtY3JveWRvbi12aWN0b3JpYS13ZWVrZW5kL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM0NDcyOTUuc291dGhlcm4tbm8tdHJhaW5zLWVhc3QtY3JveWRvbi12aWN0b3JpYS13ZWVrZW5kL9IBAA?oc=5" target="_blank"&gt;Southern: No trains between East Croydon and Victoria this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
@@ -197,41 +232,6 @@
     <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sidings" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
-    <id>tag:flickr.com,2005:/photo/52757992909</id>
-    <published>2023-03-19T18:38:14Z</published>
-    <updated>2023-03-19T18:38:14Z</updated>
-    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
-</content>
-    <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
-    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
