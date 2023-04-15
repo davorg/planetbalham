@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-15T04:48:58Z</updated>
+  <updated>2023-04-15T05:12:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Drizzle, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Today: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1011mb, Humidity: 95%, UV Risk: 0, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (40°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:06 BST, Sunset: 19:56 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-14T21:56:00.000+0000</id>
-    <published>2023-04-15T04:00:24Z</published>
-    <updated>2023-04-15T04:00:24Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Light Rain, Minimum Temperature: 5°C (40°F) Maximum Temperature: 14°C (57°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (40°F), Wind Direction: Northerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-14T21:56:00.000+0000</id>
-    <published>2023-04-15T04:00:24Z</published>
-    <updated>2023-04-15T04:00:24Z</updated>
+    <published>2023-04-15T05:02:05Z</published>
+    <updated>2023-04-15T05:02:05Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny Intervals, Minimum Temperature: 4°C (39°F) Maximum Temperature: 15°C (60°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:04 BST, Sunset: 19:58 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-14T21:56:00.000+0000</id>
+    <published>2023-04-15T05:02:05Z</published>
+    <updated>2023-04-15T05:02:05Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 5°C (41°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1025mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1028mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 06:02 BST, Sunset: 20:00 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-14T21:56:00.000+0000</id>
-    <published>2023-04-15T04:00:24Z</published>
-    <updated>2023-04-15T04:00:24Z</updated>
+    <published>2023-04-15T05:02:05Z</published>
+    <updated>2023-04-15T05:02:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMioAFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9ob21lc2FuZHByb3BlcnR5L3JlbnRpbmcvcmV2ZWFsZWQtdGhlLWV4cGxvc2lvbi1vZi10aGUtcHMxLTAwMC1yb29tLWFzLXN3YXRoZXMtb2YtbG9uZG9uLWJlY29tZS11bmFmZm9yZGFibGUtdG8tcmVudGVycy1iMTA3Mjc3Ni5odG1s0gEA?oc=5</id>
