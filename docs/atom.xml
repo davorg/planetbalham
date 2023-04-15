@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-15T20:13:14Z</updated>
+  <updated>2023-04-15T20:48:39Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -200,38 +200,37 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Streatham Hill to Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
-    <id>tag:flickr.com,2005:/photo/52770779148</id>
-    <published>2023-03-25T16:52:05Z</published>
-    <updated>2023-03-25T16:52:05Z</updated>
-    <flickr:date_taken>2023-03-25T15:00:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-25T15:00:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
+    <id>tag:flickr.com,2005:/photo/52757992909</id>
+    <published>2023-03-19T18:38:14Z</published>
+    <updated>2023-03-19T18:38:14Z</updated>
+    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52770779148/" title="Streatham Hill to Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_m.jpg" width="240" height="137" alt="Streatham Hill to Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham in the distance&lt;/p&gt;
+&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streathamhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
+    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lines" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signals" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sidings" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
