@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-18T18:13:48Z</updated>
+  <updated>2023-04-18T18:48:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 7°C (44°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunset: 20:01 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-18T09:53:00.000+0000</id>
-    <published>2023-04-18T18:02:14Z</published>
-    <updated>2023-04-18T18:02:14Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 5°C (40°F) Maximum Temperature: 14°C (57°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 16mph, Visibility: Good, Pressure: 1026mb, Humidity: 70%, UV Risk: 5, Pollution: Low, Sunrise: 05:57 BST, Sunset: 20:03 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-18T09:53:00.000+0000</id>
-    <published>2023-04-18T18:02:14Z</published>
-    <updated>2023-04-18T18:02:14Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Light Rain, Minimum Temperature: 6°C (44°F) Maximum Temperature: 13°C (55°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (44°F), Wind Direction: North Easterly, Wind Speed: 16mph, Visibility: Good, Pressure: 1022mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:05 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-18T09:53:00.000+0000</id>
-    <published>2023-04-18T18:02:14Z</published>
-    <updated>2023-04-18T18:02:14Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExOTg0ODEzL1dvbWFuLW1hcnJpZWQtZmFtb3VzLUZvcnRlLWhvdGVsLWZhbWlseS1zcGFyZWQtcHJpc29uLXNxdWFuZGVyaW5nLTMtNW0tZ2FtYmxpbmcuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTExOTg0ODEzL2FtcC9Xb21hbi1tYXJyaWVkLWZhbW91cy1Gb3J0ZS1ob3RlbC1mYW1pbHktc3BhcmVkLXByaXNvbi1zcXVhbmRlcmluZy0zLTVtLWdhbWJsaW5nLmh0bWw?oc=5</id>
     <title type="html">Woman who married into famous Forte hotel family spared prison after squandering £3.5m gambling - Daily Mail</title>
