@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-20T02:07:16Z</updated>
+  <updated>2023-04-20T02:23:19Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -39,6 +39,13 @@
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-19T21:55:00.000+0000</id>
     <published>2023-04-20T02:02:41Z</published>
     <updated>2023-04-20T02:02:41Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5L2I4MjZlMjA0MjVkNDEyMzBhNDk1YThlNTgyNTM4OWEy0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvYjgyNmUyMDQyNWQ0MTIzMGE0OTVhOGU1ODI1Mzg5YTI_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 179.9 cents - Courier Mail</title>
+    <updated>2023-04-19T11:26:15.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5L2I4MjZlMjA0MjVkNDEyMzBhNDk1YThlNTgyNTM4OWEy0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvYjgyNmUyMDQyNWQ0MTIzMGE0OTVhOGU1ODI1Mzg5YTI_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5L2I4MjZlMjA0MjVkNDEyMzBhNDk1YThlNTgyNTM4OWEy0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvYjgyNmUyMDQyNWQ0MTIzMGE0OTVhOGU1ODI1Mzg5YTI_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 179.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3VwbGUtd2hvLWJvdGgtaGF2ZS1yZWxhdGl2ZXMtd2l0aC1jYW5jZXItcmFpc2UtMjAwMC1mb3ItY2hhcml0eS1ydW5uaW5nLWxvbmRvbi1tYXJhdGhvbi_SAQA?oc=5</id>
@@ -99,13 +106,6 @@
     <updated>2023-04-18T22:35:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldNIBW2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldC9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldNIBW2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldC9hbXA?oc=5" target="_blank"&gt;Businesswoman squanders £3.5million trying to gamble her way out of debt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmlhbnZpc2l0cy5jby51ay9hcnRpY2xlcy9vbmUtb2YtZXVyb3Blcy1sYXJnZXN0LWNyYW5lcy11c2VkLWZvci1jbGFwaGFtLWp1bmN0aW9uLXN0YXRpb24tdXBncmFkZS02MTk0MC_SAQA?oc=5</id>
-    <title type="html">One of Europe's largest cranes used for Clapham Junction station ... - ianVisits</title>
-    <updated>2023-04-18T11:00:22.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3LmlhbnZpc2l0cy5jby51ay9hcnRpY2xlcy9vbmUtb2YtZXVyb3Blcy1sYXJnZXN0LWNyYW5lcy11c2VkLWZvci1jbGFwaGFtLWp1bmN0aW9uLXN0YXRpb24tdXBncmFkZS02MTk0MC_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3LmlhbnZpc2l0cy5jby51ay9hcnRpY2xlcy9vbmUtb2YtZXVyb3Blcy1sYXJnZXN0LWNyYW5lcy11c2VkLWZvci1jbGFwaGFtLWp1bmN0aW9uLXN0YXRpb24tdXBncmFkZS02MTk0MC_SAQA?oc=5" target="_blank"&gt;One of Europe's largest cranes used for Clapham Junction station ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ianVisits&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>April 11th</title>
