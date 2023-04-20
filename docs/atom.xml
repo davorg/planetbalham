@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-20T15:48:35Z</updated>
+  <updated>2023-04-20T16:13:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (58°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 50%, UV Risk: 4, Pollution: Low, Sunrise: 05:55 BST, Sunset: 20:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 85%, UV Risk: 1, Pollution: Low, Sunset: 20:05 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-20T09:54:00.000+0000</id>
-    <published>2023-04-20T15:38:26Z</published>
-    <updated>2023-04-20T15:38:26Z</updated>
+    <published>2023-04-20T16:02:24Z</published>
+    <updated>2023-04-20T16:02:24Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 5°C (40°F) Maximum Temperature: 11°C (52°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 05:53 BST, Sunset: 20:06 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-20T09:54:00.000+0000</id>
-    <published>2023-04-20T15:38:26Z</published>
-    <updated>2023-04-20T15:38:26Z</updated>
+    <published>2023-04-20T16:02:24Z</published>
+    <updated>2023-04-20T16:02:24Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 13°C (56°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 71%, UV Risk: 5, Pollution: Low, Sunrise: 05:51 BST, Sunset: 20:08 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-20T09:54:00.000+0000</id>
-    <published>2023-04-20T15:38:26Z</published>
-    <updated>2023-04-20T15:38:26Z</updated>
+    <published>2023-04-20T16:02:24Z</published>
+    <updated>2023-04-20T16:02:24Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbG9uZG9uLWxlYWRpbmctc3VzdGFpbmFiaWxpdHktZ3JlZW4tZWNvLW9mZmljZXMtd29ya2luZy1zcGFjZXMtYjEwNzUxNTEuaHRtbNIBAA?oc=5</id>
+    <title type="html">10 ways London is leading the country on sustainability - Evening Standard</title>
+    <updated>2023-04-20T16:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbG9uZG9uLWxlYWRpbmctc3VzdGFpbmFiaWxpdHktZ3JlZW4tZWNvLW9mZmljZXMtd29ya2luZy1zcGFjZXMtYjEwNzUxNTEuaHRtbNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbG9uZG9uLWxlYWRpbmctc3VzdGFpbmFiaWxpdHktZ3JlZW4tZWNvLW9mZmljZXMtd29ya2luZy1zcGFjZXMtYjEwNzUxNTEuaHRtbNIBAA?oc=5" target="_blank"&gt;10 ways London is leading the country on sustainability&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3VwbGUtd2hvLWJvdGgtaGF2ZS1yZWxhdGl2ZXMtd2l0aC1jYW5jZXItcmFpc2UtMjAwMC1mb3ItY2hhcml0eS1ydW5uaW5nLWxvbmRvbi1tYXJhdGhvbi_SAQA?oc=5</id>
@@ -54,38 +61,6 @@
     <link href="https://news.google.com/atom/articles/CBMiRWh0dHBzOi8vd3d3LnZvZ3VlLmNvLnVrL2Zhc2hpb24vYXJ0aWNsZS9mbGF0LXNob2VzLXZvZ3VlLWVkaXRvcnMtbG92ZdIBSWh0dHBzOi8vd3d3LnZvZ3VlLmNvLnVrL2Zhc2hpb24vYXJ0aWNsZS9mbGF0LXNob2VzLXZvZ3VlLWVkaXRvcnMtbG92ZS9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRWh0dHBzOi8vd3d3LnZvZ3VlLmNvLnVrL2Zhc2hpb24vYXJ0aWNsZS9mbGF0LXNob2VzLXZvZ3VlLWVkaXRvcnMtbG92ZdIBSWh0dHBzOi8vd3d3LnZvZ3VlLmNvLnVrL2Zhc2hpb24vYXJ0aWNsZS9mbGF0LXNob2VzLXZvZ3VlLWVkaXRvcnMtbG92ZS9hbXA?oc=5" target="_blank"&gt;The Vogue Editors On Their Favourite Flat Shoes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Vogue&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>29 December 1988 Balham VLT53</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
-    <id>tag:flickr.com,2005:/photo/52829496373</id>
-    <published>2023-04-19T08:31:00Z</published>
-    <updated>2023-04-19T08:31:00Z</updated>
-    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by10d28td2FuZHN3b3J0aC1yZXN0YXVyYW50cy00MTA5NjYw0gEA?oc=5</id>
     <title type="html">Food hygiene ratings handed to two Wandsworth restaurants - LondonWorld</title>
@@ -99,13 +74,6 @@
     <updated>2023-04-18T22:35:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldNIBW2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldC9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldNIBW2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzU5ODUwL2J1c2luZXNzd29tYW4tZ2FtYmxpbmctYWRkaWN0aW9uLXN0b2NrLW1hcmtldC9hbXA?oc=5" target="_blank"&gt;Businesswoman squanders £3.5million trying to gamble her way out of debt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LmlhbnZpc2l0cy5jby51ay9hcnRpY2xlcy9vbmUtb2YtZXVyb3Blcy1sYXJnZXN0LWNyYW5lcy11c2VkLWZvci1jbGFwaGFtLWp1bmN0aW9uLXN0YXRpb24tdXBncmFkZS02MTk0MC_SAQA?oc=5</id>
-    <title type="html">One of Europe's largest cranes used for Clapham Junction station ... - ianVisits</title>
-    <updated>2023-04-18T11:00:22.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3LmlhbnZpc2l0cy5jby51ay9hcnRpY2xlcy9vbmUtb2YtZXVyb3Blcy1sYXJnZXN0LWNyYW5lcy11c2VkLWZvci1jbGFwaGFtLWp1bmN0aW9uLXN0YXRpb24tdXBncmFkZS02MTk0MC_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3LmlhbnZpc2l0cy5jby51ay9hcnRpY2xlcy9vbmUtb2YtZXVyb3Blcy1sYXJnZXN0LWNyYW5lcy11c2VkLWZvci1jbGFwaGFtLWp1bmN0aW9uLXN0YXRpb24tdXBncmFkZS02MTk0MC_SAQA?oc=5" target="_blank"&gt;One of Europe's largest cranes used for Clapham Junction station ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ianVisits&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>April 11th</title>
@@ -203,31 +171,73 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Water off a hawk's back</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
-    <id>tag:flickr.com,2005:/photo/52777252443</id>
-    <published>2023-03-28T11:49:02Z</published>
-    <updated>2023-03-28T11:49:02Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Streatham Hill to Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
+    <id>tag:flickr.com,2005:/photo/52770779148</id>
+    <published>2023-03-25T16:52:05Z</published>
+    <updated>2023-03-25T16:52:05Z</updated>
+    <flickr:date_taken>2023-03-25T15:00:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-25T15:00:47-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52770779148/" title="Streatham Hill to Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_m.jpg" width="240" height="137" alt="Streatham Hill to Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham, London&lt;/p&gt;
+&lt;p&gt;Balham in the distance&lt;/p&gt;
 </content>
     <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streathamhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lines" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signals" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sidings" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
+    <id>tag:flickr.com,2005:/photo/52757992909</id>
+    <published>2023-03-19T18:38:14Z</published>
+    <updated>2023-03-19T18:38:14Z</updated>
+    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
+</content>
+    <author>
+      <name>peter marshall</name>
+      <uri>https://www.flickr.com/people/petermarshall/</uri>
+      <flickr:nsid>69163004@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
+    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
