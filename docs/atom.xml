@@ -7,9 +7,39 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-21T04:48:38Z</updated>
+  <updated>2023-04-21T05:13:10Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Today: Light Rain Showers, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (52°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 5°C (41°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 81%, UV Risk: 3, Pollution: Low, Sunrise: 05:53 BST, Sunset: 20:06 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-20T21:55:00.000+0000</id>
+    <published>2023-04-21T05:00:12Z</published>
+    <updated>2023-04-21T05:00:12Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Light Rain, Minimum Temperature: 7°C (44°F) Maximum Temperature: 12°C (54°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 05:51 BST, Sunset: 20:08 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-20T21:55:00.000+0000</id>
+    <published>2023-04-21T05:00:12Z</published>
+    <updated>2023-04-21T05:00:12Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (55°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 6°C (43°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 77%, UV Risk: 4, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:10 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-20T21:55:00.000+0000</id>
+    <published>2023-04-21T05:00:12Z</published>
+    <updated>2023-04-21T05:00:12Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbG9uZG9uLWxlYWRpbmctc3VzdGFpbmFiaWxpdHktZ3JlZW4tZWNvLW9mZmljZXMtd29ya2luZy1zcGFjZXMtYjEwNzUxNTEuaHRtbNIBAA?oc=5</id>
     <title type="html">10 ways London is leading the country on sustainability - Evening Standard</title>
