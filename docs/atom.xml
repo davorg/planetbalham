@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-24T03:48:36Z</updated>
+  <updated>2023-04-24T04:13:41Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Cloud, Minimum Temperature: 7°C (45°F)</title>
+    <title>Tonight: Light Cloud, Minimum Temperature: 7°C (45°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1007mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 20:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 7°C (45°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1007mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-23T21:54:00.000+0000</id>
-    <published>2023-04-24T03:37:56Z</published>
-    <updated>2023-04-24T03:37:56Z</updated>
+    <published>2023-04-24T04:00:03Z</published>
+    <updated>2023-04-24T04:00:03Z</updated>
   </entry>
   <entry>
     <title>Monday: Heavy Rain, Minimum Temperature: 2°C (35°F) Maximum Temperature: 11°C (53°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 2°C (35°F), Wind Direction: North Westerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 73%, UV Risk: 1, Pollution: Low, Sunrise: 05:45 BST, Sunset: 20:13 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-23T21:54:00.000+0000</id>
-    <published>2023-04-24T03:37:56Z</published>
-    <updated>2023-04-24T03:37:56Z</updated>
+    <published>2023-04-24T04:00:03Z</published>
+    <updated>2023-04-24T04:00:03Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 3°C (38°F) Maximum Temperature: 11°C (52°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 3°C (38°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1018mb, Humidity: 56%, UV Risk: 5, Pollution: Low, Sunrise: 05:43 BST, Sunset: 20:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-23T21:54:00.000+0000</id>
-    <published>2023-04-24T03:37:56Z</published>
-    <updated>2023-04-24T03:37:56Z</updated>
+    <published>2023-04-24T04:00:03Z</published>
+    <updated>2023-04-24T04:00:03Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5L2ZhZDVkYzY4MDAxNmZhY2JiNTU0YWIyZTBjYjc5MDNj0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvZmFkNWRjNjgwMDE2ZmFjYmI1NTRhYjJlMGNiNzkwM2M_YW1w?oc=5</id>
@@ -101,11 +101,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2VzbWFnYXppbmUvbG9uZG9uLWxlYWRpbmctc3VzdGFpbmFiaWxpdHktZ3JlZW4tZWNvLW9mZmljZXMtd29ya2luZy1zcGFjZXMtYjEwNzUxNTEuaHRtbNIBAA?oc=5" target="_blank"&gt;10 ways London is leading the country on sustainability&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm9ybWVyLWJlYWNvbnNmaWVsZC1jb3VwbGUtMjctMzQtMTA0MDE3NTc2Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZm9ybWVyLWJlYWNvbnNmaWVsZC1jb3VwbGUtMjctMzQtMTA0MDE3NTc2Lmh0bWw?oc=5</id>
-    <title type="html">Couple, 27 and 34, to run in London Marathon this weekend - Yahoo News UK</title>
-    <updated>2023-04-20T10:40:17.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm9ybWVyLWJlYWNvbnNmaWVsZC1jb3VwbGUtMjctMzQtMTA0MDE3NTc2Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZm9ybWVyLWJlYWNvbnNmaWVsZC1jb3VwbGUtMjctMzQtMTA0MDE3NTc2Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm9ybWVyLWJlYWNvbnNmaWVsZC1jb3VwbGUtMjctMzQtMTA0MDE3NTc2Lmh0bWzSAVFodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvZm9ybWVyLWJlYWNvbnNmaWVsZC1jb3VwbGUtMjctMzQtMTA0MDE3NTc2Lmh0bWw?oc=5" target="_blank"&gt;Couple, 27 and 34, to run in London Marathon this weekend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3VwbGUtd2hvLWJvdGgtaGF2ZS1yZWxhdGl2ZXMtd2l0aC1jYW5jZXItcmFpc2UtMjAwMC1mb3ItY2hhcml0eS1ydW5uaW5nLWxvbmRvbi1tYXJhdGhvbi_SAQA?oc=5</id>
+    <title type="html">Couple who both have relatives with cancer raise £2000 for charity ... - London News Online</title>
+    <updated>2023-04-19T11:07:53.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3VwbGUtd2hvLWJvdGgtaGF2ZS1yZWxhdGl2ZXMtd2l0aC1jYW5jZXItcmFpc2UtMjAwMC1mb3ItY2hhcml0eS1ydW5uaW5nLWxvbmRvbi1tYXJhdGhvbi_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9jb3VwbGUtd2hvLWJvdGgtaGF2ZS1yZWxhdGl2ZXMtd2l0aC1jYW5jZXItcmFpc2UtMjAwMC1mb3ItY2hhcml0eS1ydW5uaW5nLWxvbmRvbi1tYXJhdGhvbi_SAQA?oc=5" target="_blank"&gt;Couple who both have relatives with cancer raise £2000 for charity ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 December 1988 Balham VLT53</title>
