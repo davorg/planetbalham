@@ -7,45 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-25T20:48:42Z</updated>
+  <updated>2023-04-25T21:12:57Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <id>https://news.google.com/articles/CBMimgFodHRwczovL3d3dy5zdHVmZi5jby5uei90cmF2ZWwvbmV3cy8xMzE4NjI3MzYvZG9nLW93bmVyLXBheXMtMTZrLXRvLWZseS1oZXItcG9vY2hlcy10by1uZXcteW9yay1vbi1hLXByaXZhdGUtamV0LWl0LXdhcy1jaGVhcGVyLXRoYW4tcHV0dGluZy10aGVtLWluLWNhcmdv0gEA?oc=5</id>
-    <title type="html">Dog owner pays $16k to fly her pooches to New York on a private jet ... - Stuff</title>
-    <updated>2023-04-25T20:39:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMimgFodHRwczovL3d3dy5zdHVmZi5jby5uei90cmF2ZWwvbmV3cy8xMzE4NjI3MzYvZG9nLW93bmVyLXBheXMtMTZrLXRvLWZseS1oZXItcG9vY2hlcy10by1uZXcteW9yay1vbi1hLXByaXZhdGUtamV0LWl0LXdhcy1jaGVhcGVyLXRoYW4tcHV0dGluZy10aGVtLWluLWNhcmdv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMimgFodHRwczovL3d3dy5zdHVmZi5jby5uei90cmF2ZWwvbmV3cy8xMzE4NjI3MzYvZG9nLW93bmVyLXBheXMtMTZrLXRvLWZseS1oZXItcG9vY2hlcy10by1uZXcteW9yay1vbi1hLXByaXZhdGUtamV0LWl0LXdhcy1jaGVhcGVyLXRoYW4tcHV0dGluZy10aGVtLWluLWNhcmdv0gEA?oc=5" target="_blank"&gt;Dog owner pays $16k to fly her pooches to New York on a private jet ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Stuff&lt;/font&gt;</content>
-  </entry>
   <entry>
     <title>Tonight: Partly Cloudy, Minimum Temperature: 4°C (39°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunset: 20:13 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 4°C (39°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb, Humidity: 69%, UV Risk: 2, Pollution: Low, Sunset: 20:13 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-25T09:53:00.000+0000</id>
-    <published>2023-04-25T20:00:47Z</published>
-    <updated>2023-04-25T20:00:47Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-25T19:56:00.000+0000</id>
+    <published>2023-04-25T21:03:45Z</published>
+    <updated>2023-04-25T21:03:45Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Thick Cloud, Minimum Temperature: 6°C (42°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Wednesday: Light Cloud, Minimum Temperature: 5°C (41°F) Maximum Temperature: 11°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (42°F), Wind Direction: South Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 63%, UV Risk: 1, Pollution: Low, Sunrise: 05:43 BST, Sunset: 20:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (53°F), Minimum Temperature: 5°C (41°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1019mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 05:43 BST, Sunset: 20:15 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-25T09:53:00.000+0000</id>
-    <published>2023-04-25T20:00:47Z</published>
-    <updated>2023-04-25T20:00:47Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-25T19:56:00.000+0000</id>
+    <published>2023-04-25T21:03:45Z</published>
+    <updated>2023-04-25T21:03:45Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Thursday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 75%, UV Risk: 3, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 75%, UV Risk: 2, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-25T09:53:00.000+0000</id>
-    <published>2023-04-25T20:00:47Z</published>
-    <updated>2023-04-25T20:00:47Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-25T19:56:00.000+0000</id>
+    <published>2023-04-25T21:03:45Z</published>
+    <updated>2023-04-25T21:03:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS9yZWFkLXRoaXMvbGlkbC1yZWxlYXNlcy1hLWZ1bGwtbGlzdC1vZi1sb2NhdGlvbnMtaW4tbG9uZG9uLWZvci1uZXctc3RvcmVzLTQxMTg4OTPSAQA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2023-04-25T11:04:13.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LnR5bGEuY29tL2xpZmUvaW5mbHVlbmNlci1jcmllcy1zdHJhbmdlci1yZWZ1c2VzLW9mZmVyLXBheS1ncm9jZXJpZXMtOTc3MjUzLTIwMjMwNDI10gFoaHR0cHM6Ly93d3cudHlsYS5jb20vbGlmZS9pbmZsdWVuY2VyLWNyaWVzLXN0cmFuZ2VyLXJlZnVzZXMtb2ZmZXItcGF5LWdyb2Nlcmllcy05NzcyNTMtMjAyMzA0MjUuYW1wLmh0bWw?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LnR5bGEuY29tL2xpZmUvaW5mbHVlbmNlci1jcmllcy1zdHJhbmdlci1yZWZ1c2VzLW9mZmVyLXBheS1ncm9jZXJpZXMtOTc3MjUzLTIwMjMwNDI10gFoaHR0cHM6Ly93d3cudHlsYS5jb20vbGlmZS9pbmZsdWVuY2VyLWNyaWVzLXN0cmFuZ2VyLXJlZnVzZXMtb2ZmZXItcGF5LWdyb2Nlcmllcy05NzcyNTMtMjAyMzA0MjUuYW1wLmh0bWw?oc=5" target="_blank"&gt;Influencer left in tears after strangers refuse her offer to pay for their food shop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Tyla&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMjAxMDg1My9Xb21hbi1wYXlzLTEwLTAwMC1mbHktZG9ncy1OZXctWW9yay1wcml2YXRlLWpldC5odG1s0gFsaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL2ZlbWFpbC9hcnRpY2xlLTEyMDEwODUzL2FtcC9Xb21hbi1wYXlzLTEwLTAwMC1mbHktZG9ncy1OZXctWW9yay1wcml2YXRlLWpldC5odG1s?oc=5</id>
+    <title type="html">Woman pays $10,000 to fly her dogs to New York on a private jet - Daily Mail</title>
+    <updated>2023-04-25T10:08:47.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMjAxMDg1My9Xb21hbi1wYXlzLTEwLTAwMC1mbHktZG9ncy1OZXctWW9yay1wcml2YXRlLWpldC5odG1s0gFsaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL2ZlbWFpbC9hcnRpY2xlLTEyMDEwODUzL2FtcC9Xb21hbi1wYXlzLTEwLTAwMC1mbHktZG9ncy1OZXctWW9yay1wcml2YXRlLWpldC5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMjAxMDg1My9Xb21hbi1wYXlzLTEwLTAwMC1mbHktZG9ncy1OZXctWW9yay1wcml2YXRlLWpldC5odG1s0gFsaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL2ZlbWFpbC9hcnRpY2xlLTEyMDEwODUzL2FtcC9Xb21hbi1wYXlzLTEwLTAwMC1mbHktZG9ncy1OZXctWW9yay1wcml2YXRlLWpldC5odG1s?oc=5" target="_blank"&gt;Woman pays $10,000 to fly her dogs to New York on a private jet&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -206,16 +206,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Harris hawk in the rain</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
-    <id>tag:flickr.com,2005:/photo/52777028314</id>
-    <published>2023-03-28T11:49:03Z</published>
-    <updated>2023-03-28T11:49:03Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
+    <title>Water off a hawk's back</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
+    <id>tag:flickr.com,2005:/photo/52777252443</id>
+    <published>2023-03-28T11:49:02Z</published>
+    <updated>2023-03-28T11:49:02Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;
 </content>
@@ -225,11 +225,11 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
