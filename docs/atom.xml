@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-25T15:13:24Z</updated>
+  <updated>2023-04-25T15:48:39Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvamV3ZWxsZXJ5bWFraW5nLXdhdGVyY29sb3VyLXdvcmtzaG9wcy1jcmVhdGl2ZS1sb25kb24tYjEwNzE0NTkuaHRtbNIBAA?oc=5</id>
+    <title type="html">10 ways to get creative in the capital: from jewellery-making to ... - Evening Standard</title>
+    <updated>2023-04-25T15:19:15.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvamV3ZWxsZXJ5bWFraW5nLXdhdGVyY29sb3VyLXdvcmtzaG9wcy1jcmVhdGl2ZS1sb25kb24tYjEwNzE0NTkuaHRtbNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvamV3ZWxsZXJ5bWFraW5nLXdhdGVyY29sb3VyLXdvcmtzaG9wcy1jcmVhdGl2ZS1sb25kb24tYjEwNzE0NTkuaHRtbNIBAA?oc=5" target="_blank"&gt;10 ways to get creative in the capital: from jewellery-making to ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 4°C (39°F) Maximum Temperature: 11°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -67,13 +74,6 @@
     <updated>2023-04-24T23:26:46.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5L2ZjMGZjYmYyZDA4Mzg1MWFkMjY4Zjc4ZGFmYTg5ZWIx0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvZmMwZmNiZjJkMDgzODUxYWQyNjhmNzhkYWZhODllYjE_YW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5L2ZjMGZjYmYyZDA4Mzg1MWFkMjY4Zjc4ZGFmYTg5ZWIx0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvZmMwZmNiZjJkMDgzODUxYWQyNjhmNzhkYWZhODllYjE_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 179.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMigAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaG9zcGl0YWwtcHJhY3RpdGlvbmVyLXJ1bnMtbG9uZG9uLW1hcmF0aG9uLWZvci1jaGlsZGhvb2QtYmVzdC1mcmllbmQtZGlhZ25vc2VkLXdpdGgtYnJhaW4tdHVtb3VyL9IBAA?oc=5</id>
-    <title type="html">Hospital practitioner runs London Marathon for childhood best friend ... - London News Online</title>
-    <updated>2023-04-24T11:27:42.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMigAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaG9zcGl0YWwtcHJhY3RpdGlvbmVyLXJ1bnMtbG9uZG9uLW1hcmF0aG9uLWZvci1jaGlsZGhvb2QtYmVzdC1mcmllbmQtZGlhZ25vc2VkLXdpdGgtYnJhaW4tdHVtb3VyL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMigAFodHRwczovL2xvbmRvbm5ld3NvbmxpbmUuY28udWsvaG9zcGl0YWwtcHJhY3RpdGlvbmVyLXJ1bnMtbG9uZG9uLW1hcmF0aG9uLWZvci1jaGlsZGhvb2QtYmVzdC1mcmllbmQtZGlhZ25vc2VkLXdpdGgtYnJhaW4tdHVtb3VyL9IBAA?oc=5" target="_blank"&gt;Hospital practitioner runs London Marathon for childhood best friend ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
