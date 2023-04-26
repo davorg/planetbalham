@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-26T15:48:55Z</updated>
+  <updated>2023-04-26T16:13:54Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 11°C (52°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 11°C (52°F), Minimum Temperature: 6°C (43°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1018mb, Humidity: 51%, UV Risk: 2, Pollution: Low, Sunrise: 05:43 BST, Sunset: 20:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 68%, UV Risk: 2, Pollution: Low, Sunset: 20:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-26T09:52:00.000+0000</id>
-    <published>2023-04-26T15:12:45Z</published>
-    <updated>2023-04-26T15:12:45Z</updated>
+    <published>2023-04-26T16:12:43Z</published>
+    <updated>2023-04-26T16:12:43Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 14°C (57°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Easterly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-26T09:52:00.000+0000</id>
-    <published>2023-04-26T15:12:45Z</published>
-    <updated>2023-04-26T15:12:45Z</updated>
+    <published>2023-04-26T16:12:43Z</published>
+    <updated>2023-04-26T16:12:43Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1013mb, Humidity: 74%, UV Risk: 3, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-26T09:52:00.000+0000</id>
-    <published>2023-04-26T15:12:45Z</published>
-    <updated>2023-04-26T15:12:45Z</updated>
+    <published>2023-04-26T16:12:43Z</published>
+    <updated>2023-04-26T16:12:43Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS1ncnVkZ2UtbW9uZ2Vycy13ZXJlLW91dC1pbi1mb3JjZS1hdC1wbXFzL9IBAA?oc=5</id>
+    <title type="html">The grudge-mongers were out in force at PMQs - The Spectator</title>
+    <updated>2023-04-26T15:49:29.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS1ncnVkZ2UtbW9uZ2Vycy13ZXJlLW91dC1pbi1mb3JjZS1hdC1wbXFzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWN0YXRvci5jby51ay9hcnRpY2xlL3RoZS1ncnVkZ2UtbW9uZ2Vycy13ZXJlLW91dC1pbi1mb3JjZS1hdC1wbXFzL9IBAA?oc=5" target="_blank"&gt;The grudge-mongers were out in force at PMQs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Spectator&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvYXJ0LXByaXplL2pld2VsbGVyeW1ha2luZy13YXRlcmNvbG91ci13b3Jrc2hvcHMtY3JlYXRpdmUtbG9uZG9uLWIxMDcxNDU5Lmh0bWzSAQA?oc=5</id>
@@ -55,25 +62,18 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIzL2Fwci8yNi93aGljaC1lbmdsaXNoLWZvb3RiYWxsLWNoYW1waW9ucy1oYWQtdGhlLWxvbmdlc3QtcHJlLXNlYXNvbi1vZGRz0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjMvYXByLzI2L3doaWNoLWVuZ2xpc2gtZm9vdGJhbGwtY2hhbXBpb25zLWhhZC10aGUtbG9uZ2VzdC1wcmUtc2Vhc29uLW9kZHM?oc=5" target="_blank"&gt;Which English football champions had the longest pre-season odds?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5LzM2NDRhMDUxMmVhNDBjZDk1OTY0ZDg0NjNmY2EzY2Jh0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvMzY0NGEwNTEyZWE0MGNkOTU5NjRkODQ2M2ZjYTNjYmE_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 179.9 cents - Courier Mail</title>
+    <updated>2023-04-25T23:49:30.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5LzM2NDRhMDUxMmVhNDBjZDk1OTY0ZDg0NjNmY2EzY2Jh0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvMzY0NGEwNTEyZWE0MGNkOTU5NjRkODQ2M2ZjYTNjYmE_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5LzM2NDRhMDUxMmVhNDBjZDk1OTY0ZDg0NjNmY2EzY2Jh0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvMzY0NGEwNTEyZWE0MGNkOTU5NjRkODQ2M2ZjYTNjYmE_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 179.9 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS9yZWFkLXRoaXMvbGlkbC1yZWxlYXNlcy1hLWZ1bGwtbGlzdC1vZi1sb2NhdGlvbnMtaW4tbG9uZG9uLWZvci1uZXctc3RvcmVzLTQxMTg4OTPSAQA?oc=5</id>
     <title type="html">Lidl releases priority locations in London where it plans to open stores - LondonWorld</title>
     <updated>2023-04-25T16:19:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS9yZWFkLXRoaXMvbGlkbC1yZWxlYXNlcy1hLWZ1bGwtbGlzdC1vZi1sb2NhdGlvbnMtaW4tbG9uZG9uLWZvci1uZXctc3RvcmVzLTQxMTg4OTPSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS9yZWFkLXRoaXMvbGlkbC1yZWxlYXNlcy1hLWZ1bGwtbGlzdC1vZi1sb2NhdGlvbnMtaW4tbG9uZG9uLWZvci1uZXctc3RvcmVzLTQxMTg4OTPSAQA?oc=5" target="_blank"&gt;Lidl releases priority locations in London where it plans to open stores&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTg4L9IBAA?oc=5</id>
-    <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
-    <updated>2023-04-25T13:00:58.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTg4L9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTg4L9IBAA?oc=5" target="_blank"&gt;This week 10, 20, 30 years ago – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24td29tYW4tc3BlbmRzLThrLTI2Nzc0MzYz0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi13b21hbi1zcGVuZHMtOGstMjY3NzQzNjMuYW1w?oc=5</id>
-    <title type="html">South London woman spends £8k on flying her dogs to New York on a private jet - My London</title>
-    <updated>2023-04-25T11:05:56.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24td29tYW4tc3BlbmRzLThrLTI2Nzc0MzYz0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi13b21hbi1zcGVuZHMtOGstMjY3NzQzNjMuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24td29tYW4tc3BlbmRzLThrLTI2Nzc0MzYz0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi13b21hbi1zcGVuZHMtOGstMjY3NzQzNjMuYW1w?oc=5" target="_blank"&gt;South London woman spends £8k on flying her dogs to New York on a private jet&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
