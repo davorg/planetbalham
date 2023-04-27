@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-27T10:48:48Z</updated>
+  <updated>2023-04-27T11:12:36Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Easterly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 61%, UV Risk: 1, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-27T09:54:00.000+0000</id>
-    <published>2023-04-27T10:17:11Z</published>
-    <updated>2023-04-27T10:17:11Z</updated>
+    <published>2023-04-27T11:03:51Z</published>
+    <updated>2023-04-27T11:03:51Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1011mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-27T09:54:00.000+0000</id>
-    <published>2023-04-27T10:17:11Z</published>
-    <updated>2023-04-27T10:17:11Z</updated>
+    <published>2023-04-27T11:03:51Z</published>
+    <updated>2023-04-27T11:03:51Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 8°C (46°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 68%, UV Risk: 5, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-27T09:54:00.000+0000</id>
-    <published>2023-04-27T10:17:11Z</published>
-    <updated>2023-04-27T10:17:11Z</updated>
+    <published>2023-04-27T11:03:51Z</published>
+    <updated>2023-04-27T11:03:51Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vZm9vZC1kcmluay1uZXdzL3NvdXRoLWxvbmRvbi1jYWYtYmVzdC1hbG1vbmQtMjY3OTE4NjnSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL2Zvb2QtZHJpbmstbmV3cy9zb3V0aC1sb25kb24tY2FmLWJlc3QtYWxtb25kLTI2NzkxODY5LmFtcA?oc=5</id>
+    <title type="html">South London café where people queue for famous full English breakfast muffins - My London</title>
+    <updated>2023-04-27T10:49:46.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vZm9vZC1kcmluay1uZXdzL3NvdXRoLWxvbmRvbi1jYWYtYmVzdC1hbG1vbmQtMjY3OTE4NjnSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL2Zvb2QtZHJpbmstbmV3cy9zb3V0aC1sb25kb24tY2FmLWJlc3QtYWxtb25kLTI2NzkxODY5LmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vZm9vZC1kcmluay1uZXdzL3NvdXRoLWxvbmRvbi1jYWYtYmVzdC1hbG1vbmQtMjY3OTE4NjnSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL2Zvb2QtZHJpbmstbmV3cy9zb3V0aC1sb25kb24tY2FmLWJlc3QtYWxtb25kLTI2NzkxODY5LmFtcA?oc=5" target="_blank"&gt;South London café where people queue for famous full English breakfast muffins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OS1jZW50cy9uZXdzLXN0b3J5LzYxNzkyZmNmOGQ3NmU5YjUwYTYyOTFhNTk4ZjA2ZDNj0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk5LWNlbnRzL25ld3Mtc3RvcnkvNjE3OTJmY2Y4ZDc2ZTliNTBhNjI5MWE1OThmMDZkM2M_YW1w?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-04-26T09:55:04.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvYXJ0LXByaXplL2pld2VsbGVyeW1ha2luZy13YXRlcmNvbG91ci13b3Jrc2hvcHMtY3JlYXRpdmUtbG9uZG9uLWIxMDcxNDU5Lmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvYXJ0LXByaXplL2pld2VsbGVyeW1ha2luZy13YXRlcmNvbG91ci13b3Jrc2hvcHMtY3JlYXRpdmUtbG9uZG9uLWIxMDcxNDU5Lmh0bWzSAQA?oc=5" target="_blank"&gt;10 ways to get creative in the capital: from jewellery-making to ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIzL2Fwci8yNi93aGljaC1lbmdsaXNoLWZvb3RiYWxsLWNoYW1waW9ucy1oYWQtdGhlLWxvbmdlc3QtcHJlLXNlYXNvbi1vZGRz0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjMvYXByLzI2L3doaWNoLWVuZ2xpc2gtZm9vdGJhbGwtY2hhbXBpb25zLWhhZC10aGUtbG9uZ2VzdC1wcmUtc2Vhc29uLW9kZHM?oc=5</id>
-    <title type="html">Which English football champions had the longest pre-season odds? - The Guardian</title>
-    <updated>2023-04-26T07:56:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIzL2Fwci8yNi93aGljaC1lbmdsaXNoLWZvb3RiYWxsLWNoYW1waW9ucy1oYWQtdGhlLWxvbmdlc3QtcHJlLXNlYXNvbi1vZGRz0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjMvYXByLzI2L3doaWNoLWVuZ2xpc2gtZm9vdGJhbGwtY2hhbXBpb25zLWhhZC10aGUtbG9uZ2VzdC1wcmUtc2Vhc29uLW9kZHM?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC8yMDIzL2Fwci8yNi93aGljaC1lbmdsaXNoLWZvb3RiYWxsLWNoYW1waW9ucy1oYWQtdGhlLWxvbmdlc3QtcHJlLXNlYXNvbi1vZGRz0gFxaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2Zvb3RiYWxsLzIwMjMvYXByLzI2L3doaWNoLWVuZ2xpc2gtZm9vdGJhbGwtY2hhbXBpb25zLWhhZC10aGUtbG9uZ2VzdC1wcmUtc2Vhc29uLW9kZHM?oc=5" target="_blank"&gt;Which English football champions had the longest pre-season odds?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
