@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-29T05:12:42Z</updated>
+  <updated>2023-04-29T05:48:40Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 5°C (42°F) Maximum Temperature: 19°C (65°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 5°C (42°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Poor, Pressure: 1021mb, Humidity: 69%, UV Risk: 6, Pollution: Low, Sunrise: 05:37 BST, Sunset: 20:20 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-28T21:54:00.000+0000</id>
-    <published>2023-04-29T05:03:29Z</published>
-    <updated>2023-04-29T05:03:29Z</updated>
-  </entry>
-  <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (65°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 8°C (46°F), Wind Direction: South Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:21 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-28T21:54:00.000+0000</id>
-    <published>2023-04-29T05:03:29Z</published>
-    <updated>2023-04-29T05:03:29Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Light Rain Showers, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (64°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:23 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-28T21:54:00.000+0000</id>
-    <published>2023-04-29T05:03:29Z</published>
-    <updated>2023-04-29T05:03:29Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLXBvbGljZS1pbnZpdGUtd29tZW4tdG8tam9pbi1hLWZvb3QtcGF0cm9sLW9mLXRoZS1sb2NhbC1hcmVhLTE4MTk4M9IBAA?oc=5</id>
     <title type="html">Balham police invite women to join a foot patrol of the local area - Clapham Nub News</title>
