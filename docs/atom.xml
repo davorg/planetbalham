@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-01T01:10:10Z</updated>
+  <updated>2023-05-01T02:08:20Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1016mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 20:23 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-04-30T21:57:00.000+0000</id>
-    <published>2023-05-01T01:01:50Z</published>
-    <updated>2023-05-01T01:01:50Z</updated>
+    <published>2023-05-01T02:05:21Z</published>
+    <updated>2023-05-01T02:05:21Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (63°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1017mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-04-30T21:57:00.000+0000</id>
-    <published>2023-05-01T01:01:50Z</published>
-    <updated>2023-05-01T01:01:50Z</updated>
+    <published>2023-05-01T02:05:21Z</published>
+    <updated>2023-05-01T02:05:21Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-04-30T21:57:00.000+0000</id>
-    <published>2023-05-01T01:01:50Z</published>
-    <updated>2023-05-01T01:01:50Z</updated>
+    <published>2023-05-01T02:05:21Z</published>
+    <updated>2023-05-01T02:05:21Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OC1jZW50cy9uZXdzLXN0b3J5L2U5ZjIxZjRiYzk1OGYwN2FkZTM1ZjI4NTdhOGY5NzJm0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk4LWNlbnRzL25ld3Mtc3RvcnkvZTlmMjFmNGJjOTU4ZjA3YWRlMzVmMjg1N2E4Zjk3MmY_YW1w?oc=5</id>
+    <title type="html">Southeast Brisbane fuel: Where you can get petrol today for 179.8 cents - Courier Mail</title>
+    <updated>2023-04-30T23:22:06.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OC1jZW50cy9uZXdzLXN0b3J5L2U5ZjIxZjRiYzk1OGYwN2FkZTM1ZjI4NTdhOGY5NzJm0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk4LWNlbnRzL25ld3Mtc3RvcnkvZTlmMjFmNGJjOTU4ZjA3YWRlMzVmMjg1N2E4Zjk3MmY_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL3NvdXRoZWFzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMTc5OC1jZW50cy9uZXdzLXN0b3J5L2U5ZjIxZjRiYzk1OGYwN2FkZTM1ZjI4NTdhOGY5NzJm0gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGhlYXN0L2h5cGVybG9jYWwvc291dGhlYXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0xNzk4LWNlbnRzL25ld3Mtc3RvcnkvZTlmMjFmNGJjOTU4ZjA3YWRlMzVmMjg1N2E4Zjk3MmY_YW1w?oc=5" target="_blank"&gt;Southeast Brisbane fuel: Where you can get petrol today for 179.8 cents&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Courier Mail&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLXBvbGljZS1pbnZpdGUtd29tZW4tdG8tam9pbi1hLWZvb3QtcGF0cm9sLW9mLXRoZS1sb2NhbC1hcmVhLTE4MTk4M9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-04-28T04:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25zLWJpZy01LXRvcC1zdG9yaWVzLTI2Nzk2OTA10gFRaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbnMtYmlnLTUtdG9wLXN0b3JpZXMtMjY3OTY5MDUuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25zLWJpZy01LXRvcC1zdG9yaWVzLTI2Nzk2OTA10gFRaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbnMtYmlnLTUtdG9wLXN0b3JpZXMtMjY3OTY5MDUuYW1w?oc=5" target="_blank"&gt;Top stories from 'suspects shoot vehicle' to LGBT flatmates' house firebombed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lmhlci5pZS9jZWxlYi90aWt0b2tlci1idXJzdHMtdGVhcnMtc3RyYW5nZXJzLXJlZnVzZS1vZmZlci1wYXktZ3JvY2VyaWVzLTU3OTM3MdIBXmh0dHBzOi8vd3d3Lmhlci5pZS9hbXAvY2VsZWIvdGlrdG9rZXItYnVyc3RzLXRlYXJzLXN0cmFuZ2Vycy1yZWZ1c2Utb2ZmZXItcGF5LWdyb2Nlcmllcy01NzkzNzE?oc=5</id>
-    <title type="html">TikToker bursts into tears after strangers refuse her offer to pay for their groceries - Her.ie</title>
-    <updated>2023-04-27T15:30:33.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lmhlci5pZS9jZWxlYi90aWt0b2tlci1idXJzdHMtdGVhcnMtc3RyYW5nZXJzLXJlZnVzZS1vZmZlci1wYXktZ3JvY2VyaWVzLTU3OTM3MdIBXmh0dHBzOi8vd3d3Lmhlci5pZS9hbXAvY2VsZWIvdGlrdG9rZXItYnVyc3RzLXRlYXJzLXN0cmFuZ2Vycy1yZWZ1c2Utb2ZmZXItcGF5LWdyb2Nlcmllcy01NzkzNzE?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lmhlci5pZS9jZWxlYi90aWt0b2tlci1idXJzdHMtdGVhcnMtc3RyYW5nZXJzLXJlZnVzZS1vZmZlci1wYXktZ3JvY2VyaWVzLTU3OTM3MdIBXmh0dHBzOi8vd3d3Lmhlci5pZS9hbXAvY2VsZWIvdGlrdG9rZXItYnVyc3RzLXRlYXJzLXN0cmFuZ2Vycy1yZWZ1c2Utb2ZmZXItcGF5LWdyb2Nlcmllcy01NzkzNzE?oc=5" target="_blank"&gt;TikToker bursts into tears after strangers refuse her offer to pay for their groceries&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Her.ie&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -104,38 +104,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>29 December 1988 Balham VLT53</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
-    <id>tag:flickr.com,2005:/photo/52829496373</id>
-    <published>2023-04-19T08:31:00Z</published>
-    <updated>2023-04-19T08:31:00Z</updated>
-    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -230,6 +198,35 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Water off a hawk's back</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
+    <id>tag:flickr.com,2005:/photo/52777252443</id>
+    <published>2023-03-28T11:49:02Z</published>
+    <updated>2023-03-28T11:49:02Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;
+</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
