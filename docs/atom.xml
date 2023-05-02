@@ -7,9 +7,16 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-02T07:48:43Z</updated>
+  <updated>2023-05-02T08:13:56Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <id>https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5vZmZhbHlleHByZXNzLmllL25ld3MvbGlmZXN0eWxlLzExNTk2NDQvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLmh0bWzSAQA?oc=5</id>
+    <title type="html">Gogglebox couple Giles and Mary on the peaks and troughs of ... - Offaly Live</title>
+    <updated>2023-05-02T08:09:06.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMigQFodHRwczovL3d3dy5vZmZhbHlleHByZXNzLmllL25ld3MvbGlmZXN0eWxlLzExNTk2NDQvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMigQFodHRwczovL3d3dy5vZmZhbHlleHByZXNzLmllL25ld3MvbGlmZXN0eWxlLzExNTk2NDQvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLmh0bWzSAQA?oc=5" target="_blank"&gt;Gogglebox couple Giles and Mary on the peaks and troughs of ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Offaly Live&lt;/font&gt;</content>
+  </entry>
   <entry>
     <title>Today: Light Cloud, Minimum Temperature: 5°C (40°F) Maximum Temperature: 15°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
@@ -17,8 +24,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1027mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-01T21:55:00.000+0000</id>
-    <published>2023-05-02T07:01:02Z</published>
-    <updated>2023-05-02T07:01:02Z</updated>
+    <published>2023-05-02T08:01:30Z</published>
+    <updated>2023-05-02T08:01:30Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (58°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-01T21:55:00.000+0000</id>
-    <published>2023-05-02T07:01:02Z</published>
-    <updated>2023-05-02T07:01:02Z</updated>
+    <published>2023-05-02T08:01:30Z</published>
+    <updated>2023-05-02T08:01:30Z</updated>
   </entry>
   <entry>
     <title>Thursday: Drizzle, Minimum Temperature: 10°C (51°F) Maximum Temperature: 18°C (64°F)</title>
@@ -37,15 +44,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 10°C (51°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-01T21:55:00.000+0000</id>
-    <published>2023-05-02T07:01:02Z</published>
-    <updated>2023-05-02T07:01:02Z</updated>
+    <published>2023-05-02T08:01:30Z</published>
+    <updated>2023-05-02T08:01:30Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lmh1bGxkYWlseW1haWwuY28udWsvbmV3cy9odWxsLWVhc3QteW9ya3NoaXJlLW5ld3MvZHJ1Zy1hZGRpY3RlZC1tdW0td2hvcy1hbGwtODQwMjE4OdIBZGh0dHBzOi8vd3d3Lmh1bGxkYWlseW1haWwuY28udWsvbmV3cy9odWxsLWVhc3QteW9ya3NoaXJlLW5ld3MvZHJ1Zy1hZGRpY3RlZC1tdW0td2hvcy1hbGwtODQwMjE4OS5hbXA?oc=5</id>
-    <title type="html">Drug-addicted mum who's 'all talk and no do' given last chance by judge - Hull Live</title>
-    <updated>2023-05-02T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmh1bGxkYWlseW1haWwuY28udWsvbmV3cy9odWxsLWVhc3QteW9ya3NoaXJlLW5ld3MvZHJ1Zy1hZGRpY3RlZC1tdW0td2hvcy1hbGwtODQwMjE4OdIBZGh0dHBzOi8vd3d3Lmh1bGxkYWlseW1haWwuY28udWsvbmV3cy9odWxsLWVhc3QteW9ya3NoaXJlLW5ld3MvZHJ1Zy1hZGRpY3RlZC1tdW0td2hvcy1hbGwtODQwMjE4OS5hbXA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmh1bGxkYWlseW1haWwuY28udWsvbmV3cy9odWxsLWVhc3QteW9ya3NoaXJlLW5ld3MvZHJ1Zy1hZGRpY3RlZC1tdW0td2hvcy1hbGwtODQwMjE4OdIBZGh0dHBzOi8vd3d3Lmh1bGxkYWlseW1haWwuY28udWsvbmV3cy9odWxsLWVhc3QteW9ya3NoaXJlLW5ld3MvZHJ1Zy1hZGRpY3RlZC1tdW0td2hvcy1hbGwtODQwMjE4OS5hbXA?oc=5" target="_blank"&gt;Drug-addicted mum who's 'all talk and no do' given last chance by judge&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hull Live&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5</id>
+    <title type="html">FTSE 100 Live: 'Palpable relief' as HSBC profits soar; BP earnings ... - msnNOW</title>
+    <updated>2023-05-02T07:36:44.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5" target="_blank"&gt;FTSE 100 Live: 'Palpable relief' as HSBC profits soar; BP earnings ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Z0c2UtMTAwLWxpdmUtaHNiYy1wcm9maXRzLTA2MDQwODYzNi5odG1s0gFSaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9mdHNlLTEwMC1saXZlLWhzYmMtcHJvZml0cy0wNjA0MDg2MzYuaHRtbA?oc=5</id>
+    <title type="html">FTSE 100 Live: ‘Palpable relief’ as HSBC profits soar; BP earnings down from record highs; EU inflation - Yahoo Eurosport UK</title>
+    <updated>2023-05-02T07:36:44.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiSmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Z0c2UtMTAwLWxpdmUtaHNiYy1wcm9maXRzLTA2MDQwODYzNi5odG1s0gFSaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9mdHNlLTEwMC1saXZlLWhzYmMtcHJvZml0cy0wNjA0MDg2MzYuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Z0c2UtMTAwLWxpdmUtaHNiYy1wcm9maXRzLTA2MDQwODYzNi5odG1s0gFSaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9mdHNlLTEwMC1saXZlLWhzYmMtcHJvZml0cy0wNjA0MDg2MzYuaHRtbA?oc=5" target="_blank"&gt;FTSE 100 Live: ‘Palpable relief’ as HSBC profits soar; BP earnings down from record highs; EU inflation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvYmFsaGFtLXBvbGljZS1pbnZpdGUtd29tZW4tdG8tam9pbi1hLWZvb3QtcGF0cm9sLW9mLXRoZS1sb2NhbC1hcmVhLTE4MTk4M9IBAA?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2023-04-28T06:00:13.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjMvYXByLzI4L2hvbWVzLXRvLXRlbXB0LWJyaXRpc2gtYnV5ZXJzLXRoaXMtc3ByaW5nLWluLXBpY3R1cmVz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjMvYXByLzI4L2hvbWVzLXRvLXRlbXB0LWJyaXRpc2gtYnV5ZXJzLXRoaXMtc3ByaW5nLWluLXBpY3R1cmVz0gEA?oc=5" target="_blank"&gt;Homes to tempt British buyers this spring – in pictures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25zLWJpZy01LXRvcC1zdG9yaWVzLTI2Nzk2OTA10gFRaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbnMtYmlnLTUtdG9wLXN0b3JpZXMtMjY3OTY5MDUuYW1w?oc=5</id>
-    <title type="html">Top stories from 'suspects shoot vehicle' to LGBT flatmates' house firebombed - My London</title>
-    <updated>2023-04-28T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25zLWJpZy01LXRvcC1zdG9yaWVzLTI2Nzk2OTA10gFRaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbnMtYmlnLTUtdG9wLXN0b3JpZXMtMjY3OTY5MDUuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25zLWJpZy01LXRvcC1zdG9yaWVzLTI2Nzk2OTA10gFRaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbnMtYmlnLTUtdG9wLXN0b3JpZXMtMjY3OTY5MDUuYW1w?oc=5" target="_blank"&gt;Top stories from 'suspects shoot vehicle' to LGBT flatmates' house firebombed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lmhlci5pZS9jZWxlYi90aWt0b2tlci1idXJzdHMtdGVhcnMtc3RyYW5nZXJzLXJlZnVzZS1vZmZlci1wYXktZ3JvY2VyaWVzLTU3OTM3MdIBXmh0dHBzOi8vd3d3Lmhlci5pZS9hbXAvY2VsZWIvdGlrdG9rZXItYnVyc3RzLXRlYXJzLXN0cmFuZ2Vycy1yZWZ1c2Utb2ZmZXItcGF5LWdyb2Nlcmllcy01NzkzNzE?oc=5</id>
-    <title type="html">TikToker bursts into tears after strangers refuse her offer to pay for their groceries - Her.ie</title>
-    <updated>2023-04-27T15:30:33.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lmhlci5pZS9jZWxlYi90aWt0b2tlci1idXJzdHMtdGVhcnMtc3RyYW5nZXJzLXJlZnVzZS1vZmZlci1wYXktZ3JvY2VyaWVzLTU3OTM3MdIBXmh0dHBzOi8vd3d3Lmhlci5pZS9hbXAvY2VsZWIvdGlrdG9rZXItYnVyc3RzLXRlYXJzLXN0cmFuZ2Vycy1yZWZ1c2Utb2ZmZXItcGF5LWdyb2Nlcmllcy01NzkzNzE?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lmhlci5pZS9jZWxlYi90aWt0b2tlci1idXJzdHMtdGVhcnMtc3RyYW5nZXJzLXJlZnVzZS1vZmZlci1wYXktZ3JvY2VyaWVzLTU3OTM3MdIBXmh0dHBzOi8vd3d3Lmhlci5pZS9hbXAvY2VsZWIvdGlrdG9rZXItYnVyc3RzLXRlYXJzLXN0cmFuZ2Vycy1yZWZ1c2Utb2ZmZXItcGF5LWdyb2Nlcmllcy01NzkzNzE?oc=5" target="_blank"&gt;TikToker bursts into tears after strangers refuse her offer to pay for their groceries&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Her.ie&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
