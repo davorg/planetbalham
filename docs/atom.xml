@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-02T14:48:39Z</updated>
+  <updated>2023-05-02T15:13:34Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Today: Sunny Intervals, Minimum Temperature: 5°C (40°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 5°C (40°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 62%, UV Risk: 3, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:25 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-02T09:55:00.000+0000</id>
-    <published>2023-05-02T14:03:01Z</published>
-    <updated>2023-05-02T14:03:01Z</updated>
+    <published>2023-05-02T15:02:01Z</published>
+    <updated>2023-05-02T15:02:01Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 7°C (44°F) Maximum Temperature: 14°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (58°F), Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1026mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-02T09:55:00.000+0000</id>
-    <published>2023-05-02T14:03:01Z</published>
-    <updated>2023-05-02T14:03:01Z</updated>
+    <published>2023-05-02T15:02:01Z</published>
+    <updated>2023-05-02T15:02:01Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (65°F)</title>
@@ -37,15 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (51°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1015mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-02T09:55:00.000+0000</id>
-    <published>2023-05-02T14:03:01Z</published>
-    <updated>2023-05-02T14:03:01Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL2Z0c2UtMTAwLWxpdmUtaHNiYy1wcm9maXRzLTA2MDQwODg3Ni5odG1s0gFHaHR0cHM6Ly93d3cuYW9sLmNvLnVrL2FtcGh0bWwvZnRzZS0xMDAtbGl2ZS1oc2JjLXByb2ZpdHMtMDYwNDA4ODc2Lmh0bWw?oc=5</id>
-    <title type="html">FTSE 100 Live: Inflation rise a ‘clear invitation’ for ECB rate hike; fresh fury at BP profits - AOL UK</title>
-    <updated>2023-05-02T11:57:28.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL2Z0c2UtMTAwLWxpdmUtaHNiYy1wcm9maXRzLTA2MDQwODg3Ni5odG1s0gFHaHR0cHM6Ly93d3cuYW9sLmNvLnVrL2FtcGh0bWwvZnRzZS0xMDAtbGl2ZS1oc2JjLXByb2ZpdHMtMDYwNDA4ODc2Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LmFvbC5jby51ay9uZXdzL2Z0c2UtMTAwLWxpdmUtaHNiYy1wcm9maXRzLTA2MDQwODg3Ni5odG1s0gFHaHR0cHM6Ly93d3cuYW9sLmNvLnVrL2FtcGh0bWwvZnRzZS0xMDAtbGl2ZS1oc2JjLXByb2ZpdHMtMDYwNDA4ODc2Lmh0bWw?oc=5" target="_blank"&gt;FTSE 100 Live: Inflation rise a ‘clear invitation’ for ECB rate hike; fresh fury at BP profits&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AOL UK&lt;/font&gt;</content>
+    <published>2023-05-02T15:02:01Z</published>
+    <updated>2023-05-02T15:02:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L21hcmtldHMvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItc3VycHJpc2UtZXUtaW5mbGF0aW9uLXJpc2UvYXItQUExYUJZc2_SAQA?oc=5</id>
@@ -74,6 +67,13 @@
     <updated>2023-04-28T06:00:13.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjMvYXByLzI4L2hvbWVzLXRvLXRlbXB0LWJyaXRpc2gtYnV5ZXJzLXRoaXMtc3ByaW5nLWluLXBpY3R1cmVz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tb25leS9nYWxsZXJ5LzIwMjMvYXByLzI4L2hvbWVzLXRvLXRlbXB0LWJyaXRpc2gtYnV5ZXJzLXRoaXMtc3ByaW5nLWluLXBpY3R1cmVz0gEA?oc=5" target="_blank"&gt;Homes to tempt British buyers this spring – in pictures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3Lmh1ZmZpbmd0b25wb3N0LmNvLnVrL2VudHJ5L3RoaW5ncy1wYXJlbnRzLW9mLXR3aW5zLW5ldmVyLXdhbnQtdG8taGVhcl91a182NDQ5N2E4OGU0YjAxMWE4MTljNTRiZjHSAXJodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5jby51ay9hbXAvZW50cnkvdGhpbmdzLXBhcmVudHMtb2YtdHdpbnMtbmV2ZXItd2FudC10by1oZWFyX3VrXzY0NDk3YTg4ZTRiMDExYTgxOWM1NGJmMS8?oc=5</id>
+    <title type="html">I’m A Mum To Twins, Here Are 7 Things Parents Of Multiples Never Want To Hear - HuffPost UK</title>
+    <updated>2023-04-28T04:00:04.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3Lmh1ZmZpbmd0b25wb3N0LmNvLnVrL2VudHJ5L3RoaW5ncy1wYXJlbnRzLW9mLXR3aW5zLW5ldmVyLXdhbnQtdG8taGVhcl91a182NDQ5N2E4OGU0YjAxMWE4MTljNTRiZjHSAXJodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5jby51ay9hbXAvZW50cnkvdGhpbmdzLXBhcmVudHMtb2YtdHdpbnMtbmV2ZXItd2FudC10by1oZWFyX3VrXzY0NDk3YTg4ZTRiMDExYTgxOWM1NGJmMS8?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3Lmh1ZmZpbmd0b25wb3N0LmNvLnVrL2VudHJ5L3RoaW5ncy1wYXJlbnRzLW9mLXR3aW5zLW5ldmVyLXdhbnQtdG8taGVhcl91a182NDQ5N2E4OGU0YjAxMWE4MTljNTRiZjHSAXJodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5jby51ay9hbXAvZW50cnkvdGhpbmdzLXBhcmVudHMtb2YtdHdpbnMtbmV2ZXItd2FudC10by1oZWFyX3VrXzY0NDk3YTg4ZTRiMDExYTgxOWM1NGJmMS8?oc=5" target="_blank"&gt;I’m A Mum To Twins, Here Are 7 Things Parents Of Multiples Never Want To Hear&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HuffPost UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
