@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-03T14:48:50Z</updated>
+  <updated>2023-05-03T15:13:17Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1024mb, Humidity: 51%, UV Risk: 6, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-03T09:02:00.000+0000</id>
-    <published>2023-05-03T14:14:40Z</published>
-    <updated>2023-05-03T14:14:40Z</updated>
+    <published>2023-05-03T15:03:08Z</published>
+    <updated>2023-05-03T15:03:08Z</updated>
   </entry>
   <entry>
     <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (65°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1015mb, Humidity: 66%, UV Risk: 6, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-03T09:02:00.000+0000</id>
-    <published>2023-05-03T14:14:40Z</published>
-    <updated>2023-05-03T14:14:40Z</updated>
+    <published>2023-05-03T15:03:08Z</published>
+    <updated>2023-05-03T15:03:08Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:26 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-03T09:02:00.000+0000</id>
-    <published>2023-05-03T14:14:40Z</published>
-    <updated>2023-05-03T14:14:40Z</updated>
+    <published>2023-05-03T15:03:08Z</published>
+    <updated>2023-05-03T15:03:08Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3NhaW5zYnVyeXMtcmVjZWlwdHMtc3VwZXJtYXJrZXQtYmFycmllci1jaGVja291dC_SAUxodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy9zYWluc2J1cnlzLXJlY2VpcHRzLXN1cGVybWFya2V0LWJhcnJpZXItY2hlY2tvdXQv?oc=5</id>
+    <title type="html">'It's ridiculous!': Furious Sainsbury’s shoppers criticise new barriers 'detaining' customers who fail to... - LBC</title>
+    <updated>2023-05-03T15:02:10.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3NhaW5zYnVyeXMtcmVjZWlwdHMtc3VwZXJtYXJrZXQtYmFycmllci1jaGVja291dC_SAUxodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy9zYWluc2J1cnlzLXJlY2VpcHRzLXN1cGVybWFya2V0LWJhcnJpZXItY2hlY2tvdXQv?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3LmxiYy5jby51ay9uZXdzL3NhaW5zYnVyeXMtcmVjZWlwdHMtc3VwZXJtYXJrZXQtYmFycmllci1jaGVja291dC_SAUxodHRwczovL2FtcC5sYmMuY28udWsvbmV3cy9zYWluc2J1cnlzLXJlY2VpcHRzLXN1cGVybWFya2V0LWJhcnJpZXItY2hlY2tvdXQv?oc=5" target="_blank"&gt;'It's ridiculous!': Furious Sainsbury’s shoppers criticise new barriers 'detaining' customers who fail to...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LBC&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9zYWluc2J1cnlzLXNob3BwZXJzLWZ1cmlvdXMtbW9yZS1zdG9yZXMtMjk4ODA3NDPSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvc2FpbnNidXJ5cy1zaG9wcGVycy1mdXJpb3VzLW1vcmUtc3RvcmVzLTI5ODgwNzQzLmFtcA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-05-02T16:36:12.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9saWZlc3R5bGUvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLTE0NzAxODguaHRtbNIBf2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvbGlmZXN0eWxlL2dvZ2dsZWJveC1jb3VwbGUtZ2lsZXMtYW5kLW1hcnktb24tdGhlLXBlYWtzLWFuZC10cm91Z2hzLW9mLW1hcnJpZWQtbGlmZS0xNDcwMTg4Lmh0bWw?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9saWZlc3R5bGUvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLTE0NzAxODguaHRtbNIBf2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvbGlmZXN0eWxlL2dvZ2dsZWJveC1jb3VwbGUtZ2lsZXMtYW5kLW1hcnktb24tdGhlLXBlYWtzLWFuZC10cm91Z2hzLW9mLW1hcnJpZWQtbGlmZS0xNDcwMTg4Lmh0bWw?oc=5" target="_blank"&gt;Gogglebox couple Giles and Mary on the peaks and troughs of married life&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BreakingNews.ie&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5</id>
-    <title type="html">FTSE 100 Live: London shares lowest in almost a month; big ... - msnNOW</title>
-    <updated>2023-05-02T16:18:08.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5" target="_blank"&gt;FTSE 100 Live: London shares lowest in almost a month; big ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
