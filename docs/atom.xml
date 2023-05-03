@@ -7,18 +7,25 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-03T15:48:36Z</updated>
+  <updated>2023-05-03T16:13:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (57°F)</title>
+    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2FpbnNidXJ5cy1zaG9wcGVycy1vdXRyYWdlZC1vdmVyLXBhdGhldGljLTE0MzAzODUyMS5odG1s0gFbaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NhaW5zYnVyeXMtc2hvcHBlcnMtb3V0cmFnZWQtb3Zlci1wYXRoZXRpYy0xNDMwMzg1MjEuaHRtbA?oc=5</id>
+    <title type="html">Sainsbury's shoppers outraged over 'pathetic' security gates at Balham store - Yahoo News UK</title>
+    <updated>2023-05-03T16:07:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2FpbnNidXJ5cy1zaG9wcGVycy1vdXRyYWdlZC1vdmVyLXBhdGhldGljLTE0MzAzODUyMS5odG1s0gFbaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NhaW5zYnVyeXMtc2hvcHBlcnMtb3V0cmFnZWQtb3Zlci1wYXRoZXRpYy0xNDMwMzg1MjEuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2FpbnNidXJ5cy1zaG9wcGVycy1vdXRyYWdlZC1vdmVyLXBhdGhldGljLTE0MzAzODUyMS5odG1s0gFbaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NhaW5zYnVyeXMtc2hvcHBlcnMtb3V0cmFnZWQtb3Zlci1wYXRoZXRpYy0xNDMwMzg1MjEuaHRtbA?oc=5" target="_blank"&gt;Sainsbury's shoppers outraged over 'pathetic' security gates at Balham store&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: 6°C (43°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1024mb, Humidity: 52%, UV Risk: 6, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 6°C (43°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1021mb, Humidity: 76%, UV Risk: 3, Pollution: Low, Sunset: 20:26 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-03T09:02:00.000+0000</id>
-    <published>2023-05-03T15:15:01Z</published>
-    <updated>2023-05-03T15:15:01Z</updated>
+    <published>2023-05-03T16:01:13Z</published>
+    <updated>2023-05-03T16:01:13Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (65°F)</title>
@@ -27,8 +34,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1015mb, Humidity: 66%, UV Risk: 6, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-03T09:02:00.000+0000</id>
-    <published>2023-05-03T15:15:01Z</published>
-    <updated>2023-05-03T15:15:01Z</updated>
+    <published>2023-05-03T16:01:13Z</published>
+    <updated>2023-05-03T16:01:13Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,15 +44,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:26 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-03T09:02:00.000+0000</id>
-    <published>2023-05-03T15:15:01Z</published>
-    <updated>2023-05-03T15:15:01Z</updated>
+    <published>2023-05-03T16:01:13Z</published>
+    <updated>2023-05-03T16:01:13Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9zYWluc2J1cnlzLXNob3BwZXJzLWZ1cmlvdXMtbW9yZS1zdG9yZXMtMjk4ODA3NDPSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvc2FpbnNidXJ5cy1zaG9wcGVycy1mdXJpb3VzLW1vcmUtc3RvcmVzLTI5ODgwNzQzLmFtcA?oc=5</id>
-    <title type="html">Sainsbury's shoppers furious as more stores force customers to scan receipts to leave - The Mirror</title>
-    <updated>2023-05-03T14:02:32.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9zYWluc2J1cnlzLXNob3BwZXJzLWZ1cmlvdXMtbW9yZS1zdG9yZXMtMjk4ODA3NDPSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvc2FpbnNidXJ5cy1zaG9wcGVycy1mdXJpb3VzLW1vcmUtc3RvcmVzLTI5ODgwNzQzLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9zYWluc2J1cnlzLXNob3BwZXJzLWZ1cmlvdXMtbW9yZS1zdG9yZXMtMjk4ODA3NDPSAVNodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvc2FpbnNidXJ5cy1zaG9wcGVycy1mdXJpb3VzLW1vcmUtc3RvcmVzLTI5ODgwNzQzLmFtcA?oc=5" target="_blank"&gt;Sainsbury's shoppers furious as more stores force customers to scan receipts to leave&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM0OTgzODkuYmFsaGFtLXNhaW5zYnVyeXMtc2hvcHBlcnMtb3V0cmFnZWQtcmVjZWlwdC1zY2FubmluZy1zdG9yZS_SAQA?oc=5</id>
+    <title type="html">Balham Sainsbury's shoppers outraged by receipt scanning at store - News Shopper</title>
+    <updated>2023-05-03T14:30:38.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM0OTgzODkuYmFsaGFtLXNhaW5zYnVyeXMtc2hvcHBlcnMtb3V0cmFnZWQtcmVjZWlwdC1zY2FubmluZy1zdG9yZS_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM0OTgzODkuYmFsaGFtLXNhaW5zYnVyeXMtc2hvcHBlcnMtb3V0cmFnZWQtcmVjZWlwdC1zY2FubmluZy1zdG9yZS_SAQA?oc=5" target="_blank"&gt;Balham Sainsbury's shoppers outraged by receipt scanning at store&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvZm91ci1sb2NhbC12b2x1bnRlZXJzLWhvbm91cmVkLWFzLWNvcm9uYXRpb24tY2hhbXBpb25zLTE4MjU1N9IBAA?oc=5</id>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tZ3Atc3VyZ2VyeS1tb3JlLTI2ODMxNDg40gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi1ncC1zdXJnZXJ5LW1vcmUtMjY4MzE0ODguYW1w?oc=5" target="_blank"&gt;London GP surgery with more than 8,000 patients could shut down despite petition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9saWZlc3R5bGUvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLTE0NzAxODguaHRtbNIBf2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvbGlmZXN0eWxlL2dvZ2dsZWJveC1jb3VwbGUtZ2lsZXMtYW5kLW1hcnktb24tdGhlLXBlYWtzLWFuZC10cm91Z2hzLW9mLW1hcnJpZWQtbGlmZS0xNDcwMTg4Lmh0bWw?oc=5</id>
-    <title type="html">Gogglebox couple Giles and Mary on the peaks and troughs of married life - BreakingNews.ie</title>
-    <updated>2023-05-02T16:36:12.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9saWZlc3R5bGUvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLTE0NzAxODguaHRtbNIBf2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvbGlmZXN0eWxlL2dvZ2dsZWJveC1jb3VwbGUtZ2lsZXMtYW5kLW1hcnktb24tdGhlLXBlYWtzLWFuZC10cm91Z2hzLW9mLW1hcnJpZWQtbGlmZS0xNDcwMTg4Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9saWZlc3R5bGUvZ29nZ2xlYm94LWNvdXBsZS1naWxlcy1hbmQtbWFyeS1vbi10aGUtcGVha3MtYW5kLXRyb3VnaHMtb2YtbWFycmllZC1saWZlLTE0NzAxODguaHRtbNIBf2h0dHBzOi8vd3d3LmJyZWFraW5nbmV3cy5pZS9hbXAvbGlmZXN0eWxlL2dvZ2dsZWJveC1jb3VwbGUtZ2lsZXMtYW5kLW1hcnktb24tdGhlLXBlYWtzLWFuZC10cm91Z2hzLW9mLW1hcnJpZWQtbGlmZS0xNDcwMTg4Lmh0bWw?oc=5" target="_blank"&gt;Gogglebox couple Giles and Mary on the peaks and troughs of married life&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BreakingNews.ie&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5</id>
-    <title type="html">FTSE 100 Live: London shares lowest in almost a month; big ... - msnNOW</title>
-    <updated>2023-05-02T16:18:08.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL21vbmV5L25ld3MvZnRzZS0xMDAtbGl2ZS1wYWxwYWJsZS1yZWxpZWYtYXMtaHNiYy1wcm9maXRzLXNvYXItYnAtZWFybmluZ3MtZG93bi1mcm9tLXJlY29yZC1oaWdocy1ldS1pbmZsYXRpb24vYXItQUExYUJZc2_SAQA?oc=5" target="_blank"&gt;FTSE 100 Live: London shares lowest in almost a month; big ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaG9tZW93bmVycy1jb3VsZC1pbnZhbGlkYXRpbmctaW5zdXJhbmNlLWhhdmluZy0wNDAwMDA5MjkuaHRtbNIBX2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ob21lb3duZXJzLWNvdWxkLWludmFsaWRhdGluZy1pbnN1cmFuY2UtaGF2aW5nLTA0MDAwMDkyOS5odG1s?oc=5</id>
+    <title type="html">How homeowners could be invalidating their insurance by having builders in - Yahoo News UK</title>
+    <updated>2023-05-03T04:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaG9tZW93bmVycy1jb3VsZC1pbnZhbGlkYXRpbmctaW5zdXJhbmNlLWhhdmluZy0wNDAwMDA5MjkuaHRtbNIBX2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ob21lb3duZXJzLWNvdWxkLWludmFsaWRhdGluZy1pbnN1cmFuY2UtaGF2aW5nLTA0MDAwMDkyOS5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vaG9tZW93bmVycy1jb3VsZC1pbnZhbGlkYXRpbmctaW5zdXJhbmNlLWhhdmluZy0wNDAwMDA5MjkuaHRtbNIBX2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9ob21lb3duZXJzLWNvdWxkLWludmFsaWRhdGluZy1pbnN1cmFuY2UtaGF2aW5nLTA0MDAwMDkyOS5odG1s?oc=5" target="_blank"&gt;How homeowners could be invalidating their insurance by having builders in&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
