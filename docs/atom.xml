@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-04T14:12:53Z</updated>
+  <updated>2023-05-04T14:48:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (65°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1012mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1012mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:28 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-04T09:51:00.000+0000</id>
-    <published>2023-05-04T14:04:49Z</published>
-    <updated>2023-05-04T14:04:49Z</updated>
+    <published>2023-05-04T14:30:04Z</published>
+    <updated>2023-05-04T14:30:04Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Friday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 75%, UV Risk: 5, Pollution: Low, Sunrise: 05:26 BST, Sunset: 20:29 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 75%, UV Risk: 5, Pollution: Low, Sunrise: 05:26 BST, Sunset: 20:29 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-04T09:51:00.000+0000</id>
-    <published>2023-05-04T14:04:49Z</published>
-    <updated>2023-05-04T14:04:49Z</updated>
+    <published>2023-05-04T14:30:04Z</published>
+    <updated>2023-05-04T14:30:04Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 16°C (60°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 12°C (53°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 81%, UV Risk: 1, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:31 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-04T09:51:00.000+0000</id>
-    <published>2023-05-04T14:04:49Z</published>
-    <updated>2023-05-04T14:04:49Z</updated>
+    <published>2023-05-04T14:30:04Z</published>
+    <updated>2023-05-04T14:30:04Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOmh0dHBzOi8vd3d3LmNhcmJsb2dpbmRpYS5jb20vY2Fycy13ZXN0LWhhbS11bml0ZWQtcGxheWVycy_SAT5odHRwczovL3d3dy5jYXJibG9naW5kaWEuY29tL2NhcnMtd2VzdC1oYW0tdW5pdGVkLXBsYXllcnMvYW1wLw?oc=5</id>
@@ -206,31 +206,38 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Harris hawk in the rain</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
-    <id>tag:flickr.com,2005:/photo/52777028314</id>
-    <published>2023-03-28T11:49:03Z</published>
-    <updated>2023-03-28T11:49:03Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Streatham Hill to Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52770779148/"/>
+    <id>tag:flickr.com,2005:/photo/52770779148</id>
+    <published>2023-03-25T16:52:05Z</published>
+    <updated>2023-03-25T16:52:05Z</updated>
+    <flickr:date_taken>2023-03-25T15:00:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-25T15:00:47-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52770779148/" title="Streatham Hill to Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_m.jpg" width="240" height="137" alt="Streatham Hill to Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham, London&lt;/p&gt;
+&lt;p&gt;Balham in the distance&lt;/p&gt;
 </content>
     <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52770779148_7b771f3ff8_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="streathamhill" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="station" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lines" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="signals" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trains" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sidings" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
