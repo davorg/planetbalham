@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-06T20:48:35Z</updated>
+  <updated>2023-05-06T21:12:47Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Light Rain, Minimum Temperature: 12°C (53°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (53°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 93%, UV Risk: 1, Pollution: Low, Sunset: 20:31 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (53°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 94%, UV Risk: 1, Pollution: Low, Sunset: 20:31 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-06T09:52:00.000+0000</id>
-    <published>2023-05-06T20:08:22Z</published>
-    <updated>2023-05-06T20:08:22Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-06T19:52:00.000+0000</id>
+    <published>2023-05-06T21:08:55Z</published>
+    <updated>2023-05-06T21:08:55Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:33 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:33 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-06T09:52:00.000+0000</id>
-    <published>2023-05-06T20:08:22Z</published>
-    <updated>2023-05-06T20:08:22Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-06T19:52:00.000+0000</id>
+    <published>2023-05-06T21:08:55Z</published>
+    <updated>2023-05-06T21:08:55Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Monday: Light Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 15°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 81%, UV Risk: 3, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 80%, UV Risk: 4, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-06T09:52:00.000+0000</id>
-    <published>2023-05-06T20:08:22Z</published>
-    <updated>2023-05-06T20:08:22Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-06T19:52:00.000+0000</id>
+    <published>2023-05-06T21:08:55Z</published>
+    <updated>2023-05-06T21:08:55Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25lci1zaG9ja2VkLWZpbmQtbm8tb25lLTI2ODYwMTAz0gFUaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbmVyLXNob2NrZWQtZmluZC1uby1vbmUtMjY4NjAxMDMuYW1w?oc=5</id>
