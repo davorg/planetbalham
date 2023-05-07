@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-07T02:50:34Z</updated>
+  <updated>2023-05-07T03:13:29Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 97%, UV Risk: 0, Pollution: Low, Sunset: 20:33 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 98%, UV Risk: 0, Pollution: Low, Sunset: 20:33 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-06T21:53:00.000+0000</id>
-    <published>2023-05-07T02:12:43Z</published>
-    <updated>2023-05-07T02:12:43Z</updated>
+    <published>2023-05-07T03:12:44Z</published>
+    <updated>2023-05-07T03:12:44Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 9°C (49°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 9°C (49°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:34 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-06T21:53:00.000+0000</id>
-    <published>2023-05-07T02:12:43Z</published>
-    <updated>2023-05-07T02:12:43Z</updated>
+    <published>2023-05-07T03:12:44Z</published>
+    <updated>2023-05-07T03:12:44Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 12°C (54°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 81%, UV Risk: 3, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:36 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 80%, UV Risk: 4, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:36 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-06T21:53:00.000+0000</id>
-    <published>2023-05-07T02:12:43Z</published>
-    <updated>2023-05-07T02:12:43Z</updated>
+    <published>2023-05-07T03:12:44Z</published>
+    <updated>2023-05-07T03:12:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9sb25kb25lci1zaG9ja2VkLWZpbmQtbm8tb25lLTI2ODYwMTAz0gFUaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xvbmRvbmVyLXNob2NrZWQtZmluZC1uby1vbmUtMjY4NjAxMDMuYW1w?oc=5</id>
@@ -55,6 +55,13 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMimQFodHRwczovL3d3dy5zamEub3JnLnVrL3ByZXNzLWNlbnRyZS9wcmVzcy1yZWxlYXNlcy9FeHRyYW9yZGluYXJ5LVN0LUpvaG4tQ29yb25hdGlvbi1DaGFtcHMtcmVjb2duaXNlZC1mb3Itb3V0c3RhbmRpbmctdm9sdW50ZWVyaW5nLWJ5LXRoZS1LaW5nLWFuZC1RdWVlbi_SAQA?oc=5" target="_blank"&gt;Extraordinary St John Coronation Champs recognised for ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;St John Ambulance&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMijAFodHRwczovL3d3dy5oYXNsZW1lcmVoZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi13YW50cy1mYXJuaGFtLXRvd24tdG8tZmluaXNoLXNlYXNvbi13aXRoLXNvdXRoZXJuLWNvbWJpbmF0aW9uLWN1cC1zdWNjZXNzLTYxMTc4MdIBAA?oc=5</id>
+    <title type="html">Paul Johnson wants Farnham Town to finish season with Southern ... - Haslemere Herald</title>
+    <updated>2023-05-05T08:03:03.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMijAFodHRwczovL3d3dy5oYXNsZW1lcmVoZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi13YW50cy1mYXJuaGFtLXRvd24tdG8tZmluaXNoLXNlYXNvbi13aXRoLXNvdXRoZXJuLWNvbWJpbmF0aW9uLWN1cC1zdWNjZXNzLTYxMTc4MdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMijAFodHRwczovL3d3dy5oYXNsZW1lcmVoZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi13YW50cy1mYXJuaGFtLXRvd24tdG8tZmluaXNoLXNlYXNvbi13aXRoLXNvdXRoZXJuLWNvbWJpbmF0aW9uLWN1cC1zdWNjZXNzLTYxMTc4MdIBAA?oc=5" target="_blank"&gt;Paul Johnson wants Farnham Town to finish season with Southern ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Haslemere Herald&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LnRoZXdyYXAuY29tL3F1ZWVuLWNoYXJsb3R0ZS1jYXN0LWNoYXJhY3RlcnMtYnJpZGdlcnRvbi1uZXRmbGl4L9IBAA?oc=5</id>
     <title type="html">Queen Charlotte Cast and Character Guide: Who Plays Who? - TheWrap</title>
     <updated>2023-05-04T17:42:56.000000000Z</updated>
@@ -67,13 +74,6 @@
     <updated>2023-05-04T10:44:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiRWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzY2MTAyL3NhaW5zYnVyeS1zaG9wcGVyLW5ldy1ydWxlc9IBSWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzY2MTAyL3NhaW5zYnVyeS1zaG9wcGVyLW5ldy1ydWxlcy9hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzY2MTAyL3NhaW5zYnVyeS1zaG9wcGVyLW5ldy1ydWxlc9IBSWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy91ay8xNzY2MTAyL3NhaW5zYnVyeS1zaG9wcGVyLW5ldy1ydWxlcy9hbXA?oc=5" target="_blank"&gt;New security barriers at Sainsbury's stores make shoppers 'feel like criminals'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGxhbnMtdG8tc2h1dC1pbmFkZXF1YXRlLWdwLXN1cmdlcnktaW4tYmFsaGFtLTE4MjYzNNIBAA?oc=5</id>
-    <title type="html">Plans to shut 'inadequate' GP surgery in Balham - Clapham Nub News</title>
-    <updated>2023-05-04T07:33:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGxhbnMtdG8tc2h1dC1pbmFkZXF1YXRlLWdwLXN1cmdlcnktaW4tYmFsaGFtLTE4MjYzNNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGxhbnMtdG8tc2h1dC1pbmFkZXF1YXRlLWdwLXN1cmdlcnktaW4tYmFsaGFtLTE4MjYzNNIBAA?oc=5" target="_blank"&gt;Plans to shut 'inadequate' GP surgery in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
