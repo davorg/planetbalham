@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-11T23:13:17Z</updated>
+  <updated>2023-05-11T23:48:37Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Light Cloud, Minimum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 20:40 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 20:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-11T21:54:00.000+0000</id>
-    <published>2023-05-11T23:04:49Z</published>
-    <updated>2023-05-11T23:04:49Z</updated>
+    <published>2023-05-11T23:20:54Z</published>
+    <updated>2023-05-11T23:20:54Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (56°F)</title>
+    <title>Friday: Light Rain, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (56°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 82%, UV Risk: 1, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1022mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-11T21:54:00.000+0000</id>
-    <published>2023-05-11T23:04:49Z</published>
-    <updated>2023-05-11T23:04:49Z</updated>
+    <published>2023-05-11T23:20:54Z</published>
+    <updated>2023-05-11T23:20:54Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 19°C (67°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 7°C (44°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 68%, UV Risk: 6, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-11T21:54:00.000+0000</id>
-    <published>2023-05-11T23:04:49Z</published>
-    <updated>2023-05-11T23:04:49Z</updated>
+    <published>2023-05-11T23:20:54Z</published>
+    <updated>2023-05-11T23:20:54Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvZm9vZGFuZGRyaW5rL290aGVyL3RoZS1iZXN0LWJydW5jaGVzLWluLWxvbmRvbi0yMDIzLWZyb20tbWlsay1iZWFjaC10by1tci1iYW8vYXItQUExYjJsZkI_bGk9QkJvUE9PbdIBAA?oc=5</id>
@@ -104,6 +104,38 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>29 December 1988 Balham VLT53</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
+    <id>tag:flickr.com,2005:/photo/52829496373</id>
+    <published>2023-04-19T08:31:00Z</published>
+    <updated>2023-04-19T08:31:00Z</updated>
+    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -198,35 +230,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Water off a hawk's back</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
-    <id>tag:flickr.com,2005:/photo/52777252443</id>
-    <published>2023-03-28T11:49:02Z</published>
-    <updated>2023-03-28T11:49:02Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
