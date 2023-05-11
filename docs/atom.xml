@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-11T13:13:51Z</updated>
+  <updated>2023-05-11T14:12:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 9°C (47°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 8°C (47°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 05:16 BST, Sunset: 20:39 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 8°C (47°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 62%, UV Risk: 2, Pollution: Low, Sunrise: 05:16 BST, Sunset: 20:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-11T09:57:00.000+0000</id>
-    <published>2023-05-11T13:12:44Z</published>
-    <updated>2023-05-11T13:12:44Z</updated>
+    <published>2023-05-11T14:12:45Z</published>
+    <updated>2023-05-11T14:12:45Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 8°C (47°F) Maximum Temperature: 13°C (55°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (55°F), Minimum Temperature: 8°C (47°F), Wind Direction: Northerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 83%, UV Risk: 1, Pollution: Low, Sunrise: 05:14 BST, Sunset: 20:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-11T09:57:00.000+0000</id>
-    <published>2023-05-11T13:12:44Z</published>
-    <updated>2023-05-11T13:12:44Z</updated>
+    <published>2023-05-11T14:12:45Z</published>
+    <updated>2023-05-11T14:12:45Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 7°C (45°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 69%, UV Risk: 6, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-11T09:57:00.000+0000</id>
-    <published>2023-05-11T13:12:44Z</published>
-    <updated>2023-05-11T13:12:44Z</updated>
+    <published>2023-05-11T14:12:45Z</published>
+    <updated>2023-05-11T14:12:45Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy90aGUtYmVzdC1icnVuY2hlcy1pbi1sb25kb24tMjAyMy1mcm9tLW1pbGstYmVhY2gtdG8tbXItYmFvL2FyLUFBMWIybGZC0gEA?oc=5</id>
@@ -63,10 +63,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWNpYWxpdHlmb29kbWFnYXppbmUuY29tL2Zvb2QtYW5kLWRyaW5rL3RyZW5kLXdhdGNoLWNyb2lzc2FudC1jcmF6edIBAA?oc=5</id>
-    <title type="html">Trend watch: Croissant crazy | Food &amp; Drink - Speciality Food</title>
+    <title type="html">Trend Watch: Croissant crazy | Food &amp; Drink - Speciality Food</title>
     <updated>2023-05-10T11:40:05.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWNpYWxpdHlmb29kbWFnYXppbmUuY29tL2Zvb2QtYW5kLWRyaW5rL3RyZW5kLXdhdGNoLWNyb2lzc2FudC1jcmF6edIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWNpYWxpdHlmb29kbWFnYXppbmUuY29tL2Zvb2QtYW5kLWRyaW5rL3RyZW5kLXdhdGNoLWNyb2lzc2FudC1jcmF6edIBAA?oc=5" target="_blank"&gt;Trend watch: Croissant crazy | Food &amp; Drink&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speciality Food&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWNpYWxpdHlmb29kbWFnYXppbmUuY29tL2Zvb2QtYW5kLWRyaW5rL3RyZW5kLXdhdGNoLWNyb2lzc2FudC1jcmF6edIBAA?oc=5" target="_blank"&gt;Trend Watch: Croissant crazy | Food &amp; Drink&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speciality Food&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3VrLXJlZ2lvbmFsL2FydGljbGUvU2hha2VzcGVhcmVzLVRIRS1NRVJSWS1XSVZFUy1SZS1JbWFnaW5lZC1Gb3ItV2FuZHN3b3J0aC1GcmluZ2UtMjAyMzA1MTDSAQA?oc=5</id>
