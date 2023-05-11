@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-11T08:13:42Z</updated>
+  <updated>2023-05-11T08:48:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -48,13 +48,6 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy90aGUtYmVzdC1icnVuY2hlcy1pbi1sb25kb24tMjAyMy1mcm9tLW1pbGstYmVhY2gtdG8tbXItYmFvL2FyLUFBMWIybGZC0gEA?oc=5" target="_blank"&gt;The best brunches in London 2023, from Milk Beach to Mr Bao&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiiwFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24td2luLWN1cC1maW5hbC1hcy1vd2VuLWRlYW4tc2VhbHMtaGF0LXRyaWNrLXdpdGgtZHJhbWF0aWMtZXh0cmEtdGltZS13aW5uZXItNjEzMzU30gEA?oc=5</id>
-    <title type="html">Farnham Town win cup final as Owen Dean seals hat-trick with ... - Liphook Herald</title>
-    <updated>2023-05-10T22:18:45.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiiwFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24td2luLWN1cC1maW5hbC1hcy1vd2VuLWRlYW4tc2VhbHMtaGF0LXRyaWNrLXdpdGgtZHJhbWF0aWMtZXh0cmEtdGltZS13aW5uZXItNjEzMzU30gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiiwFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24td2luLWN1cC1maW5hbC1hcy1vd2VuLWRlYW4tc2VhbHMtaGF0LXRyaWNrLXdpdGgtZHJhbWF0aWMtZXh0cmEtdGltZS13aW5uZXItNjEzMzU30gEA?oc=5" target="_blank"&gt;Farnham Town win cup final as Owen Dean seals hat-trick with ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liphook Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vZGFpbHkuYmFuZGNhbXAuY29tL2ZlYXR1cmVzL2N5bWFuZGUtc2VsZi10aXRsZWQtaW50ZXJ2aWV30gEA?oc=5</id>
     <title type="html">The Afro-Rock of UK Group Cymande Endures Through the Ages - bandcamp.com</title>
     <updated>2023-05-10T13:47:48.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2023-05-10T11:40:05.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWNpYWxpdHlmb29kbWFnYXppbmUuY29tL2Zvb2QtYW5kLWRyaW5rL3RyZW5kLXdhdGNoLWNyb2lzc2FudC1jcmF6edIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3LnNwZWNpYWxpdHlmb29kbWFnYXppbmUuY29tL2Zvb2QtYW5kLWRyaW5rL3RyZW5kLXdhdGNoLWNyb2lzc2FudC1jcmF6edIBAA?oc=5" target="_blank"&gt;Trend watch: Croissant crazy | Food &amp; Drink&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Speciality Food&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3VrLXJlZ2lvbmFsL2FydGljbGUvU2hha2VzcGVhcmVzLVRIRS1NRVJSWS1XSVZFUy1SZS1JbWFnaW5lZC1Gb3ItV2FuZHN3b3J0aC1GcmluZ2UtMjAyMzA1MTDSAQA?oc=5</id>
+    <title type="html">Shakespeare's THE MERRY WIVES Re-Imagined For Wandsworth ... - Broadway World</title>
+    <updated>2023-05-10T10:29:05.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3VrLXJlZ2lvbmFsL2FydGljbGUvU2hha2VzcGVhcmVzLVRIRS1NRVJSWS1XSVZFUy1SZS1JbWFnaW5lZC1Gb3ItV2FuZHN3b3J0aC1GcmluZ2UtMjAyMzA1MTDSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3VrLXJlZ2lvbmFsL2FydGljbGUvU2hha2VzcGVhcmVzLVRIRS1NRVJSWS1XSVZFUy1SZS1JbWFnaW5lZC1Gb3ItV2FuZHN3b3J0aC1GcmluZ2UtMjAyMzA1MTDSAQA?oc=5" target="_blank"&gt;Shakespeare's THE MERRY WIVES Re-Imagined For Wandsworth ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -140,41 +140,6 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>April 11th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
-    <id>tag:flickr.com,2005:/photo/52812095199</id>
-    <published>2023-04-12T13:43:26Z</published>
-    <updated>2023-04-12T13:43:26Z</updated>
-    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Waiting for No 3&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52779147911/"/>
     <id>tag:flickr.com,2005:/photo/52779147911</id>
@@ -202,6 +167,35 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Harris hawk in the rain</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
+    <id>tag:flickr.com,2005:/photo/52777028314</id>
+    <published>2023-03-28T11:49:03Z</published>
+    <updated>2023-03-28T11:49:03Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;
+</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
