@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-12T16:48:36Z</updated>
+  <updated>2023-05-12T17:12:48Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -17,8 +17,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 15mph, Visibility: Good, Pressure: 1024mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunset: 20:40 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-12T09:53:00.000+0000</id>
-    <published>2023-05-12T16:31:32Z</published>
-    <updated>2023-05-12T16:31:32Z</updated>
+    <published>2023-05-12T17:01:47Z</published>
+    <updated>2023-05-12T17:01:47Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 6°C (43°F) Maximum Temperature: 19°C (67°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 6°C (43°F), Wind Direction: Northerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 70%, UV Risk: 6, Pollution: Low, Sunrise: 05:13 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-12T09:53:00.000+0000</id>
-    <published>2023-05-12T16:31:32Z</published>
-    <updated>2023-05-12T16:31:32Z</updated>
+    <published>2023-05-12T17:01:47Z</published>
+    <updated>2023-05-12T17:01:47Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 62%, UV Risk: 7, Pollution: Low, Sunrise: 05:11 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-12T09:53:00.000+0000</id>
-    <published>2023-05-12T16:31:32Z</published>
-    <updated>2023-05-12T16:31:32Z</updated>
+    <published>2023-05-12T17:01:47Z</published>
+    <updated>2023-05-12T17:01:47Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2ZyZWQtYWdhaW4tYnJpdGlzaC1hcmlzdG9jcmF0LTUzMjE4MS0yMDIzMDUxMtIBAA?oc=5</id>
@@ -108,34 +108,37 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>29 December 1988 Balham VLT53</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
-    <id>tag:flickr.com,2005:/photo/52829496373</id>
-    <published>2023-04-19T08:31:00Z</published>
-    <updated>2023-04-19T08:31:00Z</updated>
-    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>April 11th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
+    <id>tag:flickr.com,2005:/photo/52812095199</id>
+    <published>2023-04-12T13:43:26Z</published>
+    <updated>2023-04-12T13:43:26Z</updated>
+    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-
+&lt;p&gt;Waiting for No 3&lt;/p&gt;
 </content>
     <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
