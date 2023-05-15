@@ -7,28 +7,35 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-15T15:13:09Z</updated>
+  <updated>2023-05-15T15:48:41Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 14°C (57°F)</title>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb25lci13aG8tdGFrZXMtMTgtMjY5MTkyNTLSAVlodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uZXItd2hvLXRha2VzLTE4LTI2OTE5MjUyLmFtcA?oc=5</id>
+    <title type="html">Londoner who takes 18 tablets a day begs NHS not to shut her GP surgery - My London</title>
+    <updated>2023-05-15T15:25:53.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb25lci13aG8tdGFrZXMtMTgtMjY5MTkyNTLSAVlodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uZXItd2hvLXRha2VzLTE4LTI2OTE5MjUyLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb25lci13aG8tdGFrZXMtMTgtMjY5MTkyNTLSAVlodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uZXItd2hvLXRha2VzLTE4LTI2OTE5MjUyLmFtcA?oc=5" target="_blank"&gt;Londoner who takes 18 tablets a day begs NHS not to shut her GP surgery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Today: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1021mb, Humidity: 54%, UV Risk: 2, Pollution: Low, Sunrise: 05:09 BST, Sunset: 20:45 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 13°C (56°F), Minimum Temperature: 6°C (43°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 56%, UV Risk: 2, Pollution: Low, Sunrise: 05:09 BST, Sunset: 20:45 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-15T09:56:00.000+0000</id>
-    <published>2023-05-15T15:00:14Z</published>
-    <updated>2023-05-15T15:00:14Z</updated>
+    <published>2023-05-15T15:23:53Z</published>
+    <updated>2023-05-15T15:23:53Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 05:08 BST, Sunset: 20:47 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1025mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:08 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-15T09:56:00.000+0000</id>
-    <published>2023-05-15T15:00:14Z</published>
-    <updated>2023-05-15T15:00:14Z</updated>
+    <published>2023-05-15T15:23:53Z</published>
+    <updated>2023-05-15T15:23:53Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 16°C (61°F)</title>
@@ -37,8 +44,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 8°C (46°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 05:07 BST, Sunset: 20:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-15T09:56:00.000+0000</id>
-    <published>2023-05-15T15:00:14Z</published>
-    <updated>2023-05-15T15:00:14Z</updated>
+    <published>2023-05-15T15:23:53Z</published>
+    <updated>2023-05-15T15:23:53Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-05-10T13:47:48.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vZGFpbHkuYmFuZGNhbXAuY29tL2ZlYXR1cmVzL2N5bWFuZGUtc2VsZi10aXRsZWQtaW50ZXJ2aWV30gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vZGFpbHkuYmFuZGNhbXAuY29tL2ZlYXR1cmVzL2N5bWFuZGUtc2VsZi10aXRsZWQtaW50ZXJ2aWV30gEA?oc=5" target="_blank"&gt;The Afro-Rock of UK Group Cymande Endures Through the Ages&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;bandcamp.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjMxMTAyNy9mb3JjZWQtb3V0LXRvd24tcG9zaC1uZXdjb21lcnMtaG91c2UtcHJpY2VzL9IBWGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjMxMTAyNy9mb3JjZWQtb3V0LXRvd24tcG9zaC1uZXdjb21lcnMtaG91c2UtcHJpY2VzL2FtcC8?oc=5</id>
-    <title type="html">We’re being forced out of our area – posh newcomers &amp; celebrities are driving house prices up... - The Sun</title>
-    <updated>2023-05-10T12:59:27.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjMxMTAyNy9mb3JjZWQtb3V0LXRvd24tcG9zaC1uZXdjb21lcnMtaG91c2UtcHJpY2VzL9IBWGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjMxMTAyNy9mb3JjZWQtb3V0LXRvd24tcG9zaC1uZXdjb21lcnMtaG91c2UtcHJpY2VzL2FtcC8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjMxMTAyNy9mb3JjZWQtb3V0LXRvd24tcG9zaC1uZXdjb21lcnMtaG91c2UtcHJpY2VzL9IBWGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjMxMTAyNy9mb3JjZWQtb3V0LXRvd24tcG9zaC1uZXdjb21lcnMtaG91c2UtcHJpY2VzL2FtcC8?oc=5" target="_blank"&gt;We’re being forced out of our area – posh newcomers &amp; celebrities are driving house prices up...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -206,16 +206,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Water off a hawk's back</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
-    <id>tag:flickr.com,2005:/photo/52777252443</id>
-    <published>2023-03-28T11:49:02Z</published>
-    <updated>2023-03-28T11:49:02Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
+    <title>Harris hawk in the rain</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
+    <id>tag:flickr.com,2005:/photo/52777028314</id>
+    <published>2023-03-28T11:49:03Z</published>
+    <updated>2023-03-28T11:49:03Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;
 </content>
@@ -225,11 +225,11 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
