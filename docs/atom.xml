@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-16T17:12:46Z</updated>
+  <updated>2023-05-16T17:48:48Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
     <title>Tonight: Clear Sky, Minimum Temperature: 8°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunset: 20:47 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (46°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1027mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-16T09:56:00.000+0000</id>
-    <published>2023-05-16T17:02:42Z</published>
-    <updated>2023-05-16T17:02:42Z</updated>
+    <published>2023-05-16T17:42:44Z</published>
+    <updated>2023-05-16T17:42:44Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 16°C (61°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 8°C (47°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 67%, UV Risk: 5, Pollution: Low, Sunrise: 05:07 BST, Sunset: 20:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-16T09:56:00.000+0000</id>
-    <published>2023-05-16T17:02:42Z</published>
-    <updated>2023-05-16T17:02:42Z</updated>
+    <published>2023-05-16T17:42:44Z</published>
+    <updated>2023-05-16T17:42:44Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 10°C (49°F) Maximum Temperature: 17°C (62°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 10°C (49°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-16T09:56:00.000+0000</id>
-    <published>2023-05-16T17:02:42Z</published>
-    <updated>2023-05-16T17:02:42Z</updated>
+    <published>2023-05-16T17:42:44Z</published>
+    <updated>2023-05-16T17:42:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5</id>
@@ -55,18 +55,18 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQGh0dHBzOi8vY2EubW92aWVzLnlhaG9vLmNvbS9vcGluaW9uLWRvbi10LWtub3ctbGwtMTEzMDI2MDYyLmh0bWzSAQA?oc=5" target="_blank"&gt;OPINION - I don't know how I'll survive the loss of my lido&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Movies Canada&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzIwNjc5MTM0LmJlc3QtYWxmcmVzY28tZGluaW5nLXNwb3RzLXNvdXRoLXdlc3QtbG9uZG9uL9IBAA?oc=5</id>
+    <title type="html">The Best Alfresco Dining Spots in South West London - The Resident</title>
+    <updated>2023-05-16T11:14:20.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzIwNjc5MTM0LmJlc3QtYWxmcmVzY28tZGluaW5nLXNwb3RzLXNvdXRoLXdlc3QtbG9uZG9uL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoZXJlc2lkZW50LmNvLnVrL2Zvb2QtYW5kLWRyaW5rL2ZlYXR1cmVzLzIwNjc5MTM0LmJlc3QtYWxmcmVzY28tZGluaW5nLXNwb3RzLXNvdXRoLXdlc3QtbG9uZG9uL9IBAA?oc=5" target="_blank"&gt;The Best Alfresco Dining Spots in South West London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Resident&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5</id>
     <title type="html">Patients slam proposals to close Balham GP surgery as 'ridiculous' - Clapham Nub News</title>
     <updated>2023-05-16T10:12:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5" target="_blank"&gt;Patients slam proposals to close Balham GP surgery as 'ridiculous'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS92aWRlby9uaWdlbC1mYXJhZ2UtYWRtaXRzLWJyZXhpdC1mYWlsZWQtMDg0MjM0MDI5Lmh0bWzSAVpodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC92aWRlby9uaWdlbC1mYXJhZ2UtYWRtaXRzLWJyZXhpdC1mYWlsZWQtMDg0MjM0MDI5Lmh0bWw?oc=5</id>
-    <title type="html">Nigel Farage admits Brexit has 'failed' five years after he said he'd leave the UK if it did - Yahoo Eurosport UK</title>
-    <updated>2023-05-16T08:42:34.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS92aWRlby9uaWdlbC1mYXJhZ2UtYWRtaXRzLWJyZXhpdC1mYWlsZWQtMDg0MjM0MDI5Lmh0bWzSAVpodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC92aWRlby9uaWdlbC1mYXJhZ2UtYWRtaXRzLWJyZXhpdC1mYWlsZWQtMDg0MjM0MDI5Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS92aWRlby9uaWdlbC1mYXJhZ2UtYWRtaXRzLWJyZXhpdC1mYWlsZWQtMDg0MjM0MDI5Lmh0bWzSAVpodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC92aWRlby9uaWdlbC1mYXJhZ2UtYWRtaXRzLWJyZXhpdC1mYWlsZWQtMDg0MjM0MDI5Lmh0bWw?oc=5" target="_blank"&gt;Nigel Farage admits Brexit has 'failed' five years after he said he'd leave the UK if it did&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5</id>
