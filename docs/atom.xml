@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-17T12:04:19Z</updated>
+  <updated>2023-05-17T18:03:54Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 15°C (60°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (49°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (60°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 56%, UV Risk: 6, Pollution: Low, Sunrise: 05:07 BST, Sunset: 20:48 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (49°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunset: 20:48 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-17T09:54:00.000+0000</id>
-    <published>2023-05-17T12:02:36Z</published>
-    <updated>2023-05-17T12:02:36Z</updated>
+    <published>2023-05-17T18:00:44Z</published>
+    <updated>2023-05-17T18:00:44Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Thundery Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1027mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Easterly, Wind Speed: 4mph, Visibility: Good, Pressure: 1028mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-17T09:54:00.000+0000</id>
-    <published>2023-05-17T12:02:36Z</published>
-    <updated>2023-05-17T12:02:36Z</updated>
+    <published>2023-05-17T18:00:44Z</published>
+    <updated>2023-05-17T18:00:44Z</updated>
   </entry>
   <entry>
     <title>Friday: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1027mb, Humidity: 69%, UV Risk: 3, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-17T09:54:00.000+0000</id>
-    <published>2023-05-17T12:02:36Z</published>
-    <updated>2023-05-17T12:02:36Z</updated>
+    <published>2023-05-17T18:00:44Z</published>
+    <updated>2023-05-17T18:00:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2NvbW1lbnQvdG9vdGluZy1iZWMtbGlkby1jbG9zZS1saWZlc3R5bGUtaGVhbHRoLXdlbGxiZWluZy1tZW50YWwtaGVhbHRoLWF3YXJlbmVzcy13ZWVrLWIxMDgxNDQxLmh0bWzSAQA?oc=5" target="_blank"&gt;I don't know how I'll survive the loss of my lido&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjA2NzkxMzQuYmVzdC1hbGZyZXNjby1kaW5pbmctc3BvdHMtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5</id>
-    <title type="html">The Best Alfresco Dining Spots in South West London - Sutton &amp; Croydon Guardian</title>
-    <updated>2023-05-16T11:08:36.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjA2NzkxMzQuYmVzdC1hbGZyZXNjby1kaW5pbmctc3BvdHMtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjA2NzkxMzQuYmVzdC1hbGZyZXNjby1kaW5pbmctc3BvdHMtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5" target="_blank"&gt;The Best Alfresco Dining Spots in South West London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sutton &amp; Croydon Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5</id>
     <title type="html">Patients slam proposals to close Balham GP surgery as 'ridiculous' - Clapham Nub News</title>
     <updated>2023-05-16T10:12:00.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2023-05-14T09:43:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5" target="_blank"&gt;London: Man goes to Balham kitchen and finds snake hissing at him&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2ZyZWQtYWdhaW4tYnJpdGlzaC1hcmlzdG9jcmF0LTUzMjE4MS0yMDIzMDUxMtIBAA?oc=5</id>
+    <title type="html">People baffled after realising Fred Again.. is part of the British ... - LADbible</title>
+    <updated>2023-05-12T10:03:34.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2ZyZWQtYWdhaW4tYnJpdGlzaC1hcmlzdG9jcmF0LTUzMjE4MS0yMDIzMDUxMtIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vd3d3LmxhZGJpYmxlLmNvbS9lbnRlcnRhaW5tZW50L2ZyZWQtYWdhaW4tYnJpdGlzaC1hcmlzdG9jcmF0LTUzMjE4MS0yMDIzMDUxMtIBAA?oc=5" target="_blank"&gt;People baffled after realising Fred Again.. is part of the British ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LADbible&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -140,6 +140,41 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>April 11th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
+    <id>tag:flickr.com,2005:/photo/52812095199</id>
+    <published>2023-04-12T13:43:26Z</published>
+    <updated>2023-04-12T13:43:26Z</updated>
+    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Waiting for No 3&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Milk 29-03-23</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52779147911/"/>
     <id>tag:flickr.com,2005:/photo/52779147911</id>
@@ -195,35 +230,6 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Water off a hawk's back</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
-    <id>tag:flickr.com,2005:/photo/52777252443</id>
-    <published>2023-03-28T11:49:02Z</published>
-    <updated>2023-03-28T11:49:02Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
