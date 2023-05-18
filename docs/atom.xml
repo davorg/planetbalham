@@ -7,25 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-18T06:04:09Z</updated>
+  <updated>2023-05-18T12:04:31Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <id>https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9wYXVsLWpvaG5zb24taGFpbHMtZmFybmhhbS10b3ducy1jaGFyYWN0ZXItYWZ0ZXItc291dGhlcm4tY29tYmluYXRpb24tY3VwLXN1Y2Nlc3MtNjE0NjY10gEA?oc=5</id>
-    <title type="html">Paul Johnson hails Farnham Town's character after Southern ... - Liphook Herald</title>
-    <updated>2023-05-18T06:01:43.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMihQFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9wYXVsLWpvaG5zb24taGFpbHMtZmFybmhhbS10b3ducy1jaGFyYWN0ZXItYWZ0ZXItc291dGhlcm4tY29tYmluYXRpb24tY3VwLXN1Y2Nlc3MtNjE0NjY10gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihQFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9wYXVsLWpvaG5zb24taGFpbHMtZmFybmhhbS10b3ducy1jaGFyYWN0ZXItYWZ0ZXItc291dGhlcm4tY29tYmluYXRpb24tY3VwLXN1Y2Nlc3MtNjE0NjY10gEA?oc=5" target="_blank"&gt;Paul Johnson hails Farnham Town's character after Southern ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liphook Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 9°C (49°F), Wind Direction: South Easterly, Wind Speed: 5mph, Visibility: Good, Pressure: 1028mb, Humidity: 64%, UV Risk: 6, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-17T21:53:00.000+0000</id>
-    <published>2023-05-18T05:57:35Z</published>
-    <updated>2023-05-18T05:57:35Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-18T09:54:00.000+0000</id>
+    <published>2023-05-18T12:03:51Z</published>
+    <updated>2023-05-18T12:03:51Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (60°F)</title>
@@ -33,19 +26,47 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-17T21:53:00.000+0000</id>
-    <published>2023-05-18T05:57:35Z</published>
-    <updated>2023-05-18T05:57:35Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-18T09:54:00.000+0000</id>
+    <published>2023-05-18T12:03:51Z</published>
+    <updated>2023-05-18T12:03:51Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1025mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 05:02 BST, Sunset: 20:52 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:02 BST, Sunset: 20:52 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-17T21:53:00.000+0000</id>
-    <published>2023-05-18T05:57:35Z</published>
-    <updated>2023-05-18T05:57:35Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-18T09:54:00.000+0000</id>
+    <published>2023-05-18T12:03:51Z</published>
+    <updated>2023-05-18T12:03:51Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL3Nob3dzLzEyNjAvam9lLXBhc3F1YWxlLXRoZS1uZXctbm9ybWFsLTQwLXllYXJzLW9mLWNhY2sv0gFWaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL2xpdmUvc2hvd3MvMTI2MC9qb2UtcGFzcXVhbGUtdGhlLW5ldy1ub3JtYWwtNDAteWVhcnMtb2YtY2Fjay8?oc=5</id>
+    <title type="html">Joe Pasquale: The New Normal - 40 Years Of Cack! - British Comedy Guide</title>
+    <updated>2023-05-18T11:06:34.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL3Nob3dzLzEyNjAvam9lLXBhc3F1YWxlLXRoZS1uZXctbm9ybWFsLTQwLXllYXJzLW9mLWNhY2sv0gFWaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL2xpdmUvc2hvd3MvMTI2MC9qb2UtcGFzcXVhbGUtdGhlLW5ldy1ub3JtYWwtNDAteWVhcnMtb2YtY2Fjay8?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL3Nob3dzLzEyNjAvam9lLXBhc3F1YWxlLXRoZS1uZXctbm9ybWFsLTQwLXllYXJzLW9mLWNhY2sv0gFWaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL2xpdmUvc2hvd3MvMTI2MC9qb2UtcGFzcXVhbGUtdGhlLW5ldy1ub3JtYWwtNDAteWVhcnMtb2YtY2Fjay8?oc=5" target="_blank"&gt;Joe Pasquale: The New Normal - 40 Years Of Cack!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5</id>
+    <title type="html">Joe Pasquale announces 40 Years Of Cack tour - British Comedy Guide</title>
+    <updated>2023-05-18T11:03:52.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5" target="_blank"&gt;Joe Pasquale announces 40 Years Of Cack tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMisQFodHRwczovL3d3dy5pcmlzaG5ld3MuY29tL2xpZmVzdHlsZS8yMDIzLzA1LzE4L25ld3MvZXgtZ2FuZ19tZW1iZXJfd2hvX2NvdWxkX2xvYWRfZ3VuX2JlZm9yZV93YXNoaW5nX21hY2hpbmVfbm93X2ZlZWxzX2JsZXNzZWRfaGVfZGlkbl90X2tpbGxfYWZ0ZXJfZml2ZV95ZWFyc19pbl9wcmlzb24tMzI4NjEwMS_SAQA?oc=5</id>
+    <title type="html">Ex-gang member who could 'load gun before washing machine' now ... - The Irish News </title>
+    <updated>2023-05-18T06:07:32.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMisQFodHRwczovL3d3dy5pcmlzaG5ld3MuY29tL2xpZmVzdHlsZS8yMDIzLzA1LzE4L25ld3MvZXgtZ2FuZ19tZW1iZXJfd2hvX2NvdWxkX2xvYWRfZ3VuX2JlZm9yZV93YXNoaW5nX21hY2hpbmVfbm93X2ZlZWxzX2JsZXNzZWRfaGVfZGlkbl90X2tpbGxfYWZ0ZXJfZml2ZV95ZWFyc19pbl9wcmlzb24tMzI4NjEwMS_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMisQFodHRwczovL3d3dy5pcmlzaG5ld3MuY29tL2xpZmVzdHlsZS8yMDIzLzA1LzE4L25ld3MvZXgtZ2FuZ19tZW1iZXJfd2hvX2NvdWxkX2xvYWRfZ3VuX2JlZm9yZV93YXNoaW5nX21hY2hpbmVfbm93X2ZlZWxzX2JsZXNzZWRfaGVfZGlkbl90X2tpbGxfYWZ0ZXJfZml2ZV95ZWFyc19pbl9wcmlzb24tMzI4NjEwMS_SAQA?oc=5" target="_blank"&gt;Ex-gang member who could 'load gun before washing machine' now ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish News &lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi1oYWlscy1mYXJuaGFtLXRvd25zLWNoYXJhY3Rlci1hZnRlci1zb3V0aGVybi1jb21iaW5hdGlvbi1jdXAtc3VjY2Vzcy02MTQ2NjXSAQA?oc=5</id>
+    <title type="html">Paul Johnson hails Farnham Town's character after Southern ... - Bordon Herald</title>
+    <updated>2023-05-18T06:04:04.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMihAFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi1oYWlscy1mYXJuaGFtLXRvd25zLWNoYXJhY3Rlci1hZnRlci1zb3V0aGVybi1jb21iaW5hdGlvbi1jdXAtc3VjY2Vzcy02MTQ2NjXSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihAFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi1oYWlscy1mYXJuaGFtLXRvd25zLWNoYXJhY3Rlci1hZnRlci1zb3V0aGVybi1jb21iaW5hdGlvbi1jdXAtc3VjY2Vzcy02MTQ2NjXSAQA?oc=5" target="_blank"&gt;Paul Johnson hails Farnham Town's character after Southern ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bordon Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5</id>
@@ -53,27 +74,6 @@
     <updated>2023-05-16T13:50:59.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5" target="_blank"&gt;Man with Parkinson's goes into research to help find a cure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2NvbW1lbnQvdG9vdGluZy1iZWMtbGlkby1jbG9zZS1saWZlc3R5bGUtaGVhbHRoLXdlbGxiZWluZy1tZW50YWwtaGVhbHRoLWF3YXJlbmVzcy13ZWVrLWIxMDgxNDQxLmh0bWzSAQA?oc=5</id>
-    <title type="html">I don't know how I'll survive the loss of my lido - Evening Standard</title>
-    <updated>2023-05-16T12:48:56.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2NvbW1lbnQvdG9vdGluZy1iZWMtbGlkby1jbG9zZS1saWZlc3R5bGUtaGVhbHRoLXdlbGxiZWluZy1tZW50YWwtaGVhbHRoLWF3YXJlbmVzcy13ZWVrLWIxMDgxNDQxLmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMif2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2NvbW1lbnQvdG9vdGluZy1iZWMtbGlkby1jbG9zZS1saWZlc3R5bGUtaGVhbHRoLXdlbGxiZWluZy1tZW50YWwtaGVhbHRoLWF3YXJlbmVzcy13ZWVrLWIxMDgxNDQxLmh0bWzSAQA?oc=5" target="_blank"&gt;I don't know how I'll survive the loss of my lido&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5</id>
-    <title type="html">Patients slam proposals to close Balham GP surgery as 'ridiculous' - Clapham Nub News</title>
-    <updated>2023-05-16T10:12:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcGF0aWVudHMtc2xhbS1wcm9wb3NhbHMtdG8tY2xvc2UtYmFsaGFtLWdwLXN1cmdlcnktYXMtcmlkaWN1bG91cy0xODQxOTLSAQA?oc=5" target="_blank"&gt;Patients slam proposals to close Balham GP surgery as 'ridiculous'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5</id>
-    <title type="html">London: Man goes to Balham kitchen and finds snake hissing at him - Metro.co.uk</title>
-    <updated>2023-05-14T09:43:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8xNC9sb25kb24tbWFuLWdvZXMtdG8tYmFsaGFtLWtpdGNoZW4tYW5kLWZpbmRzLXNuYWtlLWhpc3NpbmctYXQtaGltLTE4NzgwMzE5L2FtcC8?oc=5" target="_blank"&gt;London: Man goes to Balham kitchen and finds snake hissing at him&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
