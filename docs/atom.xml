@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-18T12:04:31Z</updated>
+  <updated>2023-05-18T18:04:12Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 9°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 9°C (48°F), Wind Direction: Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 05:05 BST, Sunset: 20:49 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (47°F), Wind Direction: South Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1028mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-18T09:54:00.000+0000</id>
-    <published>2023-05-18T12:03:51Z</published>
-    <updated>2023-05-18T12:03:51Z</updated>
+    <published>2023-05-18T18:02:32Z</published>
+    <updated>2023-05-18T18:02:32Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (60°F)</title>
+    <title>Friday: Light Rain, Minimum Temperature: 7°C (45°F) Maximum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (60°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1028mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (59°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1027mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-18T09:54:00.000+0000</id>
-    <published>2023-05-18T12:03:51Z</published>
-    <updated>2023-05-18T12:03:51Z</updated>
+    <published>2023-05-18T18:02:32Z</published>
+    <updated>2023-05-18T18:02:32Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (63°F)</title>
@@ -37,22 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:02 BST, Sunset: 20:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-18T09:54:00.000+0000</id>
-    <published>2023-05-18T12:03:51Z</published>
-    <updated>2023-05-18T12:03:51Z</updated>
+    <published>2023-05-18T18:02:32Z</published>
+    <updated>2023-05-18T18:02:32Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvaXJpc2gtYnJlZC1ldmVudGVycy1tYXktMjB0aC0yMDIzLTc2NTgyNtIBSWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvYW1wL2lyaXNoLWJyZWQtZXZlbnRlcnMtbWF5LTIwdGgtMjAyMy03NjU4MjY?oc=5</id>
+    <title type="html">IRISH-BRED EVENTERS: MAY 20th 2023 18 May 2023 Free - The Irish Field</title>
+    <updated>2023-05-18T15:45:35.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvaXJpc2gtYnJlZC1ldmVudGVycy1tYXktMjB0aC0yMDIzLTc2NTgyNtIBSWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvYW1wL2lyaXNoLWJyZWQtZXZlbnRlcnMtbWF5LTIwdGgtMjAyMy03NjU4MjY?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvaXJpc2gtYnJlZC1ldmVudGVycy1tYXktMjB0aC0yMDIzLTc2NTgyNtIBSWh0dHBzOi8vd3d3LnRoZWlyaXNoZmllbGQuaWUvYW1wL2lyaXNoLWJyZWQtZXZlbnRlcnMtbWF5LTIwdGgtMjAyMy03NjU4MjY?oc=5" target="_blank"&gt;IRISH-BRED EVENTERS: MAY 20th 2023 18 May 2023 Free&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish Field&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5</id>
+    <title type="html">Bank Holiday weekend travel disruption looms with works planned ... - London News Online</title>
+    <updated>2023-05-18T14:23:53.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5" target="_blank"&gt;Bank Holiday weekend travel disruption looms with works planned ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL3Nob3dzLzEyNjAvam9lLXBhc3F1YWxlLXRoZS1uZXctbm9ybWFsLTQwLXllYXJzLW9mLWNhY2sv0gFWaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL2xpdmUvc2hvd3MvMTI2MC9qb2UtcGFzcXVhbGUtdGhlLW5ldy1ub3JtYWwtNDAteWVhcnMtb2YtY2Fjay8?oc=5</id>
     <title type="html">Joe Pasquale: The New Normal - 40 Years Of Cack! - British Comedy Guide</title>
-    <updated>2023-05-18T11:06:34.000000000Z</updated>
+    <updated>2023-05-18T11:06:29.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL3Nob3dzLzEyNjAvam9lLXBhc3F1YWxlLXRoZS1uZXctbm9ybWFsLTQwLXllYXJzLW9mLWNhY2sv0gFWaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL2xpdmUvc2hvd3MvMTI2MC9qb2UtcGFzcXVhbGUtdGhlLW5ldy1ub3JtYWwtNDAteWVhcnMtb2YtY2Fjay8?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL3Nob3dzLzEyNjAvam9lLXBhc3F1YWxlLXRoZS1uZXctbm9ybWFsLTQwLXllYXJzLW9mLWNhY2sv0gFWaHR0cHM6Ly93d3cuY29tZWR5LmNvLnVrL2xpdmUvc2hvd3MvMTI2MC9qb2UtcGFzcXVhbGUtdGhlLW5ldy1ub3JtYWwtNDAteWVhcnMtb2YtY2Fjay8?oc=5" target="_blank"&gt;Joe Pasquale: The New Normal - 40 Years Of Cack!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5</id>
-    <title type="html">Joe Pasquale announces 40 Years Of Cack tour - British Comedy Guide</title>
-    <updated>2023-05-18T11:03:52.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5" target="_blank"&gt;Joe Pasquale announces 40 Years Of Cack tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMisQFodHRwczovL3d3dy5pcmlzaG5ld3MuY29tL2xpZmVzdHlsZS8yMDIzLzA1LzE4L25ld3MvZXgtZ2FuZ19tZW1iZXJfd2hvX2NvdWxkX2xvYWRfZ3VuX2JlZm9yZV93YXNoaW5nX21hY2hpbmVfbm93X2ZlZWxzX2JsZXNzZWRfaGVfZGlkbl90X2tpbGxfYWZ0ZXJfZml2ZV95ZWFyc19pbl9wcmlzb24tMzI4NjEwMS_SAQA?oc=5</id>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMisQFodHRwczovL3d3dy5pcmlzaG5ld3MuY29tL2xpZmVzdHlsZS8yMDIzLzA1LzE4L25ld3MvZXgtZ2FuZ19tZW1iZXJfd2hvX2NvdWxkX2xvYWRfZ3VuX2JlZm9yZV93YXNoaW5nX21hY2hpbmVfbm93X2ZlZWxzX2JsZXNzZWRfaGVfZGlkbl90X2tpbGxfYWZ0ZXJfZml2ZV95ZWFyc19pbl9wcmlzb24tMzI4NjEwMS_SAQA?oc=5" target="_blank"&gt;Ex-gang member who could 'load gun before washing machine' now ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Irish News &lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi1oYWlscy1mYXJuaGFtLXRvd25zLWNoYXJhY3Rlci1hZnRlci1zb3V0aGVybi1jb21iaW5hdGlvbi1jdXAtc3VjY2Vzcy02MTQ2NjXSAQA?oc=5</id>
-    <title type="html">Paul Johnson hails Farnham Town's character after Southern ... - Bordon Herald</title>
-    <updated>2023-05-18T06:04:04.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMihAFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi1oYWlscy1mYXJuaGFtLXRvd25zLWNoYXJhY3Rlci1hZnRlci1zb3V0aGVybi1jb21iaW5hdGlvbi1jdXAtc3VjY2Vzcy02MTQ2NjXSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihAFodHRwczovL3d3dy5ib3Jkb25oZXJhbGQuY29tL3Nwb3J0L2Zvb3RiYWxsL3BhdWwtam9obnNvbi1oYWlscy1mYXJuaGFtLXRvd25zLWNoYXJhY3Rlci1hZnRlci1zb3V0aGVybi1jb21iaW5hdGlvbi1jdXAtc3VjY2Vzcy02MTQ2NjXSAQA?oc=5" target="_blank"&gt;Paul Johnson hails Farnham Town's character after Southern ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bordon Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5</id>
-    <title type="html">Man with Parkinson's goes into research to help find a cure - London News Online</title>
-    <updated>2023-05-16T13:50:59.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9tYW4td2l0aC1wYXJraW5zb25zLWdvZXMtaW50by1yZXNlYXJjaC10by1oZWxwLWZpbmQtYS1jdXJlL9IBAA?oc=5" target="_blank"&gt;Man with Parkinson's goes into research to help find a cure&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9wYXVsLWpvaG5zb24taGFpbHMtZmFybmhhbS10b3ducy1jaGFyYWN0ZXItYWZ0ZXItc291dGhlcm4tY29tYmluYXRpb24tY3VwLXN1Y2Nlc3MtNjE0NjY10gEA?oc=5</id>
+    <title type="html">Paul Johnson hails Farnham Town's character after Southern ... - Liphook Herald</title>
+    <updated>2023-05-18T06:02:11.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMihQFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9wYXVsLWpvaG5zb24taGFpbHMtZmFybmhhbS10b3ducy1jaGFyYWN0ZXItYWZ0ZXItc291dGhlcm4tY29tYmluYXRpb24tY3VwLXN1Y2Nlc3MtNjE0NjY10gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihQFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9wYXVsLWpvaG5zb24taGFpbHMtZmFybmhhbS10b3ducy1jaGFyYWN0ZXItYWZ0ZXItc291dGhlcm4tY29tYmluYXRpb24tY3VwLXN1Y2Nlc3MtNjE0NjY10gEA?oc=5" target="_blank"&gt;Paul Johnson hails Farnham Town's character after Southern ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liphook Herald&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
