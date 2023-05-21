@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-21T06:03:52Z</updated>
+  <updated>2023-05-21T12:04:21Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 9°C (48°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1021mb, Humidity: 55%, UV Risk: 4, Pollution: Low, Sunrise: 05:01 BST, Sunset: 20:54 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-20T21:52:00.000+0000</id>
-    <published>2023-05-21T06:00:50Z</published>
-    <updated>2023-05-21T06:00:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-21T09:53:00.000+0000</id>
+    <published>2023-05-21T12:03:40Z</published>
+    <updated>2023-05-21T12:03:40Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 9°C (47°F) Maximum Temperature: 19°C (67°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 9°C (47°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 64%, UV Risk: 6, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 8°C (47°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-20T21:52:00.000+0000</id>
-    <published>2023-05-21T06:00:50Z</published>
-    <updated>2023-05-21T06:00:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-21T09:53:00.000+0000</id>
+    <published>2023-05-21T12:03:40Z</published>
+    <updated>2023-05-21T12:03:40Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (46°F) Maximum Temperature: 17°C (63°F)</title>
+    <title>Tuesday: Sunny, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (64°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (46°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1026mb, Humidity: 60%, UV Risk: 7, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-20T21:52:00.000+0000</id>
-    <published>2023-05-21T06:00:50Z</published>
-    <updated>2023-05-21T06:00:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-21T09:53:00.000+0000</id>
+    <published>2023-05-21T12:03:40Z</published>
+    <updated>2023-05-21T12:03:40Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvaW5zaWRlLWFiYW5kb25lZC10dWJlLXN0YXRpb24tdXNlZC0zMDAyOTE2M9IBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvaW5zaWRlLWFiYW5kb25lZC10dWJlLXN0YXRpb24tdXNlZC0zMDAyOTE2My5hbXA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTIxMDIyMzEvU3R1bm5pbmctaW50ZXJpb3JzLW1vZGVybmlzdC1UdWJlLXN0YXRpb25zLXJldmVhbGVkLXBob3Rvcy5odG1s0gF1aHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjEwMjIzMS9hbXAvU3R1bm5pbmctaW50ZXJpb3JzLW1vZGVybmlzdC1UdWJlLXN0YXRpb25zLXJldmVhbGVkLXBob3Rvcy5odG1s?oc=5" target="_blank"&gt;Stunning interiors of modernist Tube stations revealed in photos&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM1MjU0NDkuYmVzdC1hbGZyZXNjby1kaW5pbmctc3BvdHMtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5</id>
-    <title type="html">The best alfresco dining spots in south west London - This is Local London</title>
-    <updated>2023-05-20T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM1MjU0NDkuYmVzdC1hbGZyZXNjby1kaW5pbmctc3BvdHMtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM1MjU0NDkuYmVzdC1hbGZyZXNjby1kaW5pbmctc3BvdHMtc291dGgtd2VzdC1sb25kb24v0gEA?oc=5" target="_blank"&gt;The best alfresco dining spots in south west London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NvbGFyLXRvZ2V0aGVyLW1heW9yLWxvbmRvbi1nZXQtdWstaWNob29zci1jaXR5LWhhbGwtYjEwODIyMDMuaHRtbNIBAA?oc=5</id>
     <title type="html">City Hall officials grilled over scandal-hit solar scheme - Evening Standard</title>
     <updated>2023-05-18T20:16:49.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2023-05-18T14:23:53.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5" target="_blank"&gt;Bank Holiday weekend travel disruption looms with works planned ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5</id>
+    <title type="html">Joe Pasquale announces 40 Years Of Cack tour - British Comedy Guide</title>
+    <updated>2023-05-18T11:03:52.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyL9IBP2h0dHBzOi8vd3d3LmNvbWVkeS5jby51ay9saXZlL25ld3MvNzMzOS9qb2UtcGFzcXVhbGUtMjAyMy10b3VyLw?oc=5" target="_blank"&gt;Joe Pasquale announces 40 Years Of Cack tour&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;British Comedy Guide&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
