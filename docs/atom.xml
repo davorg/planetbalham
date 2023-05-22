@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-22T06:04:08Z</updated>
+  <updated>2023-05-22T12:04:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 8°C (46°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 8°C (46°F), Wind Direction: Northerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1020mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 8°C (46°F), Wind Direction: Northerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:00 BST, Sunset: 20:55 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-21T21:57:00.000+0000</id>
-    <published>2023-05-22T06:03:37Z</published>
-    <updated>2023-05-22T06:03:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-22T09:59:00.000+0000</id>
+    <published>2023-05-22T12:04:18Z</published>
+    <updated>2023-05-22T12:04:18Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (46°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 7°C (46°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (46°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 7°C (46°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1026mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-21T21:57:00.000+0000</id>
-    <published>2023-05-22T06:03:37Z</published>
-    <updated>2023-05-22T06:03:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-22T09:59:00.000+0000</id>
+    <published>2023-05-22T12:04:18Z</published>
+    <updated>2023-05-22T12:04:18Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 21°C (69°F)</title>
@@ -36,14 +36,21 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1026mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-21T21:57:00.000+0000</id>
-    <published>2023-05-22T06:03:37Z</published>
-    <updated>2023-05-22T06:03:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-22T09:59:00.000+0000</id>
+    <published>2023-05-22T12:04:18Z</published>
+    <updated>2023-05-22T12:04:18Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5</id>
+    <title type="html">Wandsworth restaurant given new food hygiene rating - LondonWorld</title>
+    <updated>2023-05-22T09:14:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5" target="_blank"&gt;Wandsworth restaurant given new food hygiene rating&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZQ?oc=5</id>
     <title type="html">Manchester City lift Premier League trophy after win over Chelsea – as it happened - The Guardian</title>
-    <updated>2023-05-21T14:00:00.000000000Z</updated>
+    <updated>2023-05-21T20:55:31.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZQ?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZQ?oc=5" target="_blank"&gt;Manchester City lift Premier League trophy after win over Chelsea – as it happened&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTIxMDIyMzEvU3R1bm5pbmctaW50ZXJpb3JzLW1vZGVybmlzdC1UdWJlLXN0YXRpb25zLXJldmVhbGVkLXBob3Rvcy5odG1s0gF1aHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMjEwMjIzMS9hbXAvU3R1bm5pbmctaW50ZXJpb3JzLW1vZGVybmlzdC1UdWJlLXN0YXRpb25zLXJldmVhbGVkLXBob3Rvcy5odG1s?oc=5" target="_blank"&gt;Stunning interiors of modernist Tube stations revealed in photos&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzNTMyMzA2Lm1hbi1maW5kcy1zbmFrZS1oaWRpbmctd2FzaGluZy1tYWNoaW5lLWJhbGhhbS1ob21lLz9yZWY9cnNz0gEA?oc=5</id>
-    <title type="html">Man finds snake hiding under washing machine at Balham home - Wandsworth Guardian</title>
-    <updated>2023-05-19T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzNTMyMzA2Lm1hbi1maW5kcy1zbmFrZS1oaWRpbmctd2FzaGluZy1tYWNoaW5lLWJhbGhhbS1ob21lLz9yZWY9cnNz0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzNTMyMzA2Lm1hbi1maW5kcy1zbmFrZS1oaWRpbmctd2FzaGluZy1tYWNoaW5lLWJhbGhhbS1ob21lLz9yZWY9cnNz0gEA?oc=5" target="_blank"&gt;Man finds snake hiding under washing machine at Balham home&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NvbGFyLXRvZ2V0aGVyLW1heW9yLWxvbmRvbi1nZXQtdWstaWNob29zci1jaXR5LWhhbGwtYjEwODIyMDMuaHRtbNIBAA?oc=5</id>
-    <title type="html">City Hall officials grilled over scandal-hit solar scheme - Evening Standard</title>
-    <updated>2023-05-18T20:16:49.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NvbGFyLXRvZ2V0aGVyLW1heW9yLWxvbmRvbi1nZXQtdWstaWNob29zci1jaXR5LWhhbGwtYjEwODIyMDMuaHRtbNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NvbGFyLXRvZ2V0aGVyLW1heW9yLWxvbmRvbi1nZXQtdWstaWNob29zci1jaXR5LWhhbGwtYjEwODIyMDMuaHRtbNIBAA?oc=5" target="_blank"&gt;City Hall officials grilled over scandal-hit solar scheme&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5</id>
+    <title type="html">Bank Holiday weekend travel disruption looms with works planned ... - London News Online</title>
+    <updated>2023-05-18T14:23:53.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9iYW5rLWhvbGlkYXktd2Vla2VuZC10cmF2ZWwtZGlzcnVwdGlvbi1sb29tcy13aXRoLXdvcmtzLXBsYW5uZWQtb24tc291dGgtbG9uZG9uLXRyYWluLWxpbmVzL9IBAA?oc=5" target="_blank"&gt;Bank Holiday weekend travel disruption looms with works planned ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -206,16 +206,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Harris hawk in the rain</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
-    <id>tag:flickr.com,2005:/photo/52777028314</id>
-    <published>2023-03-28T11:49:03Z</published>
-    <updated>2023-03-28T11:49:03Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
+    <title>Water off a hawk's back</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777252443/"/>
+    <id>tag:flickr.com,2005:/photo/52777252443</id>
+    <published>2023-03-28T11:49:02Z</published>
+    <updated>2023-03-28T11:49:02Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:47-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:47-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777252443/" title="Water off a hawk&amp;#039;s back"&gt;&lt;img src="https://live.staticflickr.com/65535/52777252443_178d34316b_m.jpg" width="240" height="150" alt="Water off a hawk&amp;#039;s back" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Balham, London&lt;/p&gt;
 </content>
@@ -225,11 +225,11 @@
       <flickr:nsid>94950908@N07</flickr:nsid>
       <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777252443_178d34316b_b.jpg"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
