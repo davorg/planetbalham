@@ -7,16 +7,95 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-23T06:04:06Z</updated>
+  <updated>2023-05-23T12:04:47Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
+    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 17°C (63°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1027mb, Humidity: 51%, UV Risk: 5, Pollution: Low, Sunrise: 04:59 BST, Sunset: 20:56 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-23T07:38:00.000+0000</id>
+    <published>2023-05-23T12:02:19Z</published>
+    <updated>2023-05-23T12:02:19Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (70°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 8°C (47°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1026mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-23T07:38:00.000+0000</id>
+    <published>2023-05-23T12:02:19Z</published>
+    <updated>2023-05-23T12:02:19Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 19°C (67°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1030mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-23T07:38:00.000+0000</id>
+    <published>2023-05-23T12:02:19Z</published>
+    <updated>2023-05-23T12:02:19Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5</id>
+    <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
+    <updated>2023-05-23T10:30:32.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5" target="_blank"&gt;This week 10, 20, 30 years ago – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGUtZmlsbS1kaXJlY3Rvci1zaGVkaW5nLWEtbGlnaHQtb24tcmVmZXJlZS1hYnVzZS1hdC10aGUtZ3Jhc3Nyb290LWxldmVsL9IBAA?oc=5</id>
+    <title type="html">The film director shedding a light on grassroots referee abuse - Sports Gazette</title>
+    <updated>2023-05-23T07:58:57.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGUtZmlsbS1kaXJlY3Rvci1zaGVkaW5nLWEtbGlnaHQtb24tcmVmZXJlZS1hYnVzZS1hdC10aGUtZ3Jhc3Nyb290LWxldmVsL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vc3BvcnRzZ2F6ZXR0ZS5jby51ay90aGUtZmlsbS1kaXJlY3Rvci1zaGVkaW5nLWEtbGlnaHQtb24tcmVmZXJlZS1hYnVzZS1hdC10aGUtZ3Jhc3Nyb290LWxldmVsL9IBAA?oc=5" target="_blank"&gt;The film director shedding a light on grassroots referee abuse&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sports Gazette&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnJlYWRpbmdjaHJvbmljbGUuY28udWsvbmV3cy8yMzUzOTIyMy5zYWluc2J1cnktc2hvcHBlcnMtaGl0LWJhY2stbmV3LXNlY3VyaXR5LW1lYXN1cmUtc3RvcmUv0gEA?oc=5</id>
-    <title type="html">Sainsbury shoppers hit back at new security measure in store - Reading Chronicle</title>
+    <title type="html">Sainsbury's shoppers hit back at new security measure in store - Reading Chronicle</title>
     <updated>2023-05-23T05:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJlYWRpbmdjaHJvbmljbGUuY28udWsvbmV3cy8yMzUzOTIyMy5zYWluc2J1cnktc2hvcHBlcnMtaGl0LWJhY2stbmV3LXNlY3VyaXR5LW1lYXN1cmUtc3RvcmUv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJlYWRpbmdjaHJvbmljbGUuY28udWsvbmV3cy8yMzUzOTIyMy5zYWluc2J1cnktc2hvcHBlcnMtaGl0LWJhY2stbmV3LXNlY3VyaXR5LW1lYXN1cmUtc3RvcmUv0gEA?oc=5" target="_blank"&gt;Sainsbury shoppers hit back at new security measure in store&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Reading Chronicle&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJlYWRpbmdjaHJvbmljbGUuY28udWsvbmV3cy8yMzUzOTIyMy5zYWluc2J1cnktc2hvcHBlcnMtaGl0LWJhY2stbmV3LXNlY3VyaXR5LW1lYXN1cmUtc3RvcmUv0gEA?oc=5" target="_blank"&gt;Sainsbury's shoppers hit back at new security measure in store&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Reading Chronicle&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Jet97 / 10Foot</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
+    <id>tag:flickr.com,2005:/photo/52918260081</id>
+    <published>2023-05-23T00:15:19Z</published>
+    <updated>2023-05-23T00:15:19Z</updated>
+    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;South London.&lt;/p&gt;
+</content>
+    <author>
+      <name>Alex Ellison</name>
+      <uri>https://www.flickr.com/people/42276448@N07/</uri>
+      <flickr:nsid>42276448@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
+    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L2FtcC8?oc=5</id>
     <title type="html">Metro letters, May 22: Was your MP in favour of raw sewage dumping? - Metro.co.uk</title>
@@ -30,20 +109,6 @@
     <updated>2023-05-22T09:14:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5" target="_blank"&gt;Wandsworth restaurant given new food hygiene rating&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi90aGluZ3MtdG8tZG8vY2xhcGhhbS1zcHJpbmctbWFya2V00gEA?oc=5</id>
-    <title type="html">Clapham Spring Market | Audley Nightingale Place | Things to do in ... - Time Out London</title>
-    <updated>2023-05-21T23:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi90aGluZ3MtdG8tZG8vY2xhcGhhbS1zcHJpbmctbWFya2V00gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL2xvbmRvbi90aGluZ3MtdG8tZG8vY2xhcGhhbS1zcHJpbmctbWFya2V00gEA?oc=5" target="_blank"&gt;Clapham Spring Market | Audley Nightingale Place | Things to do in ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Time Out London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZQ?oc=5</id>
-    <title type="html">Manchester City lift Premier League trophy after win over Chelsea – as it happened - The Guardian</title>
-    <updated>2023-05-21T14:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZQ?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZdIBY2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9mb290YmFsbC9saXZlLzIwMjMvbWF5LzIxL21hbmNoZXN0ZXItY2l0eS12LWNoZWxzZWEtcHJlbWllci1sZWFndWUtbGl2ZQ?oc=5" target="_blank"&gt;Manchester City lift Premier League trophy after win over Chelsea – as it happened&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
@@ -172,35 +237,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Harris hawk in the rain</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
-    <id>tag:flickr.com,2005:/photo/52777028314</id>
-    <published>2023-03-28T11:49:03Z</published>
-    <updated>2023-03-28T11:49:03Z</updated>
-    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham, London&lt;/p&gt;
-</content>
-    <author>
-      <name>PChamaeleoMH</name>
-      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
-      <flickr:nsid>94950908@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
