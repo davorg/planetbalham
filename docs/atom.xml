@@ -7,9 +7,53 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-24T00:11:36Z</updated>
+  <updated>2023-05-24T06:03:59Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Today: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (69°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: Northerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1025mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 04:58 BST, Sunset: 20:58 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-23T21:52:00.000+0000</id>
+    <published>2023-05-24T06:00:54Z</published>
+    <updated>2023-05-24T06:00:54Z</updated>
+  </entry>
+  <entry>
+    <title>Thursday: Sunny, Minimum Temperature: 8°C (46°F) Maximum Temperature: 19°C (66°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1030mb, Humidity: 62%, UV Risk: 7, Pollution: Low, Sunrise: 04:56 BST, Sunset: 20:59 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-23T21:52:00.000+0000</id>
+    <published>2023-05-24T06:00:54Z</published>
+    <updated>2023-05-24T06:00:54Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny, Minimum Temperature: 7°C (44°F) Maximum Temperature: 17°C (63°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1033mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-23T21:52:00.000+0000</id>
+    <published>2023-05-24T06:00:54Z</published>
+    <updated>2023-05-24T06:00:54Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5</id>
+    <title type="html">The South London 'village' people flock to when they want to start a family - My London</title>
+    <updated>2023-05-24T04:55:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5" target="_blank"&gt;The South London 'village' people flock to when they want to start a family&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5</id>
+    <title type="html">South London Laces football team takes the world by storm - This is Local London</title>
+    <updated>2023-05-24T04:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" target="_blank"&gt;South London Laces football team takes the world by storm&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5</id>
     <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
@@ -100,20 +144,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L2FtcC8?oc=5</id>
-    <title type="html">Metro letters, May 22: Was your MP in favour of raw sewage dumping? - Metro.co.uk</title>
-    <updated>2023-05-22T18:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L2FtcC8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L9IBbWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNS8yMi9tZXRyby1sZXR0ZXJzLW1heS0yMi13YXMteW91ci1tcC1pbi1mYXZvdXItb2YtcmF3LXNld2FnZS1kdW1waW5nLTE4ODI0NTE1L2FtcC8?oc=5" target="_blank"&gt;Metro letters, May 22: Was your MP in favour of raw sewage dumping?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5</id>
-    <title type="html">Wandsworth restaurant given new food hygiene rating - LondonWorld</title>
-    <updated>2023-05-22T09:14:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL3dhbmRzd29ydGgtcmVzdGF1cmFudC1naXZlbi1uZXctZm9vZC1oeWdpZW5lLXJhdGluZy00MTUxODc10gEA?oc=5" target="_blank"&gt;Wandsworth restaurant given new food hygiene rating&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>3 June 1989 Balham JJD520D</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
@@ -179,37 +209,33 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>April 11th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
-    <id>tag:flickr.com,2005:/photo/52812095199</id>
-    <published>2023-04-12T13:43:26Z</published>
-    <updated>2023-04-12T13:43:26Z</updated>
-    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Milk 29-03-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52779147911/"/>
+    <id>tag:flickr.com,2005:/photo/52779147911</id>
+    <published>2023-03-29T13:26:45Z</published>
+    <updated>2023-03-29T13:26:45Z</updated>
+    <flickr:date_taken>2023-03-29T09:35:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-29T09:35:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52779147911/" title="Milk 29-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52779147911_382ab40ed9_m.jpg" width="240" height="167" alt="Milk 29-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Waiting for No 3&lt;/p&gt;
+
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>Utopist</name>
+      <uri>https://www.flickr.com/people/utopist/</uri>
+      <flickr:nsid>39838684@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52779147911_382ab40ed9_b.jpg"/>
+    <category term="watercolour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="watercolor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
