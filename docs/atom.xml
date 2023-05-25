@@ -7,22 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-25T12:04:37Z</updated>
+  <updated>2023-05-25T18:03:56Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: 7°C (44°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunset: 20:59 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-25T09:51:00.000+0000</id>
+    <published>2023-05-25T18:00:09Z</published>
+    <updated>2023-05-25T18:00:09Z</updated>
+  </entry>
+  <entry>
+    <title>Friday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 18°C (64°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1032mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-25T09:51:00.000+0000</id>
+    <published>2023-05-25T18:00:09Z</published>
+    <updated>2023-05-25T18:00:09Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 19°C (67°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 60%, UV Risk: 7, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:02 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-25T09:51:00.000+0000</id>
+    <published>2023-05-25T18:00:09Z</published>
+    <updated>2023-05-25T18:00:09Z</updated>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5idWlsdC1lbnZpcm9ubWVudC1uZXR3b3JraW5nLmNvbS9uZXdzL21haWEtcmVhbC1lc3RhdGUtZ3JvdXAtc2VhbHMtNy0zbS1sb2FuLWZyb20tc2VjdXJlLXRydXN0LWJhbmstdG8tZnVuZC1leHBhbnNpb24v0gEA?oc=5</id>
     <title type="html">Maia Real Estate Group Seals £7.3m Loan from Secure Trust Bank ... - Built Environment Networking</title>
     <updated>2023-05-25T09:01:35.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiggFodHRwczovL3d3dy5idWlsdC1lbnZpcm9ubWVudC1uZXR3b3JraW5nLmNvbS9uZXdzL21haWEtcmVhbC1lc3RhdGUtZ3JvdXAtc2VhbHMtNy0zbS1sb2FuLWZyb20tc2VjdXJlLXRydXN0LWJhbmstdG8tZnVuZC1leHBhbnNpb24v0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiggFodHRwczovL3d3dy5idWlsdC1lbnZpcm9ubWVudC1uZXR3b3JraW5nLmNvbS9uZXdzL21haWEtcmVhbC1lc3RhdGUtZ3JvdXAtc2VhbHMtNy0zbS1sb2FuLWZyb20tc2VjdXJlLXRydXN0LWJhbmstdG8tZnVuZC1leHBhbnNpb24v0gEA?oc=5" target="_blank"&gt;Maia Real Estate Group Seals £7.3m Loan from Secure Trust Bank ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Built Environment Networking&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiL2h0dHBzOi8vdGVkLmFkdmVudGlzdC5vcmcvbmV3cy9pbnNwaXJlZHRvc2VydmUv0gEA?oc=5</id>
-    <title type="html">Inspired to Serve - tedNEWS Network - Trans-European Division</title>
-    <updated>2023-05-25T08:35:44.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiL2h0dHBzOi8vdGVkLmFkdmVudGlzdC5vcmcvbmV3cy9pbnNwaXJlZHRvc2VydmUv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiL2h0dHBzOi8vdGVkLmFkdmVudGlzdC5vcmcvbmV3cy9pbnNwaXJlZHRvc2VydmUv0gEA?oc=5" target="_blank"&gt;Inspired to Serve - tedNEWS Network&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Trans-European Division&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vcHVuZGl0YXJlbmEuY29tL3J1Z2J5L3JvbmFuLWNhbHZlcnQvbGVpbnN0ZXItc3Rhci1kYW4tc2hlZWhhbi1uYW1lZC11cmMtcGxheWVyLW9mLXRoZS1zZWFzb24v0gFpaHR0cHM6Ly9wdW5kaXRhcmVuYS5jb20vcnVnYnkvcm9uYW4tY2FsdmVydC9sZWluc3Rlci1zdGFyLWRhbi1zaGVlaGFuLW5hbWVkLXVyYy1wbGF5ZXItb2YtdGhlLXNlYXNvbi8_YW1w?oc=5</id>
@@ -44,6 +67,13 @@
     <updated>2023-05-24T04:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" target="_blank"&gt;South London Laces football team takes the world by storm&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5</id>
+    <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
+    <updated>2023-05-23T10:30:32.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5" target="_blank"&gt;This week 10, 20, 30 years ago – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
