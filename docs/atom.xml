@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-25T18:03:56Z</updated>
+  <updated>2023-05-26T00:11:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 7°C (44°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1031mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunset: 20:59 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1031mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 21:00 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-25T09:51:00.000+0000</id>
-    <published>2023-05-25T18:00:09Z</published>
-    <updated>2023-05-25T18:00:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-25T21:53:00.000+0000</id>
+    <published>2023-05-26T00:08:29Z</published>
+    <updated>2023-05-26T00:08:29Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Friday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1032mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:00 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1032mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:02 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-25T09:51:00.000+0000</id>
-    <published>2023-05-25T18:00:09Z</published>
-    <updated>2023-05-25T18:00:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-25T21:53:00.000+0000</id>
+    <published>2023-05-26T00:08:29Z</published>
+    <updated>2023-05-26T00:08:29Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 60%, UV Risk: 7, Pollution: Low, Sunrise: 04:54 BST, Sunset: 21:02 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:03 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-25T09:51:00.000+0000</id>
-    <published>2023-05-25T18:00:09Z</published>
-    <updated>2023-05-25T18:00:09Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-25T21:53:00.000+0000</id>
+    <published>2023-05-26T00:08:29Z</published>
+    <updated>2023-05-26T00:08:29Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5</id>
+    <title type="html">For chapter and verse on how to make money, avoid business books - The Times</title>
+    <updated>2023-05-25T23:01:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5" target="_blank"&gt;For chapter and verse on how to make money, avoid business books&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5idWlsdC1lbnZpcm9ubWVudC1uZXR3b3JraW5nLmNvbS9uZXdzL21haWEtcmVhbC1lc3RhdGUtZ3JvdXAtc2VhbHMtNy0zbS1sb2FuLWZyb20tc2VjdXJlLXRydXN0LWJhbmstdG8tZnVuZC1leHBhbnNpb24v0gEA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-05-24T04:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" target="_blank"&gt;South London Laces football team takes the world by storm&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5</id>
-    <title type="html">This week 10, 20, 30 years ago – South London News - London News Online</title>
-    <updated>2023-05-23T10:30:32.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGlzLXdlZWstMTAtMjAtMzAteWVhcnMtYWdvLTkyL9IBAA?oc=5" target="_blank"&gt;This week 10, 20, 30 years ago – South London News&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
@@ -106,73 +106,6 @@
     <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Jet97 / 10Foot</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
-    <id>tag:flickr.com,2005:/photo/52918260081</id>
-    <published>2023-05-23T00:15:19Z</published>
-    <updated>2023-05-23T00:15:19Z</updated>
-    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;South London.&lt;/p&gt;
-</content>
-    <author>
-      <name>Alex Ellison</name>
-      <uri>https://www.flickr.com/people/42276448@N07/</uri>
-      <flickr:nsid>42276448@N07</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
-    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3 June 1989 Balham JJD520D</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
-    <id>tag:flickr.com,2005:/photo/52833998309</id>
-    <published>2023-04-21T06:41:06Z</published>
-    <updated>2023-04-21T06:41:06Z</updated>
-    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -240,6 +173,66 @@
     <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Milk 29-03-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52779147911/"/>
+    <id>tag:flickr.com,2005:/photo/52779147911</id>
+    <published>2023-03-29T13:26:45Z</published>
+    <updated>2023-03-29T13:26:45Z</updated>
+    <flickr:date_taken>2023-03-29T09:35:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-29T09:35:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52779147911/" title="Milk 29-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52779147911_382ab40ed9_m.jpg" width="240" height="167" alt="Milk 29-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>Utopist</name>
+      <uri>https://www.flickr.com/people/utopist/</uri>
+      <flickr:nsid>39838684@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52779147911_382ab40ed9_b.jpg"/>
+    <category term="watercolour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="watercolor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Harris hawk in the rain</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pchamaeleomh/52777028314/"/>
+    <id>tag:flickr.com,2005:/photo/52777028314</id>
+    <published>2023-03-28T11:49:03Z</published>
+    <updated>2023-03-28T11:49:03Z</updated>
+    <flickr:date_taken>2023-03-28T10:02:49-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-28T10:02:49-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/pchamaeleomh/"&gt;PChamaeleoMH&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/pchamaeleomh/52777028314/" title="Harris hawk in the rain"&gt;&lt;img src="https://live.staticflickr.com/65535/52777028314_252c82a987_m.jpg" width="240" height="150" alt="Harris hawk in the rain" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham, London&lt;/p&gt;
+</content>
+    <author>
+      <name>PChamaeleoMH</name>
+      <uri>https://www.flickr.com/people/pchamaeleomh/</uri>
+      <flickr:nsid>94950908@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8104/buddyicons/94950908@N07.jpg?1365974657#94950908@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52777028314_252c82a987_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="harrishawks" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
