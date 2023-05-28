@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-27T18:03:44Z</updated>
+  <updated>2023-05-28T00:13:36Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 7°C (45°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 9°C (48°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1024mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunset: 21:02 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 21:03 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-27T09:50:00.000+0000</id>
-    <published>2023-05-27T18:01:56Z</published>
-    <updated>2023-05-27T18:01:56Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-27T21:56:00.000+0000</id>
+    <published>2023-05-28T00:05:09Z</published>
+    <updated>2023-05-28T00:05:09Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Sunday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 52%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:03 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1023mb, Humidity: 51%, UV Risk: 7, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:04 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-27T09:50:00.000+0000</id>
-    <published>2023-05-27T18:01:56Z</published>
-    <updated>2023-05-27T18:01:56Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-27T21:56:00.000+0000</id>
+    <published>2023-05-28T00:05:09Z</published>
+    <updated>2023-05-28T00:05:09Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 16°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1029mb, Humidity: 58%, UV Risk: 6, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:04 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (62°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:05 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-27T09:50:00.000+0000</id>
-    <published>2023-05-27T18:01:56Z</published>
-    <updated>2023-05-27T18:01:56Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-27T21:56:00.000+0000</id>
+    <published>2023-05-28T00:05:09Z</published>
+    <updated>2023-05-28T00:05:09Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5</id>
+    <title type="html">Ian Charleson awards — meet the young actors to watch - The Times</title>
+    <updated>2023-05-27T23:01:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5" target="_blank"&gt;Ian Charleson awards — meet the young actors to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-05-24T04:55:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5" target="_blank"&gt;The South London 'village' families are flocking to for the cheap houses and 'Outstanding' schools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5</id>
-    <title type="html">South London Laces football team takes the world by storm - News Shopper</title>
-    <updated>2023-05-24T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1MzkxMDIuc291dGgtbG9uZG9uLWxhY2VzLWZvb3RiYWxsLXRlYW0tdGFrZXMtd29ybGQtc3Rvcm0v0gEA?oc=5" target="_blank"&gt;South London Laces football team takes the world by storm&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
