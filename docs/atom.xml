@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-28T00:13:36Z</updated>
+  <updated>2023-05-28T06:04:15Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 9°C (48°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1023mb, Humidity: 80%, UV Risk: 0, Pollution: Low, Sunset: 21:03 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1023mb, Humidity: 51%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:03 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-27T21:56:00.000+0000</id>
-    <published>2023-05-28T00:05:09Z</published>
-    <updated>2023-05-28T00:05:09Z</updated>
+    <published>2023-05-28T05:57:05Z</published>
+    <updated>2023-05-28T05:57:05Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1023mb, Humidity: 51%, UV Risk: 7, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:04 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:04 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-27T21:56:00.000+0000</id>
-    <published>2023-05-28T00:05:09Z</published>
-    <updated>2023-05-28T00:05:09Z</updated>
+    <published>2023-05-28T05:57:05Z</published>
+    <updated>2023-05-28T05:57:05Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 7°C (44°F) Maximum Temperature: 16°C (62°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (62°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1028mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1030mb, Humidity: 60%, UV Risk: 7, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:05 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-27T21:56:00.000+0000</id>
-    <published>2023-05-28T00:05:09Z</published>
-    <updated>2023-05-28T00:05:09Z</updated>
+    <published>2023-05-28T05:57:05Z</published>
+    <updated>2023-05-28T05:57:05Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5</id>
