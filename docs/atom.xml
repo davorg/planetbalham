@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-29T18:03:55Z</updated>
+  <updated>2023-05-30T00:12:35Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 7°C (45°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1029mb, Humidity: 70%, UV Risk: 4, Pollution: Low, Sunset: 21:04 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1029mb, Humidity: 81%, UV Risk: 0, Pollution: Low, Sunset: 21:05 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-29T09:54:00.000+0000</id>
-    <published>2023-05-29T18:01:39Z</published>
-    <updated>2023-05-29T18:01:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-29T21:51:00.000+0000</id>
+    <published>2023-05-30T00:00:01Z</published>
+    <updated>2023-05-30T00:00:01Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1029mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1029mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:06 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-29T09:54:00.000+0000</id>
-    <published>2023-05-29T18:01:39Z</published>
-    <updated>2023-05-29T18:01:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-29T21:51:00.000+0000</id>
+    <published>2023-05-30T00:00:01Z</published>
+    <updated>2023-05-30T00:00:01Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 63%, UV Risk: 6, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:06 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1027mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-29T09:54:00.000+0000</id>
-    <published>2023-05-29T18:01:39Z</published>
-    <updated>2023-05-29T18:01:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-29T21:51:00.000+0000</id>
+    <published>2023-05-30T00:00:01Z</published>
+    <updated>2023-05-30T00:00:01Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
@@ -80,6 +80,13 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5" target="_blank"&gt;Ian Charleson awards — meet the young actors to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NDUzMzIuY2Fyc2hhbHRvbi1jaGVhcGVyLWhvdXNlcy1leGNlbGxlbnQtc2Nob29scy_SAQA?oc=5</id>
+    <title type="html">Carshalton has cheaper houses and excellent schools - Sutton &amp; Croydon Guardian</title>
+    <updated>2023-05-26T04:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NDUzMzIuY2Fyc2hhbHRvbi1jaGVhcGVyLWhvdXNlcy1leGNlbGxlbnQtc2Nob29scy_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NDUzMzIuY2Fyc2hhbHRvbi1jaGVhcGVyLWhvdXNlcy1leGNlbGxlbnQtc2Nob29scy_SAQA?oc=5" target="_blank"&gt;Carshalton has cheaper houses and excellent schools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sutton &amp; Croydon Guardian&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5</id>
     <title type="html">For chapter and verse on how to make money, avoid business books - The Times</title>
     <updated>2023-05-25T23:01:00.000000000Z</updated>
@@ -99,13 +106,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <updated>2023-05-24T13:02:09.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vcHVuZGl0YXJlbmEuY29tL3J1Z2J5L3JvbmFuLWNhbHZlcnQvbGVpbnN0ZXItc3Rhci1kYW4tc2hlZWhhbi1uYW1lZC11cmMtcGxheWVyLW9mLXRoZS1zZWFzb24v0gFpaHR0cHM6Ly9wdW5kaXRhcmVuYS5jb20vcnVnYnkvcm9uYW4tY2FsdmVydC9sZWluc3Rlci1zdGFyLWRhbi1zaGVlaGFuLW5hbWVkLXVyYy1wbGF5ZXItb2YtdGhlLXNlYXNvbi8_YW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vcHVuZGl0YXJlbmEuY29tL3J1Z2J5L3JvbmFuLWNhbHZlcnQvbGVpbnN0ZXItc3Rhci1kYW4tc2hlZWhhbi1uYW1lZC11cmMtcGxheWVyLW9mLXRoZS1zZWFzb24v0gFpaHR0cHM6Ly9wdW5kaXRhcmVuYS5jb20vcnVnYnkvcm9uYW4tY2FsdmVydC9sZWluc3Rlci1zdGFyLWRhbi1zaGVlaGFuLW5hbWVkLXVyYy1wbGF5ZXItb2YtdGhlLXNlYXNvbi8_YW1w?oc=5" target="_blank"&gt;Leinster star Dan Sheehan named URC Player of the Season&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Pundit Arena&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5</id>
-    <title type="html">The South London 'village' families are flocking to for the cheap houses and 'Outstanding' schools - My London</title>
-    <updated>2023-05-24T04:55:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tdmlsbGFnZS1wZW9wbGUtZmxvY2stMjY5Nzg1ODHSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3Mvc291dGgtbG9uZG9uLXZpbGxhZ2UtcGVvcGxlLWZsb2NrLTI2OTc4NTgxLmFtcA?oc=5" target="_blank"&gt;The South London 'village' families are flocking to for the cheap houses and 'Outstanding' schools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
