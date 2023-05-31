@@ -7,38 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-31T06:03:53Z</updated>
+  <updated>2023-05-31T12:04:33Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 9°C (49°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1026mb, Humidity: 68%, UV Risk: 6, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:06 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:06 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-30T21:53:00.000+0000</id>
-    <published>2023-05-31T05:36:18Z</published>
-    <updated>2023-05-31T05:36:18Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-05-31T09:51:00.000+0000</id>
+    <published>2023-05-31T12:00:13Z</published>
+    <updated>2023-05-31T12:00:13Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (67°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 9°C (49°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-30T21:53:00.000+0000</id>
-    <published>2023-05-31T05:36:18Z</published>
-    <updated>2023-05-31T05:36:18Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-05-31T09:51:00.000+0000</id>
+    <published>2023-05-31T12:00:13Z</published>
+    <updated>2023-05-31T12:00:13Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1025mb, Humidity: 57%, UV Risk: 7, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1025mb, Humidity: 57%, UV Risk: 7, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-30T21:53:00.000+0000</id>
-    <published>2023-05-31T05:36:18Z</published>
-    <updated>2023-05-31T05:36:18Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-05-31T09:51:00.000+0000</id>
+    <published>2023-05-31T12:00:13Z</published>
+    <updated>2023-05-31T12:00:13Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvYmFsaGFtLXNvdXRoLXdlc3QtbG9uZG9uLWF0dGVtcHRlZC1yYXBlLXBvbGljZS1lLWZpdC1zdXNwZWN0LWIxMDg0NzEyLmh0bWzSAQA?oc=5</id>
+    <title type="html">Police hunt intruder after 'terrifying' attempted rape in Balham - Evening Standard</title>
+    <updated>2023-05-31T10:08:03.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvYmFsaGFtLXNvdXRoLXdlc3QtbG9uZG9uLWF0dGVtcHRlZC1yYXBlLXBvbGljZS1lLWZpdC1zdXNwZWN0LWIxMDg0NzEyLmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvY3JpbWUvYmFsaGFtLXNvdXRoLXdlc3QtbG9uZG9uLWF0dGVtcHRlZC1yYXBlLXBvbGljZS1lLWZpdC1zdXNwZWN0LWIxMDg0NzEyLmh0bWzSAQA?oc=5" target="_blank"&gt;Police hunt intruder after 'terrifying' attempted rape in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidGh0dHBzOi8vbG9uZG9udGhlaW5zaWRlLmNvbS9lbmpveS1mcmVlLXNwcml0emVzLWFuZC1zYXJuaWVzLWZyb20tZnVua2luLWNvY2t0YWlscy10by1jZWxlYnJhdGUtaXRhbGlhbi1yZXB1YmxpYy1kYXkv0gF4aHR0cHM6Ly9sb25kb250aGVpbnNpZGUuY29tL2Vuam95LWZyZWUtc3ByaXR6ZXMtYW5kLXNhcm5pZXMtZnJvbS1mdW5raW4tY29ja3RhaWxzLXRvLWNlbGVicmF0ZS1pdGFsaWFuLXJlcHVibGljLWRheS8_YW1w?oc=5</id>
+    <title type="html">Free Funkin Cocktails | Swag | London On The Inside - London On The Inside</title>
+    <updated>2023-05-31T08:09:08.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidGh0dHBzOi8vbG9uZG9udGhlaW5zaWRlLmNvbS9lbmpveS1mcmVlLXNwcml0emVzLWFuZC1zYXJuaWVzLWZyb20tZnVua2luLWNvY2t0YWlscy10by1jZWxlYnJhdGUtaXRhbGlhbi1yZXB1YmxpYy1kYXkv0gF4aHR0cHM6Ly9sb25kb250aGVpbnNpZGUuY29tL2Vuam95LWZyZWUtc3ByaXR6ZXMtYW5kLXNhcm5pZXMtZnJvbS1mdW5raW4tY29ja3RhaWxzLXRvLWNlbGVicmF0ZS1pdGFsaWFuLXJlcHVibGljLWRheS8_YW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidGh0dHBzOi8vbG9uZG9udGhlaW5zaWRlLmNvbS9lbmpveS1mcmVlLXNwcml0emVzLWFuZC1zYXJuaWVzLWZyb20tZnVua2luLWNvY2t0YWlscy10by1jZWxlYnJhdGUtaXRhbGlhbi1yZXB1YmxpYy1kYXkv0gF4aHR0cHM6Ly9sb25kb250aGVpbnNpZGUuY29tL2Vuam95LWZyZWUtc3ByaXR6ZXMtYW5kLXNhcm5pZXMtZnJvbS1mdW5raW4tY29ja3RhaWxzLXRvLWNlbGVicmF0ZS1pdGFsaWFuLXJlcHVibGljLWRheS8_YW1w?oc=5" target="_blank"&gt;Free Funkin Cocktails | Swag | London On The Inside&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London On The Inside&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMijQFodHRwczovL3d3dy50aGVsb25kb25lY29ub21pYy5jb20vZm9vZC1kcmluay9zaXgtdHJ1bHktYXV0aGVudGljLW5lcGFsZXNlLXJlc3RhdXJhbnRzLWluLWxvbmRvbi1kaXNjb3Zlci10aGUtZmxhdm9ycy1vZi10aGUtaGltYWxheWFzLTM0OTc2OC_SAQA?oc=5</id>
@@ -92,20 +106,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <updated>2023-05-27T23:01:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvaWFuLWNoYXJsZXNvbi1hd2FyZHMtbWVldC10aGUteW91bmctYWN0b3JzLXRvLXdhdGNoLXZsamJ2cmp2NdIBAA?oc=5" target="_blank"&gt;Ian Charleson awards — meet the young actors to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NDUzMzIuY2Fyc2hhbHRvbi1jaGVhcGVyLWhvdXNlcy1leGNlbGxlbnQtc2Nob29scy_SAQA?oc=5</id>
-    <title type="html">Carshalton has cheaper houses and excellent schools - Sutton &amp; Croydon Guardian</title>
-    <updated>2023-05-26T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NDUzMzIuY2Fyc2hhbHRvbi1jaGVhcGVyLWhvdXNlcy1leGNlbGxlbnQtc2Nob29scy_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NDUzMzIuY2Fyc2hhbHRvbi1jaGVhcGVyLWhvdXNlcy1leGNlbGxlbnQtc2Nob29scy_SAQA?oc=5" target="_blank"&gt;Carshalton has cheaper houses and excellent schools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sutton &amp; Croydon Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5</id>
-    <title type="html">For chapter and verse on how to make money, avoid business books - The Times</title>
-    <updated>2023-05-25T23:01:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvZm9yLWNoYXB0ZXItYW5kLXZlcnNlLW9uLWhvdy10by1tYWtlLW1vbmV5LWF2b2lkLWJ1c2luZXNzLWJvb2tzLTY2NmR6Ym41dNIBAA?oc=5" target="_blank"&gt;For chapter and verse on how to make money, avoid business books&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
