@@ -7,38 +7,15 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-01T12:04:57Z</updated>
+  <updated>2023-06-01T18:03:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 9°C (49°F) Maximum Temperature: 19°C (65°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1024mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:08 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-01T09:54:00.000+0000</id>
-    <published>2023-06-01T12:01:05Z</published>
-    <updated>2023-06-01T12:01:05Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 18°C (65°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-01T09:54:00.000+0000</id>
-    <published>2023-06-01T12:01:05Z</published>
-    <updated>2023-06-01T12:01:05Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Sunny, Minimum Temperature: 9°C (47°F) Maximum Temperature: 21°C (69°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 9°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-01T09:54:00.000+0000</id>
-    <published>2023-06-01T12:01:05Z</published>
-    <updated>2023-06-01T12:01:05Z</updated>
+    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaG90LXByb3BlcnR5LTgtYmVkcm9vbS1nZW9yZ2lhbi12aWxsYS1mb3Itc2FsZS1vbi1jbGFwaGFtLWNvbW1vbi1mb3ItcHMxOTVtLTE4NjM2MdIBAA?oc=5</id>
+    <title type="html">Hot property: 8-bedroom Grade II Georgian villa on Clapham ... - Clapham Nub News</title>
+    <updated>2023-06-01T14:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaG90LXByb3BlcnR5LTgtYmVkcm9vbS1nZW9yZ2lhbi12aWxsYS1mb3Itc2FsZS1vbi1jbGFwaGFtLWNvbW1vbi1mb3ItcHMxOTVtLTE4NjM2MdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvaG90LXByb3BlcnR5LTgtYmVkcm9vbS1nZW9yZ2lhbi12aWxsYS1mb3Itc2FsZS1vbi1jbGFwaGFtLWNvbW1vbi1mb3ItcHMxOTVtLTE4NjM2MdIBAA?oc=5" target="_blank"&gt;Hot property: 8-bedroom Grade II Georgian villa on Clapham ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9oZXJuZS1oaWxsLWhhcnJpZXJzLXJvdW5kLXVwLWthdGllLXNub3dkZW4tc21hc2hlcy0xNTAwbS1wYi1pbi1sb3MtYW5nZWxlcy1tZWV0L9IBAA?oc=5</id>
@@ -48,32 +25,25 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9oZXJuZS1oaWxsLWhhcnJpZXJzLXJvdW5kLXVwLWthdGllLXNub3dkZW4tc21hc2hlcy0xNTAwbS1wYi1pbi1sb3MtYW5nZWxlcy1tZWV0L9IBAA?oc=5" target="_blank"&gt;Herne Hill Harriers round-up: Katie Snowden smashes 1500m PB in ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYyLW9sZC1tYW4tbm93LW1pc3NpbmctMDY1ODA1NjYyLmh0bWzSAU5odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzLzYyLW9sZC1tYW4tbm93LW1pc3NpbmctMDY1ODA1NjYyLmh0bWw?oc=5</id>
+    <title type="html">62-year-old man now missing for three days - Yahoo Eurosport UK</title>
+    <updated>2023-06-01T06:58:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYyLW9sZC1tYW4tbm93LW1pc3NpbmctMDY1ODA1NjYyLmh0bWzSAU5odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzLzYyLW9sZC1tYW4tbm93LW1pc3NpbmctMDY1ODA1NjYyLmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzYyLW9sZC1tYW4tbm93LW1pc3NpbmctMDY1ODA1NjYyLmh0bWzSAU5odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzLzYyLW9sZC1tYW4tbm93LW1pc3NpbmctMDY1ODA1NjYyLmh0bWw?oc=5" target="_blank"&gt;62-year-old man now missing for three days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2dsb2JhbC1yZW5ld2FibGVzLWNhcGFjaXR5LWFkZGl0aW9ucy1yaXNlLTA1MDUxNjExNy5odG1s0gFhaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9nbG9iYWwtcmVuZXdhYmxlcy1jYXBhY2l0eS1hZGRpdGlvbnMtcmlzZS0wNTA1MTYxMTcuaHRtbA?oc=5</id>
+    <title type="html">New global renewables capacity additions to rise by a third this year - IEA - Yahoo Eurosport UK</title>
+    <updated>2023-06-01T05:05:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2dsb2JhbC1yZW5ld2FibGVzLWNhcGFjaXR5LWFkZGl0aW9ucy1yaXNlLTA1MDUxNjExNy5odG1s0gFhaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9nbG9iYWwtcmVuZXdhYmxlcy1jYXBhY2l0eS1hZGRpdGlvbnMtcmlzZS0wNTA1MTYxMTcuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2dsb2JhbC1yZW5ld2FibGVzLWNhcGFjaXR5LWFkZGl0aW9ucy1yaXNlLTA1MDUxNjExNy5odG1s0gFhaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9nbG9iYWwtcmVuZXdhYmxlcy1jYXBhY2l0eS1hZGRpdGlvbnMtcmlzZS0wNTA1MTYxMTcuaHRtbA?oc=5" target="_blank"&gt;New global renewables capacity additions to rise by a third this year - IEA&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
     <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmFydGZvcnVtLmNvbS9wcmludC8yMDIzMDYvbHVrZS1za3JlYm93c2tpLW9uLXRoZS1hcnQtb2YtbWlrZS1uZWxzb24tOTA2NDTSAQA?oc=5</id>
     <title type="html">Luke Skrebowski on the art of Mike Nelson - Artforum</title>
     <updated>2023-06-01T04:00:49.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3LmFydGZvcnVtLmNvbS9wcmludC8yMDIzMDYvbHVrZS1za3JlYm93c2tpLW9uLXRoZS1hcnQtb2YtbWlrZS1uZWxzb24tOTA2NDTSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3LmFydGZvcnVtLmNvbS9wcmludC8yMDIzMDYvbHVrZS1za3JlYm93c2tpLW9uLXRoZS1hcnQtb2YtbWlrZS1uZWxzb24tOTA2NDTSAQA?oc=5" target="_blank"&gt;Luke Skrebowski on the art of Mike Nelson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Artforum&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiggFodHRwczovL2Vzc2V4LXR2LmNvLnVrL2Z1bmtpbi1jb2NrdGFpbHMtY2VsZWJyYXRlcy1pdGFsaWFuLXJlcHVibGljLWRheS13aXRoLWEtd2Vla2VuZC1vZi1mcmVlLWFwZXJpdGl2by1zcHJpdHotYW5kLXNhcm5pZS1jb21ib3Mv0gEA?oc=5</id>
-    <title type="html">FUNKIN COCKTAILS CELEBRATES ITALIAN REPUBLIC DAY ... - Essex TV</title>
-    <updated>2023-05-31T21:04:30.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiggFodHRwczovL2Vzc2V4LXR2LmNvLnVrL2Z1bmtpbi1jb2NrdGFpbHMtY2VsZWJyYXRlcy1pdGFsaWFuLXJlcHVibGljLWRheS13aXRoLWEtd2Vla2VuZC1vZi1mcmVlLWFwZXJpdGl2by1zcHJpdHotYW5kLXNhcm5pZS1jb21ib3Mv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiggFodHRwczovL2Vzc2V4LXR2LmNvLnVrL2Z1bmtpbi1jb2NrdGFpbHMtY2VsZWJyYXRlcy1pdGFsaWFuLXJlcHVibGljLWRheS13aXRoLWEtd2Vla2VuZC1vZi1mcmVlLWFwZXJpdGl2by1zcHJpdHotYW5kLXNhcm5pZS1jb21ib3Mv0gEA?oc=5" target="_blank"&gt;FUNKIN COCKTAILS CELEBRATES ITALIAN REPUBLIC DAY ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Essex TV&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3N0cmFuZ2VyLXRocmV3LWJvaWxpbmctbGlxdWlkLXdvbWFuLTE4MzgyMTQ2Mi5odG1s0gFbaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9zdHJhbmdlci10aHJldy1ib2lsaW5nLWxpcXVpZC13b21hbi0xODM4MjE0NjIuaHRtbA?oc=5</id>
-    <title type="html">Stranger ‘threw boiling liquid’ at woman in attack on London street - Yahoo Eurosport UK</title>
-    <updated>2023-05-31T18:38:21.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3N0cmFuZ2VyLXRocmV3LWJvaWxpbmctbGlxdWlkLXdvbWFuLTE4MzgyMTQ2Mi5odG1s0gFbaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9zdHJhbmdlci10aHJldy1ib2lsaW5nLWxpcXVpZC13b21hbi0xODM4MjE0NjIuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3N0cmFuZ2VyLXRocmV3LWJvaWxpbmctbGlxdWlkLXdvbWFuLTE4MzgyMTQ2Mi5odG1s0gFbaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9zdHJhbmdlci10aHJldy1ib2lsaW5nLWxpcXVpZC13b21hbi0xODM4MjE0NjIuaHRtbA?oc=5" target="_blank"&gt;Stranger ‘threw boiling liquid’ at woman in attack on London street&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NTk0NjMuYmFsaGFtLWh1bnQtbWFuLWFsbGVnZWQtYXR0ZW1wdGVkLXJhcGUtYmVkZm9yZC1oaWxsL9IBAA?oc=5</id>
-    <title type="html">Hunt for 'dangerous' man after alleged rape attempt in Balham living ... - Sutton &amp; Croydon Guardian</title>
-    <updated>2023-05-31T15:51:16.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NTk0NjMuYmFsaGFtLWh1bnQtbWFuLWFsbGVnZWQtYXR0ZW1wdGVkLXJhcGUtYmVkZm9yZC1oaWxsL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LnlvdXJsb2NhbGd1YXJkaWFuLmNvLnVrL25ld3MvMjM1NTk0NjMuYmFsaGFtLWh1bnQtbWFuLWFsbGVnZWQtYXR0ZW1wdGVkLXJhcGUtYmVkZm9yZC1oaWxsL9IBAA?oc=5" target="_blank"&gt;Hunt for 'dangerous' man after alleged rape attempt in Balham living ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sutton &amp; Croydon Guardian&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
