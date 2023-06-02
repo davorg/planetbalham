@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-02T06:03:52Z</updated>
+  <updated>2023-06-02T12:04:25Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 7°C (45°F) Maximum Temperature: 18°C (64°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 7°C (45°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (64°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 7°C (45°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 54%, UV Risk: 6, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:09 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-01T21:00:00.000+0000</id>
-    <published>2023-06-02T06:00:04Z</published>
-    <updated>2023-06-02T06:00:04Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-02T09:00:00.000+0000</id>
+    <published>2023-06-02T12:02:06Z</published>
+    <updated>2023-06-02T12:02:06Z</updated>
   </entry>
   <entry>
     <title>Saturday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (69°F)</title>
@@ -26,40 +26,47 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-01T21:00:00.000+0000</id>
-    <published>2023-06-02T06:00:04Z</published>
-    <updated>2023-06-02T06:00:04Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-02T09:00:00.000+0000</id>
+    <published>2023-06-02T12:02:06Z</published>
+    <updated>2023-06-02T12:02:06Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 9°C (48°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 58%, UV Risk: 7, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 59%, UV Risk: 7, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-01T21:00:00.000+0000</id>
-    <published>2023-06-02T06:00:04Z</published>
-    <updated>2023-06-02T06:00:04Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-02T09:00:00.000+0000</id>
+    <published>2023-06-02T12:02:06Z</published>
+    <updated>2023-06-02T12:02:06Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vam9yZGFucy1jcm93bi1wcmluY2UtYWwtaHVzc2Vpbi0yMjA0NTI1NzUuaHRtbNIBUGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vYW1waHRtbC9qb3JkYW5zLWNyb3duLXByaW5jZS1hbC1odXNzZWluLTIyMDQ1MjU3NS5odG1s?oc=5</id>
-    <title type="html">Jordan's Crown Prince Al Hussein bin Abdullah II Marries Rajwa Al Saif - Yahoo Singapore News</title>
-    <updated>2023-06-01T22:04:52.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vam9yZGFucy1jcm93bi1wcmluY2UtYWwtaHVzc2Vpbi0yMjA0NTI1NzUuaHRtbNIBUGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vYW1waHRtbC9qb3JkYW5zLWNyb3duLXByaW5jZS1hbC1odXNzZWluLTIyMDQ1MjU3NS5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vam9yZGFucy1jcm93bi1wcmluY2UtYWwtaHVzc2Vpbi0yMjA0NTI1NzUuaHRtbNIBUGh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vYW1waHRtbC9qb3JkYW5zLWNyb3duLXByaW5jZS1hbC1odXNzZWluLTIyMDQ1MjU3NS5odG1s?oc=5" target="_blank"&gt;Jordan's Crown Prince Al Hussein bin Abdullah II Marries Rajwa Al Saif&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Singapore News&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi13YW50ZWQtcHJpc29uLXJlY2FsbC1jb25uZWN0aW9uLTExMDE0NDk2MS5odG1s0gFbaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9tYW4td2FudGVkLXByaXNvbi1yZWNhbGwtY29ubmVjdGlvbi0xMTAxNDQ5NjEuaHRtbA?oc=5</id>
+    <title type="html">Man wanted on prison recall and in connection with wounding offence - Yahoo Eurosport UK</title>
+    <updated>2023-06-02T11:01:44.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi13YW50ZWQtcHJpc29uLXJlY2FsbC1jb25uZWN0aW9uLTExMDE0NDk2MS5odG1s0gFbaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9tYW4td2FudGVkLXByaXNvbi1yZWNhbGwtY29ubmVjdGlvbi0xMTAxNDQ5NjEuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi13YW50ZWQtcHJpc29uLXJlY2FsbC1jb25uZWN0aW9uLTExMDE0NDk2MS5odG1s0gFbaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9tYW4td2FudGVkLXByaXNvbi1yZWNhbGwtY29ubmVjdGlvbi0xMTAxNDQ5NjEuaHRtbA?oc=5" target="_blank"&gt;Man wanted on prison recall and in connection with wounding offence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vZGFuZ2Vyb3VzLWFudGktdHJhbnMtcG9saWNpZXMtYXJlLXN3ZWVwaW5nLXRoZS11cy1pcy1jYW5hZGEtbmV4dC0xNTI5NDQxNzguaHRtbNIBcWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vYW1waHRtbC9kYW5nZXJvdXMtYW50aS10cmFucy1wb2xpY2llcy1hcmUtc3dlZXBpbmctdGhlLXVzLWlzLWNhbmFkYS1uZXh0LTE1Mjk0NDE3OC5odG1s?oc=5</id>
-    <title type="html">'Dangerous' anti-trans policies are sweeping the U.S. Is Canada next? - Yahoo Singapore News</title>
-    <updated>2023-06-01T15:29:44.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vZGFuZ2Vyb3VzLWFudGktdHJhbnMtcG9saWNpZXMtYXJlLXN3ZWVwaW5nLXRoZS11cy1pcy1jYW5hZGEtbmV4dC0xNTI5NDQxNzguaHRtbNIBcWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vYW1waHRtbC9kYW5nZXJvdXMtYW50aS10cmFucy1wb2xpY2llcy1hcmUtc3dlZXBpbmctdGhlLXVzLWlzLWNhbmFkYS1uZXh0LTE1Mjk0NDE3OC5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vZGFuZ2Vyb3VzLWFudGktdHJhbnMtcG9saWNpZXMtYXJlLXN3ZWVwaW5nLXRoZS11cy1pcy1jYW5hZGEtbmV4dC0xNTI5NDQxNzguaHRtbNIBcWh0dHBzOi8vc2cubmV3cy55YWhvby5jb20vYW1waHRtbC9kYW5nZXJvdXMtYW50aS10cmFucy1wb2xpY2llcy1hcmUtc3dlZXBpbmctdGhlLXVzLWlzLWNhbmFkYS1uZXh0LTE1Mjk0NDE3OC5odG1s?oc=5" target="_blank"&gt;'Dangerous' anti-trans policies are sweeping the U.S. Is Canada next?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Singapore News&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5</id>
+    <title type="html">Celebrate Pride With Wandsworth Arts Fringe This June - Broadway World</title>
+    <updated>2023-06-02T10:02:57.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" target="_blank"&gt;Celebrate Pride With Wandsworth Arts Fringe This June&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3BvbGljZS1uby1jb250YWN0LWJldHdlZW4tYm9hdHMtMTQzODU1ODQyLmh0bWzSAVFodHRwczovL3VrLnN0eWxlLnlhaG9vLmNvbS9hbXBodG1sL3BvbGljZS1uby1jb250YWN0LWJldHdlZW4tYm9hdHMtMTQzODU1ODQyLmh0bWw?oc=5</id>
-    <title type="html">Police: No contact between boats and Bournemouth swimmers - Yahoo Lifestyle UK</title>
-    <updated>2023-06-01T14:38:55.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3BvbGljZS1uby1jb250YWN0LWJldHdlZW4tYm9hdHMtMTQzODU1ODQyLmh0bWzSAVFodHRwczovL3VrLnN0eWxlLnlhaG9vLmNvbS9hbXBodG1sL3BvbGljZS1uby1jb250YWN0LWJldHdlZW4tYm9hdHMtMTQzODU1ODQyLmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsuc3R5bGUueWFob28uY29tL3BvbGljZS1uby1jb250YWN0LWJldHdlZW4tYm9hdHMtMTQzODU1ODQyLmh0bWzSAVFodHRwczovL3VrLnN0eWxlLnlhaG9vLmNvbS9hbXBodG1sL3BvbGljZS1uby1jb250YWN0LWJldHdlZW4tYm9hdHMtMTQzODU1ODQyLmh0bWw?oc=5" target="_blank"&gt;Police: No contact between boats and Bournemouth swimmers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Lifestyle UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5</id>
+    <title type="html">Food hygiene ratings handed to 78 Wandsworth establishments - LondonWorld</title>
+    <updated>2023-06-02T08:43:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5" target="_blank"&gt;Food hygiene ratings handed to 78 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS92aWRlby96ZWxlbnNraXktZGVtYW5kcy1jaGFuZ2UtZ2lybC1raWxsZWQtMDIyOTEwNTM5Lmh0bWzSAV1odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC92aWRlby96ZWxlbnNraXktZGVtYW5kcy1jaGFuZ2UtZ2lybC1raWxsZWQtMDIyOTEwNTM5Lmh0bWw?oc=5</id>
+    <title type="html">Zelenskiy demands change after girl killed in attack - Yahoo Eurosport UK</title>
+    <updated>2023-06-02T02:29:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS92aWRlby96ZWxlbnNraXktZGVtYW5kcy1jaGFuZ2UtZ2lybC1raWxsZWQtMDIyOTEwNTM5Lmh0bWzSAV1odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC92aWRlby96ZWxlbnNraXktZGVtYW5kcy1jaGFuZ2UtZ2lybC1raWxsZWQtMDIyOTEwNTM5Lmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS92aWRlby96ZWxlbnNraXktZGVtYW5kcy1jaGFuZ2UtZ2lybC1raWxsZWQtMDIyOTEwNTM5Lmh0bWzSAV1odHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC92aWRlby96ZWxlbnNraXktZGVtYW5kcy1jaGFuZ2UtZ2lybC1raWxsZWQtMDIyOTEwNTM5Lmh0bWw?oc=5" target="_blank"&gt;Zelenskiy demands change after girl killed in attack&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiQ2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWzSAUtodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-06-01T14:20:56.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiQ2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWzSAUtodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWw?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQ2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWzSAUtodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWw?oc=5" target="_blank"&gt;Jail for man, 41, caught with kitchen knife on Bradford street&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9oZXJuZS1oaWxsLWhhcnJpZXJzLXJvdW5kLXVwLWthdGllLXNub3dkZW4tc21hc2hlcy0xNTAwbS1wYi1pbi1sb3MtYW5nZWxlcy1tZWV0L9IBAA?oc=5</id>
-    <title type="html">Herne Hill Harriers round-up: Katie Snowden smashes 1500m PB in ... - London News Online</title>
-    <updated>2023-06-01T09:00:33.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9oZXJuZS1oaWxsLWhhcnJpZXJzLXJvdW5kLXVwLWthdGllLXNub3dkZW4tc21hc2hlcy0xNTAwbS1wYi1pbi1sb3MtYW5nZWxlcy1tZWV0L9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9oZXJuZS1oaWxsLWhhcnJpZXJzLXJvdW5kLXVwLWthdGllLXNub3dkZW4tc21hc2hlcy0xNTAwbS1wYi1pbi1sb3MtYW5nZWxlcy1tZWV0L9IBAA?oc=5" target="_blank"&gt;Herne Hill Harriers round-up: Katie Snowden smashes 1500m PB in ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
