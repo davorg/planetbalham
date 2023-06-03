@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-03T12:04:01Z</updated>
+  <updated>2023-06-03T18:03:49Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 8°C (47°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 8°C (47°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1022mb, Humidity: 51%, UV Risk: 7, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1024mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-03T09:57:00.000+0000</id>
-    <published>2023-06-03T11:32:29Z</published>
-    <updated>2023-06-03T11:32:29Z</updated>
+    <published>2023-06-03T18:03:34Z</published>
+    <updated>2023-06-03T18:03:34Z</updated>
   </entry>
   <entry>
     <title>Sunday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 58%, UV Risk: 7, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 57%, UV Risk: 7, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-03T09:57:00.000+0000</id>
-    <published>2023-06-03T11:32:29Z</published>
-    <updated>2023-06-03T11:32:29Z</updated>
+    <published>2023-06-03T18:03:34Z</published>
+    <updated>2023-06-03T18:03:34Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny, Minimum Temperature: 9°C (49°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1025mb, Humidity: 63%, UV Risk: 7, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-03T09:57:00.000+0000</id>
-    <published>2023-06-03T11:32:29Z</published>
-    <updated>2023-06-03T11:32:29Z</updated>
+    <published>2023-06-03T18:03:34Z</published>
+    <updated>2023-06-03T18:03:34Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmJ1enpmZWVkLmNvbS9hZ2xvdmVyL3RoZS1iZXN0LXRoaW5ncy10by1kby1pbi1sb25kb24tdGhpcy13ZWVrZW5k0gEA?oc=5</id>
@@ -55,13 +55,6 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" target="_blank"&gt;Celebrate Pride With Wandsworth Arts Fringe This June&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiowFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL2Zvb2RhbmRkcmluay9mb29kbmV3cy9uYXRpb25hbC1maXNoLWFuZC1jaGlwcy1kYXktdGhlLWJlc3QtaW4tbG9uZG9uLWZyb20tbWFzdGVycy1zdXBlcmZpc2gtdG8tdGhlLWZyeWVyLXMtZGVsaWdodC9hci1BQTEyOU9jST9saT1CQm5iMmdo0gEA?oc=5</id>
-    <title type="html">National fish and chips day: The best in London, from Masters ... - msnNOW</title>
-    <updated>2023-06-02T08:54:27.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiowFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL2Zvb2RhbmRkcmluay9mb29kbmV3cy9uYXRpb25hbC1maXNoLWFuZC1jaGlwcy1kYXktdGhlLWJlc3QtaW4tbG9uZG9uLWZyb20tbWFzdGVycy1zdXBlcmZpc2gtdG8tdGhlLWZyeWVyLXMtZGVsaWdodC9hci1BQTEyOU9jST9saT1CQm5iMmdo0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiowFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL2Zvb2RhbmRkcmluay9mb29kbmV3cy9uYXRpb25hbC1maXNoLWFuZC1jaGlwcy1kYXktdGhlLWJlc3QtaW4tbG9uZG9uLWZyb20tbWFzdGVycy1zdXBlcmZpc2gtdG8tdGhlLWZyeWVyLXMtZGVsaWdodC9hci1BQTEyOU9jST9saT1CQm5iMmdo0gEA?oc=5" target="_blank"&gt;National fish and chips day: The best in London, from Masters ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5</id>
     <title type="html">Food hygiene ratings handed to 78 Wandsworth establishments - LondonWorld</title>
     <updated>2023-06-02T08:43:00.000000000Z</updated>
@@ -74,6 +67,13 @@
     <updated>2023-06-01T14:20:56.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiQ2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWzSAUtodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWw?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQ2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWzSAUtodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvamFpbC1tYW4tNDEtY2F1Z2h0LWtpdGNoZW4tMTQyMDU2ODUyLmh0bWw?oc=5" target="_blank"&gt;Jail for man, 41, caught with kitchen knife on Bradford street&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vd3d3LmFydGZvcnVtLmNvbS9wcmludC8yMDIzMDYvbHVrZS1za3JlYm93c2tpLW9uLXRoZS1hcnQtb2YtbWlrZS1uZWxzb24tOTA2NDTSAQA?oc=5</id>
+    <title type="html">Luke Skrebowski on the art of Mike Nelson - Artforum</title>
+    <updated>2023-06-01T04:00:49.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3LmFydGZvcnVtLmNvbS9wcmludC8yMDIzMDYvbHVrZS1za3JlYm93c2tpLW9uLXRoZS1hcnQtb2YtbWlrZS1uZWxzb24tOTA2NDTSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vd3d3LmFydGZvcnVtLmNvbS9wcmludC8yMDIzMDYvbHVrZS1za3JlYm93c2tpLW9uLXRoZS1hcnQtb2YtbWlrZS1uZWxzb24tOTA2NDTSAQA?oc=5" target="_blank"&gt;Luke Skrebowski on the art of Mike Nelson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Artforum&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
