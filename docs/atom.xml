@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-05T12:04:36Z</updated>
+  <updated>2023-06-05T18:04:02Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (65°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 10°C (51°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 57%, UV Risk: 6, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:12 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (51°F), Wind Direction: North Easterly, Wind Speed: 27mph, Visibility: Good, Pressure: 1024mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-05T09:53:00.000+0000</id>
-    <published>2023-06-05T11:56:58Z</published>
-    <updated>2023-06-05T11:56:58Z</updated>
+    <published>2023-06-05T18:01:58Z</published>
+    <updated>2023-06-05T18:01:58Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:12 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1024mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-05T09:53:00.000+0000</id>
-    <published>2023-06-05T11:56:58Z</published>
-    <updated>2023-06-05T11:56:58Z</updated>
+    <published>2023-06-05T18:01:58Z</published>
+    <updated>2023-06-05T18:01:58Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (68°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 63%, UV Risk: 7, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:13 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-05T09:53:00.000+0000</id>
-    <published>2023-06-05T11:56:58Z</published>
-    <updated>2023-06-05T11:56:58Z</updated>
+    <published>2023-06-05T18:01:58Z</published>
+    <updated>2023-06-05T18:01:58Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5</id>
+    <title type="html">AFC Wimbledon receive record academy fee as Manchester City ... - London News Online</title>
+    <updated>2023-06-05T14:34:31.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5" target="_blank"&gt;AFC Wimbledon receive record academy fee as Manchester City ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA2LzA1LzUzMjY2L3NlYW5fbWNsb3VnaGxpbnNfc29fYmVfaXRfdG9fYmVfcmVsZWFzZWRfYXNfYV9zcGVjaWFs0gEA?oc=5</id>
@@ -60,13 +67,6 @@
     <updated>2023-06-02T10:02:57.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" target="_blank"&gt;Celebrate Pride With Wandsworth Arts Fringe This June&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiowFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL2Zvb2RhbmRkcmluay9mb29kbmV3cy9uYXRpb25hbC1maXNoLWFuZC1jaGlwcy1kYXktdGhlLWJlc3QtaW4tbG9uZG9uLWZyb20tbWFzdGVycy1zdXBlcmZpc2gtdG8tdGhlLWZyeWVyLXMtZGVsaWdodC9hci1BQTEyOU9jST9saT1CQm5iMmdo0gEA?oc=5</id>
-    <title type="html">National fish and chips day: The best in London, from Masters ... - msnNOW</title>
-    <updated>2023-06-02T08:54:27.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiowFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL2Zvb2RhbmRkcmluay9mb29kbmV3cy9uYXRpb25hbC1maXNoLWFuZC1jaGlwcy1kYXktdGhlLWJlc3QtaW4tbG9uZG9uLWZyb20tbWFzdGVycy1zdXBlcmZpc2gtdG8tdGhlLWZyeWVyLXMtZGVsaWdodC9hci1BQTEyOU9jST9saT1CQm5iMmdo0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiowFodHRwczovL3d3dy5tc24uY29tL2VuLXVzL2Zvb2RhbmRkcmluay9mb29kbmV3cy9uYXRpb25hbC1maXNoLWFuZC1jaGlwcy1kYXktdGhlLWJlc3QtaW4tbG9uZG9uLWZyb20tbWFzdGVycy1zdXBlcmZpc2gtdG8tdGhlLWZyeWVyLXMtZGVsaWdodC9hci1BQTEyOU9jST9saT1CQm5iMmdo0gEA?oc=5" target="_blank"&gt;National fish and chips day: The best in London, from Masters ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5</id>
