@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-06T06:04:13Z</updated>
+  <updated>2023-06-06T09:57:42Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
@@ -16,29 +16,36 @@
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:12 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-05T21:57:00.000+0000</id>
-    <published>2023-06-06T06:01:39Z</published>
-    <updated>2023-06-06T06:01:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-06T07:28:00.000+0000</id>
+    <published>2023-06-06T09:12:58Z</published>
+    <updated>2023-06-06T09:12:58Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Wednesday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:13 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1022mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:13 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-05T21:57:00.000+0000</id>
-    <published>2023-06-06T06:01:39Z</published>
-    <updated>2023-06-06T06:01:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-06T07:28:00.000+0000</id>
+    <published>2023-06-06T09:12:58Z</published>
+    <updated>2023-06-06T09:12:58Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny, Minimum Temperature: 9°C (49°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Thursday: Sunny, Minimum Temperature: 10°C (49°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 9°C (49°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (49°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-05T21:57:00.000+0000</id>
-    <published>2023-06-06T06:01:39Z</published>
-    <updated>2023-06-06T06:01:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-06T07:28:00.000+0000</id>
+    <published>2023-06-06T09:12:58Z</published>
+    <updated>2023-06-06T09:12:58Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiigFodHRwczovL3d3dy5yZXN0YXVyYW50b25saW5lLmNvLnVrL0FydGljbGUvMjAyMy8wNi8wNi9ZYXJkLVNhbGUtUGl6emEtZXhwbG9yZXMtb3B0aW9ucy10by10YWtlLXRoZS1icmFuZC1mb3J3YXJkLWFmdGVyLWFwcG9pbnRpbmctYWR2aXNvcnPSAQA?oc=5</id>
+    <title type="html">Yard Sale Pizza explores options to take the brand forward after ... - Restaurant</title>
+    <updated>2023-06-06T08:51:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiigFodHRwczovL3d3dy5yZXN0YXVyYW50b25saW5lLmNvLnVrL0FydGljbGUvMjAyMy8wNi8wNi9ZYXJkLVNhbGUtUGl6emEtZXhwbG9yZXMtb3B0aW9ucy10by10YWtlLXRoZS1icmFuZC1mb3J3YXJkLWFmdGVyLWFwcG9pbnRpbmctYWR2aXNvcnPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiigFodHRwczovL3d3dy5yZXN0YXVyYW50b25saW5lLmNvLnVrL0FydGljbGUvMjAyMy8wNi8wNi9ZYXJkLVNhbGUtUGl6emEtZXhwbG9yZXMtb3B0aW9ucy10by10YWtlLXRoZS1icmFuZC1mb3J3YXJkLWFmdGVyLWFwcG9pbnRpbmctYWR2aXNvcnPSAQA?oc=5" target="_blank"&gt;Yard Sale Pizza explores options to take the brand forward after ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Restaurant&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-06-02T10:02:57.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" target="_blank"&gt;Celebrate Pride With Wandsworth Arts Fringe This June&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5</id>
-    <title type="html">Food hygiene ratings handed to 78 Wandsworth establishments - LondonWorld</title>
-    <updated>2023-06-02T08:43:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5" target="_blank"&gt;Food hygiene ratings handed to 78 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
@@ -209,34 +209,33 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>29 December 1988 Balham VLT53</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
-    <id>tag:flickr.com,2005:/photo/52829496373</id>
-    <published>2023-04-19T08:31:00Z</published>
-    <updated>2023-04-19T08:31:00Z</updated>
-    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Milk 29-03-23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52779147911/"/>
+    <id>tag:flickr.com,2005:/photo/52779147911</id>
+    <published>2023-03-29T13:26:45Z</published>
+    <updated>2023-03-29T13:26:45Z</updated>
+    <flickr:date_taken>2023-03-29T09:35:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-03-29T09:35:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52779147911/" title="Milk 29-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52779147911_382ab40ed9_m.jpg" width="240" height="167" alt="Milk 29-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
 </content>
     <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+      <name>Utopist</name>
+      <uri>https://www.flickr.com/people/utopist/</uri>
+      <flickr:nsid>39838684@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52779147911_382ab40ed9_b.jpg"/>
+    <category term="watercolour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="watercolor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="milk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
