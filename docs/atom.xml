@@ -7,238 +7,236 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-03-20T15:48:38Z</updated>
+  <updated>2023-06-06T06:04:13Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 9°C (48°F) Maximum Temperature: 12°C (54°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 8°C (46°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 12°C (54°F), Minimum Temperature: 9°C (48°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 87%, UV Risk: 1, Pollution: Low, Sunrise: 06:04 GMT, Sunset: 18:13 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 8°C (46°F), Wind Direction: North Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1023mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:12 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-03-20T09:54:00.000+0000</id>
-    <published>2023-03-20T15:15:51Z</published>
-    <updated>2023-03-20T15:15:51Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-05T21:57:00.000+0000</id>
+    <published>2023-06-06T06:01:39Z</published>
+    <updated>2023-06-06T06:01:39Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Drizzle, Minimum Temperature: 10°C (50°F) Maximum Temperature: 15°C (58°F)</title>
+    <title>Wednesday: Sunny, Minimum Temperature: 8°C (47°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 15°C (58°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1008mb, Humidity: 78%, UV Risk: 2, Pollution: Low, Sunrise: 06:02 GMT, Sunset: 18:15 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 8°C (47°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1023mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:13 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-03-20T09:54:00.000+0000</id>
-    <published>2023-03-20T15:15:51Z</published>
-    <updated>2023-03-20T15:15:51Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-05T21:57:00.000+0000</id>
+    <published>2023-06-06T06:01:39Z</published>
+    <updated>2023-06-06T06:01:39Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Light Rain, Minimum Temperature: 9°C (47°F) Maximum Temperature: 14°C (57°F)</title>
+    <title>Thursday: Sunny, Minimum Temperature: 9°C (49°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 14°C (57°F), Minimum Temperature: 9°C (47°F), Wind Direction: South Westerly, Wind Speed: 19mph, Visibility: Good, Pressure: 1000mb, Humidity: 71%, UV Risk: 3, Pollution: Low, Sunrise: 06:00 GMT, Sunset: 18:16 GMT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 9°C (49°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1021mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-03-20T09:54:00.000+0000</id>
-    <published>2023-03-20T15:15:51Z</published>
-    <updated>2023-03-20T15:15:51Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-05T21:57:00.000+0000</id>
+    <published>2023-06-06T06:01:39Z</published>
+    <updated>2023-06-06T06:01:39Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by0yMS13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQwNzA5NTXSAQA?oc=5</id>
-    <title type="html">Food hygiene ratings handed to 21 Wandsworth establishments - LondonWorld</title>
-    <updated>2023-03-20T09:54:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by0yMS13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQwNzA5NTXSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by0yMS13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQwNzA5NTXSAQA?oc=5" target="_blank"&gt;Food hygiene ratings handed to 21 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5</id>
+    <title type="html">AFC Wimbledon receive record academy fee as Manchester City ... - London News Online</title>
+    <updated>2023-06-05T14:34:31.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMib2h0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay9hZmMtd2ltYmxlZG9uLXJlY2VpdmUtcmVjb3JkLWFjYWRlbXktZmVlLWFzLW1hbmNoZXN0ZXItY2l0eS1sYW5kLWVuZ2xhbmQta2VlcGVyL9IBAA?oc=5" target="_blank"&gt;AFC Wimbledon receive record academy fee as Manchester City ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA2LzA1LzUzMjY2L3NlYW5fbWNsb3VnaGxpbnNfc29fYmVfaXRfdG9fYmVfcmVsZWFzZWRfYXNfYV9zcGVjaWFs0gEA?oc=5</id>
+    <title type="html">Sean McLoughlin's So Be It to be released as a special : News 2023 - Chortle</title>
+    <updated>2023-06-05T10:06:08.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA2LzA1LzUzMjY2L3NlYW5fbWNsb3VnaGxpbnNfc29fYmVfaXRfdG9fYmVfcmVsZWFzZWRfYXNfYV9zcGVjaWFs0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA2LzA1LzUzMjY2L3NlYW5fbWNsb3VnaGxpbnNfc29fYmVfaXRfdG9fYmVfcmVsZWFzZWRfYXNfYV9zcGVjaWFs0gEA?oc=5" target="_blank"&gt;Sean McLoughlin's So Be It to be released as a special : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTEyMTU1MjIzL0F3YXJkLXdpbm5pbmctdmV0ZXJhbi1jb21pYy1BcnRodXItU21pdGgtdGFsa3MtTU9ORVkuaHRtbNIBf2h0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTEyMTU1MjIzL2FtcC9Bd2FyZC13aW5uaW5nLXZldGVyYW4tY29taWMtQXJ0aHVyLVNtaXRoLXRhbGtzLU1PTkVZLmh0bWw?oc=5</id>
+    <title type="html">Award-winning veteran comic Arthur Smith talks to ME &amp; MY MONEY - This is Money</title>
+    <updated>2023-06-03T20:52:51.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTEyMTU1MjIzL0F3YXJkLXdpbm5pbmctdmV0ZXJhbi1jb21pYy1BcnRodXItU21pdGgtdGFsa3MtTU9ORVkuaHRtbNIBf2h0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTEyMTU1MjIzL2FtcC9Bd2FyZC13aW5uaW5nLXZldGVyYW4tY29taWMtQXJ0aHVyLVNtaXRoLXRhbGtzLU1PTkVZLmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTEyMTU1MjIzL0F3YXJkLXdpbm5pbmctdmV0ZXJhbi1jb21pYy1BcnRodXItU21pdGgtdGFsa3MtTU9ORVkuaHRtbNIBf2h0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTEyMTU1MjIzL2FtcC9Bd2FyZC13aW5uaW5nLXZldGVyYW4tY29taWMtQXJ0aHVyLVNtaXRoLXRhbGtzLU1PTkVZLmh0bWw?oc=5" target="_blank"&gt;Award-winning veteran comic Arthur Smith talks to ME &amp; MY MONEY&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Money&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5</id>
+    <title type="html">Celebrate Pride With Wandsworth Arts Fringe This June - Broadway World</title>
+    <updated>2023-06-02T10:02:57.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL3dlc3RlbmQvYXJ0aWNsZS9DZWxlYnJhdGUtUHJpZGUtV2l0aC1XYW5kc3dvcnRoLUFydHMtRnJpbmdlLVRoaXMtSnVuZS0yMDIzMDYwMtIBAA?oc=5" target="_blank"&gt;Celebrate Pride With Wandsworth Arts Fringe This June&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5</id>
+    <title type="html">Food hygiene ratings handed to 78 Wandsworth establishments - LondonWorld</title>
+    <updated>2023-06-02T08:43:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidmh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by03OC13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQxNjY5MTTSAQA?oc=5" target="_blank"&gt;Food hygiene ratings handed to 78 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/petermarshall/52757992909/"/>
-    <id>tag:flickr.com,2005:/photo/52757992909</id>
-    <published>2023-03-19T18:38:14Z</published>
-    <updated>2023-03-19T18:38:14Z</updated>
-    <flickr:date_taken>2023-03-16T12:54:10-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-16T12:54:10-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/petermarshall/"&gt;peter marshall&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jason15c/52934134176/"/>
+    <id>tag:flickr.com,2005:/photo/52934134176</id>
+    <published>2023-05-29T10:31:42Z</published>
+    <updated>2023-05-29T10:31:42Z</updated>
+    <flickr:date_taken>2023-05-17T22:25:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-17T22:25:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jason15c/"&gt;15c.co.uk&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/petermarshall/52757992909/" title="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42"&gt;&lt;img src="https://live.staticflickr.com/65535/52757992909_25120bd32b_m.jpg" width="240" height="161" alt="Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jason15c/52934134176/" title="Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52934134176_88dc2aeec3_m.jpg" width="240" height="160" alt="Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Nightingale Lane, Balham, Wandsworth, 1992, 92c5-07-42&lt;/p&gt;
+&lt;p&gt;51660&lt;br /&gt;
+Balham, 17/5/23&lt;br /&gt;
+Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
 </content>
     <author>
-      <name>peter marshall</name>
-      <uri>https://www.flickr.com/people/petermarshall/</uri>
-      <flickr:nsid>69163004@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/69163004@N00.jpg?1575374808#69163004@N00</flickr:buddyicon>
+      <name>15c.co.uk</name>
+      <uri>https://www.flickr.com/people/jason15c/</uri>
+      <flickr:nsid>63574125@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3885/buddyicons/63574125@N08.jpg?1403878971#63574125@N08</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52757992909_25120bd32b_b.jpg"/>
-    <category term="1992" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="92c50742" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52934134176_88dc2aeec3_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="may" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nightingalelane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petermarshall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wandsworth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="colournegative" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1995tubestock" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlLzIwMjMvbWFyLzE5L3RoZS1iZXN0LWZyZWUtc3ByaW5nLWN1bHR1cmUtaW4tYnJpdGFpbi1jaG9zZW4tYnktb2JzZXJ2ZXItY3JpdGljc9IBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlLzIwMjMvbWFyLzE5L3RoZS1iZXN0LWZyZWUtc3ByaW5nLWN1bHR1cmUtaW4tYnJpdGFpbi1jaG9zZW4tYnktb2JzZXJ2ZXItY3JpdGljcw?oc=5</id>
-    <title type="html">The best free spring culture in Britain, chosen by Observer critics - The Guardian</title>
-    <updated>2023-03-19T12:49:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlLzIwMjMvbWFyLzE5L3RoZS1iZXN0LWZyZWUtc3ByaW5nLWN1bHR1cmUtaW4tYnJpdGFpbi1jaG9zZW4tYnktb2JzZXJ2ZXItY3JpdGljc9IBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlLzIwMjMvbWFyLzE5L3RoZS1iZXN0LWZyZWUtc3ByaW5nLWN1bHR1cmUtaW4tYnJpdGFpbi1jaG9zZW4tYnktb2JzZXJ2ZXItY3JpdGljcw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlLzIwMjMvbWFyLzE5L3RoZS1iZXN0LWZyZWUtc3ByaW5nLWN1bHR1cmUtaW4tYnJpdGFpbi1jaG9zZW4tYnktb2JzZXJ2ZXItY3JpdGljc9IBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9jdWx0dXJlLzIwMjMvbWFyLzE5L3RoZS1iZXN0LWZyZWUtc3ByaW5nLWN1bHR1cmUtaW4tYnJpdGFpbi1jaG9zZW4tYnktb2JzZXJ2ZXItY3JpdGljcw?oc=5" target="_blank"&gt;The best free spring culture in Britain, chosen by Observer critics&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5</id>
-    <title type="html">Cost of Living Commission wants to hear your views - Wandsworth ... - Wandsworth Council</title>
-    <updated>2023-03-17T14:28:52.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1tYXJjaC0yMDIzL2Nvc3Qtb2YtbGl2aW5nLWNvbW1pc3Npb24td2FudHMtdG8taGVhci15b3VyLXZpZXdzL9IBAA?oc=5" target="_blank"&gt;Cost of Living Commission wants to hear your views - Wandsworth ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvUmFpbC1zdHJpa2VzLWluZHVzdHJpYWwtYWN0aW9uLWFmZmVjdC10cmFpbnMtTG9uZG9uLXJlc3QtVUstU2F0dXJkYXkuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvYW1wL1JhaWwtc3RyaWtlcy1pbmR1c3RyaWFsLWFjdGlvbi1hZmZlY3QtdHJhaW5zLUxvbmRvbi1yZXN0LVVLLVNhdHVyZGF5Lmh0bWw?oc=5</id>
-    <title type="html">Rail strikes: How industrial action will affect trains in London and rest of UK on Saturday - Daily Mail</title>
-    <updated>2023-03-17T10:26:56.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvUmFpbC1zdHJpa2VzLWluZHVzdHJpYWwtYWN0aW9uLWFmZmVjdC10cmFpbnMtTG9uZG9uLXJlc3QtVUstU2F0dXJkYXkuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvYW1wL1JhaWwtc3RyaWtlcy1pbmR1c3RyaWFsLWFjdGlvbi1hZmZlY3QtdHJhaW5zLUxvbmRvbi1yZXN0LVVLLVNhdHVyZGF5Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMie2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvUmFpbC1zdHJpa2VzLWluZHVzdHJpYWwtYWN0aW9uLWFmZmVjdC10cmFpbnMtTG9uZG9uLXJlc3QtVUstU2F0dXJkYXkuaHRtbNIBf2h0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTE4NzE2MTMvYW1wL1JhaWwtc3RyaWtlcy1pbmR1c3RyaWFsLWFjdGlvbi1hZmZlY3QtdHJhaW5zLUxvbmRvbi1yZXN0LVVLLVNhdHVyZGF5Lmh0bWw?oc=5" target="_blank"&gt;Rail strikes: How industrial action will affect trains in London and rest of UK on Saturday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9sb25kb24tZ3JlYXN5LXNwb29uLWNhZi1zZXJ2ZXMtMjY0NzkyMDfSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvbG9uZG9uLWdyZWFzeS1zcG9vbi1jYWYtc2VydmVzLTI2NDc5MjA3LmFtcA?oc=5</id>
-    <title type="html">The London greasy spoon café that serves Chinese food for breakfast - My London</title>
-    <updated>2023-03-17T05:55:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9sb25kb24tZ3JlYXN5LXNwb29uLWNhZi1zZXJ2ZXMtMjY0NzkyMDfSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvbG9uZG9uLWdyZWFzeS1zcG9vbi1jYWYtc2VydmVzLTI2NDc5MjA3LmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3Mvd2hhdHMtb24vd2hhdHMtb24tbmV3cy9sb25kb24tZ3JlYXN5LXNwb29uLWNhZi1zZXJ2ZXMtMjY0NzkyMDfSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL3doYXRzLW9uL3doYXRzLW9uLW5ld3MvbG9uZG9uLWdyZWFzeS1zcG9vbi1jYWYtc2VydmVzLTI2NDc5MjA3LmFtcA?oc=5" target="_blank"&gt;The London greasy spoon café that serves Chinese food for breakfast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 14th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52747994023/"/>
-    <id>tag:flickr.com,2005:/photo/52747994023</id>
-    <published>2023-03-14T18:11:50Z</published>
-    <updated>2023-03-14T18:11:50Z</updated>
-    <flickr:date_taken>2023-03-14T11:43:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-14T11:43:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Piez</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
+    <id>tag:flickr.com,2005:/photo/52918649950</id>
+    <published>2023-05-23T00:15:27Z</published>
+    <updated>2023-05-23T00:15:27Z</updated>
+    <flickr:date_taken>2023-05-14T17:23:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-14T17:23:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52747994023/" title="March 14th"&gt;&lt;img src="https://live.staticflickr.com/65535/52747994023_ae7348e71e_m.jpg" width="240" height="148" alt="March 14th" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918649950/" title="Piez"&gt;&lt;img src="https://live.staticflickr.com/65535/52918649950_253488ce12_m.jpg" width="240" height="160" alt="Piez" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Southern train passing through Tooting Common between Balham and Streatham Common stations&lt;/p&gt;
+&lt;p&gt;South London.&lt;/p&gt;
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>Alex Ellison</name>
+      <uri>https://www.flickr.com/people/42276448@N07/</uri>
+      <flickr:nsid>42276448@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52747994023_ae7348e71e_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tootingcommon" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
+    <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="streatham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="common" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="train" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="slow" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stopping" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Milk  cafe 13-03-23</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/utopist/52744418417/"/>
-    <id>tag:flickr.com,2005:/photo/52744418417</id>
-    <published>2023-03-13T15:17:46Z</published>
-    <updated>2023-03-13T15:17:46Z</updated>
-    <flickr:date_taken>2023-03-13T15:07:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-13T15:07:58-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/utopist/"&gt;Utopist&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>Jet97 / 10Foot</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
+    <id>tag:flickr.com,2005:/photo/52918260081</id>
+    <published>2023-05-23T00:15:19Z</published>
+    <updated>2023-05-23T00:15:19Z</updated>
+    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/utopist/52744418417/" title="Milk  cafe 13-03-23"&gt;&lt;img src="https://live.staticflickr.com/65535/52744418417_269cbf388c_m.jpg" width="240" height="162" alt="Milk  cafe 13-03-23" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-
+&lt;p&gt;South London.&lt;/p&gt;
 </content>
     <author>
-      <name>Utopist</name>
-      <uri>https://www.flickr.com/people/utopist/</uri>
-      <flickr:nsid>39838684@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/39838684@N00.jpg?1643488744#39838684@N00</flickr:buddyicon>
+      <name>Alex Ellison</name>
+      <uri>https://www.flickr.com/people/42276448@N07/</uri>
+      <flickr:nsid>42276448@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52744418417_269cbf388c_b.jpg"/>
-    <category term="milkcafe" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
+    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cafe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>March 11th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52739892377/"/>
-    <id>tag:flickr.com,2005:/photo/52739892377</id>
-    <published>2023-03-11T16:58:52Z</published>
-    <updated>2023-03-11T16:58:52Z</updated>
-    <flickr:date_taken>2023-03-11T11:33:00-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-11T11:33:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>3 June 1989 Balham JJD520D</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
+    <id>tag:flickr.com,2005:/photo/52833998309</id>
+    <published>2023-04-21T06:41:06Z</published>
+    <updated>2023-04-21T06:41:06Z</updated>
+    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52739892377/" title="March 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52739892377_2326f53e55_m.jpg" width="240" height="164" alt="March 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Heads down in Balham&lt;/p&gt;
+
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52739892377_2326f53e55_b.jpg"/>
-    <category term="march" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="twins" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="helmets" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bookends" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uber" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mobiles" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
+    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Du Cane Court</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52740898843/"/>
-    <id>tag:flickr.com,2005:/photo/52740898843</id>
-    <published>2023-03-11T16:58:51Z</published>
-    <updated>2023-03-11T16:58:51Z</updated>
-    <flickr:date_taken>2023-03-11T11:26:55-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-03-11T11:26:55-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>29 December 1988 Balham VLT53</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
+    <id>tag:flickr.com,2005:/photo/52829496373</id>
+    <published>2023-04-19T08:31:00Z</published>
+    <updated>2023-04-19T08:31:00Z</updated>
+    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52740898843/" title="Du Cane Court"&gt;&lt;img src="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_m.jpg" width="240" height="154" alt="Du Cane Court" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Balham High Road&lt;/p&gt;
+
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52740898843_fa71c7eb10_b.jpg"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ducane" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="court" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="apartments" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="artdeco" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="symmetry" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -515,7 +513,11 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-12-21T12:21:00.001+00:00</published>
     <updated>2015-12-21T12:21:06.930+00:00</updated>
     <title type="text">Christmas minus four days</title>
-    <content type="html">&lt;p dir="ltr"&gt;Listening to Billie Holiday on Apple Music&lt;/p&gt;&lt;p dir="ltr"&gt;Reading Bernard Cornwell, Samuel Richardson, Balzac, Dickens, Ferrante&lt;/p&gt;&lt;p dir="ltr"&gt;Watching Force Awakens&lt;/p&gt;&lt;p dir="ltr"&gt;Thinking about how when I retire I'm going to live in small spare flat with a small spare garden with a terrier and a couple of &lt;u&gt;turtles&lt;/u&gt; and learn how to write poetry, paint pictures and play the trumpet&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Listening to Billie Holiday on Apple Music&lt;/p&gt;
+&lt;p dir="ltr"&gt;Reading Bernard Cornwell, Samuel Richardson, Balzac, Dickens, Ferrante&lt;/p&gt;
+&lt;p dir="ltr"&gt;Watching Force Awakens&lt;/p&gt;
+&lt;p dir="ltr"&gt;Thinking about how when I retire I'm going to live in small spare flat with a small spare garden with a terrier and a couple of &lt;u&gt;turtles&lt;/u&gt; and learn how to write poetry, paint pictures and play the trumpet&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/7469221085631967798/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=7469221085631967798" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/7469221085631967798"/>
@@ -534,7 +536,24 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-12-20T09:39:00.001+00:00</published>
     <updated>2015-12-20T09:51:37.881+00:00</updated>
     <title type="text">Christmas hols</title>
-    <content type="html">&lt;p dir="ltr"&gt;Hooray I'm on holiday for two weeks!&lt;/p&gt;&lt;p dir="ltr"&gt;Yesterday I made and put the marzipan on the Xmas cake.&lt;/p&gt;&lt;p dir="ltr"&gt;Today I'm going to Sisters using my Cineworld Unlimited card.&lt;/p&gt;&lt;p dir="ltr"&gt;Tomorrow we're going to see the Force Awakens&lt;/p&gt;&lt;p dir="ltr"&gt;Other stuff I'm doing:&lt;br&gt;- trying to find O2 Floor tickets for Strictly 2016 tour (we love you, Jay McGuinness, the human equivalent of the Andrex puppy)&lt;br&gt;- trying to get day tickets for Dominic West in Dangerous Liaisons at the Donmar Warehouse&lt;br&gt;- trying to get returns for Nutcracker, Cavalleria Rusticana at Covent Garden and Jim Broadbent in A Christmas Carol&lt;br&gt;- going to look at the West End Xmas windows with Laura&lt;br&gt;- going to Go Ape in Battersea Park with Alice&lt;br&gt;- going to Hampton Court as I've just realised I've got Historic Royal Palaces membership&lt;br&gt;- read, read, read!&lt;br&gt;- listen to unlimited music on Apple Music&lt;br&gt;- make mince pies (Delia)&lt;br&gt;- make Chana masala (Guardian)&lt;br&gt;- update this blog &lt;u&gt;daily&lt;/u&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Happy days&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Hooray I'm on holiday for two weeks!&lt;/p&gt;
+&lt;p dir="ltr"&gt;Yesterday I made and put the marzipan on the Xmas cake.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Today I'm going to Sisters using my Cineworld Unlimited card.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Tomorrow we're going to see the Force Awakens&lt;/p&gt;
+&lt;p dir="ltr"&gt;Other stuff I'm doing:&lt;br&gt;
+- trying to find O2 Floor tickets for Strictly 2016 tour (we love you, Jay McGuinness, the human equivalent of the Andrex puppy)&lt;br&gt;
+- trying to get day tickets for Dominic West in Dangerous Liaisons at the Donmar Warehouse&lt;br&gt;
+- trying to get returns for Nutcracker, Cavalleria Rusticana at Covent Garden and Jim Broadbent in A Christmas Carol&lt;br&gt;
+- going to look at the West End Xmas windows with Laura&lt;br&gt;
+- going to Go Ape in Battersea Park with Alice&lt;br&gt;
+- going to Hampton Court as I've just realised I've got Historic Royal Palaces membership&lt;br&gt;
+- read, read, read!&lt;br&gt;
+- listen to unlimited music on Apple Music&lt;br&gt;
+- make mince pies (Delia)&lt;br&gt;
+- make Chana masala (Guardian)&lt;br&gt;
+- update this blog &lt;u&gt;daily&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Happy days&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/3548054302340681003/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=3548054302340681003" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/3548054302340681003"/>
@@ -553,7 +572,12 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-12-05T15:51:00.001+00:00</published>
     <updated>2015-12-05T15:51:27.948+00:00</updated>
     <title type="text">Safeguarding: Southwark diocese</title>
-    <content type="html">&lt;p dir="ltr"&gt;Tea and coffee turns out to be a kettle, some tea bags and a pint of milk.&lt;/p&gt;&lt;p dir="ltr"&gt;Then there's a big kerfuffle about where you sign in: at the back, at reception, "I've signed in three times now"&lt;/p&gt;&lt;p dir="ltr"&gt;Then someone wants to open a window, but the windows don't open&lt;/p&gt;&lt;p dir="ltr"&gt;Oh God someone I know is here. I'll make like I haven't seen her&lt;/p&gt;&lt;p dir="ltr"&gt;Three hours later: actually it was really informative, if hair-raising. Obviously some parishes are a lot more problematic than &lt;u&gt;others&lt;/u&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Tea and coffee turns out to be a kettle, some tea bags and a pint of milk.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Then there's a big kerfuffle about where you sign in: at the back, at reception, "I've signed in three times now"&lt;/p&gt;
+&lt;p dir="ltr"&gt;Then someone wants to open a window, but the windows don't open&lt;/p&gt;
+&lt;p dir="ltr"&gt;Oh God someone I know is here. I'll make like I haven't seen her&lt;/p&gt;
+&lt;p dir="ltr"&gt;Three hours later: actually it was really informative, if hair-raising. Obviously some parishes are a lot more problematic than &lt;u&gt;others&lt;/u&gt;&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/3189984984749797998/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=3189984984749797998" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/3189984984749797998"/>
@@ -572,7 +596,26 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-10-17T10:32:00.001+01:00</published>
     <updated>2015-10-17T10:32:12.135+01:00</updated>
     <title type="text">Things We Argue About</title>
-    <content type="html">&lt;p dir="ltr"&gt;Driving down to Bristol for sister's wedding. We pass an estate agents window which has little model houses in the window like at Bekenscot.&lt;br&gt;Me: Laura, look at the cute little houses. Which one would you live in?&lt;br&gt;Laura: I can't really see them.&lt;br&gt;Me: I like the white one best, but the green one has bigger windows.&lt;br&gt;Laura: oh those houses. I thought you meant the houses they were advertising in the window. I was wondering how you could possibly see them.&lt;br&gt;Chris: I thought you meant the ones in the photos.&lt;br&gt;Alice: so did I.&lt;br&gt;Me: how could I possibly have seen the ones in the photographs? What, have I suddenly developed super eyesight?&lt;br&gt;Chris: that's what I thought. So I thought you must be talking just for the sake of saying something.&lt;br&gt;Me: when do I ever do that?&lt;br&gt;Chris: exactly. So I thought you must have gone mad.&lt;br&gt;Me: so you'd rather ignore everything you know about me and assume that I'd gone mad, rather than entertain the possibility that I might have been talking about the cute little model houses, which only that estate agent has, rather than the photos of houses, which every estate agent has?&lt;br&gt;Chris: I didn't think they were cute.&lt;br&gt;Me: surely it's more plausible that I meant the model houses but that what I think is cute is different from what you think is cute, rather than that I'd suddenly developed super eyesight and also lost my mind?&lt;br&gt;Chris: your position is indefensible&lt;br&gt;Me: my position is defensible. I am defending it, unfortunately I appear to be dealing with a bunch of dopes&lt;br&gt;Laura: we can't all be dopes&lt;br&gt;Me: well, apparently you can&lt;br&gt;Laura: the families in cars in adverts are never like &lt;u&gt;this&lt;/u&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;Driving down to Bristol for sister's wedding. We pass an estate agents window which has little model houses in the window like at Bekenscot.&lt;br&gt;
+Me: Laura, look at the cute little houses. Which one would you live in?&lt;br&gt;
+Laura: I can't really see them.&lt;br&gt;
+Me: I like the white one best, but the green one has bigger windows.&lt;br&gt;
+Laura: oh those houses. I thought you meant the houses they were advertising in the window. I was wondering how you could possibly see them.&lt;br&gt;
+Chris: I thought you meant the ones in the photos.&lt;br&gt;
+Alice: so did I.&lt;br&gt;
+Me: how could I possibly have seen the ones in the photographs? What, have I suddenly developed super eyesight?&lt;br&gt;
+Chris: that's what I thought. So I thought you must be talking just for the sake of saying something.&lt;br&gt;
+Me: when do I ever do that?&lt;br&gt;
+Chris: exactly. So I thought you must have gone mad.&lt;br&gt;
+Me: so you'd rather ignore everything you know about me and assume that I'd gone mad, rather than entertain the possibility that I might have been talking about the cute little model houses, which only that estate agent has, rather than the photos of houses, which every estate agent has?&lt;br&gt;
+Chris: I didn't think they were cute.&lt;br&gt;
+Me: surely it's more plausible that I meant the model houses but that what I think is cute is different from what you think is cute, rather than that I'd suddenly developed super eyesight and also lost my mind?&lt;br&gt;
+Chris: your position is indefensible&lt;br&gt;
+Me: my position is defensible. I am defending it, unfortunately I appear to be dealing with a bunch of dopes&lt;br&gt;
+Laura: we can't all be dopes&lt;br&gt;
+Me: well, apparently you can&lt;br&gt;
+Laura: the families in cars in adverts are never like &lt;u&gt;this&lt;/u&gt;&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/6064230907794973179/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=6064230907794973179" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/6064230907794973179"/>
@@ -591,7 +634,25 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2015-10-14T16:07:00.001+01:00</published>
     <updated>2015-10-14T16:22:37.382+01:00</updated>
     <title type="text">Fall Out Boy</title>
-    <content type="html">&lt;p dir="ltr"&gt;I'm in the grip of several slow-burning obsessions at the moment. Fall Out Boy, for one, I'm sort of crushing on them collectively. What a difference a live gig makes! It's hard to say why as most of the time you had to watch them on the big screens (and why is that different from watching them on YouTube?), but that is the mystery of human presence. Being there, in the same air as people, makes a difference. Why? Maybe they seem more real. Maybe you see everything, not just what the cameraman directs you to see, which helps to fill in the reality of someone.&lt;/p&gt;&lt;p dir="ltr"&gt;Then I've started my new Elena Ferrante book. I wonder if a Lila really existed, or if the author is simply applying herself into two and writing about both halves. I wish I could get the girls to read it: it's such an eye-opening validating piece of work, especially for women. Some woman in the paper was worrying that it wasn&amp;#8217;t really literature. Why? Why not? What is&lt;br&gt;unliterary about it? The fact that it&amp;#8217;s enjoyable? The fact that it acts as&lt;br&gt;though what two young girls in Naples in &lt;u&gt;mid-twentieth&lt;/u&gt; century thought or&lt;br&gt;felt is important? I don&amp;#8217;t see how you could find a book more serious intelligent and authentic than these novels are turning out to be.&lt;/p&gt;&lt;p dir="ltr"&gt;On a more trivial note, I've been reading about Kate Moss&amp;#8217; new squeeze in the Telegraph: Nikolai von Bismarck, who from a quick piece of deductive work via Wikipedia, must be the second nephew of Gottfried von Bismarck (the first cousin of Nikolai&amp;#8217;s father Leopold, who was the younger brother of Gottfried&amp;#8217;s father, the&lt;br&gt;Prince von Bismarck). I knew Gottfried from Oxford when we were both in a&lt;br&gt;Ionesco play, The Lesson, being directed by an acquaintance from New College. I didn&amp;#8217;t really know Gottfried, what with him being such a posho, but he seemed perfectly nice. He moved with the Olivia Channon set and died himself a few years ago, essentially from his lifestyle (drugs, gay orgies etc). All rather sad: gilded youth! This was all post the ITV Brideshead craze. Little did I think, as I was living through it, that people would be looking back at the eighties in a haze of nostalgia.&lt;/p&gt;&lt;p dir="ltr"&gt;At lunch I went out and bought some Vichy Aqualia Thermal Serum because it&lt;br&gt;was on a Guardian list of best skincare products and I&amp;#8217;m running out of&lt;br&gt;face cream. I don&amp;#8217;t even know how to use it! It was &amp;#163;5 off. I wonder if it&lt;br&gt;will have any detectible effect on my skin, that wouldn&amp;#8217;t be just as well&lt;br&gt;achieved with a &amp;#163;5 pot of generic moisturiser. Anyway, when I went to pay,&lt;br&gt;instead of the self-service checkout asking whether I wanted to buy a bag,&lt;br&gt;there simply were no bags. There was only a little Boots man wandering&lt;br&gt;around with a handful of bags. I told him I wanted to buy one, but I had no&lt;br&gt;change. He shoved a little paper bag into my hand and whispered, &amp;#8220;Go, go,&lt;br&gt;run away!&amp;#8221; which I promptly did. Hilarious.&lt;/p&gt;</content>
+    <content type="html">&lt;p dir="ltr"&gt;I'm in the grip of several slow-burning obsessions at the moment. Fall Out Boy, for one, I'm sort of crushing on them collectively. What a difference a live gig makes! It's hard to say why as most of the time you had to watch them on the big screens (and why is that different from watching them on YouTube?), but that is the mystery of human presence. Being there, in the same air as people, makes a difference. Why? Maybe they seem more real. Maybe you see everything, not just what the cameraman directs you to see, which helps to fill in the reality of someone.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Then I've started my new Elena Ferrante book. I wonder if a Lila really existed, or if the author is simply applying herself into two and writing about both halves. I wish I could get the girls to read it: it's such an eye-opening validating piece of work, especially for women. Some woman in the paper was worrying that it wasn&amp;#8217;t really literature. Why? Why not? What is&lt;br&gt;
+unliterary about it? The fact that it&amp;#8217;s enjoyable? The fact that it acts as&lt;br&gt;
+though what two young girls in Naples in &lt;u&gt;mid-twentieth&lt;/u&gt; century thought or&lt;br&gt;
+felt is important? I don&amp;#8217;t see how you could find a book more serious intelligent and authentic than these novels are turning out to be.&lt;/p&gt;
+&lt;p dir="ltr"&gt;On a more trivial note, I've been reading about Kate Moss&amp;#8217; new squeeze in the Telegraph: Nikolai von Bismarck, who from a quick piece of deductive work via Wikipedia, must be the second nephew of Gottfried von Bismarck (the first cousin of Nikolai&amp;#8217;s father Leopold, who was the younger brother of Gottfried&amp;#8217;s father, the&lt;br&gt;
+Prince von Bismarck). I knew Gottfried from Oxford when we were both in a&lt;br&gt;
+Ionesco play, The Lesson, being directed by an acquaintance from New College. I didn&amp;#8217;t really know Gottfried, what with him being such a posho, but he seemed perfectly nice. He moved with the Olivia Channon set and died himself a few years ago, essentially from his lifestyle (drugs, gay orgies etc). All rather sad: gilded youth! This was all post the ITV Brideshead craze. Little did I think, as I was living through it, that people would be looking back at the eighties in a haze of nostalgia.&lt;/p&gt;
+&lt;p dir="ltr"&gt;At lunch I went out and bought some Vichy Aqualia Thermal Serum because it&lt;br&gt;
+was on a Guardian list of best skincare products and I&amp;#8217;m running out of&lt;br&gt;
+face cream. I don&amp;#8217;t even know how to use it! It was &amp;#163;5 off. I wonder if it&lt;br&gt;
+will have any detectible effect on my skin, that wouldn&amp;#8217;t be just as well&lt;br&gt;
+achieved with a &amp;#163;5 pot of generic moisturiser. Anyway, when I went to pay,&lt;br&gt;
+instead of the self-service checkout asking whether I wanted to buy a bag,&lt;br&gt;
+there simply were no bags. There was only a little Boots man wandering&lt;br&gt;
+around with a handful of bags. I told him I wanted to buy one, but I had no&lt;br&gt;
+change. He shoved a little paper bag into my hand and whispered, &amp;#8220;Go, go,&lt;br&gt;
+run away!&amp;#8221; which I promptly did. Hilarious.&lt;/p&gt;
+</content>
     <link rel="replies" type="application/atom+xml" href="http://theoreticalheuristics.blogspot.com/feeds/3734111998235035666/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=38903334&amp;postID=3734111998235035666" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/38903334/posts/default/3734111998235035666"/>
@@ -667,7 +728,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <published>2012-03-07T00:25:00.001+00:00</published>
     <updated>2012-03-07T00:29:21.589+00:00</updated>
     <title type="text">The Drugworker</title>
-    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
+    <content type="html">Not all of the people working for homeless orgs are money grabbing careerists,or worse stupid.sOME ARE ANGELS i DONT HAVE TO NAME THEM THEY KNOW WHO THEY ARE its a tradgedy that they are more often than not in a surbordinate position and stick with their job to genuinly help.&lt;br /&gt;
+&amp;nbsp;I know a girl ,I say girl even though shes in her mid 40s now,she was a teenager when I met her begging on the Hungerford Bridge in the 80s.For over 20yrs she was a hard core heroin user,she knows everey trick in the book that drug users follow,maybe she even wrote it.She got of the drugs sorted her life out got a job with an org that deals with rough sleeping drug users,shes very familiar with the problems and bigotry and difficulty these people face when sorting their lives out or trying.Happy ending - no way,all she gets todo is the donkey work she feels and justibly that she is more qualified than her co-workers,she thinks she has been hired as the token ex-junkie.What a criminal waste of what could be that orgs most valuable asset.Is this her 2nd chance at life,and who could blame her if she went home everynight and stuck a needle in her arm.</content>
     <link rel="replies" type="application/atom+xml" href="http://vendazero.blogspot.com/feeds/3761671694906136916/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=2520155091800184&amp;postID=3761671694906136916" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/2520155091800184/posts/default/3761671694906136916"/>
@@ -707,7 +769,35 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <category scheme="http://www.blogger.com/atom/ns#" term="General Stupidity"/>
     <category scheme="http://www.blogger.com/atom/ns#" term="Life Lessons"/>
     <title type="text">Winky Face!</title>
-    <content type="html">I'm just going to come right out and say it. &amp;nbsp;I am not a huge fan of &lt;a href="http://en.wikipedia.org/wiki/Emoticon"&gt;emoticons&lt;/a&gt;. &amp;nbsp;I do not use a happy face to indicate happiness, or a sad face to indicate sadness. &amp;nbsp;I don't even use LOL when texting or IMing, as I prefer a simple "ha!" to get the idea of laughter accross.&lt;br /&gt;&lt;br /&gt;However, I will acknowledge that I am in the minority. &amp;nbsp;If there was a battle, I lost. &amp;nbsp;Emoticons have won, and I accept their place in the world. &amp;nbsp;I will even admit that they can make the tone of an email or text or whatever clear if the words themselves don't convey the proper meaning. &amp;nbsp;I don't use them myself, but if someone sends me a frowny face or a confused face, I understand their meaning and move on with my life.&lt;br /&gt;&lt;br /&gt;Except!&lt;br /&gt;&lt;br /&gt;The winky face. &amp;nbsp;If there is one emoticon I cannot stand, it is the winky face. &amp;nbsp;You know the one I mean:&lt;br /&gt;&lt;br /&gt;;)&lt;br /&gt;&lt;br /&gt;The intended meaning, as far as I'm aware, is to convey cheekiness or sassiness. &amp;nbsp;And it drives me up the freaking wall. &amp;nbsp;Because here is the thing. &amp;nbsp;In real life, people smile at each other, or frown, or have big smiles, or stick out their tongues (which, ugh), or look surprised. &amp;nbsp;All of which have a corresponding emoticon to convey these expressions.&lt;br /&gt;&lt;br /&gt;Do you know what people don't do? &amp;nbsp;Wink at each other. &amp;nbsp;Constantly wink at each other. &amp;nbsp;And if they do, they should stop, because I'm sure they'll just develop a twitch of some kind.&lt;br /&gt;&lt;br /&gt;There only two contexts I can think of where winking is appropriate in real life. &lt;br /&gt;&lt;br /&gt;One: &amp;nbsp;If you are playing a joke on someone and want to let someone they are with in on the joke subtly. &amp;nbsp;A wink at that person while continuing the joking will get that message across, and then hopefully they'll get in on the joke and you'll all have some fun times.&lt;br /&gt;&lt;br /&gt;Two: &amp;nbsp;A pickup wink, done in jest. &amp;nbsp;Possibly accompanied by finger guns. &amp;nbsp;This works in almost any circumstance in life, and is generally delightful.&lt;br /&gt;&lt;br /&gt;That's it! &amp;nbsp;Those are the only two situations in which you should be winking! &amp;nbsp;Or maybe if you're trying to get a contact back in place. &amp;nbsp;But blinking would also accomplish this, so let's forget that one.&lt;br /&gt;&lt;br /&gt;Two!&lt;br /&gt;&lt;br /&gt;So, when I see people (and god help me, so many people do this) use the winky face after a comment they mean to be funny, all I can think is STOP STOP STOP! &amp;nbsp;If you need to use an emoticon (and I really must stress that no one &lt;i&gt;needs &lt;/i&gt;to use an emoticon) in that case, will the smiley face not do? &amp;nbsp;What is wrong with the good old smiley face? &amp;nbsp;Are you too good for the smiley face??&lt;br /&gt;&lt;br /&gt;Your cheekiness comes across as far less cheeky if you have to tell me you're being cheeky! &amp;nbsp;(Also, the work cheeky looks funny when you write it too many times. Cheeky.)&amp;nbsp;Would you really wink in real life after you said whatever you just said? &amp;nbsp;I thought not.&amp;nbsp;It's just dumb. &amp;nbsp;Stop it. &lt;br /&gt;&lt;br /&gt;However, if someone develops an emoticon for the double finger guns, I will have to bow to their genius and gladly allow all winky face/double finger gun emoticon combos, as they will be hilarious.</content>
+    <content type="html">I'm just going to come right out and say it. &amp;nbsp;I am not a huge fan of &lt;a href="http://en.wikipedia.org/wiki/Emoticon"&gt;emoticons&lt;/a&gt;. &amp;nbsp;I do not use a happy face to indicate happiness, or a sad face to indicate sadness. &amp;nbsp;I don't even use LOL when texting or IMing, as I prefer a simple "ha!" to get the idea of laughter accross.&lt;br /&gt;
+&lt;br /&gt;
+However, I will acknowledge that I am in the minority. &amp;nbsp;If there was a battle, I lost. &amp;nbsp;Emoticons have won, and I accept their place in the world. &amp;nbsp;I will even admit that they can make the tone of an email or text or whatever clear if the words themselves don't convey the proper meaning. &amp;nbsp;I don't use them myself, but if someone sends me a frowny face or a confused face, I understand their meaning and move on with my life.&lt;br /&gt;
+&lt;br /&gt;
+Except!&lt;br /&gt;
+&lt;br /&gt;
+The winky face. &amp;nbsp;If there is one emoticon I cannot stand, it is the winky face. &amp;nbsp;You know the one I mean:&lt;br /&gt;
+&lt;br /&gt;
+;)&lt;br /&gt;
+&lt;br /&gt;
+The intended meaning, as far as I'm aware, is to convey cheekiness or sassiness. &amp;nbsp;And it drives me up the freaking wall. &amp;nbsp;Because here is the thing. &amp;nbsp;In real life, people smile at each other, or frown, or have big smiles, or stick out their tongues (which, ugh), or look surprised. &amp;nbsp;All of which have a corresponding emoticon to convey these expressions.&lt;br /&gt;
+&lt;br /&gt;
+Do you know what people don't do? &amp;nbsp;Wink at each other. &amp;nbsp;Constantly wink at each other. &amp;nbsp;And if they do, they should stop, because I'm sure they'll just develop a twitch of some kind.&lt;br /&gt;
+&lt;br /&gt;
+There only two contexts I can think of where winking is appropriate in real life. &lt;br /&gt;
+&lt;br /&gt;
+One: &amp;nbsp;If you are playing a joke on someone and want to let someone they are with in on the joke subtly. &amp;nbsp;A wink at that person while continuing the joking will get that message across, and then hopefully they'll get in on the joke and you'll all have some fun times.&lt;br /&gt;
+&lt;br /&gt;
+Two: &amp;nbsp;A pickup wink, done in jest. &amp;nbsp;Possibly accompanied by finger guns. &amp;nbsp;This works in almost any circumstance in life, and is generally delightful.&lt;br /&gt;
+&lt;br /&gt;
+That's it! &amp;nbsp;Those are the only two situations in which you should be winking! &amp;nbsp;Or maybe if you're trying to get a contact back in place. &amp;nbsp;But blinking would also accomplish this, so let's forget that one.&lt;br /&gt;
+&lt;br /&gt;
+Two!&lt;br /&gt;
+&lt;br /&gt;
+So, when I see people (and god help me, so many people do this) use the winky face after a comment they mean to be funny, all I can think is STOP STOP STOP! &amp;nbsp;If you need to use an emoticon (and I really must stress that no one &lt;i&gt;needs &lt;/i&gt;to use an emoticon) in that case, will the smiley face not do? &amp;nbsp;What is wrong with the good old smiley face? &amp;nbsp;Are you too good for the smiley face??&lt;br /&gt;
+&lt;br /&gt;
+Your cheekiness comes across as far less cheeky if you have to tell me you're being cheeky! &amp;nbsp;(Also, the work cheeky looks funny when you write it too many times. Cheeky.)&amp;nbsp;Would you really wink in real life after you said whatever you just said? &amp;nbsp;I thought not.&amp;nbsp;It's just dumb. &amp;nbsp;Stop it. &lt;br /&gt;
+&lt;br /&gt;
+However, if someone develops an emoticon for the double finger guns, I will have to bow to their genius and gladly allow all winky face/double finger gun emoticon combos, as they will be hilarious.</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/7531594750365858516/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=7531594750365858516&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7531594750365858516"/>
@@ -727,7 +817,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-08-03T11:17:10.742+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 3 August</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s1600/P1020138.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s320/P1020138.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Cuba!</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s1600/P1020138.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://3.bp.blogspot.com/-nn8PIV2Ped4/TjkgEE_iKaI/AAAAAAAAAIc/6x38wzOv5F0/s320/P1020138.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+Cuba!</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/554161128779465532/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=554161128779465532&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/554161128779465532"/>
@@ -748,7 +839,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-08-03T11:15:23.739+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 2 August</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s1600/P1020137.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s320/P1020137.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Bruges! It's my most multi-lingual mug, as it also says "Bruges" and "Brujas".</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s1600/P1020137.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-5G6yMhRC98o/TjkfbGxYSRI/AAAAAAAAAIY/OpgbE1_7TEg/s320/P1020137.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+Bruges! It's my most multi-lingual mug, as it also says "Bruges" and "Brujas".</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/7216084118869459974/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=7216084118869459974&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/7216084118869459974"/>
@@ -769,7 +861,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-07-29T10:59:05.965+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 29 July</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s1600/P1020131.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s320/P1020131.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;The kings and queens of Scotland. &amp;nbsp;Educational!</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s1600/P1020131.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://1.bp.blogspot.com/-N08axBz6Xy0/TjKELpujc2I/AAAAAAAAAIU/jc7Afyi4vaY/s320/P1020131.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+The kings and queens of Scotland. &amp;nbsp;Educational!</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/1387705541157207842/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=1387705541157207842&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/1387705541157207842"/>
@@ -790,7 +883,8 @@ OMD are just one of those bands that I see live whenever I can. I’ve now been 
     <updated>2011-07-28T09:43:39.189+01:00</updated>
     <category scheme="http://www.blogger.com/atom/ns#" term="Mug of the Day"/>
     <title type="text">Mug of the Day - 28 July</title>
-    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s1600/P1020126.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s320/P1020126.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;Barcelona is one of my favourite mugs. I think it's so pretty.</content>
+    <content type="html">&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s1600/P1020126.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" height="240" src="http://4.bp.blogspot.com/-nwwgOqCRmB0/TjEhFVgKH-I/AAAAAAAAAIQ/skAM3X7EK-I/s320/P1020126.JPG" width="320" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+Barcelona is one of my favourite mugs. I think it's so pretty.</content>
     <link rel="replies" type="application/atom+xml" href="http://aliceworld.blogspot.com/feeds/6270089895786412367/comments/default" title="Post Comments"/>
     <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=7971543&amp;postID=6270089895786412367&amp;isPopup=true" title="0 Comments"/>
     <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/7971543/posts/default/6270089895786412367"/>
