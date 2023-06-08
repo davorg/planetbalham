@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-08T12:04:45Z</updated>
+  <updated>2023-06-08T18:04:01Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 55%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-08T09:51:00.000+0000</id>
-    <published>2023-06-08T12:01:14Z</published>
-    <updated>2023-06-08T12:01:14Z</updated>
+    <published>2023-06-08T18:02:30Z</published>
+    <updated>2023-06-08T18:02:30Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny, Minimum Temperature: 14°C (57°F) Maximum Temperature: 23°C (73°F)</title>
+    <title>Friday: Sunny, Minimum Temperature: 14°C (57°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-08T09:51:00.000+0000</id>
-    <published>2023-06-08T12:01:14Z</published>
-    <updated>2023-06-08T12:01:14Z</updated>
+    <published>2023-06-08T18:02:30Z</published>
+    <updated>2023-06-08T18:02:30Z</updated>
   </entry>
   <entry>
     <title>Saturday: Light Rain Showers, Minimum Temperature: 16°C (61°F) Maximum Temperature: 26°C (79°F)</title>
@@ -37,8 +37,36 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 16°C (61°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-08T09:51:00.000+0000</id>
-    <published>2023-06-08T12:01:14Z</published>
-    <updated>2023-06-08T12:01:14Z</updated>
+    <published>2023-06-08T18:02:30Z</published>
+    <updated>2023-06-08T18:02:30Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiNWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9tb3JvY2Nhbi1yZXN0YXVyYW50cy1pbi1sb25kb24v0gEA?oc=5</id>
+    <title type="html">10 Of The Best Moroccan Restaurants In London - Secret London</title>
+    <updated>2023-06-08T15:35:47.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiNWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9tb3JvY2Nhbi1yZXN0YXVyYW50cy1pbi1sb25kb24v0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiNWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9tb3JvY2Nhbi1yZXN0YXVyYW50cy1pbi1sb25kb24v0gEA?oc=5" target="_blank"&gt;10 Of The Best Moroccan Restaurants In London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Secret London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcmV0dXJuLW9mLXN1bW1lci1jb25jZXJ0cy1vbi10aGUtY2xhcGhhbS1jb21tb24tYmFuZHN0YW5kLTE4NzM1M9IBAA?oc=5</id>
+    <title type="html">Return of summer concerts on the Clapham Common Bandstand - Clapham Nub News</title>
+    <updated>2023-06-08T14:48:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcmV0dXJuLW9mLXN1bW1lci1jb25jZXJ0cy1vbi10aGUtY2xhcGhhbS1jb21tb24tYmFuZHN0YW5kLTE4NzM1M9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vY2xhcGhhbS5udWIubmV3cy9uZXdzL2xvY2FsLW5ld3MvcmV0dXJuLW9mLXN1bW1lci1jb25jZXJ0cy1vbi10aGUtY2xhcGhhbS1jb21tb24tYmFuZHN0YW5kLTE4NzM1M9IBAA?oc=5" target="_blank"&gt;Return of summer concerts on the Clapham Common Bandstand&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Clapham Nub News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMjE3NDE0MS9BbGFuLVRpdGNobWFyc2gtd2VsY29tZXMtUXVlZW4tQ2FtaWxsYS1zd2VldC1wZWNrLWNoZWVrLmh0bWzSAXRodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvZmVtYWlsL2FydGljbGUtMTIxNzQxNDEvYW1wL0FsYW4tVGl0Y2htYXJzaC13ZWxjb21lcy1RdWVlbi1DYW1pbGxhLXN3ZWV0LXBlY2stY2hlZWsuaHRtbA?oc=5</id>
+    <title type="html">Queen Camilla opens the annual British Flowers week exhibition - Daily Mail</title>
+    <updated>2023-06-08T14:43:09.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMjE3NDE0MS9BbGFuLVRpdGNobWFyc2gtd2VsY29tZXMtUXVlZW4tQ2FtaWxsYS1zd2VldC1wZWNrLWNoZWVrLmh0bWzSAXRodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvZmVtYWlsL2FydGljbGUtMTIxNzQxNDEvYW1wL0FsYW4tVGl0Y2htYXJzaC13ZWxjb21lcy1RdWVlbi1DYW1pbGxhLXN3ZWV0LXBlY2stY2hlZWsuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9mZW1haWwvYXJ0aWNsZS0xMjE3NDE0MS9BbGFuLVRpdGNobWFyc2gtd2VsY29tZXMtUXVlZW4tQ2FtaWxsYS1zd2VldC1wZWNrLWNoZWVrLmh0bWzSAXRodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvZmVtYWlsL2FydGljbGUtMTIxNzQxNDEvYW1wL0FsYW4tVGl0Y2htYXJzaC13ZWxjb21lcy1RdWVlbi1DYW1pbGxhLXN3ZWV0LXBlY2stY2hlZWsuaHRtbA?oc=5" target="_blank"&gt;Queen Camilla opens the annual British Flowers week exhibition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS93aGF0LXN1cGVybWFya2V0cy1kb2luZy1zdG9wLXRoaWV2ZXMtMzAxODQxMjDSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvd2hhdC1zdXBlcm1hcmtldHMtZG9pbmctc3RvcC10aGlldmVzLTMwMTg0MTIwLmFtcA?oc=5</id>
+    <title type="html">What supermarkets are doing to stop thieves - including receipt scanners at checkouts - The Mirror</title>
+    <updated>2023-06-08T14:41:04.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS93aGF0LXN1cGVybWFya2V0cy1kb2luZy1zdG9wLXRoaWV2ZXMtMzAxODQxMjDSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvd2hhdC1zdXBlcm1hcmtldHMtZG9pbmctc3RvcC10aGlldmVzLTMwMTg0MTIwLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS93aGF0LXN1cGVybWFya2V0cy1kb2luZy1zdG9wLXRoaWV2ZXMtMzAxODQxMjDSAVBodHRwczovL3d3dy5taXJyb3IuY28udWsvbW9uZXkvd2hhdC1zdXBlcm1hcmtldHMtZG9pbmctc3RvcC10aGlldmVzLTMwMTg0MTIwLmFtcA?oc=5" target="_blank"&gt;What supermarkets are doing to stop thieves - including receipt scanners at checkouts&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vaGFtbXllbmQuY29tL2luZGV4LnBocC8yMDIzLzA2L2Z1bGhhbS1pbi10YWxrcy1vdmVyLWNhcnZhbGhvLXJldHVybi_SAQA?oc=5</id>
@@ -46,34 +74,6 @@
     <updated>2023-06-08T10:45:25.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vaGFtbXllbmQuY29tL2luZGV4LnBocC8yMDIzLzA2L2Z1bGhhbS1pbi10YWxrcy1vdmVyLWNhcnZhbGhvLXJldHVybi_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vaGFtbXllbmQuY29tL2luZGV4LnBocC8yMDIzLzA2L2Z1bGhhbS1pbi10YWxrcy1vdmVyLWNhcnZhbGhvLXJldHVybi_SAQA?oc=5" target="_blank"&gt;Fulham ‘in talks’ over Carvalho return&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HammyEnd.com&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLXRocmVlLXdhbmRzd29ydGgtcmVzdGF1cmFudHMtNDE3NDA1OdIBAA?oc=5</id>
-    <title type="html">Food hygiene ratings given to three Wandsworth restaurants - LondonWorld</title>
-    <updated>2023-06-08T09:03:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLXRocmVlLXdhbmRzd29ydGgtcmVzdGF1cmFudHMtNDE3NDA1OdIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLXRocmVlLXdhbmRzd29ydGgtcmVzdGF1cmFudHMtNDE3NDA1OdIBAA?oc=5" target="_blank"&gt;Food hygiene ratings given to three Wandsworth restaurants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24td2FzdGVzLW5vLXRpbWUtYnVpbGRpbmctc3F1YWQtZm9yLXByb21vdGlvbi1wdXNoLTYxOTAyOdIBAA?oc=5</id>
-    <title type="html">Farnham Town manager Paul Johnson wastes no time building ... - Liphook Herald</title>
-    <updated>2023-06-08T08:03:07.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24td2FzdGVzLW5vLXRpbWUtYnVpbGRpbmctc3F1YWQtZm9yLXByb21vdGlvbi1wdXNoLTYxOTAyOdIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24td2FzdGVzLW5vLXRpbWUtYnVpbGRpbmctc3F1YWQtZm9yLXByb21vdGlvbi1wdXNoLTYxOTAyOdIBAA?oc=5" target="_blank"&gt;Farnham Town manager Paul Johnson wastes no time building ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liphook Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnJldGFpbGdhemV0dGUuY28udWsvYmxvZy8yMDIzLzA2L3Nob3BsaWZ0aW5nLXNhaW5zYnVyeXMv0gEA?oc=5</id>
-    <title type="html">The radical steps Sainsbury's, M&amp;S and Sports Direct are taking to ... - Retail Gazette</title>
-    <updated>2023-06-07T15:10:05.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnJldGFpbGdhemV0dGUuY28udWsvYmxvZy8yMDIzLzA2L3Nob3BsaWZ0aW5nLXNhaW5zYnVyeXMv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRGh0dHBzOi8vd3d3LnJldGFpbGdhemV0dGUuY28udWsvYmxvZy8yMDIzLzA2L3Nob3BsaWZ0aW5nLXNhaW5zYnVyeXMv0gEA?oc=5" target="_blank"&gt;The radical steps Sainsbury's, M&amp;S and Sports Direct are taking to ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Retail Gazette&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiLWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9jaGVlc2Utc2hvcHMtaW4tbG9uZG9uL9IBAA?oc=5</id>
-    <title type="html">Cheese Shops In London: 10 To Get Your Fromage Fix - Secret London</title>
-    <updated>2023-06-06T16:53:58.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiLWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9jaGVlc2Utc2hvcHMtaW4tbG9uZG9uL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiLWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9jaGVlc2Utc2hvcHMtaW4tbG9uZG9uL9IBAA?oc=5" target="_blank"&gt;Cheese Shops In London: 10 To Get Your Fromage Fix&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Secret London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
