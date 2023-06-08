@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-08T00:12:44Z</updated>
+  <updated>2023-06-08T06:04:03Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 10°C (50°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 21:14 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 64%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-07T21:55:00.000+0000</id>
-    <published>2023-06-08T00:03:13Z</published>
-    <updated>2023-06-08T00:03:13Z</updated>
-  </entry>
-  <entry>
-    <title>Thursday: Sunny, Minimum Temperature: 10°C (51°F) Maximum Temperature: 21°C (69°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (51°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 64%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-07T21:55:00.000+0000</id>
-    <published>2023-06-08T00:03:13Z</published>
-    <updated>2023-06-08T00:03:13Z</updated>
+    <published>2023-06-08T06:02:28Z</published>
+    <updated>2023-06-08T06:02:28Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 14°C (57°F) Maximum Temperature: 23°C (73°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-07T21:55:00.000+0000</id>
+    <published>2023-06-08T06:02:28Z</published>
+    <updated>2023-06-08T06:02:28Z</updated>
+  </entry>
+  <entry>
+    <title>Saturday: Thundery Showers, Minimum Temperature: 16°C (61°F) Maximum Temperature: 25°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 16°C (61°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 67%, UV Risk: 6, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-07T21:55:00.000+0000</id>
-    <published>2023-06-08T00:03:13Z</published>
-    <updated>2023-06-08T00:03:13Z</updated>
+    <published>2023-06-08T06:02:28Z</published>
+    <updated>2023-06-08T06:02:28Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnJldGFpbGdhemV0dGUuY28udWsvYmxvZy8yMDIzLzA2L3Nob3BsaWZ0aW5nLXNhaW5zYnVyeXMv0gEA?oc=5</id>
@@ -75,38 +75,6 @@
     <link href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9ob3ctYmxhY2tzdG9uZS1tYWRlLWJpbGxpb25zLWJldHRpbmctb24tc2hlZHMtMjAyMzA2MDYtcDVkZWVz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9ob3ctYmxhY2tzdG9uZS1tYWRlLWJpbGxpb25zLWJldHRpbmctb24tc2hlZHMtMjAyMzA2MDYtcDVkZWVz0gEA?oc=5" target="_blank"&gt;How Blackstone made billions betting on sheds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Australian Financial Review&lt;/font&gt;</content>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jason15c/52934134176/"/>
-    <id>tag:flickr.com,2005:/photo/52934134176</id>
-    <published>2023-05-29T10:31:42Z</published>
-    <updated>2023-05-29T10:31:42Z</updated>
-    <flickr:date_taken>2023-05-17T22:25:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-05-17T22:25:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jason15c/"&gt;15c.co.uk&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jason15c/52934134176/" title="Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52934134176_88dc2aeec3_m.jpg" width="240" height="160" alt="Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;51660&lt;br /&gt;
-Balham, 17/5/23&lt;br /&gt;
-Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
-</content>
-    <author>
-      <name>15c.co.uk</name>
-      <uri>https://www.flickr.com/people/jason15c/</uri>
-      <flickr:nsid>63574125@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3885/buddyicons/63574125@N08.jpg?1403878971#63574125@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52934134176_88dc2aeec3_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1995tubestock" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
@@ -237,6 +205,41 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>April 11th</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
+    <id>tag:flickr.com,2005:/photo/52812095199</id>
+    <published>2023-04-12T13:43:26Z</published>
+    <updated>2023-04-12T13:43:26Z</updated>
+    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Waiting for No 3&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
