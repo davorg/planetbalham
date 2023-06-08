@@ -7,38 +7,59 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-08T06:04:03Z</updated>
+  <updated>2023-06-08T12:04:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 10°C (50°F), Wind Direction: North Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1018mb, Humidity: 64%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: Easterly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 55%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:14 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-07T21:55:00.000+0000</id>
-    <published>2023-06-08T06:02:28Z</published>
-    <updated>2023-06-08T06:02:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-08T09:51:00.000+0000</id>
+    <published>2023-06-08T12:01:14Z</published>
+    <updated>2023-06-08T12:01:14Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 14°C (57°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 65%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1014mb, Humidity: 66%, UV Risk: 7, Pollution: Low, Sunrise: 04:45 BST, Sunset: 21:15 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-07T21:55:00.000+0000</id>
-    <published>2023-06-08T06:02:28Z</published>
-    <updated>2023-06-08T06:02:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-08T09:51:00.000+0000</id>
+    <published>2023-06-08T12:01:14Z</published>
+    <updated>2023-06-08T12:01:14Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Thundery Showers, Minimum Temperature: 16°C (61°F) Maximum Temperature: 25°C (76°F)</title>
+    <title>Saturday: Light Rain Showers, Minimum Temperature: 16°C (61°F) Maximum Temperature: 26°C (79°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 16°C (61°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 67%, UV Risk: 6, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 16°C (61°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 61%, UV Risk: 7, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:16 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-07T21:55:00.000+0000</id>
-    <published>2023-06-08T06:02:28Z</published>
-    <updated>2023-06-08T06:02:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-08T09:51:00.000+0000</id>
+    <published>2023-06-08T12:01:14Z</published>
+    <updated>2023-06-08T12:01:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vaGFtbXllbmQuY29tL2luZGV4LnBocC8yMDIzLzA2L2Z1bGhhbS1pbi10YWxrcy1vdmVyLWNhcnZhbGhvLXJldHVybi_SAQA?oc=5</id>
+    <title type="html">Fulham ‘in talks’ over Carvalho return - HammyEnd.com</title>
+    <updated>2023-06-08T10:45:25.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vaGFtbXllbmQuY29tL2luZGV4LnBocC8yMDIzLzA2L2Z1bGhhbS1pbi10YWxrcy1vdmVyLWNhcnZhbGhvLXJldHVybi_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vaGFtbXllbmQuY29tL2luZGV4LnBocC8yMDIzLzA2L2Z1bGhhbS1pbi10YWxrcy1vdmVyLWNhcnZhbGhvLXJldHVybi_SAQA?oc=5" target="_blank"&gt;Fulham ‘in talks’ over Carvalho return&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HammyEnd.com&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLXRocmVlLXdhbmRzd29ydGgtcmVzdGF1cmFudHMtNDE3NDA1OdIBAA?oc=5</id>
+    <title type="html">Food hygiene ratings given to three Wandsworth restaurants - LondonWorld</title>
+    <updated>2023-06-08T09:03:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLXRocmVlLXdhbmRzd29ydGgtcmVzdGF1cmFudHMtNDE3NDA1OdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLXRocmVlLXdhbmRzd29ydGgtcmVzdGF1cmFudHMtNDE3NDA1OdIBAA?oc=5" target="_blank"&gt;Food hygiene ratings given to three Wandsworth restaurants&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24td2FzdGVzLW5vLXRpbWUtYnVpbGRpbmctc3F1YWQtZm9yLXByb21vdGlvbi1wdXNoLTYxOTAyOdIBAA?oc=5</id>
+    <title type="html">Farnham Town manager Paul Johnson wastes no time building ... - Liphook Herald</title>
+    <updated>2023-06-08T08:03:07.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24td2FzdGVzLW5vLXRpbWUtYnVpbGRpbmctc3F1YWQtZm9yLXByb21vdGlvbi1wdXNoLTYxOTAyOdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5saXBob29raGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24td2FzdGVzLW5vLXRpbWUtYnVpbGRpbmctc3F1YWQtZm9yLXByb21vdGlvbi1wdXNoLTYxOTAyOdIBAA?oc=5" target="_blank"&gt;Farnham Town manager Paul Johnson wastes no time building ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Liphook Herald&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnJldGFpbGdhemV0dGUuY28udWsvYmxvZy8yMDIzLzA2L3Nob3BsaWZ0aW5nLXNhaW5zYnVyeXMv0gEA?oc=5</id>
@@ -54,27 +75,38 @@
     <link href="https://news.google.com/atom/articles/CBMiLWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9jaGVlc2Utc2hvcHMtaW4tbG9uZG9uL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiLWh0dHBzOi8vc2VjcmV0bGRuLmNvbS9jaGVlc2Utc2hvcHMtaW4tbG9uZG9uL9IBAA?oc=5" target="_blank"&gt;Cheese Shops In London: 10 To Get Your Fromage Fix&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Secret London&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYnJvY2t3ZWxsLXBhcmstc291dGgtbG9uZG9uLXJlc2lkZW50cy0xNTIwNTMwNTEuaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9icm9ja3dlbGwtcGFyay1zb3V0aC1sb25kb24tcmVzaWRlbnRzLTE1MjA1MzA1MS5odG1s?oc=5</id>
-    <title type="html">Brockwell Park: South London residents fed up with ‘constant’ noise after 6 music festivals in 10 days - Yahoo News UK</title>
-    <updated>2023-06-06T15:20:53.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYnJvY2t3ZWxsLXBhcmstc291dGgtbG9uZG9uLXJlc2lkZW50cy0xNTIwNTMwNTEuaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9icm9ja3dlbGwtcGFyay1zb3V0aC1sb25kb24tcmVzaWRlbnRzLTE1MjA1MzA1MS5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYnJvY2t3ZWxsLXBhcmstc291dGgtbG9uZG9uLXJlc2lkZW50cy0xNTIwNTMwNTEuaHRtbNIBVmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW1waHRtbC9icm9ja3dlbGwtcGFyay1zb3V0aC1sb25kb24tcmVzaWRlbnRzLTE1MjA1MzA1MS5odG1s?oc=5" target="_blank"&gt;Brockwell Park: South London residents fed up with ‘constant’ noise after 6 music festivals in 10 days&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiigFodHRwczovL3d3dy5yZXN0YXVyYW50b25saW5lLmNvLnVrL0FydGljbGUvMjAyMy8wNi8wNi9ZYXJkLVNhbGUtUGl6emEtZXhwbG9yZXMtb3B0aW9ucy10by10YWtlLXRoZS1icmFuZC1mb3J3YXJkLWFmdGVyLWFwcG9pbnRpbmctYWR2aXNvcnPSAQA?oc=5</id>
-    <title type="html">Yard Sale Pizza explores options to take the brand forward after ... - Restaurant</title>
-    <updated>2023-06-06T08:51:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiigFodHRwczovL3d3dy5yZXN0YXVyYW50b25saW5lLmNvLnVrL0FydGljbGUvMjAyMy8wNi8wNi9ZYXJkLVNhbGUtUGl6emEtZXhwbG9yZXMtb3B0aW9ucy10by10YWtlLXRoZS1icmFuZC1mb3J3YXJkLWFmdGVyLWFwcG9pbnRpbmctYWR2aXNvcnPSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiigFodHRwczovL3d3dy5yZXN0YXVyYW50b25saW5lLmNvLnVrL0FydGljbGUvMjAyMy8wNi8wNi9ZYXJkLVNhbGUtUGl6emEtZXhwbG9yZXMtb3B0aW9ucy10by10YWtlLXRoZS1icmFuZC1mb3J3YXJkLWFmdGVyLWFwcG9pbnRpbmctYWR2aXNvcnPSAQA?oc=5" target="_blank"&gt;Yard Sale Pizza explores options to take the brand forward after ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Restaurant&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9ob3ctYmxhY2tzdG9uZS1tYWRlLWJpbGxpb25zLWJldHRpbmctb24tc2hlZHMtMjAyMzA2MDYtcDVkZWVz0gEA?oc=5</id>
-    <title type="html">How Blackstone made billions betting on sheds - The Australian Financial Review</title>
-    <updated>2023-06-06T05:23:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9ob3ctYmxhY2tzdG9uZS1tYWRlLWJpbGxpb25zLWJldHRpbmctb24tc2hlZHMtMjAyMzA2MDYtcDVkZWVz0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9ob3ctYmxhY2tzdG9uZS1tYWRlLWJpbGxpb25zLWJldHRpbmctb24tc2hlZHMtMjAyMzA2MDYtcDVkZWVz0gEA?oc=5" target="_blank"&gt;How Blackstone made billions betting on sheds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Australian Financial Review&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jason15c/52934134176/"/>
+    <id>tag:flickr.com,2005:/photo/52934134176</id>
+    <published>2023-05-29T10:31:42Z</published>
+    <updated>2023-05-29T10:31:42Z</updated>
+    <flickr:date_taken>2023-05-17T22:25:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-17T22:25:14-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jason15c/"&gt;15c.co.uk&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jason15c/52934134176/" title="Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/52934134176_88dc2aeec3_m.jpg" width="240" height="160" alt="Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;51660&lt;br /&gt;
+Balham, 17/5/23&lt;br /&gt;
+Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
+</content>
+    <author>
+      <name>15c.co.uk</name>
+      <uri>https://www.flickr.com/people/jason15c/</uri>
+      <flickr:nsid>63574125@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3885/buddyicons/63574125@N08.jpg?1403878971#63574125@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52934134176_88dc2aeec3_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonunderground" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tfl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northernline" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1995tubestock" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Piez</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
@@ -205,41 +237,6 @@
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>April 11th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52812095199/"/>
-    <id>tag:flickr.com,2005:/photo/52812095199</id>
-    <published>2023-04-12T13:43:26Z</published>
-    <updated>2023-04-12T13:43:26Z</updated>
-    <flickr:date_taken>2023-04-11T11:25:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-11T11:25:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52812095199/" title="April 11th"&gt;&lt;img src="https://live.staticflickr.com/65535/52812095199_e04ec031f2_m.jpg" width="240" height="180" alt="April 11th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Waiting for No 3&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52812095199_e04ec031f2_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gails" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="van" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="april" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="glasses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="3" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
