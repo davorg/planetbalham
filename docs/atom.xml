@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-14T18:03:58Z</updated>
+  <updated>2023-06-15T00:12:50Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 12°C (54°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1019mb, Humidity: 62%, UV Risk: 4, Pollution: Moderate, Sunset: 21:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: North Easterly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb, Humidity: 75%, UV Risk: 0, Pollution: Moderate, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-14T09:56:00.000+0000</id>
-    <published>2023-06-14T18:00:59Z</published>
-    <updated>2023-06-14T18:00:59Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-14T21:54:00.000+0000</id>
+    <published>2023-06-15T00:01:16Z</published>
+    <updated>2023-06-15T00:01:16Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 26°C (79°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 49%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 50%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-14T09:56:00.000+0000</id>
-    <published>2023-06-14T18:00:59Z</published>
-    <updated>2023-06-14T18:00:59Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-14T21:54:00.000+0000</id>
+    <published>2023-06-15T00:01:16Z</published>
+    <updated>2023-06-15T00:01:16Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 25°C (78°F)</title>
+    <title>Friday: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 26°C (78°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (78°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 46%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (78°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1021mb, Humidity: 44%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-14T09:56:00.000+0000</id>
-    <published>2023-06-14T18:00:59Z</published>
-    <updated>2023-06-14T18:00:59Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-14T21:54:00.000+0000</id>
+    <published>2023-06-15T00:01:16Z</published>
+    <updated>2023-06-15T00:01:16Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDYxNDEyNDEwL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvYmFkaWFuaS1nZWxhdG8tYmFsaGFtLXBhc3RhLXNob3AtbG9uZG9u0gEA?oc=5</id>
@@ -147,6 +147,40 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Piez</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
+    <id>tag:flickr.com,2005:/photo/52918649950</id>
+    <published>2023-05-23T00:15:27Z</published>
+    <updated>2023-05-23T00:15:27Z</updated>
+    <flickr:date_taken>2023-05-14T17:23:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-14T17:23:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918649950/" title="Piez"&gt;&lt;img src="https://live.staticflickr.com/65535/52918649950_253488ce12_m.jpg" width="240" height="160" alt="Piez" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;South London.&lt;/p&gt;
+</content>
+    <author>
+      <name>Alex Ellison</name>
+      <uri>https://www.flickr.com/people/42276448@N07/</uri>
+      <flickr:nsid>42276448@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
+    <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Jet97 / 10Foot</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
     <id>tag:flickr.com,2005:/photo/52918260081</id>
@@ -210,38 +244,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>29 December 1988 Balham VLT53</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
-    <id>tag:flickr.com,2005:/photo/52829496373</id>
-    <published>2023-04-19T08:31:00Z</published>
-    <updated>2023-04-19T08:31:00Z</updated>
-    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
