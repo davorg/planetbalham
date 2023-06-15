@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-15T06:04:22Z</updated>
+  <updated>2023-06-15T12:04:40Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Today: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 26°C (79°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 50%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-14T21:54:00.000+0000</id>
-    <published>2023-06-15T06:03:57Z</published>
-    <updated>2023-06-15T06:03:57Z</updated>
-  </entry>
-  <entry>
-    <title>Friday: Sunny, Minimum Temperature: 12°C (54°F) Maximum Temperature: 26°C (79°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (79°F), Minimum Temperature: 12°C (54°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Good, Pressure: 1020mb, Humidity: 44%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:19 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-14T21:54:00.000+0000</id>
-    <published>2023-06-15T06:03:57Z</published>
-    <updated>2023-06-15T06:03:57Z</updated>
-  </entry>
-  <entry>
-    <title>Saturday: Sunny, Minimum Temperature: 14°C (57°F) Maximum Temperature: 25°C (78°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (78°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1018mb, Humidity: 46%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-14T21:54:00.000+0000</id>
-    <published>2023-06-15T06:03:57Z</published>
-    <updated>2023-06-15T06:03:57Z</updated>
-  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmhvdC1kaW5uZXJzLmNvbS8yMDIzMDYxNDEyNDEwL0dhc3Ryb2Jsb2cvTGF0ZXN0LW5ld3MvYmFkaWFuaS1nZWxhdG8tYmFsaGFtLXBhc3RhLXNob3AtbG9uZG9u0gEA?oc=5</id>
     <title type="html">The new Badiani in Balham will do pasta as well as gelato - Hot Dinners</title>
@@ -53,6 +23,13 @@
     <updated>2023-06-13T15:40:36.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMjExNjMwNS9FbmdsYW5kcy1idXNpZXN0LUdQLXN1cmdlcmllcy1SRVZFQUxFRC1pbnRlcmFjdGl2ZS1tYXAtZG9lcy1mYXJlLmh0bWzSAX1odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTIxMTYzMDUvYW1wL0VuZ2xhbmRzLWJ1c2llc3QtR1Atc3VyZ2VyaWVzLVJFVkVBTEVELWludGVyYWN0aXZlLW1hcC1kb2VzLWZhcmUuaHRtbA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMieWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMjExNjMwNS9FbmdsYW5kcy1idXNpZXN0LUdQLXN1cmdlcmllcy1SRVZFQUxFRC1pbnRlcmFjdGl2ZS1tYXAtZG9lcy1mYXJlLmh0bWzSAX1odHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTIxMTYzMDUvYW1wL0VuZ2xhbmRzLWJ1c2llc3QtR1Atc3VyZ2VyaWVzLVJFVkVBTEVELWludGVyYWN0aXZlLW1hcC1kb2VzLWZhcmUuaHRtbA?oc=5" target="_blank"&gt;England's busiest GP surgeries REVEALED in an interactive map… so how does YOURS fare?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmF0dGl0dWRlLmNvLnVrL2N1bHR1cmUvZmlsbS10di9hbGV4YW5kZXItbGluY29sbi1vbi1pbi1mcm9tLXRoZS1zaWRlLWVtbWVyZGFsZS1hbmQtaW5sYW5kLTQzNzA3Ny_SAQA?oc=5</id>
+    <title type="html">Alexander Lincoln on In From the Side, Emmerdale and Inland - attitude.co.uk</title>
+    <updated>2023-06-13T13:34:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LmF0dGl0dWRlLmNvLnVrL2N1bHR1cmUvZmlsbS10di9hbGV4YW5kZXItbGluY29sbi1vbi1pbi1mcm9tLXRoZS1zaWRlLWVtbWVyZGFsZS1hbmQtaW5sYW5kLTQzNzA3Ny_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LmF0dGl0dWRlLmNvLnVrL2N1bHR1cmUvZmlsbS10di9hbGV4YW5kZXItbGluY29sbi1vbi1pbi1mcm9tLXRoZS1zaWRlLWVtbWVyZGFsZS1hbmQtaW5sYW5kLTQzNzA3Ny_SAQA?oc=5" target="_blank"&gt;Alexander Lincoln on In From the Side, Emmerdale and Inland&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;attitude.co.uk&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Framed Blossom</title>
@@ -106,13 +83,6 @@
     <updated>2023-06-12T19:54:22.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9uZXdzLW9waW5pb24vbG9uZG9uLXVuZGVyZ3JvdW5kLXNob3VsZC1iZWNvbWUtZ2lhbnQtMjcxMDcwOTLSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvbmV3cy1vcGluaW9uL2xvbmRvbi11bmRlcmdyb3VuZC1zaG91bGQtYmVjb21lLWdpYW50LTI3MTA3MDkyLmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9uZXdzLW9waW5pb24vbG9uZG9uLXVuZGVyZ3JvdW5kLXNob3VsZC1iZWNvbWUtZ2lhbnQtMjcxMDcwOTLSAV9odHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvbmV3cy1vcGluaW9uL2xvbmRvbi11bmRlcmdyb3VuZC1zaG91bGQtYmVjb21lLWdpYW50LTI3MTA3MDkyLmFtcA?oc=5" target="_blank"&gt;'London Underground should become a giant park and ride to make ULEZ work'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1leHBhbnNpb24td2l0aC1uZXctc2hvcC1pbi1iYWxoYW0v0gFFaHR0cHM6Ly93d3cucmxpLnVrLmNvbS9iYWRpYW5pLWV4cGFuc2lvbi13aXRoLW5ldy1zaG9wLWluLWJhbGhhbS9hbXAv?oc=5</id>
-    <title type="html">Badiani Expansion With New Shop in Balham - Retail &amp; Leisure International</title>
-    <updated>2023-06-12T16:23:46.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1leHBhbnNpb24td2l0aC1uZXctc2hvcC1pbi1iYWxoYW0v0gFFaHR0cHM6Ly93d3cucmxpLnVrLmNvbS9iYWRpYW5pLWV4cGFuc2lvbi13aXRoLW5ldy1zaG9wLWluLWJhbGhhbS9hbXAv?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQWh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1leHBhbnNpb24td2l0aC1uZXctc2hvcC1pbi1iYWxoYW0v0gFFaHR0cHM6Ly93d3cucmxpLnVrLmNvbS9iYWRpYW5pLWV4cGFuc2lvbi13aXRoLW5ldy1zaG9wLWluLWJhbGhhbS9hbXAv?oc=5" target="_blank"&gt;Badiani Expansion With New Shop in Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Retail &amp; Leisure International&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
@@ -907,71 +877,6 @@ Barcelona is one of my favourite mugs. I think it's so pretty.</content>
     <thr:total>0</thr:total>
   </entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-20522956.post-3932975710373834200</id>
-    <published>2009-05-21T23:46:00.000+00:00</published>
-    <updated>2009-05-21T23:48:53.046+00:00</updated>
-    <category scheme="http://www.blogger.com/atom/ns#" term="politics"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="spun figures"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="statistics"/>
-    <title type="text">Politicians and journalists, put the statistic down and step away.</title>
-    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;A person with a little bit of information is usually a danger to themselves and possibly society.  This is particularly the case at a time when &lt;b&gt;something must be done&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;A good example of this is the present scandal on MPs' expenses (does it have an official name yet - "Duck-gate").  A number of people have jumped on some analysis by &lt;a href='http://markreckons.blogspot.com/'&gt;Mark Reckons&lt;/a&gt;, a LibDem blogger, that seems to indicate there is a &lt;a href='http://markreckons.blogspot.com/2009/05/mps-expenses-and-safe-seats-correlation.html'&gt;positive correlation between the size of an MP's electoral majority and the chances that they will abuse the expenses system&lt;/a&gt;.  In essence, the more safe an MP feels, the more likely they are to be a crook.&lt;br/&gt;&lt;br/&gt;This apparent correlation has led Mark and a number of other people (such as &lt;a href='http://www.guardian.co.uk/commentisfree/2009/may/18/mps-expenses-constitution-electoral-reform'&gt;Polly Toynbee &lt;/a&gt;and &lt;a href='http://www.guardian.co.uk/commentisfree/2009/may/18/mps-expenses-constitution-electoral-reform'&gt;Ben Bradshaw&lt;/a&gt;) to suggest that we move away from the &lt;a href='http://en.wikipedia.org/wiki/First_pass_the_post'&gt;First-Pass-The-Post &lt;/a&gt;election system.  Their reasoning is that a &lt;a href='http://en.wikipedia.org/wiki/Proportional_representation'&gt;PR&lt;/a&gt; election system would lead to lower majorities for MPs', and according to this correlation, more honest MPs.&lt;br/&gt;&lt;br/&gt;Now, the first problem with this is that (I think) the analysis doesn't stand up to scrunity (details of my concerns are &lt;a href='http://markreckons.blogspot.com/2009/05/mps-expenses-and-safe-seats-correlation.html?showComment=1242939618750#c485085803594386952'&gt;here&lt;/a&gt;).  Mark has been careful to caveat his statistical conclusions, though I don't think his caveats go far enough.  The caveats, of course, have been ignored by everyone else.&lt;br/&gt;&lt;br/&gt;Secondly, even if there is a correlation, it does not mean there is any real or useful link between majorities and honest MPs.  A classic example is the correlation that areas with high level of policing having a high level of crime, leading to the policy conclusion that policing should be reduced as it causes crime.&lt;br/&gt;&lt;br/&gt;And finally, what no-one seems to have tried to show is how PR will help, even if the correlation holds.  Though there may be many reasons for PR, tackling MPs expense dodgies seems the flimsest.  Consider:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;While PR will change the majorities of some MPs, it needn't necessarily lead to the fall in the majorities overall.  You could have some MPs, which after first and second votes, have a larger majority.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Some forms of PR can lead to more corruption.  For instance, voters have little ability of getting rid of a hated MP in some forms of close list systems, where that MP heads the list.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;It would seem from the evidence of the unseating of &lt;a href='http://en.wikipedia.org/wiki/Neil_Hamilton_%28politician%29'&gt;Neil Hamilton&lt;/a&gt; in the 1997 election, and the current mass sacking of tarnished MPs, that the current system can act to get rid of sleazy MPs when the voters have the facts.&lt;/li&gt;&lt;/ul&gt;So please, before advocating constitutional reform, can we stop and think for one moment.&lt;br/&gt;&lt;/div&gt;</content>
-    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/3932975710373834200/comments/default" title="Post Comments"/>
-    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=3932975710373834200" title="0 Comments"/>
-    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/3932975710373834200"/>
-    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/3932975710373834200"/>
-    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2009/05/politicians-and-journalists-put.html" title="Politicians and journalists, put the statistic down and step away."/>
-    <author>
-      <name>Frank</name>
-      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
-      <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
-    </author>
-    <thr:total>0</thr:total>
-  </entry>
-  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-20522956.post-4161310746933996918</id>
-    <published>2009-04-16T21:32:00.000+00:00</published>
-    <updated>2009-04-16T22:36:21.027+00:00</updated>
-    <category scheme="http://www.blogger.com/atom/ns#" term="Gordon Brown"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="labour"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="politics"/>
-    <title type="text">Sorry is the hardest word, but I can do regret</title>
-    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;&lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/8002085.stm'&gt;What I can't get is why Gordon says sorry so badly.&lt;/a&gt; The secret of political apologies to so say sorry quickly and completely, to close the story down (you may also want to say sorry because you mean it, that works too). Brown's apologies are slow and grudging.&lt;br/&gt;&lt;br/&gt;Gordon has waited five days before apologizing about Smeargate.  By waiting and then saying sorry, he's guaranteed further damaging coverage of the story as the morning paper report his apology and analysis it. If he had said sorry straight away when McBride had resigned, the story would have been over already (assuming there's no further emails).&lt;br/&gt;&lt;br/&gt;Also, his apology is so mealy mouthed.&lt;br/&gt;&lt;blockquote&gt;I take full responsibility for what happened. That's why the person who was responsible went immediately.&lt;br/&gt;&lt;/blockquote&gt;If you take full responsibility, you take full responsibility. You can't say I take full responsibility, but in the same breath say I'm not the responsible person. And I'm sure that Gordon is "sorry for what happened", but is sorry that people in his office considered smearing people.&lt;br/&gt;&lt;br/&gt;&lt;div class='zemanta-pixie'&gt;&lt;img src='http://img.zemanta.com/pixy.gif?x-id=39618892-3a48-8a1e-8630-ba710abd75a1' class='zemanta-pixie-img'/&gt;&lt;/div&gt;&lt;/div&gt;</content>
-    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/4161310746933996918/comments/default" title="Post Comments"/>
-    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=4161310746933996918" title="0 Comments"/>
-    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/4161310746933996918"/>
-    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/4161310746933996918"/>
-    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2009/04/sorry-is-hardest-word-but-i-can-do.html" title="Sorry is the hardest word, but I can do regret"/>
-    <author>
-      <name>Frank</name>
-      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
-      <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
-    </author>
-    <thr:total>0</thr:total>
-  </entry>
-  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-20522956.post-8343979821783077394</id>
-    <published>2009-02-22T21:21:00.000+00:00</published>
-    <updated>2009-02-22T21:23:14.621+00:00</updated>
-    <category scheme="http://www.blogger.com/atom/ns#" term="labour"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="migration"/>
-    <title type="text">Tail wagging the migration dog</title>
-    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;&lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/7904393.stm'&gt;Is the Home Office insane&lt;/a&gt;, listening to a BNP dog whistle?&lt;br/&gt;&lt;br/&gt;Jacqui Smith is proposing that skilled work must first be advertised in the Job Centre before it may be given to a migrant, so that British workers have a chance. Non-EU migrants need a master's degree before coming to the UK for skilled work; EU migrants can come as they please unless they're a &lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/7904393.stm'&gt;Dutch Parliamentarian&lt;/a&gt;.  How many master-level jobs are advertised in Job Centres at the moment? How many master-level British workers look for jobs in Job Centres? Pure posturing.&lt;br/&gt;&lt;br/&gt;&lt;div class='zemanta-pixie'&gt;&lt;img src='http://img.zemanta.com/pixy.gif?x-id=7b92d664-f712-4da7-844c-d797cc2ce234' class='zemanta-pixie-img'/&gt;&lt;/div&gt;&lt;/div&gt;</content>
-    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/8343979821783077394/comments/default" title="Post Comments"/>
-    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=8343979821783077394" title="0 Comments"/>
-    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/8343979821783077394"/>
-    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/8343979821783077394"/>
-    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2009/02/tail-wagging-migration-dog.html" title="Tail wagging the migration dog"/>
-    <author>
-      <name>Frank</name>
-      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
-      <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
-    </author>
-    <thr:total>0</thr:total>
-  </entry>
-  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
     <id>tag:blogger.com,1999:blog-2071381975246815633.post-2130666721831404624</id>
     <published>2008-05-24T10:35:00.000-07:00</published>
     <updated>2008-12-09T08:35:26.751-08:00</updated>
@@ -1010,49 +915,6 @@ Barcelona is one of my favourite mugs. I think it's so pretty.</content>
     </author>
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://1.bp.blogspot.com/_2JKbCXnri5Y/SFEzMqB_8cI/AAAAAAAAAAY/rNsJ8S6otKQ/s72-c/01.jpg" height="72" width="72"/>
     <thr:total>4</thr:total>
-  </entry>
-  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-20522956.post-1248224244608944979</id>
-    <published>2008-12-01T22:29:00.000+00:00</published>
-    <updated>2008-12-01T22:34:16.315+00:00</updated>
-    <category scheme="http://www.blogger.com/atom/ns#" term="labour"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="politics"/>
-    <title type="text">Taking a leak</title>
-    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;The Government has just sprung another leak.  As reported by &lt;a href='http://iaindale.blogspot.com/2008/12/leaked-email-from-harman-no-tories-or.html'&gt;Iain Dale&lt;/a&gt;, an email has just been leaked showing that Harriet Harman is to have a meeting with the Speaker's Office and the Serjeant at Arms to discuss the Speakers statement to MPs on Wednesday about allowing Police to search Damian Green's Parliamentary Office.  Other invitees to Harman's meeting include Gus O'Donnell, Jacqui Smith and Jack Straw.&lt;br /&gt;&lt;br /&gt;However, apart from the irony of another leak (and the desperation of Labour's news management), the best bit about this story is Harman's office attempt to wriggle out.  According to the &lt;a href='http://news.bbc.co.uk/1/hi/uk_politics/7759629.stm'&gt;BBC&lt;/a&gt;, her spoken has said:&lt;br /&gt;&lt;br /&gt;&lt;blockquote&gt;"The purpose of the meeting is to discuss the parliamentary business and handling of issues that arise from the fact that the speaker's statement and the Queen's Speech will be happening on the same day."&lt;br /&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;Yes, if you are going to have a meeting about Parliamentary procedure,&lt;br /&gt;you invite the Head of the Civil Service, the Justice Secretary and the&lt;br /&gt;Home Secretary (as well as the Labour Chief Whip) at less than 24 hours&lt;br /&gt;notice; they are busy people, who enjoy nothing more than talking about&lt;br /&gt;seating arrangements.&lt;/div&gt;</content>
-    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/1248224244608944979/comments/default" title="Post Comments"/>
-    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=1248224244608944979" title="0 Comments"/>
-    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1248224244608944979"/>
-    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1248224244608944979"/>
-    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2008/12/taking-leak.html" title="Taking a leak"/>
-    <author>
-      <name>Frank</name>
-      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
-      <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
-    </author>
-    <thr:total>0</thr:total>
-  </entry>
-  <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
-    <id>tag:blogger.com,1999:blog-20522956.post-1448308660611783912</id>
-    <published>2008-11-29T23:06:00.000+00:00</published>
-    <updated>2008-11-29T23:08:29.665+00:00</updated>
-    <category scheme="http://www.blogger.com/atom/ns#" term="bbc"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="environment"/>
-    <category scheme="http://www.blogger.com/atom/ns#" term="spun figures"/>
-    <title type="text">Putting destruction in context</title>
-    <content type="html">&lt;div xmlns='http://www.w3.org/1999/xhtml'&gt;The third headline on the BBC news website was "&lt;a href='http://news.bbc.co.uk/1/hi/world/americas/7756241.stm'&gt;Amazon deforestation accelerates&lt;/a&gt;".  The article, in doom laden tones, usually consider appropriate by the BBC for environmental stories, states that:&lt;br/&gt;&lt;blockquote&gt;The destruction of the Amazon rainforest in Brazil has accelerated for the first time in four years, Brazilian officials say. Satellite images show 11,968 sq km of land was cleared in the year to July, nearly 4% higher than the year before...&lt;br/&gt;&lt;br/&gt;In recent years the Brazilian government has been able to celebrate three successive falls in deforestation. But the latest estimate from the National Institute for Space Research, known as INPE, shows that this trend has come to a halt. &lt;br/&gt;&lt;/blockquote&gt;Now, at a time that the world seems to be falling apart, with the terror attacks in Mumbai, protests in Thailand, the end of Western capitalism, and the assault by the Met police on Parliamentary sovereignty, you would think the ordering of BBC stories is strange. But the biggest sin, is the poverty of the story.&lt;br/&gt;&lt;br/&gt;The lesser error is the suggestion that one year data can signal an end of a trend. To be honest, I wouldn't be sure that three years of downward data shows there is a downward trend; but there there is no way to tell whether this year's rise was a new trend or a blip.&lt;br/&gt;&lt;br/&gt;But the howler is saying the 12,000 sq km were destroyed (as opposed to trees just being cut down) without any context.  How big is 12,000 sq km?&lt;br/&gt;&lt;br/&gt;Using what seems to have been the international benchmark of choice when discussion Amazon destruction, 12,000 sq km is around half of Wales; that seems big.  A more appropriate comparison is that 12,000 sq km is but 0.2 per cent of the total &lt;a href='http://en.wikipedia.org/wiki/Amazon_rain_forest'&gt;rainforest&lt;/a&gt; area of 5,500,000 sq km.  Or put it another way, this rate of loss would have to continue for 50 years for the present rainforest to fall by 10 per cent; hardly disastrous.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;em&gt;So the bottom line of the story is there is no evidence that the slowdown of a already very slow fall in the Amazon rainforest has stopped.  A good news story.&lt;/em&gt;&lt;/b&gt; &lt;br/&gt;&lt;/div&gt;</content>
-    <link rel="replies" type="application/atom+xml" href="http://balhambugle.blogspot.com/feeds/1448308660611783912/comments/default" title="Post Comments"/>
-    <link rel="replies" type="text/html" href="http://www.blogger.com/comment.g?blogID=20522956&amp;postID=1448308660611783912" title="0 Comments"/>
-    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1448308660611783912"/>
-    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/20522956/posts/default/1448308660611783912"/>
-    <link rel="alternate" type="text/html" href="http://balhambugle.blogspot.com/2008/11/putting-destruction-in-context.html" title="Putting destruction in context"/>
-    <author>
-      <name>Frank</name>
-      <uri>http://www.blogger.com/profile/17658087306188664468</uri>
-      <email>noreply@blogger.com</email>
-      <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif"/>
-    </author>
-    <thr:total>0</thr:total>
   </entry>
   <entry xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
     <id>tag:blogger.com,1999:blog-2071381975246815633.post-2498692981080842637</id>
