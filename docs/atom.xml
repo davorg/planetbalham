@@ -7,38 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-17T06:04:20Z</updated>
+  <updated>2023-06-17T12:04:35Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 15°C (59°F) Maximum Temperature: 25°C (77°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 16°C (60°F) Maximum Temperature: 24°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 15°C (59°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1016mb, Humidity: 51%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1013mb, Humidity: 50%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-16T21:54:00.000+0000</id>
-    <published>2023-06-17T06:00:33Z</published>
-    <updated>2023-06-17T06:00:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-17T09:55:00.000+0000</id>
+    <published>2023-06-17T12:01:04Z</published>
+    <updated>2023-06-17T12:01:04Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 74%, UV Risk: 5, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 72%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-16T21:54:00.000+0000</id>
-    <published>2023-06-17T06:00:33Z</published>
-    <updated>2023-06-17T06:00:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-17T09:55:00.000+0000</id>
+    <published>2023-06-17T12:01:04Z</published>
+    <updated>2023-06-17T12:01:04Z</updated>
   </entry>
   <entry>
-    <title>Monday: Thundery Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (74°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1011mb, Humidity: 67%, UV Risk: 5, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1011mb, Humidity: 66%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-16T21:54:00.000+0000</id>
-    <published>2023-06-17T06:00:33Z</published>
-    <updated>2023-06-17T06:00:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-17T09:55:00.000+0000</id>
+    <published>2023-06-17T12:01:04Z</published>
+    <updated>2023-06-17T12:01:04Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5</id>
+    <title type="html">'I took a London bus to a gorgeous national park - it was like a £1.75 holiday' - My London</title>
+    <updated>2023-06-17T09:30:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5" target="_blank"&gt;'I took a London bus to a gorgeous national park - it was like a £1.75 holiday'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5</id>
+    <title type="html">Recipes from new Eastern Mediterranean cookbook, Brunch with ... - Scotsman Whisky</title>
+    <updated>2023-06-17T04:23:32.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5" target="_blank"&gt;Recipes from new Eastern Mediterranean cookbook, Brunch with ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Scotsman Whisky&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vdGhlaGFyZHRhY2tsZS5jb20vdHJhbnNmZXItbmV3cy8yMDIzLzA2LzE2L3dlc3QtaGFtLXVuaXRlZC10YWJsZS1iaWQtdG8tc2lnbi1mYWJpby1jYXJ2YWxoby_SAQA?oc=5</id>
@@ -55,25 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiO2h0dHBzOi8vcG9kbmV3cy5uZXQvcHJlc3MtcmVsZWFzZS9jaGVlcmZ1bC1lYXJmdWwtMjMtbGF1bmNo0gEA?oc=5" target="_blank"&gt;The Cheerful Earful Podcast Festival returns for 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Podnews&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGUtYmVkZm9yZC1wdWItYmFsaGFtLWNlbGVicmF0ZXMtMjAteWVhcnMtaW4tYnVzaW5lc3Mv0gEA?oc=5</id>
-    <title type="html">The Bedford Pub, Balham celebrates 20 years in business - London News Online</title>
-    <updated>2023-06-16T11:54:59.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGUtYmVkZm9yZC1wdWItYmFsaGFtLWNlbGVicmF0ZXMtMjAteWVhcnMtaW4tYnVzaW5lc3Mv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vbG9uZG9ubmV3c29ubGluZS5jby51ay90aGUtYmVkZm9yZC1wdWItYmFsaGFtLWNlbGVicmF0ZXMtMjAteWVhcnMtaW4tYnVzaW5lc3Mv0gEA?oc=5" target="_blank"&gt;The Bedford Pub, Balham celebrates 20 years in business&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;London News Online&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1qdW5lLTIwMjMvbGFzdC1jaGFuY2UtdG8tdGFrZS1wYXJ0LWluLWdyZWF0LWJpZy1ncmVlbi13ZWVrL9IBAA?oc=5</id>
-    <title type="html">Last chance to take part in Great Big Green Week - Wandsworth ... - Wandsworth Council</title>
-    <updated>2023-06-16T11:13:11.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1qdW5lLTIwMjMvbGFzdC1jaGFuY2UtdG8tdGFrZS1wYXJ0LWluLWdyZWF0LWJpZy1ncmVlbi13ZWVrL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiY2h0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1qdW5lLTIwMjMvbGFzdC1jaGFuY2UtdG8tdGFrZS1wYXJ0LWluLWdyZWF0LWJpZy1ncmVlbi13ZWVrL9IBAA?oc=5" target="_blank"&gt;Last chance to take part in Great Big Green Week - Wandsworth ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1OTM2OTQubWF0dGhpYXMtcG9sZW9uLWJlZGZvcmQtaGlsbC1zaG9vdGluZy1mYW1pbHktcGF5LXRyaWJ1dGVzL9IBAA?oc=5</id>
-    <title type="html">Matthias Poleon Bedford Hill shooting: Family pay tributes - News Shopper</title>
-    <updated>2023-06-16T10:42:49.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1OTM2OTQubWF0dGhpYXMtcG9sZW9uLWJlZGZvcmQtaGlsbC1zaG9vdGluZy1mYW1pbHktcGF5LXRyaWJ1dGVzL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM1OTM2OTQubWF0dGhpYXMtcG9sZW9uLWJlZGZvcmQtaGlsbC1zaG9vdGluZy1mYW1pbHktcGF5LXRyaWJ1dGVzL9IBAA?oc=5" target="_blank"&gt;Matthias Poleon Bedford Hill shooting: Family pay tributes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcG9saWNlLWdpdmVuLXVudGlsLWVhcmx5LWhvdXJzLTEzMTkxNDg4Ni5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3BvbGljZS1naXZlbi11bnRpbC1lYXJseS1ob3Vycy0xMzE5MTQ4ODYuaHRtbA?oc=5</id>
+    <title type="html">Police given until early hours of Saturday to quiz city triple murder suspect - Yahoo News UK</title>
+    <updated>2023-06-16T13:37:47.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcG9saWNlLWdpdmVuLXVudGlsLWVhcmx5LWhvdXJzLTEzMTkxNDg4Ni5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3BvbGljZS1naXZlbi11bnRpbC1lYXJseS1ob3Vycy0xMzE5MTQ4ODYuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vcG9saWNlLWdpdmVuLXVudGlsLWVhcmx5LWhvdXJzLTEzMTkxNDg4Ni5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3BvbGljZS1naXZlbi11bnRpbC1lYXJseS1ob3Vycy0xMzE5MTQ4ODYuaHRtbA?oc=5" target="_blank"&gt;Police given until early hours of Saturday to quiz city triple murder suspect&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Framed Blossom</title>
