@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-17T18:04:07Z</updated>
+  <updated>2023-06-18T00:15:05Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 15°C (60°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (60°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Good, Pressure: 1011mb, Humidity: 71%, UV Risk: 4, Pollution: Moderate, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 17°C (63°F), Wind Direction: Easterly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 78%, UV Risk: 0, Pollution: Low, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-17T09:55:00.000+0000</id>
-    <published>2023-06-17T17:49:34Z</published>
-    <updated>2023-06-17T17:49:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-17T21:57:00.000+0000</id>
+    <published>2023-06-18T00:05:08Z</published>
+    <updated>2023-06-18T00:05:08Z</updated>
   </entry>
   <entry>
     <title>Sunday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 71%, UV Risk: 5, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 72%, UV Risk: 6, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-17T09:55:00.000+0000</id>
-    <published>2023-06-17T17:49:34Z</published>
-    <updated>2023-06-17T17:49:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-17T21:57:00.000+0000</id>
+    <published>2023-06-18T00:05:08Z</published>
+    <updated>2023-06-18T00:05:08Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1011mb, Humidity: 66%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1011mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-17T09:55:00.000+0000</id>
-    <published>2023-06-17T17:49:34Z</published>
-    <updated>2023-06-17T17:49:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-17T21:57:00.000+0000</id>
+    <published>2023-06-18T00:05:08Z</published>
+    <updated>2023-06-18T00:05:08Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5</id>
@@ -48,11 +48,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5" target="_blank"&gt;'I took a London bus to a gorgeous national park - it was like a £1.75 holiday'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2FtYnJpZGdlLWNsdWItcmV2aWV3LWxpb25lbC1yaXRjaGllLTA4MjMzMjgwMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2NhbWJyaWRnZS1jbHViLXJldmlldy1saW9uZWwtcml0Y2hpZS0wODIzMzI4MDAuaHRtbA?oc=5</id>
-    <title type="html">The Cambridge Club review: Lionel Richie shines in this pop-infused festival that’s just as fun for the kids - Yahoo News UK</title>
-    <updated>2023-06-17T06:12:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2FtYnJpZGdlLWNsdWItcmV2aWV3LWxpb25lbC1yaXRjaGllLTA4MjMzMjgwMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2NhbWJyaWRnZS1jbHViLXJldmlldy1saW9uZWwtcml0Y2hpZS0wODIzMzI4MDAuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2FtYnJpZGdlLWNsdWItcmV2aWV3LWxpb25lbC1yaXRjaGllLTA4MjMzMjgwMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2NhbWJyaWRnZS1jbHViLXJldmlldy1saW9uZWwtcml0Y2hpZS0wODIzMzI4MDAuaHRtbA?oc=5" target="_blank"&gt;The Cambridge Club review: Lionel Richie shines in this pop-infused festival that’s just as fun for the kids&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWzSAVFodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWw?oc=5</id>
+    <title type="html">Man Utd ‘send messages’ to Ten Hag’s ‘priority signing’ but ‘outstanding issue’ remains ahead of second bid - Yahoo Eurosport UK</title>
+    <updated>2023-06-17T09:11:49.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWzSAVFodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWzSAVFodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWw?oc=5" target="_blank"&gt;Man Utd ‘send messages’ to Ten Hag’s ‘priority signing’ but ‘outstanding issue’ remains ahead of second bid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5</id>
