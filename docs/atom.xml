@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-19T00:13:21Z</updated>
+  <updated>2023-06-19T06:04:30Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -149,6 +149,40 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Piez</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
+    <id>tag:flickr.com,2005:/photo/52918649950</id>
+    <published>2023-05-23T00:15:27Z</published>
+    <updated>2023-05-23T00:15:27Z</updated>
+    <flickr:date_taken>2023-05-14T17:23:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-14T17:23:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918649950/" title="Piez"&gt;&lt;img src="https://live.staticflickr.com/65535/52918649950_253488ce12_m.jpg" width="240" height="160" alt="Piez" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;South London.&lt;/p&gt;
+</content>
+    <author>
+      <name>Alex Ellison</name>
+      <uri>https://www.flickr.com/people/42276448@N07/</uri>
+      <flickr:nsid>42276448@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
+    <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Jet97 / 10Foot</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
     <id>tag:flickr.com,2005:/photo/52918260081</id>
@@ -180,38 +214,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3 June 1989 Balham JJD520D</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
-    <id>tag:flickr.com,2005:/photo/52833998309</id>
-    <published>2023-04-21T06:41:06Z</published>
-    <updated>2023-04-21T06:41:06Z</updated>
-    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
