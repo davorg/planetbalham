@@ -7,38 +7,59 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-20T06:04:16Z</updated>
+  <updated>2023-06-20T12:04:51Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Thundery Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (74°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 74%, UV Risk: 7, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 64%, UV Risk: 7, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-19T21:56:00.000+0000</id>
-    <published>2023-06-20T06:00:16Z</published>
-    <updated>2023-06-20T06:00:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-20T09:54:00.000+0000</id>
+    <published>2023-06-20T12:01:34Z</published>
+    <updated>2023-06-20T12:01:34Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 24°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 04:43 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-19T21:56:00.000+0000</id>
-    <published>2023-06-20T06:00:16Z</published>
-    <updated>2023-06-20T06:00:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-20T09:54:00.000+0000</id>
+    <published>2023-06-20T12:01:34Z</published>
+    <updated>2023-06-20T12:01:34Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 25°C (77°F)</title>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 25°C (78°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 14°C (57°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1019mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (78°F), Minimum Temperature: 14°C (57°F), Wind Direction: Northerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 60%, UV Risk: 6, Pollution: Low, Sunrise: 04:44 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-19T21:56:00.000+0000</id>
-    <published>2023-06-20T06:00:16Z</published>
-    <updated>2023-06-20T06:00:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-20T09:54:00.000+0000</id>
+    <published>2023-06-20T12:01:34Z</published>
+    <updated>2023-06-20T12:01:34Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL3dlc3QtbG9uZG9uLWdhbmctamFpbGVkLWFmdGVyLTI3MTU3OTEy0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3Mvd2VzdC1sb25kb24tZ2FuZy1qYWlsZWQtYWZ0ZXItMjcxNTc5MTIuYW1w?oc=5</id>
+    <title type="html">West London gang jailed after jumping out at victims with crowbar and large knives in spate of robberies - My London</title>
+    <updated>2023-06-20T09:59:20.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL3dlc3QtbG9uZG9uLWdhbmctamFpbGVkLWFmdGVyLTI3MTU3OTEy0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3Mvd2VzdC1sb25kb24tZ2FuZy1qYWlsZWQtYWZ0ZXItMjcxNTc5MTIuYW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy93ZXN0LWxvbmRvbi1uZXdzL3dlc3QtbG9uZG9uLWdhbmctamFpbGVkLWFmdGVyLTI3MTU3OTEy0gFaaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3dlc3QtbG9uZG9uLW5ld3Mvd2VzdC1sb25kb24tZ2FuZy1qYWlsZWQtYWZ0ZXItMjcxNTc5MTIuYW1w?oc=5" target="_blank"&gt;West London gang jailed after jumping out at victims with crowbar and large knives in spate of robberies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiSGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9zb3V0aC1sb25kb24tZ2FuZy1yb2JiZWQtaGlnaC0wODI2MDA2MjYuaHRtbNIBUGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL3NvdXRoLWxvbmRvbi1nYW5nLXJvYmJlZC1oaWdoLTA4MjYwMDYyNi5odG1s?oc=5</id>
+    <title type="html">South London gang robbed high value watches at knifepoint in broad daylight - Yahoo Movies UK</title>
+    <updated>2023-06-20T08:26:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9zb3V0aC1sb25kb24tZ2FuZy1yb2JiZWQtaGlnaC0wODI2MDA2MjYuaHRtbNIBUGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL3NvdXRoLWxvbmRvbi1nYW5nLXJvYmJlZC1oaWdoLTA4MjYwMDYyNi5odG1s?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9zb3V0aC1sb25kb24tZ2FuZy1yb2JiZWQtaGlnaC0wODI2MDA2MjYuaHRtbNIBUGh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS9hbXBodG1sL3NvdXRoLWxvbmRvbi1nYW5nLXJvYmJlZC1oaWdoLTA4MjYwMDYyNi5odG1s?oc=5" target="_blank"&gt;South London gang robbed high value watches at knifepoint in broad daylight&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Movies UK&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmVzc2V4bGl2ZS5uZXdzL25ld3MvZXNzZXgtbmV3cy9lc3NleC1nYW5nLXRocmVhdGVuZWQtcGVvcGxlLWh1Z2UtODUzNTAzMdIBWGh0dHBzOi8vd3d3LmVzc2V4bGl2ZS5uZXdzL25ld3MvZXNzZXgtbmV3cy9lc3NleC1nYW5nLXRocmVhdGVuZWQtcGVvcGxlLWh1Z2UtODUzNTAzMS5hbXA?oc=5</id>
+    <title type="html">Essex gang threatened people with huge knives in broad daylight in front of children - Essex Live</title>
+    <updated>2023-06-20T07:12:55.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vd3d3LmVzc2V4bGl2ZS5uZXdzL25ld3MvZXNzZXgtbmV3cy9lc3NleC1nYW5nLXRocmVhdGVuZWQtcGVvcGxlLWh1Z2UtODUzNTAzMdIBWGh0dHBzOi8vd3d3LmVzc2V4bGl2ZS5uZXdzL25ld3MvZXNzZXgtbmV3cy9lc3NleC1nYW5nLXRocmVhdGVuZWQtcGVvcGxlLWh1Z2UtODUzNTAzMS5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVGh0dHBzOi8vd3d3LmVzc2V4bGl2ZS5uZXdzL25ld3MvZXNzZXgtbmV3cy9lc3NleC1nYW5nLXRocmVhdGVuZWQtcGVvcGxlLWh1Z2UtODUzNTAzMdIBWGh0dHBzOi8vd3d3LmVzc2V4bGl2ZS5uZXdzL25ld3MvZXNzZXgtbmV3cy9lc3NleC1nYW5nLXRocmVhdGVuZWQtcGVvcGxlLWh1Z2UtODUzNTAzMS5hbXA?oc=5" target="_blank"&gt;Essex gang threatened people with huge knives in broad daylight in front of children&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Essex Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5naGFuYXdlYi5jb20vR2hhbmFIb21lUGFnZS9TcG9ydHNBcmNoaXZlL01lZXQtTW9ycmlzLUhhbG0tSnItVGhlLUl0YWxpYW4tYm9ybi1wbGF5ZXItd2lsbGluZy10by1wbGF5LWZvci1HaGFuYS0xNzg4NTc10gEA?oc=5</id>
@@ -86,27 +107,45 @@
     <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbGlmZXN0eWxlL3RyYXZlbC9pLXdlbnQtc291dGhlcm5tb3N0LWxvbmRvbi1idXMtMjcxMTM2ODfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL2xpZmVzdHlsZS90cmF2ZWwvaS13ZW50LXNvdXRoZXJubW9zdC1sb25kb24tYnVzLTI3MTEzNjg3LmFtcA?oc=5" target="_blank"&gt;'I took a London bus to a gorgeous national park - it was like a £1.75 holiday'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWzSAVFodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWw?oc=5</id>
-    <title type="html">Man Utd ‘send messages’ to Ten Hag’s ‘priority signing’ but ‘outstanding issue’ remains ahead of second bid - Yahoo Eurosport UK</title>
-    <updated>2023-06-17T09:11:49.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWzSAVFodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWzSAVFodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21hbi11dGQtc2VuZC1tZXNzYWdlcy10ZW4tMDkxMTQ5Njg3Lmh0bWw?oc=5" target="_blank"&gt;Man Utd ‘send messages’ to Ten Hag’s ‘priority signing’ but ‘outstanding issue’ remains ahead of second bid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2FtYnJpZGdlLWNsdWItcmV2aWV3LWxpb25lbC1yaXRjaGllLTA4MjMzMjgwMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2NhbWJyaWRnZS1jbHViLXJldmlldy1saW9uZWwtcml0Y2hpZS0wODIzMzI4MDAuaHRtbA?oc=5</id>
-    <title type="html">The Cambridge Club review: Lionel Richie shines in this pop-infused festival that’s just as fun for the kids - Yahoo News UK</title>
-    <updated>2023-06-17T06:12:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2FtYnJpZGdlLWNsdWItcmV2aWV3LWxpb25lbC1yaXRjaGllLTA4MjMzMjgwMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2NhbWJyaWRnZS1jbHViLXJldmlldy1saW9uZWwtcml0Y2hpZS0wODIzMzI4MDAuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vY2FtYnJpZGdlLWNsdWItcmV2aWV3LWxpb25lbC1yaXRjaGllLTA4MjMzMjgwMC5odG1s0gFVaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2NhbWJyaWRnZS1jbHViLXJldmlldy1saW9uZWwtcml0Y2hpZS0wODIzMzI4MDAuaHRtbA?oc=5" target="_blank"&gt;The Cambridge Club review: Lionel Richie shines in this pop-infused festival that’s just as fun for the kids&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5</id>
-    <title type="html">Recipes from new Eastern Mediterranean cookbook, Brunch with ... - Scotsman Whisky</title>
-    <updated>2023-06-17T04:23:32.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiemh0dHBzOi8vZm9vZGFuZGRyaW5rLnNjb3RzbWFuLmNvbS9mb29kL3JlY2lwZXMvcmVjaXBlcy1mcm9tLW5ldy1lYXN0ZXJuLW1lZGl0ZXJyYW5lYW4tY29va2Jvb2stYnJ1bmNoLXdpdGgtYnJvdGhlci1tYXJjdXMv0gF-aHR0cHM6Ly9mb29kYW5kZHJpbmsuc2NvdHNtYW4uY29tL2Zvb2QvcmVjaXBlcy9yZWNpcGVzLWZyb20tbmV3LWVhc3Rlcm4tbWVkaXRlcnJhbmVhbi1jb29rYm9vay1icnVuY2gtd2l0aC1icm90aGVyLW1hcmN1cy9hbXAv?oc=5" target="_blank"&gt;Recipes from new Eastern Mediterranean cookbook, Brunch with ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Scotsman Whisky&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Framed Blossom</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vaughaag/52971753059/"/>
+    <id>tag:flickr.com,2005:/photo/52971753059</id>
+    <published>2023-06-13T13:33:20Z</published>
+    <updated>2023-06-13T13:33:20Z</updated>
+    <flickr:date_taken>2023-06-11T10:36:27-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-06-11T10:36:27-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vaughaag/"&gt;vaughaag&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vaughaag/52971753059/" title="Framed Blossom"&gt;&lt;img src="https://live.staticflickr.com/65535/52971753059_36c38d788f_m.jpg" width="160" height="240" alt="Framed Blossom" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>vaughaag</name>
+      <uri>https://www.flickr.com/people/vaughaag/</uri>
+      <flickr:nsid>41957103@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3688/buddyicons/41957103@N06.jpg?1369609024#41957103@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52971753059_36c38d788f_b.jpg"/>
+    <category term="tree" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blossom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yorkshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cove" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stone" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sony" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="a7rv" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="voigtlander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nokton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="f14" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="35mm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jason15c/52934134176/"/>
@@ -205,38 +244,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3 June 1989 Balham JJD520D</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
-    <id>tag:flickr.com,2005:/photo/52833998309</id>
-    <published>2023-04-21T06:41:06Z</published>
-    <updated>2023-04-21T06:41:06Z</updated>
-    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
