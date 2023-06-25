@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-25T12:04:53Z</updated>
+  <updated>2023-06-25T18:04:23Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 13°C (56°F) Maximum Temperature: 30°C (86°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 30°C (86°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1012mb, Humidity: 40%, UV Risk: 8, Pollution: Moderate, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1016mb, Humidity: 65%, UV Risk: 4, Pollution: Moderate, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-25T09:58:00.000+0000</id>
-    <published>2023-06-25T11:47:04Z</published>
-    <updated>2023-06-25T11:47:04Z</updated>
+    <published>2023-06-25T18:03:34Z</published>
+    <updated>2023-06-25T18:03:34Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (74°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 49%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1020mb, Humidity: 49%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:45 BST, Sunset: 21:22 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-25T09:58:00.000+0000</id>
-    <published>2023-06-25T11:47:04Z</published>
-    <updated>2023-06-25T11:47:04Z</updated>
+    <published>2023-06-25T18:03:34Z</published>
+    <updated>2023-06-25T18:03:34Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Cloud, Minimum Temperature: 16°C (61°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,8 +37,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 16°C (61°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1021mb, Humidity: 62%, UV Risk: 4, Pollution: Moderate, Sunrise: 04:45 BST, Sunset: 21:21 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-25T09:58:00.000+0000</id>
-    <published>2023-06-25T11:47:04Z</published>
-    <updated>2023-06-25T11:47:04Z</updated>
+    <published>2023-06-25T18:03:34Z</published>
+    <updated>2023-06-25T18:03:34Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LnJuei5jby5uei9jb25jZXJ0L3Byb2dyYW1tZXMvbmV3aG9yaXpvbnMvYXVkaW8vMjAxODg5NDM2Ni9zbmF6enktc291bmRz0gEA?oc=5</id>
@@ -69,11 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9tb25leS8yMjc4NDA2Mi9tb3JyaXNvbnMtc2FpbnNidXJ5cy1jaGVja291dC1zY2FuLXJlY2VpcHQtc2VjdXJpdHktZ2F0ZS_SAWVodHRwczovL3d3dy50aGVzdW4uY28udWsvbW9uZXkvMjI3ODQwNjIvbW9ycmlzb25zLXNhaW5zYnVyeXMtY2hlY2tvdXQtc2Nhbi1yZWNlaXB0LXNlY3VyaXR5LWdhdGUvYW1wLw?oc=5" target="_blank"&gt;Another major supermarket makes big change at checkouts – and shoppers are not happy...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9tb3JyaXNvbnMtZm9sbG93cy1zYWluc2J1cnlzLXJvbGxpbmctb3V0LTMwMjk0NDky0gFUaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL21vbmV5L21vcnJpc29ucy1mb2xsb3dzLXNhaW5zYnVyeXMtcm9sbGluZy1vdXQtMzAyOTQ0OTIuYW1w?oc=5</id>
-    <title type="html">Morrisons forces customers to scan shopping receipts before they can leave stores - The Mirror</title>
-    <updated>2023-06-22T09:07:14.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9tb3JyaXNvbnMtZm9sbG93cy1zYWluc2J1cnlzLXJvbGxpbmctb3V0LTMwMjk0NDky0gFUaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL21vbmV5L21vcnJpc29ucy1mb2xsb3dzLXNhaW5zYnVyeXMtcm9sbGluZy1vdXQtMzAyOTQ0OTIuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9tb25leS9tb3JyaXNvbnMtZm9sbG93cy1zYWluc2J1cnlzLXJvbGxpbmctb3V0LTMwMjk0NDky0gFUaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL21vbmV5L21vcnJpc29ucy1mb2xsb3dzLXNhaW5zYnVyeXMtcm9sbGluZy1vdXQtMzAyOTQ0OTIuYW1w?oc=5" target="_blank"&gt;Morrisons forces customers to scan shopping receipts before they can leave stores&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1qdW5lLTIwMjMvZmluYWwtd2Vla2VuZC1vZi13YW5kc3dvcnRoLWFydHMtZnJpbmdlL9IBAA?oc=5</id>
+    <title type="html">Final weekend of Wandsworth Arts Fringe - Wandsworth Borough ... - Wandsworth Council</title>
+    <updated>2023-06-23T10:13:08.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1qdW5lLTIwMjMvZmluYWwtd2Vla2VuZC1vZi13YW5kc3dvcnRoLWFydHMtZnJpbmdlL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3LndhbmRzd29ydGguZ292LnVrL25ld3MvbmV3cy1qdW5lLTIwMjMvZmluYWwtd2Vla2VuZC1vZi13YW5kc3dvcnRoLWFydHMtZnJpbmdlL9IBAA?oc=5" target="_blank"&gt;Final weekend of Wandsworth Arts Fringe - Wandsworth Borough ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Council&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>June 16th</title>
@@ -179,40 +179,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Piez</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
-    <id>tag:flickr.com,2005:/photo/52918649950</id>
-    <published>2023-05-23T00:15:27Z</published>
-    <updated>2023-05-23T00:15:27Z</updated>
-    <flickr:date_taken>2023-05-14T17:23:59-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-05-14T17:23:59-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918649950/" title="Piez"&gt;&lt;img src="https://live.staticflickr.com/65535/52918649950_253488ce12_m.jpg" width="240" height="160" alt="Piez" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;South London.&lt;/p&gt;
-</content>
-    <author>
-      <name>Alex Ellison</name>
-      <uri>https://www.flickr.com/people/42276448@N07/</uri>
-      <flickr:nsid>42276448@N07</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
-    <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Jet97 / 10Foot</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
     <id>tag:flickr.com,2005:/photo/52918260081</id>
@@ -244,6 +210,38 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>3 June 1989 Balham JJD520D</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
+    <id>tag:flickr.com,2005:/photo/52833998309</id>
+    <published>2023-04-21T06:41:06Z</published>
+    <updated>2023-04-21T06:41:06Z</updated>
+    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
+    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
+    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
