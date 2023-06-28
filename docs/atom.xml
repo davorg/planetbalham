@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-28T06:05:03Z</updated>
+  <updated>2023-06-28T12:05:46Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 16°C (61°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 16°C (61°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1017mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 63%, UV Risk: 2, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-27T21:54:00.000+0000</id>
-    <published>2023-06-28T06:00:34Z</published>
-    <updated>2023-06-28T06:00:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-28T09:56:00.000+0000</id>
+    <published>2023-06-28T12:00:39Z</published>
+    <updated>2023-06-28T12:00:39Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Thursday: Heavy Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (51°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 82%, UV Risk: 4, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-27T21:54:00.000+0000</id>
-    <published>2023-06-28T06:00:34Z</published>
-    <updated>2023-06-28T06:00:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-28T09:56:00.000+0000</id>
+    <published>2023-06-28T12:00:39Z</published>
+    <updated>2023-06-28T12:00:39Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain, Minimum Temperature: 16°C (60°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Friday: Drizzle, Minimum Temperature: 16°C (61°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1014mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-27T21:54:00.000+0000</id>
-    <published>2023-06-28T06:00:34Z</published>
-    <updated>2023-06-28T06:00:34Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-28T09:56:00.000+0000</id>
+    <published>2023-06-28T12:00:39Z</published>
+    <updated>2023-06-28T12:00:39Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMikwFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vd291bGQtYmV0dGVyLWJ1aWxkaW5ncy1oZWxwLWZpeC10aGUtbmhzLXRoZS1zdG9yeS1vZi1icml0YWlucy1ob3NwaXRhbHMtZnJvbS1ncmFuZC1kZXNpZ25zLXRvLWNvdW50aW5nLXRoZS1jb3N0cy0yMDgwOTDSAQA?oc=5</id>
