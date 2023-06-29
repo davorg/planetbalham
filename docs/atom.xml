@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-29T06:04:32Z</updated>
+  <updated>2023-06-29T12:05:18Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 12°C (53°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (53°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 73%, UV Risk: 5, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 55%, UV Risk: 4, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-28T21:56:00.000+0000</id>
-    <published>2023-06-29T06:00:16Z</published>
-    <updated>2023-06-29T06:00:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-29T09:56:00.000+0000</id>
+    <published>2023-06-29T12:02:33Z</published>
+    <updated>2023-06-29T12:02:33Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 16°C (61°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 16°C (60°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1014mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1013mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-28T21:56:00.000+0000</id>
-    <published>2023-06-29T06:00:16Z</published>
-    <updated>2023-06-29T06:00:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-29T09:56:00.000+0000</id>
+    <published>2023-06-29T12:02:33Z</published>
+    <updated>2023-06-29T12:02:33Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 12°C (54°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Saturday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 63%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-28T21:56:00.000+0000</id>
-    <published>2023-06-29T06:00:16Z</published>
-    <updated>2023-06-29T06:00:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-29T09:56:00.000+0000</id>
+    <published>2023-06-29T12:02:33Z</published>
+    <updated>2023-06-29T12:02:33Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiNmh0dHBzOi8vcG9kbmV3cy5uZXQvcHJlc3MtcmVsZWFzZS9yaWNoYXJkLWhlcnJpbmctdG91ctIBAA?oc=5</id>
+    <title type="html">Richard Herring takes multi-award-winning interview podcast ... - Podnews</title>
+    <updated>2023-06-29T09:29:53.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiNmh0dHBzOi8vcG9kbmV3cy5uZXQvcHJlc3MtcmVsZWFzZS9yaWNoYXJkLWhlcnJpbmctdG91ctIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiNmh0dHBzOi8vcG9kbmV3cy5uZXQvcHJlc3MtcmVsZWFzZS9yaWNoYXJkLWhlcnJpbmctdG91ctIBAA?oc=5" target="_blank"&gt;Richard Herring takes multi-award-winning interview podcast ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Podnews&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnRoZWJvb2tzZWxsZXIuY29tL25ld3MvYm9va3NlbGxlcnMtYXNzb2NpYXRpb24tbGF1bmNoZXMtYmEtbWVudG9yaW5n0gEA?oc=5</id>
@@ -48,11 +55,18 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LnRoZWJvb2tzZWxsZXIuY29tL25ld3MvYm9va3NlbGxlcnMtYXNzb2NpYXRpb24tbGF1bmNoZXMtYmEtbWVudG9yaW5n0gEA?oc=5" target="_blank"&gt;News - Booksellers Association Launches BA Mentoring&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Bookseller&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMikwFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vd291bGQtYmV0dGVyLWJ1aWxkaW5ncy1oZWxwLWZpeC10aGUtbmhzLXRoZS1zdG9yeS1vZi1icml0YWlucy1ob3NwaXRhbHMtZnJvbS1ncmFuZC1kZXNpZ25zLXRvLWNvdW50aW5nLXRoZS1jb3N0cy0yMDgwOTDSAQA?oc=5</id>
-    <title type="html">Would better buildings help fix the NHS? The story of Britain's ... - The Conversation</title>
+    <id>https://news.google.com/articles/CBMijgFodHRwczovL21lbmFmbi5jb20vMTEwNjUwOTI5MC9Xb3VsZC1CZXR0ZXItQnVpbGRpbmdzLUhlbHAtRml4LVRoZS1OaHMtVGhlLVN0b3J5LU9mLUJyaXRhaW5zLUhvc3BpdGFscy1Gcm9tLUdyYW5kLURlc2lnbnMtVG8tQ291bnRpbmctVGhlLUNvc3Rz0gEA?oc=5</id>
+    <title type="html">Would Better Buildings Help Fix The Nhs? The Story Of Britain's ... - MENAFN.COM</title>
+    <updated>2023-06-27T18:21:50.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMijgFodHRwczovL21lbmFmbi5jb20vMTEwNjUwOTI5MC9Xb3VsZC1CZXR0ZXItQnVpbGRpbmdzLUhlbHAtRml4LVRoZS1OaHMtVGhlLVN0b3J5LU9mLUJyaXRhaW5zLUhvc3BpdGFscy1Gcm9tLUdyYW5kLURlc2lnbnMtVG8tQ291bnRpbmctVGhlLUNvc3Rz0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMijgFodHRwczovL21lbmFmbi5jb20vMTEwNjUwOTI5MC9Xb3VsZC1CZXR0ZXItQnVpbGRpbmdzLUhlbHAtRml4LVRoZS1OaHMtVGhlLVN0b3J5LU9mLUJyaXRhaW5zLUhvc3BpdGFscy1Gcm9tLUdyYW5kLURlc2lnbnMtVG8tQ291bnRpbmctVGhlLUNvc3Rz0gEA?oc=5" target="_blank"&gt;Would Better Buildings Help Fix The Nhs? The Story Of Britain's ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MENAFN.COM&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMicGh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL2hvdy10aGUtbmhzcy1vcmlnaW5hbC12aXNpb24tdG8tZGVzaWduLWhlYWx0aGllci1ob3NwaXRhbHMtZmVsbC1pbnRvLWRpc3JlcGFpci0yMDgwOTDSAQA?oc=5</id>
+    <title type="html">How the NHS's original vision to design healthier hospitals fell into ... - The Conversation Indonesia</title>
     <updated>2023-06-27T14:52:52.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vd291bGQtYmV0dGVyLWJ1aWxkaW5ncy1oZWxwLWZpeC10aGUtbmhzLXRoZS1zdG9yeS1vZi1icml0YWlucy1ob3NwaXRhbHMtZnJvbS1ncmFuZC1kZXNpZ25zLXRvLWNvdW50aW5nLXRoZS1jb3N0cy0yMDgwOTDSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMikwFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vd291bGQtYmV0dGVyLWJ1aWxkaW5ncy1oZWxwLWZpeC10aGUtbmhzLXRoZS1zdG9yeS1vZi1icml0YWlucy1ob3NwaXRhbHMtZnJvbS1ncmFuZC1kZXNpZ25zLXRvLWNvdW50aW5nLXRoZS1jb3N0cy0yMDgwOTDSAQA?oc=5" target="_blank"&gt;Would better buildings help fix the NHS? The story of Britain's ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Conversation&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMicGh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL2hvdy10aGUtbmhzcy1vcmlnaW5hbC12aXNpb24tdG8tZGVzaWduLWhlYWx0aGllci1ob3NwaXRhbHMtZmVsbC1pbnRvLWRpc3JlcGFpci0yMDgwOTDSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL2hvdy10aGUtbmhzcy1vcmlnaW5hbC12aXNpb24tdG8tZGVzaWduLWhlYWx0aGllci1ob3NwaXRhbHMtZmVsbC1pbnRvLWRpc3JlcGFpci0yMDgwOTDSAQA?oc=5" target="_blank"&gt;How the NHS's original vision to design healthier hospitals fell into ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Conversation Indonesia&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNjE0NDU2LnZpb2xlbnQtd2Vla2VuZC1sb25kb24tc2l4LXN0YWJiaW5ncy10d28ta2lsbGVkL9IBAA?oc=5</id>
@@ -60,20 +74,6 @@
     <updated>2023-06-26T14:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNjE0NDU2LnZpb2xlbnQtd2Vla2VuZC1sb25kb24tc2l4LXN0YWJiaW5ncy10d28ta2lsbGVkL9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNjE0NDU2LnZpb2xlbnQtd2Vla2VuZC1sb25kb24tc2l4LXN0YWJiaW5ncy10d28ta2lsbGVkL9IBAA?oc=5" target="_blank"&gt;Violent weekend in London with shooting, six stabbings and two killed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East London and West Essex Guardian Series&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1rbm93bi1uYXBweS12YWxsZXktMjQwODk2MDfSAWVodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbG9uZG9uLW5laWdoYm91cmhvb2Qta25vd24tbmFwcHktdmFsbGV5LTI0MDg5NjA3LmFtcA?oc=5</id>
-    <title type="html">The London neighbourhood known as ‘Nappy Valley’ swarming with yummy mummies - My London</title>
-    <updated>2023-06-26T05:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1rbm93bi1uYXBweS12YWxsZXktMjQwODk2MDfSAWVodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbG9uZG9uLW5laWdoYm91cmhvb2Qta25vd24tbmFwcHktdmFsbGV5LTI0MDg5NjA3LmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9sb25kb24tbmVpZ2hib3VyaG9vZC1rbm93bi1uYXBweS12YWxsZXktMjQwODk2MDfSAWVodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvbG9uZG9uLW5laWdoYm91cmhvb2Qta25vd24tbmFwcHktdmFsbGV5LTI0MDg5NjA3LmFtcA?oc=5" target="_blank"&gt;The London neighbourhood known as ‘Nappy Valley’ swarming with yummy mummies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbXktd2F0Y2gtcm9iYmVyeS1vcmRlYWwtYXQtdGhlLWhhbmRzLW9mLXJvbGV4LXJpcHBlcnMtenh4enQ4Y2Zw0gEA?oc=5</id>
-    <title type="html">My watch robbery ordeal at the hands of 'Rolex rippers' - The Times</title>
-    <updated>2023-06-25T23:01:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbXktd2F0Y2gtcm9iYmVyeS1vcmRlYWwtYXQtdGhlLWhhbmRzLW9mLXJvbGV4LXJpcHBlcnMtenh4enQ4Y2Zw0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbXktd2F0Y2gtcm9iYmVyeS1vcmRlYWwtYXQtdGhlLWhhbmRzLW9mLXJvbGV4LXJpcHBlcnMtenh4enQ4Y2Zw0gEA?oc=5" target="_blank"&gt;My watch robbery ordeal at the hands of 'Rolex rippers'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>June 16th</title>
@@ -104,6 +104,45 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="pelican" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="shopping" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Framed Blossom</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vaughaag/52971753059/"/>
+    <id>tag:flickr.com,2005:/photo/52971753059</id>
+    <published>2023-06-13T13:33:20Z</published>
+    <updated>2023-06-13T13:33:20Z</updated>
+    <flickr:date_taken>2023-06-11T10:36:27-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-06-11T10:36:27-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vaughaag/"&gt;vaughaag&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vaughaag/52971753059/" title="Framed Blossom"&gt;&lt;img src="https://live.staticflickr.com/65535/52971753059_36c38d788f_m.jpg" width="160" height="240" alt="Framed Blossom" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>vaughaag</name>
+      <uri>https://www.flickr.com/people/vaughaag/</uri>
+      <flickr:nsid>41957103@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3688/buddyicons/41957103@N06.jpg?1369609024#41957103@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52971753059_36c38d788f_b.jpg"/>
+    <category term="tree" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blossom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yorkshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cove" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stone" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sony" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="a7rv" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="voigtlander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nokton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="f14" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="35mm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -205,38 +244,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3 June 1989 Balham JJD520D</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
-    <id>tag:flickr.com,2005:/photo/52833998309</id>
-    <published>2023-04-21T06:41:06Z</published>
-    <updated>2023-04-21T06:41:06Z</updated>
-    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
