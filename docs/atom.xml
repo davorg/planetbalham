@@ -7,38 +7,80 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-29T12:05:18Z</updated>
+  <updated>2023-06-30T00:13:33Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (70°F)</title>
+    <id>https://news.google.com/articles/CBMiXWh0dHBzOi8vbXVzbGltbmV3cy5jby51ay9uZXdzcGFwZXIvYXdhcmRzL3RoZS1tdXNsaW0tbmV3cy1hd2FyZHMtZm9yLWV4Y2VsbGVuY2UtMjAyMy13aW5uZXJzL9IBAA?oc=5</id>
+    <title type="html">The Muslim News Awards for Excellence: 2023 winners - The Muslim News</title>
+    <updated>2023-06-30T00:07:10.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vbXVzbGltbmV3cy5jby51ay9uZXdzcGFwZXIvYXdhcmRzL3RoZS1tdXNsaW0tbmV3cy1hd2FyZHMtZm9yLWV4Y2VsbGVuY2UtMjAyMy13aW5uZXJzL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXWh0dHBzOi8vbXVzbGltbmV3cy5jby51ay9uZXdzcGFwZXIvYXdhcmRzL3RoZS1tdXNsaW0tbmV3cy1hd2FyZHMtZm9yLWV4Y2VsbGVuY2UtMjAyMy13aW5uZXJzL9IBAA?oc=5" target="_blank"&gt;The Muslim News Awards for Excellence: 2023 winners&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Muslim News&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Thick Cloud, Minimum Temperature: 7°C (44°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1016mb, Humidity: 55%, UV Risk: 4, Pollution: Low, Sunrise: 04:46 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 7°C (44°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1016mb, Humidity: 95%, UV Risk: 0, Pollution: Low, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-29T09:56:00.000+0000</id>
-    <published>2023-06-29T12:02:33Z</published>
-    <updated>2023-06-29T12:02:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-06-29T21:56:00.000+0000</id>
+    <published>2023-06-30T00:04:23Z</published>
+    <updated>2023-06-30T00:04:23Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Cloud, Minimum Temperature: 16°C (60°F) Maximum Temperature: 19°C (67°F)</title>
+    <title>Friday: Light Cloud, Minimum Temperature: 6°C (43°F) Maximum Temperature: 7°C (45°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1013mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 04:47 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (45°F), Minimum Temperature: 6°C (43°F), Wind Direction: Northerly, Wind Speed: 22mph, Visibility: Good, Pressure: 1013mb, Humidity: 95%, UV Risk: 2, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:21 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-29T09:56:00.000+0000</id>
-    <published>2023-06-29T12:02:33Z</published>
-    <updated>2023-06-29T12:02:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-06-29T21:56:00.000+0000</id>
+    <published>2023-06-30T00:04:23Z</published>
+    <updated>2023-06-30T00:04:23Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Saturday: Light Cloud, Minimum Temperature: 7°C (44°F) Maximum Temperature: 7°C (46°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1007mb, Humidity: 63%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:21 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 7°C (46°F), Minimum Temperature: 7°C (44°F), Wind Direction: North Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1006mb, Humidity: 93%, UV Risk: 3, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-29T09:56:00.000+0000</id>
-    <published>2023-06-29T12:02:33Z</published>
-    <updated>2023-06-29T12:02:33Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-06-29T21:56:00.000+0000</id>
+    <published>2023-06-30T00:04:23Z</published>
+    <updated>2023-06-30T00:04:23Z</updated>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>29 June 2023 Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/53011421174/"/>
+    <id>tag:flickr.com,2005:/photo/53011421174</id>
+    <published>2023-06-29T21:48:06Z</published>
+    <updated>2023-06-29T21:48:06Z</updated>
+    <flickr:date_taken>2023-06-29T17:48:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-06-29T17:48:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/53011421174/" title="29 June 2023 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53011421174_d7b4e0dbb8_m.jpg" width="240" height="180" alt="29 June 2023 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53011421174_d7b4e0dbb8_b.jpg"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="claphamcommon" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tcmVzdGF1cmFudC1sb3Nlcy1saWNlbmNlLTI3MjIzNjI10gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi1yZXN0YXVyYW50LWxvc2VzLWxpY2VuY2UtMjcyMjM2MjUuYW1w?oc=5</id>
+    <title type="html">Restaurant loses licence after man claimed he was 'working for food' - My London</title>
+    <updated>2023-06-29T16:10:33.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tcmVzdGF1cmFudC1sb3Nlcy1saWNlbmNlLTI3MjIzNjI10gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi1yZXN0YXVyYW50LWxvc2VzLWxpY2VuY2UtMjcyMjM2MjUuYW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9zb3V0aC1sb25kb24tcmVzdGF1cmFudC1sb3Nlcy1saWNlbmNlLTI3MjIzNjI10gFjaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3NvdXRoLWxvbmRvbi1uZXdzL3NvdXRoLWxvbmRvbi1yZXN0YXVyYW50LWxvc2VzLWxpY2VuY2UtMjcyMjM2MjUuYW1w?oc=5" target="_blank"&gt;Restaurant loses licence after man claimed he was 'working for food'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiNmh0dHBzOi8vcG9kbmV3cy5uZXQvcHJlc3MtcmVsZWFzZS9yaWNoYXJkLWhlcnJpbmctdG91ctIBAA?oc=5</id>
@@ -60,20 +102,6 @@
     <updated>2023-06-27T18:21:50.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMijgFodHRwczovL21lbmFmbi5jb20vMTEwNjUwOTI5MC9Xb3VsZC1CZXR0ZXItQnVpbGRpbmdzLUhlbHAtRml4LVRoZS1OaHMtVGhlLVN0b3J5LU9mLUJyaXRhaW5zLUhvc3BpdGFscy1Gcm9tLUdyYW5kLURlc2lnbnMtVG8tQ291bnRpbmctVGhlLUNvc3Rz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMijgFodHRwczovL21lbmFmbi5jb20vMTEwNjUwOTI5MC9Xb3VsZC1CZXR0ZXItQnVpbGRpbmdzLUhlbHAtRml4LVRoZS1OaHMtVGhlLVN0b3J5LU9mLUJyaXRhaW5zLUhvc3BpdGFscy1Gcm9tLUdyYW5kLURlc2lnbnMtVG8tQ291bnRpbmctVGhlLUNvc3Rz0gEA?oc=5" target="_blank"&gt;Would Better Buildings Help Fix The Nhs? The Story Of Britain's ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MENAFN.COM&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL2hvdy10aGUtbmhzcy1vcmlnaW5hbC12aXNpb24tdG8tZGVzaWduLWhlYWx0aGllci1ob3NwaXRhbHMtZmVsbC1pbnRvLWRpc3JlcGFpci0yMDgwOTDSAQA?oc=5</id>
-    <title type="html">How the NHS's original vision to design healthier hospitals fell into ... - The Conversation Indonesia</title>
-    <updated>2023-06-27T14:52:52.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicGh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL2hvdy10aGUtbmhzcy1vcmlnaW5hbC12aXNpb24tdG8tZGVzaWduLWhlYWx0aGllci1ob3NwaXRhbHMtZmVsbC1pbnRvLWRpc3JlcGFpci0yMDgwOTDSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHA6Ly90aGVjb252ZXJzYXRpb24uY29tL2hvdy10aGUtbmhzcy1vcmlnaW5hbC12aXNpb24tdG8tZGVzaWduLWhlYWx0aGllci1ob3NwaXRhbHMtZmVsbC1pbnRvLWRpc3JlcGFpci0yMDgwOTDSAQA?oc=5" target="_blank"&gt;How the NHS's original vision to design healthier hospitals fell into ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Conversation Indonesia&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNjE0NDU2LnZpb2xlbnQtd2Vla2VuZC1sb25kb24tc2l4LXN0YWJiaW5ncy10d28ta2lsbGVkL9IBAA?oc=5</id>
-    <title type="html">Violent weekend in London with shooting, six stabbings and two killed - East London and West Essex Guardian Series</title>
-    <updated>2023-06-26T14:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNjE0NDU2LnZpb2xlbnQtd2Vla2VuZC1sb25kb24tc2l4LXN0YWJiaW5ncy10d28ta2lsbGVkL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNjE0NDU2LnZpb2xlbnQtd2Vla2VuZC1sb25kb24tc2l4LXN0YWJiaW5ncy10d28ta2lsbGVkL9IBAA?oc=5" target="_blank"&gt;Violent weekend in London with shooting, six stabbings and two killed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East London and West Essex Guardian Series&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>June 16th</title>
@@ -201,41 +229,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
     <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Jet97 / 10Foot</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
-    <id>tag:flickr.com,2005:/photo/52918260081</id>
-    <published>2023-05-23T00:15:19Z</published>
-    <updated>2023-05-23T00:15:19Z</updated>
-    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;South London.&lt;/p&gt;
-</content>
-    <author>
-      <name>Alex Ellison</name>
-      <uri>https://www.flickr.com/people/42276448@N07/</uri>
-      <flickr:nsid>42276448@N07</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
-    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
