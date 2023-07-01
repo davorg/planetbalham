@@ -7,9 +7,53 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-01T06:04:32Z</updated>
+  <updated>2023-07-01T12:04:43Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
+  <entry>
+    <title>Today: Light Cloud, Minimum Temperature: 11°C (53°F) Maximum Temperature: 22°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 52%, UV Risk: 4, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:21 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-01T09:56:00.000+0000</id>
+    <published>2023-07-01T12:04:31Z</published>
+    <updated>2023-07-01T12:04:31Z</updated>
+  </entry>
+  <entry>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 22°C (71°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1012mb, Humidity: 52%, UV Risk: 6, Pollution: Low, Sunrise: 04:48 BST, Sunset: 21:20 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-01T09:56:00.000+0000</id>
+    <published>2023-07-01T12:04:31Z</published>
+    <updated>2023-07-01T12:04:31Z</updated>
+  </entry>
+  <entry>
+    <title>Monday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (69°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1012mb, Humidity: 54%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:20 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-01T09:56:00.000+0000</id>
+    <published>2023-07-01T12:04:31Z</published>
+    <updated>2023-07-01T12:04:31Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiQmh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL2l0cy1vdXItZmlyc3QtcHJlLXNlYXNvbi1zYXR1cmRheS03Njg3NNIBAA?oc=5</id>
+    <title type="html">It's our first pre-season Saturday - The Pitching In Isthmian Football ... - Isthmian Football League</title>
+    <updated>2023-07-01T07:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiQmh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL2l0cy1vdXItZmlyc3QtcHJlLXNlYXNvbi1zYXR1cmRheS03Njg3NNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQmh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL2l0cy1vdXItZmlyc3QtcHJlLXNlYXNvbi1zYXR1cmRheS03Njg3NNIBAA?oc=5" target="_blank"&gt;It's our first pre-season Saturday - The Pitching In Isthmian Football ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Isthmian Football League&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2NhbGVzLWp1c3RpY2UtY2FzZXMtb3hmb3JkLW1hZ2lzdHJhdGVzLTA2MDAwMDIzNC5odG1s0gFYaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NjYWxlcy1qdXN0aWNlLWNhc2VzLW94Zm9yZC1tYWdpc3RyYXRlcy0wNjAwMDAyMzQuaHRtbA?oc=5</id>
+    <title type="html">SCALES OF JUSTICE: Cases from Oxford Magistrates' Court - Yahoo News UK</title>
+    <updated>2023-07-01T06:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2NhbGVzLWp1c3RpY2UtY2FzZXMtb3hmb3JkLW1hZ2lzdHJhdGVzLTA2MDAwMDIzNC5odG1s0gFYaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NjYWxlcy1qdXN0aWNlLWNhc2VzLW94Zm9yZC1tYWdpc3RyYXRlcy0wNjAwMDAyMzQuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2NhbGVzLWp1c3RpY2UtY2FzZXMtb3hmb3JkLW1hZ2lzdHJhdGVzLTA2MDAwMDIzNC5odG1s0gFYaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3NjYWxlcy1qdXN0aWNlLWNhc2VzLW94Zm9yZC1tYWdpc3RyYXRlcy0wNjAwMDAyMzQuaHRtbA?oc=5" target="_blank"&gt;SCALES OF JUSTICE: Cases from Oxford Magistrates' Court&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
+  </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vZm9vdGJhbGxpbmJlcmtzaGlyZS5jby51ay9uZXdzL2Zvb3RiYWxsLW5ld3MvNzQ2NjEvZXZlcnktY2x1Yi1lbnRlcmluZy10aGUtMjAyMy0yNC1pc3V6dS1mYS12YXNlL9IBAA?oc=5</id>
     <title type="html">Every club entering the 2023/24 Isuzu FA Vase - Football in Berkshire</title>
@@ -30,20 +74,6 @@
     <updated>2023-06-30T12:23:27.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vZm9vdGJhbGxpbmJlcmtzaGlyZS5jby51ay9uZXdzL2Zvb3RiYWxsLW5ld3MvNzQ2MzkvZXZlcnktY2x1Yi1lbnRlcmluZy10aGUtZW1pcmF0ZXMtZmEtY3VwLTIwMjMtMjQv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vZm9vdGJhbGxpbmJlcmtzaGlyZS5jby51ay9uZXdzL2Zvb3RiYWxsLW5ld3MvNzQ2MzkvZXZlcnktY2x1Yi1lbnRlcmluZy10aGUtZW1pcmF0ZXMtZmEtY3VwLTIwMjMtMjQv0gEA?oc=5" target="_blank"&gt;Every club entering the Emirates FA Cup 2023/24&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Football in Berkshire&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmJ1bmRlc2xpZ2EuY29tL2VuL2J1bmRlc2xpZ2EvbmV3cy9mYWJpby1jYXJ2YWxoby13aG8taXMtbGVpcHppZy1zLW5ldy1saXZlcnBvb2wtbG9hbmVlLTIzODgy0gFoaHR0cHM6Ly9hbXAuYnVuZGVzbGlnYS5jb20vZW4vYnVuZGVzbGlnYS9uZXdzL2ZhYmlvLWNhcnZhbGhvLXdoby1pcy1sZWlwemlnLXMtbmV3LWxpdmVycG9vbC1sb2FuZWUtMjM4ODI?oc=5</id>
-    <title type="html">Who is Fabio Carvalho? - Bundesliga</title>
-    <updated>2023-06-30T12:04:51.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LmJ1bmRlc2xpZ2EuY29tL2VuL2J1bmRlc2xpZ2EvbmV3cy9mYWJpby1jYXJ2YWxoby13aG8taXMtbGVpcHppZy1zLW5ldy1saXZlcnBvb2wtbG9hbmVlLTIzODgy0gFoaHR0cHM6Ly9hbXAuYnVuZGVzbGlnYS5jb20vZW4vYnVuZGVzbGlnYS9uZXdzL2ZhYmlvLWNhcnZhbGhvLXdoby1pcy1sZWlwemlnLXMtbmV3LWxpdmVycG9vbC1sb2FuZWUtMjM4ODI?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LmJ1bmRlc2xpZ2EuY29tL2VuL2J1bmRlc2xpZ2EvbmV3cy9mYWJpby1jYXJ2YWxoby13aG8taXMtbGVpcHppZy1zLW5ldy1saXZlcnBvb2wtbG9hbmVlLTIzODgy0gFoaHR0cHM6Ly9hbXAuYnVuZGVzbGlnYS5jb20vZW4vYnVuZGVzbGlnYS9uZXdzL2ZhYmlvLWNhcnZhbGhvLXdoby1pcy1sZWlwemlnLXMtbmV3LWxpdmVycG9vbC1sb2FuZWUtMjM4ODI?oc=5" target="_blank"&gt;Who is Fabio Carvalho?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bundesliga&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vcmJsZWlwemlnLmNvbS9kZS9uZXdzLzIwMjItMjAyMy9mYWJpby1jYXJ2YWxoby13ZWNoc2VsdC1sZWlod2Vpc2Utdm9tLWZjLWxpdmVycG9vbC16dS1yYi1sZWlwemlnL9IBAA?oc=5</id>
-    <title type="html">Leihe: Fábio Carvalho wechselt von Liverpool zu RB Leipzig - RB Leipzig</title>
-    <updated>2023-06-30T12:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vcmJsZWlwemlnLmNvbS9kZS9uZXdzLzIwMjItMjAyMy9mYWJpby1jYXJ2YWxoby13ZWNoc2VsdC1sZWlod2Vpc2Utdm9tLWZjLWxpdmVycG9vbC16dS1yYi1sZWlwemlnL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vcmJsZWlwemlnLmNvbS9kZS9uZXdzLzIwMjItMjAyMy9mYWJpby1jYXJ2YWxoby13ZWNoc2VsdC1sZWlod2Vpc2Utdm9tLWZjLWxpdmVycG9vbC16dS1yYi1sZWlwemlnL9IBAA?oc=5" target="_blank"&gt;Leihe: Fábio Carvalho wechselt von Liverpool zu RB Leipzig&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RB Leipzig&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 June 2023 Balham</title>
@@ -70,38 +100,6 @@
     <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="claphamcommon" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>June 16th</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52983338865/"/>
-    <id>tag:flickr.com,2005:/photo/52983338865</id>
-    <published>2023-06-18T12:30:08Z</published>
-    <updated>2023-06-18T12:30:08Z</updated>
-    <flickr:date_taken>2023-06-16T10:33:52-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-06-16T10:33:52-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/52983338865/" title="June 16th"&gt;&lt;img src="https://live.staticflickr.com/65535/52983338865_893509ab85_m.jpg" width="180" height="240" alt="June 16th" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Balham&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52983338865_893509ab85_b.jpg"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="centre" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pelican" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="shopping" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -199,6 +197,41 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
     <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Jet97 / 10Foot</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
+    <id>tag:flickr.com,2005:/photo/52918260081</id>
+    <published>2023-05-23T00:15:19Z</published>
+    <updated>2023-05-23T00:15:19Z</updated>
+    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;South London.&lt;/p&gt;
+</content>
+    <author>
+      <name>Alex Ellison</name>
+      <uri>https://www.flickr.com/people/42276448@N07/</uri>
+      <flickr:nsid>42276448@N07</flickr:nsid>
+      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
+    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
