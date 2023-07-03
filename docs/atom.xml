@@ -7,38 +7,59 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-03T06:04:54Z</updated>
+  <updated>2023-07-03T12:05:33Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 11°C (53°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 5, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1010mb, Humidity: 57%, UV Risk: 4, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-02T21:55:00.000+0000</id>
-    <published>2023-07-03T06:02:10Z</published>
-    <updated>2023-07-03T06:02:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-03T09:54:00.000+0000</id>
+    <published>2023-07-03T12:05:05Z</published>
+    <updated>2023-07-03T12:05:05Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Thundery Showers, Minimum Temperature: 11°C (51°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Tuesday: Thundery Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 19°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-02T21:55:00.000+0000</id>
-    <published>2023-07-03T06:02:10Z</published>
-    <updated>2023-07-03T06:02:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-03T09:54:00.000+0000</id>
+    <published>2023-07-03T12:05:05Z</published>
+    <updated>2023-07-03T12:05:05Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Wednesday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1011mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1012mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-02T21:55:00.000+0000</id>
-    <published>2023-07-03T06:02:10Z</published>
-    <updated>2023-07-03T06:02:10Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-03T09:54:00.000+0000</id>
+    <published>2023-07-03T12:05:05Z</published>
+    <updated>2023-07-03T12:05:05Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiN2h0dHBzOi8vYmF0dGVyc2VhcG93ZXJzdGF0aW9uLmNvLnVrL3JldGFpbGVycy9wb3N0bWFyay_SAQA?oc=5</id>
+    <title type="html">Postmark - Battersea Power Station</title>
+    <updated>2023-07-03T11:56:54.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiN2h0dHBzOi8vYmF0dGVyc2VhcG93ZXJzdGF0aW9uLmNvLnVrL3JldGFpbGVycy9wb3N0bWFyay_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiN2h0dHBzOi8vYmF0dGVyc2VhcG93ZXJzdGF0aW9uLmNvLnVrL3JldGFpbGVycy9wb3N0bWFyay_SAQA?oc=5" target="_blank"&gt;Postmark&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Battersea Power Station&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL21vbmRheS1uaWdodC1mb290YmFsbC1hbmQtYS1wcmUtc2Vhc29uLXdlZWstNzY5MDPSAQA?oc=5</id>
+    <title type="html">Monday Night Football- and a pre-season week - The Pitching In ... - Isthmian Football League</title>
+    <updated>2023-07-03T10:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL21vbmRheS1uaWdodC1mb290YmFsbC1hbmQtYS1wcmUtc2Vhc29uLXdlZWstNzY5MDPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL21vbmRheS1uaWdodC1mb290YmFsbC1hbmQtYS1wcmUtc2Vhc29uLXdlZWstNzY5MDPSAQA?oc=5" target="_blank"&gt;Monday Night Football- and a pre-season week - The Pitching In ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Isthmian Football League&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTEyLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIwNDkzMNIBAA?oc=5</id>
+    <title type="html">Food hygiene ratings given to 12 Wandsworth establishments - LondonWorld</title>
+    <updated>2023-07-03T09:57:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTEyLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIwNDkzMNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTEyLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIwNDkzMNIBAA?oc=5" target="_blank"&gt;Food hygiene ratings given to 12 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTMtOS1qdWx5LTIwMjPSAQA?oc=5</id>
@@ -53,27 +74,6 @@
     <updated>2023-07-02T10:57:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA3LzAyLzUzNDQyL3Jvbm5pX2FuY29uYV9hbmRfc2FsbHlfcGhpbGxpcHNfZm9ybV9hX2RvdWJsZV9hY3TSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA3LzAyLzUzNDQyL3Jvbm5pX2FuY29uYV9hbmRfc2FsbHlfcGhpbGxpcHNfZm9ybV9hX2RvdWJsZV9hY3TSAQA?oc=5" target="_blank"&gt;Ronni Ancona and Sally Phillips form a double act : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3Lm94Zm9yZG1haWwuY28udWsvbmV3cy8yMzYwODgxMy5veGZvcmQtbWFnaXN0cmF0ZXMtY291cnQtcmVzdWx0cy1sYXRlc3Qtc2NhbGVzLWp1c3RpY2Uv0gEA?oc=5</id>
-    <title type="html">Oxford Magistrates Court results in latest Scales of Justice - Oxford Mail</title>
-    <updated>2023-07-01T06:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3Lm94Zm9yZG1haWwuY28udWsvbmV3cy8yMzYwODgxMy5veGZvcmQtbWFnaXN0cmF0ZXMtY291cnQtcmVzdWx0cy1sYXRlc3Qtc2NhbGVzLWp1c3RpY2Uv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3Lm94Zm9yZG1haWwuY28udWsvbmV3cy8yMzYwODgxMy5veGZvcmQtbWFnaXN0cmF0ZXMtY291cnQtcmVzdWx0cy1sYXRlc3Qtc2NhbGVzLWp1c3RpY2Uv0gEA?oc=5" target="_blank"&gt;Oxford Magistrates Court results in latest Scales of Justice&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Oxford Mail&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaWh0dHBzOi8vcmJsZWlwemlnLmNvbS9kZS9uZXdzLzIwMjItMjAyMy9mYWJpby1jYXJ2YWxoby13ZWNoc2VsdC1sZWlod2Vpc2Utdm9tLWZjLWxpdmVycG9vbC16dS1yYi1sZWlwemlnL9IBAA?oc=5</id>
-    <title type="html">Leihe: Fábio Carvalho wechselt von Liverpool zu RB Leipzig - RB Leipzig</title>
-    <updated>2023-06-30T12:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vcmJsZWlwemlnLmNvbS9kZS9uZXdzLzIwMjItMjAyMy9mYWJpby1jYXJ2YWxoby13ZWNoc2VsdC1sZWlod2Vpc2Utdm9tLWZjLWxpdmVycG9vbC16dS1yYi1sZWlwemlnL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaWh0dHBzOi8vcmJsZWlwemlnLmNvbS9kZS9uZXdzLzIwMjItMjAyMy9mYWJpby1jYXJ2YWxoby13ZWNoc2VsdC1sZWlod2Vpc2Utdm9tLWZjLWxpdmVycG9vbC16dS1yYi1sZWlwemlnL9IBAA?oc=5" target="_blank"&gt;Leihe: Fábio Carvalho wechselt von Liverpool zu RB Leipzig&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RB Leipzig&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmJ1bmRlc2xpZ2EuY29tL2VuL2J1bmRlc2xpZ2EvbmV3cy9mYWJpby1jYXJ2YWxoby13aG8taXMtbGVpcHppZy1zLW5ldy1saXZlcnBvb2wtbG9hbmVlLTIzODgy0gFoaHR0cHM6Ly9hbXAuYnVuZGVzbGlnYS5jb20vZW4vYnVuZGVzbGlnYS9uZXdzL2ZhYmlvLWNhcnZhbGhvLXdoby1pcy1sZWlwemlnLXMtbmV3LWxpdmVycG9vbC1sb2FuZWUtMjM4ODI?oc=5</id>
-    <title type="html">Who is Fabio Carvalho? - Bundesliga</title>
-    <updated>2023-06-30T00:37:05.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LmJ1bmRlc2xpZ2EuY29tL2VuL2J1bmRlc2xpZ2EvbmV3cy9mYWJpby1jYXJ2YWxoby13aG8taXMtbGVpcHppZy1zLW5ldy1saXZlcnBvb2wtbG9hbmVlLTIzODgy0gFoaHR0cHM6Ly9hbXAuYnVuZGVzbGlnYS5jb20vZW4vYnVuZGVzbGlnYS9uZXdzL2ZhYmlvLWNhcnZhbGhvLXdoby1pcy1sZWlwemlnLXMtbmV3LWxpdmVycG9vbC1sb2FuZWUtMjM4ODI?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LmJ1bmRlc2xpZ2EuY29tL2VuL2J1bmRlc2xpZ2EvbmV3cy9mYWJpby1jYXJ2YWxoby13aG8taXMtbGVpcHppZy1zLW5ldy1saXZlcnBvb2wtbG9hbmVlLTIzODgy0gFoaHR0cHM6Ly9hbXAuYnVuZGVzbGlnYS5jb20vZW4vYnVuZGVzbGlnYS9uZXdzL2ZhYmlvLWNhcnZhbGhvLXdoby1pcy1sZWlwemlnLXMtbmV3LWxpdmVycG9vbC1sb2FuZWUtMjM4ODI?oc=5" target="_blank"&gt;Who is Fabio Carvalho?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bundesliga&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 June 2023 Balham</title>
