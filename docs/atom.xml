@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-03T12:05:33Z</updated>
+  <updated>2023-07-03T18:03:58Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Thundery Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (65°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 18mph, Visibility: Good, Pressure: 1010mb, Humidity: 57%, UV Risk: 4, Pollution: Low, Sunrise: 04:49 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1011mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-03T09:54:00.000+0000</id>
-    <published>2023-07-03T12:05:05Z</published>
-    <updated>2023-07-03T12:05:05Z</updated>
+    <published>2023-07-03T18:01:22Z</published>
+    <updated>2023-07-03T18:01:22Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Thundery Showers, Minimum Temperature: 10°C (51°F) Maximum Temperature: 19°C (65°F)</title>
+    <title>Tuesday: Thundery Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 10°C (51°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 04:50 BST, Sunset: 21:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-03T09:54:00.000+0000</id>
-    <published>2023-07-03T12:05:05Z</published>
-    <updated>2023-07-03T12:05:05Z</updated>
+    <published>2023-07-03T18:01:22Z</published>
+    <updated>2023-07-03T18:01:22Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain, Minimum Temperature: 10°C (50°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1012mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-03T09:54:00.000+0000</id>
-    <published>2023-07-03T12:05:05Z</published>
-    <updated>2023-07-03T12:05:05Z</updated>
+    <published>2023-07-03T18:01:22Z</published>
+    <updated>2023-07-03T18:01:22Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnZvaWNlLW9ubGluZS5jby51ay9uZXdzL2ZlYXR1cmVzLW5ld3MvMjAyMy8wNy8wMy9maW5kaW5nLW15LXJvb3RzLWdpdmVzLW1lLWEtc2Vuc2Utb2YtY29tcGxldGlvbi_SAQA?oc=5</id>
+    <title type="html">'Finding my roots gives me a sense of completion' - The Voice Online</title>
+    <updated>2023-07-03T15:52:41.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnZvaWNlLW9ubGluZS5jby51ay9uZXdzL2ZlYXR1cmVzLW5ld3MvMjAyMy8wNy8wMy9maW5kaW5nLW15LXJvb3RzLWdpdmVzLW1lLWEtc2Vuc2Utb2YtY29tcGxldGlvbi_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnZvaWNlLW9ubGluZS5jby51ay9uZXdzL2ZlYXR1cmVzLW5ld3MvMjAyMy8wNy8wMy9maW5kaW5nLW15LXJvb3RzLWdpdmVzLW1lLWEtc2Vuc2Utb2YtY29tcGxldGlvbi_SAQA?oc=5" target="_blank"&gt;'Finding my roots gives me a sense of completion'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Voice Online&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiN2h0dHBzOi8vYmF0dGVyc2VhcG93ZXJzdGF0aW9uLmNvLnVrL3JldGFpbGVycy9wb3N0bWFyay_SAQA?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-07-02T11:33:05.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTMtOS1qdWx5LTIwMjPSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTMtOS1qdWx5LTIwMjPSAQA?oc=5" target="_blank"&gt;Things To Do This Week In London: 3-9 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA3LzAyLzUzNDQyL3Jvbm5pX2FuY29uYV9hbmRfc2FsbHlfcGhpbGxpcHNfZm9ybV9hX2RvdWJsZV9hY3TSAQA?oc=5</id>
-    <title type="html">Ronni Ancona and Sally Phillips form a double act : News 2023 - Chortle</title>
-    <updated>2023-07-02T10:57:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA3LzAyLzUzNDQyL3Jvbm5pX2FuY29uYV9hbmRfc2FsbHlfcGhpbGxpcHNfZm9ybV9hX2RvdWJsZV9hY3TSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LmNob3J0bGUuY28udWsvbmV3cy8yMDIzLzA3LzAyLzUzNDQyL3Jvbm5pX2FuY29uYV9hbmRfc2FsbHlfcGhpbGxpcHNfZm9ybV9hX2RvdWJsZV9hY3TSAQA?oc=5" target="_blank"&gt;Ronni Ancona and Sally Phillips form a double act : News 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Chortle&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 June 2023 Balham</title>
