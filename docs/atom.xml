@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-05T12:05:33Z</updated>
+  <updated>2023-07-05T18:04:13Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 10°C (50°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 10°C (50°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1012mb, Humidity: 57%, UV Risk: 5, Pollution: Low, Sunrise: 04:51 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 10°C (50°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1015mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-05T09:55:00.000+0000</id>
-    <published>2023-07-05T12:01:17Z</published>
-    <updated>2023-07-05T12:01:17Z</updated>
+    <published>2023-07-05T18:00:16Z</published>
+    <updated>2023-07-05T18:00:16Z</updated>
   </entry>
   <entry>
     <title>Thursday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 61%, UV Risk: 6, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-05T09:55:00.000+0000</id>
-    <published>2023-07-05T12:01:17Z</published>
-    <updated>2023-07-05T12:01:17Z</updated>
+    <published>2023-07-05T18:00:16Z</published>
+    <updated>2023-07-05T18:00:16Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 17°C (62°F) Maximum Temperature: 27°C (81°F)</title>
@@ -37,8 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 17°C (62°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1015mb, Humidity: 53%, UV Risk: 7, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-05T09:55:00.000+0000</id>
-    <published>2023-07-05T12:01:17Z</published>
-    <updated>2023-07-05T12:01:17Z</updated>
+    <published>2023-07-05T18:00:16Z</published>
+    <updated>2023-07-05T18:00:16Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5</id>
+    <title type="html">RTE defends spending on membership at one of London's elite clubhouses - Irish Mirror</title>
+    <updated>2023-07-05T17:44:55.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5" target="_blank"&gt;RTE defends spending on membership at one of London's elite clubhouses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Irish Mirror&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL0Z1bGwtbGlzdC10cmFpbi10aWNrZXQtb2ZmaWNlLWZhY2luZy1jbG9zdXJlLWluY2x1ZGVzLUJyaXRhaW5zLWJ1c2llc3Qtc3RhdGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL2FtcC9GdWxsLWxpc3QtdHJhaW4tdGlja2V0LW9mZmljZS1mYWNpbmctY2xvc3VyZS1pbmNsdWRlcy1Ccml0YWlucy1idXNpZXN0LXN0YXRpb25zLmh0bWw?oc=5</id>
+    <title type="html">Full list of train ticket office facing closure includes some of Britain's busiest stations - Daily Mail</title>
+    <updated>2023-07-05T16:45:05.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL0Z1bGwtbGlzdC10cmFpbi10aWNrZXQtb2ZmaWNlLWZhY2luZy1jbG9zdXJlLWluY2x1ZGVzLUJyaXRhaW5zLWJ1c2llc3Qtc3RhdGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL2FtcC9GdWxsLWxpc3QtdHJhaW4tdGlja2V0LW9mZmljZS1mYWNpbmctY2xvc3VyZS1pbmNsdWRlcy1Ccml0YWlucy1idXNpZXN0LXN0YXRpb25zLmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL0Z1bGwtbGlzdC10cmFpbi10aWNrZXQtb2ZmaWNlLWZhY2luZy1jbG9zdXJlLWluY2x1ZGVzLUJyaXRhaW5zLWJ1c2llc3Qtc3RhdGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL2FtcC9GdWxsLWxpc3QtdHJhaW4tdGlja2V0LW9mZmljZS1mYWNpbmctY2xvc3VyZS1pbmNsdWRlcy1Ccml0YWlucy1idXNpZXN0LXN0YXRpb25zLmh0bWw?oc=5" target="_blank"&gt;Full list of train ticket office facing closure includes some of Britain's busiest stations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5</id>
+    <title type="html">Train ticket station closures IN FULL - all of the UK locations going ticketless - The Mirror</title>
+    <updated>2023-07-05T15:06:54.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" target="_blank"&gt;Train ticket station closures IN FULL - all of the UK locations going ticketless&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL3dlZG5lc2RheS1uaWdodC1mb290YmFsbC03NjkyNNIBAA?oc=5</id>
@@ -53,27 +74,6 @@
     <updated>2023-07-04T23:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LnRoZW5ld2V1cm9wZWFuLmNvLnVrL3Rhc3RlLW9mLWV1cm9wZS1yb2Jpbi1naWxscy1jb3VyZ2V0dGUtd2l0aC1nb2F0cy1jdXJkLWFuZC1ob25leS_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3LnRoZW5ld2V1cm9wZWFuLmNvLnVrL3Rhc3RlLW9mLWV1cm9wZS1yb2Jpbi1naWxscy1jb3VyZ2V0dGUtd2l0aC1nb2F0cy1jdXJkLWFuZC1ob25leS_SAQA?oc=5" target="_blank"&gt;Taste of Europe: Robin Gill's courgette with goat's curd and honey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The New European&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LnN3bG9uZG9uZXIuY28udWsvbGlmZS8wNDA3MjAyMy1zdW1tZXItaW4tbG9uZG9uLTIwLXRoaW5ncy10by1kby1pbi10aGUtY2FwaXRhbC10aGlzLWp1bHnSAQA?oc=5</id>
-    <title type="html">Summer in London: 20 things to do in the capital this July - South West Londoner</title>
-    <updated>2023-07-04T12:09:54.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vd3d3LnN3bG9uZG9uZXIuY28udWsvbGlmZS8wNDA3MjAyMy1zdW1tZXItaW4tbG9uZG9uLTIwLXRoaW5ncy10by1kby1pbi10aGUtY2FwaXRhbC10aGlzLWp1bHnSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZGh0dHBzOi8vd3d3LnN3bG9uZG9uZXIuY28udWsvbGlmZS8wNDA3MjAyMy1zdW1tZXItaW4tbG9uZG9uLTIwLXRoaW5ncy10by1kby1pbi10aGUtY2FwaXRhbC10aGlzLWp1bHnSAQA?oc=5" target="_blank"&gt;Summer in London: 20 things to do in the capital this July&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;South West Londoner&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmlzbGFtaWMtcmVsaWVmLm9yZy51ay9ncmVlbmluZy1vdXItbW9zcXVlcy1sZWFkaW5nLWJ5LWV4YW1wbGUv0gEA?oc=5</id>
-    <title type="html">Greening our Mosques – leading by example - Islamic Relief UK</title>
-    <updated>2023-07-04T10:09:09.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSmh0dHBzOi8vd3d3LmlzbGFtaWMtcmVsaWVmLm9yZy51ay9ncmVlbmluZy1vdXItbW9zcXVlcy1sZWFkaW5nLWJ5LWV4YW1wbGUv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSmh0dHBzOi8vd3d3LmlzbGFtaWMtcmVsaWVmLm9yZy51ay9ncmVlbmluZy1vdXItbW9zcXVlcy1sZWFkaW5nLWJ5LWV4YW1wbGUv0gEA?oc=5" target="_blank"&gt;Greening our Mosques – leading by example&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Islamic Relief UK&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiiAFodHRwczovL3d3dy50YXRsZXJhc2lhLmNvbS9ob21lcy9ob21lLXRvdXJzL2hvbWUtdG91ci1hbmdlbC1vLWRvbm5lbGwtcmljaGFyZC1pbnRlcmlvci1kZXNpZ25lci1lZHdhcmRpYW4tc3R5bGUtbG9uZG9uLWhvbWUtY29udGVtcG9yYXJ50gEA?oc=5</id>
-    <title type="html">Home tour: How an interior designer renovated his Edwardian-style ... - Tatler Taiwan</title>
-    <updated>2023-07-04T08:46:17.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiiAFodHRwczovL3d3dy50YXRsZXJhc2lhLmNvbS9ob21lcy9ob21lLXRvdXJzL2hvbWUtdG91ci1hbmdlbC1vLWRvbm5lbGwtcmljaGFyZC1pbnRlcmlvci1kZXNpZ25lci1lZHdhcmRpYW4tc3R5bGUtbG9uZG9uLWhvbWUtY29udGVtcG9yYXJ50gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiiAFodHRwczovL3d3dy50YXRsZXJhc2lhLmNvbS9ob21lcy9ob21lLXRvdXJzL2hvbWUtdG91ci1hbmdlbC1vLWRvbm5lbGwtcmljaGFyZC1pbnRlcmlvci1kZXNpZ25lci1lZHdhcmRpYW4tc3R5bGUtbG9uZG9uLWhvbWUtY29udGVtcG9yYXJ50gEA?oc=5" target="_blank"&gt;Home tour: How an interior designer renovated his Edwardian-style ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Tatler Taiwan&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 June 2023 Balham</title>
