@@ -7,18 +7,18 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-06T12:05:41Z</updated>
+  <updated>2023-07-06T18:03:53Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1016mb, Humidity: 51%, UV Risk: 5, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunset: 21:19 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-06T09:55:00.000+0000</id>
-    <published>2023-07-06T12:01:52Z</published>
-    <updated>2023-07-06T12:01:52Z</updated>
+    <published>2023-07-06T18:00:24Z</published>
+    <updated>2023-07-06T18:00:24Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny, Minimum Temperature: 17°C (63°F) Maximum Temperature: 28°C (83°F)</title>
@@ -27,8 +27,8 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (83°F), Minimum Temperature: 17°C (63°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 52%, UV Risk: 7, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-06T09:55:00.000+0000</id>
-    <published>2023-07-06T12:01:52Z</published>
-    <updated>2023-07-06T12:01:52Z</updated>
+    <published>2023-07-06T18:00:24Z</published>
+    <updated>2023-07-06T18:00:24Z</updated>
   </entry>
   <entry>
     <title>Saturday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 26°C (78°F)</title>
@@ -37,15 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (78°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 63%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-06T09:55:00.000+0000</id>
-    <published>2023-07-06T12:01:52Z</published>
-    <updated>2023-07-06T12:01:52Z</updated>
+    <published>2023-07-06T18:00:24Z</published>
+    <updated>2023-07-06T18:00:24Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MdIBXmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MS5hbXA?oc=5</id>
-    <title type="html">Full list of train ticket station closures as 4 Nottinghamshire sites affected - Nottinghamshire Live</title>
-    <updated>2023-07-06T05:30:03.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MdIBXmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MS5hbXA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MdIBXmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MS5hbXA?oc=5" target="_blank"&gt;Full list of train ticket station closures as 4 Nottinghamshire sites affected&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nottinghamshire Live&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMilAFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9yZWFkLXRoaXMvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtdWstbG9jYXRpb25zLWdvaW5nLXRpY2tldGxlc3MtZnVsbC1saXN0LWlzLXlvdXItYXJlYS1hZmZlY3RlZC00MjA5MTM40gEA?oc=5</id>
+    <title type="html">UK train stations going ticketless - full list - Yorkshire Evening Post</title>
+    <updated>2023-07-06T07:59:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMilAFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9yZWFkLXRoaXMvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtdWstbG9jYXRpb25zLWdvaW5nLXRpY2tldGxlc3MtZnVsbC1saXN0LWlzLXlvdXItYXJlYS1hZmZlY3RlZC00MjA5MTM40gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMilAFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9yZWFkLXRoaXMvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtdWstbG9jYXRpb25zLWdvaW5nLXRpY2tldGxlc3MtZnVsbC1saXN0LWlzLXlvdXItYXJlYS1hZmZlY3RlZC00MjA5MTM40gEA?oc=5" target="_blank"&gt;UK train stations going ticketless - full list&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Evening Post&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5</id>
