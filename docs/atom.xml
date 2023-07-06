@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-06T06:04:44Z</updated>
+  <updated>2023-07-06T12:05:41Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1016mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1016mb, Humidity: 51%, UV Risk: 5, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:19 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-05T21:51:00.000+0000</id>
-    <published>2023-07-06T06:00:39Z</published>
-    <updated>2023-07-06T06:00:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-06T09:55:00.000+0000</id>
+    <published>2023-07-06T12:01:52Z</published>
+    <updated>2023-07-06T12:01:52Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny, Minimum Temperature: 17°C (62°F) Maximum Temperature: 27°C (81°F)</title>
+    <title>Friday: Sunny, Minimum Temperature: 17°C (63°F) Maximum Temperature: 28°C (83°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 27°C (81°F), Minimum Temperature: 17°C (62°F), Wind Direction: South Easterly, Wind Speed: 11mph, Visibility: Good, Pressure: 1016mb, Humidity: 52%, UV Risk: 7, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (83°F), Minimum Temperature: 17°C (63°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 52%, UV Risk: 7, Pollution: Low, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-05T21:51:00.000+0000</id>
-    <published>2023-07-06T06:00:39Z</published>
-    <updated>2023-07-06T06:00:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-06T09:55:00.000+0000</id>
+    <published>2023-07-06T12:01:52Z</published>
+    <updated>2023-07-06T12:01:52Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Thundery Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 25°C (77°F)</title>
+    <title>Saturday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 26°C (78°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (78°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 63%, UV Risk: 7, Pollution: Low, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-05T21:51:00.000+0000</id>
-    <published>2023-07-06T06:00:39Z</published>
-    <updated>2023-07-06T06:00:39Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-06T09:55:00.000+0000</id>
+    <published>2023-07-06T12:01:52Z</published>
+    <updated>2023-07-06T12:01:52Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MdIBXmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MS5hbXA?oc=5</id>
+    <title type="html">Full list of train ticket station closures as 4 Nottinghamshire sites affected - Nottinghamshire Live</title>
+    <updated>2023-07-06T05:30:03.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MdIBXmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MS5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MdIBXmh0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy9mdWxsLWxpc3QtdHJhaW4tdGlja2V0LXN0YXRpb24tODU3ODM1MS5hbXA?oc=5" target="_blank"&gt;Full list of train ticket station closures as 4 Nottinghamshire sites affected&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nottinghamshire Live&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5</id>
@@ -56,10 +63,10 @@
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5</id>
-    <title type="html">Train ticket station closures IN FULL - all of the UK locations going ticketless - The Mirror</title>
+    <title type="html">Railway station ticket office closures list in full - is your local station affected? - The Mirror</title>
     <updated>2023-07-05T15:06:54.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" target="_blank"&gt;Train ticket station closures IN FULL - all of the UK locations going ticketless&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" target="_blank"&gt;Railway station ticket office closures list in full - is your local station affected?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tLzEyLWluZGVwZW5kZW50LWJvb2tzaG9wcy1sb25kb24tb2ZmZXJpbmctMTQyMjUwNTg1Lmh0bWzSAQA?oc=5</id>
@@ -68,13 +75,34 @@
     <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tLzEyLWluZGVwZW5kZW50LWJvb2tzaG9wcy1sb25kb24tb2ZmZXJpbmctMTQyMjUwNTg1Lmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tLzEyLWluZGVwZW5kZW50LWJvb2tzaG9wcy1sb25kb24tb2ZmZXJpbmctMTQyMjUwNTg1Lmh0bWzSAQA?oc=5" target="_blank"&gt;14 of the best independent bookshops in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Canada Shine On&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiOWh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL3dlZG5lc2RheS1uaWdodC1mb290YmFsbC03NjkyNNIBAA?oc=5</id>
-    <title type="html">Wednesday Night Football - The Pitching In Isthmian Football League - Isthmian Football League</title>
-    <updated>2023-07-05T06:15:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiOWh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL3dlZG5lc2RheS1uaWdodC1mb290YmFsbC03NjkyNNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiOWh0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL3dlZG5lc2RheS1uaWdodC1mb290YmFsbC03NjkyNNIBAA?oc=5" target="_blank"&gt;Wednesday Night Football - The Pitching In Isthmian Football League&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Isthmian Football League&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>29 June 2023 Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/53011421174/"/>
+    <id>tag:flickr.com,2005:/photo/53011421174</id>
+    <published>2023-06-29T21:48:06Z</published>
+    <updated>2023-06-29T21:48:06Z</updated>
+    <flickr:date_taken>2023-06-29T17:48:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-06-29T17:48:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/53011421174/" title="29 June 2023 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53011421174_d7b4e0dbb8_m.jpg" width="240" height="180" alt="29 June 2023 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53011421174_d7b4e0dbb8_b.jpg"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="claphamcommon" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>June 16th</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52983338865/"/>
@@ -104,6 +132,45 @@
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="pelican" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="shopping" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Framed Blossom</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vaughaag/52971753059/"/>
+    <id>tag:flickr.com,2005:/photo/52971753059</id>
+    <published>2023-06-13T13:33:20Z</published>
+    <updated>2023-06-13T13:33:20Z</updated>
+    <flickr:date_taken>2023-06-11T10:36:27-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-06-11T10:36:27-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vaughaag/"&gt;vaughaag&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vaughaag/52971753059/" title="Framed Blossom"&gt;&lt;img src="https://live.staticflickr.com/65535/52971753059_36c38d788f_m.jpg" width="160" height="240" alt="Framed Blossom" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>vaughaag</name>
+      <uri>https://www.flickr.com/people/vaughaag/</uri>
+      <flickr:nsid>41957103@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3688/buddyicons/41957103@N06.jpg?1369609024#41957103@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52971753059_36c38d788f_b.jpg"/>
+    <category term="tree" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blossom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="yorkshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cove" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="stone" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="track" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sony" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="a7rv" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="voigtlander" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nokton" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="f14" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="35mm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -140,16 +207,16 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Jet97 / 10Foot</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
-    <id>tag:flickr.com,2005:/photo/52918260081</id>
-    <published>2023-05-23T00:15:19Z</published>
-    <updated>2023-05-23T00:15:19Z</updated>
-    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
+    <title>Piez</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918649950/"/>
+    <id>tag:flickr.com,2005:/photo/52918649950</id>
+    <published>2023-05-23T00:15:27Z</published>
+    <updated>2023-05-23T00:15:27Z</updated>
+    <flickr:date_taken>2023-05-14T17:23:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-14T17:23:59-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918649950/" title="Piez"&gt;&lt;img src="https://live.staticflickr.com/65535/52918649950_253488ce12_m.jpg" width="240" height="160" alt="Piez" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;South London.&lt;/p&gt;
 </content>
@@ -159,10 +226,9 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
       <flickr:nsid>42276448@N07</flickr:nsid>
       <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
-    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
+    <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
@@ -171,70 +237,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3 June 1989 Balham JJD520D</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52833998309/"/>
-    <id>tag:flickr.com,2005:/photo/52833998309</id>
-    <published>2023-04-21T06:41:06Z</published>
-    <updated>2023-04-21T06:41:06Z</updated>
-    <flickr:date_taken>1989-06-03T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1989-06-03T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52833998309/" title="3 June 1989 Balham JJD520D"&gt;&lt;img src="https://live.staticflickr.com/65535/52833998309_bfc03e8109_m.jpg" width="240" height="163" alt="3 June 1989 Balham JJD520D" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52833998309_bfc03e8109_b.jpg"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1989" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jjd520d" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rml2520" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>29 December 1988 Balham VLT53</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/52829496373/"/>
-    <id>tag:flickr.com,2005:/photo/52829496373</id>
-    <published>2023-04-19T08:31:00Z</published>
-    <updated>2023-04-19T08:31:00Z</updated>
-    <flickr:date_taken>1988-12-29T00:00:00-08:00</flickr:date_taken>
-    <dc:date.Taken>1988-12-29T00:00:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/52829496373/" title="29 December 1988 Balham VLT53"&gt;&lt;img src="https://live.staticflickr.com/65535/52829496373_6a3045d73a_m.jpg" width="240" height="165" alt="29 December 1988 Balham VLT53" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>togetherthroughlife</name>
-      <uri>https://www.flickr.com/people/ridgway/</uri>
-      <flickr:nsid>90484572@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52829496373_6a3045d73a_b.jpg"/>
-    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="routemaster" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="88" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="december" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1988" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="vlt53" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rm53" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
