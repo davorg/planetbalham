@@ -7,73 +7,73 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-07T06:04:30Z</updated>
+  <updated>2023-07-07T12:05:09Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny, Minimum Temperature: 18°C (64°F) Maximum Temperature: 28°C (83°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 18°C (64°F) Maximum Temperature: 28°C (82°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (83°F), Minimum Temperature: 18°C (64°F), Wind Direction: South Easterly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 51%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 28°C (82°F), Minimum Temperature: 18°C (64°F), Wind Direction: Southerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 40%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:52 BST, Sunset: 21:18 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-06T21:52:00.000+0000</id>
-    <published>2023-07-07T06:02:37Z</published>
-    <updated>2023-07-07T06:02:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-07T09:57:00.000+0000</id>
+    <published>2023-07-07T12:02:31Z</published>
+    <updated>2023-07-07T12:02:31Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 26°C (78°F)</title>
+    <title>Saturday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 25°C (77°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 26°C (78°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 65%, UV Risk: 7, Pollution: Moderate, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1015mb, Humidity: 68%, UV Risk: 6, Pollution: Moderate, Sunrise: 04:53 BST, Sunset: 21:17 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-06T21:52:00.000+0000</id>
-    <published>2023-07-07T06:02:37Z</published>
-    <updated>2023-07-07T06:02:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-07T09:57:00.000+0000</id>
+    <published>2023-07-07T12:02:31Z</published>
+    <updated>2023-07-07T12:02:31Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 22°C (72°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 66%, UV Risk: 5, Pollution: Moderate, Sunrise: 04:54 BST, Sunset: 21:17 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1020mb, Humidity: 66%, UV Risk: 5, Pollution: Moderate, Sunrise: 04:54 BST, Sunset: 21:17 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-06T21:52:00.000+0000</id>
-    <published>2023-07-07T06:02:37Z</published>
-    <updated>2023-07-07T06:02:37Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-07T09:57:00.000+0000</id>
+    <published>2023-07-07T12:02:31Z</published>
+    <updated>2023-07-07T12:02:31Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vbWNiLm9yZy51ay9tdXNsaW0tb2YtY291bmNpbC1vZi1icml0YWluLWRlbGl2ZXJzLWluYXVndXJhbC1uYXRpb25hbC1laWQtd2l0aC1yZWZ1Z2Vlcy1jYW1wYWlnbi_SAQA?oc=5</id>
-    <title type="html">Muslim of Council of Britain delivers inaugural Eid with Refugees ... - Muslim Council of Britain</title>
-    <updated>2023-07-06T19:55:15.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZ2h0dHBzOi8vbWNiLm9yZy51ay9tdXNsaW0tb2YtY291bmNpbC1vZi1icml0YWluLWRlbGl2ZXJzLWluYXVndXJhbC1uYXRpb25hbC1laWQtd2l0aC1yZWZ1Z2Vlcy1jYW1wYWlnbi_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZ2h0dHBzOi8vbWNiLm9yZy51ay9tdXNsaW0tb2YtY291bmNpbC1vZi1icml0YWluLWRlbGl2ZXJzLWluYXVndXJhbC1uYXRpb25hbC1laWQtd2l0aC1yZWZ1Z2Vlcy1jYW1wYWlnbi_SAQA?oc=5" target="_blank"&gt;Muslim of Council of Britain delivers inaugural Eid with Refugees ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Muslim Council of Britain&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi04LTktanVseS0yMDIz0gEA?oc=5</id>
+    <title type="html">Things To Do This Weekend In London: 8-9 July 2023 - Londonist</title>
+    <updated>2023-07-07T11:38:59.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi04LTktanVseS0yMDIz0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi04LTktanVseS0yMDIz0gEA?oc=5" target="_blank"&gt;Things To Do This Weekend In London: 8-9 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMilAFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9yZWFkLXRoaXMvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtdWstbG9jYXRpb25zLWdvaW5nLXRpY2tldGxlc3MtZnVsbC1saXN0LWlzLXlvdXItYXJlYS1hZmZlY3RlZC00MjA5MTM40gEA?oc=5</id>
-    <title type="html">UK train stations going ticketless - full list - Yorkshire Evening Post</title>
-    <updated>2023-07-06T07:59:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMilAFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9yZWFkLXRoaXMvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtdWstbG9jYXRpb25zLWdvaW5nLXRpY2tldGxlc3MtZnVsbC1saXN0LWlzLXlvdXItYXJlYS1hZmZlY3RlZC00MjA5MTM40gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMilAFodHRwczovL3d3dy55b3Jrc2hpcmVldmVuaW5ncG9zdC5jby51ay9yZWFkLXRoaXMvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtdWstbG9jYXRpb25zLWdvaW5nLXRpY2tldGxlc3MtZnVsbC1saXN0LWlzLXlvdXItYXJlYS1hZmZlY3RlZC00MjA5MTM40gEA?oc=5" target="_blank"&gt;UK train stations going ticketless - full list&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Evening Post&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMilwFodHRwczovL2Zvb3RiYWxsaW5iZXJrc2hpcmUuY28udWsvbmV3cy9mb290YmFsbC1uZXdzLzc0Nzc0L2ZhLXZhc2UtZHJhdy1maXJzdC1xdWFsaWZ5aW5nLXNlY29uZC1xdWFsaWZ5aW5nLXJvdW5kLWFuZC13aGF0LWl0LW1lYW5zLWZvci1iZXJrc2hpcmUtY2x1YnMv0gEA?oc=5</id>
+    <title type="html">FA Vase draw: First Qualifying, Second Qualifying Round and what it ... - Football in Berkshire</title>
+    <updated>2023-07-07T11:24:11.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMilwFodHRwczovL2Zvb3RiYWxsaW5iZXJrc2hpcmUuY28udWsvbmV3cy9mb290YmFsbC1uZXdzLzc0Nzc0L2ZhLXZhc2UtZHJhdy1maXJzdC1xdWFsaWZ5aW5nLXNlY29uZC1xdWFsaWZ5aW5nLXJvdW5kLWFuZC13aGF0LWl0LW1lYW5zLWZvci1iZXJrc2hpcmUtY2x1YnMv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMilwFodHRwczovL2Zvb3RiYWxsaW5iZXJrc2hpcmUuY28udWsvbmV3cy9mb290YmFsbC1uZXdzLzc0Nzc0L2ZhLXZhc2UtZHJhdy1maXJzdC1xdWFsaWZ5aW5nLXNlY29uZC1xdWFsaWZ5aW5nLXJvdW5kLWFuZC13aGF0LWl0LW1lYW5zLWZvci1iZXJrc2hpcmUtY2x1YnMv0gEA?oc=5" target="_blank"&gt;FA Vase draw: First Qualifying, Second Qualifying Round and what it ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Football in Berkshire&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5</id>
-    <title type="html">RTE defends spending on membership at one of London's elite clubhouses - Irish Mirror</title>
-    <updated>2023-07-05T17:44:55.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiT2h0dHBzOi8vd3d3LmlyaXNobWlycm9yLmllL3Nob3diaXovcnRlLWRlZmVuZHMtc3BlbmRpbmctbWVtYmVyc2hpcC1vbmUtMzAzOTg4NzDSAVNodHRwczovL3d3dy5pcmlzaG1pcnJvci5pZS9zaG93Yml6L3J0ZS1kZWZlbmRzLXNwZW5kaW5nLW1lbWJlcnNoaXAtb25lLTMwMzk4ODcwLmFtcA?oc=5" target="_blank"&gt;RTE defends spending on membership at one of London's elite clubhouses&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Irish Mirror&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMimQFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ZhLWN1cC1mYS12YXNlLWFuZC1mYS10cm9waHktZHJhd3Mtc3Vzc2V4LWRlcmJpZXMtaW4tcHJvc3BlY3QtYXMtc2lkZXMtZmluZC1vdXQtd2hvLXRoZXktd2lsbC1wbGF5LTQyMTExOTLSAQA?oc=5</id>
+    <title type="html">FA Cup, FA Vase and FA Trophy draws: Sussex sides find out who ... - SussexWorld</title>
+    <updated>2023-07-07T11:21:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMimQFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ZhLWN1cC1mYS12YXNlLWFuZC1mYS10cm9waHktZHJhd3Mtc3Vzc2V4LWRlcmJpZXMtaW4tcHJvc3BlY3QtYXMtc2lkZXMtZmluZC1vdXQtd2hvLXRoZXktd2lsbC1wbGF5LTQyMTExOTLSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMimQFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ZhLWN1cC1mYS12YXNlLWFuZC1mYS10cm9waHktZHJhd3Mtc3Vzc2V4LWRlcmJpZXMtaW4tcHJvc3BlY3QtYXMtc2lkZXMtZmluZC1vdXQtd2hvLXRoZXktd2lsbC1wbGF5LTQyMTExOTLSAQA?oc=5" target="_blank"&gt;FA Cup, FA Vase and FA Trophy draws: Sussex sides find out who ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL0Z1bGwtbGlzdC10cmFpbi10aWNrZXQtb2ZmaWNlLWZhY2luZy1jbG9zdXJlLWluY2x1ZGVzLUJyaXRhaW5zLWJ1c2llc3Qtc3RhdGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL2FtcC9GdWxsLWxpc3QtdHJhaW4tdGlja2V0LW9mZmljZS1mYWNpbmctY2xvc3VyZS1pbmNsdWRlcy1Ccml0YWlucy1idXNpZXN0LXN0YXRpb25zLmh0bWw?oc=5</id>
-    <title type="html">Full list of train ticket office facing closure includes some of Britain's busiest stations - Daily Mail</title>
-    <updated>2023-07-05T16:45:05.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL0Z1bGwtbGlzdC10cmFpbi10aWNrZXQtb2ZmaWNlLWZhY2luZy1jbG9zdXJlLWluY2x1ZGVzLUJyaXRhaW5zLWJ1c2llc3Qtc3RhdGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL2FtcC9GdWxsLWxpc3QtdHJhaW4tdGlja2V0LW9mZmljZS1mYWNpbmctY2xvc3VyZS1pbmNsdWRlcy1Ccml0YWlucy1idXNpZXN0LXN0YXRpb25zLmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMihgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL0Z1bGwtbGlzdC10cmFpbi10aWNrZXQtb2ZmaWNlLWZhY2luZy1jbG9zdXJlLWluY2x1ZGVzLUJyaXRhaW5zLWJ1c2llc3Qtc3RhdGlvbnMuaHRtbNIBigFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMjY3MzgxL2FtcC9GdWxsLWxpc3QtdHJhaW4tdGlja2V0LW9mZmljZS1mYWNpbmctY2xvc3VyZS1pbmNsdWRlcy1Ccml0YWlucy1idXNpZXN0LXN0YXRpb25zLmh0bWw?oc=5" target="_blank"&gt;Full list of train ticket office facing closure includes some of Britain's busiest stations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvZmF2ZXJzaGFtL3Nwb3J0L2ZhLXZhc2UtZHJhdy0yMDIzLTI0LTI4OTY1OS_SAU1odHRwczovL3d3dy5rZW50b25saW5lLmNvLnVrL2ZhdmVyc2hhbS9zcG9ydC9hbXAvZmEtdmFzZS1kcmF3LTIwMjMtMjQtMjg5NjU5Lw?oc=5</id>
+    <title type="html">FA Vase draw 2023/24 - Kent Online</title>
+    <updated>2023-07-07T11:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvZmF2ZXJzaGFtL3Nwb3J0L2ZhLXZhc2UtZHJhdy0yMDIzLTI0LTI4OTY1OS_SAU1odHRwczovL3d3dy5rZW50b25saW5lLmNvLnVrL2ZhdmVyc2hhbS9zcG9ydC9hbXAvZmEtdmFzZS1kcmF3LTIwMjMtMjQtMjg5NjU5Lw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vd3d3LmtlbnRvbmxpbmUuY28udWsvZmF2ZXJzaGFtL3Nwb3J0L2ZhLXZhc2UtZHJhdy0yMDIzLTI0LTI4OTY1OS_SAU1odHRwczovL3d3dy5rZW50b25saW5lLmNvLnVrL2ZhdmVyc2hhbS9zcG9ydC9hbXAvZmEtdmFzZS1kcmF3LTIwMjMtMjQtMjg5NjU5Lw?oc=5" target="_blank"&gt;FA Vase draw 2023/24&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kent Online&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5</id>
-    <title type="html">Railway station ticket office closures list in full - is your local station affected? - The Mirror</title>
-    <updated>2023-07-05T15:06:54.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMNIBVWh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VrLW5ld3MvdHJhaW4tdGlja2V0LXN0YXRpb24tY2xvc3VyZXMtZnVsbC0zMDM5NzkwMC5hbXA?oc=5" target="_blank"&gt;Railway station ticket office closures list in full - is your local station affected?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL2ZhLWN1cC1leHRyYS1wcmVsaW1pbmFyeS1hbmQtcHJlbGltaW5hcnktcm91bmQtZHJhLTc2OTc40gEA?oc=5</id>
+    <title type="html">FA Cup Extra-Preliminary and Preliminary Round Draws - The ... - Isthmian Football League</title>
+    <updated>2023-07-07T11:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL2ZhLWN1cC1leHRyYS1wcmVsaW1pbmFyeS1hbmQtcHJlbGltaW5hcnktcm91bmQtZHJhLTc2OTc40gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3LmlzdGhtaWFuLmNvLnVrL2ZhLWN1cC1leHRyYS1wcmVsaW1pbmFyeS1hbmQtcHJlbGltaW5hcnktcm91bmQtZHJhLTc2OTc40gEA?oc=5" target="_blank"&gt;FA Cup Extra-Preliminary and Preliminary Round Draws - The ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Isthmian Football League&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 June 2023 Balham</title>
