@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-10T12:05:25Z</updated>
+  <updated>2023-07-10T18:04:16Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 17°C (62°F) Maximum Temperature: 22°C (72°F)</title>
+    <title>Tonight: Heavy Rain, Minimum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 17°C (62°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1018mb, Humidity: 53%, UV Risk: 5, Pollution: Low, Sunrise: 04:55 BST, Sunset: 21:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 17°C (62°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1014mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunset: 21:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-10T09:55:00.000+0000</id>
-    <published>2023-07-10T12:03:43Z</published>
-    <updated>2023-07-10T12:03:43Z</updated>
+    <published>2023-07-10T18:03:25Z</published>
+    <updated>2023-07-10T18:03:25Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Heavy Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Tuesday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 77%, UV Risk: 4, Pollution: Low, Sunrise: 04:56 BST, Sunset: 21:15 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 04:56 BST, Sunset: 21:15 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-10T09:55:00.000+0000</id>
-    <published>2023-07-10T12:03:43Z</published>
-    <updated>2023-07-10T12:03:43Z</updated>
+    <published>2023-07-10T18:03:25Z</published>
+    <updated>2023-07-10T18:03:25Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 21°C (69°F)</title>
@@ -37,15 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 12°C (53°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 04:57 BST, Sunset: 21:14 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-10T09:55:00.000+0000</id>
-    <published>2023-07-10T12:03:43Z</published>
-    <updated>2023-07-10T12:03:43Z</updated>
+    <published>2023-07-10T18:03:25Z</published>
+    <updated>2023-07-10T18:03:25Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTEwLTE2LWp1bHktMjAyM9IBAA?oc=5</id>
     <title type="html">Things To Do This Week In London: 10-16 July 2023 - Londonist</title>
-    <updated>2023-07-10T11:17:43.000000000Z</updated>
+    <updated>2023-07-10T14:18:17.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTEwLTE2LWp1bHktMjAyM9IBAA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTEwLTE2LWp1bHktMjAyM9IBAA?oc=5" target="_blank"&gt;Things To Do This Week In London: 10-16 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi0xNS0xNi1qdWx5LTIwMjPSAQA?oc=5</id>
+    <title type="html">Things To Do This Weekend In London: 15-16 July 2023 - Londonist</title>
+    <updated>2023-07-10T11:31:56.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi0xNS0xNi1qdWx5LTIwMjPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi0xNS0xNi1qdWx5LTIwMjPSAQA?oc=5" target="_blank"&gt;Things To Do This Weekend In London: 15-16 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnN1c3NleGV4cHJlc3MuY28udWsvd2hhdHMtb24vYXJ0cy1hbmQtZW50ZXJ0YWlubWVudC9mcm9tLXlhcHRvbi10by1sb25kb24tb24tZm9vdC1mb3ItY2hhcml0eS00MjEzMjM30gEA?oc=5</id>
@@ -62,18 +69,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5" target="_blank"&gt;All the escaped snakes that have been found in south London this ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmJvYXRpbnRlcm5hdGlvbmFsLmNvbS9ib2F0LXByZXNlbnRzL2RrdC1hcnR3b3Jrcy1jb2ZvdW5kZXItcG9kY2FzdNIBAA?oc=5</id>
-    <title type="html">Podcast interview with the cofounders of DKT Artworks - Boat International</title>
-    <updated>2023-07-07T12:09:19.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vd3d3LmJvYXRpbnRlcm5hdGlvbmFsLmNvbS9ib2F0LXByZXNlbnRzL2RrdC1hcnR3b3Jrcy1jb2ZvdW5kZXItcG9kY2FzdNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vd3d3LmJvYXRpbnRlcm5hdGlvbmFsLmNvbS9ib2F0LXByZXNlbnRzL2RrdC1hcnR3b3Jrcy1jb2ZvdW5kZXItcG9kY2FzdNIBAA?oc=5" target="_blank"&gt;Podcast interview with the cofounders of DKT Artworks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Boat International&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMimQFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ZhLWN1cC1mYS12YXNlLWFuZC1mYS10cm9waHktZHJhd3Mtc3Vzc2V4LWRlcmJpZXMtaW4tcHJvc3BlY3QtYXMtc2lkZXMtZmluZC1vdXQtd2hvLXRoZXktd2lsbC1wbGF5LTQyMTExOTLSAQA?oc=5</id>
-    <title type="html">FA Cup, FA Vase and FA Trophy draws: Sussex sides find out who ... - SussexWorld</title>
-    <updated>2023-07-07T11:21:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMimQFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ZhLWN1cC1mYS12YXNlLWFuZC1mYS10cm9waHktZHJhd3Mtc3Vzc2V4LWRlcmJpZXMtaW4tcHJvc3BlY3QtYXMtc2lkZXMtZmluZC1vdXQtd2hvLXRoZXktd2lsbC1wbGF5LTQyMTExOTLSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMimQFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL2ZhLWN1cC1mYS12YXNlLWFuZC1mYS10cm9waHktZHJhd3Mtc3Vzc2V4LWRlcmJpZXMtaW4tcHJvc3BlY3QtYXMtc2lkZXMtZmluZC1vdXQtd2hvLXRoZXktd2lsbC1wbGF5LTQyMTExOTLSAQA?oc=5" target="_blank"&gt;FA Cup, FA Vase and FA Trophy draws: Sussex sides find out who ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTMtOS1qdWx5LTIwMjPSAQA?oc=5</id>
+    <title type="html">Things To Do This Week In London: 3-9 July 2023 - Londonist</title>
+    <updated>2023-07-08T11:44:30.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTMtOS1qdWx5LTIwMjPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTMtOS1qdWx5LTIwMjPSAQA?oc=5" target="_blank"&gt;Things To Do This Week In London: 3-9 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>29 June 2023 Balham</title>
