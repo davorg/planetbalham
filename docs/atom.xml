@@ -7,52 +7,22 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-10T00:14:46Z</updated>
+  <updated>2023-07-10T06:04:57Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 14°C (58°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1021mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 21:16 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-09T21:53:00.000+0000</id>
-    <published>2023-07-10T00:05:04Z</published>
-    <updated>2023-07-10T00:05:04Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 17°C (62°F) Maximum Temperature: 23°C (73°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 17°C (62°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1020mb, Humidity: 63%, UV Risk: 5, Pollution: Low, Sunrise: 04:56 BST, Sunset: 21:15 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-09T21:53:00.000+0000</id>
-    <published>2023-07-10T00:05:04Z</published>
-    <updated>2023-07-10T00:05:04Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Heavy Rain, Minimum Temperature: 14°C (56°F) Maximum Temperature: 21°C (70°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (56°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 76%, UV Risk: 4, Pollution: Low, Sunrise: 04:57 BST, Sunset: 21:14 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-09T21:53:00.000+0000</id>
-    <published>2023-07-10T00:05:04Z</published>
-    <updated>2023-07-10T00:05:04Z</updated>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiVmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi04LTktanVseS0yMDIz0gEA?oc=5</id>
-    <title type="html">Things To Do This Weekend In London: 8-9 July 2023 - Londonist</title>
-    <updated>2023-07-09T18:37:13.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi04LTktanVseS0yMDIz0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi04LTktanVseS0yMDIz0gEA?oc=5" target="_blank"&gt;Things To Do This Weekend In London: 8-9 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5</id>
-    <title type="html">All the escaped snakes that have been found in south London this ... - News Shopper</title>
+    <id>https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5</id>
+    <title type="html">All the escaped snakes that have been found in south London this ... - This is Local London</title>
     <updated>2023-07-09T04:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5" target="_blank"&gt;All the escaped snakes that have been found in south London this ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWWh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NDA1MTMuZXNjYXBlZC1zbmFrZXMtZm91bmQtc291dGgtbG9uZG9uLTIwMjMv0gEA?oc=5" target="_blank"&gt;All the escaped snakes that have been found in south London this ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTEwLTE2LWp1bHktMjAyM9IBAA?oc=5</id>
+    <title type="html">Things To Do This Week In London: 10-16 July 2023 - Londonist</title>
+    <updated>2023-07-08T11:31:06.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTEwLTE2LWp1bHktMjAyM9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWmh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vdGhpbmdzLXRvLWRvL3RoaW5ncy10by1kby10aGlzLXdlZWstaW4tbG9uZG9uLTEwLTE2LWp1bHktMjAyM9IBAA?oc=5" target="_blank"&gt;Things To Do This Week In London: 10-16 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LmJvYXRpbnRlcm5hdGlvbmFsLmNvbS9ib2F0LXByZXNlbnRzL2RrdC1hcnR3b3Jrcy1jb2ZvdW5kZXItcG9kY2FzdNIBAA?oc=5</id>
