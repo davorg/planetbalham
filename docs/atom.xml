@@ -7,45 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-14T06:04:35Z</updated>
+  <updated>2023-07-14T12:05:40Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Today: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 77%, UV Risk: 3, Pollution: Low, Sunrise: 05:00 BST, Sunset: 21:13 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Easterly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 05:00 BST, Sunset: 21:13 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-13T21:52:00.000+0000</id>
-    <published>2023-07-14T06:03:35Z</published>
-    <updated>2023-07-14T06:03:35Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-14T09:56:00.000+0000</id>
+    <published>2023-07-14T12:03:55Z</published>
+    <updated>2023-07-14T12:03:55Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Rain, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Saturday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 24mph, Visibility: Moderate, Pressure: 1001mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 05:01 BST, Sunset: 21:12 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 23mph, Visibility: Moderate, Pressure: 1001mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 05:01 BST, Sunset: 21:12 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-13T21:52:00.000+0000</id>
-    <published>2023-07-14T06:03:35Z</published>
-    <updated>2023-07-14T06:03:35Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-14T09:56:00.000+0000</id>
+    <published>2023-07-14T12:03:55Z</published>
+    <updated>2023-07-14T12:03:55Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:02 BST, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 61%, UV Risk: 3, Pollution: Low, Sunrise: 05:02 BST, Sunset: 21:11 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-13T21:52:00.000+0000</id>
-    <published>2023-07-14T06:03:35Z</published>
-    <updated>2023-07-14T06:03:35Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-14T09:56:00.000+0000</id>
+    <published>2023-07-14T12:03:55Z</published>
+    <updated>2023-07-14T12:03:55Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi0xNS0xNi1qdWx5LTIwMjPSAQA?oc=5</id>
-    <title type="html">Things To Do This Weekend In London: 15-16 July 2023 - Londonist</title>
-    <updated>2023-07-14T03:16:45.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi0xNS0xNi1qdWx5LTIwMjPSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vbG9uZG9uaXN0LmNvbS9sb25kb24vd2Vla2VuZC90aGluZ3MtdG8tZG8tdGhpcy13ZWVrZW5kLWluLWxvbmRvbi0xNS0xNi1qdWx5LTIwMjPSAQA?oc=5" target="_blank"&gt;Things To Do This Weekend In London: 15-16 July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Londonist&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vbmV3cy5yYWlsYnVzaW5lc3NkYWlseS5jb20vbmV0d29yay1yYWlsLXNlYWxzLXBvc3RtYXJrLWJyYW5kLWZvci1pdHMtcmV0YWlsLXBvcnRmb2xpby_SAQA?oc=5</id>
+    <title type="html">Network Rail seals Postmark brand for its retail portfolio ... - RailBusinessDaily</title>
+    <updated>2023-07-14T10:29:44.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbmV3cy5yYWlsYnVzaW5lc3NkYWlseS5jb20vbmV0d29yay1yYWlsLXNlYWxzLXBvc3RtYXJrLWJyYW5kLWZvci1pdHMtcmV0YWlsLXBvcnRmb2xpby_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbmV3cy5yYWlsYnVzaW5lc3NkYWlseS5jb20vbmV0d29yay1yYWlsLXNlYWxzLXBvc3RtYXJrLWJyYW5kLWZvci1pdHMtcmV0YWlsLXBvcnRmb2xpby_SAQA?oc=5" target="_blank"&gt;Network Rail seals Postmark brand for its retail portfolio ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailBusinessDaily&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTMzLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIxODYyMtIBAA?oc=5</id>
+    <title type="html">Food hygiene ratings given to 33 Wandsworth establishments - LondonWorld</title>
+    <updated>2023-07-14T09:06:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTMzLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIxODYyMtIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTMzLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIxODYyMtIBAA?oc=5" target="_blank"&gt;Food hygiene ratings given to 33 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMibGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8xMy9pcy1iZW4td2FsbGFjZS1zZXJpb3VzLXVrcmFpbmUtd2FyLWhhcy1iZWVuLWdvaW5nLWZvci1vdmVyLTUwMC1kYXlzLTE5MTIzNTAyL9IBcGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8xMy9pcy1iZW4td2FsbGFjZS1zZXJpb3VzLXVrcmFpbmUtd2FyLWhhcy1iZWVuLWdvaW5nLWZvci1vdmVyLTUwMC1kYXlzLTE5MTIzNTAyL2FtcC8?oc=5</id>
@@ -68,13 +75,34 @@
     <link href="https://news.google.com/atom/articles/CBMiM2h0dHBzOi8vd3d3LnJsaS51ay5jb20vbmV0d29yay1yYWlsLXNlYWxzLW5ldy1kZWFsL9IBN2h0dHBzOi8vd3d3LnJsaS51ay5jb20vbmV0d29yay1yYWlsLXNlYWxzLW5ldy1kZWFsL2FtcC8?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiM2h0dHBzOi8vd3d3LnJsaS51ay5jb20vbmV0d29yay1yYWlsLXNlYWxzLW5ldy1kZWFsL9IBN2h0dHBzOi8vd3d3LnJsaS51ay5jb20vbmV0d29yay1yYWlsLXNlYWxzLW5ldy1kZWFsL2FtcC8?oc=5" target="_blank"&gt;Network Rail Seals New Deal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Retail &amp; Leisure International&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmZyZWV0aHMuY28udWsvMjAyMy8wNy8xMi9yZWFsLWVzdGF0ZS1sZWdhbC11cGRhdGUtc3VtbWVyLTIwMjMv0gEA?oc=5</id>
-    <title type="html">Welcome to the Summer 2023 Real Estate Legal Update - Freeths</title>
-    <updated>2023-07-13T08:57:37.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSmh0dHBzOi8vd3d3LmZyZWV0aHMuY28udWsvMjAyMy8wNy8xMi9yZWFsLWVzdGF0ZS1sZWdhbC11cGRhdGUtc3VtbWVyLTIwMjMv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSmh0dHBzOi8vd3d3LmZyZWV0aHMuY28udWsvMjAyMy8wNy8xMi9yZWFsLWVzdGF0ZS1sZWdhbC11cGRhdGUtc3VtbWVyLTIwMjMv0gEA?oc=5" target="_blank"&gt;Welcome to the Summer 2023 Real Estate Legal Update&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Freeths&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>29 June 2023 Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ridgway/53011421174/"/>
+    <id>tag:flickr.com,2005:/photo/53011421174</id>
+    <published>2023-06-29T21:48:06Z</published>
+    <updated>2023-06-29T21:48:06Z</updated>
+    <flickr:date_taken>2023-06-29T17:48:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-06-29T17:48:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ridgway/"&gt;togetherthroughlife&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ridgway/53011421174/" title="29 June 2023 Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53011421174_d7b4e0dbb8_m.jpg" width="240" height="180" alt="29 June 2023 Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>togetherthroughlife</name>
+      <uri>https://www.flickr.com/people/ridgway/</uri>
+      <flickr:nsid>90484572@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1795/buddyicons/90484572@N00.jpg?1533112214#90484572@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53011421174_d7b4e0dbb8_b.jpg"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="june" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="claphamcommon" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>June 16th</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/52983338865/"/>
@@ -201,41 +229,6 @@ Train 163, 2130 Edgware to Morden via Bank (Northern Line)&lt;/p&gt;
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918649950_253488ce12_b.jpg"/>
     <category term="piez" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="urban" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="boobs" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Jet97 / 10Foot</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/42276448@N07/52918260081/"/>
-    <id>tag:flickr.com,2005:/photo/52918260081</id>
-    <published>2023-05-23T00:15:19Z</published>
-    <updated>2023-05-23T00:15:19Z</updated>
-    <flickr:date_taken>2023-05-08T16:53:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-05-08T16:53:58-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/42276448@N07/"&gt;Alex Ellison&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/42276448@N07/52918260081/" title="Jet97 / 10Foot"&gt;&lt;img src="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_m.jpg" width="240" height="144" alt="Jet97 / 10Foot" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;South London.&lt;/p&gt;
-</content>
-    <author>
-      <name>Alex Ellison</name>
-      <uri>https://www.flickr.com/people/42276448@N07/</uri>
-      <flickr:nsid>42276448@N07</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon00.png#42276448@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52918260081_eb0ac7a1c4_b.jpg"/>
-    <category term="jet97" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wrh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="10foot" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="trackside" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="railway" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
