@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-15T12:04:53Z</updated>
+  <updated>2023-07-15T18:04:05Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 19°C (67°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 13°C (56°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1000mb, Humidity: 62%, UV Risk: 6, Pollution: Low, Sunrise: 05:01 BST, Sunset: 21:12 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 22mph, Visibility: Good, Pressure: 1003mb, Humidity: 76%, UV Risk: 4, Pollution: Low, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-15T09:57:00.000+0000</id>
-    <published>2023-07-15T12:01:21Z</published>
-    <updated>2023-07-15T12:01:21Z</updated>
+    <published>2023-07-15T18:03:48Z</published>
+    <updated>2023-07-15T18:03:48Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:02 BST, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 59%, UV Risk: 4, Pollution: Low, Sunrise: 05:02 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-15T09:57:00.000+0000</id>
-    <published>2023-07-15T12:01:21Z</published>
-    <updated>2023-07-15T12:01:21Z</updated>
+    <published>2023-07-15T18:03:48Z</published>
+    <updated>2023-07-15T18:03:48Z</updated>
   </entry>
   <entry>
     <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (71°F)</title>
@@ -37,9 +37,61 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1017mb, Humidity: 62%, UV Risk: 4, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-15T09:57:00.000+0000</id>
-    <published>2023-07-15T12:01:21Z</published>
-    <updated>2023-07-15T12:01:21Z</updated>
+    <published>2023-07-15T18:03:48Z</published>
+    <updated>2023-07-15T18:03:48Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Robins v Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581312/"/>
+    <id>tag:flickr.com,2005:/photo/53046581312</id>
+    <published>2023-07-15T11:43:16Z</published>
+    <updated>2023-07-15T11:43:16Z</updated>
+    <flickr:date_taken>2023-07-11T21:18:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-11T21:18:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53046581312/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53046581312_644037131c_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2023-07-11&lt;/p&gt;
+</content>
+    <author>
+      <name>robinstv</name>
+      <uri>https://www.flickr.com/people/198728458@N03/</uri>
+      <flickr:nsid>198728458@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53046581312_644037131c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Robins v Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047347384/"/>
+    <id>tag:flickr.com,2005:/photo/53047347384</id>
+    <published>2023-07-15T11:43:11Z</published>
+    <updated>2023-07-15T11:43:11Z</updated>
+    <flickr:date_taken>2023-07-11T20:56:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-11T20:56:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53047347384/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53047347384_3464f9e80c_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2023-07-11&lt;/p&gt;
+</content>
+    <author>
+      <name>robinstv</name>
+      <uri>https://www.flickr.com/people/198728458@N03/</uri>
+      <flickr:nsid>198728458@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047347384_3464f9e80c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Robins v Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047650753/"/>
@@ -94,15 +146,15 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Robins v Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047551930/"/>
-    <id>tag:flickr.com,2005:/photo/53047551930</id>
-    <published>2023-07-15T11:43:05Z</published>
-    <updated>2023-07-15T11:43:05Z</updated>
-    <flickr:date_taken>2023-07-11T20:43:34-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-11T20:43:34-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581792/"/>
+    <id>tag:flickr.com,2005:/photo/53046581792</id>
+    <published>2023-07-15T11:43:06Z</published>
+    <updated>2023-07-15T11:43:06Z</updated>
+    <flickr:date_taken>2023-07-11T20:44:34-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-11T20:44:34-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53047551930/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53047551930_dfc01e95d8_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53046581792/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53046581792_508af25c47_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2023-07-11&lt;/p&gt;
 </content>
@@ -112,59 +164,7 @@
       <flickr:nsid>198728458@N03</flickr:nsid>
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047551930_dfc01e95d8_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Robins v Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047552210/"/>
-    <id>tag:flickr.com,2005:/photo/53047552210</id>
-    <published>2023-07-15T11:43:02Z</published>
-    <updated>2023-07-15T11:43:02Z</updated>
-    <flickr:date_taken>2023-07-11T20:24:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-11T20:24:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53047552210/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53047552210_9cca324d45_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2023-07-11&lt;/p&gt;
-</content>
-    <author>
-      <name>robinstv</name>
-      <uri>https://www.flickr.com/people/198728458@N03/</uri>
-      <flickr:nsid>198728458@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047552210_9cca324d45_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Robins v Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581042/"/>
-    <id>tag:flickr.com,2005:/photo/53046581042</id>
-    <published>2023-07-15T11:43:00Z</published>
-    <updated>2023-07-15T11:43:00Z</updated>
-    <flickr:date_taken>2023-07-11T20:16:05-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-11T20:16:05-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53046581042/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53046581042_d531aa0f92_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2023-07-11&lt;/p&gt;
-</content>
-    <author>
-      <name>robinstv</name>
-      <uri>https://www.flickr.com/people/198728458@N03/</uri>
-      <flickr:nsid>198728458@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53046581042_d531aa0f92_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53046581792_508af25c47_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
@@ -176,13 +176,6 @@
     <updated>2023-07-14T14:26:06.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcnhpc3QuY29tL3Ryb3Rza3ktcy13cml0aW5ncy1vbi1icml0YWluLWEtdHJlYXN1cmUtdHJvdmUtb2YtbGVzc29ucy1mb3ItdG9kYXktMi5odG3SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcnhpc3QuY29tL3Ryb3Rza3ktcy13cml0aW5ncy1vbi1icml0YWluLWEtdHJlYXN1cmUtdHJvdmUtb2YtbGVzc29ucy1mb3ItdG9kYXktMi5odG3SAQA?oc=5" target="_blank"&gt;Trotsky's writings on Britain: a treasure trove of lessons for today&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;In Defence of Marxism&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vbmV3cy5yYWlsYnVzaW5lc3NkYWlseS5jb20vbmV0d29yay1yYWlsLXNlYWxzLXBvc3RtYXJrLWJyYW5kLWZvci1pdHMtcmV0YWlsLXBvcnRmb2xpby_SAQA?oc=5</id>
-    <title type="html">Network Rail seals Postmark brand for its retail portfolio ... - RailBusinessDaily</title>
-    <updated>2023-07-14T10:29:44.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbmV3cy5yYWlsYnVzaW5lc3NkYWlseS5jb20vbmV0d29yay1yYWlsLXNlYWxzLXBvc3RtYXJrLWJyYW5kLWZvci1pdHMtcmV0YWlsLXBvcnRmb2xpby_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vbmV3cy5yYWlsYnVzaW5lc3NkYWlseS5jb20vbmV0d29yay1yYWlsLXNlYWxzLXBvc3RtYXJrLWJyYW5kLWZvci1pdHMtcmV0YWlsLXBvcnRmb2xpby_SAQA?oc=5" target="_blank"&gt;Network Rail seals Postmark brand for its retail portfolio ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailBusinessDaily&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXRvLTMzLXdhbmRzd29ydGgtZXN0YWJsaXNobWVudHMtNDIxODYyMtIBAA?oc=5</id>
@@ -204,6 +197,13 @@
     <updated>2023-07-13T17:04:46.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9saXZlLWxvbmRvbi11bmRlcmdyb3VuZC11cGRhdGVzLW11bHRpcGxlLTI3MzE3MzY10gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xpdmUtbG9uZG9uLXVuZGVyZ3JvdW5kLXVwZGF0ZXMtbXVsdGlwbGUtMjczMTczNjUuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9saXZlLWxvbmRvbi11bmRlcmdyb3VuZC11cGRhdGVzLW11bHRpcGxlLTI3MzE3MzY10gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xpdmUtbG9uZG9uLXVuZGVyZ3JvdW5kLXVwZGF0ZXMtbXVsdGlwbGUtMjczMTczNjUuYW1w?oc=5" target="_blank"&gt;Live London Underground updates as multiple lines hit by severe delays causing rush hour chaos&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9ncmVldGluZy1jYXJkLXJldGFpbGVyLXBvc3RtYXJrLW9wZW5zLXN0b3Jlcy1pbi11ay1yYWlsd2F5LXN0YXRpb25zLmh0bWzSAXFodHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjMvMDcvZ3JlZXRpbmctY2FyZC1yZXRhaWxlci1wb3N0bWFyay1vcGVucy1zdG9yZXMtaW4tdWstcmFpbHdheS1zdGF0aW9ucy5odG1sL2FtcA?oc=5</id>
+    <title type="html">Greeting card retailer Postmark opens stores in UK railway stations - RailAdvent - Railway News</title>
+    <updated>2023-07-13T09:43:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9ncmVldGluZy1jYXJkLXJldGFpbGVyLXBvc3RtYXJrLW9wZW5zLXN0b3Jlcy1pbi11ay1yYWlsd2F5LXN0YXRpb25zLmh0bWzSAXFodHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjMvMDcvZ3JlZXRpbmctY2FyZC1yZXRhaWxlci1wb3N0bWFyay1vcGVucy1zdG9yZXMtaW4tdWstcmFpbHdheS1zdGF0aW9ucy5odG1sL2FtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9ncmVldGluZy1jYXJkLXJldGFpbGVyLXBvc3RtYXJrLW9wZW5zLXN0b3Jlcy1pbi11ay1yYWlsd2F5LXN0YXRpb25zLmh0bWzSAXFodHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjMvMDcvZ3JlZXRpbmctY2FyZC1yZXRhaWxlci1wb3N0bWFyay1vcGVucy1zdG9yZXMtaW4tdWstcmFpbHdheS1zdGF0aW9ucy5odG1sL2FtcA?oc=5" target="_blank"&gt;Greeting card retailer Postmark opens stores in UK railway stations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
