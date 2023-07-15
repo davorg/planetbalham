@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-15T00:14:29Z</updated>
+  <updated>2023-07-15T06:04:15Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain Showers, Minimum Temperature: 15°C (59°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1001mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 21:12 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1001mb, Humidity: 72%, UV Risk: 6, Pollution: Low, Sunrise: 05:01 BST, Sunset: 21:12 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-14T19:51:00.000+0000</id>
-    <published>2023-07-15T00:01:18Z</published>
-    <updated>2023-07-15T00:01:18Z</updated>
+    <published>2023-07-15T06:00:01Z</published>
+    <updated>2023-07-15T06:00:01Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Thundery Showers, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (67°F)</title>
+    <title>Sunday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 23mph, Visibility: Good, Pressure: 1001mb, Humidity: 73%, UV Risk: 5, Pollution: Low, Sunrise: 05:02 BST, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:02 BST, Sunset: 21:11 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-14T19:51:00.000+0000</id>
-    <published>2023-07-15T00:01:18Z</published>
-    <updated>2023-07-15T00:01:18Z</updated>
+    <published>2023-07-15T06:00:01Z</published>
+    <updated>2023-07-15T06:00:01Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 21°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1010mb, Humidity: 60%, UV Risk: 4, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 61%, UV Risk: 4, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-14T19:51:00.000+0000</id>
-    <published>2023-07-15T00:01:18Z</published>
-    <updated>2023-07-15T00:01:18Z</updated>
+    <published>2023-07-15T06:00:01Z</published>
+    <updated>2023-07-15T06:00:01Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3Lm1hcnhpc3QuY29tL3Ryb3Rza3ktcy13cml0aW5ncy1vbi1icml0YWluLWEtdHJlYXN1cmUtdHJvdmUtb2YtbGVzc29ucy1mb3ItdG9kYXktMi5odG3SAQA?oc=5</id>
