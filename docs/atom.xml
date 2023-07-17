@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-16T18:04:02Z</updated>
+  <updated>2023-07-17T00:15:29Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (52°F)</title>
+    <id>https://news.google.com/articles/CBMiVWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9jZW50ZW5hcnkvMjAyMy8wNy8xNy90dXJuaW5nLXRoZS1zY3Jld3Mtb24tY3JpbWUtcm9ja2xlYS_SAVlodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvY2VudGVuYXJ5LzIwMjMvMDcvMTcvdHVybmluZy10aGUtc2NyZXdzLW9uLWNyaW1lLXJvY2tsZWEvYW1wLw?oc=5</id>
+    <title type="html">Turning the Screws on Crime, Rocklea - myPolice</title>
+    <updated>2023-07-17T00:10:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9jZW50ZW5hcnkvMjAyMy8wNy8xNy90dXJuaW5nLXRoZS1zY3Jld3Mtb24tY3JpbWUtcm9ja2xlYS_SAVlodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvY2VudGVuYXJ5LzIwMjMvMDcvMTcvdHVybmluZy10aGUtc2NyZXdzLW9uLWNyaW1lLXJvY2tsZWEvYW1wLw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiVWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9jZW50ZW5hcnkvMjAyMy8wNy8xNy90dXJuaW5nLXRoZS1zY3Jld3Mtb24tY3JpbWUtcm9ja2xlYS_SAVlodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvY2VudGVuYXJ5LzIwMjMvMDcvMTcvdHVybmluZy10aGUtc2NyZXdzLW9uLWNyaW1lLXJvY2tsZWEvYW1wLw?oc=5" target="_blank"&gt;Turning the Screws on Crime, Rocklea&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;myPolice&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <title>Tonight: Clear Sky, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1013mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunset: 21:11 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1015mb, Humidity: 90%, UV Risk: 0, Pollution: Low, Sunset: 21:10 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-16T09:51:00.000+0000</id>
-    <published>2023-07-16T18:02:12Z</published>
-    <updated>2023-07-16T18:02:12Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-16T21:56:00.000+0000</id>
+    <published>2023-07-17T00:02:03Z</published>
+    <updated>2023-07-17T00:02:03Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Monday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (53°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 62%, UV Risk: 5, Pollution: Low, Sunrise: 05:03 BST, Sunset: 21:10 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1017mb, Humidity: 61%, UV Risk: 5, Pollution: Low, Sunrise: 05:04 BST, Sunset: 21:08 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-16T09:51:00.000+0000</id>
-    <published>2023-07-16T18:02:12Z</published>
-    <updated>2023-07-16T18:02:12Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-16T21:56:00.000+0000</id>
+    <published>2023-07-17T00:02:03Z</published>
+    <updated>2023-07-17T00:02:03Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 23°C (74°F)</title>
+    <title>Tuesday: Light Rain, Minimum Temperature: 13°C (56°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 57%, UV Risk: 4, Pollution: Low, Sunrise: 05:04 BST, Sunset: 21:08 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1018mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:06 BST, Sunset: 21:07 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-16T09:51:00.000+0000</id>
-    <published>2023-07-16T18:02:12Z</published>
-    <updated>2023-07-16T18:02:12Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-16T21:56:00.000+0000</id>
+    <published>2023-07-17T00:02:03Z</published>
+    <updated>2023-07-17T00:02:03Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Robins v Balham</title>
@@ -197,13 +204,6 @@
     <updated>2023-07-13T17:04:46.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9saXZlLWxvbmRvbi11bmRlcmdyb3VuZC11cGRhdGVzLW11bHRpcGxlLTI3MzE3MzY10gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xpdmUtbG9uZG9uLXVuZGVyZ3JvdW5kLXVwZGF0ZXMtbXVsdGlwbGUtMjczMTczNjUuYW1w?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy96b25lLTEtbmV3cy9saXZlLWxvbmRvbi11bmRlcmdyb3VuZC11cGRhdGVzLW11bHRpcGxlLTI3MzE3MzY10gFgaHR0cHM6Ly93d3cubXlsb25kb24ubmV3cy9uZXdzL3pvbmUtMS1uZXdzL2xpdmUtbG9uZG9uLXVuZGVyZ3JvdW5kLXVwZGF0ZXMtbXVsdGlwbGUtMjczMTczNjUuYW1w?oc=5" target="_blank"&gt;Live London Underground updates as multiple lines hit by severe delays causing rush hour chaos&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9ncmVldGluZy1jYXJkLXJldGFpbGVyLXBvc3RtYXJrLW9wZW5zLXN0b3Jlcy1pbi11ay1yYWlsd2F5LXN0YXRpb25zLmh0bWzSAXFodHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjMvMDcvZ3JlZXRpbmctY2FyZC1yZXRhaWxlci1wb3N0bWFyay1vcGVucy1zdG9yZXMtaW4tdWstcmFpbHdheS1zdGF0aW9ucy5odG1sL2FtcA?oc=5</id>
-    <title type="html">Greeting card retailer Postmark opens stores in UK railway stations - RailAdvent - Railway News</title>
-    <updated>2023-07-13T09:43:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9ncmVldGluZy1jYXJkLXJldGFpbGVyLXBvc3RtYXJrLW9wZW5zLXN0b3Jlcy1pbi11ay1yYWlsd2F5LXN0YXRpb25zLmh0bWzSAXFodHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjMvMDcvZ3JlZXRpbmctY2FyZC1yZXRhaWxlci1wb3N0bWFyay1vcGVucy1zdG9yZXMtaW4tdWstcmFpbHdheS1zdGF0aW9ucy5odG1sL2FtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibWh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9ncmVldGluZy1jYXJkLXJldGFpbGVyLXBvc3RtYXJrLW9wZW5zLXN0b3Jlcy1pbi11ay1yYWlsd2F5LXN0YXRpb25zLmh0bWzSAXFodHRwczovL3d3dy5yYWlsYWR2ZW50LmNvLnVrLzIwMjMvMDcvZ3JlZXRpbmctY2FyZC1yZXRhaWxlci1wb3N0bWFyay1vcGVucy1zdG9yZXMtaW4tdWstcmFpbHdheS1zdGF0aW9ucy5odG1sL2FtcA?oc=5" target="_blank"&gt;Greeting card retailer Postmark opens stores in UK railway stations&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
     <title>2022 in Gigs</title>
