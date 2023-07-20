@@ -7,45 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-19T18:04:16Z</updated>
+  <updated>2023-07-20T00:13:29Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 12°C (54°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 14°C (57°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1016mb, Humidity: 67%, UV Risk: 3, Pollution: Low, Sunset: 21:07 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: North Westerly, Wind Speed: 4mph, Visibility: Good, Pressure: 1016mb, Humidity: 74%, UV Risk: 0, Pollution: Low, Sunset: 21:06 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-19T09:54:00.000+0000</id>
-    <published>2023-07-19T18:00:25Z</published>
-    <updated>2023-07-19T18:00:25Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-19T21:50:00.000+0000</id>
+    <published>2023-07-20T00:04:48Z</published>
+    <updated>2023-07-20T00:04:48Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 12°C (54°F) Maximum Temperature: 22°C (72°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Good, Pressure: 1015mb, Humidity: 54%, UV Risk: 6, Pollution: Low, Sunrise: 05:07 BST, Sunset: 21:06 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1015mb, Humidity: 53%, UV Risk: 5, Pollution: Low, Sunrise: 05:08 BST, Sunset: 21:05 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-19T09:54:00.000+0000</id>
-    <published>2023-07-19T18:00:25Z</published>
-    <updated>2023-07-19T18:00:25Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-19T21:50:00.000+0000</id>
+    <published>2023-07-20T00:04:48Z</published>
+    <updated>2023-07-20T00:04:48Z</updated>
   </entry>
   <entry>
-    <title>Friday: Sunny Intervals, Minimum Temperature: 11°C (53°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Friday: Sunny Intervals, Minimum Temperature: 12°C (53°F) Maximum Temperature: 20°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (53°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1014mb, Humidity: 57%, UV Risk: 5, Pollution: Low, Sunrise: 05:08 BST, Sunset: 21:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 12°C (53°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1014mb, Humidity: 56%, UV Risk: 5, Pollution: Low, Sunrise: 05:10 BST, Sunset: 21:04 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-19T09:54:00.000+0000</id>
-    <published>2023-07-19T18:00:25Z</published>
-    <updated>2023-07-19T18:00:25Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-19T21:50:00.000+0000</id>
+    <published>2023-07-20T00:04:48Z</published>
+    <updated>2023-07-20T00:04:48Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy9wdWItY2x1Yi13ZWxjb21lLWFwcC1hbHJlYWR5LTExNTgzODUwNC5odG1s0gFVaHR0cHM6Ly9jYS5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcHViLWNsdWItd2VsY29tZS1hcHAtYWxyZWFkeS0xMTU4Mzg1MDQuaHRtbA?oc=5</id>
-    <title type="html">Pub Club: Welcome to the app that already knows your new favourite local - Yahoo Canada Finance</title>
+    <id>https://news.google.com/articles/CBMiRmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL3B1Yi1jbHViLXdlbGNvbWUtYXBwLWFscmVhZHktMTE1ODM4NTA0Lmh0bWzSAU5odHRwczovL2NhLnN0eWxlLnlhaG9vLmNvbS9hbXBodG1sL3B1Yi1jbHViLXdlbGNvbWUtYXBwLWFscmVhZHktMTE1ODM4NTA0Lmh0bWw?oc=5</id>
+    <title type="html">Pub Club: Welcome to the app that already knows your new favourite local - Yahoo Canada Shine On</title>
     <updated>2023-07-19T11:58:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy9wdWItY2x1Yi13ZWxjb21lLWFwcC1hbHJlYWR5LTExNTgzODUwNC5odG1s0gFVaHR0cHM6Ly9jYS5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcHViLWNsdWItd2VsY29tZS1hcHAtYWxyZWFkeS0xMTU4Mzg1MDQuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy9wdWItY2x1Yi13ZWxjb21lLWFwcC1hbHJlYWR5LTExNTgzODUwNC5odG1s0gFVaHR0cHM6Ly9jYS5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvcHViLWNsdWItd2VsY29tZS1hcHAtYWxyZWFkeS0xMTU4Mzg1MDQuaHRtbA?oc=5" target="_blank"&gt;Pub Club: Welcome to the app that already knows your new favourite local&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Canada Finance&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL3B1Yi1jbHViLXdlbGNvbWUtYXBwLWFscmVhZHktMTE1ODM4NTA0Lmh0bWzSAU5odHRwczovL2NhLnN0eWxlLnlhaG9vLmNvbS9hbXBodG1sL3B1Yi1jbHViLXdlbGNvbWUtYXBwLWFscmVhZHktMTE1ODM4NTA0Lmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiRmh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL3B1Yi1jbHViLXdlbGNvbWUtYXBwLWFscmVhZHktMTE1ODM4NTA0Lmh0bWzSAU5odHRwczovL2NhLnN0eWxlLnlhaG9vLmNvbS9hbXBodG1sL3B1Yi1jbHViLXdlbGNvbWUtYXBwLWFscmVhZHktMTE1ODM4NTA0Lmh0bWw?oc=5" target="_blank"&gt;Pub Club: Welcome to the app that already knows your new favourite local&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Canada Shine On&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5</id>
