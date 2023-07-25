@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-24T18:07:29Z</updated>
+  <updated>2023-07-25T00:13:39Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (51°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (51°F), Wind Direction: North Easterly, Wind Speed: 8mph, Visibility: Good, Pressure: 1009mb, Humidity: 77%, UV Risk: 2, Pollution: Low, Sunset: 21:01 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: Northerly, Wind Speed: 5mph, Visibility: Good, Pressure: 1009mb, Humidity: 86%, UV Risk: 0, Pollution: Low, Sunset: 21:00 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-24T09:51:00.000+0000</id>
-    <published>2023-07-24T18:01:16Z</published>
-    <updated>2023-07-24T18:01:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-24T21:55:00.000+0000</id>
+    <published>2023-07-25T00:02:40Z</published>
+    <updated>2023-07-25T00:02:40Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Tuesday: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1011mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 05:14 BST, Sunset: 21:00 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (51°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1011mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-24T09:51:00.000+0000</id>
-    <published>2023-07-24T18:01:16Z</published>
-    <updated>2023-07-24T18:01:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-24T21:55:00.000+0000</id>
+    <published>2023-07-25T00:02:40Z</published>
+    <updated>2023-07-25T00:02:40Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Drizzle, Minimum Temperature: 15°C (60°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Wednesday: Drizzle, Minimum Temperature: 16°C (61°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1013mb, Humidity: 64%, UV Risk: 5, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1013mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 05:17 BST, Sunset: 20:57 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-24T09:51:00.000+0000</id>
-    <published>2023-07-24T18:01:16Z</published>
-    <updated>2023-07-24T18:01:16Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-24T21:55:00.000+0000</id>
+    <published>2023-07-25T00:02:40Z</published>
+    <updated>2023-07-25T00:02:40Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5</id>
@@ -48,11 +48,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5" target="_blank"&gt;Steam locomotive 70000 Britannia to depart London this Tuesday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NzU4OTIud2FuZHN3b3J0aC1yZXNpZGVudHMtd2luLXByaXplLXBlb3BsZXMtcG9zdGNvZGUtbG90dGVyeS_SAQA?oc=5</id>
-    <title type="html">Wandsworth residents win prize on People's Postcode Lottery - This is Local London</title>
+    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzNjc1ODkyLndhbmRzd29ydGgtcmVzaWRlbnRzLXdpbi1wcml6ZS1wZW9wbGVzLXBvc3Rjb2RlLWxvdHRlcnkv0gEA?oc=5</id>
+    <title type="html">Wandsworth residents win prize on People's Postcode Lottery - Wandsworth Guardian</title>
     <updated>2023-07-24T12:33:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NzU4OTIud2FuZHN3b3J0aC1yZXNpZGVudHMtd2luLXByaXplLXBlb3BsZXMtcG9zdGNvZGUtbG90dGVyeS_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NzU4OTIud2FuZHN3b3J0aC1yZXNpZGVudHMtd2luLXByaXplLXBlb3BsZXMtcG9zdGNvZGUtbG90dGVyeS_SAQA?oc=5" target="_blank"&gt;Wandsworth residents win prize on People's Postcode Lottery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzNjc1ODkyLndhbmRzd29ydGgtcmVzaWRlbnRzLXdpbi1wcml6ZS1wZW9wbGVzLXBvc3Rjb2RlLWxvdHRlcnkv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LndhbmRzd29ydGhndWFyZGlhbi5jby51ay9uZXdzLzIzNjc1ODkyLndhbmRzd29ydGgtcmVzaWRlbnRzLXdpbi1wcml6ZS1wZW9wbGVzLXBvc3Rjb2RlLWxvdHRlcnkv0gEA?oc=5" target="_blank"&gt;Wandsworth residents win prize on People's Postcode Lottery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wandsworth Guardian&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXR3by0wOTE4NTYzMzAuaHRtbNIBVmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZm9vZC1oeWdpZW5lLXJhdGluZ3MtZ2l2ZW4tdHdvLTA5MTg1NjMzMC5odG1s?oc=5</id>
@@ -154,6 +154,58 @@
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Robins v Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581312/"/>
+    <id>tag:flickr.com,2005:/photo/53046581312</id>
+    <published>2023-07-15T11:43:16Z</published>
+    <updated>2023-07-15T11:43:16Z</updated>
+    <flickr:date_taken>2023-07-11T21:18:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-11T21:18:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53046581312/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53046581312_644037131c_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2023-07-11&lt;/p&gt;
+</content>
+    <author>
+      <name>robinstv</name>
+      <uri>https://www.flickr.com/people/198728458@N03/</uri>
+      <flickr:nsid>198728458@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53046581312_644037131c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Robins v Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047347384/"/>
+    <id>tag:flickr.com,2005:/photo/53047347384</id>
+    <published>2023-07-15T11:43:11Z</published>
+    <updated>2023-07-15T11:43:11Z</updated>
+    <flickr:date_taken>2023-07-11T20:56:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-11T20:56:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53047347384/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53047347384_3464f9e80c_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2023-07-11&lt;/p&gt;
+</content>
+    <author>
+      <name>robinstv</name>
+      <uri>https://www.flickr.com/people/198728458@N03/</uri>
+      <flickr:nsid>198728458@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047347384_3464f9e80c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Robins v Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047650753/"/>
     <id>tag:flickr.com,2005:/photo/53047650753</id>
     <published>2023-07-15T11:43:08Z</published>
@@ -173,58 +225,6 @@
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047650753_ba6ea572cf_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Robins v Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581777/"/>
-    <id>tag:flickr.com,2005:/photo/53046581777</id>
-    <published>2023-07-15T11:43:07Z</published>
-    <updated>2023-07-15T11:43:07Z</updated>
-    <flickr:date_taken>2023-07-11T20:47:30-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-11T20:47:30-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53046581777/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53046581777_b56a7da107_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2023-07-11&lt;/p&gt;
-</content>
-    <author>
-      <name>robinstv</name>
-      <uri>https://www.flickr.com/people/198728458@N03/</uri>
-      <flickr:nsid>198728458@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53046581777_b56a7da107_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Robins v Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047551930/"/>
-    <id>tag:flickr.com,2005:/photo/53047551930</id>
-    <published>2023-07-15T11:43:05Z</published>
-    <updated>2023-07-15T11:43:05Z</updated>
-    <flickr:date_taken>2023-07-11T20:43:34-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-11T20:43:34-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53047551930/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53047551930_dfc01e95d8_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2023-07-11&lt;/p&gt;
-</content>
-    <author>
-      <name>robinstv</name>
-      <uri>https://www.flickr.com/people/198728458@N03/</uri>
-      <flickr:nsid>198728458@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047551930_dfc01e95d8_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
