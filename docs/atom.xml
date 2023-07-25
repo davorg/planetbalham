@@ -7,45 +7,52 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-25T06:04:26Z</updated>
+  <updated>2023-07-25T12:05:12Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Sunny Intervals, Minimum Temperature: 10°C (51°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 10°C (50°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 10°C (51°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:14 BST, Sunset: 21:00 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 10°C (50°F), Wind Direction: Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1010mb, Humidity: 53%, UV Risk: 5, Pollution: Low, Sunrise: 05:14 BST, Sunset: 21:00 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-24T21:55:00.000+0000</id>
-    <published>2023-07-25T06:02:14Z</published>
-    <updated>2023-07-25T06:02:14Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-25T09:49:00.000+0000</id>
+    <published>2023-07-25T12:02:42Z</published>
+    <updated>2023-07-25T12:02:42Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 16°C (60°F) Maximum Temperature: 21°C (71°F)</title>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 16°C (60°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1013mb, Humidity: 59%, UV Risk: 6, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1013mb, Humidity: 58%, UV Risk: 6, Pollution: Low, Sunrise: 05:15 BST, Sunset: 20:58 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-24T21:55:00.000+0000</id>
-    <published>2023-07-25T06:02:14Z</published>
-    <updated>2023-07-25T06:02:14Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-25T09:49:00.000+0000</id>
+    <published>2023-07-25T12:02:42Z</published>
+    <updated>2023-07-25T12:02:42Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain Showers, Minimum Temperature: 16°C (60°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Thursday: Drizzle, Minimum Temperature: 15°C (59°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 88%, UV Risk: 1, Pollution: Low, Sunrise: 05:17 BST, Sunset: 20:57 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 15°C (59°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 86%, UV Risk: 2, Pollution: Low, Sunrise: 05:17 BST, Sunset: 20:57 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-24T21:55:00.000+0000</id>
-    <published>2023-07-25T06:02:14Z</published>
-    <updated>2023-07-25T06:02:14Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-25T09:49:00.000+0000</id>
+    <published>2023-07-25T12:02:42Z</published>
+    <updated>2023-07-25T12:02:42Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5</id>
-    <title type="html">Steam locomotive 70000 Britannia to depart London this Tuesday - RailAdvent - Railway News</title>
-    <updated>2023-07-24T16:01:43.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5" target="_blank"&gt;Steam locomotive 70000 Britannia to depart London this Tuesday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMikgFodHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMy8wNy90b25pZ2h0LWdhbWVzLWRvbnQtZ2V0LWFueS1iaWdnZXItdGhhbi1kdWx3aWNoLWhhbWxldC1hd2F5LXRvLWFyY2gtcml2YWxzLXRvb3RpbmctbWl0Y2hhbS10dWVzLTI1dGgtanVseS0yMDIzL9IBlgFodHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMy8wNy90b25pZ2h0LWdhbWVzLWRvbnQtZ2V0LWFueS1iaWdnZXItdGhhbi1kdWx3aWNoLWhhbWxldC1hd2F5LXRvLWFyY2gtcml2YWxzLXRvb3RpbmctbWl0Y2hhbS10dWVzLTI1dGgtanVseS0yMDIzL2FtcC8?oc=5</id>
+    <title type="html">Tonight! Games don’t get any bigger than Dulwich Hamlet away to arch-rivals Tooting &amp; Mitcham, Tues 25th July 2023 - BrixtonBuzz</title>
+    <updated>2023-07-25T11:08:27.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMikgFodHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMy8wNy90b25pZ2h0LWdhbWVzLWRvbnQtZ2V0LWFueS1iaWdnZXItdGhhbi1kdWx3aWNoLWhhbWxldC1hd2F5LXRvLWFyY2gtcml2YWxzLXRvb3RpbmctbWl0Y2hhbS10dWVzLTI1dGgtanVseS0yMDIzL9IBlgFodHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMy8wNy90b25pZ2h0LWdhbWVzLWRvbnQtZ2V0LWFueS1iaWdnZXItdGhhbi1kdWx3aWNoLWhhbWxldC1hd2F5LXRvLWFyY2gtcml2YWxzLXRvb3RpbmctbWl0Y2hhbS10dWVzLTI1dGgtanVseS0yMDIzL2FtcC8?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMikgFodHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMy8wNy90b25pZ2h0LWdhbWVzLWRvbnQtZ2V0LWFueS1iaWdnZXItdGhhbi1kdWx3aWNoLWhhbWxldC1hd2F5LXRvLWFyY2gtcml2YWxzLXRvb3RpbmctbWl0Y2hhbS10dWVzLTI1dGgtanVseS0yMDIzL9IBlgFodHRwczovL3d3dy5icml4dG9uYnV6ei5jb20vMjAyMy8wNy90b25pZ2h0LWdhbWVzLWRvbnQtZ2V0LWFueS1iaWdnZXItdGhhbi1kdWx3aWNoLWhhbWxldC1hd2F5LXRvLWFyY2gtcml2YWxzLXRvb3RpbmctbWl0Y2hhbS10dWVzLTI1dGgtanVseS0yMDIzL2FtcC8?oc=5" target="_blank"&gt;Tonight! Games don’t get any bigger than Dulwich Hamlet away to arch-rivals Tooting &amp; Mitcham, Tues 25th July 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BrixtonBuzz&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTWh0dHBzOi8vd2lja2VkbGVla3Mucml2ZXJmb3JkLmNvLnVrL2ZlYXR1cmVzL3ZlZ2FuLWNoZWVzZS10aGUtZmluYWwtZnJvbnRpZXIv0gEA?oc=5</id>
+    <title type="html">Vegan cheese: The final frontier - Wicked Leeks - Wicked Leeks</title>
+    <updated>2023-07-25T10:17:06.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd2lja2VkbGVla3Mucml2ZXJmb3JkLmNvLnVrL2ZlYXR1cmVzL3ZlZ2FuLWNoZWVzZS10aGUtZmluYWwtZnJvbnRpZXIv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTWh0dHBzOi8vd2lja2VkbGVla3Mucml2ZXJmb3JkLmNvLnVrL2ZlYXR1cmVzL3ZlZ2FuLWNoZWVzZS10aGUtZmluYWwtZnJvbnRpZXIv0gEA?oc=5" target="_blank"&gt;Vegan cheese: The final frontier - Wicked Leeks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wicked Leeks&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NzU4OTIud2FuZHN3b3J0aC1yZXNpZGVudHMtd2luLXByaXplLXBlb3BsZXMtcG9zdGNvZGUtbG90dGVyeS_SAQA?oc=5</id>
@@ -55,11 +62,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnRoaXNpc2xvY2FsbG9uZG9uLmNvLnVrL25ld3MvMjM2NzU4OTIud2FuZHN3b3J0aC1yZXNpZGVudHMtd2luLXByaXplLXBlb3BsZXMtcG9zdGNvZGUtbG90dGVyeS_SAQA?oc=5" target="_blank"&gt;Wandsworth residents win prize on People's Postcode Lottery&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Local London&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXR3by0wOTE4NTYzMzAuaHRtbNIBVmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZm9vZC1oeWdpZW5lLXJhdGluZ3MtZ2l2ZW4tdHdvLTA5MTg1NjMzMC5odG1s?oc=5</id>
-    <title type="html">Food hygiene ratings given to two Bath and North East Somerset establishments - Yahoo Eurosport UK</title>
-    <updated>2023-07-24T09:18:56.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXR3by0wOTE4NTYzMzAuaHRtbNIBVmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZm9vZC1oeWdpZW5lLXJhdGluZ3MtZ2l2ZW4tdHdvLTA5MTg1NjMzMC5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWdpdmVuLXR3by0wOTE4NTYzMzAuaHRtbNIBVmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZm9vZC1oeWdpZW5lLXJhdGluZ3MtZ2l2ZW4tdHdvLTA5MTg1NjMzMC5odG1s?oc=5" target="_blank"&gt;Food hygiene ratings given to two Bath and North East Somerset establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Eurosport UK&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5</id>
+    <title type="html">Steam locomotive 70000 Britannia to depart London this Tuesday - RailAdvent - Railway News</title>
+    <updated>2023-07-24T10:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiaGh0dHBzOi8vd3d3LnJhaWxhZHZlbnQuY28udWsvMjAyMy8wNy9zdGVhbS1sb2NvbW90aXZlLTcwMDAwLWJyaXRhbm5pYS10by1kZXBhcnQtbG9uZG9uLXRoaXMtdHVlc2RheS5odG1s0gFsaHR0cHM6Ly93d3cucmFpbGFkdmVudC5jby51ay8yMDIzLzA3L3N0ZWFtLWxvY29tb3RpdmUtNzAwMDAtYnJpdGFubmlhLXRvLWRlcGFydC1sb25kb24tdGhpcy10dWVzZGF5Lmh0bWwvYW1w?oc=5" target="_blank"&gt;Steam locomotive 70000 Britannia to depart London this Tuesday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RailAdvent - Railway News&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5</id>
@@ -145,13 +152,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMzI3MDQ3L011cmRlcmVyLXN0YWJiZWQtdmljdGltLTI0LXRpbWVzLWZsZWQtc2NlbmUtYmljeWNsZS1jYXVnaHQtR2F0d2ljay10cnlpbmctbGVhdmUtY291bnRyeS1qYWlsZWQtbGlmZS5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTIzMjcwNDcvYW1wL011cmRlcmVyLXN0YWJiZWQtdmljdGltLTI0LXRpbWVzLWZsZWQtc2NlbmUtYmljeWNsZS1jYXVnaHQtR2F0d2ljay10cnlpbmctbGVhdmUtY291bnRyeS1qYWlsZWQtbGlmZS5odG1s?oc=5</id>
-    <title type="html">Murderer who stabbed victim 24 times then fled the scene on his bicycle only to be caught at Gatwick trying to - Daily Mail</title>
-    <updated>2023-07-22T16:44:58.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMzI3MDQ3L011cmRlcmVyLXN0YWJiZWQtdmljdGltLTI0LXRpbWVzLWZsZWQtc2NlbmUtYmljeWNsZS1jYXVnaHQtR2F0d2ljay10cnlpbmctbGVhdmUtY291bnRyeS1qYWlsZWQtbGlmZS5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTIzMjcwNDcvYW1wL011cmRlcmVyLXN0YWJiZWQtdmljdGltLTI0LXRpbWVzLWZsZWQtc2NlbmUtYmljeWNsZS1jYXVnaHQtR2F0d2ljay10cnlpbmctbGVhdmUtY291bnRyeS1qYWlsZWQtbGlmZS5odG1s?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMimgFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyMzI3MDQ3L011cmRlcmVyLXN0YWJiZWQtdmljdGltLTI0LXRpbWVzLWZsZWQtc2NlbmUtYmljeWNsZS1jYXVnaHQtR2F0d2ljay10cnlpbmctbGVhdmUtY291bnRyeS1qYWlsZWQtbGlmZS5odG1s0gGeAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTIzMjcwNDcvYW1wL011cmRlcmVyLXN0YWJiZWQtdmljdGltLTI0LXRpbWVzLWZsZWQtc2NlbmUtYmljeWNsZS1jYXVnaHQtR2F0d2ljay10cnlpbmctbGVhdmUtY291bnRyeS1qYWlsZWQtbGlmZS5odG1s?oc=5" target="_blank"&gt;Murderer who stabbed victim 24 times then fled the scene on his bicycle only to be caught at Gatwick trying to&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Robins v Balham</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581312/"/>
