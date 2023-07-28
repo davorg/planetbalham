@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-28T12:05:10Z</updated>
+  <updated>2023-07-28T18:03:56Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 14°C (58°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 15°C (58°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 73%, UV Risk: 3, Pollution: Low, Sunrise: 05:18 BST, Sunset: 20:55 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1006mb, Humidity: 82%, UV Risk: 2, Pollution: Low, Sunset: 20:55 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-28T09:55:00.000+0000</id>
-    <published>2023-07-28T12:00:45Z</published>
-    <updated>2023-07-28T12:00:45Z</updated>
+    <published>2023-07-28T17:58:39Z</published>
+    <updated>2023-07-28T17:58:39Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Saturday: Thundery Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1006mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1007mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-28T09:55:00.000+0000</id>
-    <published>2023-07-28T12:00:45Z</published>
-    <updated>2023-07-28T12:00:45Z</updated>
+    <published>2023-07-28T17:58:39Z</published>
+    <updated>2023-07-28T17:58:39Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain, Minimum Temperature: 15°C (60°F) Maximum Temperature: 20°C (67°F)</title>
@@ -37,8 +37,29 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-28T09:55:00.000+0000</id>
-    <published>2023-07-28T12:00:45Z</published>
-    <updated>2023-07-28T12:00:45Z</updated>
+    <published>2023-07-28T17:58:39Z</published>
+    <updated>2023-07-28T17:58:39Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzbW9sZS5jb20vZmxva2ktbGF1bmNoZXMtYWdncmVzc2l2ZS1tYXJrZXRpbmctY2FtcGFpZ24tb24tcmV0dXJuLXRvLWxvbmRvbi_SAQA?oc=5</id>
+    <title type="html">Floki Launches Aggressive Marketing Campaign on Return to London - BusinessMole</title>
+    <updated>2023-07-28T17:40:37.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzbW9sZS5jb20vZmxva2ktbGF1bmNoZXMtYWdncmVzc2l2ZS1tYXJrZXRpbmctY2FtcGFpZ24tb24tcmV0dXJuLXRvLWxvbmRvbi_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzbW9sZS5jb20vZmxva2ktbGF1bmNoZXMtYWdncmVzc2l2ZS1tYXJrZXRpbmctY2FtcGFpZ24tb24tcmV0dXJuLXRvLWxvbmRvbi_SAQA?oc=5" target="_blank"&gt;Floki Launches Aggressive Marketing Campaign on Return to London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BusinessMole&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiKWh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODIvYm1qLnAxNzM40gEA?oc=5</id>
+    <title type="html">Stephen Robert Pritchard - The BMJ</title>
+    <updated>2023-07-28T16:58:56.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiKWh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODIvYm1qLnAxNzM40gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiKWh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODIvYm1qLnAxNzM40gEA?oc=5" target="_blank"&gt;Stephen Robert Pritchard&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The BMJ&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9ob3ctc291dGgtbG9uZG9uLWJvcm91Z2gtY291bGQtMjc0MTczNzLSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvaG93LXNvdXRoLWxvbmRvbi1ib3JvdWdoLWNvdWxkLTI3NDE3MzcyLmFtcA?oc=5</id>
+    <title type="html">London borough could change drastically with 20k homes and bridge over Thames - My London</title>
+    <updated>2023-07-28T15:53:50.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9ob3ctc291dGgtbG9uZG9uLWJvcm91Z2gtY291bGQtMjc0MTczNzLSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvaG93LXNvdXRoLWxvbmRvbi1ib3JvdWdoLWNvdWxkLTI3NDE3MzcyLmFtcA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiWGh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9ob3ctc291dGgtbG9uZG9uLWJvcm91Z2gtY291bGQtMjc0MTczNzLSAVxodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3Mvc291dGgtbG9uZG9uLW5ld3MvaG93LXNvdXRoLWxvbmRvbi1ib3JvdWdoLWNvdWxkLTI3NDE3MzcyLmFtcA?oc=5" target="_blank"&gt;London borough could change drastically with 20k homes and bridge over Thames&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL2Rpc3RyaWN0LTk3LWFubm91bmNlLW5ldy1hbGJ1bS1zdGF5LWZvci10aGUtZW5kaW5n0gEA?oc=5</id>
@@ -50,31 +71,57 @@
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5</id>
     <title type="html">Aldi recruiting 240 to fill vacancies across south London - Inside Croydon</title>
-    <updated>2023-07-28T09:28:21.000000000Z</updated>
+    <updated>2023-07-28T09:28:16.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5" target="_blank"&gt;Aldi recruiting 240 to fill vacancies across south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd2h5LXRoZS1tb3J0Z2FnZS1jcmlzaXMtaGFzbi10LWRldGVycmVkLWZpcnN0LXRpbWUtYnV5ZXJzLWJwbHhtbGdqeNIBAA?oc=5</id>
-    <title type="html">Why the mortgage crisis hasn't deterred first-time buyers - The Times</title>
-    <updated>2023-07-27T23:01:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd2h5LXRoZS1tb3J0Z2FnZS1jcmlzaXMtaGFzbi10LWRldGVycmVkLWZpcnN0LXRpbWUtYnV5ZXJzLWJwbHhtbGdqeNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvd2h5LXRoZS1tb3J0Z2FnZS1jcmlzaXMtaGFzbi10LWRldGVycmVkLWZpcnN0LXRpbWUtYnV5ZXJzLWJwbHhtbGdqeNIBAA?oc=5" target="_blank"&gt;Why the mortgage crisis hasn't deterred first-time buyers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS93aGF0cy1vbi9tZXJjdXJ5LXByaXplLTIwMjMtbG9uZG9uLXNob3J0bGlzdC00MjM0ODQz0gEA?oc=5</id>
-    <title type="html">9 Londoners shortlisted for Mercury Prize 2023 - LondonWorld</title>
-    <updated>2023-07-27T15:34:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS93aGF0cy1vbi9tZXJjdXJ5LXByaXplLTIwMjMtbG9uZG9uLXNob3J0bGlzdC00MjM0ODQz0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS93aGF0cy1vbi9tZXJjdXJ5LXByaXplLTIwMjMtbG9uZG9uLXNob3J0bGlzdC00MjM0ODQz0gEA?oc=5" target="_blank"&gt;9 Londoners shortlisted for Mercury Prize 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;LondonWorld&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnJvbWZvcmRyZWNvcmRlci5jby51ay9uZXdzLzIzNjgzMDkxLmNvcnJvc2l2ZS1zdWJzdGFuY2UtdGhyb3duLXRocmVlLW1lbi1jYW5hcnktd2hhcmYv0gEA?oc=5</id>
-    <title type="html">'Corrosive substance thrown at three men' in Canary Wharf - Romford Recorder</title>
-    <updated>2023-07-27T10:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnJvbWZvcmRyZWNvcmRlci5jby51ay9uZXdzLzIzNjgzMDkxLmNvcnJvc2l2ZS1zdWJzdGFuY2UtdGhyb3duLXRocmVlLW1lbi1jYW5hcnktd2hhcmYv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnJvbWZvcmRyZWNvcmRlci5jby51ay9uZXdzLzIzNjgzMDkxLmNvcnJvc2l2ZS1zdWJzdGFuY2UtdGhyb3duLXRocmVlLW1lbi1jYW5hcnktd2hhcmYv0gEA?oc=5" target="_blank"&gt;'Corrosive substance thrown at three men' in Canary Wharf&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Romford Recorder&lt;/font&gt;</content>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/187325247@N07/53066759578/"/>
+    <id>tag:flickr.com,2005:/photo/53066759578</id>
+    <published>2023-07-23T19:26:11Z</published>
+    <updated>2023-07-23T19:26:11Z</updated>
+    <flickr:date_taken>2023-07-22T12:50:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-22T12:50:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/187325247@N07/"&gt;Ian Ware&amp;#039;s Transport Photography Gallery&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/187325247@N07/53066759578/" title="SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23"&gt;&lt;img src="https://live.staticflickr.com/65535/53066759578_8fa66c625b_m.jpg" width="240" height="160" alt="SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>Ian Ware's Transport Photography Gallery</name>
+      <uri>https://www.flickr.com/people/187325247@N07/</uri>
+      <flickr:nsid>187325247@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/187325247@N07.jpg?1683486183#187325247@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53066759578_8fa66c625b_b.jpg"/>
+    <category term="sn66woc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eh117" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro400mmc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadgroup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="355" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="busroute355" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hybridbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doubledeckerbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cloudy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="redbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="red" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="canoneos1300d" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>July 22nd</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53066278986/"/>
@@ -178,32 +225,6 @@
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047650753_ba6ea572cf_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Robins v Balham</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53046581777/"/>
-    <id>tag:flickr.com,2005:/photo/53046581777</id>
-    <published>2023-07-15T11:43:07Z</published>
-    <updated>2023-07-15T11:43:07Z</updated>
-    <flickr:date_taken>2023-07-11T20:47:30-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-11T20:47:30-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53046581777/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53046581777_b56a7da107_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2023-07-11&lt;/p&gt;
-</content>
-    <author>
-      <name>robinstv</name>
-      <uri>https://www.flickr.com/people/198728458@N03/</uri>
-      <flickr:nsid>198728458@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53046581777_b56a7da107_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
