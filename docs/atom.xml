@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-29T12:04:36Z</updated>
+  <updated>2023-07-29T18:03:58Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 12°C (54°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 12°C (54°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1006mb, Humidity: 58%, UV Risk: 4, Pollution: Low, Sunrise: 05:19 BST, Sunset: 20:54 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 12°C (54°F), Wind Direction: South Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1009mb, Humidity: 70%, UV Risk: 3, Pollution: Low, Sunset: 20:54 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-29T09:55:00.000+0000</id>
-    <published>2023-07-29T12:00:37Z</published>
-    <updated>2023-07-29T12:00:37Z</updated>
+    <published>2023-07-29T18:03:14Z</published>
+    <updated>2023-07-29T18:03:14Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Heavy Rain, Minimum Temperature: 16°C (60°F) Maximum Temperature: 19°C (67°F)</title>
+    <title>Sunday: Light Rain, Minimum Temperature: 16°C (60°F) Maximum Temperature: 20°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 75%, UV Risk: 4, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:52 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (67°F), Minimum Temperature: 16°C (60°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1011mb, Humidity: 73%, UV Risk: 4, Pollution: Low, Sunrise: 05:21 BST, Sunset: 20:52 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-29T09:55:00.000+0000</id>
-    <published>2023-07-29T12:00:37Z</published>
-    <updated>2023-07-29T12:00:37Z</updated>
+    <published>2023-07-29T18:03:14Z</published>
+    <updated>2023-07-29T18:03:14Z</updated>
   </entry>
   <entry>
     <title>Monday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 76%, UV Risk: 4, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-29T09:55:00.000+0000</id>
-    <published>2023-07-29T12:00:37Z</published>
-    <updated>2023-07-29T12:00:37Z</updated>
+    <published>2023-07-29T18:03:14Z</published>
+    <updated>2023-07-29T18:03:14Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiP2h0dHBzOi8vZW4uY2hlc3NiYXNlLmNvbS9wb3N0L3Zpc2l0aW5nLWpvaGFubmVzLXp1a2VydG9ydC1ncmF2ZdIBAA?oc=5</id>
+    <title type="html">Visiting Johannes Zukertort's grave - ChessBase</title>
+    <updated>2023-07-29T13:05:24.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vZW4uY2hlc3NiYXNlLmNvbS9wb3N0L3Zpc2l0aW5nLWpvaGFubmVzLXp1a2VydG9ydC1ncmF2ZdIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiP2h0dHBzOi8vZW4uY2hlc3NiYXNlLmNvbS9wb3N0L3Zpc2l0aW5nLWpvaGFubmVzLXp1a2VydG9ydC1ncmF2ZdIBAA?oc=5" target="_blank"&gt;Visiting Johannes Zukertort's grave&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ChessBase&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>59203 Balham 270723</title>
@@ -66,36 +73,6 @@ The service is an empty aggregates service from Purley where it had been photogr
     <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="class59" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="59203" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>59204 Balham 270723</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/96859208@N07/53078646886/"/>
-    <id>tag:flickr.com,2005:/photo/53078646886</id>
-    <published>2023-07-29T08:22:21Z</published>
-    <updated>2023-07-29T08:22:21Z</updated>
-    <flickr:date_taken>2023-07-27T13:08:08-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-27T13:08:08-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/96859208@N07/"&gt;The KDH archive&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/96859208@N07/53078646886/" title="59204 Balham 270723"&gt;&lt;img src="https://live.staticflickr.com/65535/53078646886_25357d5ac9_m.jpg" width="240" height="180" alt="59204 Balham 270723" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lunch having arrived at the Test Match I left the Bedford Arms to head back to Sutton. On arriving on the down slow platform at Balham Station the indicators were showing the next train may or may not stop! &lt;br /&gt;
-A quick walk south along the platform allowed me to capture 59204 heading south with a loaded aggregates train I guess heading for Purley (time was 13.15).&lt;br /&gt;
-Photo taken I headed back to Sutton on a Dorking service in time to pick up the resumption of play in the test match in the Old Bank Pub outside Sutton Station.&lt;/p&gt;
-</content>
-    <author>
-      <name>The KDH archive</name>
-      <uri>https://www.flickr.com/people/96859208@N07/</uri>
-      <flickr:nsid>96859208@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7299/buddyicons/96859208@N07.jpg?1370198823#96859208@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53078646886_25357d5ac9_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="59204" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="class59" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -154,13 +131,6 @@ Although Balham is the gateway to the south, in 1986 Bedford Hill and the Bedfor
     <updated>2023-07-28T10:15:30.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2Rpc3RyaWN0LTk3LWFubm91bmNlLWFsYnVtLXN0YXktMTAxNTMwMjMxLmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2Rpc3RyaWN0LTk3LWFubm91bmNlLWFsYnVtLXN0YXktMTAxNTMwMjMxLmh0bWzSAQA?oc=5" target="_blank"&gt;District 97 announce new album Stay For The Ending&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Entertainment&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5</id>
-    <title type="html">Aldi recruiting 240 to fill vacancies across south London - Inside Croydon</title>
-    <updated>2023-07-28T09:28:16.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5" target="_blank"&gt;Aldi recruiting 240 to fill vacancies across south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23</title>
@@ -236,6 +206,32 @@ Although Balham is the gateway to the south, in 1986 Bedford Hill and the Bedfor
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sainsburys" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Robins v Balham</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/198728458@N03/53047347384/"/>
+    <id>tag:flickr.com,2005:/photo/53047347384</id>
+    <published>2023-07-15T11:43:11Z</published>
+    <updated>2023-07-15T11:43:11Z</updated>
+    <flickr:date_taken>2023-07-11T20:56:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-11T20:56:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/198728458@N03/"&gt;robinstv&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/198728458@N03/53047347384/" title="Robins v Balham"&gt;&lt;img src="https://live.staticflickr.com/65535/53047347384_3464f9e80c_m.jpg" width="240" height="135" alt="Robins v Balham" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2023-07-11&lt;/p&gt;
+</content>
+    <author>
+      <name>robinstv</name>
+      <uri>https://www.flickr.com/people/198728458@N03/</uri>
+      <flickr:nsid>198728458@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/198728458@N03.jpg?1689320608#198728458@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53047347384_3464f9e80c_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="preseason" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
