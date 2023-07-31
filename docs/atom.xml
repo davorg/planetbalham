@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-31T12:05:21Z</updated>
+  <updated>2023-07-31T18:04:10Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Rain, Minimum Temperature: 13°C (56°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1003mb, Humidity: 72%, UV Risk: 4, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1001mb, Humidity: 81%, UV Risk: 2, Pollution: Low, Sunset: 20:51 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-31T09:55:00.000+0000</id>
-    <published>2023-07-31T12:01:56Z</published>
-    <updated>2023-07-31T12:01:56Z</updated>
+    <published>2023-07-31T17:59:54Z</published>
+    <updated>2023-07-31T17:59:54Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Sunny Intervals, Minimum Temperature: 15°C (59°F) Maximum Temperature: 21°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1002mb, Humidity: 64%, UV Risk: 4, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1002mb, Humidity: 63%, UV Risk: 4, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-31T09:55:00.000+0000</id>
-    <published>2023-07-31T12:01:56Z</published>
-    <updated>2023-07-31T12:01:56Z</updated>
+    <published>2023-07-31T17:59:54Z</published>
+    <updated>2023-07-31T17:59:54Z</updated>
   </entry>
   <entry>
     <title>Wednesday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,15 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 989mb, Humidity: 83%, UV Risk: 3, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-31T09:55:00.000+0000</id>
-    <published>2023-07-31T12:01:56Z</published>
-    <updated>2023-07-31T12:01:56Z</updated>
+    <published>2023-07-31T17:59:54Z</published>
+    <updated>2023-07-31T17:59:54Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8zMS93aGVyZS1kb2VzLXJpc2hpLXN1bmFrLXN0YW5kLW9uLXRoZS1uZXQtemVyby1pbml0aWF0aXZlLTE5MjIyMzQ4L9IBZGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8zMS93aGVyZS1kb2VzLXJpc2hpLXN1bmFrLXN0YW5kLW9uLXRoZS1uZXQtemVyby1pbml0aWF0aXZlLTE5MjIyMzQ4L2FtcC8?oc=5</id>
+    <title type="html">Where does Rishi Sunak stand on the net zero initiative? - Metro.co.uk</title>
+    <updated>2023-07-31T17:45:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8zMS93aGVyZS1kb2VzLXJpc2hpLXN1bmFrLXN0YW5kLW9uLXRoZS1uZXQtemVyby1pbml0aWF0aXZlLTE5MjIyMzQ4L9IBZGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8zMS93aGVyZS1kb2VzLXJpc2hpLXN1bmFrLXN0YW5kLW9uLXRoZS1uZXQtemVyby1pbml0aWF0aXZlLTE5MjIyMzQ4L2FtcC8?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8zMS93aGVyZS1kb2VzLXJpc2hpLXN1bmFrLXN0YW5kLW9uLXRoZS1uZXQtemVyby1pbml0aWF0aXZlLTE5MjIyMzQ4L9IBZGh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8zMS93aGVyZS1kb2VzLXJpc2hpLXN1bmFrLXN0YW5kLW9uLXRoZS1uZXQtemVyby1pbml0aWF0aXZlLTE5MjIyMzQ4L2FtcC8?oc=5" target="_blank"&gt;Where does Rishi Sunak stand on the net zero initiative?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8zMS9mYS1jdXAtY3JveWRvbi1hdGgtdi1zdXR0b24tYXRoLW1heWZpZWxkLXN0YWRpdW0tYXVnLTYv0gFgaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzMxL2ZhLWN1cC1jcm95ZG9uLWF0aC12LXN1dHRvbi1hdGgtbWF5ZmllbGQtc3RhZGl1bS1hdWctNi9hbXAv?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-07-31T07:58:57.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LnllbGxvd2FkLmNvLnVrL2VtaXJhdGVzLWZhLWN1cC1leHRyYS1wcmVsaW1pbmFyeS1yb3VuZC1maXh0dXJlcy1mcmlkYXktc2F0dXJkYXktc3VuZGF5LWF1Z3VzdC00LTUtNi_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vd3d3LnllbGxvd2FkLmNvLnVrL2VtaXJhdGVzLWZhLWN1cC1leHRyYS1wcmVsaW1pbmFyeS1yb3VuZC1maXh0dXJlcy1mcmlkYXktc2F0dXJkYXktc3VuZGF5LWF1Z3VzdC00LTUtNi_SAQA?oc=5" target="_blank"&gt;Emirates FA Cup Extra Preliminary Round - Fixtures - Friday ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yellow Advertiser&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL3VrLW5ld3MvMjktbm90b3Jpb3VzLWNyaW1pbmFscy1qYWlsZWQtdWstMjc0MjM5NjPSAWJodHRwczovL3d3dy5tYW5jaGVzdGVyZXZlbmluZ25ld3MuY28udWsvbmV3cy91ay1uZXdzLzI5LW5vdG9yaW91cy1jcmltaW5hbHMtamFpbGVkLXVrLTI3NDIzOTYzLmFtcA?oc=5</id>
-    <title type="html">29 notorious criminals jailed in the UK in July - Manchester Evening News</title>
-    <updated>2023-07-31T06:45:21.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL3VrLW5ld3MvMjktbm90b3Jpb3VzLWNyaW1pbmFscy1qYWlsZWQtdWstMjc0MjM5NjPSAWJodHRwczovL3d3dy5tYW5jaGVzdGVyZXZlbmluZ25ld3MuY28udWsvbmV3cy91ay1uZXdzLzI5LW5vdG9yaW91cy1jcmltaW5hbHMtamFpbGVkLXVrLTI3NDIzOTYzLmFtcA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3Lm1hbmNoZXN0ZXJldmVuaW5nbmV3cy5jby51ay9uZXdzL3VrLW5ld3MvMjktbm90b3Jpb3VzLWNyaW1pbmFscy1qYWlsZWQtdWstMjc0MjM5NjPSAWJodHRwczovL3d3dy5tYW5jaGVzdGVyZXZlbmluZ25ld3MuY28udWsvbmV3cy91ay1uZXdzLzI5LW5vdG9yaW91cy1jcmltaW5hbHMtamFpbGVkLXVrLTI3NDIzOTYzLmFtcA?oc=5" target="_blank"&gt;29 notorious criminals jailed in the UK in July&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Manchester Evening News&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>59203 Balham 270723</title>
