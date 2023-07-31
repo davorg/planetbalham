@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-07-30T18:04:16Z</updated>
+  <updated>2023-07-31T00:12:57Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Thundery Showers, Minimum Temperature: 15°C (60°F)</title>
+    <title>Tonight: Light Rain, Minimum Temperature: 16°C (61°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Moderate, Pressure: 1009mb, Humidity: 91%, UV Risk: 1, Pollution: Low, Sunset: 20:52 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (61°F), Wind Direction: South Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1008mb, Humidity: 91%, UV Risk: 0, Pollution: Low, Sunset: 20:51 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-30T07:51:00.000+0000</id>
-    <published>2023-07-30T17:59:42Z</published>
-    <updated>2023-07-30T17:59:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-07-30T21:54:00.000+0000</id>
+    <published>2023-07-31T00:05:33Z</published>
+    <updated>2023-07-31T00:05:33Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain Showers, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
+    <title>Monday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1006mb, Humidity: 78%, UV Risk: 4, Pollution: Low, Sunrise: 05:22 BST, Sunset: 20:51 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1005mb, Humidity: 78%, UV Risk: 4, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-30T07:51:00.000+0000</id>
-    <published>2023-07-30T17:59:42Z</published>
-    <updated>2023-07-30T17:59:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-07-30T21:54:00.000+0000</id>
+    <published>2023-07-31T00:05:33Z</published>
+    <updated>2023-07-31T00:05:33Z</updated>
   </entry>
   <entry>
-    <title>Tuesday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Tuesday: Light Rain Showers, Minimum Temperature: 15°C (58°F) Maximum Temperature: 21°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 14°C (57°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1003mb, Humidity: 71%, UV Risk: 4, Pollution: Low, Sunrise: 05:24 BST, Sunset: 20:49 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (71°F), Minimum Temperature: 15°C (58°F), Wind Direction: Westerly, Wind Speed: 13mph, Visibility: Good, Pressure: 1003mb, Humidity: 66%, UV Risk: 4, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-30T07:51:00.000+0000</id>
-    <published>2023-07-30T17:59:42Z</published>
-    <updated>2023-07-30T17:59:42Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-07-30T21:54:00.000+0000</id>
+    <published>2023-07-31T00:05:33Z</published>
+    <updated>2023-07-31T00:05:33Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS9uZXdzL3dhbmRzd29ydGgtbG9jYWwtcGxhbi0yMDAwMC1uZXctaG9tZXMtaW1wcm92ZWQtY2xhcGhhbS1qdW5jdGlvbi1zdGF0aW9uLTQyMzY5OTDSAQA?oc=5</id>
@@ -149,18 +149,18 @@ Although Balham is the gateway to the south, in 1986 Bedford Hill and the Bedfor
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzbW9sZS5jb20vZmxva2ktbGF1bmNoZXMtYWdncmVzc2l2ZS1tYXJrZXRpbmctY2FtcGFpZ24tb24tcmV0dXJuLXRvLWxvbmRvbi_SAQA?oc=5" target="_blank"&gt;Floki Launches Aggressive Marketing Campaign on Return to London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BusinessMole&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiKWh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODIvYm1qLnAxNzM40gEA?oc=5</id>
-    <title type="html">Stephen Robert Pritchard - The BMJ</title>
-    <updated>2023-07-28T16:58:56.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiKWh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODIvYm1qLnAxNzM40gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiKWh0dHBzOi8vd3d3LmJtai5jb20vY29udGVudC8zODIvYm1qLnAxNzM40gEA?oc=5" target="_blank"&gt;Stephen Robert Pritchard&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The BMJ&lt;/font&gt;</content>
-  </entry>
-  <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2Rpc3RyaWN0LTk3LWFubm91bmNlLWFsYnVtLXN0YXktMTAxNTMwMjMxLmh0bWzSAQA?oc=5</id>
     <title type="html">District 97 announce new album Stay For The Ending - Yahoo Entertainment</title>
     <updated>2023-07-28T10:15:30.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2Rpc3RyaWN0LTk3LWFubm91bmNlLWFsYnVtLXN0YXktMTAxNTMwMjMxLmh0bWzSAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2Rpc3RyaWN0LTk3LWFubm91bmNlLWFsYnVtLXN0YXktMTAxNTMwMjMxLmh0bWzSAQA?oc=5" target="_blank"&gt;District 97 announce new album Stay For The Ending&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Entertainment&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5</id>
+    <title type="html">Aldi recruiting 240 to fill vacancies across south London - Inside Croydon</title>
+    <updated>2023-07-28T09:28:16.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8yOC9hbGRpLXJlY3J1aXRpbmctMjQwLXRvLWZpbGwtdmFjYW5jaWVzLWFjcm9zcy1zb3V0aC1sb25kb24v0gFjaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA3LzI4L2FsZGktcmVjcnVpdGluZy0yNDAtdG8tZmlsbC12YWNhbmNpZXMtYWNyb3NzLXNvdXRoLWxvbmRvbi9hbXAv?oc=5" target="_blank"&gt;Aldi recruiting 240 to fill vacancies across south London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23</title>
