@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-02T00:12:25Z</updated>
+  <updated>2023-08-02T06:04:02Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Heavy Rain, Minimum Temperature: 15°C (59°F)</title>
+    <title>Today: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (59°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 993mb, Humidity: 94%, UV Risk: 0, Pollution: Low, Sunset: 20:47 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 987mb, Humidity: 87%, UV Risk: 3, Pollution: Low, Sunrise: 05:25 BST, Sunset: 20:47 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-01T21:51:00.000+0000</id>
-    <published>2023-08-02T00:00:22Z</published>
-    <updated>2023-08-02T00:00:22Z</updated>
+    <published>2023-08-02T06:02:03Z</published>
+    <updated>2023-08-02T06:02:03Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Thundery Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 19°C (65°F)</title>
+    <title>Thursday: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Moderate, Pressure: 988mb, Humidity: 87%, UV Risk: 3, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1005mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-01T21:51:00.000+0000</id>
-    <published>2023-08-02T00:00:22Z</published>
-    <updated>2023-08-02T00:00:22Z</updated>
+    <published>2023-08-02T06:02:03Z</published>
+    <updated>2023-08-02T06:02:03Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Friday: Light Rain Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 19°C (66°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 11mph, Visibility: Good, Pressure: 1005mb, Humidity: 68%, UV Risk: 3, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 11°C (52°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 76%, UV Risk: 2, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-01T21:51:00.000+0000</id>
-    <published>2023-08-02T00:00:22Z</published>
-    <updated>2023-08-02T00:00:22Z</updated>
+    <published>2023-08-02T06:02:03Z</published>
+    <updated>2023-08-02T06:02:03Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2hvbWVzYW5kcHJvcGVydHkvd2hlcmUtdG8tbGl2ZS9sb25kb24tY3JlYXRpdmUtcXVhcnRlcnMtaGlnaC1zdHJlZXRzLXZpbGxhZ2VzLXdmaC1iMTA5Nzk5Mi5odG1s0gEA?oc=5</id>
+    <title type="html">London’s creative quarters: the prized high streets and villages ... - Evening Standard</title>
+    <updated>2023-08-02T05:00:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiemh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2hvbWVzYW5kcHJvcGVydHkvd2hlcmUtdG8tbGl2ZS9sb25kb24tY3JlYXRpdmUtcXVhcnRlcnMtaGlnaC1zdHJlZXRzLXZpbGxhZ2VzLXdmaC1iMTA5Nzk5Mi5odG1s0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiemh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2hvbWVzYW5kcHJvcGVydHkvd2hlcmUtdG8tbGl2ZS9sb25kb24tY3JlYXRpdmUtcXVhcnRlcnMtaGlnaC1zdHJlZXRzLXZpbGxhZ2VzLXdmaC1iMTA5Nzk5Mi5odG1s0gEA?oc=5" target="_blank"&gt;London’s creative quarters: the prized high streets and villages ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vc2NmbC1wcmVtaWVyLXN0ZXluaW5nLWxpdHRsZS1jb21ub24tMDY1MjIyNTk4Lmh0bWzSAVRodHRwczovL3VrLm5ld3MueWFob28uY29tL2FtcGh0bWwvc2NmbC1wcmVtaWVyLXN0ZXluaW5nLWxpdHRsZS1jb21ub24tMDY1MjIyNTk4Lmh0bWw?oc=5</id>
@@ -67,13 +74,6 @@
     <updated>2023-07-31T09:47:49.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8zMS9mYS1jdXAtY3JveWRvbi1hdGgtdi1zdXR0b24tYXRoLW1heWZpZWxkLXN0YWRpdW0tYXVnLTYv0gGlAWh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8zMS9mYS1jdXAtY3JveWRvbi1hdGgtdi1zdXR0b24tYXRoLW1heWZpZWxkLXN0YWRpdW0tYXVnLTYvP2ZiY2xpZD1Jd0FSMFNTaTBSNHcyeVZja2lHZG9jWjRCeElJblZMaW5kRWI1RDl3dkk1dVZ5RE5Jem5EbTVNZGJkclQwJmFtcA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiXGh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8zMS9mYS1jdXAtY3JveWRvbi1hdGgtdi1zdXR0b24tYXRoLW1heWZpZWxkLXN0YWRpdW0tYXVnLTYv0gGlAWh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wNy8zMS9mYS1jdXAtY3JveWRvbi1hdGgtdi1zdXR0b24tYXRoLW1heWZpZWxkLXN0YWRpdW0tYXVnLTYvP2ZiY2xpZD1Jd0FSMFNTaTBSNHcyeVZja2lHZG9jWjRCeElJblZMaW5kRWI1RDl3dkk1dVZ5RE5Jem5EbTVNZGJkclQwJmFtcA?oc=5" target="_blank"&gt;FA Cup: Croydon Ath v Sutton Ath, Mayfield Stadium, Aug 6&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm9vZC1oeWdpZW5lLXJhdGluZ3MtaGFuZGVkLTI2LTA5MTIzNDU0OS5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC0yNi0wOTEyMzQ1NDkuaHRtbA?oc=5</id>
-    <title type="html">Food hygiene ratings handed to 26 Wandsworth establishments - Yahoo News UK</title>
-    <updated>2023-07-31T09:12:34.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm9vZC1oeWdpZW5lLXJhdGluZ3MtaGFuZGVkLTI2LTA5MTIzNDU0OS5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC0yNi0wOTEyMzQ1NDkuaHRtbA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiR2h0dHBzOi8vdWsubmV3cy55YWhvby5jb20vZm9vZC1oeWdpZW5lLXJhdGluZ3MtaGFuZGVkLTI2LTA5MTIzNDU0OS5odG1s0gFPaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC0yNi0wOTEyMzQ1NDkuaHRtbA?oc=5" target="_blank"&gt;Food hygiene ratings handed to 26 Wandsworth establishments&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>59203 Balham 270723</title>
