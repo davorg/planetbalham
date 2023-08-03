@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-03T06:03:45Z</updated>
+  <updated>2023-08-03T12:04:37Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (68°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1005mb, Humidity: 65%, UV Risk: 4, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 10mph, Visibility: Good, Pressure: 1007mb, Humidity: 56%, UV Risk: 3, Pollution: Low, Sunrise: 05:27 BST, Sunset: 20:46 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-02T21:54:00.000+0000</id>
-    <published>2023-08-03T06:02:32Z</published>
-    <updated>2023-08-03T06:02:32Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-03T09:54:00.000+0000</id>
+    <published>2023-08-03T12:03:26Z</published>
+    <updated>2023-08-03T12:03:26Z</updated>
   </entry>
   <entry>
-    <title>Friday: Light Rain Showers, Minimum Temperature: 12°C (53°F) Maximum Temperature: 19°C (66°F)</title>
+    <title>Friday: Light Rain Showers, Minimum Temperature: 12°C (54°F) Maximum Temperature: 19°C (67°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 12°C (53°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 76%, UV Risk: 3, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (67°F), Minimum Temperature: 12°C (54°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1017mb, Humidity: 76%, UV Risk: 3, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-02T21:54:00.000+0000</id>
-    <published>2023-08-03T06:02:32Z</published>
-    <updated>2023-08-03T06:02:32Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-03T09:54:00.000+0000</id>
+    <published>2023-08-03T12:03:26Z</published>
+    <updated>2023-08-03T12:03:26Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Thundery Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 16°C (61°F)</title>
+    <title>Saturday: Thundery Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 17°C (62°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 16°C (61°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1007mb, Humidity: 87%, UV Risk: 2, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:42 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 86%, UV Risk: 3, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:42 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-02T21:54:00.000+0000</id>
-    <published>2023-08-03T06:02:32Z</published>
-    <updated>2023-08-03T06:02:32Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-03T09:54:00.000+0000</id>
+    <published>2023-08-03T12:03:26Z</published>
+    <updated>2023-08-03T12:03:26Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMicGh0dHBzOi8vamFtYmFuZHMuY29tL25ld3MvMjAyMy8wOC8wMi9ub2FoLWxlaHJtYW4tZW1iYXJrcy1vbi1zdW1tZXItZmFsbC1mZXN0aXZhbC10b3VyLWFjcm9zcy10aGUtcG9uZC1hbmQtYmFjay_SAQA?oc=5</id>
@@ -88,11 +88,11 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM2OTY4NzYuZ3JlYXQtdGFzdGUtYXdhcmRzLTIwMjMtc291dGgtbG9uZG9uLWJ1c2luZXNzZXMtZ2l2ZW4tdGhyZWUtc3RhcnMv0gEA?oc=5" target="_blank"&gt;Great Taste Awards 2023: South London businesses given three stars&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3RoZS1lbWVyYWxkLWRhd24tdGVhc2UtbmV3LWFsYnVtLWluLXRpbWXSAQA?oc=5</id>
-    <title type="html">The Emerald Dawn tease new album In Time - Louder</title>
+    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2VtZXJhbGQtZGF3bi10ZWFzZS1hbGJ1bS10aW1lLTEyNTIxMDcwNy5odG1s0gEA?oc=5</id>
+    <title type="html">The Emerald Dawn tease new album In Time - Yahoo Entertainment</title>
     <updated>2023-08-02T12:52:10.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3RoZS1lbWVyYWxkLWRhd24tdGVhc2UtbmV3LWFsYnVtLWluLXRpbWXSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiSWh0dHBzOi8vd3d3LmxvdWRlcnNvdW5kLmNvbS9uZXdzL3RoZS1lbWVyYWxkLWRhd24tdGVhc2UtbmV3LWFsYnVtLWluLXRpbWXSAQA?oc=5" target="_blank"&gt;The Emerald Dawn tease new album In Time&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Louder&lt;/font&gt;</content>
+    <link href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2VtZXJhbGQtZGF3bi10ZWFzZS1hbGJ1bS10aW1lLTEyNTIxMDcwNy5odG1s0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2VtZXJhbGQtZGF3bi10ZWFzZS1hbGJ1bS10aW1lLTEyNTIxMDcwNy5odG1s0gEA?oc=5" target="_blank"&gt;The Emerald Dawn tease new album In Time&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Entertainment&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiemh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2hvbWVzYW5kcHJvcGVydHkvd2hlcmUtdG8tbGl2ZS9sb25kb24tY3JlYXRpdmUtcXVhcnRlcnMtaGlnaC1zdHJlZXRzLXZpbGxhZ2VzLXdmaC1iMTA5Nzk5Mi5odG1s0gEA?oc=5</id>
