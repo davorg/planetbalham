@@ -7,28 +7,28 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-04T12:04:30Z</updated>
+  <updated>2023-08-04T18:03:37Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Light Cloud, Minimum Temperature: 13°C (55°F) Maximum Temperature: 20°C (69°F)</title>
+    <title>Tonight: Light Rain Showers, Minimum Temperature: 13°C (55°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (69°F), Minimum Temperature: 13°C (55°F), Wind Direction: North Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1018mb, Humidity: 65%, UV Risk: 3, Pollution: Low, Sunrise: 05:28 BST, Sunset: 20:44 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1016mb, Humidity: 70%, UV Risk: 2, Pollution: Low, Sunset: 20:44 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-04T09:51:00.000+0000</id>
-    <published>2023-08-04T11:59:07Z</published>
-    <updated>2023-08-04T11:59:07Z</updated>
+    <published>2023-08-04T18:00:22Z</published>
+    <updated>2023-08-04T18:00:22Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Thundery Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 17°C (62°F)</title>
+    <title>Saturday: Thundery Showers, Minimum Temperature: 11°C (52°F) Maximum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (62°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1005mb, Humidity: 88%, UV Risk: 3, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:42 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 17°C (63°F), Minimum Temperature: 11°C (52°F), Wind Direction: Southerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1006mb, Humidity: 88%, UV Risk: 3, Pollution: Low, Sunrise: 05:30 BST, Sunset: 20:42 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-04T09:51:00.000+0000</id>
-    <published>2023-08-04T11:59:07Z</published>
-    <updated>2023-08-04T11:59:07Z</updated>
+    <published>2023-08-04T18:00:22Z</published>
+    <updated>2023-08-04T18:00:22Z</updated>
   </entry>
   <entry>
     <title>Sunday: Light Rain Showers, Minimum Temperature: 9°C (49°F) Maximum Temperature: 19°C (66°F)</title>
@@ -37,8 +37,22 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (66°F), Minimum Temperature: 9°C (49°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1017mb, Humidity: 67%, UV Risk: 5, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:41 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-04T09:51:00.000+0000</id>
-    <published>2023-08-04T11:59:07Z</published>
-    <updated>2023-08-04T11:59:07Z</updated>
+    <published>2023-08-04T18:00:22Z</published>
+    <updated>2023-08-04T18:00:22Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wOC8wNC9hdGhsZXRpYy1ob3BpbmctdGhlaXItbmV3LXNlYXNvbi13aWxsLWdvLWRvd24tYS1yZWFsLXN0b3Jtenkv0gFmaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA4LzA0L2F0aGxldGljLWhvcGluZy10aGVpci1uZXctc2Vhc29uLXdpbGwtZ28tZG93bi1hLXJlYWwtc3Rvcm16eS9hbXAv?oc=5</id>
+    <title type="html">Athletic hoping their new season will go down a real Stormzy - Inside Croydon</title>
+    <updated>2023-08-04T15:13:04.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wOC8wNC9hdGhsZXRpYy1ob3BpbmctdGhlaXItbmV3LXNlYXNvbi13aWxsLWdvLWRvd24tYS1yZWFsLXN0b3Jtenkv0gFmaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA4LzA0L2F0aGxldGljLWhvcGluZy10aGVpci1uZXctc2Vhc29uLXdpbGwtZ28tZG93bi1hLXJlYWwtc3Rvcm16eS9hbXAv?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vaW5zaWRlY3JveWRvbi5jb20vMjAyMy8wOC8wNC9hdGhsZXRpYy1ob3BpbmctdGhlaXItbmV3LXNlYXNvbi13aWxsLWdvLWRvd24tYS1yZWFsLXN0b3Jtenkv0gFmaHR0cHM6Ly9pbnNpZGVjcm95ZG9uLmNvbS8yMDIzLzA4LzA0L2F0aGxldGljLWhvcGluZy10aGVpci1uZXctc2Vhc29uLXdpbGwtZ28tZG93bi1hLXJlYWwtc3Rvcm16eS9hbXAv?oc=5" target="_blank"&gt;Athletic hoping their new season will go down a real Stormzy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Inside Croydon&lt;/font&gt;</content>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiZmh0dHBzOi8vZm9vdGJhbGxpbmJlcmtzaGlyZS5jby51ay9uZXdzL2Zvb3RiYWxsLW5ld3MvNzUzMDAvZnVsbC0yMDIzLTI0LWZhLWN1cC1wcmVsaW1pbmFyeS1yb3VuZC1kcmF3L9IBAA?oc=5</id>
+    <title type="html">Full 2023/24 FA Cup Preliminary Round draw - Football in Berkshire</title>
+    <updated>2023-08-04T12:11:51.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vZm9vdGJhbGxpbmJlcmtzaGlyZS5jby51ay9uZXdzL2Zvb3RiYWxsLW5ld3MvNzUzMDAvZnVsbC0yMDIzLTI0LWZhLWN1cC1wcmVsaW1pbmFyeS1yb3VuZC1kcmF3L9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZmh0dHBzOi8vZm9vdGJhbGxpbmJlcmtzaGlyZS5jby51ay9uZXdzL2Zvb3RiYWxsLW5ld3MvNzUzMDAvZnVsbC0yMDIzLTI0LWZhLWN1cC1wcmVsaW1pbmFyeS1yb3VuZC1kcmF3L9IBAA?oc=5" target="_blank"&gt;Full 2023/24 FA Cup Preliminary Round draw&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Football in Berkshire&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmxvbmRvbndvcmxkLmNvbS95b3VyLWxvbmRvbi93YW5kc3dvcnRoL2Zvb2QtaHlnaWVuZS1yYXRpbmdzLWhhbmRlZC10by1zZXZlbi13YW5kc3dvcnRoLWVzdGFibGlzaG1lbnRzLTQyNDMyMzjSAQA?oc=5</id>
@@ -53,13 +67,6 @@
     <updated>2023-08-03T15:07:32.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiQmh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1icmluZ3MtdGhlLWJlc3Qtb2YtaXRhbHktdG8tYmFsaGFtL9IBRmh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1icmluZ3MtdGhlLWJlc3Qtb2YtaXRhbHktdG8tYmFsaGFtL2FtcC8?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiQmh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1icmluZ3MtdGhlLWJlc3Qtb2YtaXRhbHktdG8tYmFsaGFtL9IBRmh0dHBzOi8vd3d3LnJsaS51ay5jb20vYmFkaWFuaS1icmluZ3MtdGhlLWJlc3Qtb2YtaXRhbHktdG8tYmFsaGFtL2FtcC8?oc=5" target="_blank"&gt;Badiani Brings the Best of Italy to Balham&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Retail &amp; Leisure International&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMicGh0dHBzOi8vamFtYmFuZHMuY29tL25ld3MvMjAyMy8wOC8wMi9ub2FoLWxlaHJtYW4tZW1iYXJrcy1vbi1zdW1tZXItZmFsbC1mZXN0aXZhbC10b3VyLWFjcm9zcy10aGUtcG9uZC1hbmQtYmFjay_SAQA?oc=5</id>
-    <title type="html">Noah Lehrman Embarks on Summer/Fall Festival Tour Across the ... - jambands.com</title>
-    <updated>2023-08-03T03:44:16.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vamFtYmFuZHMuY29tL25ld3MvMjAyMy8wOC8wMi9ub2FoLWxlaHJtYW4tZW1iYXJrcy1vbi1zdW1tZXItZmFsbC1mZXN0aXZhbC10b3VyLWFjcm9zcy10aGUtcG9uZC1hbmQtYmFjay_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMicGh0dHBzOi8vamFtYmFuZHMuY29tL25ld3MvMjAyMy8wOC8wMi9ub2FoLWxlaHJtYW4tZW1iYXJrcy1vbi1zdW1tZXItZmFsbC1mZXN0aXZhbC10b3VyLWFjcm9zcy10aGUtcG9uZC1hbmQtYmFjay_SAQA?oc=5" target="_blank"&gt;Noah Lehrman Embarks on Summer/Fall Festival Tour Across the ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;jambands.com&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>August 1st</title>
@@ -100,13 +107,6 @@
     <updated>2023-08-02T16:00:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM2OTY4NzYuZ3JlYXQtdGFzdGUtYXdhcmRzLTIwMjMtc291dGgtbG9uZG9uLWJ1c2luZXNzZXMtZ2l2ZW4tdGhyZWUtc3RhcnMv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMibmh0dHBzOi8vd3d3Lm5ld3NzaG9wcGVyLmNvLnVrL25ld3MvMjM2OTY4NzYuZ3JlYXQtdGFzdGUtYXdhcmRzLTIwMjMtc291dGgtbG9uZG9uLWJ1c2luZXNzZXMtZ2l2ZW4tdGhyZWUtc3RhcnMv0gEA?oc=5" target="_blank"&gt;Great Taste Awards 2023: South London businesses given three stars&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News Shopper&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2VtZXJhbGQtZGF3bi10ZWFzZS1hbGJ1bS10aW1lLTEyNTIxMDcwNy5odG1s0gEA?oc=5</id>
-    <title type="html">The Emerald Dawn tease new album In Time - Yahoo Entertainment</title>
-    <updated>2023-08-02T12:52:10.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2VtZXJhbGQtZGF3bi10ZWFzZS1hbGJ1bS10aW1lLTEyNTIxMDcwNy5odG1s0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2VtZXJhbGQtZGF3bi10ZWFzZS1hbGJ1bS10aW1lLTEyNTIxMDcwNy5odG1s0gEA?oc=5" target="_blank"&gt;The Emerald Dawn tease new album In Time&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Entertainment&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>59203 Balham 270723</title>
