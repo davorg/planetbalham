@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-05T18:03:50Z</updated>
+  <updated>2023-08-06T00:12:45Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Light Rain, Minimum Temperature: 11°C (51°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 11°C (52°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (51°F), Wind Direction: North Westerly, Wind Speed: 16mph, Visibility: Moderate, Pressure: 1010mb, Humidity: 87%, UV Risk: 2, Pollution: Low, Sunset: 20:42 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1012mb, Humidity: 85%, UV Risk: 0, Pollution: Low, Sunset: 20:41 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-05T09:49:00.000+0000</id>
-    <published>2023-08-05T18:01:13Z</published>
-    <updated>2023-08-05T18:01:13Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-05T21:55:00.000+0000</id>
+    <published>2023-08-06T00:00:02Z</published>
+    <updated>2023-08-06T00:00:02Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 19°C (65°F)</title>
+    <title>Sunday: Light Rain Showers, Minimum Temperature: 9°C (48°F) Maximum Temperature: 18°C (65°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 19°C (65°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1016mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 05:31 BST, Sunset: 20:41 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 9°C (48°F), Wind Direction: North Westerly, Wind Speed: 14mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:39 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-05T09:49:00.000+0000</id>
-    <published>2023-08-05T18:01:13Z</published>
-    <updated>2023-08-05T18:01:13Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-05T21:55:00.000+0000</id>
+    <published>2023-08-06T00:00:02Z</published>
+    <updated>2023-08-06T00:00:02Z</updated>
   </entry>
   <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
+    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (51°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:39 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (51°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:37 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-05T09:49:00.000+0000</id>
-    <published>2023-08-05T18:01:13Z</published>
-    <updated>2023-08-05T18:01:13Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-05T21:55:00.000+0000</id>
+    <published>2023-08-06T00:00:02Z</published>
+    <updated>2023-08-06T00:00:02Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9uZXdzLW9waW5pb24vaS1kcmFuay1waW50LXRyYXZlbGxlZC1sb25kb24tMjc0NDQ2NzfSAVZodHRwczovL3d3dy5teWxvbmRvbi5uZXdzL25ld3MvbmV3cy1vcGluaW9uL2ktZHJhbmstcGludC10cmF2ZWxsZWQtbG9uZG9uLTI3NDQ0Njc3LmFtcA?oc=5</id>
@@ -196,32 +196,49 @@ Although Balham is the gateway to the south, in 1986 Bedford Hill and the Bedfor
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>July 22nd</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53066278986/"/>
-    <id>tag:flickr.com,2005:/photo/53066278986</id>
-    <published>2023-07-23T19:19:41Z</published>
-    <updated>2023-07-23T19:19:41Z</updated>
-    <flickr:date_taken>2023-07-22T11:15:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-22T11:15:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/187325247@N07/53066759578/"/>
+    <id>tag:flickr.com,2005:/photo/53066759578</id>
+    <published>2023-07-23T19:26:11Z</published>
+    <updated>2023-07-23T19:26:11Z</updated>
+    <flickr:date_taken>2023-07-22T12:50:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-22T12:50:48-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/187325247@N07/"&gt;Ian Ware&amp;#039;s Transport Photography Gallery&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/53066278986/" title="July 22nd"&gt;&lt;img src="https://live.staticflickr.com/65535/53066278986_d334e6734f_m.jpg" width="240" height="232" alt="July 22nd" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/187325247@N07/53066759578/" title="SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23"&gt;&lt;img src="https://live.staticflickr.com/65535/53066759578_8fa66c625b_m.jpg" width="240" height="160" alt="SN66WOC | EH117 | GoAhead London | Route 355 | Balham | 22/07/23" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Ivy in Balham&lt;/p&gt;
+
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>Ian Ware's Transport Photography Gallery</name>
+      <uri>https://www.flickr.com/people/187325247@N07/</uri>
+      <flickr:nsid>187325247@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/187325247@N07.jpg?1683486183#187325247@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53066278986_d334e6734f_b.jpg"/>
-    <category term="july" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53066759578_8fa66c625b_b.jpg"/>
+    <category term="sn66woc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="eh117" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enviro400mmc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goaheadgroup" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="355" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="busroute355" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sainsburys" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alexanderdennis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hybridbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doubledeckerbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cloudy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="londonbuses" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="redbus" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="red" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transportforlondon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="road" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="canoneos1300d" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
