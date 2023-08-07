@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-07T00:13:40Z</updated>
+  <updated>2023-08-07T06:04:06Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 11°C (52°F)</title>
+    <title>Today: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 87%, UV Risk: 0, Pollution: Low, Sunset: 20:39 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:33 BST, Sunset: 20:39 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-06T21:50:00.000+0000</id>
-    <published>2023-08-07T00:05:27Z</published>
-    <updated>2023-08-07T00:05:27Z</updated>
-  </entry>
-  <entry>
-    <title>Monday: Sunny Intervals, Minimum Temperature: 11°C (52°F) Maximum Temperature: 21°C (69°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 11°C (52°F), Wind Direction: Westerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 65%, UV Risk: 6, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:37 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-06T21:50:00.000+0000</id>
-    <published>2023-08-07T00:05:27Z</published>
-    <updated>2023-08-07T00:05:27Z</updated>
+    <published>2023-08-07T06:03:06Z</published>
+    <updated>2023-08-07T06:03:06Z</updated>
   </entry>
   <entry>
     <title>Tuesday: Light Rain, Minimum Temperature: 11°C (52°F) Maximum Temperature: 18°C (65°F)</title>
+    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 82%, UV Risk: 2, Pollution: Low, Sunrise: 05:35 BST, Sunset: 20:37 BST</div>
+    </content>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-06T21:50:00.000+0000</id>
+    <published>2023-08-07T06:03:06Z</published>
+    <updated>2023-08-07T06:03:06Z</updated>
+  </entry>
+  <entry>
+    <title>Wednesday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 23°C (74°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 18°C (65°F), Minimum Temperature: 11°C (52°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1016mb, Humidity: 82%, UV Risk: 2, Pollution: Low, Sunrise: 05:36 BST, Sunset: 20:35 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (74°F), Minimum Temperature: 14°C (58°F), Wind Direction: Westerly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 69%, UV Risk: 5, Pollution: Low, Sunrise: 05:36 BST, Sunset: 20:35 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-06T21:50:00.000+0000</id>
-    <published>2023-08-07T00:05:27Z</published>
-    <updated>2023-08-07T00:05:27Z</updated>
+    <published>2023-08-07T06:03:06Z</published>
+    <updated>2023-08-07T06:03:06Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzLzQ2LWZhLWN1cC1waWN0dXJlcy1sYW5jaW5nLTEzMDAwMDgxNC5odG1s0gFSaHR0cHM6Ly91ay5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy80Ni1mYS1jdXAtcGljdHVyZXMtbGFuY2luZy0xMzAwMDA4MTQuaHRtbA?oc=5</id>
