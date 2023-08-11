@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-10T18:04:15Z</updated>
+  <updated>2023-08-11T00:11:11Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Partly Cloudy, Minimum Temperature: 15°C (60°F)</title>
+    <title>Tonight: Partly Cloudy, Minimum Temperature: 17°C (63°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (60°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Good, Pressure: 1018mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunset: 20:33 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 17°C (63°F), Wind Direction: South Westerly, Wind Speed: 8mph, Visibility: Good, Pressure: 1018mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunset: 20:31 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-10T09:50:00.000+0000</id>
-    <published>2023-08-10T18:00:52Z</published>
-    <updated>2023-08-10T18:00:52Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-10T21:48:00.000+0000</id>
+    <published>2023-08-11T00:00:01Z</published>
+    <updated>2023-08-11T00:00:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 25°C (76°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1018mb, Humidity: 71%, UV Risk: 5, Pollution: Low, Sunrise: 05:39 BST, Sunset: 20:31 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (76°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1018mb, Humidity: 70%, UV Risk: 5, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-10T09:50:00.000+0000</id>
-    <published>2023-08-10T18:00:52Z</published>
-    <updated>2023-08-10T18:00:52Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-10T21:48:00.000+0000</id>
+    <published>2023-08-11T00:00:01Z</published>
+    <updated>2023-08-11T00:00:01Z</updated>
   </entry>
   <entry>
-    <title>Saturday: Sunny Intervals, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (72°F)</title>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (72°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 16mph, Visibility: Good, Pressure: 1015mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1014mb, Humidity: 68%, UV Risk: 4, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-10T09:50:00.000+0000</id>
-    <published>2023-08-10T18:00:52Z</published>
-    <updated>2023-08-10T18:00:52Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-10T21:48:00.000+0000</id>
+    <published>2023-08-11T00:00:01Z</published>
+    <updated>2023-08-11T00:00:01Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5</id>
+    <title type="html">Wick and Roffey share eight – Copthorne cop it at Worthing United ... - SussexWorld</title>
+    <updated>2023-08-10T18:14:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5" target="_blank"&gt;Wick and Roffey share eight – Copthorne cop it at Worthing United ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMilwFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24tcHJhaXNlcy1oaXMtcGxheWVycy1hZnRlci1kb21pbmFudC1mYS1jdXAtd2luLWF0LWhhcmVmaWVsZC11bml0ZWQtNjMxNDcz0gEA?oc=5</id>
@@ -46,13 +53,6 @@
     <updated>2023-08-10T15:03:50.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMilwFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24tcHJhaXNlcy1oaXMtcGxheWVycy1hZnRlci1kb21pbmFudC1mYS1jdXAtd2luLWF0LWhhcmVmaWVsZC11bml0ZWQtNjMxNDcz0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMilwFodHRwczovL3d3dy5mYXJuaGFtaGVyYWxkLmNvbS9zcG9ydC9mb290YmFsbC9mYXJuaGFtLXRvd24tbWFuYWdlci1wYXVsLWpvaG5zb24tcHJhaXNlcy1oaXMtcGxheWVycy1hZnRlci1kb21pbmFudC1mYS1jdXAtd2luLWF0LWhhcmVmaWVsZC11bml0ZWQtNjMxNDcz0gEA?oc=5" target="_blank"&gt;Farnham Town manager Paul Johnson praises his players after ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Farnham Herald&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5</id>
-    <title type="html">Wick and Roffey share eight – Copthorne cop it at Worthing United ... - SussexWorld</title>
-    <updated>2023-08-10T14:00:00.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5" target="_blank"&gt;Wick and Roffey share eight – Copthorne cop it at Worthing United ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmhhcnBlcnNiYXphYXJhcmFiaWEuY29tL2N1bHR1cmUvY2VsZWJyaXR5L3doby1pcy1mcmVkLWFnYWluLXNlbGVuYS1nb21lenMtYm95ZnJpZW5k0gEA?oc=5</id>
@@ -75,6 +75,39 @@
     <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NS5hbXA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NS5hbXA?oc=5" target="_blank"&gt;Absolute chaos as yobs throw eggs at passers-by before punching woman in the face&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>August 1st</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53089271304/"/>
+    <id>tag:flickr.com,2005:/photo/53089271304</id>
+    <published>2023-08-02T17:06:27Z</published>
+    <updated>2023-08-02T17:06:27Z</updated>
+    <flickr:date_taken>2023-08-01T11:02:37-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-08-01T11:02:37-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/53089271304/" title="August 1st"&gt;&lt;img src="https://live.staticflickr.com/65535/53089271304_ceb66a7122_m.jpg" width="240" height="210" alt="August 1st" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Just what Balham needs - another bloody coffee shop to add to the 17 others.&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53089271304_ceb66a7122_b.jpg"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blacksheep" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nationwide" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lostbank" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>59203 Balham 270723</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/96859208@N07/53078078172/"/>
@@ -206,36 +239,6 @@ Although Balham is the gateway to the south, in 1986 Bedford Hill and the Bedfor
     <category term="canoneos1300d" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>July 22nd</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53066278986/"/>
-    <id>tag:flickr.com,2005:/photo/53066278986</id>
-    <published>2023-07-23T19:19:41Z</published>
-    <updated>2023-07-23T19:19:41Z</updated>
-    <flickr:date_taken>2023-07-22T11:15:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-07-22T11:15:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/53066278986/" title="July 22nd"&gt;&lt;img src="https://live.staticflickr.com/65535/53066278986_d334e6734f_m.jpg" width="240" height="232" alt="July 22nd" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ivy in Balham&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53066278986_d334e6734f_b.jpg"/>
-    <category term="july" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ivy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sainsburys" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
