@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-12T06:04:31Z</updated>
+  <updated>2023-08-12T12:04:29Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Today: Thundery Showers, Minimum Temperature: 14°C (58°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Today: Light Cloud, Minimum Temperature: 14°C (58°F) Maximum Temperature: 21°C (70°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1014mb, Humidity: 69%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (70°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 17mph, Visibility: Good, Pressure: 1013mb, Humidity: 62%, UV Risk: 4, Pollution: Low, Sunrise: 05:41 BST, Sunset: 20:29 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-11T21:53:00.000+0000</id>
-    <published>2023-08-12T06:03:28Z</published>
-    <updated>2023-08-12T06:03:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-12T07:54:00.000+0000</id>
+    <published>2023-08-12T12:01:44Z</published>
+    <updated>2023-08-12T12:01:44Z</updated>
   </entry>
   <entry>
-    <title>Sunday: Light Cloud, Minimum Temperature: 13°C (56°F) Maximum Temperature: 22°C (71°F)</title>
+    <title>Sunday: Light Rain, Minimum Temperature: 14°C (57°F) Maximum Temperature: 22°C (71°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 22°C (71°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1014mb, Humidity: 68%, UV Risk: 5, Pollution: Low, Sunrise: 05:42 BST, Sunset: 20:28 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-11T21:53:00.000+0000</id>
-    <published>2023-08-12T06:03:28Z</published>
-    <updated>2023-08-12T06:03:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-12T07:54:00.000+0000</id>
+    <published>2023-08-12T12:01:44Z</published>
+    <updated>2023-08-12T12:01:44Z</updated>
   </entry>
   <entry>
-    <title>Monday: Light Rain Showers, Minimum Temperature: 14°C (57°F) Maximum Temperature: 20°C (68°F)</title>
+    <title>Monday: Light Rain, Minimum Temperature: 13°C (56°F) Maximum Temperature: 21°C (69°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 20°C (68°F), Minimum Temperature: 14°C (57°F), Wind Direction: Southerly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 78%, UV Risk: 3, Pollution: Low, Sunrise: 05:44 BST, Sunset: 20:26 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 21°C (69°F), Minimum Temperature: 13°C (56°F), Wind Direction: Southerly, Wind Speed: 12mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 79%, UV Risk: 2, Pollution: Low, Sunrise: 05:44 BST, Sunset: 20:26 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-11T21:53:00.000+0000</id>
-    <published>2023-08-12T06:03:28Z</published>
-    <updated>2023-08-12T06:03:28Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-12T07:54:00.000+0000</id>
+    <published>2023-08-12T12:01:44Z</published>
+    <updated>2023-08-12T12:01:44Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiXGh0dHBzOi8vd3d3LnN1cnJleWNvbWV0LmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5</id>
@@ -76,35 +76,31 @@
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZWh0dHBzOi8vd3d3LmVhc3Rsb25kb25hZHZlcnRpc2VyLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5" target="_blank"&gt;Video shows large snake on the loose on Balham South road&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East London Advertiser&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>August 1st</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53089271304/"/>
-    <id>tag:flickr.com,2005:/photo/53089271304</id>
-    <published>2023-08-02T17:06:27Z</published>
-    <updated>2023-08-02T17:06:27Z</updated>
-    <flickr:date_taken>2023-08-01T11:02:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-08-01T11:02:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+    <title>59203 Balham 270723</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/96859208@N07/53078078172/"/>
+    <id>tag:flickr.com,2005:/photo/53078078172</id>
+    <published>2023-07-29T08:22:22Z</published>
+    <updated>2023-07-29T08:22:22Z</updated>
+    <flickr:date_taken>2023-07-27T11:05:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-07-27T11:05:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/96859208@N07/"&gt;The KDH archive&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/53089271304/" title="August 1st"&gt;&lt;img src="https://live.staticflickr.com/65535/53089271304_ceb66a7122_m.jpg" width="240" height="210" alt="August 1st" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/96859208@N07/53078078172/" title="59203 Balham 270723"&gt;&lt;img src="https://live.staticflickr.com/65535/53078078172_cc2e2a1c49_m.jpg" width="240" height="156" alt="59203 Balham 270723" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Just what Balham needs - another bloody coffee shop to add to the 17 others.&lt;/p&gt;
+&lt;p&gt;Quick trip down to Balham on Thursday to drop a few items off. Whilst my 377 from Sutton was dropping down onto the Brighton Line just south of Streatham Common I noticed 59203 waiting to follow us South so waited for it to appear. &lt;br /&gt;
+The service is an empty aggregates service from Purley where it had been photographed earlier in the morning by the Purley Phottr.&lt;/p&gt;
 </content>
     <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+      <name>The KDH archive</name>
+      <uri>https://www.flickr.com/people/96859208@N07/</uri>
+      <flickr:nsid>96859208@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7299/buddyicons/96859208@N07.jpg?1370198823#96859208@N07</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53089271304_ceb66a7122_b.jpg"/>
-    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blacksheep" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nationwide" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lostbank" scheme="https://www.flickr.com/photos/tags/"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53078078172_cc2e2a1c49_b.jpg"/>
     <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="class59" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="59203" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
