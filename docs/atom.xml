@@ -7,39 +7,9 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-15T00:11:21Z</updated>
+  <updated>2023-08-15T06:04:36Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
-  <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 13°C (56°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (56°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunset: 20:24 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-14T21:53:00.000+0000</id>
-    <published>2023-08-15T00:00:01Z</published>
-    <updated>2023-08-15T00:00:01Z</updated>
-  </entry>
-  <entry>
-    <title>Tuesday: Sunny Intervals, Minimum Temperature: 13°C (55°F) Maximum Temperature: 23°C (73°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1016mb, Humidity: 67%, UV Risk: 4, Pollution: Low, Sunrise: 05:47 BST, Sunset: 20:22 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-14T21:53:00.000+0000</id>
-    <published>2023-08-15T00:00:01Z</published>
-    <updated>2023-08-15T00:00:01Z</updated>
-  </entry>
-  <entry>
-    <title>Wednesday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 24°C (76°F)</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 7mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 65%, UV Risk: 5, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:20 BST</div>
-    </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-14T21:53:00.000+0000</id>
-    <published>2023-08-15T00:00:01Z</published>
-    <updated>2023-08-15T00:00:01Z</updated>
-  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Tessa singing at the karaoke birthday party</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sheeprus/53113134550/"/>
@@ -111,39 +81,39 @@ Here we see Tracey and Sarah singing 9 to 5.&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmhhY2tuZXlnYXpldHRlLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5</id>
-    <title type="html">Video shows large snake on the loose on Balham South road - Hackney Gazette</title>
-    <updated>2023-08-11T13:22:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LmhhY2tuZXlnYXpldHRlLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LmhhY2tuZXlnYXpldHRlLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5" target="_blank"&gt;Video shows large snake on the loose on Balham South road&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Hackney Gazette&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NuYWtlcy1iYWxoYW0tYm9hLWJhbGwtcHl0aG9uLWlzbGluZ3Rvbi1yc3BjYS1iMTEwMDEyMy5odG1s0gEA?oc=5</id>
+    <title type="html">Snakes on the loose: Londoner’s fear at sightings of runaway reptiles - Evening Standard</title>
+    <updated>2023-08-11T13:13:15.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NuYWtlcy1iYWxoYW0tYm9hLWJhbGwtcHl0aG9uLWlzbGluZ3Rvbi1yc3BjYS1iMTEwMDEyMy5odG1s0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NuYWtlcy1iYWxoYW0tYm9hLWJhbGwtcHl0aG9uLWlzbGluZ3Rvbi1yc3BjYS1iMTEwMDEyMy5odG1s0gEA?oc=5" target="_blank"&gt;Snakes on the loose: Londoner’s fear at sightings of runaway reptiles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5</id>
-    <title type="html">Video shows large snake on the loose on Balham South road | Richmond and Twickenham Times - Richmond and Twickenham Times</title>
-    <updated>2023-08-11T13:22:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMia2h0dHBzOi8vd3d3LnJpY2htb25kYW5kdHdpY2tlbmhhbXRpbWVzLmNvLnVrL25ld3MvMjM3MTcwOTMudmlkZW8tc2hvd3MtbGFyZ2Utc25ha2UtbG9vc2UtYmFsaGFtLXNvdXRoLXJvYWQv0gEA?oc=5" target="_blank"&gt;Video shows large snake on the loose on Balham South road | Richmond and Twickenham Times&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Richmond and Twickenham Times&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5</id>
+    <title type="html">Women's World Cup 2023: Where to watch the Lionesses in London - Evening Standard</title>
+    <updated>2023-08-11T09:02:49.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5" target="_blank"&gt;Women's World Cup 2023: Where to watch the Lionesses in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNzE3MDkzLnZpZGVvLXNob3dzLWxhcmdlLXNuYWtlLWxvb3NlLWJhbGhhbS1zb3V0aC1yb2FkL9IBAA?oc=5</id>
-    <title type="html">Video shows large snake on the loose on Balham South road | East London and West Essex Guardian Series - East London and West Essex Guardian Series</title>
-    <updated>2023-08-11T13:22:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNzE3MDkzLnZpZGVvLXNob3dzLWxhcmdlLXNuYWtlLWxvb3NlLWJhbGhhbS1zb3V0aC1yb2FkL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3Lmd1YXJkaWFuLXNlcmllcy5jby51ay9uZXdzLzIzNzE3MDkzLnZpZGVvLXNob3dzLWxhcmdlLXNuYWtlLWxvb3NlLWJhbGhhbS1zb3V0aC1yb2FkL9IBAA?oc=5" target="_blank"&gt;Video shows large snake on the loose on Balham South road | East London and West Essex Guardian Series&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;East London and West Essex Guardian Series&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5</id>
+    <title type="html">Wick and Roffey share eight – Copthorne cop it at Worthing United ... - SussexWorld</title>
+    <updated>2023-08-10T18:14:00.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMijgFodHRwczovL3d3dy5zdXNzZXhleHByZXNzLmNvLnVrL3Nwb3J0L2Zvb3RiYWxsL3dpY2stYW5kLXJvZmZleS1zaGFyZS1laWdodC1jb3B0aG9ybmUtY29wLWl0LWF0LXdvcnRoaW5nLXVuaXRlZC1iYXJyb3dtZW4td2luLWluLWZhLWN1cC00MjUwNjY50gEA?oc=5" target="_blank"&gt;Wick and Roffey share eight – Copthorne cop it at Worthing United ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;SussexWorld&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LnJvbWZvcmRyZWNvcmRlci5jby51ay9uZXdzLzIzNzE3MDkzLnZpZGVvLXNob3dzLWxhcmdlLXNuYWtlLWxvb3NlLWJhbGhhbS1zb3V0aC1yb2FkL9IBAA?oc=5</id>
-    <title type="html">Video shows large snake on the loose on Balham South road - Romford Recorder</title>
-    <updated>2023-08-11T13:22:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnJvbWZvcmRyZWNvcmRlci5jby51ay9uZXdzLzIzNzE3MDkzLnZpZGVvLXNob3dzLWxhcmdlLXNuYWtlLWxvb3NlLWJhbGhhbS1zb3V0aC1yb2FkL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYGh0dHBzOi8vd3d3LnJvbWZvcmRyZWNvcmRlci5jby51ay9uZXdzLzIzNzE3MDkzLnZpZGVvLXNob3dzLWxhcmdlLXNuYWtlLWxvb3NlLWJhbGhhbS1zb3V0aC1yb2FkL9IBAA?oc=5" target="_blank"&gt;Video shows large snake on the loose on Balham South road&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Romford Recorder&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmhhcnBlcnNiYXphYXJhcmFiaWEuY29tL2N1bHR1cmUvY2VsZWJyaXR5L3doby1pcy1mcmVkLWFnYWluLXNlbGVuYS1nb21lenMtYm95ZnJpZW5k0gEA?oc=5</id>
+    <title type="html">Who is Selena Gomez's New Boyfriend Fred Again? - Harper's Bazaar Arabia</title>
+    <updated>2023-08-08T10:53:07.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LmhhcnBlcnNiYXphYXJhcmFiaWEuY29tL2N1bHR1cmUvY2VsZWJyaXR5L3doby1pcy1mcmVkLWFnYWluLXNlbGVuYS1nb21lenMtYm95ZnJpZW5k0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiX2h0dHBzOi8vd3d3LmhhcnBlcnNiYXphYXJhcmFiaWEuY29tL2N1bHR1cmUvY2VsZWJyaXR5L3doby1pcy1mcmVkLWFnYWluLXNlbGVuYS1nb21lenMtYm95ZnJpZW5k0gEA?oc=5" target="_blank"&gt;Who is Selena Gomez's New Boyfriend Fred Again?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Harper's Bazaar Arabia&lt;/font&gt;</content>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LmJhcmtpbmdhbmRkYWdlbmhhbXBvc3QuY28udWsvbmV3cy8yMzcxNzA5My52aWRlby1zaG93cy1sYXJnZS1zbmFrZS1sb29zZS1iYWxoYW0tc291dGgtcm9hZC_SAQA?oc=5</id>
-    <title type="html">Video shows large snake on the loose on Balham South road - Barking and Dagenham Post</title>
-    <updated>2023-08-11T13:22:38.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiZ2h0dHBzOi8vd3d3LmJhcmtpbmdhbmRkYWdlbmhhbXBvc3QuY28udWsvbmV3cy8yMzcxNzA5My52aWRlby1zaG93cy1sYXJnZS1zbmFrZS1sb29zZS1iYWxoYW0tc291dGgtcm9hZC_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiZ2h0dHBzOi8vd3d3LmJhcmtpbmdhbmRkYWdlbmhhbXBvc3QuY28udWsvbmV3cy8yMzcxNzA5My52aWRlby1zaG93cy1sYXJnZS1zbmFrZS1sb29zZS1iYWxoYW0tc291dGgtcm9hZC_SAQA?oc=5" target="_blank"&gt;Video shows large snake on the loose on Balham South road&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Barking and Dagenham Post&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NS5hbXA?oc=5</id>
+    <title type="html">Absolute chaos as yobs throw eggs at passers-by before punching woman in the face - My London</title>
+    <updated>2023-08-07T12:08:25.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NS5hbXA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiV2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NdIBW2h0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy9zb3V0aC1sb25kb24tbmV3cy9iYWxoYW0tZWdncy13b21hbi1wdW5jaGVkLWJ1cy0yNzQ3MDg1NS5hbXA?oc=5" target="_blank"&gt;Absolute chaos as yobs throw eggs at passers-by before punching woman in the face&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>August 1st</title>
