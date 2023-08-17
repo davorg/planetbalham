@@ -7,38 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-16T18:04:22Z</updated>
+  <updated>2023-08-17T00:11:18Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 14°C (57°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 16°C (60°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 14°C (57°F), Wind Direction: Easterly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 79%, UV Risk: 3, Pollution: Low, Sunset: 20:22 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 20:20 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-16T09:55:00.000+0000</id>
-    <published>2023-08-16T18:02:50Z</published>
-    <updated>2023-08-16T18:02:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-16T21:54:00.000+0000</id>
+    <published>2023-08-17T00:00:01Z</published>
+    <updated>2023-08-17T00:00:01Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 16°C (60°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (60°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Good, Pressure: 1019mb, Humidity: 70%, UV Risk: 6, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 15°C (60°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 69%, UV Risk: 6, Pollution: Low, Sunrise: 05:50 BST, Sunset: 20:18 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-16T09:55:00.000+0000</id>
-    <published>2023-08-16T18:02:50Z</published>
-    <updated>2023-08-16T18:02:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-16T21:54:00.000+0000</id>
+    <published>2023-08-17T00:00:01Z</published>
+    <updated>2023-08-17T00:00:01Z</updated>
   </entry>
   <entry>
     <title>Friday: Thundery Showers, Minimum Temperature: 18°C (64°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 18°C (64°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 85%, UV Risk: 2, Pollution: Low, Sunrise: 05:50 BST, Sunset: 20:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 18°C (64°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 86%, UV Risk: 2, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-16T09:55:00.000+0000</id>
-    <published>2023-08-16T18:02:50Z</published>
-    <updated>2023-08-16T18:02:50Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-16T21:54:00.000+0000</id>
+    <published>2023-08-17T00:00:01Z</published>
+    <updated>2023-08-17T00:00:01Z</updated>
+  </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy9iZXN0LWJydW5jaC1pbi1sb25kb24vYXItQUExZm1FQlPSAQA?oc=5</id>
+    <title type="html">Best brunch in London - msnNOW</title>
+    <updated>2023-08-16T22:45:48.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy9iZXN0LWJydW5jaC1pbi1sb25kb24vYXItQUExZm1FQlPSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy9iZXN0LWJydW5jaC1pbi1sb25kb24vYXItQUExZm1FQlPSAQA?oc=5" target="_blank"&gt;Best brunch in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LnJlc3RhdXJhbnRvbmxpbmUuY28udWsvQXJ0aWNsZS8yMDIzLzA4LzE2L3NvaG8taG91c2UtdG8tb3Blbi1pbi1nbGFzZ2930gEA?oc=5</id>
@@ -46,20 +53,6 @@
     <updated>2023-08-16T10:24:00.000000000Z</updated>
     <link href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3LnJlc3RhdXJhbnRvbmxpbmUuY28udWsvQXJ0aWNsZS8yMDIzLzA4LzE2L3NvaG8taG91c2UtdG8tb3Blbi1pbi1nbGFzZ2930gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiU2h0dHBzOi8vd3d3LnJlc3RhdXJhbnRvbmxpbmUuY28udWsvQXJ0aWNsZS8yMDIzLzA4LzE2L3NvaG8taG91c2UtdG8tb3Blbi1pbi1nbGFzZ2930gEA?oc=5" target="_blank"&gt;Soho House to open in Glasgow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Restaurant&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbW9uZXkvb3RoZXIvNi10aXBzLWZvci1idXlpbmctYS1ob3VzZS13aXRoLWEtZnJpZW5kL2FyLUFBMWZrT2w3P29jaWQ9ZmluYW5jZS12ZXJ0aHAtZmVlZHPSAQA?oc=5</id>
-    <title type="html">6 Tips for Buying a House With a Friend - msnNOW</title>
-    <updated>2023-08-16T08:25:50.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbW9uZXkvb3RoZXIvNi10aXBzLWZvci1idXlpbmctYS1ob3VzZS13aXRoLWEtZnJpZW5kL2FyLUFBMWZrT2w3P29jaWQ9ZmluYW5jZS12ZXJ0aHAtZmVlZHPSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMic2h0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvbW9uZXkvb3RoZXIvNi10aXBzLWZvci1idXlpbmctYS1ob3VzZS13aXRoLWEtZnJpZW5kL2FyLUFBMWZrT2w3P29jaWQ9ZmluYW5jZS12ZXJ0aHAtZmVlZHPSAQA?oc=5" target="_blank"&gt;6 Tips for Buying a House With a Friend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
-  </entry>
-  <entry>
-    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5</id>
-    <title type="html">Women's World Cup 2023: Where to watch the Lionesses in London - Evening Standard</title>
-    <updated>2023-08-16T07:27:50.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5" target="_blank"&gt;Women's World Cup 2023: Where to watch the Lionesses in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvdGhlLXdvbGYtZW5kaW5nLWRvZXNudC1tYWtlLWEtbGljay1vZi1zZW5zZS_SAQA?oc=5</id>
@@ -219,6 +212,13 @@ Here we see Tracey and Sarah singing 9 to 5.&lt;/p&gt;
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <id>https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NuYWtlcy1iYWxoYW0tYm9hLWJhbGwtcHl0aG9uLWlzbGluZ3Rvbi1yc3BjYS1iMTEwMDEyMy5odG1s0gEA?oc=5</id>
+    <title type="html">Snakes on the loose: Londoner’s fear at sightings of runaway reptiles - Evening Standard</title>
+    <updated>2023-08-11T13:13:15.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NuYWtlcy1iYWxoYW0tYm9hLWJhbGwtcHl0aG9uLWlzbGluZ3Rvbi1yc3BjYS1iMTEwMDEyMy5odG1s0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiYmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL3NuYWtlcy1iYWxoYW0tYm9hLWJhbGwtcHl0aG9uLWlzbGluZ3Rvbi1yc3BjYS1iMTEwMDEyMy5odG1s0gEA?oc=5" target="_blank"&gt;Snakes on the loose: Londoner’s fear at sightings of runaway reptiles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>August 1st</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53089271304/"/>
