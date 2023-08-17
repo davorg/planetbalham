@@ -7,45 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-17T00:11:18Z</updated>
+  <updated>2023-08-17T06:04:44Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 16°C (60°F)</title>
+    <title>Today: Sunny, Minimum Temperature: 16°C (61°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 16°C (60°F), Wind Direction: Easterly, Wind Speed: 8mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 93%, UV Risk: 0, Pollution: Low, Sunset: 20:20 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 16°C (61°F), Wind Direction: Easterly, Wind Speed: 13mph, Visibility: Moderate, Pressure: 1019mb, Humidity: 69%, UV Risk: 6, Pollution: Low, Sunrise: 05:49 BST, Sunset: 20:20 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-16T21:54:00.000+0000</id>
-    <published>2023-08-17T00:00:01Z</published>
-    <updated>2023-08-17T00:00:01Z</updated>
+    <published>2023-08-17T06:01:57Z</published>
+    <updated>2023-08-17T06:01:57Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Sunny Intervals, Minimum Temperature: 15°C (60°F) Maximum Temperature: 24°C (75°F)</title>
+    <title>Friday: Heavy Rain, Minimum Temperature: 18°C (64°F) Maximum Temperature: 23°C (73°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 15°C (60°F), Wind Direction: Easterly, Wind Speed: 14mph, Visibility: Good, Pressure: 1019mb, Humidity: 69%, UV Risk: 6, Pollution: Low, Sunrise: 05:50 BST, Sunset: 20:18 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 18°C (64°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 86%, UV Risk: 3, Pollution: Low, Sunrise: 05:50 BST, Sunset: 20:18 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-16T21:54:00.000+0000</id>
-    <published>2023-08-17T00:00:01Z</published>
-    <updated>2023-08-17T00:00:01Z</updated>
+    <published>2023-08-17T06:01:57Z</published>
+    <updated>2023-08-17T06:01:57Z</updated>
   </entry>
   <entry>
-    <title>Friday: Thundery Showers, Minimum Temperature: 18°C (64°F) Maximum Temperature: 23°C (73°F)</title>
+    <title>Saturday: Sunny Intervals, Minimum Temperature: 14°C (57°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 23°C (73°F), Minimum Temperature: 18°C (64°F), Wind Direction: Easterly, Wind Speed: 11mph, Visibility: Moderate, Pressure: 1013mb, Humidity: 86%, UV Risk: 2, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 14°C (57°F), Wind Direction: South Westerly, Wind Speed: 12mph, Visibility: Good, Pressure: 1013mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 05:52 BST, Sunset: 20:16 BST</div>
     </content>
     <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-16T21:54:00.000+0000</id>
-    <published>2023-08-17T00:00:01Z</published>
-    <updated>2023-08-17T00:00:01Z</updated>
+    <published>2023-08-17T06:01:57Z</published>
+    <updated>2023-08-17T06:01:57Z</updated>
   </entry>
   <entry>
-    <id>https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy9iZXN0LWJydW5jaC1pbi1sb25kb24vYXItQUExZm1FQlPSAQA?oc=5</id>
-    <title type="html">Best brunch in London - msnNOW</title>
-    <updated>2023-08-16T22:45:48.000000000Z</updated>
-    <link href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy9iZXN0LWJydW5jaC1pbi1sb25kb24vYXItQUExZm1FQlPSAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiTGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvdHJhdmVsL3RyaXBpZGVhcy9iZXN0LWJydW5jaC1pbi1sb25kb24vYXItQUExZm1FQlPSAQA?oc=5" target="_blank"&gt;Best brunch in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
+    <id>https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5</id>
+    <title type="html">Women's World Cup 2023: Where to watch the Lionesses in London - Evening Standard</title>
+    <updated>2023-08-16T19:21:52.000000000Z</updated>
+    <link href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/atom/articles/CBMiamh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL3JldmVsbGVyL2F0dHJhY3Rpb25zL3dvbWVuLXMtd29ybGQtY3VwLTIwMjMtd2hlcmUtdG8td2F0Y2gtbG9uZG9uLWIxMDk0Nzk1Lmh0bWzSAQA?oc=5" target="_blank"&gt;Women's World Cup 2023: Where to watch the Lionesses in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LnJlc3RhdXJhbnRvbmxpbmUuY28udWsvQXJ0aWNsZS8yMDIzLzA4LzE2L3NvaG8taG91c2UtdG8tb3Blbi1pbi1nbGFzZ2930gEA?oc=5</id>
