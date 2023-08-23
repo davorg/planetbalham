@@ -7,38 +7,38 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-08-22T18:04:20Z</updated>
+  <updated>2023-08-23T00:11:24Z</updated>
   <link rel="self" href="https://balham.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://balham.theplanetarium.org/</id>
   <entry>
-    <title>Tonight: Clear Sky, Minimum Temperature: 13°C (55°F)</title>
+    <title>Tonight: Clear Sky, Minimum Temperature: 15°C (59°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day0" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 13°C (55°F), Wind Direction: Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 72%, UV Risk: 3, Pollution: Low, Sunset: 20:09 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Minimum Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1021mb, Humidity: 84%, UV Risk: 0, Pollution: Low, Sunset: 20:07 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-22T09:56:00.000+0000</id>
-    <published>2023-08-22T18:02:46Z</published>
-    <updated>2023-08-22T18:02:46Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-0-2023-08-22T21:50:00.000+0000</id>
+    <published>2023-08-23T00:02:00Z</published>
+    <updated>2023-08-23T00:02:00Z</updated>
   </entry>
   <entry>
-    <title>Wednesday: Sunny, Minimum Temperature: 14°C (58°F) Maximum Temperature: 25°C (77°F)</title>
+    <title>Wednesday: Sunny, Minimum Temperature: 15°C (58°F) Maximum Temperature: 25°C (77°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day1" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 14°C (58°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 66%, UV Risk: 6, Pollution: Low, Sunrise: 05:58 BST, Sunset: 20:07 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 25°C (77°F), Minimum Temperature: 15°C (58°F), Wind Direction: Westerly, Wind Speed: 5mph, Visibility: Moderate, Pressure: 1020mb, Humidity: 64%, UV Risk: 6, Pollution: Low, Sunrise: 06:00 BST, Sunset: 20:05 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-22T09:56:00.000+0000</id>
-    <published>2023-08-22T18:02:46Z</published>
-    <updated>2023-08-22T18:02:46Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-1-2023-08-22T21:50:00.000+0000</id>
+    <published>2023-08-23T00:02:00Z</published>
+    <updated>2023-08-23T00:02:00Z</updated>
   </entry>
   <entry>
-    <title>Thursday: Light Rain Showers, Minimum Temperature: 14°C (58°F) Maximum Temperature: 24°C (76°F)</title>
+    <title>Thursday: Light Rain Showers, Minimum Temperature: 15°C (58°F) Maximum Temperature: 24°C (75°F)</title>
     <link rel="alternate" href="https://www.bbc.co.uk/weather/2656580/day2" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (76°F), Minimum Temperature: 14°C (58°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Good, Pressure: 1013mb, Humidity: 66%, UV Risk: 5, Pollution: Low, Sunrise: 06:00 BST, Sunset: 20:05 BST</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Maximum Temperature: 24°C (75°F), Minimum Temperature: 15°C (58°F), Wind Direction: South Westerly, Wind Speed: 6mph, Visibility: Moderate, Pressure: 1012mb, Humidity: 72%, UV Risk: 5, Pollution: Low, Sunrise: 06:01 BST, Sunset: 20:03 BST</div>
     </content>
-    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-22T09:56:00.000+0000</id>
-    <published>2023-08-22T18:02:46Z</published>
-    <updated>2023-08-22T18:02:46Z</updated>
+    <id>https://www.bbc.co.uk/weather/2656580-2-2023-08-22T21:50:00.000+0000</id>
+    <published>2023-08-23T00:02:00Z</published>
+    <updated>2023-08-23T00:02:00Z</updated>
   </entry>
   <entry>
     <id>https://news.google.com/articles/CBMiOmh0dHBzOi8vd3d3LmUtYXJjaGl0ZWN0LmNvbS9sb25kb24vdGhlLXBpbmVzLXN1cnJleS1sb25kb27SAQA?oc=5</id>
@@ -99,6 +99,35 @@
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>18th August</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53129321771/"/>
+    <id>tag:flickr.com,2005:/photo/53129321771</id>
+    <published>2023-08-20T13:53:26Z</published>
+    <updated>2023-08-20T13:53:26Z</updated>
+    <flickr:date_taken>2023-08-18T15:48:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-08-18T15:48:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/53129321771/" title="18th August"&gt;&lt;img src="https://live.staticflickr.com/65535/53129321771_9bed18c7de_m.jpg" width="240" height="152" alt="18th August" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Balham High Road&lt;/p&gt;
+</content>
+    <author>
+      <name>bigjon</name>
+      <uri>https://www.flickr.com/people/jonhpics/</uri>
+      <flickr:nsid>13312382@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53129321771_9bed18c7de_b.jpg"/>
+    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="balhamhighroad" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <id>https://news.google.com/articles/CBMifmh0dHBzOi8vZmFuYmFudGVyLmNvLnVrL2ZhLWN1cC1wcmVsaW1pbmFyeS1yb3VuZC1zZWVzLXVwc2V0cy10aHJhc2hpbmdzLWFuZC1hLWdvYWwtc3RyYWlnaHQtZnJvbS1raWNrLW9mZi1pbi1wbGF5ZXJzLW93bi1oYWxmL9IBAA?oc=5</id>
     <title type="html">FA Cup Preliminary Round sees upsets, thrashings and a goal ... - FanBanter</title>
@@ -141,6 +170,46 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>She knows Jim so well</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sheeprus/53117946515/"/>
+    <id>tag:flickr.com,2005:/photo/53117946515</id>
+    <published>2023-08-13T08:45:00Z</published>
+    <updated>2023-08-13T08:45:00Z</updated>
+    <flickr:date_taken>2023-08-11T21:45:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-08-11T21:45:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/sheeprus/"&gt;Sheep&amp;quot;R&amp;quot;Us&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/sheeprus/53117946515/" title="She knows Jim so well"&gt;&lt;img src="https://live.staticflickr.com/65535/53117946515_62f1ec70d1_m.jpg" width="240" height="180" alt="She knows Jim so well" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tessa and Sarah did their duet of &amp;quot;I Know Him So Well&amp;quot;.&lt;/p&gt;
+</content>
+    <author>
+      <name>Sheep"R"Us</name>
+      <uri>https://www.flickr.com/people/sheeprus/</uri>
+      <flickr:nsid>29675285@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3136/buddyicons/29675285@N02.jpg?1219085747#29675285@N02</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53117946515_62f1ec70d1_b.jpg"/>
+    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="karaoke" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="singing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="microphone" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="prosecco" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="glass" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cake" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="presents" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="birthday" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Tessa singing at the karaoke birthday party</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sheeprus/53113134550/"/>
     <id>tag:flickr.com,2005:/photo/53113134550</id>
@@ -171,75 +240,6 @@
     <category term="singing" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="microphone" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Karaoke birthday party</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/sheeprus/53113220823/"/>
-    <id>tag:flickr.com,2005:/photo/53113220823</id>
-    <published>2023-08-13T08:40:49Z</published>
-    <updated>2023-08-13T08:40:49Z</updated>
-    <flickr:date_taken>2023-08-11T20:51:36-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-08-11T20:51:36-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/sheeprus/"&gt;Sheep&amp;quot;R&amp;quot;Us&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/sheeprus/53113220823/" title="Karaoke birthday party"&gt;&lt;img src="https://live.staticflickr.com/65535/53113220823_806df7709a_m.jpg" width="240" height="180" alt="Karaoke birthday party" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tessa arranged my karaoke birthday party in the private Karaoke room at The Exhibit, Balham. Everyone sang really well and the song choices were excellent. There was Prosecco and birthday cake.&lt;br /&gt;
-&lt;br /&gt;
-Here we see Tracey and Sarah singing 9 to 5.&lt;/p&gt;
-</content>
-    <author>
-      <name>Sheep"R"Us</name>
-      <uri>https://www.flickr.com/people/sheeprus/</uri>
-      <flickr:nsid>29675285@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3136/buddyicons/29675285@N02.jpg?1219085747#29675285@N02</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53113220823_806df7709a_b.jpg"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="karaoke" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="singing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="microphone" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>August 1st</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jonhpics/53089271304/"/>
-    <id>tag:flickr.com,2005:/photo/53089271304</id>
-    <published>2023-08-02T17:06:27Z</published>
-    <updated>2023-08-02T17:06:27Z</updated>
-    <flickr:date_taken>2023-08-01T11:02:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-08-01T11:02:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jonhpics/"&gt;bigjon&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jonhpics/53089271304/" title="August 1st"&gt;&lt;img src="https://live.staticflickr.com/65535/53089271304_ceb66a7122_m.jpg" width="240" height="210" alt="August 1st" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Just what Balham needs - another bloody coffee shop to add to the 17 others.&lt;/p&gt;
-</content>
-    <author>
-      <name>bigjon</name>
-      <uri>https://www.flickr.com/people/jonhpics/</uri>
-      <flickr:nsid>13312382@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm9.staticflickr.com/8083/buddyicons/13312382@N00.jpg?1357301372#13312382@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53089271304_ceb66a7122_b.jpg"/>
-    <category term="august" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="london" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coffee" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blacksheep" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nationwide" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lostbank" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="balham" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gatewaytothesouth" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
