@@ -81,13 +81,13 @@
   metadata.push('By ' _ entry.author _ '.');
    END -%]
 [% IF entry.issued;
-  metadata.push('Published on ' _ '<span class="date">' _ entry.issued.strftime('%a %d %b %H:%M %Z') _ '</span>');
+  metadata.push('Published on ' _ '<span class="date">' _ entry.issued.strftime('%a %d %b %Y %H:%M %Z') _ '</span>');
    END -%]
 [% IF entry.modified AND ! entry.issued;
-  metadata.push('Updated on ' _ '<span class="date">' _ entry.modified.strftime('%a %d %b %H:%M %Z') _ '</span>');
+  metadata.push('Updated on ' _ '<span class="date">' _ entry.modified.strftime('%a %d %b %Y %H:%M %Z') _ '</span>');
    END -%]
 [% IF entry.modified AND entry.issued AND entry.modified.strftime('%Y%m%d%H%M') > entry.issued.strftime('%Y%m%d%H%M');
-  metadata.push('Updated on ' _ '<span class="date">' _ entry.modified.strftime('%a %d %b %H:%M %Z') _ '</span>');
+  metadata.push('Updated on ' _ '<span class="date">' _ entry.modified.strftime('%a %d %b %Y %H:%M %Z') _ '</span>');
    END -%]
 [% IF metadata.size -%]
     <p class="post-footer">[% metadata.join(' | ') %]</p>
